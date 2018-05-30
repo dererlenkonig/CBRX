@@ -1,0 +1,367 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by Tomatekh-->
+<GameData>
+	<Language_KO_KR>
+		<Row Tag="TXT_KEY_UNIT_VISIGOTHS_MOD_GADRAUHT">
+			<Text>가드라우트</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_UNIT_VISIGOTHS_MOD_GADRAUHT_TEXT">
+			<Text>고트족은 상비군이 없었으며, 대신 민병대 가드라우트에 의존했다. 이들은 일반적으로 찌르기용 창 또는 투척용 창과 방패로 무장했고, 몇몇은 칼과 활로 무장하기도 했다. 이 비무장 병사들은, 로마인들이 선호했던 엄격한 군대 대형들이 다루기에 힘든 것으로 입증 되었던 험한 지역에서의 혼전에서 특히 효과적이었다. 부족의 전성들을 따라 일반적으로 100명씩 조직되는,말 그래로 '100인의 무장병들', 즉 가드라우트는, 전세가 불리할 때 도망쳐야 하듯, 마지막 순간까지 싸워야 할 것 같은, 이런 총력전에서는 믿을만하지 못했다. 로마 도로망의 사용은 로마제국에 맞서는 알라리크 군대의 작전에는 위험했다. 로마 도로들을 따라 이동하며 알라리크의 군대는, 아드리아해를 끼고 있는 지역들을 유린했을 뿐만 아니라, 아퀼레이라와 크레모나 도시를 약탈할 수 있었다. 알라리크의 군대가 처음으로 로마를 보고 서기 408년 이 도시를 포위한것이 이 때였다. 서고트족은 서기 409년 로마를 다시 둘러쌌다. 마침내, 서기 410년 8월 24일. 알라리크와 그의 군대는 도시를 약탈했다.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_VISIGOTHS_MOD_GADRAUHT_HELP">
+			<Text>앞선에 있는 오직 고트족만이 생산할 수 있는 유닛입니다. 가드라우트는 도로를 제외한 시설을 약탈하고 나면 완전히 회복됩니다.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_VISIGOTHS_MOD_GADRAUHT_STRATEGY">
+			<Text>가드라우트는 고트족 고유 유닛으로, 검사를 대체합니다. 가드라우트는 도로를 제외한 시설을 약탈하고 나면 완전히 회복됩니다.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_VISIGOTHS_MOD_ENEMY_ROUTE">
+			<Text>익숙한 경로</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_VISIGOTHS_MOD_ENEMY_ROUTE_HELP">
+			<Text>적들의 도로를 당신의 것처럼 사용합니다.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_VISIGOTHS_MOD_HEAL_ON_PILLAGE">
+			<Text>건강한 약탈</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_VISIGOTHS_MOD_HEAL_ON_PILLAGE_HELP">
+			<Text>도로를 제외한 시설을 약탈하고 나면 완전히 회복됩니다.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_VISGOTHS_MOD_HOV">
+			<Text>호브</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_BUILDINGS_VISIGOTHS_MOD_HOV_TEXT">
+			<Text>호브는 지붕이 없고 울타리만 둘러진 건물로, 드넓은 고트족의 정착지에서는 더할 나위 없이 적합한 거주 형태였다. 호브에서는 고트족의 토속신앙에 따라 동물을 신에게 바치는 의식인 '블롯'이 거행되었다. 블롯은 독일계 드루이드들이 풍작이나 성공적인 사냥과 전쟁에서의 승리를 기원하는 거대한 잔치였다. 블롯에서는 희생 제물을 참수하는 의식이 행해졌는데, 미리나의 아가티아스는 고트전쟁(서기 535년~554년)동안, 고트족이 '말,소 및 수많은 다른 동물들을 참수했으며 이것은 종교의식이라 추측된다'고 기록했다. 부족에게 매우 큰 위협이 가해질 때 드루이드들은 동물뿐만 아니라 포로 또는 노예까지 호브에서 참수했다고 전해진다.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_VISIGOTHS_MOD_HOV_STRATEGY">
+			<Text>호브는 고트족만 생산 가능한 고유 건물입니다. 마구간을 대체합니다. 그것은 그 도시의 지상 유닛(단지 기마 유닛에 상반된)에 대한 생산성을 증가시키고, [ICON_RES_HORSE]말, [ICON_RES_SHEEP]양과 [ICON_RES_COW]가축 자원과 관련하여 부수적인 신앙이 있을 것으로 인정한다. 그러나, 그 도시는 그것이 세워지기 이전에, 적어도 이 자원들 중에 하나가 목초지와 함께 향상되도록 해야 한다.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_VISIGOTHS_MOD_HOV_HELP">
+			<Text>지상 유닛들을 생산할 시에[ICON_PRODUCTION]생산력 10% 향상. 이 도시에 의해 운영되는 [ICON_RES_HORSE]말, [ICON_RES_SHEEP]양, [ICON_RES_COW ]소의 각 자원이 +1신앙과 +1생산력을 생산하게 된다.[NEWLINE][NEWLINE]도시는 적어도 이 자원 들 중의 하나가 목초지와 함께 향상되도록 해야 한다.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_VISIGOTHS_MOD_DESC">
+			<Text>고트 왕국</Text>
+		</Row>
+		<Row Tag="TXT_KEY_VISIGOTHS_MOD_SHORT_DESC">
+			<Text>고트족</Text>
+			<Plurality>2</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_VISIGOTHS_MOD_ADJECTIVE">
+			<Text>고트족</Text>
+		</Row>
+		<Row Tag="TXT_KEY_VISIGOTHS_MOD">
+			<Text>고트족</Text>
+			<Plurality>2</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_VISIGOTHS_MOD_TITLE">
+			<Text>고트족</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_VISIGOTHS_MOD_HEADING_1">
+			<Text>역사</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_VISIGOTHS_MOD_TEXT_1">
+			<Text>고트족은 스칸디나비아 계통의 동유럽 부족이었으며, 서고트족과 동고트족으로 나뉘어 로마제국의 멸망에 중요한 역할을 했다. 언어와 풍습, 믿음이 같았음에도 동고트족과 서고트족은 서로 다른 중세 왕국을 세웠다. </Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_VISIGOTHS_MOD_HEADING_2">
+			<Text>기후와 지형</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_VISIGOTHS_MOD_TEXT_2">
+			<Text>고딕 문화는 그들의 기원인 스칸디나비아에서 비롯해서 동유럽을 거친 그들의 이주지로, 또 그들의 정복지인 로마제국과 이베리아까지 이르는 넓은 영역을 뒤덮었다. 스칸디나비아의 지리는 극도로 다양하다. 주목할만한 것은 노르웨이의 피오르드, 스칸디나비아의 산, 덴마크의 평평한 저지대, 스웨덴과 노르웨이의 다도해다. 스웨덴은 많은 호수와 빙하시대의 유산인 빙퇴석을 가지고 있다. 발칸반도는 북서쪽에서 남동쪽으로 뻗어있는 산들에 의해 걸쳐있다.[NEWLINE][NEWLINE]아드리아해와 다도해 안에서는 지중해성 기후가 나타난다. 흑해 해안에서는 습한 아열대와 해양성 기후가 나타나며, 내륙에서는 습한 대륙성 기후가 나타난다. 반도의 북쪽과 산 위에서, 여름이 매우 덥고 건조한 것과는 반대로, 겨울은 몹시 춥고 눈이 온다. 남쪽의 겨울은 북쪽의 겨울보다 더 온화하다. 이베리아는 주로 메세타 센트랄로 구성되어 있으며, 산의 범위에 의해서 고지대 평원이 둘러쌓이고 나누어진다. 다른 지형에는 좁은 해안을 따라 평원이 있으며 약간의 저지대 강과 계곡이 포함된다. 그것들 중 가장 유명한 것은 남서쪽의 안달루시아 평원이다.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_VISIGOTHS_MOD_HEADING_3">
+			<Text>스칸디나비아의 기원</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_VISIGOTHS_MOD_TEXT_3">
+			<Text>6세기 중반에 쓰여진 조르다네스의 '게티카'에 따르면, 최초의 이주하는 고트인들은 베릭왕 아래서 세 대의 배를 가지고 스칸드자로부터 항해를 시작했고 그들이 도달한 땅에 고티스칸드자라는 이름을 붙였다. 그곳으로부터 그들은 발틱해의 남해안을 따라 펼쳐져 있는 루기족의 땅에 들어섰으며 그들을 몰아내고 이웃의 반달족까지 정복했다. 고티스칸드자의 위치를 고려해서, 조르다네스는 "스페시스 지방의 섬에 사는 사람들은 비슬라 강의 얕은 물에 의해 둘러싸여진다"고 말했다.[NEWLINE][NEWLINE]발틱해의 남해안에 있는 고트족과 관련되었던 초기의 물질문화는 빌바크 문화였고, 이는 현대의 북쪽의 폴란드에 있는 포메라니아 지역에 중점을 두었다. 스칸디나비아인의 정착지가 오크시비의 문화와 츠레버스크 문화 사이의 완충지대에서 설립되었을 때, 이 문화는 1세기 동안이나 지역의 오크시비나 오스호프 문화를 대체했다.[NEWLINE][NEWLINE]고트 사람들은 이 시대의 마지막(기원전 300년)과 기원후 100년 사이에 발틱해를 건넜다고 믿어진다. 전통적인 스웬덴의 웨스테르예틀란드에 있는 초기의 고고학적 증거들은 일반적인 인구 분할이 이 시대에 일어났음을 나타낸다. 그러나, 이것은 더욱 최근의 발표에서 확인되지 않았다. 오늘날 폴란드의 정착민들은 스칸디나비아인과 스톤 서클과 돌비석과 같이 고틀란드의 섬과 남부 스웨덴의 다른 지역들에서 일반적이었던 매장 풍습에서 일치한다.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_VISIGOTHS_MOD_HEADING_4">
+			<Text>서고트족</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_VISIGOTHS_MOD_TEXT_4">
+			<Text>서고트족은 다키아에 정착해 로마인과 평화롭게 공존했으나 376년에 그들의 지도자가 비잔틴 황제 발렌스에게 훈족을 피해 다뉴브 강 이남으로 이주해달라고 요청했다. 이 조약은 395년 알라리크 1세가 서고트족의 왕좌를 차지할 때까지 유지되었다. 408년 로마군이 로마에 고용되어 싸우던 야만인 용병 약 30,000명의 가족을 몰살하는 사건이 일어났는데, 알라리크는 이에 즉각 선전포고를 하고 비잔틴 황제의 동의하에 이탈리아 반도를 침략했다. 군사적인 승리와 세 번의 포위공격 끝에 로마를 굴복시킨 알라리크는 410년 8월에 로마를 점령했다. 로마를 약탈한 알라리크는 이탈리아에 서고트왕국을 세웠다. 서고트족은 이후 100년 동안 꾸준히 영토를 확장했으며 결국 갈리아 남부와 이베리아반도 전체의 주인이 되었다. 툴루즈를 수도로 정한 서고트족은 이베리아에서 반달족을 몰아냈지만, 이탈리아에서는 영토를 잃었다. 507년 클로비스가 이끄는 프랑크군이 부이에전투에서 서고트족을 상대로 결정적인 승리를 거둠으로서 갈리아 지방을 빼앗았다. 서고트족은 이때부터 서서히 쇠퇴의 길에 접어들었다. 711년에 서고트족의 마지막 왕인 로더릭이 이베리아를 침략한 우마야드 왕조의 군대와 싸우다 전사했다.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_VISIGOTHS_MOD_HEADING_5">
+			<Text>동고트족</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_VISIGOTHS_MOD_TEXT_5">
+			<Text>동고트족의 역사는 비교적 단순했다. 남쪽으로 이주한 동고트족은 다뉴브 강과 드네프로 강 사이의 방대한 땅에 왕국을 세웠지만 인구는 그리 많지 않았다. 동고트족은 사르마트족, 제피드족, 다키안족을 포함한 고트 귀족이 지배했으며 소규모 켈트족과 슬라브족도 있었다. 훈족이 등장하자 동고트족은 곧 훈족에게 항복하고 군대를 제공했다. 동고트왕국은 451년에 벌어진 카탈루냐평원 전투에서 볼 수 있듯 아틸라가 유럽에서 얻은 중요한 속국이었다. 그러나 아틸라가 죽고 일어난 반란에서 테오데미르가 이끄는 동고트족은 3년 뒤 네다오에서 아틸라의 후계자를 몰아낸다. 454년은 테오도리쿠스 대왕이 태어난 해이다. 테오도리쿠스는 471년에 동고트왕국의 왕이 되었다. 즉위 20년 동안 테오도리쿠스는 이탈리아 반도 전체와 발칸 반도 일부를 지배했다. 그러나 그가 죽자 취약해진 동고트왕국을 비잔틴제국이 공격해 동고트의 왕 토틸라는 로마를 버리고 떠난다. 553년에 일러난 몬스락타리우스전투에서 토틸라의 잔여 세력은 죽거나 잡히거나 사형당했다. 살아남은 동고트인은 오스트리아로 후퇴해 그곳에 다시 정착한다. 이것으로 동고트왕국의 역사는 막을 내린다.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_VISIGOTHS_MOD_HEADING_6">
+			<Text>유산</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_VISIGOTHS_MOD_TEXT_6">
+			<Text>중세와 현대 스페인에서, 서고트족들은 스페인 귀족의 기원인 것으로 믿어졌다. 7세기 초반 무렵엔, 서고트족과 남미계 로마인 사이의 인종적 차이는 거의 사라졌지만, 예를 들어, 묘비 위에 고딕기원에 대한 인식을 남기는 것은 귀족들 사이에 여전히 살아 있었다. 7세기에, 서고트 귀족정치는 자신들을 특별한 고딕 의식을 간직한 사람들로 여겼고, 또한 자신들을 게르만인의 이름을 붙여주는 것과 같은 옛 전통을 수호하는 사람들로 여겼다. 남미계 로마인 귀족들은, 이미 5세기에 서고트족 귀족들을 위한 봉사를 행했고, 스페인 귀족정치의 두 갈래는 2세기 후에, 비슷한 관습 들을 완전히 받아 들였다. 오늘날, 스웨덴 학자들은 이것을 Gothicismus라 불리는 문화운동을오 인정하고 있고, 이 문화운동은 옛날의 노르웨이 다운 것들에 대한 열정이 담겨있다. </Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_VISIGOTHS_MOD_STATBOX">
+			<Text>[NEWLINE]        Leader: 알라리크[NEWLINE]        Unique Unit: 가드라우트[NEWLINE]        Unique Building: 호브[NEWLINE][NEWLINE]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_VISIGOTHS_MOD_FACTOID_HEADING">
+			<Text>고트인의 의사 사실</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_VISIGOTHS_MOD_FACTOID_TEXT">
+			<Text>비록 서고트족은 로마를 약탈했지만, 그들은 원주민들을 인도적으로 대우했으며 소수을 건물만 불태웠다. 기독교인들의 교회는 수탈당하지 않았으며 그 곳을 도피처로 삼은 수 천 명의 이교도들과 기독교도들의 보호를 허용했다.[NEWLINE][NEWLINE]고트어는 고트족이 사용했던 독일의 멸종 언어이다. 그것은 오늘날 4세기 성서 주역의 울필라 성서에서 처음 알려졌는데, 꽤 많은 분량의 문서 코피스로 이루어진 유일한 동독 언어이다. 버건디와 반달을 포함한 다른 모든 언어는, 가령, 역사적 평가에서 살아 남은 고유 명칭들에 불과할 뿐이며, 포르투칼어와 같은 다른 언어에서 차용 언어로만 남아 있다.[NEWLINE][NEWLINE]스페인에서는, 거만하게 행동하는 사람을 '아셴도세 로스 고도스', 스스로 고트 사람인 척 하다, 라고 부른다.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DAWN_OF_MAN_VISIGOTHS_MOD_TEXT">
+			<Text>로마의 침략자, 서고트족의 왕. 알라리크 만세! 당신의 백성들은 칼을 뽑아 위로 올리며 당신의 이름을 외치고 있습니다! 당신의 백성은 스칸디나비아 해변에 도래하여 유럽 전역에 흩어졌습니다. 동으로는, 동고트족이 훈족에 맞서서 성공적으로 반란을 일르켰습니다. 서쪽에서는, 서고트족이 이베리아를 정복했습니다. 영원한 도시조차 당신의 권능 앞에 무너졌습니다! 허나, 당신은 참된 지도자의 마음과 지혜마저 소유했기에, 의회와 노예들을 해방시켜 시민으로 친절히 대하도록 만들었습니다. 당신은 그들의 신에게 경의를 표하고 그들이 드려야 될 모든 제사를 허용했습니다. 그럼에도, 분열되고, 정복당하고, 잊혀져 고트인의 흔적은 세월 속에서 바래져 갔습니다.[NEWLINE][NEWLINE]위대하신 왕이여, 다시 한번 영광의 문명을 당신 앞에 세워 보십시오. 신흥 도시들이 드러나고, 그 탑들은 스스로 무너져 버렸습니다. 백성들의 숭고한 피가 당신께 울부짖습니다. 당신은 새로 얻은 이 부유를 당신의 것이라 주장하려하십니까? 당신이라면 세월에 시련에 굴복하지 않을 문명을 건설할 수 있으십니까?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_VISIGOTHS_MOD_ALARIC_DESC">
+			<Text>알라리크</Text>
+		</Row>
+		<Row Tag="TXT_KEY_VISIGOTHS_MOD_ALARIC_LIVED">
+			<Text>서기 370년~410년</Text>
+		</Row>
+		<Row Tag="TXT_KEY_VISIGOTHS_MOD_ALARIC_NAME">
+			<Text>알라리크 1세</Text>
+		</Row>
+		<Row Tag="TXT_KEY_VISIGOTHS_MOD_ALARIC_SUBTITLE">
+			<Text>고트족의 왕</Text>
+		</Row>
+		<Row Tag="TXT_KEY_VISIGOTHS_MOD_ALARIC_TITLES_1">
+			<Text>서고트족의 왕</Text>
+		</Row>
+		<Row Tag="TXT_KEY_VISIGOTHS_MOD_ALARIC_HEADING_1">
+			<Text>역사</Text>
+		</Row>
+		<Row Tag="TXT_KEY_VISIGOTHS_MOD_ALARIC_TEXT_1">
+			<Text>알라리크 1세는 서기 395년~410년 동안 서고트족의 왕이었다. 그는 서기 410년에 있었던 로마 약탈로 가장 유명한데, 이것은 로마 제국을 쇠락으로 이끈 데 결정적인 사건으로 남아 있다.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_VISIGOTHS_MOD_ALARIC_HEADING_2">
+			<Text>유년기</Text>
+		</Row>
+		<Row Tag="TXT_KEY_VISIGOTHS_MOD_ALARIC_TEXT_2">
+			<Text>현재 루마니아의 다뉴브 강 어귀 퓨스 섬에서, 서기 370 년에 태어난 알라리크는 테르빙얀 고트 족의 발티왕조의 귀족 혈통이었다. 이들이 훈족에 맞서다 좌절한 이후, 다뉴브 강을 건너는 고트족의 대이동과 이어지는 로마와의 전쟁이 있을동안, 알라리크는 어린 아이였을 것이다.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_VISIGOTHS_MOD_ALARIC_HEADING_3">
+			<Text>로마의 고용</Text>
+		</Row>
+		<Row Tag="TXT_KEY_VISIGOTHS_MOD_ALARIC_TEXT_3">
+			<Text>훈족의 전진을 마주하여, 서고트족은 로마 땅에 정착하는 권리를 위한 보조수단으로서 비잔틴에 대한 봉사를 시작했다. 젊은이 알라리크는 군대에 들어갔다. 서기 394년, 그는 아르보가스 반란군을 물리치는데, 제국을 돕기 위해 고트 군대를 이끌었다. 그 다음 해에 알라리크는 서고트족의 왕으로 선출되었다. 같은 해에, 알라리크의 후원자인 비잔틴의 황제 테오도리우스가 죽었다. 그의 제국에 대한 봉사와 서고트족의 왕으로서의 역할에도 불구하고, 알라리크는 이후에 제국의 직책을 다시 짜는데 있어서 무시되고 제외되었다. 테오도리우스의 죽음 직후에 알라리크는 동로마 제국을 공격했다. 그리스를 약탈하고, 서기 394년 콘스탄티노플의 성벽에 다다랐고, 그 이후 제국은 알라리크를 자율적인 군권을 갖는 최고군사령관으로 임명했다.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_VISIGOTHS_MOD_ALARIC_HEADING_4">
+			<Text>로마를 침략하다</Text>
+		</Row>
+		<Row Tag="TXT_KEY_VISIGOTHS_MOD_ALARIC_TEXT_4">
+			<Text>제국이 반으로 갈려 내전 위기에 몰린 407년. 알라리크는 서고트족 군대를 이끌고 줄리안 알프스를 넘어 로마 근교로 향했다. 굶주림에 못 이긴 로마 원로원은 결국 알라리크와 협상해야 했다. 알라리크는 로마 주변에 군대를 주둔시켰는데, 원로원이 협약을 파기하자 이 군대로 로마를 포위 공격했다. 이 공격 후 409년에 다시 협약을 맺었는데, 이때 알라리크는 로마 황제로 자신이 수족처럼 부릴 수 있는 이를 얹히고 북쪽으로 향했다.[NEWLINE][NEWLINE]하지만 그는 곧 로마로 되돌아와 꼭두각시 황제를 폐위하고 스스로 이탈리아의 왕이 되었다. 410년 8월, 서고트족이 포르토 살라리아를 뚫고 난입하자 알라리크는 로마 시민에게 놀라운 관용을 베풀었다. 기독교 교회를 약탈하지 않았으며 교회에 숨은 이교도와 기독교도를 보호했다.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_VISIGOTHS_MOD_ALARIC_HEADING_5">
+			<Text>죽음과 장례</Text>
+		</Row>
+		<Row Tag="TXT_KEY_VISIGOTHS_MOD_ALARIC_TEXT_5">
+			<Text>알라리크는 이 도시를 침공한 이후, 캘러브리아를 향해 남쪽으로 행진했다. 그는 아프리카를 침략하고 싶었다, 아프리카는 곡물 생산 덕분에 이탈리아를 거머 쥐는 열쇠였다. 하지만 폭풍이 그의 배를 산산조각 내어 그의 수많은 병사들이 익사하고 말았다. 알라리크는 얼마 후 코센자에서, 어쩌면 열병으로 40 세의 나이에 죽게 된다. 그의 시신은, 전설에 의하면 부센토 강어귀에 묻혀 있다고 전해진다. 부센토 강은 이 고트족 수장의 무덤을 파서 그의 진귀한 전리품들을 매장하는 동안 일시적으로 물길을 바꾸었었다. 그 작업이 완성되자, 강은 예전과 같은 수로를 되찾았고 노동력을 쏟아 부은 포로들은 죽임을 당했기 때문에 아무도 그 진실을 알아 낼 수 없을 것이다. 알라리크는 자신의 매형인 아타울프로부터 고트 군의 지취관을 인계 받았는데, 이 사람은 3 년 뒤 호노리우스의 여동생인 갈라 플라시디아와 결혼했다.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_VISIGOTHS_MOD_ALARIC_HEADING_6">
+			<Text>의사 사실</Text>
+		</Row>
+		<Row Tag="TXT_KEY_VISIGOTHS_MOD_ALARIC_TEXT_6">
+			<Text>394년에 알라리크는 로마제국 황제 테오도시우스 1세의 포데라티 군단장으로 유지니우스의 반란군의 토벌을 지휘했다. 이는 프리지두스의 전투로, 줄리안 알프스 산맥너머에서 치루어 졌다. 알라리크는 아마 이탈리아 동북쪽 아드리아해 전방의 취약한 방어지대를 인식하고 있었는지도 모른다.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_SACKER_OF_ROME_SHORT">
+			<Text>로마의 약탈자</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_SACKER_OF_ROME">
+			<Text>일반 보병유닛은 산업시대 이전까지 적의 도로를 이용할 수 있습니다. 외국의[ICON_CAPITAL]수도 혹은 도시를 점령하면[ICON_GOLDEN_AGE]황금기가 활성화 됩니다.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_VISIGOTHS_MOD_ARHEIMAR">
+			<Text>아르헤이마</Text>
+			<Gender>neuter:an</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_VISIGOTHS_MOD_GOTHISCANDZA">
+			<Text>고티스칸드자</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_VISIGOTHS_MOD_RAVENNA">
+			<Text>라벤나</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_VISIGOTHS_MOD_TOULOUSE">
+			<Text>툴루즈</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_VISIGOTHS_MOD_RECCOPOLIS">
+			<Text>레코폴리스</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_VISIGOTHS_MOD_VICTORIACUM">
+			<Text>빅토리아컴</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_VISIGOTHS_MOD_LUGO_ID_EST_LUCEO">
+			<Text>루코 이드 에스트 루시오</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_VISIGOTHS_MOD_OLOGICUS">
+			<Text>올로기커스</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_VISIGOTHS_MOD_BAIYARA">
+			<Text>바이야라</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_VISIGOTHS_MOD_TYRAS">
+			<Text>티라스</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_VISIGOTHS_MOD_OLBIA">
+			<Text>올비아</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_VISIGOTHS_MOD_TURDA">
+			<Text>투르다</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_VISIGOTHS_MOD_APULON">
+			<Text>아풀론</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_VISIGOTHS_MOD_TOLETUM">
+			<Text>톨레툼</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_VISIGOTHS_MOD_NOVAE">
+			<Text>노베이</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_VISIGOTHS_MOD_NARBO">
+			<Text>날보</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_VISIGOTHS_MOD_CORDUBA">
+			<Text>코르두바</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_VISIGOTHS_MOD_OIUM">
+			<Text>오이엄</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_VISIGOTHS_MOD_TYRIN">
+			<Text>티린</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_VISIGOTHS_MOD_SKUPI">
+			<Text>스쿠피</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_VISIGOTHS_MOD_OESCUS">
+			<Text>오스커스</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_VISIGOTHS_MOD_VERONA">
+			<Text>베로나</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_VISIGOTHS_MOD_SIRMUM">
+			<Text>서르뭄</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_VISIGOTHS_MOD_SINGIDUNUM">
+			<Text>싱기더넘</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_VISIGOTHS_MOD_PAVIA">
+			<Text>파비아</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_VISIGOTHS_MOD_TARRAGONA">
+			<Text>탈라고나</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_VISIGOTHS_MOD_SARAGOSSA">
+			<Text>사라고사</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_VISIGOTHS_MOD_MALAGA">
+			<Text>말라가</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_VISIGOTHS_MOD_PALENCIA">
+			<Text>발렌시아</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_VISIGOTHS_MOD_NURSIA">
+			<Text>누루시아</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_VISIGOTHS_MOD_FERVIR">
+			<Text>파비어</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_VISIGOTHS_MOD_HALLIN">
+			<Text>할린</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_VISIGOTHS_MOD_HERULER">
+			<Text>헤루러</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_VISIGOTHS_MOD_BERGIO">
+			<Text>바기오</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_VISIGOTHS_MOD_THEUSTES">
+			<Text>티우스테스</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_VISIGOTHS_MOD_VIMINACIUM">
+			<Text>비미네키움</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_VISIGOTHS_MOD_REMESIANA">
+			<Text>리메시아니아</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_VISIGOTHS_MOD_RATIARIA">
+			<Text>라티아리아</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_VISIGOTHS_MOD_MARCIANOPILIS">
+			<Text>마르키아노폴리스</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_VISIGOTHS_MOD_TOMI">
+			<Text>토미</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_VISIGOTHS_MOD_ISTROS">
+			<Text>이스트로스</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_VISIGOTHS_MOD_EUNIXI">
+			<Text>어닉시</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_VISIGOTHS_MOD_TAETEL">
+			<Text>테이텔</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_VISIGOTHS_MOD_RUGI">
+			<Text>루기</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_VISIGOTHS_MOD_AROCHI">
+			<Text>아로취</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_VISIGOTHS_MOD_RANII">
+			<Text>라니</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_VISIGOTHS_MOD_NICOPOLIS_AS_ISTRUM">
+			<Text>니코폴리스 에드 이스트럼</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_VISIGOTHS_MOD_0">
+			<Text>Ailwin</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_VISIGOTHS_MOD_1">
+			<Text>Baldric</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_VISIGOTHS_MOD_2">
+			<Text>Gamel</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_VISIGOTHS_MOD_3">
+			<Text>Masci</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_VISIGOTHS_MOD_4">
+			<Text>Savaric</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_VISIGOTHS_MOD_5">
+			<Text>Isolda</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_VISIGOTHS_MOD_6">
+			<Text>Estrilda</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_VISIGOTHS_MOD_7">
+			<Text>Sabelina</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_VISIGOTHS_MOD_8">
+			<Text>Sybilla</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_VISIGOTHS_MOD_9">
+			<Text>Golda</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VISIGOTHS_MOD_ALARIC_FIRST_GREETING_1">
+			<Text>안녕하시오 전사여! 나는 고트족의 알라리크. 굉장히 멋진 도시를 가지고 있군. 내가 '방문'해도 실례가 되지는 않을지...?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VISIGOTHS_MOD_ALARIC_FIRST_GREETING_2">
+			<Text>하나 말하자면, 그대보다도 더 위대한 국가들이 내게 멸망했으며, 굵은 건초일수록 더 베기 쉽다는 사실을 알아두시게.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VISIGOTHS_MOD_ALARIC_DEFEATED_1">
+			<Text>내 피가 그대의 검을 물들게 할지는 모르나.. 위대한 도시들도 결국 언젠가는 멸망한다는것을 명심하시게...</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VISIGOTHS_MOD_ALARIC_DEFEATED_2">
+			<Text>강 조차도 나의 죽음으로 그 흐름이 바뀌노니. 그대는 후세에 무엇을 남길 것인가...?</Text>
+		</Row>
+		<!-- -->
+		<Row Tag="TXT_KEY_GENERIC_VISIGOTHS_MOD_INFLUENTIAL_ON_AI_1">
+			<Text>Children are running around kicking sandcastles and toy towers as their parents claim descent from the "Noble Goths". I worry the rest of the world will also succumb to the influence of your culture.</Text>
+		</Row>
+		<!-- -->
+		<Row Tag="TXT_KEY_PMMM_LEADER_MG_NAME_VISIGOTHS_MOD_ALARIC">
+			<Text>Freyja</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<!-- -->
+		<Row Tag="TXT_KEY_EVENT_CULDEV_TOMATEKH_GOTHS_01">
+			<Text>The tradition of raising judge circles for the dead has been started in {1_City}.</Text>
+		</Row>
+		<!-- -->		
+	</Language_KO_KR>	
+</GameData>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<!--<Audio_Sounds>
+
+		--><!--Vaclave Peace Theme--><!--
+		<Row>
+			<SoundID>CZECH_MUSIC_THEME_PEACE</SoundID>
+			<Filename>KdeDomoMuj</Filename>
+			<LoadType>DynamicResident</LoadType>
+		</Row>
+		--><!--Vaclav War Theme--><!--
+		<Row>
+			<SoundID>CZECH_MUSIC_THEME_WAR</SoundID>
+			<Filename>TheBellsOfZlonice</Filename>
+			<LoadType>DynamicResident</LoadType>
+		</Row>
+	</Audio_Sounds>
+	<Audio_2DSounds>
+		<Row>
+			<ScriptID>AS2D_LEADER_MUSIC_HAVEL_PEACE</ScriptID>
+			<SoundID>CZECH_MUSIC_THEME_PEACE</SoundID>
+			<SoundType>GAME_MUSIC</SoundType>
+			<MinVolume>120</MinVolume>
+			<MaxVolume>120</MaxVolume>
+			<IsMusic>true</IsMusic>
+		</Row>
+		<Row>
+			<ScriptID>AS2D_LEADER_MUSIC_HAVEL_WAR</ScriptID>
+			<SoundID>CZECH_MUSIC_THEME_WAR</SoundID>
+			<SoundType>GAME_MUSIC</SoundType>
+			<MinVolume>80</MinVolume>
+			<MaxVolume>80</MaxVolume>
+			<IsMusic>true</IsMusic>
+		</Row>
+
+	</Audio_2DSounds>-->
+</GameData>

@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 4/1/2018 6:21:10 PM -->
+<GameData>
+	<UnitPromotions>
+		<Row>
+			<Type>PROMOTION_AIEN_AIN</Type>
+			<Description>TXT_KEY_AIEN_AIN</Description>
+			<Help>TXT_KEY_AIEN_AIN_HELP</Help>
+			<Sound>AS2D_IF_LEVELUP</Sound>
+			<OrderPriority>0</OrderPriority>
+			<HillsDoubleMove>True</HillsDoubleMove>
+			<RoughDefense>2</RoughDefense>
+			<PortraitIndex>0</PortraitIndex>
+			<IconAtlas>PROMOSELKNAM</IconAtlas>
+			<PediaType>PEDIA_SHARED</PediaType>
+			<PediaEntry>TXT_KEY_AIEN_AIN</PediaEntry>
+		</Row>
+		<Row>
+			<Type>PROMOTION_AIEN_AIN_II</Type>
+			<Description>TXT_KEY_AIEN_AIN_II</Description>
+			<Help>TXT_KEY_AIEN_AIN_HELP</Help>
+			<TechPrereq>TECH_BRONZE_WORKING</TechPrereq>
+			<Sound>AS2D_IF_LEVELUP</Sound>
+			<OrderPriority>0</OrderPriority>
+			<HillsDoubleMove>True</HillsDoubleMove>
+			<RoughDefense>3</RoughDefense>
+			<PromotionPrereqOr1>PROMOTION_AIEN_AIN</PromotionPrereqOr1>
+			<PortraitIndex>1</PortraitIndex>
+			<IconAtlas>PROMOSELKNAM</IconAtlas>
+			<PediaType>PEDIA_SHARED</PediaType>
+			<PediaEntry>TXT_KEY_AIEN_AIN_II</PediaEntry>
+		</Row>
+		<Row>
+			<Type>PROMOTION_AIEN_AIN_III</Type>
+			<Description>TXT_KEY_AIEN_AIN_III</Description>
+			<Help>TXT_KEY_AIEN_AIN_HELP</Help>
+			<Sound>AS2D_IF_LEVELUP</Sound>
+			<TechPrereq>TECH_MACHINERY</TechPrereq>
+			<OrderPriority>0</OrderPriority>
+			<HillsDoubleMove>True</HillsDoubleMove>
+			<RoughDefense>5</RoughDefense>
+			<RoughAttack>3</RoughAttack>
+			<PromotionPrereqOr1>PROMOTION_AIEN_AIN_II</PromotionPrereqOr1>
+			<ExperiencePercent>20</ExperiencePercent>
+			<PortraitIndex>2</PortraitIndex>
+			<IconAtlas>PROMOSELKNAM</IconAtlas>
+			<PediaType>PEDIA_SHARED</PediaType>
+			<PediaEntry>TXT_KEY_AIEN_AIN_III</PediaEntry>
+		</Row>
+	</UnitPromotions>
+
+	<Language_en_US>
+		<Row Tag="TXT_KEY_AIEN_AIN">
+			<Text>Aien-Ain (Father of War)</Text>
+		</Row>
+		<Row Tag="TXT_KEY_AIEN_AIN_HELP">
+			<Text>This special promotion increases defence in rough terrain, and allows double movement in hills.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_AIEN_AIN_II">
+			<Text>Noble Aien-Ain</Text>
+		</Row>
+		<Row Tag="TXT_KEY_AIEN_AIN_III">
+			<Text>Grand Aien-Ain</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

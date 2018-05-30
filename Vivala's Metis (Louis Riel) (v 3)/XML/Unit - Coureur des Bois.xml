@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+  <Units>
+    <Row>
+      <Type>UNIT_VIVALA_COUREUR_DES_BOIS</Type>
+      <Description>TXT_KEY_UNIT_VIVALA_COUREUR_DES_BOIS</Description>
+      <Civilopedia>TXT_KEY_CIVILOPEDIA_UNITS_MEDIEVAL_VIVALA_COUREUR_DES_BOIS_TEXT</Civilopedia>
+      <Strategy>TXT_KEY_UNIT_VIVALA_COUREUR_DES_BOIS_STRATEGY</Strategy>
+      <Help>TXT_KEY_UNIT_HELP_VIVALA_COUREUR_DES_BOIS</Help>
+      <Requirements></Requirements>
+      <Combat>24</Combat>
+      <RangedCombat>0</RangedCombat>
+      <Cost>150</Cost>
+      <FaithCost>300</FaithCost>
+      <RequiresFaithPurchaseEnabled>1</RequiresFaithPurchaseEnabled>
+      <PurchaseOnly>0</PurchaseOnly>
+      <MoveAfterPurchase>0</MoveAfterPurchase>
+      <Moves>2</Moves>
+      <Immobile>0</Immobile>
+      <Range>0</Range>
+      <BaseSightRange>2</BaseSightRange>
+      <Class>UNITCLASS_MUSKETMAN</Class>
+      <Special></Special>
+      <Capture></Capture>
+      <CombatClass>UNITCOMBAT_GUN</CombatClass>
+      <Domain>DOMAIN_LAND</Domain>
+      <CivilianAttackPriority></CivilianAttackPriority>
+      <DefaultUnitAI>UNITAI_ATTACK</DefaultUnitAI>
+      <Food>0</Food>
+      <NoBadGoodies>0</NoBadGoodies>
+      <RivalTerritory>0</RivalTerritory>
+      <MilitarySupport>1</MilitarySupport>
+      <MilitaryProduction>1</MilitaryProduction>
+      <Pillage>1</Pillage>
+      <PillagePrereqTech></PillagePrereqTech>
+      <Found>0</Found>
+      <FoundAbroad>0</FoundAbroad>
+      <CultureBombRadius>0</CultureBombRadius>
+      <GoldenAgeTurns>0</GoldenAgeTurns>
+      <FreePolicies>0</FreePolicies>
+      <OneShotTourism>0</OneShotTourism>
+      <OneShotTourismPercentOthers>0</OneShotTourismPercentOthers>
+      <IgnoreBuildingDefense>1</IgnoreBuildingDefense>
+      <PrereqResources>0</PrereqResources>
+      <Mechanized>0</Mechanized>
+      <Suicide>0</Suicide>
+      <CaptureWhileEmbarked>0</CaptureWhileEmbarked>
+      <PrereqTech>TECH_GUNPOWDER</PrereqTech>
+      <ObsoleteTech>TECH_RIFLING</ObsoleteTech>
+      <GoodyHutUpgradeUnitClass>UNITCLASS_RIFLEMAN</GoodyHutUpgradeUnitClass>
+      <HurryCostModifier>0</HurryCostModifier>
+      <AdvancedStartCost>25</AdvancedStartCost>
+      <MinAreaSize>-1</MinAreaSize>
+      <AirInterceptRange>0</AirInterceptRange>
+      <AirUnitCap>0</AirUnitCap>
+      <NukeDamageLevel>-1</NukeDamageLevel>
+      <WorkRate>0</WorkRate>
+      <NumFreeTechs>0</NumFreeTechs>
+      <BaseBeakersTurnsToCount>0</BaseBeakersTurnsToCount>
+      <BaseCultureTurnsToCount>0</BaseCultureTurnsToCount>
+      <RushBuilding>0</RushBuilding>
+      <BaseHurry>0</BaseHurry>
+      <HurryMultiplier>0</HurryMultiplier>
+      <BaseGold>0</BaseGold>
+      <NumGoldPerEra>0</NumGoldPerEra>
+      <SpreadReligion>0</SpreadReligion>
+      <RemoveHeresy>0</RemoveHeresy>
+      <ReligionSpreads>0</ReligionSpreads>
+      <ReligiousStrength>0</ReligiousStrength>
+      <FoundReligion>0</FoundReligion>
+      <RequiresEnhancedReligion>0</RequiresEnhancedReligion>
+      <ProhibitsSpread>0</ProhibitsSpread>
+      <CanBuyCityState>0</CanBuyCityState>
+      <CombatLimit>100</CombatLimit>
+      <RangeAttackOnlyInDomain>0</RangeAttackOnlyInDomain>
+      <RangeAttackIgnoreLOS>0</RangeAttackIgnoreLOS>
+      <Trade>0</Trade>
+      <NumExoticGoods>0</NumExoticGoods>
+      <PolicyType></PolicyType>
+      <RangedCombatLimit>0</RangedCombatLimit>
+      <XPValueAttack>3</XPValueAttack>
+      <XPValueDefense>3</XPValueDefense>
+      <SpecialCargo></SpecialCargo>
+      <DomainCargo></DomainCargo>
+      <Conscription>4</Conscription>
+      <ExtraMaintenanceCost>0</ExtraMaintenanceCost>
+      <NoMaintenance>0</NoMaintenance>
+      <Unhappiness>0</Unhappiness>
+      <UnitArtInfo>ART_DEF_UNIT_MUSKETMAN</UnitArtInfo>
+      <UnitArtInfoCulturalVariation>0</UnitArtInfoCulturalVariation>
+      <UnitArtInfoEraVariation>0</UnitArtInfoEraVariation>
+      <ProjectPrereq></ProjectPrereq>
+      <SpaceshipProject></SpaceshipProject>
+      <LeaderPromotion></LeaderPromotion>
+      <LeaderExperience>0</LeaderExperience>
+      <DontShowYields>0</DontShowYields>
+      <ShowInPedia>1</ShowInPedia>
+      <MoveRate>BIPED</MoveRate>
+      <UnitFlagIconOffset>0</UnitFlagIconOffset>
+      <PortraitIndex>2</PortraitIndex>
+      <IconAtlas>VIVALA_METIS_ATLAS</IconAtlas>
+      <UnitFlagAtlas>VIVALA_COUREUR_FLAG</UnitFlagAtlas>
+    </Row>
+  </Units>
+
+  <Unit_AITypes>
+    <Row>
+      <UnitType>UNIT_VIVALA_COUREUR_DES_BOIS</UnitType>
+      <UnitAIType>UNITAI_ATTACK</UnitAIType>
+    </Row>
+    <Row>
+      <UnitType>UNIT_VIVALA_COUREUR_DES_BOIS</UnitType>
+      <UnitAIType>UNITAI_DEFENSE</UnitAIType>
+    </Row>
+    <Row>
+      <UnitType>UNIT_VIVALA_COUREUR_DES_BOIS</UnitType>
+      <UnitAIType>UNITAI_EXPLORE</UnitAIType>
+    </Row>
+  </Unit_AITypes>
+  <!-- Unit_Buildings -->
+  <!-- Unit_BuildingClassRequireds -->
+  <!-- Unit_ProductionModifierBuildings -->
+  <!-- Unit_Builds -->
+  <Unit_ClassUpgrades>
+    <Row>
+      <UnitType>UNIT_VIVALA_COUREUR_DES_BOIS</UnitType>
+      <UnitClassType>UNITCLASS_RIFLEMAN</UnitClassType>
+    </Row>
+  </Unit_ClassUpgrades>
+	<Unit_FreePromotions>
+		<Row>
+			<UnitType>UNIT_VIVALA_COUREUR_DES_BOIS</UnitType>
+			<PromotionType>PROMOTION_AMPHIBIOUS</PromotionType>
+		</Row>
+		<Row>
+			<UnitType>UNIT_VIVALA_COUREUR_DES_BOIS</UnitType>
+			<PromotionType>PROMOTION_VIVALA_COUREUR_OUTSIDE_FRIENDLY</PromotionType>
+		</Row>
+	</Unit_FreePromotions>
+  <Unit_Flavors>
+    <Row>
+      <UnitType>UNIT_VIVALA_COUREUR_DES_BOIS</UnitType>
+      <FlavorType>FLAVOR_OFFENSE</FlavorType>
+      <Flavor>8</Flavor>
+    </Row>
+    <Row>
+      <UnitType>UNIT_VIVALA_COUREUR_DES_BOIS</UnitType>
+      <FlavorType>FLAVOR_DEFENSE</FlavorType>
+      <Flavor>7</Flavor>
+    </Row>
+	  <Row>
+		  <UnitType>UNIT_VIVALA_COUREUR_DES_BOIS</UnitType>
+		  <FlavorType>FLAVOR_RECON</FlavorType>
+		  <Flavor>8</Flavor>
+	  </Row>
+  </Unit_Flavors>
+  <!-- Unit_GreatPersons -->
+  <!-- Unit_ResourceQuantityRequirements -->
+  <!-- Unit_UniqueNames -->
+  <!-- Unit_YieldFromKills -->
+  <!-- Unit_NotAITypes -->
+  <!-- Unit_ProductionTraits -->
+  <!-- Unit_TechTypes -->
+  <!-- UnitPromotions_CivilianUnitType -->
+  <UnitGameplay2DScripts>
+    <Row>
+      <UnitType>UNIT_VIVALA_COUREUR_DES_BOIS</UnitType>
+      <SelectionSound>AS2D_SELECT_MUSKETMAN</SelectionSound>
+      <FirstSelectionSound>AS2D_BIRTH_MUSKETMAN</FirstSelectionSound>
+    </Row>
+  </UnitGameplay2DScripts>
+
+  <Language_en_US>
+    <Row Tag="TXT_KEY_UNIT_VIVALA_COUREUR_DES_BOIS">
+      <Text>Coureur des Bois</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CIVILOPEDIA_UNITS_MEDIEVAL_VIVALA_COUREUR_DES_BOIS_TEXT">
+      <Text>Coureurs des Bois (French for "runners of the woods") were independent fur traders who operated in New France and the North American interior primarily in the 17th Century. They traveled across the continent both on foot and by canoe, navigating through a mix of old world techniques and expertise gathered from the native peoples. Over time, through the practice of marriage à la façon du pays, Coureurs des Bois began to mix into native societies, leading to the emergence of the Métis people. In the late 17th and early 18th Century, the French shifted away from independent traders and towards state-sanctioned, licensed traders known as voyageurs. While the move to voyageurs effectively eliminated the Coureurs des Bois, their has persisted to this day as a mythological symbol of Canada.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_UNIT_VIVALA_COUREUR_DES_BOIS_STRATEGY">
+      <Text>The Coureur des Bois is the Métis unique unit, replacing the Musketman. It receives powerful bonues to combat and movement both from being outside friendly territory and starting next to rivers, making it incredibly useful for offense, defense, and recon. Send your Coureurs des Bois rushing up an opponent's rivers for a quick and brutal attack. Set them up just outside your territory to make your borders pratically impassable to all foes, particularly by river. Or take advantage of open borders agreements by using them to quickly survey your opponents' lands.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_UNIT_HELP_VIVALA_COUREUR_DES_BOIS">
+      <Text>One of the first gunpowder units of the game. Only the Métis may build it. Replaces the Musketman. This Unit starts with the Amphibious promotion. While outside of friendly territory, it gains +15% [ICON_STRENGTH] Combat Strength and ignores terrain cost. When next to a river, it gains +15% [ICON_STRENGTH] Defensive Strength, and gains +1 [ICON_MOVES] Movement for that turn if it started next to a river.</Text>
+    </Row>
+  </Language_en_US>
+</GameData>

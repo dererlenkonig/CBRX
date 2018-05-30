@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by Pouakai-->
+<GameData>
+	<Buildings>
+		<Row>
+			<Type>BUILDING_MC_LITE_NUBIA_PRODUCTION</Type>
+			<BuildingClass>BUILDINGCLASS_MC_LITE_NUBIA_PRODUCTION</BuildingClass>
+			<Description>TXT_KEY_BUILDING_MC_LITE_NUBIA_PRODUCTION</Description>
+			<Cost>-1</Cost>
+			<PrereqTech>NULL</PrereqTech>
+			<GreatWorkCount>-1</GreatWorkCount>
+			<FaithCost>-1</FaithCost>
+		</Row>
+		<Row>
+			<Type>BUILDING_MC_LITE_NUBIA_WONDERS</Type>
+			<BuildingClass>BUILDINGCLASS_MC_LITE_NUBIA_WONDERS</BuildingClass>
+			<Description>TXT_KEY_BUILDING_MC_LITE_NUBIA_WONDERS</Description>
+			<Cost>-1</Cost>
+			<GoldenAgeModifier>10</GoldenAgeModifier>
+			<PrereqTech>NULL</PrereqTech>
+			<GreatWorkCount>-1</GreatWorkCount>
+			<FaithCost>-1</FaithCost>
+		</Row>
+	</Buildings>
+	<Building_YieldModifiers>
+		<Row>
+			<BuildingType>BUILDING_MC_LITE_NUBIA_PRODUCTION</BuildingType>
+			<YieldType>YIELD_PRODUCTION</YieldType>
+			<Yield>10</Yield>
+		</Row>
+	</Building_YieldModifiers>
+	<BuildingClasses>
+		<Row>
+			<Type>BUILDINGCLASS_MC_LITE_NUBIA_PRODUCTION</Type>
+			<DefaultBuilding>BUILDING_MC_LITE_NUBIA_PRODUCTION</DefaultBuilding>
+		</Row>
+		<Row>
+			<Type>BUILDINGCLASS_MC_LITE_NUBIA_WONDERS</Type>
+			<DefaultBuilding>BUILDING_MC_LITE_NUBIA_WONDERS</DefaultBuilding>
+		</Row>
+	</BuildingClasses>
+</GameData>

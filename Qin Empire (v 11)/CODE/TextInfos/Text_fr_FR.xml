@@ -1,0 +1,279 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<Language_fr_FR>
+	<!-- QIN tags -->
+		<Row Tag="TXT_KEY_X_TRAIT_UNITY_SHORT">
+			<Text>La Grande Union</Text>
+		</Row>
+		<Row Tag="TXT_KEY_X_TRAIT_UNITY">
+			<Text>Après avoir capturé une [ICON_CAPITAL] Capitale étrangère, les villes avec le bâtiment standard acquièrent le bâtiment unique de cette Civilization et les unités standards sont aussi converties en l'unité spéciale de cette Civilization.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_X_CIV5_DAWN_QIN_TEXT">
+			<Text>O, grand empereur Ying Zheng, connu comme le premier empereur de l'Empire chinois, Qin Shi Huang, votre peuple s'agenouille devant votre triomphe, et tremble aussi devant votre tyrannie.[NEWLINE][NEWLINE]Né héritier du roi du puissant Etat de Qin durant la période des Royaumes Combattants, vous avez fait usage de sa supériorité militaire et politique sur les autres États. Suivirent vos victoires sur le champ de bataille, qui furent un exploit extraordinaire en abattant six autres Etats puissants à la même époque, puis vous avez amené l'ancienne et fragmentée Chine à une nouvelle étape d'une grande unité. Et vous, honoré par votre peuple et béni par Dieu, êtes devenu le glorieux empereur de Chine, pour la première fois à travers l'histoire. Pendant votre règne, votre adoption de la Pensée Légaliste, des caractères uniformes, des poids et des mesures universelles ont consolidé la nation et ont laissé un patrimoine culturel précieux pour la postérité. Bien que votre empire soit tombé très rapidement après l'unité en raison de l'esclavage immodéré du peuple, et de celui-ci jetant le blâme sur votre tyrannie, votre triomphe et votre puissant vivront longtemps dans les poèmes et la littérature.[NEWLINE][NEWLINE]Grand empereur, vos gens sont confrontés à de nouveaux défis dans une ère nouvelle, et ils se tournent vers vous dans la crainte, en espérant que vous les amenerez à vaincre, et rendre sa gloire passée à cette terre ancienne. Voulez-vous recommencer? Voulez-vous construire une civilization qui résiste à l'épreuve du temps?</Text>
+		</Row>
+		
+	<!-- QIN Civilization tags -->
+		<Row Tag="TXT_KEY_CIV_QIN_DESC">
+			<Text>Qin Empire</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_QIN_SHORT_DESC">
+			<Text>Qin</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_QIN_ADJECTIVE">
+			<Text>Qin</Text>
+		</Row>
+		
+	<!-- Ying Zheng tags -->
+		<Row Tag="TXT_KEY_X_LEADER_YINGZHENG">
+			<Text>Ying Zheng</Text>
+		</Row>
+		<Row Tag="TXT_KEY_X_CIVILOPEDIA_LEADER_YINGZHENG">
+			<Text>Le Premier Empereur de Chine</Text>
+		</Row>
+		<Row Tag="TXT_KEY_X_LEADER_YINGZHENG_PEDIA">
+			<Text>Qin Shi Huang (260-210 av JC), de son nom de naissance Ying Zheng, était le roi de l'état de Qin (r. 246-221 BC) qui a conquis tous les autres États Combattants et uni la Chine en 221 av. Plutôt que de maintenir le titre de roi porté par les dirigeants Shang et Zhou, il a régné comme premier empereur de la dynastie Qin de 220 à 210 av JC. Le titre empereur (huangdi) continuera à être porté par les dirigeants chinois pour les deux prochains millénaires. [NEWLINE][NEWLINE]Au cours de son règne, ses généraux ont considérablement élargi la taille de l'État chinois: campagnes au sud de Chu ajoutant de façon permanente les terres Yue du Hunan et du Guangdong à l'orbite culturelle chinoise; campagnes en Asie centrale conquérant la Boucle Ordos des mains des nomades Xiongnu, bien que causant ensuite leur confédération sous Modu Chanyu. Qin Shi Huang a également travaillé avec son ministre Li Si afin d'adopter d'importantes réformes économiques et politiques visant à la normalisation des diverses pratiques des Etats chinois précédents. Ce processus a également conduit à l'interdiction et l'autodafé de nombreux livres et l'exécution des savants récalcitrants. Ses projets de travaux publics comptent notamment l'unification des murs des divers états en une seule Grande Muraille de Chine et un nouveau système routier national massif, ainsi que le mausolée de la taille d'une ville gardée par l'armée en terre cuite grandeur nature. Il a régné jusqu'à sa mort, survenue en 210 avant JC, malgré une recherche fameuse d'un élixir d'immortalité. </Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_X_CIVILOPEDIA_LEADER_YINGZHENG_NAME">
+			<Text>Ying Zheng</Text>
+		</Row>
+		<Row Tag="TXT_KEY_X_CIVILOPEDIA_LEADER_YINGZHENG_TITLES_1">
+			<Text>Qin Shi Huang</Text>
+		</Row>
+		<Row Tag="TXT_KEY_X_CIVILOPEDIA_LEADER_YINGZHENG_SUBTITLE">
+			<Text>Le Premier Empereur de Qin</Text>
+		</Row>
+		<Row Tag="TXT_KEY_X_CIVILOPEDIA_LEADER_YINGZHENG_LIVED">
+			<Text>260 - 210 avant JC</Text>
+		</Row>
+		<Row Tag="TXT_KEY_X_CIVILOPEDIA_LEADER_YINGZHENG_TEXT_1">
+			<Text>Les sources chinoises modernes donnent souvent le nom personnel de Qin Shi Huang comme étant Ying Zheng, avec Ying pris comme nom de famille et Zheng le prénom. Mais la convention de dénomination dans la Chine ancienne était différente, et Zhao peut être utilisé comme nom de famille. Contrairement aux noms chinois modernes, les nobles de la Chine antique avaient deux noms distincts: le nom ancestral porté par un plus grand groupe descendait d'un ancêtre de premier plan, généralement connu pour avoir vécu pendant le temps des Trois Souverains et Cinq Empereurs de la légende chinoise, et le nom de clan porté par un petit groupe et qui montrait le fief actuel d'une branche ou un titre récent. La pratique ancienne était de lister les noms d'hommes séparément, et dans les "Annales de base du premier empereur de Qin", Sima Qian le présente comme "donné le nom Zheng et le nom de famille Zhao", ou de combiner le nom de famille du clan avec le nom personnel. Le callendrier de Sima de Chu décrit la seizième année du règne du roi Kaolie comme le moment où Zhao Zheng a été intronisé comme "roi de Qin". Cependant, étant donné que les noms de famille chinois modernes (malgré qu'ils descendent généralement des noms de clan) utilisent le même caractère que les anciens noms ancestraux, il est beaucoup plus fréquent dans les sources chinoises modernes de voir le nom personnel de l'empereur écrit Ying Zheng, en utilisant le nom ancestral de la famille Ying. [NEWLINE][NEWLINE]Les dirigeants de Qin se proclamèrent rois à l'époque du roi Huiwen en 325 avant JC. Lors de son ascension, Zheng est devenu connu comme le roi de Qin ou le roi Zheng de Qin. Ce titre a fait de lui l'égal des chefs de Shang et de Zhou, le dernier des rois qui avait été déposés par le roi Zhaoxiang de Qin en 256 av. [NEWLINE][NEWLINE]Après la reddition de Qi en 221 avant JC, le roi Zheng avait réuni toutes les terres de l'ancien royaume de Zhou. Plutôt que de maintenir son rang en tant que roi, cependant, il a créé un nouveau titre de Huangdi (Empereur) pour lui-même. Ce nouveau titre combinait deux titres - huáng des mythiques Trois Souverains (Sān Huáng) et le dì des légendaires Cinq Empereurs (Wŭ Dì) de la préhistoire chinoise. Le titre était destiné à récupérer une partie du prestige de l'Empereur Jaune, dont le culte était populaire dans la dernière période des Royaumes combattants, et qui a été considéré comme l'un des fondateurs du peuple chinois. Le Roi Zheng a choisi le nouveau nom regnal du premier empereur (shǐ Huangdi, anciennement transcrit comme Shih Huang-ti), étant entendu que ses successeurs seraient intitulés successivement le "Second Empereur", "Troisième empereur", et ainsi de suite à travers les générations. (En fait, le régime a duré aussi longtemps que son héritier immédiat, le deuxième empereur.) Le nouveau titre portait donc des connotations religieuses. Pour cette raison les sinologues, en commençant par Peter Boodberg ou Edward Schafer, traduisirent parfois huangdi en "Thearch" et le Premier Empereur comme le Premier Thearch. [NEWLINE][NEWLINE] Le Premier Empereur avait prévu que son empire resterait intact à travers les âges, mais, après son renversement et son remplacement par Han après sa mort, il est devenu coutumier de faire précéder son titre avec Qin. [NEWLINE][NEWLINE]Le Premier Empereur s'était aussi arrogé le pronom de la première personne Chinois (Vieux Chinois: lrəm’, moderne: zhèn) pour son usage exclusif et en 212 avant JC commencé à s'appeler lui-même L'Immortel (Vieux Chinois: Tin-Nin, moderne:  Zhenren , littéralement "L'Homme Vrai"). Les autres devaient s'adresser à lui par "Votre Majesté" (moderne Bixia, littéralement "Dont je suis l'inférieur") en personne et «Votre Altesse» par écrit.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_X_CIVILOPEDIA_LEADER_YINGZHENG_HEADING_1">
+			<Text>Résumé de sa vie</Text>
+		</Row>
+		
+	<!-- Qin CityNames tags -->
+		<Row Tag="TXT_KEY_CITY_NAME_X_XIANYANG">
+			<Text>Xianyang</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_X_JIANGZHOU">
+			<Text>Jiangzhou</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_X_NANZHENG">
+			<Text>Nanzheng</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_X_CHENGDU">
+			<Text>Chengdu</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_X_ANYI">
+			<Text>Anyi</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_X_DIDAO">
+			<Text>Didao</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_X_YIQU">
+			<Text>Yiqu</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_X_JIANGLING">
+			<Text>Jiangling</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_X_WANXIAN">
+			<Text>Wanxian</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_X_CHANGZI">
+			<Text>Changzi</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_X_LUOYANG">
+			<Text>Luoyang</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_X_JINYANG">
+			<Text>Jinyang</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_X_PUYANG">
+			<Text>Puyang</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_X_YUNZHONG">
+			<Text>Yunzhong</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_X_SHANWU">
+			<Text>Shanwu</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_X_YANGDI">
+			<Text>Yangdi</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_X_HANDAN">
+			<Text>Handan</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_X_JULU">
+			<Text>Julu</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_X_JUYANG">
+			<Text>Juyang</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_X_YUYANG">
+			<Text>Yuyang</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_X_WUZHONG">
+			<Text>Wuzhong</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_X_YANGYUE">
+			<Text>Yangyue</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_X_SUIYANG">
+			<Text>Suiyang</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_X_XIANGXIAN">
+			<Text>Xiangxian</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_X_LUXIAN">
+			<Text>Luxian</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_X_SHOUCHUN">
+			<Text>Shouchun</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_X_XIANGPING">
+			<Text>Xiangping</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_X_DAIXIAN">
+			<Text>Daixian</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_X_WUXIAN">
+			<Text>Wuxian</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_X_LINXIANG">
+			<Text>Linxiang</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_X_LINZI">
+			<Text>Linzi</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_X_LANGYA">
+			<Text>Langya</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_X_LINYUAN">
+			<Text>Linyuan</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_X_JIXIAN">
+			<Text>Jixian</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_X_CHENXIAN">
+			<Text>Chenxian</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_X_DONGYE">
+			<Text>Dongye</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_X_PANYU">
+			<Text>Panyu</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_X_GUILIN">
+			<Text>Guilin</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_X_LINCHEN">
+			<Text>Linchen</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_X_JIUYUAN">
+			<Text>Jiuyuan</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_X_TANXIAN">
+			<Text>Tanxian</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_X_DONGYUAN">
+			<Text>Dongyuan</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_X_BOYANG">
+			<Text>Boyang</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_X_JIMO">
+			<Text>Jimo</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_X_HUAIXIAN">
+			<Text>Huaixian</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_X_ZHUXIAN">
+			<Text>Zhuxian</Text>
+		</Row>
+		
+	<!-- Unit tags -->
+		<Row Tag="TXT_KEY_X_UNIT_QINNU">
+			<Text>Qin Nu</Text>
+		</Row>
+		<Row Tag="TXT_KEY_X_UNIT_QINNU_HELP">
+			<Text>Le Qin Nu remplace l'archer composite. La vitesse des flèches lancées par ce type d'arbalète est bien plus grande que les arcs ordinaires. Il commence avec la Promotion "Logistique" et est plus fort contre les villes, mais doit se préparer avant d'attaquer. Seul le Royaume de Qin peut le construire.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_X_CIV5_QINNU_HEADING">
+			<Text>Qin Nu</Text>
+		</Row>
+		<Row Tag="TXT_KEY_X_CIV5_QINNU_TEXT">
+			<Text>Qin Nu est une arme impressionnante et puissante de l'armée Qin. La vitesse de la flèche lancée à partir de ce genre d'arbalète est plusieurs fois supérieure à celle tirée par un arc classique. [NEWLINE][NEWLINE]La première preuve d'arbalète dans la Chine ancienne et les peuples voisins remonte au moins au 6e siècle avant JC. selon Sir Joseph Needham dans sa Science et Civilisation en Chine, il est impossible de dire lequel des peuples d'Asie orientale a inventé l'arbalète. Linguistiquement, il vient de l'extérieur de la Chine par leurs voisins, qui ont souvent été embauché comme tireurs mercenaires, tandis que les premières traces et découvertes sont en provenance de Chine. Cependant, il existe des preuves incontestables qu'il a été utilisé à des fins militaires pendant la période des Royaumes combattants de la seconde moitié du 4e siècle av. JC [NEWLINE][NEWLINE]Des carreaux d'arbalète de bronze datant d'aussi ancien que le milieu du 5ème siècle avant JC ont été trouvés dans un royaume de Chu, dans le lieu de sépulture de Yutaishan, à Hubei. Les premières arbalètes à déclencheur en bronze, datant du 6ème siècle avant JC, viennent des Tombes 3 et 12 trouvées à Qufu, à Shandong, capitale de l'État de Lu. D'autres découvertes précoces d'arbalètes ont été faites dans la tombe 138 de Saobatang, à Hunan, datées du milieu du 4ème siècle avant JC. la répétition des arbalètes, d'abord mentionné dans les Actes des Trois Royaumes , ont été découvertess en 1986 dans la tombe 47 à Qinjiazui, à Hubei, et datée autour du 4ème siècle avant JC. Le premier document chinois mentionnant une arbalète se trouve dans les écrits du 4e et 3e siècles avant JC, attribué aux adeptes de Mozi. Cette source se réfère à l'utilisation d'une arbalète géante dans le 6ème ou 5ème avant JC, correspondant à la fin de la Période du Printemps et de l'Automne. Le célèbre ouvrage de Sun Tzu "The Art of War" (première apparition entre 500 avant JC à 300 avant JC) fait référence au chapitre V aux traits et au XII à l'utilisation des arbalètes. Un des premiers enregistrements fiables de cette arme sur un champ de bataille est celle d'une embuscade, la bataille de Ma-Ling en 341 avant JC. En 200 avant JC, l'arbalète (pinyin: nǔ) a été bien développée et très largement utilisé en Chine. [NEWLINE][NEWLINE] La preuve textuelle la plus ancienne de l'arbalète de poche utilisée dans les batailles date du 4e siècle av. JC. Des arbalètes de poche avec des mécanismes de déclenchement complexes en bronze ont également été trouvés avec l'armée de terre cuite dans la tombe de Qin Shihuang (r. 221-210 BC), et sont semblables à des spécimens de la dynastie Han subséquente (202 BC-220 AD). Tandis que les arbalétriers décrits dans les dynastie Qin et Han ont appris des formations militaires poussées, certains ont même été monté comme des unités de cavalerie, et les écrivains de la dynastie Han ont attribué le succès de nombreuses batailles contre les Xiongnu à des volées d'arbalète massives. Les déclencheurs de bronze ont été conçus de manière à ce qu'ils soient en mesure de stocker une grande quantité d'énergie au sein de l'arc quand il est tendu, mais fut facilement relaché avec peu de recul quand la gâchette était actionnée (ce qui a permis du tir de précision). Les parties métalliques de l'arbalète étaient également produites en masse avec précision, et les mécanismes de bronze étant interchangeables. Enfin, le Qin et Han Dynasties développèrent également des lignes de tir à l'arbalète, avec des rangées de tir alterné d'arbalétriers et un rechargement similaire à une ligne de tir de mousquet.</Text>
+		</Row>
+		
+		<Row Tag="TXT_KEY_X_UNIT_RUISHI">
+			<Text>Rui Shi</Text>
+		</Row>
+		<Row Tag="TXT_KEY_X_UNIT_RUISHI_HELP">
+			<Text>Le Rui Shi est le Système Militaire de la grande armée de Qin. Les Soldats de l'armée de Qin peuvent travailler les cases durant les temps de paix. Cette unité peut donc remplir le rôle de travailleur dans certains cas. Remplace le cavalier.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_X_CIV5_RUISHI_HEADING">
+			<Text>Qin Rui Shi</Text>
+		</Row>
+		<Row Tag="TXT_KEY_X_CIV5_RUISHI_TEXT">
+			<Text>Le Rui Shi est le système militaire de la grande armée de Qin. Ce système fut établi par Lord Shang Yang, un homme d'État du quatrième siècle avant JC, pendant la période des Royaumes combattants. La force de l'Etat de Qin a été fortement améliorée par ses réformes légalistes. [NEWLINE][NEWLINE]Le gouvernement Qin était très bureaucratique, et a été administré par une hiérarchie de fonctionnaires, tous au service du Premier Empereur. Le Qin mettait en pratique les enseignements de Han Feizi, permettant au premier empereur de contrôler l'ensemble de ses territoires, y compris ceux récemment conquis. Tous les aspects de la vie y étaient standardisés, des mesures à la langue en passant par des aspects plus précis et pratiques, tels que la longueur des essieux de chars. [NEWLINE][NEWLINE]Ying Zheng et ses conseillers ont également introduit de nouvelles lois et des pratiques qui ont mis fin au féodalisme en Chine, en le remplaçant par un gouvernement bureaucratique centralisé. En vertu de ce système, à la fois l'armée et le gouvernement ont prospéré, et les individus doués pouvaient être plus facilement identifiés dans la société ainsi transformée. Les dynasties ultérieures émulèrent le gouvernement Qin pour son efficacité, en dépit de sa condamnation par la philosophie confucéenne. Il y avait des cas d'abus, cependant, avec un exemple ayant été enregistré dans les «dossiers de la bureaucratie". Un commandant nommé Hu a ordonné à ses hommes d'attaquer les paysans dans une tentative d'augmenter le nombre de «bandits» qu'il avait tué; ses supérieurs, probablement désireux de gonfler leurs dossiers ainsi, ont permis cela. [NEWLINE][NEWLINE]Qin Shi Huang a également amélioré les forces militaires, en dépit du fait qu'elles avaient déjà subi d'importantes réformes. L'armée utilisait les armes les plus avancées de l'époque. L'invention de l'épée pendant la période des Royaumes combattants fut un grand progrès. Elle a été utilisé au début essentiellement sous forme de bronze, mais à partir du troisième siècle avant JC, les Qin utilisaient des épées de fer, plus résistantes. La demande pour ce métal a aussi abouti à des soufflets améliorés. L'arbalète avait été introduite au cours du cinquième siècle avant JC et était plus puissante et plus précise que les arcs composites utilisés plus tôt. Elle pouvait également être rendu inefficace en enlevant deux broches, ce qui empêcha les ennemis des Qin de capturer une arbalète en état de marche. [NEWLINE][NEWLINE]Le Royaume de Qin a également utilisé des méthodes améliorées de transport et de tactique. L'état de Zhao avait d'abord remplacé les chars avec de la cavalerie en 307 avant JC, mais le changement a été rapidement adopté par les autres Etats parce que la cavalerie avait une plus grande mobilité sur le terrain de la Chine. [NEWLINE][NEWLINE]Le Premier Empereur a élaboré des plans pour fortifier sa frontière nord, pour la protéger contre les invasions nomades. Le résultat a été la construction initiale de ce qui est devenu plus tard la Grande Muraille de Chine, qui a été construite en joignant et en renforçant les parois faites par les seigneurs féodaux, qui seront élargies et reconstruites à plusieurs reprises par les dynasties suivantes, en réponse aux menaces du Nord. Un autre projet construit durant le règne de Qin Shi Huang est l'armée de terre cuite, destinée à protéger l'empereur après sa mort. L'armée de terre cuite était discrète en raison de son emplacement souterrain, et n'a été redécouverte qu'en 1974.</Text>
+		</Row>
+		
+	<!-- UnitPromotion - Compatibility - tags -->
+		<Row Tag="TXT_KEY_PROMOTION_QINNU_SP">
+			<Text>Qin Nu (*)</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_QINNU_SP_HELP">
+			<Text>Si vous jouez avec le mode GPR WORLD SP MOD, Qin Nu aura cette promotion pour des raisons de compatibilité.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_RUISHI_SP">
+			<Text>Rui Shi (*)</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_RUISHI_SP_HELP">
+			<Text>Si vous jouez avec le mode GPR WORLD SP MOD, Rui Shi aura cette promotion pour des raisons de compatibilité.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_KNIGHT_COMBAT_QIN">
+			<Text>Rui Shi (CMPT)</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_KNIGHT_COMBAT_QIN_HELP">
+			<Text>Cette promotion ne sert qu'à la compatibilité et n'a aucun effet</Text>
+		</Row>
+		
+	<!-- QinUCC Notification -->
+		<Row Tag="TXT_KEY_NOTIFICATION_QIN_SEIZED_CIVILIZATION">
+			<Text>Saisis [COLOR_POSITIVE_TEXT]{1_CivName}[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NOTIFICATION_QIN_LOST_CIVILIZATION">
+			<Text>Perdu [COLOR_NEGATIVE_TEXT]{1_CivName}[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NOTIFICATION_QIN_CONQUEROR_CIVILIZATION_TEXT">
+			<Text>[NEWLINE][NEWLINE]Une fois que vous contrôlez cette région ou si vous alliez à l'État de la Ville qui contrôle cette région, le Capital avec le Bâtiment correspondant acquerra le Bâtiment unique de cette Civilisation, l'Unité correspondante formée peut également être convertie en Unité Unique de cette Civilisation, et les Travailleurs peuvent convertir les Améliorations en Améliorations uniques de cette Civilisation sur les parcelles disponibles!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NOTIFICATION_QIN_SEIZED_CIVILIZATION_TEXT">
+			<Text>[COLOR_POSITIVE_TEXT]{2_LeaderName}[ENDCOLOR] ont SAISIS le contrôle de [COLOR_POSITIVE_TEXT]{1_CivName}[ENDCOLOR]!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NOTIFICATION_QIN_LOST_CIVILIZATION_TEXT">
+			<Text>[COLOR_NEGATIVE_TEXT]{2_LeaderName}[ENDCOLOR] A PERDé le contrôle de [COLOR_NEGATIVE_TEXT]{1_CivName}[ENDCOLOR]!</Text>
+		</Row>
+		
+	<!-- QinTrait - DU can Convert into UU -->
+		<Row Tag="TXT_KEY_QIN_UNIT_CONVERT">
+			<Text>Convert into {1_Unit}</Text>
+		</Row>
+		<Row Tag="TXT_KEY_QIN_UNIT_CONVERT_TT">
+			<Text>Convertir cette unité en {1_Unit}. [NEWLINE]Doit être dans un [COLOR_POSITIVE_TEXT]territoire allié[ENDCOLOR] pour que vous puissiez utiliser cette capacité. [NEWLINE][NEWLINE]Attention: [NEWLINE]Après la mise à niveau, cette unité perdra [COLOR_NEGATIVE_TEXT]son expérience, ses promotion, et ses points de mouvements pour ce tour.[ENDCOLOR].</Text>
+		</Row>
+		<Row Tag="TXT_KEY_QIN_UNIT_CONVERT_RELIGION_TT">
+			<Text>Convertir cette unité en {1_Unit}. [NEWLINE]Doit être dans un [COLOR_POSITIVE_TEXT]territoire allié (Appartiennent à la ville avec la religion majoritaire) ET n'ont pas encore répandu la religion[ENDCOLOR] pour que vous puissiez utiliser cette capacité. [NEWLINE][NEWLINE]Attention: [NEWLINE]Après la mise à niveau, cette unité perdra [COLOR_NEGATIVE_TEXT]son expérience, ses promotion, et ses points de mouvements pour ce tour.[ENDCOLOR].</Text>
+		</Row>
+		
+	<!-- QinTrait - DI Converted into UI TT -->
+		<Row Tag="TXT_KEY_QIN_UI_TT">
+			<Text>Les travailleurs vont transformer l'amélioration de terrain de cette case en [COLOR_POSITIVE_TEXT]{1_Improvement}[ENDCOLOR].</Text>
+		</Row>
+		<Row Tag="TXT_KEY_QIN_UI_DISABLED_TT">
+			<Text>[COLOR_NEGATIVE_TEXT]Une amélioration de terrain doit être présente sur la case![ENDCOLOR] les Travailleurs ont besoin d'une amélioration à transformer en [COLOR_POSITIVE_TEXT]{1_Improvement}[ENDCOLOR].</Text>
+		</Row>
+	</Language_fr_FR>
+</GameData>

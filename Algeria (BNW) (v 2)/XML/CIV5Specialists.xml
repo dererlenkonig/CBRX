@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 3/13/2014 7:54:08 PM -->
+<GameData>
+	<Specialists>
+		<Row>
+			<Type>SPECIALIST_DIVAN</Type>
+			<Description>TXT_KEY_SPECIALIST_DIVAN</Description>
+			<Strategy>Create Beys to speed the creation of Deys.</Strategy>
+			<GreatPeopleTitle>TXT_KEY_SPECIALIST_DIVAN_TITLE</GreatPeopleTitle>
+			<Visible>true</Visible>
+			<Cost>0</Cost>
+			<GreatPeopleUnitClass>UNITCLASS_GREAT_GENERAL</GreatPeopleUnitClass>
+			<GreatPeopleRateChange>1</GreatPeopleRateChange>
+			<IconAtlas>CITIZEN_ATLAS</IconAtlas>
+			<PortraitIndex>1</PortraitIndex>
+		</Row>
+	</Specialists>
+	<SpecialistYields>
+		<Row>
+			<SpecialistType>SPECIALIST_DIVAN</SpecialistType>
+			<YieldType>YIELD_PRODUCTION</YieldType>
+			<Yield>0</Yield>
+		</Row>
+	</SpecialistYields>
+</GameData>

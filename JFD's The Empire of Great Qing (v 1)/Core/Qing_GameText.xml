@@ -1,0 +1,205 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 11/23/2013 1:27:25 PM -->
+<GameData>
+	<Language_en_US>
+		<!--QING-->
+		<Row Tag="TXT_KEY_CIV_JFD_QING_ADJECTIVE">
+			<Text>Qing</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_JFD_QING_DESC">
+			<Text>Empire of Great Qing</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_JFD_QING_SHORT_DESC">
+			<Text>Great Qing</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_JFD_QING_HEADING_1">
+			<Text>History</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_JFD_QING_TEXT_1">
+			<Text>The Qing dynasty, officially the Great Qing, also called the Empire of the Great Qing or the Manchu dynasty, was the last imperial dynasty of China, ruling from 1644 to 1912 with a brief, abortive restoration in 1917. It was preceded by the Ming dynasty and succeeded by the Republic of China. The Qing multi-cultural empire lasted almost three centuries and formed the territorial base for the modern Chinese state.[NEWLINE][NEWLINE]The dynasty was founded by the Jurchen Aisin Gioro clan in Manchuria. In the late sixteenth century, Nurhaci, originally a Ming vassal, began organizing "Banners", military-social units that included Jurchen, Han Chinese, and Mongol elements. Nurhaci formed the Jurchen clans into a unified entity, which became known as Manchus. By 1636, his son Hong Taiji began driving Ming forces out of Liaodong and declared a new dynasty, the Qing. In 1644, peasant rebels led by Li Zicheng conquered the Ming capital Beijing. Rather than serve them, Ming general Wu Sangui made an alliance with the Manchus and opened the Shanhai Pass to the Banner Armies led by Prince Dorgon, who defeated the rebels and seized Beijing. The conquest of China proper was not completed until 1683 under the Kangxi Emperor (r. 1661–1722). The Ten Great Campaigns of the Qianlong Emperor from the 1750s to the 1790s extended Qing control into Central Asia. While the early rulers maintained their Manchu ways, and while their official title was Emperor they were known as khans to the Mongols and patronized Tibetan Buddhism, they governed using Confucian styles and institutions of bureaucratic government. They retained the imperial examinations to recruit Han Chinese to work under or in parallel with Manchus. They also adapted the ideals of the tributary system in dealing with neighboring territories.[NEWLINE][NEWLINE]The reign of the Qianlong Emperor (1735–1796) saw the dynasty's apogee and initial decline in prosperity and imperial control. The population rose to some 400 million, but taxes and government revenues were fixed at a low rate, virtually guaranteeing eventual fiscal crisis. Corruption set in, rebels tested government legitimacy, and ruling elites did not change their mindsets in the face of changes in the world system. Following the Opium War, European powers imposed unequal treaties, free trade, extraterritoriality and treaty ports under foreign control. The Taiping Rebellion (1850–64) and the Dungan Revolt (1862–77) in Central Asia led to the deaths of some 20 million people, most of them due to famines caused by war. In spite of these disasters, in the Tongzhi Restoration of the 1860s, Han Chinese elites rallied to the defense of the Confucian order and the Qing rulers. The initial gains in the Self-Strengthening Movement were destroyed in the First Sino-Japanese War of 1895, in which the Qing lost its influence over Korea and the possession of Taiwan. New Armies were organized, but the ambitious Hundred Days' Reform of 1898 was turned back by Empress Dowager Cixi, a conservative leader. When the Scramble for Concessions by foreign powers triggered the violently anti-foreign Yihetuan ("Boxers"), the foreign powers invaded China, the Empress Dowager declared war on them, leading to defeat and the flight of the Imperial Court to Xi'an.[NEWLINE][NEWLINE]After agreeing to sign the Boxer Protocol the government then initiated unprecedented fiscal and administrative reforms, including elections, a new legal code, and abolition of the examination system. Sun Yat-sen and other revolutionaries competed with reformers such as Liang Qichao and monarchists such as Kang Youwei to transform the Qing empire into a modern nation. After the death of Empress Dowager Cixi and the Guangxu Emperor in 1908, the hardline Manchu court alienated reformers and local elites alike. Local uprisings starting on October 11, 1911 led to the Xinhai Revolution. Puyi, the last emperor, abdicated on February 12, 1912.</Text>
+		</Row>
+		<!--Cities-->
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_QING_01">
+			<Text>Peking</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_QING_02">
+			<Text>Anqing</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_QING_03">
+			<Text>Hangzhou</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_QING_04">
+			<Text>Baoding</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_QING_05">
+			<Text>Fuzhou</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_QING_06">
+			<Text>Kaifeng</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_QING_07">
+			<Text>Wuchang</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_QING_08">
+			<Text>Changsha</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_QING_09">
+			<Text>Lanzhou</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_QING_10">
+			<Text>Nanjing</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_QING_11">
+			<Text>Suzhou</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_QING_12">
+			<Text>Nanchang</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_QING_13">
+			<Text>Guangzhou</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_QING_14">
+			<Text>Guilin</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_QING_15">
+			<Text>Guiyang</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_QING_16">
+			<Text>Taiyuan</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_QING_17">
+			<Text>Jinan</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_QING_18">
+			<Text>Xi’an</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_QING_19">
+			<Text>Chengdu</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_QING_20">
+			<Text>Kunming</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_QING_21">
+			<Text>Fengtian</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_QING_22">
+			<Text>Qiqihar</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_QING_23">
+			<Text>Jilin</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_QING_24">
+			<Text>Uliastai</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_QING_25">
+			<Text>Hohhot</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_QING_26">
+			<Text>Xining</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_QING_27">
+			<Text>Taiwan-fu</Text>
+		</Row>
+		<!--Spies-->
+		<Row Tag="TXT_KEY_SPY_NAME_JFD_QING_0">
+			<Text>Huang Longshi</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_JFD_QING_1">
+			<Text>Long Tack Sam</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_JFD_QING_2">
+			<Text>Tan-Che-Qua</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_JFD_QING_3">
+			<Text>Zhu Shaowen</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_JFD_QING_4">
+			<Text>Han Ping Chien</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_JFD_QING_5">
+			<Text>Chiang Si-qian</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_JFD_QING_6">
+			<Text>Sun Yaoting</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_JFD_QING_7">
+			<Text>Ding Baozhen</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_JFD_QING_8">
+			<Text>An Dehai</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_JFD_QING_9">
+			<Text>Li Lianying</Text>
+		</Row>
+		<!--Cixi-->
+		<Row Tag="TXT_KEY_LEADER_JFD_CIXI">
+			<Text>Cixi</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JFD_CIXI_HEADING_1">
+			<Text>History</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JFD_CIXI_TEXT_1">
+			<Text>Empress Dowager Cixi, of the Manchu Yehenara clan, was a Chinese empress dowager and regent who effectively controlled the Chinese government in the late Qing dynasty for 47 years from 1861 until her death in 1908.[NEWLINE][NEWLINE]Selected as an imperial concubine of the Xianfeng Emperor in her adolescence, she gave birth to a son, Zaichun, in 1856. After the Xianfeng Emperor's death in 1861, the young boy became the Tongzhi Emperor, and she became the Empress Dowager. Cixi ousted a group of regents appointed by the late emperor and assumed regency, which she shared with Empress Dowager Ci'an. Cixi then consolidated control over the dynasty when she installed her nephew as the Guangxu Emperor at the death of the Tongzhi Emperor in 1875, contrary to the traditional rules of succession of the Qing dynasty that had ruled China since 1644. Although she refused to adopt Western models of government, she supported technological and military reforms and the Self-Strengthening Movement. Although she agreed with the principles of the Hundred Days' Reforms of 1898, Cixi rejected their sudden implementation, without bureaucratic support, as detrimental to dynastic power. She placed the Guangxu Emperor under virtual house arrest for supporting radical reformers, who had tried to assassinate her. She may have feared that any perceived weakness in the Imperial Court would have been pounced upon by the Japanese. After the Boxer Uprising led to the invasion of Allied armies, Cixi initially supported the Boxer groups for supporting the dynasty and attacking the foreigners. The ensuing Allied defeat of the Chinese forces was a stunning humiliation. When Cixi returned to Beijing from Xi'an, where she had taken the emperor, she became friendly to foreigners in the capital and began to implement fiscal and institutional reforms that began to turn China into a constitutional monarchy. The death of both Cixi and the Guangxu Emperor in 1908 left the court in the hands of Manchu conservatives, a child on the throne, and a restless, rebellious public.[NEWLINE][NEWLINE]Historians both in China and abroad have long portrayed her as a despot responsible for the fall of the Qing dynasty. Others have suggested that her opponents among the reformers and revolutionaries succeeded in blaming her for problems beyond her control. Furthermore, they claim that she intervened decisively to prevent political disorder, was no more ruthless than other rulers of her time, and that she was an effective reformer in the last years of her life, even if she was reluctant to take on this role.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JFD_CIXI_LIVED">
+			<Text>1835 - 1908</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JFD_CIXI_NAME">
+			<Text>Cixi</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JFD_CIXI_SUBTITLE">
+			<Text>Leader of Great Qing</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JFD_CIXI_TITLES_1">
+			<Text>Empress Dowager of Qing China</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_DOM_JFD_CIXI_TEXT">
+			<Text>O' wise and ruthless Cixi, the imperial court must come to heel. For 47 years, you ruled China as her last effective sovereign, overseeing a series of institutional reforms that would bring the empire to the modern world. Though those that conspired against you have since tarnished your name, you shall be honoured for your trials in balancing the Great Qing Empire upon the line between past and future.[NEWLINE][NEWLINE]Empress Dowager, the future of China rests on your ability to bring her in-line with the great powers of the modern age. Can you reform her ancient institutions into working order? Can you turn your bannermen into modern armies? Can you build a civilization that will stand the test of time?</Text>
+		</Row>
+		<!--NEW POLICIES-->
+		<Row Tag="TXT_KEY_TRAIT_JFD_QING_SHORT">
+			<Text>New Policies</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_JFD_QING">
+			<Text>Military Units yield [ICON_CULTURE] Culture when promoted. Receive free Military Unit upgrades as you adopt new Social Policies.</Text>
+		</Row>
+		<!--PEKING FORCE-->
+		<Row Tag="TXT_KEY_UNIT_JFD_PEKING_FORCE">
+			<Text>Peking Field Force</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_JFD_PEKING_FORCE_HELP">
+			<Text>Stalwart Industrial Era Unit that replaces the Great War Infantry for the Great Qing. It is unlocked earlier and trained in half the usual time in the [ICON_CAPITAL] Capital, though it is slightly weaker. This unit earns promotions 15% faster if it was upgraded from a Rifleman.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_JFD_PEKING_FORCE_STRATEGY">
+			<Text>The unique Peking Field Force replaces the Great War Infantry for Great Qing. Unlike the Great War Infantry, this unit is unlocked at Steam Power and is also trained at double the normal speed in the Capital, although it is slightly weaker. If upgraded from a Rifleman, this unit earns promotions 15% faster. These units will prove an effective last-line of defense against foes threatening the capital.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_JFD_PEKING_FORCE_TEXT">
+			<Text>The Peking Field Force was a modern-armed military unit that defended the Chinese imperial capital Beijing in the last decades of the Qing dynasty. It was founded in 1862, two years after the humiliating capture of Beijing and the sack of the Qing emperor's Summer Palace in 1860 by foreign powers at the end of the Second Opium War. After that war, high Qing officials like Zeng Guofan, Li Hongzhang, and Wenxiang (the latter a Manchu) tried to acquire advanced western weapons and to copy western military organization. Founded by Wenxiang and manned by mostly Manchu Bannermen, the soldiers most loyal to the dynasty, the Force was armed with Russian rifles and French cannon and drilled by British officers.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_JFD_PEKING_FORCE">
+			<Text>Foreign Drills</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_JFD_PEKING_FORCE_HELP">
+			<Text>Earns 15% more XP from combat.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_JFD_QING">
+			<Text>JFD: Peking Field Force</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_JFD_QING_HELP">
+			<Text>+100% [ICON_PRODUCTION] Production in the Capital when training Peking Field Forces.</Text>
+		</Row>
+		<!--NAVAL WAR COLLEGE-->
+		<Row Tag="TXT_KEY_BUILDING_JFD_NAVAL_COLLEGE">
+			<Text>Naval War College</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_JFD_NAVAL_COLLEGE_HELP">
+			<Text>+1 [ICON_PRODUCTION] Production and [ICON_GOLD] Gold from Sea Resources worked by this City. +15% [ICON_PRODUCTION] Production when building Naval Units, and Naval Units trained in this city begin with doubled XP from Buildings.[NEWLINE][NEWLINE]Provides a free Arsenal in this city.[NEWLINE][NEWLINE]City must be built on the coast.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_JFD_NAVAL_COLLEGE_STRATEGY">
+			<Text>The Naval War College is the unique replacement for the Seaport for the Great Qing. In addition to its regular abilities, the Naval War College doubles the amount of XP that Naval Units trained in this city begin with. It also provides a free Arsenal in the city.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_JFD_NAVAL_COLLEGE_TEXT">
+			<Text>War colleges train military officers in the administrative, staff, and policy aspects of their profession. The most important goal of the Self-Strengthening Movement in China was the development of military industries; namely, the construction of military arsenals and of shipbuilding dockyards to strengthen the Chinese navy. This program wasestablished with the help of foreign advisors and administrators, such as Léonce Verny who helped build the Ningbo Arsenal in 1862-64, or the French officer Prosper Giquel who directed the construction of the Fuzhou Arsenal in 1867-74. Zeng and Li collaborated to construct the Jiangnan Arsenal. Schools for the study of mechanical skills and navigation under the direction of foreign advisers were established at these arsenals and dockyards.</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

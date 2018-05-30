@@ -1,0 +1,400 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 11/23/2013 1:27:25 PM -->
+<GameData>
+	<Language_en_US>
+		<!-- When you first meet this AI player -->
+		<Row Tag="TXT_KEY_LEADER_JFD_CIXI_FIRSTGREETING_1">
+			<Text>I am the Empress Dowager of Qing. Pay your respects to me, and confess your intentions. I grow suspicious of stragglers.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_CIXI_FIRSTGREETING_2">
+			<Text>Welcome to the imperial court. I trust you understand the proper protocol? Then why do you just stand there...?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_CIXI_VICTORIA_FIRSTGREETING_1">
+			<Text>Greetings. I am the Empress Dowager of Qing. Yes, I have heard of you. But I don't think you are half as interesting as I. Well, we shall see at any rate.</Text>
+		</Row>
+		<!-- When you've defeated this AI player through conquest -->
+		<Row Tag="TXT_KEY_LEADER_JFD_CIXI_DEFEATED_1">
+			<Text>I have lived an incomparable life. Treat my heir with compassion and my people with dignity.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_CIXI_DEFEATED_2">
+			<Text>I, and I fear my dynasty with me, draws its last breath.</Text>
+		</Row>
+		<!-- Trying to contact or trade with the AI too many times; "REPEAT" appears first, and then "TOO_MUCH" if you continue (regardless of AI feelings) -->
+		<!-- Repeatedly contacting the AI -->
+		<!-- AI has no strong feelings -->
+		<Row Tag="TXT_KEY_LEADER_JFD_CIXI_GREETING_REPEAT_1">
+			<Text>Please. You are wasting my time.</Text>
+		</Row>
+		<!-- AI dislikes you -->
+		<Row Tag="TXT_KEY_LEADER_JFD_CIXI_GREETING_HOSTILE_REPEAT_1">
+			<Text>I have had enough of these wasteful appointments. Hurry along with it.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_CIXI_GREETING_HOSTILE_REPEAT_2">
+			<Text>I grow displeased over these all too frequent meetings of ours.</Text>
+		</Row>
+		<!-- You have contacted them for a fifth time -->
+		<Row Tag="TXT_KEY_LEADER_JFD_CIXI_GREETING_REPEAT_TOO_MUCH_1">
+			<Text>...</Text>
+		</Row>
+		<!-- Repeatedly trying to trade with the AI -->
+		<Row Tag="TXT_KEY_LEADER_JFD_CIXI_REPEAT_TRADE_1">
+			<Text>I am not interested.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_CIXI_REPEAT_TRADE_2">
+			<Text>As I said, I am not interested.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_CIXI_REPEAT_TRADE_3">
+			<Text>Are you quite finished with wasting my time?</Text>
+		</Row>
+		<!-- You have tried for a fifth time (?) -->
+		<Row Tag="TXT_KEY_LEADER_JFD_CIXI_REPEAT_TRADE_TOO_MUCH_1">
+			<Text>...</Text>
+		</Row>
+
+		<!-- ==================================== Greetings ==================================== -->
+		<!-- Generic greetings depending on how the AI feels about you -->
+		<!-- AI likes you -->
+		<Row Tag="TXT_KEY_LEADER_JFD_CIXI_GREETING_POLITE_HELLO_1">
+			<Text>Greetings. You are always welcome in my court.</Text>
+		</Row>
+		<!-- AI has no strong feelings -->
+		<Row Tag="TXT_KEY_LEADER_JFD_CIXI_GREETING_NEUTRAL_HELLO_1">
+			<Text>You are permitted to speak.</Text>
+		</Row>
+		<!-- AI dislikes you -->
+		<Row Tag="TXT_KEY_LEADER_JFD_CIXI_GREETING_HOSTILE_HELLO_1">
+			<Text>Be silent. You will speak when I allow it.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_CIXI_GREETING_HOSTILE_HELLO_2">
+			<Text>Hold your tongue. You are in my court and will be silent until I permit you to speak.</Text>
+		</Row>
+
+		<!-- Greetings while at war -->
+		<!-- All other times -->
+		<Row Tag="TXT_KEY_LEADER_JFD_CIXI_GREETING_AT_WAR_HOSTILE_1">
+			<Text>You are bold to enter my court at this hour.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_CIXI_GREETING_AT_WAR_HOSTILE_2">
+			<Text>Do you know nothing of protocol? We are at war.</Text>
+		</Row>
+
+		<!-- Situational greetings -->
+		<!-- You have a Declaration of Friendship with them -->
+		<Row Tag="TXT_KEY_LEADER_JFD_CIXI_GREETING_WORKING_WITH_1">
+			<Text>Greetings. It is a pleasure, of course.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_CIXI_GREETING_WORKING_WITH_2">
+			<Text>It is a pleasure to have you at my court, as always.</Text>
+		</Row>
+		<!-- The human is at war -->
+		<!-- AI dislikes you -->
+		<Row Tag="TXT_KEY_LEADER_JFD_CIXI_GREETING_HOSTILE_HUMAN_AT_WAR_1">
+			<Text>I will not listen to you beg for mercy. Now, if there is nothing else, please leave my court.</Text>
+		</Row>
+		<!-- AI has no negative feelings -->
+		<Row Tag="TXT_KEY_LEADER_JFD_CIXI_GREETING_HUMAN_AT_WAR_1">
+			<Text>If you are here to beg for assistance, then leave now.</Text>
+		</Row>
+		<!-- The human has an aggressive military posture -->
+		<!-- AI dislikes you -->
+		<Row Tag="TXT_KEY_LEADER_JFD_CIXI_GREETING_HOSTILE_AGGRESSIVE_MILITARY_1">
+			<Text>A modern nation is not intimidated by mere shows of strength. We will not shirk in the face of your armies marching upon us.</Text>
+		</Row>
+		<!-- AI has no negative feelings -->
+		<Row Tag="TXT_KEY_LEADER_JFD_CIXI_GREETING_AGGRESSIVE_MILITARY_1">
+			<Text>I grow weary over the armies marching upon my lands. What is it that you're planning?</Text>
+		</Row>
+		<!-- The human is aggressively setting cities -->
+		<!-- AI dislikes you -->
+		<Row Tag="TXT_KEY_LEADER_JFD_CIXI_GREETING_HOSTILE_AGGRESSIVE_EXPANSION_1">
+			<Text>You are mistaken to believe that I will not defend my right to these lands that you claim as your own.</Text>
+		</Row>
+		<!-- AI has no negative feelings -->
+		<Row Tag="TXT_KEY_LEADER_JFD_CIXI_GREETING_AGGRESSIVE_EXPANSION_1">
+			<Text>I grow uncomfortable with the spread of your people.</Text>
+		</Row>
+		<!-- The human is aggressively claiming plots -->
+		<!-- AI dislikes you -->
+		<Row Tag="TXT_KEY_LEADER_JFD_CIXI_GREETING_HOSTILE_AGGRESSIVE_PLOT_BUYING_1">
+			<Text>You are a fool if you can believe that gold will uphold your claims to the land.</Text>
+		</Row>
+		<!-- AI has no negative feelings -->
+		<Row Tag="TXT_KEY_LEADER_JFD_CIXI_GREETING_AGGRESSIVE_PLOT_BUYING_1">
+			<Text>Do you seek to raise tensions between us? If not, then I ask that you cease your land-grabbing at once.</Text>
+		</Row>
+		<!-- AI is praising your strong military -->
+		<Row Tag="TXT_KEY_LEADER_JFD_CIXI_GREETING_FRIENDLY_STRONG_MILITARY_1">
+			<Text>Your military advantage is clear. It would be wise for me to take heed of it.</Text>
+		</Row>
+		<!-- AI is praising your strong economy -->
+		<Row Tag="TXT_KEY_LEADER_JFD_CIXI_GREETING_FRIENDLY_STRONG_ECONOMY_1">
+			<Text>Your great wealth is truly the model for a modern state.</Text>
+		</Row>
+		<!-- AI is mocking you for having fewer cities than them -->
+		<Row Tag="TXT_KEY_LEADER_JFD_CIXI_GREETING_HOSTILE_HUMAN_FEW_CITIES_1">
+			<Text>Have you considered pledging yourself to another? It's a dangerous world for city-states such as yourself...</Text>
+		</Row>
+		<!-- AI is mocking you for having a small military -->
+		<Row Tag="TXT_KEY_LEADER_JFD_CIXI_GREETING_HOSTILE_HUMAN_SMALL_ARMY_1">
+			<Text>Whenever my courtiers complain about our armies, I turn to remind them of yours. That shuts them up.</Text>
+		</Row>
+		<!-- AI considers you to be a warmonger -->
+		<Row Tag="TXT_KEY_LEADER_JFD_CIXI_GREETING_HOSTILE_HUMAN_IS_WARMONGER_1">
+			<Text>There is no room for wicked tyrants. Your kind will soon be gone.</Text>
+		</Row>
+
+		<!-- ==================================== Declarations of Friendship and Denouncing ==================================== -->
+		<!-- AI offers you a Declaration of Friendship -->
+		<Row Tag="TXT_KEY_LEADER_JFD_CIXI_DEC_FRIENDSHIP_1">
+			<Text>We alone cannot withstand the march of progress. Will you join me in a public Declaration of Friendship?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_CIXI_DEC_FRIENDSHIP_2">
+			<Text>To build my people up as a nation-state, I must have friends willing to help me. Will you agree to a Declaration of Friendship with me?</Text>
+		</Row>
+		<!-- AI isn't ready for a Declaration of Friendship yet -->
+		<Row Tag="TXT_KEY_LEADER_JFD_CIXI_TOO_SOON_FOR_DOF_1">
+			<Text>It cannot be done.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_CIXI_TOO_SOON_FOR_DOF_2">
+			<Text>This would be of no service to me.</Text>
+		</Row>
+		<!-- AI, as your friend, wants you to denounce another civilization -->
+		<Row Tag="TXT_KEY_LEADER_JFD_CIXI_DOF_AI_DENOUNCE_REQUEST_1">
+			<Text>I ask that you denounce {1_CivName} for their crimes.</Text>
+		</Row>
+		<!-- AI, as your friend, wants you to declare war on another civilization (disabled in normal DLL according to whoward69) -->
+		<Row Tag="TXT_KEY_LEADER_JFD_CIXI_DOF_AI_WAR_REQUEST_1">
+			<Text>{1_CivName} cannot be reasoned with through words alone, and we cannot hope to overcome their evil without your help. What do you say? (WILL DECLARE WAR IMMEDIATELY)</Text>
+		</Row>
+		<!-- AI is denouncing you -->
+		<Row Tag="TXT_KEY_LEADER_JFD_CIXI_DENOUNCE_1">
+			<Text>I will not tolerate your meddling in my affairs.[NEWLINE][NEWLINE]([COLOR_WARNING_TEXT]They have publicly denounced us! NOTE: You are not at war.[ENDCOLOR])</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_CIXI_DENOUNCE_2">
+			<Text>You have interfered in my court for too long.[NEWLINE][NEWLINE]([COLOR_WARNING_TEXT]They have publicly denounced us! NOTE: You are not at war.[ENDCOLOR])</Text>
+		</Row>
+		<!-- AI is responding to you denouncing them -->
+		<Row Tag="TXT_KEY_LEADER_JFD_CIXI_RESPONSE_TO_BEING_DENOUNCED_1">
+			<Text>You have declared yourself an enemy of the Qing people.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_CIXI_RESPONSE_TO_BEING_DENOUNCED_2">
+			<Text>Then we have no more to discuss.</Text>
+		</Row>
+		<!-- AI contacting you after you befriend their friend -->
+		<Row Tag="TXT_KEY_LEADER_JFD_CIXI_HUMAN_DOFED_FRIEND_1">
+			<Text>I notice that you've become friends with {1_CivName}. This brings me some comfort.</Text>
+		</Row>
+		<!-- AI contacting you after you befriend their enemy -->
+		<Row Tag="TXT_KEY_LEADER_JFD_CIXI_HUMAN_DOFED_ENEMY_1">
+			<Text>I recommend that you not get too close with {1_CivName}. If so... we might have problems getting along.</Text>
+		</Row>
+		<!-- AI contacting you after you denounce their friend -->
+		<Row Tag="TXT_KEY_LEADER_JFD_CIXI_HUMAN_DENOUNCED_FRIEND_1">
+			<Text>I'll have you know that {1_CivName} and I have worked together in the past, and I have the utmost respect for them. Just so you're aware.</Text>
+		</Row>
+		<!-- AI contacting you after you denounce their enemy -->
+		<Row Tag="TXT_KEY_LEADER_JFD_CIXI_HUMAN_DENOUNCED_ENEMY_1">
+			<Text>Glad to hear there are others in the world that share my disgust with {1_CivName}. They are clearly not to be trusted.</Text>
+		</Row>
+		<!-- AI contacting you after they befriend your friend -->
+		<Row Tag="TXT_KEY_LEADER_JFD_CIXI_HUMAN_DOF_SO_AI_DOF_1">
+			<Text>I see that you are now friends with {1_CivName}. Good.</Text>
+		</Row>
+		<!-- AI contacting you after they denounce your enemy -->
+		<Row Tag="TXT_KEY_LEADER_JFD_CIXI_HUMAN_DENOUNCE_SO_AI_DENOUNCE_1">
+			<Text>I share your disdain for {1_CivName}. Perhaps one day we will have them for dinner.</Text>
+		</Row>
+		<!-- AI contacting you after they denounce your friend -->
+		<Row Tag="TXT_KEY_LEADER_JFD_CIXI_HUMAN_DOF_SO_AI_DENOUNCE_1">
+			<Text>Your relationship with {1_CivName} troubles me.</Text>
+		</Row>
+		<!-- AI contacting you after they befriend your enemy -->
+		<Row Tag="TXT_KEY_LEADER_JFD_CIXI_HUMAN_DENOUNCE_SO_AI_DOF_1">
+			<Text>Enjoy your time with {1_CivName}. Knowing them, they will backstab you before too long.</Text>
+		</Row>
+
+		<!-- ==================================== AI warnings ==================================== -->
+		<!-- AI has noticed your military posture is aggressive -->
+		<!-- AI dislikes you -->
+		<Row Tag="TXT_KEY_LEADER_JFD_CIXI_HOSTILE_AGGRESSIVE_MILITARY_WARNING_1">
+			<Text>Have you come to threaten me? For I see no other reason for you to bring your armies here.</Text>
+		</Row>
+		<!-- AI has no negative feelings -->
+		<Row Tag="TXT_KEY_LEADER_JFD_CIXI_AGGRESSIVE_MILITARY_WARNING_1">
+			<Text>Your armies march towards my lands. I hope they are merely passing through...</Text>
+		</Row>
+
+		<!-- AI has noticed your aggressive settling -->
+		<!-- AI dislikes you -->
+		<Row Tag="TXT_KEY_LEADER_JFD_CIXI_EXPANSION_SERIOUS_WARNING_1">
+			<Text>These lands belong to my people. I will not see them taken by you.</Text>
+		</Row>
+		<!-- AI has no negative feelings -->
+		<Row Tag="TXT_KEY_LEADER_JFD_CIXI_EXPANSION_WARNING_1">
+			<Text>I request that you settle elsewhere.</Text>
+		</Row>
+
+		<!-- AI has noticed your aggressive plot claiming -->
+		<!-- AI dislikes you -->
+		<Row Tag="TXT_KEY_LEADER_JFD_CIXI_PLOT_BUYING_SERIOUS_WARNING_1">
+			<Text>Have you no respect for my lands? They are not for sale. Cease your purchases at once.</Text>
+		</Row>
+		<!-- AI has no negative feelings -->
+		<Row Tag="TXT_KEY_LEADER_JFD_CIXI_PLOT_BUYING_WARNING_1">
+			<Text>I ask that you cease spending gold on land that belongs to my people.</Text>
+		</Row>
+
+		<!-- ==================================== War requests ==================================== -->
+		<!-- AI wants you to go to war against a third party -->
+		<Row Tag="TXT_KEY_LEADER_JFD_CIXI_COOP_WAR_REQUEST_1">
+			<Text>My disdain for {1_PlayerName:textkey} has become too much to bear. This is a situation that can only be resolved on the battlefield. Will you join me, friend?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_CIXI_COOP_WAR_REQUEST_2">
+			<Text>{1_PlayerName:textkey} has become a blight on my people. One that can only be dealt with through war. I seek allies - can I count you among them?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_CIXI_COOP_WAR_REQUEST_3">
+			<Text>{1_PlayerName:textkey} is a threat to the stability of this world. The time has come to deal with them once and for all. Will you assist me in this effort?</Text>
+		</Row>
+
+		<!-- ==================================== Miscellanious comments ==================================== -->
+		<!-- You and the AI are competing for the same city states -->
+		<Row Tag="TXT_KEY_LEADER_JFD_CIXI_MINOR_CIV_COMPETITION_1">
+			<Text>It's come to my attention that you're getting a little friendly with {1_MinorCivName:textkey}. In case you weren't aware, they're within my sphere of influence, and I'd prefer if you stayed out of it.</Text>
+		</Row>
+
+		<!-- ==================================== Player requests ==================================== -->
+		<!-- You continue to ask for something that the AI is not interested in -->
+		<Row Tag="TXT_KEY_LEADER_JFD_CIXI_REPEAT_NO_1">
+			<Text>Out of my sight.</Text>
+		</Row>
+		<!-- You ask the AI to not settle near you -->
+		<!-- AI agrees -->
+		<Row Tag="TXT_KEY_LEADER_JFD_CIXI_DONT_SETTLE_YES_1">
+			<Text>Very well, if that's what it takes.</Text>
+		</Row>
+		<!-- AI doesn't agree -->
+		<Row Tag="TXT_KEY_LEADER_JFD_CIXI_DONT_SETTLE_NO_1">
+			<Text>And allow you to claim it instead? I think not.</Text>
+		</Row>
+
+		<!-- ==================================== Insults ==================================== -->
+		<!-- Generic insult if no others are picked -->
+		<Row Tag="TXT_KEY_LEADER_JFD_CIXI_INSULT_GENERIC_1">
+			<Text>I couldn't help but notice how pathetic you are. And when I realized it I couldn't help but share.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_CIXI_INSULT_GENERIC_2">
+			<Text>Ah, it's always nice to see my favorite city-state again.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_CIXI_INSULT_GENERIC_3">
+			<Text>I'm really getting tired of seeing your face. My hope is that one day you'll just go away or something.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_CIXI_INSULT_GENERIC_4">
+			<Text>Ah, it's you. My apologies. Sometimes I get you mixed up with the barbarians I have to swat from time to time.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_CIXI_INSULT_MILITARY_1">
+			<Text>I thought you might like to know that your army is a little on the weak side. Better watch your back.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_CIXI_INSULT_MILITARY_2">
+			<Text>With an army so weak it's a surprise your empire hasn't succumb to a barbarian invasion.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_CIXI_INSULT_NUKE_1">
+			<Text>Our words are backed with nuclear weapons!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_CIXI_INSULT_BULLY_1">
+			<Text>It's a shame there are some leaders in this world who have their fun by picking on the weak. Don't you agree?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_CIXI_INSULT_UNHAPPINESS_1">
+			<Text>I can hear your people wailing in sorrow all the way over in my empire. If you don't do something soon they might just pack up and find a real civilization to live in.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_CIXI_INSULT_UNHAPPINESS_2">
+			<Text>With people so unhappy it's a shock to me that they'd keep you around as their leader.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_CIXI_INSULT_CITIES_1">
+			<Text>It's come to my attention that your empire appears to be quite puny. Did you forget to expand your borders or are you just having a little trouble with that?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_CIXI_INSULT_POPULATION_1">
+			<Text>Travelers have told us that your empire's economy is in pretty sad shape. If you beg a little I might give you a hand. Okay, actually I won't.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_CIXI_INSULT_CULTURE_1">
+			<Text>What a sad sight... your empire is so uncultured. What do your citizens do all day, beat rocks together?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_CIXI_INSULT_CULTURE_2">
+			<Text>Rumor has it that your culture is so laughable that even the barbarians are shying away from your lands.</Text>
+		</Row>
+
+		<!-- ==================================== Trade ==================================== -->
+		<!-- AI is offering a trade because they want a luxury from you -->
+		<Row Tag="TXT_KEY_LEADER_JFD_CIXI_LUXURY_TRADE_1">
+			<Text>I will not be refused what my people need.</Text>
+		</Row>
+		<!-- AI is asking for a mutual open borders agreement -->
+		<Row Tag="TXT_KEY_LEADER_JFD_CIXI_OPEN_BORDERS_EXCHANGE_1">
+			<Text>A modern nation is not inhibited by draconian borders. We must come to an agreement to make our two states open to each other.</Text>
+		</Row>
+
+		<!-- ==================================== Player declares war on the AI ==================================== -->
+		<!-- AI Attacked by another player -->
+		<Row Tag="TXT_KEY_LEADER_JFD_CIXI_ATTACKED_HOSTILE_1">
+			<Text>With all my breath, I will prevent my people from succumbing to our enemies.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_CIXI_ATTACKED_HOSTILE_2">
+			<Text>If I must perish, why would I not fight you to the death?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_CIXI_ATTACKED_HOSTILE_3">
+			<Text>Today, at last, the opportunity for revenge has come.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_CIXI_ATTACKED_HOSTILE_4">
+			<Text>Now that you have started this aggression, I will defend my nation to the last breath.</Text>
+		</Row>
+
+		<!-- ==================================== AI declares war on the player ==================================== -->
+		<!-- Generic response -->
+		<Row Tag="TXT_KEY_LEADER_JFD_CIXI_DOW_GENERIC_1">
+			<Text>You have interfered in my empire for too long. It is time to rid the earth of you.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_CIXI_DOW_GENERIC_2">
+			<Text>It must be done.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_CIXI_DOW_GENERIC_3">
+			<Text>There is only place on this earth for one of us.</Text>
+		</Row>
+		<!-- AI is in a land dispute with the player -->
+		<Row Tag="TXT_KEY_LEADER_JFD_CIXI_DOW_LAND_1">
+			<Text>This should come as no surprise to you. You have imposed on these lands for too long.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_CIXI_DOW_LAND_2">
+			<Text>The land which upon you wrongfully sit shall be return to the empire.</Text>
+		</Row>
+		<!-- AI declares war after the player refuses a demand -->
+		<Row Tag="TXT_KEY_LEADER_JFD_CIXI_WAR_DEMAND_REFUSED_1">
+			<Text>Then I will take what my people need.</Text>
+		</Row>
+
+		<!-- ==================================== Peace offers ==================================== -->
+
+		<!-- AI doesn't want to have peace -->
+		<Row Tag="TXT_KEY_LEADER_JFD_CIXI_NO_PEACE_1">
+			<Text>I will not have your false peace.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_CIXI_NO_PEACE_2">
+			<Text>There can be no peace with those that continue to pose a threat to my empire.</Text>
+		</Row>
+		<!-- Player asks for peace on the same turn war was declared - no peace! -->
+		<Row Tag="TXT_KEY_LEADER_JFD_CIXI_TOO_SOON_NO_PEACE_1">
+			<Text>The war is not over. It is too soon to declare peace.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_CIXI_TOO_SOON_NO_PEACE_2">
+			<Text>I will yet turn this war to my advantage. It is too soon to call peace.</Text>
+		</Row>
+
+		<!-- ==================================== Cultural Influence ==================================== -->
+		<!-- Player is influential on the AI (Our people are wearing your blue jeans...) -->
+		<Row Tag="TXT_KEY_LEADER_JFD_CIXI_INFLUENTIAL_ON_AI_1">
+			<Text>Our people are now abolishing the practice of foot-binding! We're worried the rest of the world will also succumb to the influence of your culture.</Text>
+		</Row>
+		<!-- AI is influential on the player -->
+		<Row Tag="TXT_KEY_LEADER_JFD_CIXI_INFLUENTIAL_ON_HUMAN_1">
+			<Text>We are glad to see that your people are now abolishing the practice of foot-binding. The amazing works of our civilization are truly inspiring!</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

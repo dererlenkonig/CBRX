@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 8/27/2016 12:22:50 PM -->
+<GameData>
+	<UnitPromotions>
+		<Row>
+			<Type>PROMOTION_WAR_JUNK_PROMOTION</Type>
+			<Description>TXT_KEY_PROMOTION_WAR_JUNK</Description>
+			<Help>TXT_KEY_PROMOTION_WAR_JUNK_HELP</Help>
+			<Sound>AS2D_IF_LEVELUP</Sound>
+			<CannotBeChosen>true</CannotBeChosen>
+			<PortraitIndex>26</PortraitIndex>
+			<IgnoreZoC>true</IgnoreZoC>
+			<IconAtlas>PROMOTION_ATLAS</IconAtlas>
+			<PediaType>PEDIA_SHARED</PediaType>
+			<PediaEntry>TXT_KEY_PROMOTION_WAR_JUNK</PediaEntry>
+		</Row>
+		<Row>
+			<Type>PROMOTION_WAR_JUNK_ATTACK_TWICE</Type>
+			<Description>TXT_KEY_PROMOTION_WAR_JUNK_ATTACK_TWICE</Description>
+			<Help>TXT_KEY_PROMOTION_WAR_JUNK_ATTACK_TWICE_HELP</Help>
+			<Sound>AS2D_IF_LEVELUP</Sound>
+			<CannotBeChosen>true</CannotBeChosen>
+			<CanMoveAfterAttacking>true</CanMoveAfterAttacking>
+			<ExtraAttacks>1</ExtraAttacks>
+			<PortraitIndex>30</PortraitIndex>
+			<IconAtlas>PROMOTION_ATLAS</IconAtlas>
+			<PediaType>PEDIA_SHARED</PediaType>
+			<PediaEntry>TXT_KEY_PROMOTION_WAR_JUNK_ATTACK_TWICE</PediaEntry>
+		</Row>
+		<Row>
+			<Type>PROMOTION_SAN_TIAO</Type>
+			<Description>TXT_KEY_PROMOTION_SAN_TIAO</Description>
+			<Help>TXT_KEY_PROMOTION_SAN_TIAO_HELP</Help>
+			<Sound>AS2D_IF_LEVELUP</Sound>
+			<CannotBeChosen>true</CannotBeChosen>
+			<CaptureDefeatedEnemy>true</CaptureDefeatedEnemy>
+			<PortraitIndex>30</PortraitIndex>
+			<IconAtlas>PROMOTION_ATLAS</IconAtlas>
+			<PediaType>PEDIA_SHARED</PediaType>
+			<PediaEntry>TXT_KEY_PROMOTION_SAN_TIAO</PediaEntry>
+		</Row>
+	</UnitPromotions>
+	<Language_en_US>
+	<Delete Tag="TXT_KEY_PROMOTION_WAR_JUNK" />
+	<Row Tag="TXT_KEY_PROMOTION_WAR_JUNK">
+		<Text>War Junk</Text>
+	</Row>
+	<Delete Tag="TXT_KEY_PROMOTION_WAR_JUNK_HELP" />
+	<Row Tag="TXT_KEY_PROMOTION_WAR_JUNK_HELP">
+		<Text>This promotion is only used internally and has no effect. Ignore it.</Text>
+	</Row>
+	<Delete Tag="TXT_KEY_PROMOTION_WAR_JUNK_ATTACK_TWICE" />
+	<Row Tag="TXT_KEY_PROMOTION_WAR_JUNK_ATTACK_TWICE">
+		<Text>War Junk Attack Twice</Text>
+	</Row>
+	<Delete Tag="TXT_KEY_PROMOTION_WAR_JUNK_ATTACK_TWICE_HELP" />
+	<Row Tag="TXT_KEY_PROMOTION_WAR_JUNK_ATTACK_TWICE_HELP">
+		<Text>Basically Logistics</Text>
+	</Row>
+		<Delete Tag="TXT_KEY_PROMOTION_SAN_TIAO" />
+		<Row Tag="TXT_KEY_PROMOTION_SAN_TIAO">
+			<Text>San T'iao</Text>
+		</Row>
+	<Delete Tag="TXT_KEY_PROMOTION_SAN_TIAO_HELP" />
+	<Row Tag="TXT_KEY_PROMOTION_SAN_TIAO_HELP">
+			<Text>Basically Prize Ships</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

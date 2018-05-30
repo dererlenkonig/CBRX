@@ -1,0 +1,194 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mod id="718e7bd7-e2c2-4083-a6df-f155beda8626" version="13">
+  <Properties>
+    <Name>[BNW] LS Civilization Set XI</Name>
+    <Teaser>Adds Hungarian, Israeli and Viking empires.</Teaser>
+    <Description>Adds Hungarian, Israeli and Viking empires.
+
+Credits:
+Music - Adrian von Ziegler</Description>
+    <Authors>LastSword</Authors>
+    <HideSetupGame>0</HideSetupGame>
+    <AffectsSavedGames>1</AffectsSavedGames>
+    <MinCompatibleSaveVersion>0</MinCompatibleSaveVersion>
+    <SupportsSinglePlayer>1</SupportsSinglePlayer>
+    <SupportsMultiplayer>1</SupportsMultiplayer>
+    <SupportsHotSeat>1</SupportsHotSeat>
+    <SupportsMac>1</SupportsMac>
+    <ReloadAudioSystem>1</ReloadAudioSystem>
+    <ReloadLandmarkSystem>1</ReloadLandmarkSystem>
+    <ReloadStrategicViewSystem>1</ReloadStrategicViewSystem>
+    <ReloadUnitSystem>1</ReloadUnitSystem>
+  </Properties>
+  <Dependencies />
+  <References />
+  <Blocks />
+  <Files>
+    <File md5="EE2944687818E9A559C1DAA2D205502C" import="1">Hungary/DiploScreenLSHungary.dds</File>
+    <File md5="8063EA377B432C854FC71988FE79F27F" import="0">Hungary/Diplomacy.sql</File>
+    <File md5="931C2B3191467A3261B38731D4BA5268" import="1">Hungary/DoMHungaryLSMod.dds</File>
+    <File md5="5769DF5D8341D0267D83DF5174B15296" import="1">Hungary/HLSMCrusaderKingsIILegacyofRome.mp3</File>
+    <File md5="AF05C85CDFA39E030D94D9C0B50BEFBF" import="1">Hungary/HLSMCrusaderKingsIIRoyalmarriage.mp3</File>
+    <File md5="536C47F1C40BA64B2B2506963260A46C" import="0">Hungary/Hungary Civ Mod.xml</File>
+    <File md5="87F17F86C5B76ACD434AEB57E1C0D235" import="1">Hungary/HungaryLSTraitCode.lua</File>
+    <File md5="F1F165E191DB8DE6C391E7A45E1274F0" import="0">Hungary/Hungary Game Text Mod.xml</File>
+    <File md5="4D4363BF13F40C6C4151577077319DBD" import="0">Hungary/Hungary Improvement Mod.xml</File>
+    <File md5="BC236D778DCE15BC94890A280E1DFEBD" import="0">Hungary/Hungary Leader Mod.xml</File>
+    <File md5="7251369C7EFA2195F44FEEA374C826AA" import="0">Hungary/Hungary Units Mod.xml</File>
+    <File md5="19F3DB66D57BB013457991C749909FD4" import="0">Hungary/HungaryBC.lua</File>
+    <File md5="79EDE9CEA433DFD874DC617D232AE1BC" import="0">Hungary/HungaryMod.lua</File>
+    <File md5="CA95085EAAEABCEB9EE21B4EEE47D644" import="0">Hungary/HungaryMod.xml</File>
+    <File md5="D53EF07F72C81B00B5F593177393A454" import="1">Hungary/Hungary_Leader_Scene_LS_Mod.xml</File>
+    <File md5="6C7BA2497C1BF0EA6BEB33D8085AA297" import="0">Hungary/Improvement/Civ5ArtDefines_SV_VEGVAR.xml</File>
+    <File md5="5914B35C2F1BB7E147734A0D40A313E6" import="0">Hungary/Improvement/VegvarLandmark.sql</File>
+    <File md5="316464B777F8299590D551FE7A67F3B5" import="1">Hungary/LS11HunActionAtlas45.dds</File>
+    <File md5="B7EF1978CE77620197F552DB4D9AA1B4" import="1">Hungary/LS11HunActionAtlas64.dds</File>
+    <File md5="88CC4BC3935EEBD18ABFF44D44B064AD" import="1">Hungary/LSArquebuserUnitAtlas.dds</File>
+    <File md5="81E1A8993EC727395E0D3B361C909FCA" import="1">Hungary/LSVegvarAtlasBuild45.dds</File>
+    <File md5="432544ABF0977F4432E9EDD6E3475BE7" import="1">Hungary/LSVegvarAtlasBuild64.dds</File>
+    <File md5="11F65A64916C48C32E573D8036D5CBFE" import="1">Hungary/LSVegvarUnitAtlas.dds</File>
+    <File md5="E2246C2D30602C50C86514AC0E22E025" import="1">Hungary/MapLSHungary.dds</File>
+    <File md5="F06D76BC2F5DA72A55C038BD5C503883" import="1">Hungary/Model/Arquebusier.fxsxml</File>
+    <File md5="D1B6CCBA43C7807DA4A10491B80BAE1D" import="1">Hungary/Model/Arquebusier.gr2</File>
+    <File md5="0780A46DD829757531D96D6AB9D9D17B" import="1">Hungary/Model/Arquebusier_diff.dds</File>
+    <File md5="CE8B9BB4E2DCE201397E67EC08D4AE1D" import="1">Hungary/Model/Arquebusier_diffLS.dds</File>
+    <File md5="1F2ABFFE6D4293BB97CB3EE7B95CB086" import="1">Hungary/Model/Arquebusier_sref.dds</File>
+    <File md5="0D3DBA868302034D395F77DEA7F196E2" import="0">Hungary/Model/HungarianArquebuserArtDefine.sql</File>
+    <File md5="5754B1BE6E37A2F9D04D9D4149E5CDDF" import="1">Hungary/SaveUtils.lua</File>
+    <File md5="F8BAFDEADA7ACC0E8DA969B58850537E" import="1">Hungary/svLSBlackArque.dds</File>
+    <File md5="DD0E23B62D32DEE5E1FF09D35E297647" import="1">Hungary/svLSVegvar.dds</File>
+    <File md5="5B99AAEADF1AB474957BB6FC4E79F239" import="1">Hungary/UIVegvarLSAtlas256.dds</File>
+    <File md5="C0E0048E5DBC05C67E9737E02C93C0D7" import="1">Hungary/UIVegvarLSAtlas64.dds</File>
+    <File md5="0EEF168144CC8BE60FE0EF848B317021" import="0">Hungary/HungaryBC.xml</File>
+    <File md5="08A5B0C59C9F0483C8A74AE8B6117E19" import="1">Israel/DiploIsraelLSMod.dds</File>
+    <File md5="9AE158AACC022F0F9B3B38477A06D812" import="0">Israel/Diplomacy.sql</File>
+    <File md5="893596794967ADC7DFAEE2ADF4852028" import="1">Israel/DoMIsraelLSMod.dds</File>
+    <File md5="C17D0D1011B7DC85596A914D1174DA4F" import="1">Israel/IsraeliLSWarTheme.mp3</File>
+    <File md5="1B1E586343B7C4491FB603AA98912924" import="1">Israel/IsraelLSBuildingCode.lua</File>
+    <File md5="11C3D974488B78542EFD52A3C209B806" import="1">Israel/IsraelLSTraitCode.lua</File>
+    <File md5="04B551F075E0618C7BA324914B72835C" import="0">Israel/IsraelLSUnitCode.lua</File>
+    <File md5="B06B829CFAACEEA4F7B00602309C6549" import="1">Israel/IsraelUnitAlphaAtlas.dds</File>
+    <File md5="C2E8C12730BC6415258EC5EC899AEB54" import="1">Israel/LSSaveUtils.lua</File>
+    <File md5="0DC04854EF7D14372187E5FC857F1B2B" import="1">Israel/MapIsraelLSMod.dds</File>
+    <File md5="8CFD0319BFF2D237687509408742361D" import="0">Israel/Model/LSIsraelArtDefine.sql</File>
+    <File md5="227CF20EE32010D46AD69D820BEC7334" import="1">Israel/Model/Swordsman_Babylon.blend</File>
+    <File md5="CA5ED651AFA669A836BD40D2C0E4D287" import="1">Israel/Model/Swordsman_Babylon.dds</File>
+    <File md5="5BB18FFC0E2151E1D2BBAB8B5E9CCBC3" import="1">Israel/Model/Swordsman_Babylon.fxsxml</File>
+    <File md5="B2CBAE840DEAB933F69BBDFE4AB999D1" import="1">Israel/Model/Swordsman_Babylon.gr2</File>
+    <File md5="40DE877EB75F38E5098A44E9D84F55B8" import="1">Israel/Model/Swordsman_Babylon_gloss.dds</File>
+    <File md5="62C222F81D5988E0A33EFA9CF89E5CE8" import="0">Israel/Israel Building Mod.xml</File>
+    <File md5="4487A795A8A5A242F0C7100533115F2B" import="0">Israel/Israel Civ Mod.xml</File>
+    <File md5="7B5A81FBC32F9E7CAB111201BEA2C652" import="0">Israel/Israel Game Text Mod.xml</File>
+    <File md5="077A1FD085E15C8117C9385E8080CC9F" import="0">Israel/Israel Leader Mod.xml</File>
+    <File md5="C4A66914DC70A681F8AA62C85D276F2A" import="0">Israel/Israel Units Mod.xml</File>
+    <File md5="1AC6096EF9DFCC21D92FF9C49EC57B38" import="1">Israel/Israel_Leader_Scene_LS_Mod.xml</File>
+    <File md5="15EF2AB95A0C33A9BCEB331CCD828AEE" import="1">Israel/IsraeliLSPeaceTheme.mp3</File>
+    <File md5="4B3F0422676C1D7DA348D26D65C89E30" import="1">Israel/SV_IsraelLS.dds</File>
+    <File md5="CBCB96EF5E14FBE33FE6E89BE3DBAD89" import="1">OneToMergeAll/AlphaLS11Atlas24.dds</File>
+    <File md5="5410DFFD38FC873A979B8FA1544DDB74" import="1">OneToMergeAll/AlphaLS11Atlas32.dds</File>
+    <File md5="1B58038D5110F27664AA43A5496BF76E" import="1">OneToMergeAll/AlphaLS11Atlas48.dds</File>
+    <File md5="FEF05C730829AC8C9148A53FD8D35850" import="1">OneToMergeAll/AlphaLS11Atlas64.dds</File>
+    <File md5="6F45E03BF7C4B4465C935CAF664D8982" import="1">OneToMergeAll/BuildingLS11Atlas128.dds</File>
+    <File md5="7D531B201E6A953E013A4E0D05762FF2" import="1">OneToMergeAll/BuildingLS11Atlas256.dds</File>
+    <File md5="EECBA0C58F7EDF947A5C63340A5D8E2A" import="1">OneToMergeAll/BuildingLS11Atlas45.dds</File>
+    <File md5="DF9F983570CA7961EFE588C1F6980396" import="1">OneToMergeAll/BuildingLS11Atlas64.dds</File>
+    <File md5="309C7CE4C3EE61A634C0310078A38804" import="1">OneToMergeAll/CivLS11Atlas128.dds</File>
+    <File md5="7F48EF60C9601E6697247973F37B8569" import="1">OneToMergeAll/CivLS11Atlas256.dds</File>
+    <File md5="3577830F37B8D845B374D7D82C147D33" import="1">OneToMergeAll/CivLS11Atlas32.dds</File>
+    <File md5="0D135536448A6041A69E3C6A56349DA3" import="1">OneToMergeAll/CivLS11Atlas45.dds</File>
+    <File md5="6EF77B884E16E8702D64AF9E55D2C77A" import="1">OneToMergeAll/CivLS11Atlas64.dds</File>
+    <File md5="399CA067D42D849E8E6E0B75FD7BF107" import="1">OneToMergeAll/CivLS11Atlas80.dds</File>
+    <File md5="CD63F12A2D5FA80A8831536C08B5306D" import="1">OneToMergeAll/LeaderLS11Atlas128.dds</File>
+    <File md5="6E6447600246ABB47A083A9120AC67DF" import="1">OneToMergeAll/LeaderLS11Atlas256.dds</File>
+    <File md5="87AF7F2114F17EA72466CF924D49EB11" import="1">OneToMergeAll/LeaderLS11Atlas64.dds</File>
+    <File md5="C5C4410AF6B2B78CDF13D0B85FD9C9CF" import="0">OneToMergeAll/LS11 Atlas Mod.xml</File>
+    <File md5="A6F59E0986AA98D89BC3FB0C0379C486" import="1">OneToMergeAll/UnitLS11Atlas128.dds</File>
+    <File md5="B3C767B3B01802FF8AE5089550FF6D91" import="1">OneToMergeAll/UnitLS11Atlas256.dds</File>
+    <File md5="C85D7F209A560D4A27B6244A86937BD6" import="1">OneToMergeAll/UnitLS11Atlas45.dds</File>
+    <File md5="B4671C7970B95314A0E884637F0B917F" import="1">OneToMergeAll/UnitLS11Atlas64.dds</File>
+    <File md5="C4D5D21DBDB87340DC78F1AC2343100E" import="1">OneToMergeAll/UnitLS11Atlas80.dds</File>
+    <File md5="83CC67C15C6221D649E0CF20D5D8AE5D" import="0">Vikings/Diplomacy.sql</File>
+    <File md5="023ECF856BE4F1A1C80D5F4D719A6A67" import="1">Vikings/DiploVikingLSMod.dds</File>
+    <File md5="91209094594C6F52A7C461C3632408E2" import="1">Vikings/DoMVikingLSMod.dds</File>
+    <File md5="4E82B40601A674F7458809D632108808" import="0">Vikings/Viking Building Mod.xml</File>
+    <File md5="48FA5EED7459861D0E53F1C5E1F3D438" import="1">Vikings/LS11VikActionAtlas45.dds</File>
+    <File md5="358AB17EDDBDA0DBC80A9C7F96B289BA" import="1">Vikings/LS11VikActionAtlas64.dds</File>
+    <File md5="2120F0957E052B6A098FB1AC9941198A" import="1">Vikings/MapVikingLSMod.dds</File>
+    <File md5="556D0A1F10465239A046FE1814311143" import="1">Vikings/Model/battle_galley.fxsxml</File>
+    <File md5="3BD1569650935F56546B491B90602A79" import="1">Vikings/Model/battle_galley.gr2</File>
+    <File md5="8210733B5648035CB03C4CD9DEB34BDA" import="1">Vikings/Model/battle_galley_diff.dds</File>
+    <File md5="F240183D4924349C0F98B0E308078374" import="1">Vikings/Model/Swordsman_Viking.blend</File>
+    <File md5="124098FB80F60811873A8EDF896FB61A" import="1">Vikings/Model/Swordsman_Viking.dds</File>
+    <File md5="C07B56F3D21A2CFE7ED2D395D7110782" import="1">Vikings/Model/Swordsman_Viking.fxsxml</File>
+    <File md5="A7FEDB2147B7A42309308A21ECF723AF" import="1">Vikings/Model/Swordsman_Viking.gr2</File>
+    <File md5="7B82A5CCCCA37BF589A18C4CC153F62B" import="1">Vikings/Model/Swordsman_Viking_gloss.dds</File>
+    <File md5="7F3D002C5C2B3401EDABC60ACE4B379F" import="0">Vikings/Model/VikingBerserkerArtDefine.sql</File>
+    <File md5="0990D6C1E358798C8A65685D9C08DF9E" import="0">Vikings/Model/VikingLongshipArtDefine.sql</File>
+    <File md5="5754B1BE6E37A2F9D04D9D4149E5CDDF" import="1">Vikings/SaveUtils.lua</File>
+    <File md5="A9167D6795F48B744AF680568C3EF685" import="1">Vikings/SV_VikingBerLS.dds</File>
+    <File md5="5B61DEE913B2ACA8B25B5BABF63DF0E4" import="1">Vikings/SV_VikingLonLS.dds</File>
+    <File md5="538B14A431DF3CCA519FD351296A29E1" import="0">Vikings/Viking Civ Mod.xml</File>
+    <File md5="079796BA22777B896E9C9184D4D84E0C" import="1">Vikings/VikingLSWarTheme.mp3</File>
+    <File md5="C3AFD62619C2B1C88A940ADE276839C8" import="1">Vikings/VikingLSPeaceTheme.mp3</File>
+    <File md5="75A36308F8C1FEF34F1158FBA8380872" import="1">Vikings/VikingLSTraitCode.lua</File>
+    <File md5="C1BB80F0A9686844A701D30EE2DDF30D" import="0">Vikings/Viking Game Text Mod.xml</File>
+    <File md5="074AFCA8AD61E68568557368D7630962" import="0">Vikings/Viking Leader Mod.xml</File>
+    <File md5="F7E1744BC4B8B49EBF8F59BA6CA77D79" import="0">Vikings/Viking Units Mod.xml</File>
+    <File md5="5434051EC30878ED4DFA5BAEED7CC2C2" import="0">Vikings/VikingLSUnitCode.lua</File>
+    <File md5="CA95085EAAEABCEB9EE21B4EEE47D644" import="0">Vikings/VikingLSUnitCode.xml</File>
+    <File md5="BFC3EA2849010CE3FEC7AF14BEF36BD1" import="1">Vikings/VikingUnitAlphaAtlas.dds</File>
+    <File md5="FBB4A7C594DA5B806007BFA02A54D65F" import="1">Vikings/VikingUnitAlphaAtlas2.dds</File>
+    <File md5="73B9E820664F0926C60DCACE7F7883C8" import="1">Vikings/Viking_Leader_Scene_LS_Mod.xml</File>
+  </Files>
+  <Actions>
+    <OnModActivated>
+      <UpdateDatabase>OneToMergeAll/LS11 Atlas Mod.xml</UpdateDatabase>
+      <UpdateDatabase>Israel/Model/LSIsraelArtDefine.sql</UpdateDatabase>
+      <UpdateDatabase>Israel/Israel Building Mod.xml</UpdateDatabase>
+      <UpdateDatabase>Israel/Israel Game Text Mod.xml</UpdateDatabase>
+      <UpdateDatabase>Israel/Israel Leader Mod.xml</UpdateDatabase>
+      <UpdateDatabase>Israel/Israel Units Mod.xml</UpdateDatabase>
+      <UpdateDatabase>Israel/Israel Civ Mod.xml</UpdateDatabase>
+      <UpdateDatabase>Vikings/Model/VikingBerserkerArtDefine.sql</UpdateDatabase>
+      <UpdateDatabase>Vikings/Model/VikingLongshipArtDefine.sql</UpdateDatabase>
+      <UpdateDatabase>Vikings/Viking Civ Mod.xml</UpdateDatabase>
+      <UpdateDatabase>Vikings/Viking Game Text Mod.xml</UpdateDatabase>
+      <UpdateDatabase>Vikings/Viking Leader Mod.xml</UpdateDatabase>
+      <UpdateDatabase>Vikings/Viking Units Mod.xml</UpdateDatabase>
+      <UpdateDatabase>Hungary/Model/HungarianArquebuserArtDefine.sql</UpdateDatabase>
+      <UpdateDatabase>Hungary/Improvement/Civ5ArtDefines_SV_VEGVAR.xml</UpdateDatabase>
+      <UpdateDatabase>Hungary/Improvement/VegvarLandmark.sql</UpdateDatabase>
+      <UpdateDatabase>Hungary/Hungary Civ Mod.xml</UpdateDatabase>
+      <UpdateDatabase>Hungary/Hungary Game Text Mod.xml</UpdateDatabase>
+      <UpdateDatabase>Hungary/Hungary Leader Mod.xml</UpdateDatabase>
+      <UpdateDatabase>Hungary/Hungary Improvement Mod.xml</UpdateDatabase>
+      <UpdateDatabase>Hungary/Hungary Units Mod.xml</UpdateDatabase>
+      <UpdateDatabase>Hungary/Diplomacy.sql</UpdateDatabase>
+      <UpdateDatabase>Israel/Diplomacy.sql</UpdateDatabase>
+      <UpdateDatabase>Vikings/Diplomacy.sql</UpdateDatabase>
+      <UpdateDatabase>Vikings/Viking Building Mod.xml</UpdateDatabase>
+    </OnModActivated>
+  </Actions>
+  <EntryPoints>
+    <EntryPoint type="InGameUIAddin" file="Israel/IsraelLSUnitCode.lua">
+      <Name>Functions</Name>
+      <Description>
+      </Description>
+    </EntryPoint>
+    <EntryPoint type="InGameUIAddin" file="Vikings/VikingLSUnitCode.lua">
+      <Name>MoreFunctions</Name>
+      <Description>
+      </Description>
+    </EntryPoint>
+    <EntryPoint type="InGameUIAddin" file="Hungary/HungaryMod.lua">
+      <Name>First</Name>
+      <Description>
+      </Description>
+    </EntryPoint>
+    <EntryPoint type="InGameUIAddin" file="Hungary/HungaryBC.lua">
+      <Name>Plots</Name>
+      <Description>
+      </Description>
+    </EntryPoint>
+  </EntryPoints>
+</Mod>

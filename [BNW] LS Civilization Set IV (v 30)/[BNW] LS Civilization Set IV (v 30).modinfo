@@ -1,0 +1,181 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mod id="04760492-5523-4cee-85b3-9146f5edc34f" version="30">
+  <Properties>
+    <Name>[BNW] LS Civilization Set IV</Name>
+    <Teaser>Adds Ashanti Empire, Durrani Empire and Nepal civilizations.</Teaser>
+    <Description>Mod is created and tested on GK + BNW.
+Mods adds three playable civilizations to the game.
+Durrani music from Prince of Persia soundtrack.</Description>
+    <Authors>LastSword</Authors>
+    <HideSetupGame>0</HideSetupGame>
+    <AffectsSavedGames>1</AffectsSavedGames>
+    <MinCompatibleSaveVersion>0</MinCompatibleSaveVersion>
+    <SupportsSinglePlayer>1</SupportsSinglePlayer>
+    <SupportsMultiplayer>1</SupportsMultiplayer>
+    <SupportsHotSeat>1</SupportsHotSeat>
+    <SupportsMac>1</SupportsMac>
+    <ReloadAudioSystem>1</ReloadAudioSystem>
+    <ReloadLandmarkSystem>0</ReloadLandmarkSystem>
+    <ReloadStrategicViewSystem>1</ReloadStrategicViewSystem>
+    <ReloadUnitSystem>1</ReloadUnitSystem>
+  </Properties>
+  <Dependencies />
+  <References />
+  <Blocks />
+  <Files>
+    <File md5="D6B77B6F274E6E1314FFD3E5529C1C5A" import="1">AshantiEmpire/AkanLSActionAtlas45.dds</File>
+    <File md5="475664443304F11C775FDE6F224C6603" import="1">AshantiEmpire/AkanLSActionAtlas64.dds</File>
+    <File md5="8B598D65527FC928441EE6ACEEFD91D6" import="0">AshantiEmpire/AshantiLSUnitCode.lua</File>
+    <File md5="1182AE4BB5D3B4B0910C92C03146CAC6" import="0">AshantiEmpire/Ashanti Building Mod.xml</File>
+    <File md5="D8AEDCE3FBBA1EFF287DEED4A3426940" import="0">AshantiEmpire/Ashanti Civ Mod.xml</File>
+    <File md5="BD2CDDB0C6891691573D7B2CE06C9F4D" import="0">AshantiEmpire/Ashanti Game Text Mod.xml</File>
+    <File md5="99FF6CE1C762889706B3E706FC9A40EF" import="0">AshantiEmpire/Ashanti Leader Mod.xml</File>
+    <File md5="815CFB30AD8F085F10B63AF7BAE7DCED" import="0">AshantiEmpire/Ashanti Units Mod.xml</File>
+    <File md5="69B7FC387DC332DD7D58A2D5EB92E86E" import="1">AshantiEmpire/AshantiPeaceMusic.mp3</File>
+    <File md5="86573B23451E10453CB4A1DF39DBA563" import="1">AshantiEmpire/AshantiUnitAlphaAtlas.dds</File>
+    <File md5="71383174053173E938904BBC1C25C320" import="1">AshantiEmpire/AshantiWarMusic.mp3</File>
+    <File md5="928B3FE0385E4515E4B02E871FB5C244" import="1">AshantiEmpire/Ashanti_Leader_Scene_LS_Mod.xml</File>
+    <File md5="896500ABE5C6ADCDA460A2910E73438F" import="1">AshantiEmpire/AshantiLSTraitCode.lua</File>
+    <File md5="EDA00B5C66E263D98915F7062D94B104" import="1">AshantiEmpire/DiploAshantiLSMod.dds</File>
+    <File md5="755FCE26255DA1D843DDC059EB7FFF81" import="0">AshantiEmpire/Diplomacy.sql</File>
+    <File md5="8A5024997AE8ACD33481D46120B63414" import="1">AshantiEmpire/DoMAshantiLSMod.dds</File>
+    <File md5="0DCD3C317627C0C30760AA645776FAA0" import="1">AshantiEmpire/AshantiLSBuildingCode.lua</File>
+    <File md5="80B1018666EECAC87E56D1AEB080D8F1" import="1">AshantiEmpire/GoldenStoolLS.dds</File>
+    <File md5="2114D8FB87F135A9BE94C195FA671C89" import="1">AshantiEmpire/LSEmpty128x128.dds</File>
+    <File md5="1E94557FF45097304C4F9E467568FF63" import="1">AshantiEmpire/LSEmpty32x32.dds</File>
+    <File md5="D11146B37BD7280E652B26D27EA6BAF1" import="1">AshantiEmpire/MapAshantiLSMod.dds</File>
+    <File md5="D39FF9BAF24ABBF9EB83BC3EB91D1A86" import="0">AshantiEmpire/Model/AshantiCkofojArtDefine.sql</File>
+    <File md5="B892C6D76EAC04F785B139FBF0CDC013" import="1">AshantiEmpire/Model/EthiopianOromo2.fbx</File>
+    <File md5="9AE48FF8845A7B8F083467C232545C89" import="1">AshantiEmpire/Model/EthiopianOromo2.fxsxml.xml</File>
+    <File md5="40EFC5CD1A66F736B35AF7D6D2067DFF" import="1">AshantiEmpire/Model/EthiopianOromo2.gr2</File>
+    <File md5="8E7420C45341CBC89C6F2DE939A8EF08" import="1">AshantiEmpire/Model/EthiopianOromo2.isxml</File>
+    <File md5="8D45CDC2FEB56012B88505B0C193B13E" import="1">AshantiEmpire/Model/EthiopianOromo_Orange.dds</File>
+    <File md5="C49E163D3F0254DD617A285994614BBC" import="1">AshantiEmpire/Model/EthiopianOromo_Orange_sref.dds</File>
+    <File md5="CA95085EAAEABCEB9EE21B4EEE47D644" import="0">AshantiEmpire/AshantiLSUnitCode.xml</File>
+    <File md5="5754B1BE6E37A2F9D04D9D4149E5CDDF" import="1">AshantiEmpire/SaveUtils.lua</File>
+    <File md5="D068FE95E5C8E324C997399FCD20BB55" import="1">AshantiEmpire/SV_AshantiLS.dds</File>
+    <File md5="377019C7E2969F536813537F7E9AA4C1" import="1">DurraniEmpire/DiploDurraniLSMod.dds</File>
+    <File md5="7B73B0216B691BD9DEEC3FB2C2555E20" import="0">DurraniEmpire/Diplomacy.sql</File>
+    <File md5="6F0B934432FFF534457DF92AB9081039" import="1">DurraniEmpire/DoMDurraniLSMod.dds</File>
+    <File md5="978D523610C9DD8BF0714013C65EBDB1" import="0">DurraniEmpire/DurraniLSUnitCode.lua</File>
+    <File md5="18E2CA4CC16ADFFFBE98E8BD8B658701" import="0">DurraniEmpire/Durrani Civ Mod.xml</File>
+    <File md5="83F23F3DA991F49060777EB2A21566EB" import="0">DurraniEmpire/Durrani Leader Mod.xml</File>
+    <File md5="E429068B9A7E9D90163386E4B6AF0601" import="0">DurraniEmpire/Durrani Game Text Mod.xml</File>
+    <File md5="23F71F1EFCF90DD41590CF5382C025BB" import="1">DurraniEmpire/Durrani Building Mod.xml</File>
+    <File md5="E75AC79462859538BA34FB079A4F3F3C" import="0">DurraniEmpire/Durrani Units Mod.xml</File>
+    <File md5="6E585B01D18515B09E3C7FF3183DB00E" import="1">DurraniEmpire/DurraniLSBuildingCode.lua</File>
+    <File md5="C3FA7DBABA172A0CF9B10049DBF16FA9" import="1">DurraniEmpire/DurraniUnitAlphaAtlas.dds</File>
+    <File md5="02E2769B4364F156DB11B7E57AFCE1B8" import="1">DurraniEmpire/Durrani_Leader_Scene_LS_Mod.xml</File>
+    <File md5="214E2DC367137D0685EBAC1971040084" import="1">DurraniEmpire/DurraniLSTraitCode.lua</File>
+    <File md5="97C8CF9B3D0F863FE4295A8A195946C6" import="1">DurraniEmpire/MapDurraniLSMod.dds</File>
+    <File md5="F6FB62B5AB4F761F3A7854F0E440A2CC" import="1">DurraniEmpire/Model/ararm1.blend</File>
+    <File md5="6B057A1537D48E7FE27AAEB2678AE905" import="1">DurraniEmpire/Model/ararm1.dds</File>
+    <File md5="8B6CEC6F521710D67923837FBC1256D3" import="1">DurraniEmpire/Model/ararm1.fbx</File>
+    <File md5="224F0A6B9338A1343446A49E7370D0C6" import="1">DurraniEmpire/Model/ararm1.fxsxml</File>
+    <File md5="084D8C3F0FD095D3C16CDEDA54A6E7A5" import="1">DurraniEmpire/Model/ararm1.gr2</File>
+    <File md5="F5FC75850857B9EF802154EAD6D9087B" import="1">DurraniEmpire/Model/ararm1_sref.dds</File>
+    <File md5="0AE72C3101A07F800707299518EBB4FC" import="1">DurraniEmpire/Model/ararm2.dds</File>
+    <File md5="B62B2C4D5A68CAA92F9AC852CB26C2AF" import="1">DurraniEmpire/Model/ararm2.fxsxml</File>
+    <File md5="9C6A8A654EDAF3C30D84D40CBE1C343D" import="1">DurraniEmpire/Model/ararm2.gr2</File>
+    <File md5="0DF56130DA2C1F5A9F2A33D1AB108D18" import="1">DurraniEmpire/Model/ararm2_sref.dds</File>
+    <File md5="5631E05F5F024620114B12B63C68022C" import="1">DurraniEmpire/Model/ararm3.dds</File>
+    <File md5="344E6864AF7438A7BB8DACFD2B5D1E2F" import="1">DurraniEmpire/Model/ararm3.fxsxml</File>
+    <File md5="8E63678C521D50CFFC9B7CA76A5100DF" import="1">DurraniEmpire/Model/ararm3.gr2</File>
+    <File md5="0809F8BDC11558C96CFEDEAB41DFA21F" import="1">DurraniEmpire/Model/ararm3_sref.dds</File>
+    <File md5="7F09FD64FF2A4B1CA3F4873064ACC7D7" import="0">DurraniEmpire/Model/DurraniMujArtDefine.sql</File>
+    <File md5="FE47E88C18B52BA9BE2D2FBE6D01C938" import="1">DurraniEmpire/DurMusicPeace.mp3</File>
+    <File md5="5AACF026771FDFD98FA8D9350FA2AB36" import="1">DurraniEmpire/DurMusicWar.mp3</File>
+    <File md5="A2179FDD33DEB800AF0032A019C18991" import="1">DurraniEmpire/SV_DurraniLS.dds</File>
+    <File md5="60BC8C0034F55C11C51DAE0F97F8DF9D" import="1">NepalKingdom/NepalLSWarTheme.mp3</File>
+    <File md5="1738FF41BCA83D2DF647C931C6C3579C" import="0">NepalKingdom/Diplomacy.sql</File>
+    <File md5="A6E985EF6A6967F65407CDF9115DD74E" import="1">NepalKingdom/DiploNepalLSMod.dds</File>
+    <File md5="83E02FD3504B92512775FDCFC9DA32A3" import="1">NepalKingdom/DoMNepalLSMod.dds</File>
+    <File md5="7D0FE3452E3DF95C1886B93F79C8CB88" import="1">NepalKingdom/MapNepalLSMod.dds</File>
+    <File md5="45E995F495560AE368F2700C389BA37E" import="1">NepalKingdom/Model/indgw1.blend</File>
+    <File md5="287A792333EE59996DE5567F15DA1FEB" import="1">NepalKingdom/Model/indgw1.dds</File>
+    <File md5="7BDEFBB38E73DA54248A94619E9C156A" import="1">NepalKingdom/Model/indgw1.fxsxml</File>
+    <File md5="398831A583646E92E379CC1727A83D3D" import="1">NepalKingdom/Model/indgw1.gr2</File>
+    <File md5="270FC6DCD42F5D8B0BA9BFF79A464653" import="0">NepalKingdom/Model/NepalGurkhaArtDefine.sql</File>
+    <File md5="0C759F1CED95795CCFBE40C6BD9A963C" import="1">NepalKingdom/Model/no_gloss.dds</File>
+    <File md5="4ED30615EB17A4E37A27A207892DC3DA" import="0">NepalKingdom/Nepal Building Mod.xml</File>
+    <File md5="822F9FBB9853F779AE212953538AE2EA" import="0">NepalKingdom/Nepal Civ Mod.xml</File>
+    <File md5="6D46F9DB43A508B50DD72CF98EAF47A0" import="1">NepalKingdom/NepalLSTraitCode.lua</File>
+    <File md5="BA3E3512B2344A0D85128D2028FA321D" import="0">NepalKingdom/Nepal Game Text Mod.xml</File>
+    <File md5="61B4F6315C264180A67296C52E938699" import="0">NepalKingdom/Nepal Leader Mod.xml</File>
+    <File md5="9A29846830AB164C4A505170F297A70E" import="0">NepalKingdom/NepalLSUnitCode.lua</File>
+    <File md5="A57EBC779827D73DE6371F5EF8DB7D18" import="0">NepalKingdom/Nepal Units Mod.xml</File>
+    <File md5="3A595827FAE5F109DE6515B445770715" import="1">NepalKingdom/NepalUnitAlphaAtlas.dds</File>
+    <File md5="22CED265AEE421EC716EE1B747281B14" import="1">NepalKingdom/Nepal_Leader_Scene_LS_Mod.xml</File>
+    <File md5="5754B1BE6E37A2F9D04D9D4149E5CDDF" import="1">NepalKingdom/SaveUtils.lua</File>
+    <File md5="9BB01BDFA29F7CB6F02237947A3A37F8" import="1">NepalKingdom/SV_NepalLS.dds</File>
+    <File md5="F0F6A48D8B01C9D68450696925CABA0E" import="1">NepalKingdom/NepalLSPeaceTheme.mp3</File>
+    <File md5="67ECFDD84F036E3C9275A11E52FF223B" import="1">Uncommon/AlphaLS4Atlas128.dds</File>
+    <File md5="8B47D73688599BE49BFE57ECA9A7B13D" import="1">Uncommon/AlphaLS4Atlas16.dds</File>
+    <File md5="D5F4F1D963778033B73ABE661AE590FF" import="1">Uncommon/AlphaLS4Atlas24.dds</File>
+    <File md5="F2E6267CF5B4136770A014188B779BEF" import="1">Uncommon/AlphaLS4Atlas32.dds</File>
+    <File md5="0F7F099298EBB1E6059276A967A6652D" import="1">Uncommon/AlphaLS4Atlas48.dds</File>
+    <File md5="6D5C18AF4D2902EF103244B132EA1298" import="1">Uncommon/AlphaLS4Atlas64.dds</File>
+    <File md5="305E6F1425B2158177CB62845CB9ED90" import="1">Uncommon/BuildingLS4Atlas128.dds</File>
+    <File md5="1298D715FD7C0666B45AA9DE6A363289" import="1">Uncommon/BuildingLS4Atlas256.dds</File>
+    <File md5="B469BA38A514C7209AA599A4F58FE298" import="1">Uncommon/BuildingLS4Atlas45.dds</File>
+    <File md5="D8480BEF65E311A55FFCFB6F6963520C" import="1">Uncommon/BuildingLS4Atlas64.dds</File>
+    <File md5="F63E777D01118E27386CE96B29ED3642" import="1">Uncommon/CivLS4Atlas128.dds</File>
+    <File md5="44D11912986D1A7786D15FBAD3D5589F" import="1">Uncommon/CivLS4Atlas256.dds</File>
+    <File md5="17FE602E5A7A256C64EE8D781D25E14A" import="1">Uncommon/CivLS4Atlas32.dds</File>
+    <File md5="C2A7AFBAC5FC0303CD18757978C18036" import="1">Uncommon/CivLS4Atlas45.dds</File>
+    <File md5="7508186E3CE305DF8393195B45440D05" import="1">Uncommon/CivLS4Atlas64.dds</File>
+    <File md5="83451090CB5463400731A1D3757A88A9" import="1">Uncommon/CivLS4Atlas80.dds</File>
+    <File md5="5EA73DBB6811DA14B6CDC7FBC2668946" import="1">Uncommon/LeaderLS4Atlas128.dds</File>
+    <File md5="5AF76CE88D57B7B0CFDE9B24E01E5914" import="1">Uncommon/LeaderLS4Atlas256.dds</File>
+    <File md5="03E035BB00D6AA8FB95224702C7B1DE3" import="1">Uncommon/LeaderLS4Atlas64.dds</File>
+    <File md5="9A0D52BEF6E2F75A836BA5C0ABFF801C" import="0">Uncommon/LS4 Atlas Mod.xml</File>
+    <File md5="80716EB4658ED437299A4790D8A74E9C" import="1">Uncommon/UnitLS4Atlas128.dds</File>
+    <File md5="1A526B6EEDE31ADF4766C8F447F8E3FE" import="1">Uncommon/UnitLS4Atlas256.dds</File>
+    <File md5="9568D6AF050DAAE8DAD305511F6596F4" import="1">Uncommon/UnitLS4Atlas45.dds</File>
+    <File md5="7695C3E7A129E1A07414FFE3097683F2" import="1">Uncommon/UnitLS4Atlas64.dds</File>
+    <File md5="C90311333CC22CE68C22AD7D94C30E2E" import="1">Uncommon/UnitLS4Atlas80.dds</File>
+  </Files>
+  <Actions>
+    <OnModActivated>
+      <UpdateDatabase>NepalKingdom/Nepal Building Mod.xml</UpdateDatabase>
+      <UpdateDatabase>NepalKingdom/Nepal Civ Mod.xml</UpdateDatabase>
+      <UpdateDatabase>NepalKingdom/Nepal Game Text Mod.xml</UpdateDatabase>
+      <UpdateDatabase>NepalKingdom/Nepal Leader Mod.xml</UpdateDatabase>
+      <UpdateDatabase>NepalKingdom/Nepal Units Mod.xml</UpdateDatabase>
+      <UpdateDatabase>DurraniEmpire/Durrani Building Mod.xml</UpdateDatabase>
+      <UpdateDatabase>DurraniEmpire/Durrani Civ Mod.xml</UpdateDatabase>
+      <UpdateDatabase>DurraniEmpire/Durrani Game Text Mod.xml</UpdateDatabase>
+      <UpdateDatabase>DurraniEmpire/Durrani Leader Mod.xml</UpdateDatabase>
+      <UpdateDatabase>DurraniEmpire/Durrani Units Mod.xml</UpdateDatabase>
+      <UpdateDatabase>AshantiEmpire/Ashanti Civ Mod.xml</UpdateDatabase>
+      <UpdateDatabase>AshantiEmpire/Ashanti Building Mod.xml</UpdateDatabase>
+      <UpdateDatabase>AshantiEmpire/Ashanti Game Text Mod.xml</UpdateDatabase>
+      <UpdateDatabase>AshantiEmpire/Ashanti Leader Mod.xml</UpdateDatabase>
+      <UpdateDatabase>AshantiEmpire/Ashanti Units Mod.xml</UpdateDatabase>
+      <UpdateDatabase>NepalKingdom/Model/NepalGurkhaArtDefine.sql</UpdateDatabase>
+      <UpdateDatabase>DurraniEmpire/Model/DurraniMujArtDefine.sql</UpdateDatabase>
+      <UpdateDatabase>AshantiEmpire/Model/AshantiCkofojArtDefine.sql</UpdateDatabase>
+      <UpdateDatabase>Uncommon/LS4 Atlas Mod.xml</UpdateDatabase>
+      <UpdateDatabase>NepalKingdom/Diplomacy.sql</UpdateDatabase>
+      <UpdateDatabase>AshantiEmpire/Diplomacy.sql</UpdateDatabase>
+      <UpdateDatabase>DurraniEmpire/Diplomacy.sql</UpdateDatabase>
+    </OnModActivated>
+  </Actions>
+  <EntryPoints>
+    <EntryPoint type="InGameUIAddin" file="AshantiEmpire/AshantiLSUnitCode.lua">
+      <Name>Ashanti Trait</Name>
+      <Description>
+      </Description>
+    </EntryPoint>
+    <EntryPoint type="InGameUIAddin" file="DurraniEmpire/DurraniLSUnitCode.lua">
+      <Name>Durrani Trait</Name>
+      <Description>
+      </Description>
+    </EntryPoint>
+    <EntryPoint type="InGameUIAddin" file="NepalKingdom/NepalLSUnitCode.lua">
+      <Name>Nepal Trait</Name>
+      <Description>
+      </Description>
+    </EntryPoint>
+  </EntryPoints>
+</Mod>

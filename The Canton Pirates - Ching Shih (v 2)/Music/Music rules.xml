@@ -1,0 +1,47 @@
+<GameData>
+	<Audio_Sounds>
+
+		<!--Ching Music-->
+		<Row>
+			<SoundID>SND_LEADER_MUSIC_CHING_PEACE</SoundID>
+			<Filename>ChingPeace</Filename>
+			<LoadType>DynamicResident</LoadType>
+		</Row>
+		<Row>
+			<SoundID>SND_LEADER_MUSIC_CHING_WAR</SoundID>
+			<Filename>ChingWar</Filename>
+			<LoadType>DynamicResident</LoadType>
+		</Row>
+		<!--Ching Music-->
+	</Audio_Sounds>
+	<Audio_2DSounds>
+		<!--Ching Music For Audio Scripts-->
+		<Row>
+			<ScriptID>AS2D_LEADER_MUSIC_CHING_SHIH_PEACE</ScriptID>
+			<SoundID>SND_LEADER_MUSIC_CHING_PEACE</SoundID>
+			<SoundType>GAME_MUSIC</SoundType>
+			<MinVolume>120</MinVolume>
+			<MaxVolume>120</MaxVolume>
+			<IsMusic>true</IsMusic>
+		</Row>
+		<Row>
+			<ScriptID>AS2D_LEADER_MUSIC_CHING_SHIH_WAR</ScriptID>
+			<SoundID>SND_LEADER_MUSIC_CHING_WAR</SoundID>
+			<SoundType>GAME_MUSIC</SoundType>
+			<MinVolume>80</MinVolume>
+			<MaxVolume>80</MaxVolume>
+			<IsMusic>true</IsMusic>
+		</Row>
+		<Row>
+			<ScriptID>AS2D_AMBIENCE_LEADER_CHING_SHIH_AMBIENCE</ScriptID>
+			<SoundID>SND_AMBIENCE_COAST_BED</SoundID>
+			<SoundType>GAME_SFX</SoundType>
+			<Looping>true</Looping>
+			<MinVolume>60</MinVolume>
+			<MaxVolume>60</MaxVolume>
+		</Row>
+		<!--Ching Music-->
+	</Audio_2DSounds>
+
+
+</GameData>

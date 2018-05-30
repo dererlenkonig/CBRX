@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 1/26/2013 12:42:20 PM -->
+<GameData>
+  <!-- TODO: Insert table creation example here. -->
+ 
+  <!-- TODO: Insert table data example here.-->
+  
+  <!-- Enter your Game Data here. -->
+	<Colors>
+		<Row>
+			<Type>COLOR_PLAYER_TOSA_BACKGROUND</Type>
+			<Red>0.4</Red>
+			<Green>0.4</Green>
+			<Blue>0.4</Blue>
+			<Alpha>1</Alpha>
+		</Row>
+	</Colors>
+	<PlayerColors>
+		<Row>
+			<Type>PLAYERCOLOR_TOSA</Type>
+			<PrimaryColor>COLOR_PLAYER_AMERICA_ICON</PrimaryColor>
+			<SecondaryColor>COLOR_PLAYER_TOSA_BACKGROUND</SecondaryColor>
+			<TextColor>COLOR_PLAYER_BLACK_TEXT</TextColor>
+		</Row>
+	</PlayerColors>
+</GameData>

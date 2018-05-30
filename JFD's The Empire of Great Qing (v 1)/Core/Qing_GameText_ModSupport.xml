@@ -1,0 +1,247 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 11/23/2013 1:27:25 PM -->
+<GameData>
+	<Language_en_US>
+		<!--GAZEBO COMMUNITY BALANCE OVERHAUL-->
+		<Row Tag="TXT_KEY_BUILDING_JFD_NAVAL_COLLEGE_HELP_CBO">
+			<Text>Requires 1 [ICON_RES_COAL] Coal. +15% [ICON_PRODUCTION] Production in City. +1 [ICON_PRODUCTION] Production and +1 [ICON_GOLD] Gold from all Ocean and Coastal tiles. +2 [ICON_PRODUCTION] Production and [ICON_GOLD] Gold from Sea Resources worked by this City.[NEWLINE][NEWLINE]City must be built on the coast, and cannot have a Train Station in the City.</Text>
+		</Row>
+		<!--JFD CITIES IN DEVELOPMENT-->
+		<!--JFD LOYALTY-->
+		<Row Tag="TXT_KEY_UNIT_JFD_PEKING_FORCE_STRATEGY_NATIONALISM">
+			<Text>The unique Peking Field Force replaces the Great War Infantry for Great Qing. Unlike the Great War Infantry, this unit is unlocked at Nationalism and is also trained at double the normal speed in the Capital. If upgraded from a Rifleman, this unit earns promotions 15% faster. These units will prove an effective last-line of defense against foes threatening the capital.</Text>
+		</Row>
+		<!--JFD PROVINCES-->
+		<Row Tag="TXT_KEY_PROVINCE_JFD_BARONY_DESC_JFD_QING">
+			<Text>Xiàn</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROVINCE_JFD_BARONY_DESC_RULER_JFD_QING">
+			<Text>Governor</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROVINCE_JFD_BARONY_DESC_RULER_JFD_QING_FEMININE">
+			<Text>Governor</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROVINCE_JFD_COUNTY_DESC_JFD_QING">
+			<Text>Fǔ</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROVINCE_JFD_COUNTY_DESC_RULER_JFD_QING">
+			<Text>Governor</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROVINCE_JFD_COUNTY_DESC_RULER_JFD_QING_FEMININE">
+			<Text>Governor</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROVINCE_JFD_DUCHY_DESC_JFD_QING">
+			<Text>Shěng</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROVINCE_JFD_DUCHY_DESC_RULER_JFD_QING">
+			<Text>Governor</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROVINCE_JFD_DUCHY_DESC_RULER_JFD_QING_FEMININE">
+			<Text>Governor</Text>
+		</Row>
+		<!--JFD RISE TO POWER-->
+		<!--JFD SOVEREIGNTY-->
+		<!--Government-->
+		<Row Tag="TXT_KEY_JFD_LEGISLATURE_NAME_CIVILIZATION_JFD_QING">
+			<Text>Grand Council</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_HEAD_OF_GOVERNMENT_TITLE_CIVILIZATION_JFD_QING">
+			<Text>Premier</Text>
+		</Row>
+		<!--Heads of Govt.-->
+		<Row Tag="TXT_KEY_JFD_HEAD_OF_GOVERNMENT_TITLE_CIVILIZATION_JFD_QING_1">
+			<Text>Yikuang</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_HEAD_OF_GOVERNMENT_TITLE_CIVILIZATION_JFD_QING_2">
+			<Text>Yuan Shikai</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_HEAD_OF_GOVERNMENT_TITLE_CIVILIZATION_JFD_QING_3">
+			<Text>Zhang Xun</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_HEAD_OF_GOVERNMENT_TITLE_CIVILIZATION_JFD_QING_4">
+			<Text>Li Hongzhang</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_HEAD_OF_GOVERNMENT_TITLE_CIVILIZATION_JFD_QING_5">
+			<Text>Wu Tang</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_HEAD_OF_GOVERNMENT_TITLE_CIVILIZATION_JFD_QING_6">
+			<Text>Ma Xinyi</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_HEAD_OF_GOVERNMENT_TITLE_CIVILIZATION_JFD_QING_7">
+			<Text>Zeng Guofan</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_HEAD_OF_GOVERNMENT_TITLE_CIVILIZATION_JFD_QING_8">
+			<Text>Guanwen</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_HEAD_OF_GOVERNMENT_TITLE_CIVILIZATION_JFD_QING_9">
+			<Text>Li Hanzhang</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_HEAD_OF_GOVERNMENT_TITLE_CIVILIZATION_JFD_QING_10">
+			<Text>Zeng Guofan</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_HEAD_OF_GOVERNMENT_TITLE_CIVILIZATION_JFD_QING_11">
+			<Text>Wang Wenzhao</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_HEAD_OF_GOVERNMENT_TITLE_CIVILIZATION_JFD_QING_12">
+			<Text>Tao Mo</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_HEAD_OF_GOVERNMENT_TITLE_CIVILIZATION_JFD_QING_13">
+			<Text>Tan Zhonglin</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_HEAD_OF_GOVERNMENT_TITLE_CIVILIZATION_JFD_QING_14">
+			<Text>Yu Lu</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_HEAD_OF_GOVERNMENT_TITLE_CIVILIZATION_JFD_QING_15">
+			<Text>Yuan Shikai</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_HEAD_OF_GOVERNMENT_TITLE_CIVILIZATION_JFD_QING_16">
+			<Text>Oboi</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_HEAD_OF_GOVERNMENT_TITLE_CIVILIZATION_JFD_QING_17">
+			<Text>Dorgon</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_HEAD_OF_GOVERNMENT_TITLE_CIVILIZATION_JFD_QING_18">
+			<Text>Prince Qing</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_HEAD_OF_GOVERNMENT_TITLE_CIVILIZATION_JFD_QING_19">
+			<Text>Ronglu</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_HEAD_OF_GOVERNMENT_TITLE_CIVILIZATION_JFD_QING_20">
+			<Text>Weng Tonghe</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_HEAD_OF_GOVERNMENT_TITLE_CIVILIZATION_JFD_QING_21">
+			<Text>Prince Chun</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_HEAD_OF_GOVERNMENT_TITLE_CIVILIZATION_JFD_QING_22">
+			<Text>Prince Gong</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_HEAD_OF_GOVERNMENT_TITLE_CIVILIZATION_JFD_QING_23">
+			<Text>Sushun</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_HEAD_OF_GOVERNMENT_TITLE_CIVILIZATION_JFD_QING_24">
+			<Text>Heshen</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_HEAD_OF_GOVERNMENT_TITLE_CIVILIZATION_JFD_QING_25">
+			<Text>Zhang Tingyu</Text>
+		</Row>
+		<!--Political Parties-->
+		<Row Tag="TXT_KEY_JFD_ASSEMBLY_JFD_MILITARY_JFD_QING">
+			<Text>Beiyang clique</Text>
+		</Row>
+		<!--SUKRITACT DECISIONS-->
+		<!--Abolish the Imperial Exams-->
+		<Row Tag="TXT_KEY_DECISIONS_JFD_QING_IMPERIAL_EXAMS">
+			<Text>Abolish the Imperial Exams</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_JFD_QING_IMPERIAL_EXAMS_DESC">
+			<Text>What is to account for our failures to modernize against our foes? The Imperial Exams. This system has left our government without the technical and bureaucratic creativity that we need. If we are to take our first step into modernity, we must do-away with this outdated institution.
+				[NEWLINE]-------------------------
+				[NEWLINE][COLOR_POSITIVE_TEXT]Requirements:[ENDCOLOR]
+				[NEWLINE]-------------------------
+				[NEWLINE][ICON_BULLET]Player must be Great Qing.
+				[NEWLINE][ICON_BULLET]May only be enacted from the beginning of the Industrial Era.
+				[NEWLINE][ICON_BULLET]May only be enacted once per game.
+				[NEWLINE]-------------------------
+				[NEWLINE][COLOR_POSITIVE_TEXT]Costs:[ENDCOLOR]
+				[NEWLINE]-------------------------
+				[NEWLINE][ICON_BULLET]{1_Num} [ICON_GOLD] Gold.
+				[NEWLINE][ICON_BULLET]{2_Num} [ICON_MAGISTRATES] Magistrates.
+				[NEWLINE]-------------------------
+				[NEWLINE][COLOR_POSITIVE_TEXT]Rewards:[ENDCOLOR]
+				[NEWLINE]-------------------------
+				[NEWLINE][ICON_BULLET]-15% [ICON_CULTURE] Social Policy cost.
+				[NEWLINE][NEWLINE][COLOR_WARNING_TEXT]Note: The [ICON_MAGISTRATES] Magistrates cost increases with every Policy Branch you have completed.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_JFD_QING_IMPERIAL_EXAMS_DESC_SOVEREIGNTY">
+			<Text>What is to account for our failures to modernize against our foes? The Imperial Exams. This system has left our government without the technical and bureaucratic creativity that we need. If we are to take our first step into modernity, we must do-away with this outdated institution.
+				[NEWLINE]-------------------------
+				[NEWLINE][COLOR_POSITIVE_TEXT]Requirements:[ENDCOLOR]
+				[NEWLINE]-------------------------
+				[NEWLINE][ICON_BULLET]Player must be Great Qing.
+				[NEWLINE][ICON_BULLET]May only be enacted from the beginning of the Industrial Era.
+				[NEWLINE][ICON_BULLET]May only be enacted once per game.
+				[NEWLINE]-------------------------
+				[NEWLINE][COLOR_POSITIVE_TEXT]Costs:[ENDCOLOR]
+				[NEWLINE]-------------------------
+				[NEWLINE][ICON_BULLET]{1_Num} [ICON_GOLD] Gold.
+				[NEWLINE][ICON_BULLET]{2_Num} [ICON_MAGISTRATES] Magistrates.
+				[NEWLINE]-------------------------
+				[NEWLINE][COLOR_POSITIVE_TEXT]Rewards:[ENDCOLOR]
+				[NEWLINE]-------------------------
+				[NEWLINE][ICON_BULLET]-15% [ICON_JFD_REFORM] Reform Cooldown.
+				[NEWLINE][NEWLINE][COLOR_WARNING_TEXT]Note: The [ICON_MAGISTRATES] Magistrates cost increases with every Policy Branch you have completed.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_JFD_QING_IMPERIAL_EXAMS_ENACTED_DESC">
+			<Text>What is to account for our failures to modernize against our foes? The Imperial Exams. This system has left our government without the technical and bureaucratic creativity that we need. If we are to take our first step into modernity, we must do-away with this outdated institution.
+				[NEWLINE]-------------------------
+				[NEWLINE][COLOR_POSITIVE_TEXT]Rewards:[ENDCOLOR]
+				[NEWLINE]-------------------------
+				[NEWLINE][ICON_BULLET]-15% [ICON_CULTURE] Social Policy cost.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_JFD_QING_IMPERIAL_EXAMS_ENACTED_DESC_SOVEREIGNTY">
+			<Text>What is to account for our failures to modernize against our foes? The Imperial Exams. This system has left our government without the technical and bureaucratic creativity that we need. If we are to take our first step into modernity, we must do-away with this outdated institution.
+				[NEWLINE]-------------------------
+				[NEWLINE][COLOR_POSITIVE_TEXT]Rewards:[ENDCOLOR]
+				[NEWLINE]-------------------------
+				[NEWLINE][ICON_BULLET]-15% [ICON_JFD_REFORM] Reform Cooldown.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_WORLD_EVENT_JFD_QING_IMPERIAL_EXAMS">
+			<Text>{1_LeaderName} of {2_CivName} has abolished the centuries-old tradition of the imperial examinations.</Text>
+		</Row>
+		<!--Support the Self-Strenghtening Movement-->
+		<Row Tag="TXT_KEY_DECISIONS_JFD_QING_SELF_STRENGTHENING">
+			<Text>Support the Self-Strenghtening Movement</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_JFD_QING_SELF_STRENGTHENING_DESC">
+			<Text>We may cherish the old worldview, but we cannot deny that our foes have far surpassed us in terms of military strengths. If we are to survive into the modern age, then we must concede to the officers that would instruct and arm our soldiers in the style of our foes.
+				-------------------------
+				[NEWLINE][COLOR_POSITIVE_TEXT]Requirements:[ENDCOLOR]
+				[NEWLINE]-------------------------
+				[NEWLINE][ICON_BULLET]Player must be Great Qing.
+				[NEWLINE][ICON_BULLET]May only be enacted from the beginning of the Renaissance Era.
+				[NEWLINE][ICON_BULLET]May only be enacted once per game.
+				[NEWLINE]-------------------------
+				[NEWLINE][COLOR_POSITIVE_TEXT]Costs:[ENDCOLOR]
+				[NEWLINE]-------------------------
+				[NEWLINE][ICON_BULLET]{1_Num} [ICON_GOLD] Gold.
+				[NEWLINE][ICON_BULLET]1 [ICON_MAGISTRATES] Magistrates.
+				[NEWLINE]-------------------------
+				[NEWLINE][COLOR_POSITIVE_TEXT]Rewards:[ENDCOLOR]
+				[NEWLINE]-------------------------
+				[NEWLINE][ICON_BULLET]Construct XP-giving Buildings 50% faster.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_JFD_QING_SELF_STRENGTHENING_DESC_CLAIMS">
+			<Text>We may cherish the old worldview, but we cannot deny that our foes have far surpassed us in terms of military strengths. If we are to survive into the modern age, then we must concede to the officers that would instruct and arm our soldiers in the style of our foes.
+				-------------------------
+				[NEWLINE][COLOR_POSITIVE_TEXT]Requirements:[ENDCOLOR]
+				[NEWLINE]-------------------------
+				[NEWLINE][ICON_BULLET]Player must be Great Qing.
+				[NEWLINE][ICON_BULLET]May only be enacted from the beginning of the Renaissance Era.
+				[NEWLINE][ICON_BULLET]May only be enacted once per game.
+				[NEWLINE]-------------------------
+				[NEWLINE][COLOR_POSITIVE_TEXT]Costs:[ENDCOLOR]
+				[NEWLINE]-------------------------
+				[NEWLINE][ICON_BULLET]{1_Num} [ICON_GOLD] Gold.
+				[NEWLINE][ICON_BULLET]1 [ICON_JFD_DIGNITARY] Dignitaries.
+				[NEWLINE][ICON_BULLET]1 [ICON_MAGISTRATES] Magistrates.
+				[NEWLINE]-------------------------
+				[NEWLINE][COLOR_POSITIVE_TEXT]Rewards:[ENDCOLOR]
+				[NEWLINE]-------------------------
+				[NEWLINE][ICON_BULLET]Construct XP-giving Buildings 50% faster.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_JFD_QING_SELF_STRENGTHENING_ENACTED_DESC">
+			<Text>We may cherish the old worldview, but we cannot deny that our foes have far surpassed us in terms of military strengths. If we are to survive into the modern age, then we must concede to the officers that would instruct and arm our soldiers in the style of our foes.
+				-------------------------
+				[NEWLINE][COLOR_POSITIVE_TEXT]Rewards:[ENDCOLOR]
+				[NEWLINE]-------------------------
+				[NEWLINE][ICON_BULLET]Construct XP-giving Buildings 50% faster.
+			</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

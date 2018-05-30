@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 7/13/2015 6:47:38 PM -->
+<GameData>
+	<UnitPromotions>
+		<Row>
+			<Type>PROMOTION_SENSHI_OPEN_PENALTY</Type>
+			<Description>TXT_KEY_PROMOTION_SENSHI_OPEN_PENALTY</Description>
+			<Help>TXT_KEY_PROMOTION_SENSHI_OPEN_PENALTY_HELP</Help>
+			<Sound>AS2D_IF_LEVELUP</Sound>
+			<CannotBeChosen>true</CannotBeChosen>
+			<PortraitIndex>57</PortraitIndex>
+			<IconAtlas>PROMOTION_ATLAS</IconAtlas>
+			<LostWithUpgrade>true</LostWithUpgrade>
+			<OpenDefense>15</OpenDefense>
+			<PediaType>PEDIA_ATTRIBUTES</PediaType>
+			<PediaEntry>TXT_KEY_PROMOTION_SENSHI_OPEN_PENALTY_HELP</PediaEntry>
+		</Row>
+		<Row>
+			<Type>PROMOTION_SENSHI_WOODSMAN</Type>
+			<Description>TXT_KEY_PROMOTION_WOODSMAN</Description>
+			<Help>TXT_KEY_PROMOTION_WOODSMAN_HELP</Help>
+			<Sound>AS2D_IF_LEVELUP</Sound>
+			<CannotBeChosen>true</CannotBeChosen>
+			<PortraitIndex>56</PortraitIndex>
+			<IconAtlas>PROMOTION_ATLAS</IconAtlas>
+			<PediaType>PEDIA_MELEE</PediaType>
+			<PediaEntry>TXT_KEY_PROMOTION_WOODSMAN</PediaEntry>
+		</Row>
+	</UnitPromotions>
+	<UnitPromotions_Features>
+		<Row>
+			<PromotionType>PROMOTION_SENSHI_WOODSMAN</PromotionType>
+			<FeatureType>FEATURE_JUNGLE</FeatureType>
+			<DoubleMove>true</DoubleMove>
+		</Row>
+		<Row>
+			<PromotionType>PROMOTION_SENSHI_WOODSMAN</PromotionType>
+			<FeatureType>FEATURE_FOREST</FeatureType>
+			<DoubleMove>true</DoubleMove>
+		</Row>
+	</UnitPromotions_Features>
+	<Language_en_US>
+		<Row Tag="TXT_KEY_PROMOTION_SENSHI_OPEN_PENALTY">
+			<Text>Open Terrain Penalty</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_SENSHI_OPEN_PENALTY_HELP">
+			<Text>33% Defense Penalty when in Open Terrain</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

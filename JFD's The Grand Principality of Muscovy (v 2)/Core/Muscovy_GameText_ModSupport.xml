@@ -1,0 +1,380 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 11/23/2013 1:27:25 PM -->
+<GameData>
+	<Language_en_US>
+		<!--GAZEBO COMMUNITY BALANCE OVERHAUL-->
+		<Row Tag="TXT_KEY_BUILDING_JFD_SOBOR_HELP_CBO">
+			<Text>Eliminates extra [ICON_HAPPINESS_4] Unhappiness from an [ICON_OCCUPIED] Occupied City. Reduces cost of acquiring new Tiles with [ICON_GOLD] Gold or [ICON_CULTURE] Culture based upon the city's [ICON_PEACE] Faith output.[NEWLINE][NEWLINE]+1 [ICON_CULTURE] Culture and +1 [ICON_GOLD] Gold from [ICON_RES_INCENSE] Incense and [ICON_RES_WINE] Wine. Reduces [ICON_HAPPINESS_3] Religious Unrest.[NEWLINE][NEWLINE]City must have a Shrine.</Text>
+		</Row>
+		<!--JFD CITIES IN DEVELOPMENT-->
+		<!--JFD HEALTH-->
+		<Row Tag="TXT_KEY_BUILDING_JFD_SOBOR_HELP_PIETY_HEALTH">
+			<Text>Eliminates extra [ICON_HAPPINESS_4] Unhappiness from an [ICON_OCCUPIED] Occupied City. Reduces cost of acquiring new Tiles with [ICON_GOLD] Gold or [ICON_CULTURE] Culture based upon the city's [ICON_PEACE] Faith output.[NEWLINE][NEWLINE]Each source of [ICON_RES_INCENSE] Incense and [ICON_RES_WINE] Wine worked by this City produce +1 [ICON_PEACE] Faith, +1 [ICON_CULTURE] Culture, and +1 [ICON_JFD_HEALTH] Health.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_JFD_SOBOR_HELP_PIETY_EXCE_HEALTH">
+			<Text>Eliminates extra [ICON_HAPPINESS_4] Unhappiness from an [ICON_OCCUPIED] Occupied City. Reduces cost of acquiring new Tiles with [ICON_GOLD] Gold or [ICON_CULTURE] Culture based upon the city's [ICON_PEACE] Faith output.[NEWLINE][NEWLINE]Each source of [ICON_RES_INCENSE] Incense, [ICON_RES_JFD_SAFFRON] Saffron, and [ICON_RES_WINE] Wine worked by this City produce +1 [ICON_PEACE] Faith, +1 [ICON_CULTURE] Culture, and +1 [ICON_JFD_HEALTH] Health.</Text>
+		</Row>
+		<!--JFD RISE TO POWER-->
+		<!--JFD PIETY-->
+		<Row Tag="TXT_KEY_BUILDING_JFD_SOBOR_HELP_PIETY">
+			<Text>Eliminates extra [ICON_HAPPINESS_4] Unhappiness from an [ICON_OCCUPIED] Occupied City. Reduces cost of acquiring new Tiles with [ICON_GOLD] Gold or [ICON_CULTURE] Culture based upon the city's [ICON_PEACE] Faith output.[NEWLINE][NEWLINE]Each source of [ICON_RES_INCENSE] Incense and [ICON_RES_WINE] Wine worked by this City produce +1 [ICON_PEACE] Faith, +1 [ICON_CULTURE] Culture, and +1 [ICON_JFD_HEALTH] Health.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_JFD_SOBOR_HELP_PIETY_EXCE">
+			<Text>Eliminates extra [ICON_HAPPINESS_4] Unhappiness from an [ICON_OCCUPIED] Occupied City. Reduces cost of acquiring new Tiles with [ICON_GOLD] Gold or [ICON_CULTURE] Culture based upon the city's [ICON_PEACE] Faith output.[NEWLINE][NEWLINE]Each source of [ICON_RES_INCENSE] Incense, [ICON_RES_JFD_SAFFRON] Saffron, and [ICON_RES_WINE] Wine worked by this City produce +1 [ICON_PEACE] Faith and +1 [ICON_CULTURE] Culture.</Text>
+		</Row>
+		<!--JFD SOVEREIGNTY-->
+		<!--Government-->
+		<Row Tag="TXT_KEY_JFD_LEGISLATURE_NAME_CIVILIZATION_MUSCOVY">
+			<Text>Boyar Duma</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_HEAD_OF_GOVERNMENT_TITLE_CIVILIZATION_MUSCOVY">
+			<Text>Pechatny Prikaz</Text>
+		</Row>
+		<!--Heads of Govt.-->
+		<Row Tag="TXT_KEY_JFD_HEAD_OF_GOVERNMENT_TITLE_CIVILIZATION_JFD_MUSCOVY_1">
+			<Text>Bogdan Belsky</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_HEAD_OF_GOVERNMENT_TITLE_CIVILIZATION_JFD_MUSCOVY_2">
+			<Text>Ivan Bersen-Beklemishev</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_HEAD_OF_GOVERNMENT_TITLE_CIVILIZATION_JFD_MUSCOVY_3">
+			<Text>Andrey Bolshoy</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_HEAD_OF_GOVERNMENT_TITLE_CIVILIZATION_JFD_MUSCOVY_4">
+			<Text>Aleksey Adashev</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_HEAD_OF_GOVERNMENT_TITLE_CIVILIZATION_JFD_MUSCOVY_5">
+			<Text>Ivan Cherkassky</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_HEAD_OF_GOVERNMENT_TITLE_CIVILIZATION_JFD_MUSCOVY_6">
+			<Text>Elena Glinskaya</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_HEAD_OF_GOVERNMENT_TITLE_CIVILIZATION_JFD_MUSCOVY_7">
+			<Text>Alexander Gorbatyi-Shuisky</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_HEAD_OF_GOVERNMENT_TITLE_CIVILIZATION_JFD_MUSCOVY_8">
+			<Text>Ivan Gramotin</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_HEAD_OF_GOVERNMENT_TITLE_CIVILIZATION_JFD_MUSCOVY_9">
+			<Text>Maximus the Greek</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_HEAD_OF_GOVERNMENT_TITLE_CIVILIZATION_JFD_MUSCOVY_10">
+			<Text>Inozemsky Prikaz</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_HEAD_OF_GOVERNMENT_TITLE_CIVILIZATION_JFD_MUSCOVY_11">
+			<Text>Almaz Ivanov</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_HEAD_OF_GOVERNMENT_TITLE_CIVILIZATION_JFD_MUSCOVY_12">
+			<Text>Fyodor Rtishchev</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_HEAD_OF_GOVERNMENT_TITLE_CIVILIZATION_JFD_MUSCOVY_13">
+			<Text>Boris Pushkin</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_HEAD_OF_GOVERNMENT_TITLE_CIVILIZATION_JFD_MUSCOVY_14">
+			<Text>Pyotr Potemkin</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_HEAD_OF_GOVERNMENT_TITLE_CIVILIZATION_JFD_MUSCOVY_15">
+			<Text>Vassian Patrikeyev</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_HEAD_OF_GOVERNMENT_TITLE_CIVILIZATION_JFD_MUSCOVY_16">
+			<Text>Boris Morozov</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_HEAD_OF_GOVERNMENT_TITLE_CIVILIZATION_JFD_MUSCOVY_17">
+			<Text>Kuzma Minin</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_HEAD_OF_GOVERNMENT_TITLE_CIVILIZATION_JFD_MUSCOVY_18">
+			<Text>Ilya Miloslavsky</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_HEAD_OF_GOVERNMENT_TITLE_CIVILIZATION_JFD_MUSCOVY_19">
+			<Text>Prokopy Lyapunov</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_HEAD_OF_GOVERNMENT_TITLE_CIVILIZATION_JFD_MUSCOVY_20">
+			<Text>Zakhary Lyapunov</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_HEAD_OF_GOVERNMENT_TITLE_CIVILIZATION_JFD_MUSCOVY_21">
+			<Text>Fyodor Kuritsyn</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_HEAD_OF_GOVERNMENT_TITLE_CIVILIZATION_JFD_MUSCOVY_22">
+			<Text>Andrey Kurbsky</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_HEAD_OF_GOVERNMENT_TITLE_CIVILIZATION_JFD_MUSCOVY_23">
+			<Text>Grigory Kotoshikhin</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_HEAD_OF_GOVERNMENT_TITLE_CIVILIZATION_JFD_MUSCOVY_24">
+			<Text>Ivan Nikitich Khovansky</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_HEAD_OF_GOVERNMENT_TITLE_CIVILIZATION_JFD_MUSCOVY_25">
+			<Text>Ivan Andreyevich Khovansky</Text>
+		</Row>
+		<!--City-States-->
+		<Row Tag="TXT_KEY_GOVERNMENT_JFD_TITLE_GOVERNMENT_JFD_PSKOV">
+			<Text>Pskov Republic</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GOVERNMENT_JFD_TITLE_LEADER_JFD_PSKOV">
+			<Text>Prince</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GOVERNMENT_JFD_TITLE_LEADER_JFD_PSKOV_FEMININE">
+			<Text>Prince</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GOVERNMENT_JFD_TITLE_GOVERNMENT_JFD_ROSTOV">
+			<Text>Principality of Rostov</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GOVERNMENT_JFD_TITLE_LEADER_JFD_ROSTOV">
+			<Text>Prince</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GOVERNMENT_JFD_TITLE_LEADER_JFD_ROSTOV_FEMININE">
+			<Text>Prince</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GOVERNMENT_JFD_TITLE_GOVERNMENT_JFD_SMOLENSK">
+			<Text>Principality of Smolensk</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GOVERNMENT_JFD_TITLE_LEADER_JFD_SMOLENSK">
+			<Text>Grand Prince</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GOVERNMENT_JFD_TITLE_LEADER_JFD_SMOLENSK_FEMININE">
+			<Text>Grand Prince</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GOVERNMENT_JFD_TITLE_GOVERNMENT_JFD_TMUTARAKAN">
+			<Text>Principality of Tmutarakan</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GOVERNMENT_JFD_TITLE_LEADER_JFD_TMUTARAKAN">
+			<Text>Prince</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GOVERNMENT_JFD_TITLE_LEADER_JFD_TMUTARAKAN_FEMININE">
+			<Text>Prince</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GOVERNMENT_JFD_TITLE_GOVERNMENT_JFD_VLADIMIR">
+			<Text>Grand Duchy of Vladimir</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GOVERNMENT_JFD_TITLE_LEADER_JFD_VLADIMIR">
+			<Text>Grand Duke</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GOVERNMENT_JFD_TITLE_LEADER_JFD_VLADIMIR_FEMININE">
+			<Text>Grand Duchess</Text>
+		</Row>
+		<!--SUKRITACT DECISIONS-->
+		<!--Establish the Russian Tsardom-->
+		<Row Tag="TXT_KEY_DECISIONS_JFD_MUSCOVY_RUSSIA">
+			<Text>Establish the Russian Tsardom</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_JFD_MUSCOVY_RUSSIA_DESC">
+			<Text>It cannot be tolerated that the ruler of the Russian people would be below that of Kings in other realms. Today, we declare ourselves Tsar - sovereign ruler of the Russian people and her empire, answerable and accountable only to almighty God.
+				[NEWLINE]-------------------------
+				[NEWLINE][COLOR_POSITIVE_TEXT]Requirements:[ENDCOLOR]
+				[NEWLINE]-------------------------
+				[NEWLINE][ICON_BULLET]Player must be Muscovy.
+				[NEWLINE][ICON_BULLET]Must control 3 foreign Capitals.
+				[NEWLINE][ICON_BULLET]May only be enacted from the beginning of the Medieval Era.
+				[NEWLINE][ICON_BULLET]May only be enacted once per game.
+				[NEWLINE]-------------------------
+				[NEWLINE][COLOR_POSITIVE_TEXT]Costs:[ENDCOLOR]
+				[NEWLINE]-------------------------
+				[NEWLINE][ICON_BULLET]{1_Num} [ICON_CULTURE] Culture.
+				[NEWLINE][ICON_BULLET]{2_Num} [ICON_PEACE] Faith.
+				[NEWLINE][ICON_BULLET]2 [ICON_MAGISTRATES] Magistrates.
+				[NEWLINE]-------------------------
+				[NEWLINE][COLOR_POSITIVE_TEXT]Rewards:[ENDCOLOR]
+				[NEWLINE]-------------------------
+				[NEWLINE][ICON_BULLET]Civilization becomes known as Russia.
+				[NEWLINE][ICON_BULLET]A [ICON_GOLDEN_AGE] Golden Age begins
+				[NEWLINE][ICON_BULLET]Builds St. Basil's in the [ICON_CAPITAL] Capital.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_JFD_MUSCOVY_RUSSIA_DESC_SOVEREIGNTY">
+			<Text>It cannot be tolerated that the ruler of the Russian people would be below that of Kings in other realms. Today, we declare ourselves Tsar - sovereign ruler of the Russian people and her empire, answerable and accountable only to almighty God.
+				[NEWLINE]-------------------------
+				[NEWLINE][COLOR_POSITIVE_TEXT]Requirements:[ENDCOLOR]
+				[NEWLINE]-------------------------
+				[NEWLINE][ICON_BULLET]Player must be Muscovy.
+				[NEWLINE][ICON_BULLET]Must have a Government.
+				[NEWLINE][ICON_BULLET]Must have at least 50% [ICON_JFD_SOVEREIGNTY] Sovereignty.
+				[ICON_BULLET]Must control 3 foreign Capitals.
+				[NEWLINE][ICON_BULLET]May only be enacted from the beginning of the Medieval Era.
+				[NEWLINE][ICON_BULLET]May only be enacted once per game.
+				[NEWLINE]-------------------------
+				[NEWLINE][COLOR_POSITIVE_TEXT]Costs:[ENDCOLOR]
+				[NEWLINE]-------------------------
+				[NEWLINE][ICON_BULLET]{1_Num} [ICON_CULTURE] Culture.
+				[NEWLINE][ICON_BULLET]{2_Num} [ICON_PEACE] Faith.
+				[NEWLINE][ICON_BULLET]2 [ICON_MAGISTRATES] Magistrates.
+				[NEWLINE]-------------------------
+				[NEWLINE][COLOR_POSITIVE_TEXT]Rewards:[ENDCOLOR]
+				[NEWLINE]-------------------------
+				[NEWLINE][ICON_BULLET]Civilization becomes known as Russia.
+				[NEWLINE][ICON_BULLET]A [ICON_GOLDEN_AGE] Golden Age begins
+				[NEWLINE][ICON_BULLET]Passes the [ICON_JFD_REFORM] Absolute (Executive) Reform without incurring Cooldown.
+				[NEWLINE][ICON_BULLET]Builds St. Basil's in the [ICON_CAPITAL] Capital.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_JFD_MUSCOVY_RUSSIA_ENACTED_DESC">
+			<Text>It cannot be tolerated that the ruler of the Russian people is but a mere Grand Prince; below that of Kings in other realms. Today, we declare ourselves Tsar - sovereign ruler of the Russian people and her empire, answerable and accountable only to almighty God.
+				[NEWLINE]-------------------------
+				[NEWLINE][COLOR_POSITIVE_TEXT]Rewards:[ENDCOLOR]
+				[NEWLINE]-------------------------
+				[NEWLINE][ICON_BULLET]Civilization becomes known as Russia.
+				[NEWLINE][ICON_BULLET]A [ICON_GOLDEN_AGE] Golden Age begins
+				[NEWLINE][ICON_BULLET]Builds St. Basil's in the [ICON_CAPITAL] Capital.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_JFD_MUSCOVY_RUSSIA_ENACTED_DESC_SOVEREIGNTY">
+			<Text>It cannot be tolerated that the ruler of the Russian people is but a mere Grand Prince; below that of Kings in other realms. Today, we declare ourselves Tsar - sovereign ruler of the Russian people and her empire, answerable and accountable only to almighty God.
+				[NEWLINE]-------------------------
+				[NEWLINE][COLOR_POSITIVE_TEXT]Rewards:[ENDCOLOR]
+				[NEWLINE]-------------------------
+				[NEWLINE][ICON_BULLET]Civilization becomes known as Russia.
+				[NEWLINE][ICON_BULLET]A [ICON_GOLDEN_AGE] Golden Age begins
+				[NEWLINE][ICON_BULLET]Builds St. Basil's in the [ICON_CAPITAL] Capital.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_WORLD_EVENT_JFD_MUSCOVY_RUSSIA">
+			<Text>{1_LeaderName} has consolidated his power over the Rus' and has declared himself Tsar of All the Russias.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_BUILDING_JFD_ST_BASILS">
+			<Text>St. Basil's</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_BUILDING_JFD_ST_BASILS_HELP">
+			<Text>Free Cathedrals in this city.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_BUILDING_JFD_ST_BASILS_HELP_SOVEREIGNTY">
+			<Text>+10% [ICON_JFD_SOVEREIGNTY] Sovereignty during [ICON_GOLDEN_AGE] Golden Ages. Free Cathedrals in this city.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_BUILDING_JFD_ST_BASILS_CIVILOPEDIA">
+			<Text>The Cathedral of Vasily the Blessed, commonly known as the Cathedral of Saint Basil, is a former church in Red Square in Moscow, Russia. The building, now a museum, is officially known as the Cathedral of the Intercession of the Most Holy Theotokos on the Moat or Pokrovsky Cathedral. It was built from 1555 on orders from Ivan the Terrible and commemorates the capture of Kazan and Astrakhan. A world famous landmark, it has been the hub of growth since the 14th century and was the tallest building in the city until the completion of the Ivan the Great Bell Tower in 1600.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_BUILDING_JFD_ST_BASILS_QUOTE">
+			<Text>[NEWLINE]"And he that sat was to look upon like a jasper and a sardine stone: and there was a rainbow round about the throne, in sight like unto an emerald."[NEWLINE] -  Revelation, 4:3 - 4:4[NEWLINE]</Text>
+		</Row>
+		<!--Unleash the Oprichniki-->
+		<Row Tag="TXT_KEY_DECISIONS_JFD_MUSCOVY_OPRICHNIK">
+			<Text>Unleash the Oprichniki</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_JFD_MUSCOVY_OPRICHNIK_DESC">
+			<Text>
+				The hereditary nobility is the biggest threat to our power. We must send the Oprichniki to purge the state of those nobles whose loyalty is questionable.
+				[NEWLINE]-------------------------
+				[NEWLINE][COLOR_POSITIVE_TEXT]Requirements:[ENDCOLOR]
+				[NEWLINE]-------------------------
+				[NEWLINE][ICON_BULLET]Player must be Muscovy.
+				[NEWLINE][ICON_BULLET]May only be enacted from the beginning of the Medieval Era.
+				[NEWLINE][ICON_BULLET]May only be enacted once per era.
+				[NEWLINE]-------------------------
+				[NEWLINE][COLOR_POSITIVE_TEXT]Costs:[ENDCOLOR]
+				[NEWLINE]-------------------------
+				[NEWLINE][ICON_BULLET]{1_Num} [ICON_GOLDEN_AGE] Golden Age Points.
+				[NEWLINE][ICON_BULLET]1 [ICON_MAGISTRATES] Magistrates.
+				[NEWLINE]-------------------------
+				[NEWLINE][COLOR_POSITIVE_TEXT]Rewards:[ENDCOLOR]
+				[NEWLINE]-------------------------
+				[NEWLINE][ICON_BULLET][ICON_RESISTANCE] Resistance is reset in all cities.
+				[NEWLINE][NEWLINE][COLOR_NEGATIVE_TEXT]Note: The [ICON_GOLDEN_AGE] Golden Age cost increases with each city that you own.[ENDCOLOR]
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_JFD_MUSCOVY_OPRICHNIK_DESC_HAPPINESS">
+			<Text>
+				The hereditary nobility is the biggest threat to our power. We must send the Oprichniki to purge the state of those nobles whose loyalty is questionable.
+				[NEWLINE]-------------------------
+				[NEWLINE][COLOR_POSITIVE_TEXT]Requirements:[ENDCOLOR]
+				[NEWLINE]-------------------------
+				[NEWLINE][ICON_BULLET]Player must be Muscovy.
+				[NEWLINE][ICON_BULLET]May only be enacted from the beginning of the Medieval Era.
+				[NEWLINE][ICON_BULLET]May only be enacted once per era.
+				[NEWLINE]-------------------------
+				[NEWLINE][COLOR_POSITIVE_TEXT]Costs:[ENDCOLOR]
+				[NEWLINE]-------------------------
+				[NEWLINE][ICON_BULLET]{1_Num} [ICON_GOLDEN_AGE] Golden Age Points.
+				[NEWLINE][ICON_BULLET]1 [ICON_MAGISTRATES] Magistrates.
+				[NEWLINE]-------------------------
+				[NEWLINE][COLOR_POSITIVE_TEXT]Rewards:[ENDCOLOR]
+				[NEWLINE]-------------------------
+				[NEWLINE][ICON_BULLET][ICON_RESISTANCE] Resistance is reset in all cities.
+				[NEWLINE][ICON_BULLET]All cities' Resistance Counters are reset.
+				[NEWLINE][COLOR_NEGATIVE_TEXT]Note: The [ICON_GOLDEN_AGE] Golden Age cost increases with each city that you own.[ENDCOLOR]
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_JFD_MUSCOVY_OPRICHNIK_ENACTED_DESC">
+			<Text>
+				The hereditary nobility is the biggest threat to our power. We must send the Oprichniki to purge the state of those nobles whose loyalty is questionable.
+				[NEWLINE]-------------------------
+				[NEWLINE][COLOR_POSITIVE_TEXT]Rewards:[ENDCOLOR]
+				[NEWLINE]-------------------------
+				[NEWLINE][ICON_BULLET][ICON_RESISTANCE] Resistance is reset in all cities.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_JFD_MUSCOVY_OPRICHNIK_ENACTED_DESC_HAPPINESS">
+			<Text>
+				The hereditary nobility is the biggest threat to our power. We must send the Oprichniki to purge the state of those nobles whose loyalty is questionable.
+				[NEWLINE]-------------------------
+				[NEWLINE][COLOR_POSITIVE_TEXT]Rewards:[ENDCOLOR]
+				[NEWLINE]-------------------------
+				[NEWLINE][ICON_BULLET][ICON_RESISTANCE] Resistance is reset in all cities.
+				[NEWLINE][ICON_BULLET]All cities' Resistance Counters are reset.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_WORLD_EVENT_JFD_MUSCOVY_OPRICHNIK">
+			<Text>{1_LeaderName} of {2_CivDesc} has unleashed the Oprichnik upon his cities to terrorize his subjects.</Text>
+		</Row>
+		<!--SUKRITACT EVENTS-->
+		<!--Cultural Development-->
+		<Row Tag="TXT_KEY_EVENT_CULDEV_JFD_MUSCOVY_01">
+			<Text>The people of {1_CityName} have begun drinking a strange new concoction of sweet honey and beer! They call the drink Medovukha.</Text>
+		</Row>
+		<!--The Printing Press-->
+		<Row Tag="TXT_KEY_EVENT_JFD_MUSCOVY_PRINTING_PRESS">
+			<Text>The Printing Press</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_JFD_MUSCOVY_PRINTING_PRESS_DESC">
+			<Text>Word has reached our court of the creation of the printing press - a machine said to be capable of replicating written works many times faster than any man. Our courtiers have already begun contemplating what worth this machine might have in increasing the distribution of religious and legal texts throughout the empire. We should consider whether the printing press might have a place in our people's lives.[NEWLINE]
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_JFD_MUSCOVY_PRINTING_PRESS_OUTCOME_1">
+			<Text>Turn away this devilry. It is a waste of gold.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_JFD_MUSCOVY_PRINTING_PRESS_OUTCOME_RESULT_1">
+			<Text>[ICON_BULLET][COLOR_NEGATIVE_TEXT]Nothing[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_MUSCOVY_PRINTING_PRESS_OUTCOME_RESULT_1_NOTIFICATION">
+			<Text>We have refused to adopt the Printing Press.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_JFD_MUSCOVY_PRINTING_PRESS_OUTCOME_2">
+			<Text>We shall endorse this innovation.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_JFD_MUSCOVY_PRINTING_PRESS_OUTCOME_RESULT_2">
+			<Text>[ICON_BULLET][COLOR_NEGATIVE_TEXT]Lose {1_Num} [ICON_GOLD] Gold[NEWLINE][COLOR_POSITIVE_TEXT][ICON_BULLET]Gain the Printing Press technology[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_MUSCOVY_PRINTING_PRESS_OUTCOME_RESULT_2_NOTIFICATION">
+			<Text>We have adopted the Printing Press.</Text>
+		</Row>
+		<!--Conspiring Nobles-->
+		<Row Tag="TXT_KEY_EVENT_JFD_MUSCOVY_CONSPIRING_NOBLES">
+			<Text>Conspiring Nobles</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_JFD_MUSCOVY_CONSPIRING_NOBLES_DESC">
+			<Text>We have learned that several noblemen at {1_CityName} are conspiring against us. There is a plot to overthrow us, and there is almost certainly irrefutable evidence to back this up. Probably.[NEWLINE]
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_JFD_MUSCOVY_CONSPIRING_NOBLES_OUTCOME_1">
+			<Text>Those wretches need to be taught a lesson.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_JFD_MUSCOVY_CONSPIRING_NOBLES_OUTCOME_RESULT_1">
+			<Text>[ICON_BULLET][COLOR_NEGATIVE_TEXT]{1_CityName} begins [ICON_RAZING] Razing[NEWLINE][ICON_BULLET]Lose {2_Num} [ICON_GOLDEN_AGE] Golden Age Points[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_MUSCOVY_CONSPIRING_NOBLES_OUTCOME_RESULT_1_NOTIFICATION">
+			<Text>We have mercilessly set the city of {1_CityName} to light for their perceived transgressions.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_JFD_MUSCOVY_CONSPIRING_NOBLES_OUTCOME_2">
+			<Text>Probably my imagination.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_JFD_MUSCOVY_CONSPIRING_NOBLES_OUTCOME_RESULT_2">
+			<Text>[ICON_BULLET][COLOR_NEGATIVE_TEXT]30% chance {1_CityName} will go into 1 turn of [ICON_RESISTANCE] Resistance[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_MUSCOVY_CONSPIRING_NOBLES_OUTCOME_RESULT_2_NOTIFICATION">
+			<Text>We have not followed up on suspicions that noblemen from {1_CityName} are conspiring against us.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_MUSCOVY_CONSPIRING_NOBLES_OUTCOME_RESULT_2_ALT_NOTIFICATION">
+			<Text>We have not followed up on suspicions that noblemen from {1_CityName} are conspiring against us. Unfortunately for us, these suspicions seem to have been correct, and the city has revolted.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_WORLD_EVENT_JFD_MUSCOVY_CONSPIRING_NOBLES">
+			<Text>{1_LeaderName} has started a bloody massacre of the nobility in the {2_CivAdj} city of {3_CityName}.</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

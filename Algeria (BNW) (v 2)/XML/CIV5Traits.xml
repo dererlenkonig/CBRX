@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 2/18/2013 10:25:28 PM -->
+<GameData>
+	<Traits>
+		<Row>
+			<Type>TRAIT_DJSH_ALGERIA_SAINT_AMONG_PRINCES</Type>
+			<Description>TXT_KEY_TRAIT_DJSH_ALGERIA_SAINT_AMONG_PRINCES</Description>
+			<ShortDescription>TXT_KEY_TRAIT_DJSH_ALGERIA_SAINT_AMONG_PRINCES_SHORT</ShortDescription>
+		</Row>
+	</Traits>
+	<Trait_Terrains>
+		<Row>
+			<TraitType>TRAIT_DJSH_ALGERIA_SAINT_AMONG_PRINCES</TraitType>
+			<TerrainType>TERRAIN_DESERT</TerrainType>
+			<StrategicResourceQuantityModifier>100</StrategicResourceQuantityModifier>
+		</Row>
+	</Trait_Terrains>
+</GameData>

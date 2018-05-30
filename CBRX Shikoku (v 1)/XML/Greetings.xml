@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 1/1/2017 4:15:39 PM -->
+<GameData>
+  <!-- TODO: Insert table creation example here. -->
+ 
+  <!-- TODO: Insert table data example here.-->
+  
+  <!-- Enter your Game Data here. -->
+	<Diplomacy_Responses>
+		<Row LeaderType="LEADER_RYOMA">
+			<ResponseType>RESPONSE_FIRST_GREETING</ResponseType>
+			<Response>TXT_KEY_LEADER_RYOMA_FIRST_GREETING_%</Response>
+		</Row>
+	</Diplomacy_Responses>
+</GameData>

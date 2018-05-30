@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 3/3/2018 2:23:43 PM -->
+<GameData>
+	<Civilizations_YagemStartPosition>
+		<Row>
+			<Type>CIVILIZATION_SELKNAM</Type>
+			<X>156</X>
+			<Y>4</Y>
+		</Row>
+	</Civilizations_YagemStartPosition>
+	<Civilizations_YahemStartPosition>
+		<Row>
+			<Type>CIVILIZATION_SELKNAM</Type>
+			<X>34</X>
+			<Y>4</Y>
+		</Row>
+	</Civilizations_YahemStartPosition>
+	<Civilizations_CordiformStartPosition>
+		<Row>
+			<Type>CIVILIZATION_SELKNAM</Type>
+			<X>19</X>
+			<Y>4</Y>
+		</Row>
+	</Civilizations_CordiformStartPosition>
+	<Civilizations_AmericaStandardStartPosition>
+		<Row>
+			<Type>CIVILIZATION_SELKNAM</Type>
+			<X>50</X>
+			<Y>4</Y>
+		</Row>
+	</Civilizations_AmericaStandardStartPosition>
+	<Civilizations_GreatestEarthStartPosition>
+		<Row>
+			<Type>CIVILIZATION_SELKNAM</Type>
+			<X>26</X>
+			<Y>3</Y>
+		</Row>
+	</Civilizations_GreatestEarthStartPosition>
+</GameData>

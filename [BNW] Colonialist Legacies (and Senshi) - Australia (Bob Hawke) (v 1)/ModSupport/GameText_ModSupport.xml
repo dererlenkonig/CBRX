@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 11/23/2013 1:27:25 PM -->
+<GameData>
+	<Language_en_US>
+		<!--JFD SOVEREIGNTY-->
+		<Row Tag="TXT_KEY_JFD_LEGISLATURE_NAME_CIVILIZATION_SENSHI_HAWKE">
+			<Text>Commonwealth</Text>
+		</Row>
+		<!--Heads of Govt.-->
+		<Row Tag="TXT_KEY_JFD_HEAD_OF_GOVERNMENT_TITLE_CIVILIZATION_SENSHI_HAWKE">
+			<Text>Minister</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_HEAD_OF_GOVERNMENT_TITLE_CIVILIZATION_SENSHI_HAWKE_1">
+			<Text>Edmund Barton</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_HEAD_OF_GOVERNMENT_TITLE_CIVILIZATION_SENSHI_HAWKE_2">
+			<Text>Alfred Deakin</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_HEAD_OF_GOVERNMENT_TITLE_CIVILIZATION_SENSHI_HAWKE_3">
+			<Text>Chris Watson</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_HEAD_OF_GOVERNMENT_TITLE_CIVILIZATION_SENSHI_HAWKE_4">
+			<Text>George Reid</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_HEAD_OF_GOVERNMENT_TITLE_CIVILIZATION_SENSHI_HAWKE_5">
+			<Text>Andrew Fisher</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_HEAD_OF_GOVERNMENT_TITLE_CIVILIZATION_SENSHI_HAWKE_6">
+			<Text>Joseph Cook</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_HEAD_OF_GOVERNMENT_TITLE_CIVILIZATION_SENSHI_HAWKE_7">
+			<Text>Billy Hughes</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_HEAD_OF_GOVERNMENT_TITLE_CIVILIZATION_SENSHI_HAWKE_8">
+			<Text>Stanley Bruce</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_HEAD_OF_GOVERNMENT_TITLE_CIVILIZATION_SENSHI_HAWKE_9">
+			<Text>James Scullin</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_HEAD_OF_GOVERNMENT_TITLE_CIVILIZATION_SENSHI_HAWKE_10">
+			<Text>Joseph Lyons</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_HEAD_OF_GOVERNMENT_TITLE_CIVILIZATION_SENSHI_HAWKE_11">
+			<Text>Earle Page</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_HEAD_OF_GOVERNMENT_TITLE_CIVILIZATION_SENSHI_HAWKE_12">
+			<Text>Robert Menzies</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_HEAD_OF_GOVERNMENT_TITLE_CIVILIZATION_SENSHI_HAWKE_13">
+			<Text>Arthur Fadden</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_HEAD_OF_GOVERNMENT_TITLE_CIVILIZATION_SENSHI_HAWKE_14">
+			<Text>John Curtin</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_HEAD_OF_GOVERNMENT_TITLE_CIVILIZATION_SENSHI_HAWKE_15">
+			<Text>Frank Forde</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_HEAD_OF_GOVERNMENT_TITLE_CIVILIZATION_SENSHI_HAWKE_16">
+			<Text>Ben Chifley</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_HEAD_OF_GOVERNMENT_TITLE_CIVILIZATION_SENSHI_HAWKE_17">
+			<Text>Harold Holt</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_HEAD_OF_GOVERNMENT_TITLE_CIVILIZATION_SENSHI_HAWKE_18">
+			<Text>John McEwen</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_HEAD_OF_GOVERNMENT_TITLE_CIVILIZATION_SENSHI_HAWKE_19">
+			<Text>John Gorton</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_HEAD_OF_GOVERNMENT_TITLE_CIVILIZATION_SENSHI_HAWKE_20">
+			<Text>Milliam McMahon</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_HEAD_OF_GOVERNMENT_TITLE_CIVILIZATION_SENSHI_HAWKE_21">
+			<Text>Gough Whitlam</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_HEAD_OF_GOVERNMENT_TITLE_CIVILIZATION_SENSHI_HAWKE_22">
+			<Text>Malcolm Fraser</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_HEAD_OF_GOVERNMENT_TITLE_CIVILIZATION_SENSHI_HAWKE_23">
+			<Text>Paul Keating</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_HEAD_OF_GOVERNMENT_TITLE_CIVILIZATION_SENSHI_HAWKE_24">
+			<Text>John Howard</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_HEAD_OF_GOVERNMENT_TITLE_CIVILIZATION_SENSHI_HAWKE_25">
+			<Text>Kevin Rudd</Text>
+		</Row>
+		<!--RYOGA UNIQUE CULTURAL INFLUENCE-->
+		<Row Tag="TXT_KEY_GENERIC_SENSHI_HAWKE_INFLUENTIAL_ON_AI_1">
+			<Text>Our people are now singing songs about yeast-based spreads and demanding I step down in favour of a high-school dropout! I worry the rest of the world will also succumb to the influence of your culture.</Text>
+		</Row>
+		<!--EVENTS & DECISIONS-->
+		<Row Tag="TXT_KEY_DECISIONS_SENSHI_KIRRIBILLI">
+			<Text>Kirribilli Agreement</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_SENSHI_KIRRIBILLI_DESC">
+			<Text>
+				The people have apparently decided you're too "tired" to continue leading our country, and want you to step down in favour of your deputy, Paul Keating. While this surely isn't ideal for you, his skill in economics COULD be very useful...[NEWLINE]
+				[NEWLINE]Requirement/Restrictions:
+				[NEWLINE][ICON_BULLET]Player must be Australia
+				[NEWLINE][ICON_BULLET]Must have entered the Modern Era
+				[NEWLINE][ICON_BULLET]May only be enacted once per game
+				[NEWLINE]Costs:
+				[NEWLINE][ICON_BULLET]1 [ICON_MAGISTRATES] Magistrates
+				[NEWLINE]Rewards:
+				[NEWLINE][ICON_BULLET]Merchant Specialists generate an additional +1 [ICON_GOLD] Gold
+				[NEWLINE][ICON_BULLET]A Great Merchant appears near the Capital
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_SENSHI_KIRRIBILLI_ENACTED_DESC">
+			<Text>
+				Our old Parliament was meant to be temporary, and now it's running out of space for our national debates! We should build a new one as soon as possible![NEWLINE]
+				[NEWLINE]Rewards:
+				[NEWLINE][ICON_BULLET]Merchant Specialists generate an additional +1 [ICON_GOLD] Gold
+				[NEWLINE][ICON_BULLET]A Great Merchant appears near the Capital
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_SENSHI_NEWPARLIAMENT">
+			<Text>Construct a New Parliament House</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_SENSHI_NEWPARLIAMENT_DESC">
+			<Text>
+				Our old Parliament was meant to be temporary, and now it's running out of space for our national debates! We should build a new one as soon as possible![NEWLINE]
+				[NEWLINE]Requirement/Restrictions:
+				[NEWLINE][ICON_BULLET]Player must be Australia
+				[NEWLINE][ICON_BULLET]Must have researched Banking
+				[NEWLINE][ICON_BULLET]May only be enacted once per game
+				[NEWLINE]Costs:
+				[NEWLINE][ICON_BULLET]1 [ICON_MAGISTRATES] Magistrates
+				[NEWLINE][ICON_BULLET]{1_Cost} [ICON_GOLD] Gold
+				[NEWLINE]Rewards:
+				[NEWLINE][ICON_BULLET]+2 [ICON_CULTURE] Culture from Constabularies and the Palace
+				[NEWLINE][ICON_BULLET]A Great Engineer appears near the Capital
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_SENSHI_NEWPARLIAMENT_ENACTED_DESC">
+			<Text>
+				Our old Parliament was meant to be temporary, and now it's running out of space for our national debates! We should build a new one as soon as possible![NEWLINE]
+				[NEWLINE]Rewards:
+				[NEWLINE][ICON_BULLET]+2 [ICON_CULTURE] Culture from Constabularies and the Palace
+				[NEWLINE][ICON_BULLET]A Great Engineer appears near the Capital
+			</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

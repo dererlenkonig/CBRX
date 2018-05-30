@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 1/26/2013 12:41:53 PM -->
+<GameData>
+  <!-- TODO: Insert table creation example here. -->
+ 
+  <!-- TODO: Insert table data example here.-->
+  
+  <!-- Enter your Game Data here. -->
+	<Civilization_CityNames>
+		<Row>
+			<CivilizationType>CIVILIZATION_TOSA</CivilizationType>
+			<CityName>Kochi</CityName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_TOSA</CivilizationType>
+			<CityName>Matsuyama</CityName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_TOSA</CivilizationType>
+			<CityName>Imabari</CityName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_TOSA</CivilizationType>
+			<CityName>Aki</CityName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_TOSA</CivilizationType>
+			<CityName>Nankoku</CityName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_TOSA</CivilizationType>
+			<CityName>Uwa</CityName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_TOSA</CivilizationType>
+			<CityName>Muroto</CityName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_TOSA</CivilizationType>
+			<CityName>Shizunai</CityName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_TOSA</CivilizationType>
+			<CityName>Asakura</CityName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_TOSA</CivilizationType>
+			<CityName>Shimantogawa</CityName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_TOSA</CivilizationType>
+			<CityName>Mimaomote</CityName>
+		</Row>
+	</Civilization_CityNames>
+</GameData>

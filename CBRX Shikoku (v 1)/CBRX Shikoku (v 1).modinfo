@@ -1,0 +1,98 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mod id="d3e167b4-caad-4ad5-8ca0-20e2eecf9143" version="1">
+  <Properties>
+    <Name>CBRX Shikoku</Name>
+    <Stability>Alpha</Stability>
+    <Teaser>CBRX Shikoku</Teaser>
+    <Description>CBRX Shikoku</Description>
+    <Authors>Homusubi, Limerickarcher</Authors>
+    <SpecialThanks>JFD</SpecialThanks>
+    <HideSetupGame>0</HideSetupGame>
+    <AffectsSavedGames>1</AffectsSavedGames>
+    <MinCompatibleSaveVersion>0</MinCompatibleSaveVersion>
+    <SupportsSinglePlayer>1</SupportsSinglePlayer>
+    <SupportsMultiplayer>0</SupportsMultiplayer>
+    <SupportsHotSeat>0</SupportsHotSeat>
+    <SupportsMac>1</SupportsMac>
+    <ReloadAudioSystem>1</ReloadAudioSystem>
+    <ReloadLandmarkSystem>1</ReloadLandmarkSystem>
+    <ReloadStrategicViewSystem>1</ReloadStrategicViewSystem>
+    <ReloadUnitSystem>1</ReloadUnitSystem>
+  </Properties>
+  <Dependencies />
+  <References />
+  <Blocks />
+  <Files>
+    <File md5="B191AC959C4F35327A10F2B1CF531589" import="0">Art/ArtDefines.sql</File>
+    <File md5="61222EE1744B4BD38BE7EBA06B2D8815" import="1">Art/Atlases/DOMPlaceholder.dds</File>
+    <File md5="466F3CC2395B63100AD1D19038E2C499" import="1">Art/Atlases/JapanAlphaKamon128.dds</File>
+    <File md5="8C5EDDAA3C715765FA99E645D6F15C51" import="1">Art/Atlases/JapanAlphaKamon16.dds</File>
+    <File md5="9EA2939D7D20F0F83D26ED81F91853C3" import="1">Art/Atlases/JapanAlphaKamon24.dds</File>
+    <File md5="4810680F79D2A88955864C2B71419F56" import="1">Art/Atlases/JapanAlphaKamon256.dds</File>
+    <File md5="D5E99984102D18230096CECE3C97F68D" import="1">Art/Atlases/JapanAlphaKamon32.dds</File>
+    <File md5="6094191A07A181912EDEF5B649FFD24B" import="1">Art/Atlases/JapanAlphaKamon45.dds</File>
+    <File md5="FA38213E9D7915C41AB69049E79626A1" import="1">Art/Atlases/JapanAlphaKamon48.dds</File>
+    <File md5="2670D81C60D3CD6613DBBD13D62F3738" import="1">Art/Atlases/JapanAlphaKamon64.dds</File>
+    <File md5="3427D9F96F3CB74455BB7CD9B20C0727" import="1">Art/Atlases/JapanAlphaKamon80.dds</File>
+    <File md5="BC2C5D7075299CEF44DD7016A7210126" import="1">Art/Atlases/JapanColourKamon128.dds</File>
+    <File md5="63664D91740C8C1EFE1518ED263802D2" import="1">Art/Atlases/JapanColourKamon256.dds</File>
+    <File md5="E61496ABF30FC4F5C7B74CB2444C0E19" import="1">Art/Atlases/JapanColourKamon256.pdn</File>
+    <File md5="A85337CD648849CE248186D78C643CAB" import="1">Art/Atlases/JapanColourKamon32.dds</File>
+    <File md5="F343B20C10C8D22B65D6FEE0A450F0E4" import="1">Art/Atlases/JapanColourKamon45.dds</File>
+    <File md5="AC95DBBC7B4F849F397024A249814704" import="1">Art/Atlases/JapanColourKamon48.dds</File>
+    <File md5="5B8ECF29906BFFCB6CA55C73DAEB52D0" import="1">Art/Atlases/JapanColourKamon64.dds</File>
+    <File md5="37E7255DC47111985CB58F81C64E0D12" import="1">Art/Atlases/JapanColourKamon80.dds</File>
+    <File md5="DAAD85A092E6B0CC0BEAE8D4FFEEF941" import="1">Art/Atlases/Leader_Atlas_128.dds</File>
+    <File md5="204943FA2F31B9A7082E2088E95B5FDD" import="1">Art/Atlases/Leader_Atlas_256.dds</File>
+    <File md5="1DEF67F04B38038E291AC79CE6F56F96" import="1">Art/Atlases/Leader_Atlas_64.dds</File>
+    <File md5="4EA7915177ADE5DCDAD5DE756A55D17D" import="1">Art/Atlases/NewLeaders128.dds</File>
+    <File md5="AA1F4D2A05B3894FBDF6C248F678FE5A" import="1">Art/Atlases/NewLeaders256.dds</File>
+    <File md5="514994D32D56C1E5D6163AE8D8EEE4B3" import="1">Art/Atlases/NewLeaders64.dds</File>
+    <File md5="618C1D5E9E250A1A162768E33B716A87" import="1">Art/Atlases/RisingSunPlaceholder.dds</File>
+    <File md5="712A2C9A98969CC6F8E6FB5A8C890FF6" import="1">Art/NewRyoma.dds</File>
+    <File md5="890D8E204C2BD548746CD86A52923E49" import="0">Art/newryoma_scene.xml</File>
+    <File md5="6D640E7461FD9D7CBEAB7AA80ED89B45" import="1">Art/unitflagatlaswhite32_sj.dds</File>
+    <File md5="E66257982603E8D057D1F65671DA54AE" import="1">Lua/CBR_SaveUtils.lua</File>
+    <File md5="484B939B95ADC989187F381164414DF7" import="0">Lua/Shikoku_UA.lua</File>
+    <File md5="6AA365E91A29BB741EE5C13686DECD28" import="0">XML/Atlases.xml</File>
+    <File md5="290332C3472A4BDF5B6EE926E772DDAE" import="0">XML/BNWFlavours.xml</File>
+    <File md5="AA60B2546E029BA98E6FE52523320F8B" import="0">XML/CityNames.xml</File>
+    <File md5="BE21E23928F2C5B7549B2E3A448FCD96" import="0">XML/Civs.xml</File>
+    <File md5="86DC4B6F922A447E8466E5806F6ACA2F" import="0">XML/Colours.xml</File>
+    <File md5="2781406D5A325E4BD4F496DDD9CD48A7" import="0">XML/GameText.xml</File>
+    <File md5="A548B64CEFB11696277607696EA7B91C" import="0">XML/Greetings.xml</File>
+    <File md5="D8B18A7D34A228E81FDEE0E48F2A34E1" import="0">XML/LeaderAI.xml</File>
+    <File md5="49794EF9C10FD72128D11DBA708116F3" import="0">XML/Leaders.xml</File>
+    <File md5="570A58A364972D24907D84AA9BAE28C3" import="0">XML/Religion Choices.xml</File>
+    <File md5="3B6C3126DD38161A1B051E9696E6C784" import="0">XML/SpyNames.xml</File>
+    <File md5="C513ED2FFBCBC50E4A1E131E63D81796" import="0">XML/StartBias.xml</File>
+    <File md5="CE5167A7C4EF8A310E08C75A1B09D127" import="0">XML/Traits.xml</File>
+    <File md5="6B8CFD6BD5135E3DC4724071FF778583" import="0">XML/Units.xml</File>
+  </Files>
+  <Actions>
+    <OnModActivated>
+      <UpdateDatabase>XML/Atlases.xml</UpdateDatabase>
+      <UpdateDatabase>XML/BNWFlavours.xml</UpdateDatabase>
+      <UpdateDatabase>Art/newryoma_scene.xml</UpdateDatabase>
+      <UpdateDatabase>XML/CityNames.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Civs.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Colours.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Greetings.xml</UpdateDatabase>
+      <UpdateDatabase>XML/LeaderAI.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Leaders.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Religion Choices.xml</UpdateDatabase>
+      <UpdateDatabase>XML/SpyNames.xml</UpdateDatabase>
+      <UpdateDatabase>XML/StartBias.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Traits.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Units.xml</UpdateDatabase>
+      <UpdateDatabase>XML/GameText.xml</UpdateDatabase>
+      <UpdateDatabase>Art/ArtDefines.sql</UpdateDatabase>
+    </OnModActivated>
+  </Actions>
+  <EntryPoints>
+    <EntryPoint type="InGameUIAddin" file="Lua/Shikoku_UA.lua">
+      <Name>Shikoku UA</Name>
+      <Description>Shikoku UA</Description>
+    </EntryPoint>
+  </EntryPoints>
+</Mod>

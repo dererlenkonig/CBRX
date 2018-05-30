@@ -1,0 +1,46 @@
+-- To do the Compatibility with Unit_FreePromotions
+--BNW
+CREATE TRIGGER QinUnitsforBNW
+AFTER INSERT ON Unit_FreePromotions
+	WHEN (NEW.UnitType = 'UNIT_X_QINNU' AND NEW.PromotionType = 'PROMOTION_LOGISTICS' AND NOT EXISTS (SELECT Type FROM UnitPromotions WHERE Type = 'PROMOTION_KNIGHT_COMBAT'))
+BEGIN
+	INSERT INTO Unit_FreePromotions(UnitType, PromotionType) VALUES('UNIT_X_QINNU', 'PROMOTION_ONLY_DEFENSIVE');
+	INSERT INTO Unit_FreePromotions(UnitType, PromotionType) VALUES('UNIT_X_QINNU', 'PROMOTION_CITY_SIEGE');
+	INSERT INTO Unit_FreePromotions(UnitType, PromotionType) VALUES('UNIT_X_RUISHI', 'PROMOTION_NO_DEFENSIVE_BONUSES');
+	INSERT INTO Unit_FreePromotions(UnitType, PromotionType) VALUES('UNIT_X_RUISHI', 'PROMOTION_CAN_MOVE_AFTER_ATTACKING');
+	INSERT INTO Unit_FreePromotions(UnitType, PromotionType) VALUES('UNIT_X_RUISHI', 'PROMOTION_CITY_PENALTY');
+END;
+--SP
+CREATE TRIGGER QinUnitsforSP
+AFTER INSERT ON Unit_FreePromotions
+	WHEN (NEW.UnitType = 'UNIT_X_QINNU' AND NEW.PromotionType = 'PROMOTION_LOGISTICS' AND EXISTS (SELECT Type FROM UnitPromotions WHERE Type = 'PROMOTION_KNIGHT_COMBAT'))
+BEGIN
+	UPDATE Units SET RangedCombat = 13 WHERE Type = 'UNIT_X_QINNU';
+	UPDATE Units SET Combat = 16 WHERE Type = 'UNIT_X_RUISHI';
+	INSERT INTO Unit_FreePromotions(UnitType, PromotionType) VALUES('UNIT_X_QINNU', 'PROMOTION_REQUIRE_SUPPLY');
+	INSERT INTO Unit_FreePromotions(UnitType, PromotionType) VALUES('UNIT_X_QINNU', 'PROMOTION_CITY_ASSAULT');
+	INSERT INTO Unit_FreePromotions(UnitType, PromotionType) VALUES('UNIT_X_RUISHI', 'PROMOTION_KNIGHT_COMBAT');
+END;
+-- Fix SP UnitPromotions Error Defines
+CREATE TRIGGER QinFixSPUnitPromotionsErrorDefines
+AFTER INSERT ON Unit_FreePromotions 
+	WHEN (NEW.UnitType = 'UNIT_X_QINNU' AND NEW.PromotionType = 'PROMOTION_LOGISTICS' AND EXISTS (SELECT Type FROM UnitPromotions WHERE Type = 'PROMOTION_VOLLEY_2' AND PromotionPrereqOr1 = 'PROMOTION_VOLLEY'))
+BEGIN
+	UPDATE UnitPromotions SET Type = 'PROMOTION_VOLLEY_1' WHERE Type = 'PROMOTION_VOLLEY';
+	UPDATE UnitPromotions SET PromotionPrereqOr1 = 'PROMOTION_VOLLEY_1' WHERE Type = 'PROMOTION_VOLLEY_2' AND PromotionPrereqOr1 = 'PROMOTION_VOLLEY';
+	UPDATE UnitPromotions_UnitClasses SET PromotionType = 'PROMOTION_VOLLEY_1' WHERE PromotionType = 'PROMOTION_VOLLEY';
+	UPDATE UnitPromotions_UnitCombats SET PromotionType = 'PROMOTION_VOLLEY_1' WHERE PromotionType = 'PROMOTION_VOLLEY';
+	UPDATE Unit_FreePromotions SET PromotionType = 'PROMOTION_VOLLEY_1' WHERE PromotionType = 'PROMOTION_VOLLEY';
+	UPDATE Policy_FreePromotions SET PromotionType = 'PROMOTION_VOLLEY_1' WHERE PromotionType = 'PROMOTION_VOLLEY';
+	UPDATE UnitPromotions SET Type = 'PROMOTION_BLITZ_II' WHERE Type = 'PROMOTION_BLITZ_2';
+	UPDATE UnitPromotions SET PromotionPrereqOr3 = 'PROMOTION_BLITZ_II' WHERE Type = 'PROMOTION_MARCH' AND PromotionPrereqOr3 = 'PROMOTION_BLITZ_2';
+	UPDATE UnitPromotions_UnitCombats SET PromotionType = 'PROMOTION_BLITZ_II' WHERE PromotionType = 'PROMOTION_BLITZ_2';
+	UPDATE Unit_FreePromotions SET PromotionType = 'PROMOTION_BLITZ_II' WHERE PromotionType = 'PROMOTION_BLITZ_2';
+	UPDATE Policy_FreePromotions SET PromotionType = 'PROMOTION_BLITZ_II' WHERE PromotionType = 'PROMOTION_BLITZ_2';
+	UPDATE UnitPromotions SET Type = 'PROMOTION_ARMOR_PLATING_I' WHERE Type = 'PROMOTION_ARMOR_PLATING_1';
+	UPDATE Unit_FreePromotions SET PromotionType = 'PROMOTION_ARMOR_PLATING_I' WHERE PromotionType = 'PROMOTION_ARMOR_PLATING_1';
+	UPDATE UnitPromotions SET Type = 'PROMOTION_ARMOR_PLATING_II' WHERE Type = 'PROMOTION_ARMOR_PLATING_2';
+	UPDATE Unit_FreePromotions SET PromotionType = 'PROMOTION_ARMOR_PLATING_II' WHERE PromotionType = 'PROMOTION_ARMOR_PLATING_2';
+	UPDATE UnitPromotions SET Type = 'PROMOTION_ARMOR_PLATING_III' WHERE Type = 'PROMOTION_ARMOR_PLATING_3';
+	UPDATE Unit_FreePromotions SET PromotionType = 'PROMOTION_ARMOR_PLATING_III' WHERE PromotionType = 'PROMOTION_ARMOR_PLATING_3';
+END;

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 08/30/15 7:31:23 PM -->
+<GameData>
+	<UnitPromotions>
+		<Row>
+			<Type>PROMOTION_UC_APACHE_XP</Type>
+			<Description>TXT_KEY_PROMOTION_UC_APACHE_XP</Description>
+			<Help>TXT_KEY_PROMOTION_UC_APACHE_XP_HELP</Help>
+			<Sound>AS2D_IF_LEVELUP</Sound>
+			<PortraitIndex>59</PortraitIndex>
+			<IconAtlas>ABILITY_ATLAS</IconAtlas>
+			<PediaType>PEDIA_ATTRIBUTES</PediaType>
+			<PediaEntry>TXT_KEY_PROMOTION_UC_APACHE_XP</PediaEntry>
+			<CannotBeChosen>true</CannotBeChosen>
+			<ExperiencePercent>100</ExperiencePercent>
+			<LostWithUpgrade>true</LostWithUpgrade>
+		</Row>
+			<Row>
+				<Type>PROMOTION_UC_WARBAND_FLANK</Type>
+				<Description>TXT_KEY_PROMOTION_UC_WARBAND_FLANK</Description>
+				<Help>TXT_KEY_PROMOTION_UC_WARBAND_FLANK_HELP</Help>
+				<Sound>AS2D_IF_LEVELUP</Sound>
+				<PortraitIndex>59</PortraitIndex>
+				<IconAtlas>ABILITY_ATLAS</IconAtlas>
+				<PediaType>PEDIA_ATTRIBUTES</PediaType>
+				<PediaEntry>TXT_KEY_PROMOTION_UC_WARBAND_FLANK</PediaEntry>
+				<CannotBeChosen>true</CannotBeChosen>
+				<IgnoreZOC>true</IgnoreZOC>
+				<FlankAttackModifier>25</FlankAttackModifier>
+			</Row>
+	</UnitPromotions>
+
+</GameData>

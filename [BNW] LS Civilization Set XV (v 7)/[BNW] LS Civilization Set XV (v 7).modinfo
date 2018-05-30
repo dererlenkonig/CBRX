@@ -1,0 +1,169 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mod id="9d3459cc-b325-4199-baa4-c5b1c28a0383" version="7">
+  <Properties>
+    <Name>[BNW] LS Civilization Set XV</Name>
+    <Teaser>Adds Mapuche, Ndongo and Niitsitapi civilizations.</Teaser>
+    <Description>Adds Mapuche, Ndongo and Niitsitapi civilizations.</Description>
+    <Authors>LastSword</Authors>
+    <HideSetupGame>0</HideSetupGame>
+    <AffectsSavedGames>1</AffectsSavedGames>
+    <MinCompatibleSaveVersion>0</MinCompatibleSaveVersion>
+    <SupportsSinglePlayer>1</SupportsSinglePlayer>
+    <SupportsMultiplayer>1</SupportsMultiplayer>
+    <SupportsHotSeat>1</SupportsHotSeat>
+    <SupportsMac>1</SupportsMac>
+    <ReloadAudioSystem>1</ReloadAudioSystem>
+    <ReloadLandmarkSystem>0</ReloadLandmarkSystem>
+    <ReloadStrategicViewSystem>1</ReloadStrategicViewSystem>
+    <ReloadUnitSystem>1</ReloadUnitSystem>
+  </Properties>
+  <Dependencies />
+  <References />
+  <Blocks />
+  <Files>
+    <File md5="3C9E53610617BE8EA1371546F8664957" import="1">Mapuche/DiploMapucheLSMod.dds</File>
+    <File md5="C3C3A15F15A8F247D919DA94F3FA95E3" import="1">Mapuche/DoMMapucheLSMod.dds</File>
+    <File md5="1F2F4F119A73B78CB91B5DB38F05F35D" import="1">Mapuche/LS15MapAction45.dds</File>
+    <File md5="C6BEF84CA16E7896572CBCA1780824F0" import="1">Mapuche/LS15MapAction64.dds</File>
+    <File md5="512621CD0254B5867209B442541E8BEA" import="0">Mapuche/MapucheLSUnitCode.xml</File>
+    <File md5="66B964A054A2831BBFCA78A7C57BC22C" import="1">Mapuche/MapMapucheLSMod.dds</File>
+    <File md5="B5AF50AE85425B83A0E6A88CEB4D9DF2" import="1">Mapuche/MapucheLSWar.mp3</File>
+    <File md5="8570FC1EAE530333CA673BECA6BCBB62" import="1">Mapuche/MapucheUnitAlphaAtlas.dds</File>
+    <File md5="A1B0AFDC6C7AA1531F612E65E33B7640" import="1">Mapuche/MapucheUnitAlphaAtlas2.dds</File>
+    <File md5="E1A1996616445D7C9552B68D8CFC62AD" import="1">Mapuche/Model/Knight_Inca.blend</File>
+    <File md5="0BF92C42B4677E6088A114D577105B39" import="1">Mapuche/Model/Knight_Inca.dds</File>
+    <File md5="A4EE60EAD03DF529B4E9F8A809B1A270" import="1">Mapuche/Model/Knight_Inca.fxsxml</File>
+    <File md5="2CE4A9EAC90F9B627D0376E1FB17206E" import="1">Mapuche/Model/Knight_Inca.gr2</File>
+    <File md5="965FD36A9415881140653C8086315402" import="1">Mapuche/Model/Knight_Inca_gloss.dds</File>
+    <File md5="5A35D8C1C17DFCCBA5C9278BCC54D570" import="1">Mapuche/Model/Knight_Inca_Horse.dds</File>
+    <File md5="81432B624ECA35C7AB1B2010BCEA1458" import="1">Mapuche/Model/Knight_Inca_Horse_gloss.dds</File>
+    <File md5="C2D8FD8DDE37AEB531CBD1CC5F089B27" import="0">Mapuche/Model/MapucheArtDefine.sql</File>
+    <File md5="2209D09ECA36F3B5142FFB4B539E0F84" import="1">Mapuche/Model/Warrior_Inca.blend</File>
+    <File md5="CD78C16F785923B8561EA74C9FD552CB" import="1">Mapuche/Model/Warrior_Inca.dds</File>
+    <File md5="456A60FD54643937C37437BAC409EFC6" import="1">Mapuche/Model/Warrior_Inca.fxsxml</File>
+    <File md5="D7990EB722A878453C514728FDFD2C60" import="1">Mapuche/Model/Warrior_Inca.gr2</File>
+    <File md5="1C9AC6109609B5F385CC22E8CC8F6E20" import="1">Mapuche/Model/Warrior_Inca_gloss.dds</File>
+    <File md5="73A1E445F76A312C6DFFA434E739ED5E" import="1">Mapuche/MapucheLSPeace.mp3</File>
+    <File md5="12713CD5CB865CB3E6E7FC919A5240B5" import="1">Mapuche/SV_MapucheLS.dds</File>
+    <File md5="EEE719684D11FB8A5CB76084E31E6C84" import="1">Mapuche/SV_MapucheTLS.dds</File>
+    <File md5="9A63DE39BA6CF8401E1BA5DA86717DCD" import="1">Mapuche/MapucheLSTraitCode.lua</File>
+    <File md5="31241913B001297A4AB65F8C4EF13C18" import="0">Mapuche/MapucheLSUnitCode.lua</File>
+    <File md5="CB685D44F0D5D4153CC63BF6D79247AF" import="1">Mapuche/Mapuche_Leader_Scene_LS_Mod.xml</File>
+    <File md5="EA960FC810F3AA5981B606B828941772" import="0">Mapuche/Mapuche Civ Mod.xml</File>
+    <File md5="D58D7C0EA88622B36052E01F1D97E1E6" import="0">Mapuche/Mapuche Game Text Mod.xml</File>
+    <File md5="C41AEAAD75B236D6B89E8592098E3F1C" import="0">Mapuche/Mapuche Leader Mod.xml</File>
+    <File md5="2FF30132D9D480D9AE4666AA2FC2110E" import="0">Mapuche/Mapuche Units Mod.xml</File>
+    <File md5="6AC8D68AA74366754F08A13A39A1BBC8" import="1">MustEnterTheName/AlphaLS15Atlas24.dds</File>
+    <File md5="28B58AB8028A1AD4A24CFD7E00399D12" import="1">MustEnterTheName/AlphaLS15Atlas32.dds</File>
+    <File md5="A264B26370EEB873B6E0AA6B485CD4A6" import="1">MustEnterTheName/AlphaLS15Atlas48.dds</File>
+    <File md5="F1DFFECA8058B630F0CBC8F1FE90AC40" import="1">MustEnterTheName/AlphaLS15Atlas64.dds</File>
+    <File md5="00E7ECEF526AFFA7E929AE415340DA0F" import="1">MustEnterTheName/BuildingLS15Atlas128.dds</File>
+    <File md5="84EF034FA7A3F9CCE90B3CA7A772A2B9" import="1">MustEnterTheName/BuildingLS15Atlas256.dds</File>
+    <File md5="0E7C22485FB9ADE1A3874C2C834522FC" import="1">MustEnterTheName/BuildingLS15Atlas45.dds</File>
+    <File md5="573784F0831AD9E75ED08B473AA38957" import="1">MustEnterTheName/BuildingLS15Atlas64.dds</File>
+    <File md5="F7A46A03DF7F3725A42994A6689C89B4" import="1">MustEnterTheName/CivLS15Atlas128.dds</File>
+    <File md5="668EE9C091AF33DE642070A69A39F270" import="1">MustEnterTheName/CivLS15Atlas256.dds</File>
+    <File md5="5632134759A005C41DF93981062AA8DF" import="1">MustEnterTheName/CivLS15Atlas32.dds</File>
+    <File md5="8C8A3F2299116A0FC5745A9D6C2A09D4" import="1">MustEnterTheName/CivLS15Atlas45.dds</File>
+    <File md5="FE41DD7DD7F797A88F80F2FB59754CC8" import="1">MustEnterTheName/CivLS15Atlas64.dds</File>
+    <File md5="0106BF0AB3FB4C7FF10EE57A2A65AC38" import="1">MustEnterTheName/CivLS15Atlas80.dds</File>
+    <File md5="7C22B3AADA0696EDE89D32BD7E5FB2D4" import="1">MustEnterTheName/LeaderLS15Atlas128.dds</File>
+    <File md5="D960763E87E870AFA40BF99D7C81817C" import="1">MustEnterTheName/LeaderLS15Atlas256.dds</File>
+    <File md5="ACF3EBA877F8315FB7D19203631C7CA3" import="1">MustEnterTheName/LeaderLS15Atlas64.dds</File>
+    <File md5="9829889B7E4F7117091A2F25C5B80C19" import="0">MustEnterTheName/LS15 Atlas Mod.xml</File>
+    <File md5="B072354BFE593ECE63CFE07885A15F52" import="1">MustEnterTheName/UnitLS15Atlas128.dds</File>
+    <File md5="C5A23653F8503BE38737B5CB1EED4D3F" import="1">MustEnterTheName/UnitLS15Atlas256.dds</File>
+    <File md5="72C3C52996E59CDEFF4C7CA1ED3722EA" import="1">MustEnterTheName/UnitLS15Atlas45.dds</File>
+    <File md5="F6C17CC64BB62B2FED227C1C45B6522D" import="1">MustEnterTheName/UnitLS15Atlas64.dds</File>
+    <File md5="60B50FC82D7CA46A6D1FB8F0286AB084" import="1">MustEnterTheName/UnitLS15Atlas80.dds</File>
+    <File md5="B96A9C57346B30C5990B8CF84036DDF2" import="1">Ndongo/DiploNdongoLSMod.dds</File>
+    <File md5="3650E5959235481653887E60E33EBD9B" import="1">Ndongo/DoMNdongoLSMod.dds</File>
+    <File md5="EA7FE150347D223E07D31102B64A6C89" import="1">Ndongo/MapNdongoLSMod.dds</File>
+    <File md5="CF20ED0B1792E891CE78A54C0BB2BF85" import="1">Ndongo/NdongoLSBuildingCode.lua</File>
+    <File md5="BE221673D71712429FB5A18D8159709F" import="1">Ndongo/NdongoLSTraitCode.lua</File>
+    <File md5="5C720ED27FCC0FF7609D5467642506DB" import="1">Ndongo/Model/EthiopiaSwordsman.dds</File>
+    <File md5="FB8EFFDF9868A9944320FB7B2B7A1C94" import="1">Ndongo/Model/EthiopiaSwordsman.fbx</File>
+    <File md5="9ED6C8C54ED341094B30C1E329C64682" import="1">Ndongo/Model/EthiopiaSwordsman.fxsxml</File>
+    <File md5="19942DA5BFBEEF06AB1202324A891004" import="1">Ndongo/Model/EthiopiaSwordsman.gr2</File>
+    <File md5="AB334E26FEFF75D3F1A83DE403D0CF5C" import="1">Ndongo/Model/EthiopiaSwordsman_sref.dds</File>
+    <File md5="EB8D5070AD70F9364B9E7CBF97607B8A" import="1">Ndongo/Model/EthiopiaSwordsman_Template.blend</File>
+    <File md5="2557C951B3B33EF4C41A34D18941EFE6" import="0">Ndongo/Model/NdongoArtDefine.sql</File>
+    <File md5="2E1BDB4E3D9923A998EC458C125178F4" import="0">Ndongo/Ndongo Civ Mod.xml</File>
+    <File md5="3B46530A78E48F77438B124970092694" import="0">Ndongo/Ndongo Game Text Mod.xml</File>
+    <File md5="0EA29A683EEB2C586EEA0958F0D3800D" import="0">Ndongo/Ndongo Leader Mod.xml</File>
+    <File md5="CD9814F5509060621FF6E9E58EAFD656" import="0">Ndongo/NdongoLSUnitCode.lua</File>
+    <File md5="9211422EA7C15D7F4B86FF8BFAA25EF1" import="1">Ndongo/NdongoActionLSAtlas45.dds</File>
+    <File md5="C1C38480D20F91887CF7C1E63B210D67" import="1">Ndongo/NdongoActionLSAtlas64.dds</File>
+    <File md5="FDF6D3CB2707CA18B3E163D2A6FFFAD5" import="1">Ndongo/Ndongo_Leader_Scene_LS_Mod.xml</File>
+    <File md5="B2CDED557C38898B8553D002B4A7F033" import="1">Ndongo/NdongoUnitAlphaAtlas.dds</File>
+    <File md5="BC410AC84323DC3526D6E454E875826C" import="0">Ndongo/NdongoLSUnitCode.xml</File>
+    <File md5="39DBC4198CF0889A9940D2120F1473B8" import="1">Ndongo/SV_NdongoLS.dds</File>
+    <File md5="41D55DA49DA9804F113661AA24C89476" import="0">Ndongo/Ndongo Building Mod.xml</File>
+    <File md5="2A36F6C8CB935FC3B6911AF9701BC65F" import="0">Ndongo/Ndongo Units Mod.xml</File>
+    <File md5="1954220495CA5792D5B28664531B5879" import="1">Niitsitapi/DiploNiitLSMod.dds</File>
+    <File md5="0BD980390D4492AB3EEB272964B41340" import="1">Niitsitapi/DoMNiitLSMod.dds</File>
+    <File md5="C2E8C12730BC6415258EC5EC899AEB54" import="1">Niitsitapi/LSSaveUtils.lua</File>
+    <File md5="DAF57432D632313889EB7F4C97FD3047" import="1">Niitsitapi/MapNiitLSMod.dds</File>
+    <File md5="CCC0FA569554AE52BFE149967A3154E7" import="1">Niitsitapi/Model/civ5_irohm5.fxsxml</File>
+    <File md5="DC99910AEB075BB4546E7AF888659AD1" import="1">Niitsitapi/Model/civ5_irohm5.gr2</File>
+    <File md5="AEDE08A49F705498D6B5837D431F5B95" import="1">Niitsitapi/Model/irohm5.dds</File>
+    <File md5="289706E74F641C499C80F711883E8933" import="1">Niitsitapi/Model/irohm5_sref.dds</File>
+    <File md5="0726368A7860FAB7E466C9CC95A0A8E2" import="1">Niitsitapi/Model/irohorse5.dds</File>
+    <File md5="BE3872D7790242221F2F5C17449A4437" import="1">Niitsitapi/Model/irohorse5_sref.dds</File>
+    <File md5="52BF0C7FB2DAC5D158E6E59D69B5A5F3" import="0">Niitsitapi/Model/NiitArtDefine.sql</File>
+    <File md5="9DE0CA48A0BF0CB55BE70D7ED98FC6BB" import="0">Niitsitapi/Niit Building Mod.xml</File>
+    <File md5="E29B9F1683E0F41748203D482180285A" import="0">Niitsitapi/Niit Civ Mod.xml</File>
+    <File md5="98846EBEFE929E896D3037B3FC6D226C" import="1">Niitsitapi/NiitHelp64LS.dds</File>
+    <File md5="52F89443074AD993EC5BA5CE6FB71AE8" import="1">Niitsitapi/NiitLSImproCode.lua</File>
+    <File md5="942DD5A7C77BEFD465614EF98CD867F8" import="0">Niitsitapi/Niit Game Text Mod.xml</File>
+    <File md5="A7430DC6814A04599A9993596D63476D" import="0">Niitsitapi/Niit Leader Mod.xml</File>
+    <File md5="113AD6E3534CC306B9C32C9DA271E0CA" import="1">Niitsitapi/NiitLSTraitCode.lua</File>
+    <File md5="B1802ECEB516A38DDFF5B52BB9054D4A" import="0">Niitsitapi/NiitLSUnitCode.lua</File>
+    <File md5="57A86783E0C4278A473A8F6C5182D317" import="0">Niitsitapi/Niit Units Mod.xml</File>
+    <File md5="7CAA04E7B8F8947CE0D0A102AEF6F02C" import="1">Niitsitapi/Niit_Leader_Scene_LS_Mod.xml</File>
+    <File md5="0140597442BD5FDF128D0F684DA09EB7" import="1">Niitsitapi/NiitUnitAlphaAtlas.dds</File>
+    <File md5="31B0E0CE392989DFA74DF4DC51E41D48" import="1">Niitsitapi/NiitLSPeace.mp3</File>
+    <File md5="5919C9C724B3EF24FFFB3C0DC7249FD7" import="0">Niitsitapi/NiitLSUnitCode.xml</File>
+    <File md5="2FB1A5D8EB9471F0592829314415AD35" import="1">Niitsitapi/SV_NiitLS.dds</File>
+    <File md5="019DA70AEA6D8FC699DC33D6C4A2BCC3" import="1">Niitsitapi/NiitLSWar.mp3</File>
+  </Files>
+  <Actions>
+    <OnModActivated>
+      <UpdateDatabase>MustEnterTheName/LS15 Atlas Mod.xml</UpdateDatabase>
+      <UpdateDatabase>Mapuche/Mapuche Civ Mod.xml</UpdateDatabase>
+      <UpdateDatabase>Mapuche/Mapuche Game Text Mod.xml</UpdateDatabase>
+      <UpdateDatabase>Mapuche/Mapuche Leader Mod.xml</UpdateDatabase>
+      <UpdateDatabase>Mapuche/Mapuche Units Mod.xml</UpdateDatabase>
+      <UpdateDatabase>Mapuche/Model/MapucheArtDefine.sql</UpdateDatabase>
+      <UpdateDatabase>Ndongo/Ndongo Units Mod.xml</UpdateDatabase>
+      <UpdateDatabase>Ndongo/Ndongo Leader Mod.xml</UpdateDatabase>
+      <UpdateDatabase>Ndongo/Ndongo Game Text Mod.xml</UpdateDatabase>
+      <UpdateDatabase>Ndongo/Ndongo Civ Mod.xml</UpdateDatabase>
+      <UpdateDatabase>Ndongo/Ndongo Building Mod.xml</UpdateDatabase>
+      <UpdateDatabase>Ndongo/Model/NdongoArtDefine.sql</UpdateDatabase>
+      <UpdateDatabase>Niitsitapi/Niit Units Mod.xml</UpdateDatabase>
+      <UpdateDatabase>Niitsitapi/Niit Leader Mod.xml</UpdateDatabase>
+      <UpdateDatabase>Niitsitapi/Niit Game Text Mod.xml</UpdateDatabase>
+      <UpdateDatabase>Niitsitapi/Niit Civ Mod.xml</UpdateDatabase>
+      <UpdateDatabase>Niitsitapi/Niit Building Mod.xml</UpdateDatabase>
+      <UpdateDatabase>Niitsitapi/Model/NiitArtDefine.sql</UpdateDatabase>
+    </OnModActivated>
+  </Actions>
+  <EntryPoints>
+    <EntryPoint type="InGameUIAddin" file="Mapuche/MapucheLSUnitCode.lua">
+      <Name>Hola</Name>
+      <Description>
+      </Description>
+    </EntryPoint>
+    <EntryPoint type="InGameUIAddin" file="Ndongo/NdongoLSUnitCode.lua">
+      <Name>Pobo</Name>
+      <Description>
+      </Description>
+    </EntryPoint>
+    <EntryPoint type="InGameUIAddin" file="Niitsitapi/NiitLSUnitCode.lua">
+      <Name>Appa</Name>
+      <Description>
+      </Description>
+    </EntryPoint>
+  </EntryPoints>
+</Mod>

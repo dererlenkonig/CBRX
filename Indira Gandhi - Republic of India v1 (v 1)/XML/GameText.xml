@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 5/9/2018 8:08:31 PM -->
+<GameData>
+	<Language_en_US>
+		<Row Tag="TXT_KEY_TRAIT_THE_EMERGENCY">
+			<Text>The construction of buildings within the capital caused every city connected to the capital to enter resistance for 3 turns in exchange for all their outputs to be doubled for 5 turns after.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_THE_EMERGENCY_SHORT">
+			<Text>The Emergency</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

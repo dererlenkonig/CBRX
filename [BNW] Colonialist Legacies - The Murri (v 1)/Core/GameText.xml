@@ -1,0 +1,254 @@
+﻿<GameData>
+	<Language_en_US>
+		<Row Tag="TXT_KEY_CITY_NAME_CL_MURRI_01">
+			<Text>Cavanbah</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CL_MURRI_02">
+			<Text>Gunnedah</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CL_MURRI_03">
+			<Text>Meangin</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CL_MURRI_04">
+			<Text>Boobarran Ngummin</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CL_MURRI_05">
+			<Text>Beerwah</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CL_MURRI_06">
+			<Text>Minjerribah</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CL_MURRI_07">
+			<Text>Moranbah</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CL_MURRI_08">
+			<Text>Durundur</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CL_MURRI_09">
+			<Text>Toowoomba</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CL_MURRI_10">
+			<Text>Gawula</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CL_MURRI_11">
+			<Text>Ban Ban</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CL_MURRI_12">
+			<Text>Yabara</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CL_MURRI_13">
+			<Text>Narrabri</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CL_MURRI_14">
+			<Text>Turranba</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CL_MURRI_15">
+			<Text>Yamba</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CL_MURRI_16">
+			<Text>Mundubbera</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CL_MURRI_17">
+			<Text>Tibrogargan</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CL_MURRI_18">
+			<Text>Nindooinbah</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CL_MURRI_19">
+			<Text>Moorgumpin</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CL_MURRI_20">
+			<Text>Tuckurimbah</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CL_MURRI_21">
+			<Text>Boorabee</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CL_MURRI_22">
+			<Text>Gimpi-Gimpi</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CL_MURRI_23">
+			<Text>Mudgeeraba</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CL_MURRI_24">
+			<Text>K'gari</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CL_MURRI_25">
+			<Text>Tambo</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CL_MURRI_26">
+			<Text>Budderam</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CL_MURRI_27">
+			<Text>Cunnamulla</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CL_MURRI_28">
+			<Text>Nimbin</Text>
+		</Row>
+
+		<!--Spies-->
+		<Row Tag="TXT_KEY_SPY_NAME_CL_MURRI_0">
+			<Text>Neville</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_CL_MURRI_1">
+			<Text>Dali'pie</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_CL_MURRI_2">
+			<Text>Dahn'dali</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_CL_MURRI_3">
+			<Text>Bungaree</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_CL_MURRI_4">
+			<Text>Wenitong</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_CL_MURRI_5">
+			<Text>Maroochy</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_CL_MURRI_6">
+			<Text>Oodgeroo</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_CL_MURRI_7">
+			<Text>Milbong</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_CL_MURRI_8">
+			<Text>Bielbah</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_CL_MURRI_9">
+			<Text>Multuggera</Text>
+		</Row>
+
+		<!--Demonyms-->
+		<Row Tag="TXT_KEY_CIV_CL_MURRI_ADJECTIVE">
+			<Text>Murri</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_CL_MURRI_DESC">
+			<Text>The Murri</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_CL_MURRI_SHORT_DESC">
+			<Text>The Murri</Text>
+		</Row>
+
+		<!--DoM-->
+		<Row Tag="TXT_KEY_CIV5_DOM_CL_GANUURRU_TEXT">
+			<Text>Greetings to you, oh Gambu Ganuurru, great chief of the Kamilaroi and leader of the Murri! Your people are an ancient one, inhabiting the forests and plains of what would become Queensland and New South Wales for thousands of years. Loosely connected, you were all drawn together by the Feast of the Bon-yi, attracting people from thousands of kilometres away to the foothills of great Boobarran Ngummin, in order to feast on the decadent Bunya nuts, to trade, to converse, to offer truces, to be at one for such a glorious occasion![NEWLINE][NEWLINE]Great chief, mighty fighter, the lands you once inhabited have changed drastically. Your people cry out for your leadership! Will you feast once more on the Bon-yi? Will you defend your people, and lead them forwards to glory? Will your culture stand the test of time?</Text>
+		</Row>
+
+		<!--Pedia-->
+		<Row Tag="TXT_KEY_CIV5_CL_MURRI_HEADING_1">
+			<Text>History</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_CL_MURRI_TEXT_1">
+			<Text>Like much of their counterparts on the Australian continent, the history of habitation in modern day Queensland is undeniably ancient. With a history stretching back 40,000 years, the Murri people flourished in and around Queensland and Northern New South Wales, often conglomerating in the centre of their collective territory to take part in a massive festival that involved a pilgrimage of thousands, upon thousands of people to the location. Additionally, there are over 20 languages and nations within the Murri subset which include but are absolutely not limited to the Bundjalung, Darumbal, Djabugay, Dyirbal, Gubbi Gubbi, Mamu, Waka Waka, Yuggera, Turrbul.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_CL_MURRI_HEADING_2">
+			<Text>Geography and Climate</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_CL_MURRI_TEXT_2">
+			<Text>The Aboriginal occupation of Queensland is thought to predate 50,000 BC, likely via boat or land bridge across Torres Strait, and became divided into over 90 different language groups. During the last ice age Queensland's landscape became more arid and largely desolate, making food and other supplies scarce. This led to the world's first seed-grinding technology. Warming again made the land hospitable, which brought high rainfall along the eastern coast, stimulating the growth of the state's tropical rainforests.[NEWLINE][NEWLINE]Because of its size, there is significant variation in climate across the regions that the Murri people inhabited. Low rainfall and hot humid summers are typical for the inland and west, a monsoonal "wet" season in the far north, and warm, temperate conditions along the coastal strip. Elevated areas in the south-east inland can experience temperatures well below freezing in mid-winter. The climate of the coastal strip is influenced by warm ocean waters, keeping the region free from extremes of temperature and providing moisture for rainfall.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_CL_MURRI_HEADING_3">
+			<Text>A Journey to the Mountains</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_CL_MURRI_TEXT_3">
+			<Text>A core aspect of the Murri peoples was the journey undertaken by Aboriginal groups of south east Queensland and northern New South Wales on their way to the Bunya Mountains for the Bunya nut festival. For Aboriginal people the Bunya Mountains are known as Boobarran Ngummin, literally translated means “mothers’ breast” and were believed to be where the creators of all the land, people and animals lived. The journey to the Bunya Mountains was undertaken in order for the various groups to engage in trade, sporting competitions, marriage ceremonies and other important spiritual discussions. Food was also a key attraction and an important requirement with such a large number of people gathering in one area. As such the Bunya Nut festivals usually only occurred every three years when a large crop of Bunya nuts (or bunja) would be produced.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_CL_MURRI_HEADING_4">
+			<Text>The Grand Trek</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_CL_MURRI_TEXT_4">
+			<Text>In order to communicate to other groups if there was a sufficient crop of Bunya nuts available the local group, the Jarowair people, would signal to other groups through the use of message sticks and smoke signals. Some of the Aboriginal groups from around South East Queensland involved in the festival included the Turrabul, Jagera and Quandamooka (Stradbroke Island) peoples. These groups would travel many hundreds of kilometres over a number of months in order to participate in the festival. The routes used had been laid down by their ancestors, but they were also guided there by carved trees which gave the groups information on campsites, food resources and very importantly the name of the group whose lands they were entering. Although there were many, there were two main important spiritual and cultural sites along the journey to the Bunya Mountains - Chullawong and Gummingurru.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_CL_MURRI_HEADING_5">
+			<Text>Feast of the Bon-yi</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_CL_MURRI_TEXT_5">
+			<Text>The gatherings occurred during the seasons when the bountiful nuts of the bunya pine ripened, from December through to March, and especially during 'bumper crops' which appeared to occur about every three or four years. These were evidently the largest and widest-attended Indigenous gatherings in Australia. Climbers would use a strong vine around their waist and the tree, which can be up to 1.5 m in width and up to 50 m tall, to reach the nuts. Members of the guest tribes were not allowed to climb or collect nuts from the tree. Apart from feasting on bunya nuts, participants engaged in a variety of intertribal activities: games and sports, ceremony, trade, knowledge exchange, the arrangement of marriages and the settling of disputes. 1902 was the final known gathering on the range.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_CL_MURRI_HEADING_6">
+			<Text>Colonization and Modern Times</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_CL_MURRI_TEXT_6">
+			<Text>Like many other Aboriginal peoples an adverse amount of Murri were forcibly removed from their land, and placed on missions with other tribes with whom their relations may not have been friendly. Additionally, From 1900 until 1972, a substantial number of Murri children became part of the Stolen Generations, the mixed-race children of Australian Aboriginal and Torres Strait Islander descent who were removed from their families by the Australian Federal and State government agencies and church missions, under acts of their respective parliaments. Along with all Australian Aboriginal people they were given suffrage in 1967, along with free access to Musgrave Park. They now own and operate the Murri radio network. Murri courts were established in 2002, but were closed by the Queensland Government in 2012. The Murri people hold the annual Murri Rugby League Carnival every year since 2011. Through the Murri Rugby League Carnival they select a players to represent in the Queensland Murri Rugby League team to participate against touring teams of Australia or to tours other countries.</Text>
+		</Row>
+
+		<!--Leader-->
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_CL_GANUURRU_HEADING_1">
+			<Text>History</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_CL_GANUURRU_TEXT_1">
+			<Text>Gambu Ganuurru, or Cumbo Gunnerah in an older spelling, also known as the Red Chief, or Red Kangaroo was a Kamilaroi man who lived in the area that is now the town of Gunnedah in north-west New South Wales in the 18th century. He had a reputation as a warrior and wise leader of the Gunn-e-darr tribe. The stories of his unsurpassed bravery, achievements and adventures were handed down through the generations and his burial place was treated with great respect by both colonists and Aborigines alike.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_CL_GANUURRU_HEADING_2">
+			<Text>Life of the Red Kangaroo</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_CL_GANUURRU_TEXT_2">
+			<Text>Gambu Ganuurru was revered as a cunning chief and mighty fighter on the plains of northern New South Wales. His most notable and famous achievement is that of the Wallaby Trap, in which his tactical skill and cunning allowed him to win a war against a neighbouring tribe with only a handful of men. Using a small group of warriors, he led the entire neighbouring army – who vastly outnumbered his – into a natural formation known as the Wallaby Trap, which the Gunn-e-darr regularly used to hunt marsupials. Cornered from all sides, the opposing army was easily defeated. Tactics such as the one described were a large indicator as to why Ganuurru’s name was remembered through to the present day.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_CL_GANUURRU_HEADING_3">
+			<Text>Burial and Judgement of History</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_CL_GANUURRU_TEXT_3">
+			<Text>Ganuurru was buried in the mid-18th century in a manner befitting a Kamilaroi man of great importance; in a sitting position, backed by a tree carved with totemic designs. He died many years before the First Fleet arrived, and would never witness the effects of colonialism on his people.[NEWLINE][NEWLINE]In 1887 a doctor in the town of Gunnedah arranged for the remains of Gambu Ganuurru to be dug up, and later sent them, along with a slab of what was locally known as The Blackfellow's Tree, to the Australian Museum. As custom demanded his silence, "Old Joe" Bungaree, the last full-blooded Aborigine of the Gunn-e-darr tribe, was unwilling to talk about his great leader. It was only just before he died that he decided to confide in his friend, J.P. Ewing, the local Police Sergeant. The Sergeant's son Stan Ewing recorded this information and passed it on to other historians. Gambu Ganuurru soon became recognised as a great Aboriginal leader, his story appearing in The Sydney Mail in 1891. Alongside the multitude of books, statues, sculptures and art depicting the Red Kangaroo, he has been an inspiration to indigenous Australians down through the decades as a great leader of his people.</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_CL_GANUURRU_LIVED">
+			<Text>c. 18th century</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_CL_GANUURRU_NAME">
+			<Text>Gambu Ganuurru</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_CL_GANUURRU_SUBTITLE">
+			<Text>Chief of the Gunn-e-darr</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CL_GANUURRU">
+			<Text>Gambu Ganuurru</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_CL_GANUURRU_TITLES_1">
+			<Text>Red Kangaroo, Chief of the Gunn-e-darr</Text>
+		</Row>
+
+		<!--Unique Ability-->
+		<Row Tag="TXT_KEY_TRAIT_CL_MURRI_SHORT">
+			<Text>Feast of the Bon-yi</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_CL_MURRI">
+			<Text>[ICON_PEACE] Faith produced in Cities contributes to their Cultural Border Growth (more the further away the City to the Capital is). Cities generate 10% more [ICON_FOOD] Growth for a short time after acquiring new tiles.</Text>
+		</Row>
+
+		<!--Unique Units-->
+		<Row Tag="TXT_KEY_BUILDING_CL_HUMPY">
+			<Text>Humpy</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_CL_HUMPY_STRATEGY">
+			<Text>Replacing the Caravansary, the Humpy generates +1 [ICON_PEACE] Faith if a City Connection to the Capital is established. Trade Units sent from this City have the chance claim neutral tiles adjacent to your own territory. Comes at The Wheel instead of Horseback Riding.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_CL_HUMPY_HELP">
+			<Text>Replacing the Caravansary, the Humpy generates +1 [ICON_PEACE] Faith if a City Connection to the Capital is established. Trade Units sent from this City have the chance claim neutral tiles adjacent to your own territory. Comes at The Wheel instead of Horseback Riding.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_CL_HUMPY_TEXT">
+			<Text>The Murri peoples covered an enormous swath of territory and to communicate with one another the Murri used networks of messengers called Marbull. Initiations, weddings, corroborees, and gatherings of governmental importance were commonplace, and it was the job of the Marbull messengers to convey these messages quickfast. The key to the Marbull's efficiency was the utilization of their "message sticks" that conveyed by symbols the number of people who had been invited and the time and location of the event. Additionally, Marbull had free passage through all territory being under the protection of the Chief and could also pass freely through other tribal lands.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_CL_MURRI_ENEMY_ROUTE">
+			<Text>Message Sticks</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_CL_MURRI_ENEMY_ROUTE_HELP">
+			<Text>May use roads belonging to other civilizations.</Text>
+		</Row>
+		
+		<Row Tag="TXT_KEY_UNIT_CL_MARBULL">
+			<Text>Marbull</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_CL_MARBULL_STRATEGY">
+			<Text>Cheaper and Weaker than the Scout it replaces, the Marbull moves twice as fast upon roads and additionally can utilize roads in foreign Civilizations. Can enter rival territories of Civs that the Murri share an Embassy with.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_CL_MARBULL_HELP">
+			<Text>Cheaper and Weaker than the Scout it replaces, the Marbull moves twice as fast upon roads and additionally can utilize roads in foreign Civilizations. Can enter rival territories of Civs that the Murri share an Embassy with.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_CIV5_CL_MARBULL_TEXT">
+			<Text>A Humpy, also known as a Gunyah, was a small shelter made from branches and bark, with widespread use across much of pre-colonial Australia. Easy to quickly construct, the shelters could be effectively made out of a large variety of materials and either stand alone or be supported by a tree. Their ease of construction made them a useful utility to the Murri peoples, especially when travelling to or feasting at the Bunya Mountains. Humpies in both name and design were later adopted by white settlers, who used them as temporary shelters prior to the construction of larger buildings and homesteads.</Text>
+		</Row>		
+	</Language_en_US>
+</GameData>

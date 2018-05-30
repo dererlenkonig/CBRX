@@ -1,0 +1,495 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<Civilizations>
+		<Row>
+			<Type>CIVILIZATION_KHAMUG</Type>
+			<Description>TXT_KEY_CIV_KHAMUG_DESC</Description>
+			<Civilopedia></Civilopedia>
+			<CivilopediaTag>TXT_KEY_CIV5_KHAMUGIA</CivilopediaTag>
+			<Strategy></Strategy>
+			<Playable>1</Playable>
+			<AIPlayable>1</AIPlayable>
+			<ShortDescription>TXT_KEY_CIV_KHAMUG_SHORT_DESC</ShortDescription>
+			<Adjective>TXT_KEY_CIV_KHAMUG_ADJECTIVE</Adjective>
+			<DefaultPlayerColor>PLAYERCOLOR_KHAMUG</DefaultPlayerColor>
+			<ArtDefineTag>ART_DEF_CIVILIZATION_MONGOL</ArtDefineTag>
+			<ArtStyleType>ARTSTYLE_ASIAN</ArtStyleType>
+			<ArtStyleSuffix>_MED</ArtStyleSuffix>
+			<ArtStylePrefix>ASIAN</ArtStylePrefix>
+			<DerivativeCiv></DerivativeCiv>
+			<PortraitIndex>0</PortraitIndex>
+			<IconAtlas>Khamug_Icon_Atlas</IconAtlas>
+			<AlphaIconAtlas>Alpha_Khamug</AlphaIconAtlas>
+			<MapImage>KhamugMap.dds</MapImage>
+			<DawnOfManQuote>TXT_KEY_CIV5_DAWN_KHAMUGIA_TEXT</DawnOfManQuote>
+			<DawnOfManImage>JamukhaDOM.dds</DawnOfManImage>
+			<SoundtrackTag></SoundtrackTag>
+		</Row>
+	</Civilizations>
+	
+	<Civilization_BuildingClassOverrides>
+		<Row>
+			<CivilizationType>CIVILIZATION_KHAMUG</CivilizationType>
+			<BuildingClassType>BUILDINGCLASS_STABLE</BuildingClassType>
+			<BuildingType>BUILDING_STEPPE_GER</BuildingType>
+		</Row>
+	</Civilization_BuildingClassOverrides>
+	<Civilization_CityNames>
+		<Row>
+			<CivilizationType>CIVILIZATION_KHAMUG</CivilizationType>
+			<CityName>TXT_KEY_CITY_NAME_KHAMUG_0</CityName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_KHAMUG</CivilizationType>
+			<CityName>TXT_KEY_CITY_NAME_KHAMUG_1</CityName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_KHAMUG</CivilizationType>
+			<CityName>TXT_KEY_CITY_NAME_KHAMUG_2</CityName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_KHAMUG</CivilizationType>
+			<CityName>TXT_KEY_CITY_NAME_KHAMUG_3</CityName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_KHAMUG</CivilizationType>
+			<CityName>TXT_KEY_CITY_NAME_KHAMUG_4</CityName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_KHAMUG</CivilizationType>
+			<CityName>TXT_KEY_CITY_NAME_KHAMUG_5</CityName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_KHAMUG</CivilizationType>
+			<CityName>TXT_KEY_CITY_NAME_KHAMUG_6</CityName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_KHAMUG</CivilizationType>
+			<CityName>TXT_KEY_CITY_NAME_KHAMUG_7</CityName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_KHAMUG</CivilizationType>
+			<CityName>TXT_KEY_CITY_NAME_KHAMUG_8</CityName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_KHAMUG</CivilizationType>
+			<CityName>TXT_KEY_CITY_NAME_KHAMUG_9</CityName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_KHAMUG</CivilizationType>
+			<CityName>TXT_KEY_CITY_NAME_KHAMUG_10</CityName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_KHAMUG</CivilizationType>
+			<CityName>TXT_KEY_CITY_NAME_KHAMUG_11</CityName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_KHAMUG</CivilizationType>
+			<CityName>TXT_KEY_CITY_NAME_KHAMUG_12</CityName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_KHAMUG</CivilizationType>
+			<CityName>TXT_KEY_CITY_NAME_KHAMUG_13</CityName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_KHAMUG</CivilizationType>
+			<CityName>TXT_KEY_CITY_NAME_KHAMUG_14</CityName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_KHAMUG</CivilizationType>
+			<CityName>TXT_KEY_CITY_NAME_KHAMUG_15</CityName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_KHAMUG</CivilizationType>
+			<CityName>TXT_KEY_CITY_NAME_KHAMUG_16</CityName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_KHAMUG</CivilizationType>
+			<CityName>TXT_KEY_CITY_NAME_KHAMUG_17</CityName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_KHAMUG</CivilizationType>
+			<CityName>TXT_KEY_CITY_NAME_KHAMUG_18</CityName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_KHAMUG</CivilizationType>
+			<CityName>TXT_KEY_CITY_NAME_KHAMUG_19</CityName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_KHAMUG</CivilizationType>
+			<CityName>TXT_KEY_CITY_NAME_KHAMUG_20</CityName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_KHAMUG</CivilizationType>
+			<CityName>TXT_KEY_CITY_NAME_KHAMUG_21</CityName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_KHAMUG</CivilizationType>
+			<CityName>TXT_KEY_CITY_NAME_KHAMUG_22</CityName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_KHAMUG</CivilizationType>
+			<CityName>TXT_KEY_CITY_NAME_KHAMUG_23</CityName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_KHAMUG</CivilizationType>
+			<CityName>TXT_KEY_CITY_NAME_KHAMUG_24</CityName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_KHAMUG</CivilizationType>
+			<CityName>TXT_KEY_CITY_NAME_KHAMUG_25</CityName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_KHAMUG</CivilizationType>
+			<CityName>TXT_KEY_CITY_NAME_KHAMUG_26</CityName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_KHAMUG</CivilizationType>
+			<CityName>TXT_KEY_CITY_NAME_KHAMUG_27</CityName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_KHAMUG</CivilizationType>
+			<CityName>TXT_KEY_CITY_NAME_KHAMUG_28</CityName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_KHAMUG</CivilizationType>
+			<CityName>TXT_KEY_CITY_NAME_KHAMUG_29</CityName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_KHAMUG</CivilizationType>
+			<CityName>TXT_KEY_CITY_NAME_KHAMUG_30</CityName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_KHAMUG</CivilizationType>
+			<CityName>TXT_KEY_CITY_NAME_KHAMUG_31</CityName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_KHAMUG</CivilizationType>
+			<CityName>TXT_KEY_CITY_NAME_KHAMUG_32</CityName>
+		</Row>
+	</Civilization_CityNames>
+	<!-- Civilization_DisableTechs -->
+	<Civilization_FreeBuildingClasses>
+		<Row>
+			<CivilizationType>CIVILIZATION_KHAMUG</CivilizationType>
+			<BuildingClassType>BUILDINGCLASS_PALACE</BuildingClassType>
+		</Row>
+	</Civilization_FreeBuildingClasses>
+	<Civilization_FreeTechs>
+		<Row>
+			<CivilizationType>CIVILIZATION_KHAMUG</CivilizationType>
+			<TechType>TECH_AGRICULTURE</TechType>
+		</Row>
+	</Civilization_FreeTechs>
+	<Civilization_FreeUnits>
+		<Row>
+			<CivilizationType>CIVILIZATION_KHAMUG</CivilizationType>
+			<UnitClassType>UNITCLASS_SETTLER</UnitClassType>
+			<UnitAIType>UNITAI_SETTLE</UnitAIType>
+			<Count>1</Count>
+		</Row>
+	</Civilization_FreeUnits>
+	<Civilization_Leaders>
+		<Row>
+			<CivilizationType>CIVILIZATION_KHAMUG</CivilizationType>
+			<LeaderheadType>LEADER_JAMUKHA</LeaderheadType>
+		</Row>
+	</Civilization_Leaders>
+	<Civilization_Religions>
+		<Row>
+			<CivilizationType>CIVILIZATION_KHAMUG</CivilizationType>
+			<ReligionType>RELIGION_TENGRIISM</ReligionType>
+		</Row>
+	</Civilization_Religions>
+	<Civilization_SpyNames>
+		<Row>
+			<CivilizationType>CIVILIZATION_KHAMUG</CivilizationType>
+			<SpyName>TXT_KEY_SPY_NAME_KHAMUG_0</SpyName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_KHAMUG</CivilizationType>
+			<SpyName>TXT_KEY_SPY_NAME_KHAMUG_1</SpyName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_KHAMUG</CivilizationType>
+			<SpyName>TXT_KEY_SPY_NAME_KHAMUG_2</SpyName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_KHAMUG</CivilizationType>
+			<SpyName>TXT_KEY_SPY_NAME_KHAMUG_3</SpyName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_KHAMUG</CivilizationType>
+			<SpyName>TXT_KEY_SPY_NAME_KHAMUG_4</SpyName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_KHAMUG</CivilizationType>
+			<SpyName>TXT_KEY_SPY_NAME_KHAMUG_5</SpyName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_KHAMUG</CivilizationType>
+			<SpyName>TXT_KEY_SPY_NAME_KHAMUG_6</SpyName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_KHAMUG</CivilizationType>
+			<SpyName>TXT_KEY_SPY_NAME_KHAMUG_7</SpyName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_KHAMUG</CivilizationType>
+			<SpyName>TXT_KEY_SPY_NAME_KHAMUG_8</SpyName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_KHAMUG</CivilizationType>
+			<SpyName>TXT_KEY_SPY_NAME_KHAMUG_9</SpyName>
+		</Row>
+	</Civilization_SpyNames>
+	<Civilization_UnitClassOverrides>
+		<Row>
+			<CivilizationType>CIVILIZATION_KHAMUG</CivilizationType>
+			<UnitClassType>UNITCLASS_SCOUT</UnitClassType>
+			<UnitType>UNIT_KHAMUG_HAWK_RIDER</UnitType>
+		</Row>
+	</Civilization_UnitClassOverrides>
+	<!-- Civilization_Start_Along_Ocean -->
+	<!-- Civilization_Start_Along_River -->
+	<Civilization_Start_Region_Priority>
+		<Row>
+			<CivilizationType>CIVILIZATION_KHAMUG</CivilizationType>
+			<RegionType>REGION_PLAINS</RegionType>
+		</Row>
+	</Civilization_Start_Region_Priority>
+	<!-- Civilization_Start_Region_Avoid -->
+	<!-- Civilization_Start_Place_First_Along_Ocean -->
+
+	<PlayerColors>
+		<Row>
+			<Type>PLAYERCOLOR_KHAMUG</Type>
+			<PrimaryColor>COLOR_PLAYER_KHAMUG_ICON</PrimaryColor>
+			<SecondaryColor>COLOR_PLAYER_KHAMUG_BACKGROUND</SecondaryColor>
+			<TextColor>COLOR_PLAYER_WHITE_TEXT</TextColor>
+		</Row>
+	</PlayerColors>
+	<Colors>
+		<Row>
+			<Type>COLOR_PLAYER_KHAMUG_ICON</Type>
+			<Red>1.0</Red>
+			<Green>0.823</Green>
+			<Blue>0.0</Blue>
+			<Alpha>1.0</Alpha>
+		</Row>
+	</Colors>
+	<Colors>
+		<Row>
+			<Type>COLOR_PLAYER_KHAMUG_BACKGROUND</Type>
+			<Red>0.172</Red>
+			<Green>0.125</Green>
+			<Blue>0.125</Blue>
+			<Alpha>1.0</Alpha>
+		</Row>
+	</Colors>
+
+	<Language_en_US>
+		<Row Tag="TXT_KEY_CIV_KHAMUG_DESC">
+			<Text>Khamug-Mongol Empire</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_KHAMUGIA_FACTOID_HEADING">
+			<Text>Khamug Factoids</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_KHAMUGIA_FACTOID_TEXT">
+			<Text>
+				<!-- Add Civilopedia text here -->
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_KHAMUGIA_HEADING_1">
+			<Text>History</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_KHAMUGIA_HAWK SCOUT_HEADING">
+			<Text>Hawk Scout</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_KHAMUGIA_HAWK SCOUT_HELP">
+			<Text>Hawk Scout.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_KHAMUGIA_HAWK SCOUT_INFO">
+			<Text>Hawk Scout.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_KHAMUGIA_HAWK SCOUT_STRATEGY">
+			<Text>Hawk Scout.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_KHAMUGIA_HAWK SCOUT_TEXT">
+			<Text>
+				<!-- Add Civilopedia text here -->
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_KHAMUGIA_STEPPE_GER_HEADING">
+			<Text>Steppe Ger</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_KHAMUGIA_STEPPE_GER_HELP">
+			<Text>Steppe Ger.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_KHAMUGIA_STEPPE_GER_INFO">
+			<Text>Steppe Ger.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_KHAMUGIA_STEPPE_GER_STRATEGY">
+			<Text>Steppe Ger.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_KHAMUGIA_STEPPE_GER_TEXT">
+			<Text>
+				<!-- Add Civilopedia text here -->
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_KHAMUGIA_STATBOX">
+			<Text>[NEWLINE]        Leader: JAMUKHA[NEWLINE]        Unique Unit: Khamug Hawk Rider[NEWLINE]        Unique Buiding: Steppe Ger[NEWLINE][NEWLINE]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_KHAMUGIA_TEXT_1">
+			<Text>
+			The Khamug Mongols were a confederation of tribes in Mongolia from the 10th century with the fall of the Liao until their destruction and absorbsion into Genghis Khan's unified Mongol Empire. The first recorded leader of the Khamug was Khabul Khan, great grandfather of Genghis. The confederation ended with the death of Hotula Khan (Genghis' uncle) in 1160, before being recollected by the minor khan of the Jadaran Tribe: Jamukha. Jamukha was Genghis' blood-brother and close friend early in life, but the two became separate, and eventually bitter rivals. By 1206 Jamukha had been beaten down by Genghis and the remaints of the Khamug joined with the new Mongol Empire. 
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_KHAMUGIA_TITLE">
+			<Text>Khamug-Mongol</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_KHAMUG_SHORT_DESC">
+			<Text>Khamug-Mongol</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_KHAMUG_ADJECTIVE">
+			<Text>Khamug-Mongol</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_DAWN_KHAMUGIA_TEXT">
+			<Text>Greetings, Jamukha, unifier of the Mongol people and leader of the mighty Khamug Confederation! Your throat sings the song of Tengri, the Great Blue Sky, and with it you follow your destiny to rule the steppe. Oh Khan, from the small Jadaran tribe, minor herders in a much larger affair – you climbed the ranks and took the head of the strongest force Mongolia has ever known! Blood-brothers with the treacherous Temujin you once had an ally in your now greatest rival; for he now seeks to control the ancestrial homeland of the Mongols as you do.[NEWLINE][NEWLINE]Jamukha, your people call upon you once more to lead them to battle and conquest! Will the world once again tremble at the thunderous sound of your cavalry sweeping down from the steppes? Will you build an empire that stands the test of time?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_KHAMUG_0">
+			<Text>Jadaran</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_KHAMUG_1">
+			<Text>Manan</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_KHAMUG_2">
+			<Text>Jaruud</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_KHAMUG_3">
+			<Text>Ba'arin</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_KHAMUG_4">
+			<Text>Barlas</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_KHAMUG_5">
+			<Text>Bula'at</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_KHAMUG_6">
+			<Text>Adarkin</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_KHAMUG_7">
+			<Text>Telenguut</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_KHAMUG_8">
+			<Text>Uru'ut</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_KHAMUG_9">
+			<Text>Manghut</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_KHAMUG_10">
+			<Text>Taichi'ut</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_KHAMUG_11">
+			<Text>Suldusun</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_KHAMUG_12">
+			<Text>Besut</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_KHAMUG_13">
+			<Text>Oronar</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_KHAMUG_14">
+			<Text>Arulad</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_KHAMUG_15">
+			<Text>Sunud</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_KHAMUG_16">
+			<Text>Mandalgovi</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_KHAMUG_17">
+			<Text>Khabturkas</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_KHAMUG_18">
+			<Text>Khadagin</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_KHAMUG_19">
+			<Text>Jadaran</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_KHAMUG_20">
+			<Text>Kaimish</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_KHAMUG_21">
+			<Text>Toghta</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_KHAMUG_22">
+			<Text>Margadai</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_KHAMUG_23">
+			<Text>Naqu</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_KHAMUG_24">
+			<Text>Qudu</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_KHAMUG_25">
+			<Text>Dayan</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_KHAMUG_26">
+			<Text>Alukhai</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_KHAMUG_27">
+			<Text>Khinggiadai</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_KHAMUG_28">
+			<Text>Oronar</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_KHAMUG_29">
+			<Text>Har-Ayrag</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_KHAMUG_30">
+			<Text>Nalayh</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_KHAMUG_31">
+			<Text>Nokhos</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_KHAMUG_32">
+			<Text>Noyakin</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_KHAMUG_0">
+			<Text>Khaidu</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_KHAMUG_1">
+			<Text>Ambaghai</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_KHAMUG_2">
+			<Text>Khabul</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_KHAMUG_3">
+			<Text>Hotula</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_KHAMUG_4">
+			<Text>Dutum</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_KHAMUG_5">
+			<Text>Monolun</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_KHAMUG_6">
+			<Text>Zaarin</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_KHAMUG_7">
+			<Text>Borogchin</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_KHAMUG_8">
+			<Text>Mongoljin</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_KHAMUG_9">
+			<Text>Bargujin</Text>
+			<Gender>feminine</Gender>
+		</Row>
+	</Language_en_US>
+</GameData>

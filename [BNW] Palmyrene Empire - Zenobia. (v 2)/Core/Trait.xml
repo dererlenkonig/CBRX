@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+  <Traits>
+    <Row>
+      <Type>TRAIT_CF_PALMYRA</Type>
+      <Description>TXT_KEY_TRAIT_CF_PALMYRA</Description>
+      <ShortDescription>TXT_KEY_TRAIT_CF_PALMYRA_SHORT</ShortDescription>
+    </Row>
+  </Traits>
+
+  <!-- Trait_ExtraYieldThresholds -->
+  <!-- Trait_YieldChanges -->
+  <!-- Trait_YieldChangesStrategicResources -->
+  <!-- Trait_YieldChangesNaturalWonder -->
+  <!-- Trait_YieldChangesPerTradePartner -->
+  <!-- Trait_YieldChangesIncomingTradeRoute -->
+  <!-- Trait_YieldModifiers -->
+  <!-- Trait_FreePromotions -->
+  <!-- Trait_FreePromotionUnitCombats -->
+  <!-- Trait_MovesChangeUnitCombats -->
+  <!-- Trait_MaintenanceModifierUnitCombats -->
+  <!-- Trait_Terrains -->
+  <!-- Trait_ResourceQuantityModifiers -->
+  <!-- Trait_FreeResourceFirstXCities -->
+  <!-- Trait_ImprovementYieldChanges -->
+  <!-- Trait_SpecialistYieldChanges -->
+  <!-- Trait_UnimprovedFeatureYieldChanges -->
+  <!-- Trait_NoTrain -->
+
+  <Language_en_US>
+    <Row Tag="TXT_KEY_TRAIT_CF_PALMYRA">
+      <Text>Foreign caravans that begin their turn in your territory give your [ICON_CAPITAL] Capital a [ICON_PRODUCTION] Production bonus. Bonus increased for each [ICON_INTERNATIONAL_TRADE] Trade Route originating from your [ICON_CAPITAL] Capital. Citadels act as a source of Fresh Water.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_TRAIT_CF_PALMYRA_SHORT">
+      <Text>Pearl of the Desert</Text>
+    </Row>
+  </Language_en_US>
+</GameData>

@@ -1,0 +1,73 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mod id="f7bd99da-ca25-4c9e-a6f3-9f9719255e14" version="14">
+  <Properties>
+    <Name>Improvement - Airbases</Name>
+    <Teaser>Airbases permit aircraft to be stationed on tiles</Teaser>
+    <Description>Adds a buildable airbase improvement that permits up to three aircraft to be stationed on a tile, or five after radar is researched.</Description>
+    <Authors>William Howard</Authors>
+    <SpecialThanks>Danrell for the artwork - see http://forums.civfanatics.com/showthread.php?t=477464</SpecialThanks>
+    <HideSetupGame>0</HideSetupGame>
+    <AffectsSavedGames>1</AffectsSavedGames>
+    <MinCompatibleSaveVersion>0</MinCompatibleSaveVersion>
+    <SupportsSinglePlayer>1</SupportsSinglePlayer>
+    <SupportsMultiplayer>0</SupportsMultiplayer>
+    <SupportsHotSeat>1</SupportsHotSeat>
+    <SupportsMac>1</SupportsMac>
+    <ReloadAudioSystem>0</ReloadAudioSystem>
+    <ReloadLandmarkSystem>1</ReloadLandmarkSystem>
+    <ReloadStrategicViewSystem>0</ReloadStrategicViewSystem>
+    <ReloadUnitSystem>0</ReloadUnitSystem>
+  </Properties>
+  <Dependencies>
+    <Mod id="d1b6328c-ff44-4b0d-aad7-c657f83610cd" minversion="87" maxversion="999" title="DLL - Various Mod Components" />
+  </Dependencies>
+  <References>
+    <Mod id="e1ccf71a-f248-498c-8f30-5ca6d851079d" minversion="1" maxversion="999" title="Tofts Flags +++" />
+  </References>
+  <Blocks />
+  <Files>
+    <File md5="12424B45F29A82FA935FBCA94AE654AB" import="1">ART/Airbase_256.dds</File>
+    <File md5="6306A07F2300181E5870E77765496A69" import="1">ART/Airbase_64.dds</File>
+    <File md5="D865086BDC627238CDA99CB7EC4931FE" import="1">ART/Airfield_Era1.dds</File>
+    <File md5="C4A2EB1A647C3845B71BC2A8C46DAE16" import="1">ART/Airfield_Era1.fxsxml</File>
+    <File md5="7228FCB8AA9744F8F7B35B571DF22735" import="1">ART/Airfield_Era1.gr2</File>
+    <File md5="66B416D118B9921250DB603035C6E460" import="1">ART/Airfield_Era1_HB.dds</File>
+    <File md5="E11D4CFE2A2E1052B6EE4A3594BAB5D9" import="1">ART/Airfield_Era1_HB.fxsxml</File>
+    <File md5="82C38BCD04EC4C4D19FEB2504B15B783" import="1">ART/Airfield_Era1_HB.gr2</File>
+    <File md5="2ECDA85F8173236F96DB0AFDE6642CA2" import="1">ART/Airfield_Era1_PL.dds</File>
+    <File md5="674003560D43F588BA088E9AFD8F7C69" import="1">ART/Airfield_Era1_PL.fxsxml</File>
+    <File md5="2A2E10EEE2B2C71C6E08AD7499C1A46B" import="1">ART/Airfield_Era1_PL.gr2</File>
+    <File md5="E9BD1CCD87FD083C617A00A25AB1B909" import="1">ART/Airfield_Era2.dds</File>
+    <File md5="6F523F45CD230B693C7F4FB2D5ACDCF1" import="1">ART/Airfield_Era2.fxsxml</File>
+    <File md5="A5F198FE2B2595EA9D24675CDA6B0E04" import="1">ART/Airfield_Era2.gr2</File>
+    <File md5="40C8E40328170181A0C58B9CD4C5C8DC" import="1">ART/Airfield_Era2_HB.dds</File>
+    <File md5="A3A23CD69DF9C6AC83C61F89A8A8EF75" import="1">ART/Airfield_Era2_HB.fxsxml</File>
+    <File md5="2D4EDC58C68F5404CAF1BEB1307B6C29" import="1">ART/Airfield_Era2_HB.gr2</File>
+    <File md5="7DB3D2EF53A139F23557230314F7004B" import="1">ART/Airfield_Era2_PL.dds</File>
+    <File md5="34F3D5A1EB519922CA617A3642D7715E" import="1">ART/Airfield_Era2_PL.fxsxml</File>
+    <File md5="DBC3613848848F522B0EA12C21961A12" import="1">ART/Airfield_Era2_PL.gr2</File>
+    <File md5="AC41C06BA721315512F26433220FEDF7" import="1">ART/no_gloss.dds</File>
+    <File md5="82445703B9AA57883B25D7F9E00FAA5E" import="1">ART/SV_Airbase.dds</File>
+    <File md5="156A9746AF72FADBA3B72EEC741C2F15" import="0">LUA/ImprovementAirbases.lua</File>
+    <File md5="C912C1083B3F77C84D5A2FD175F0A7FA" import="0">SQL/ImprovementAirbaseArtwork.sql</File>
+    <File md5="034C59D0E0EDD4A9F6C23C007A7CF31C" import="1">UI/InGame/UnitFlagManager.lua</File>
+    <File md5="FB8CF934E3077B36DEC7470EA78AA41D" import="1">UI/InGame/UnitFlagManager.xml</File>
+    <File md5="66FB50F3914FBDB93B5A59D266BA241D" import="0">XML/BuildAirbase.xml</File>
+    <File md5="669C581110DC99ED905F28A0D3658102" import="0">XML/ImprovementAirbase.xml</File>
+    <File md5="F5E4D698EBEA94ADA3FF5F19BA12E9E7" import="0">XML/ImprovementAirbaseIcons.xml</File>
+  </Files>
+  <Actions>
+    <OnModActivated>
+      <UpdateDatabase>XML/ImprovementAirbase.xml</UpdateDatabase>
+      <UpdateDatabase>XML/ImprovementAirbaseIcons.xml</UpdateDatabase>
+      <UpdateDatabase>SQL/ImprovementAirbaseArtwork.sql</UpdateDatabase>
+      <UpdateDatabase>XML/BuildAirbase.xml</UpdateDatabase>
+    </OnModActivated>
+  </Actions>
+  <EntryPoints>
+    <EntryPoint type="InGameUIAddin" file="LUA/ImprovementAirbases.lua">
+      <Name>ImprovementAirbases</Name>
+      <Description>Improvement - Airbases</Description>
+    </EntryPoint>
+  </EntryPoints>
+</Mod>

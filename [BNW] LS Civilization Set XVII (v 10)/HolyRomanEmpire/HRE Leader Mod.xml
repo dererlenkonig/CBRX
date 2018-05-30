@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<Traits>
+		<Row>
+			<Type>TRAIT_LS_HRE</Type>
+			<Description>TXT_KEY_TRAIT_LS_HRE</Description>
+			<ShortDescription>TXT_KEY_TRAIT_LS_HRE_SHORT</ShortDescription>
+		</Row>
+	</Traits>
+	<Audio_Sounds>
+		<Row>
+			<SoundID>SND_LEADER_MUSIC_HRE_LS_PEACE</SoundID>
+			<Filename>HRELSPeaceTheme</Filename>
+			<LoadType>DynamicResident</LoadType>
+		</Row>
+		<Row>
+			<SoundID>SND_LEADER_MUSIC_HRE_LS_WAR</SoundID>
+			<Filename>HRELSWarTheme</Filename>
+			<LoadType>DynamicResident</LoadType>
+		</Row>
+	</Audio_Sounds>
+</GameData>

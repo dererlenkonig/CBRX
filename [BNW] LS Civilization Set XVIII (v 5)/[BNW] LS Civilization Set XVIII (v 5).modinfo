@@ -1,0 +1,241 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mod id="a5b69280-294f-4e13-bbfd-6c08debaf2d2" version="5">
+  <Properties>
+    <Name>[BNW] LS Civilization Set XVIII</Name>
+    <Teaser>Adds Kingdom of Benin, Burmese Empire and Theban Empire to the game.</Teaser>
+    <Description>Adds Kingdom of Benin, Burmese Empire and Theban Empire to the game.</Description>
+    <Authors>LastSword</Authors>
+    <HideSetupGame>0</HideSetupGame>
+    <AffectsSavedGames>1</AffectsSavedGames>
+    <MinCompatibleSaveVersion>0</MinCompatibleSaveVersion>
+    <SupportsSinglePlayer>1</SupportsSinglePlayer>
+    <SupportsMultiplayer>1</SupportsMultiplayer>
+    <SupportsHotSeat>1</SupportsHotSeat>
+    <SupportsMac>1</SupportsMac>
+    <ReloadAudioSystem>1</ReloadAudioSystem>
+    <ReloadLandmarkSystem>0</ReloadLandmarkSystem>
+    <ReloadStrategicViewSystem>1</ReloadStrategicViewSystem>
+    <ReloadUnitSystem>1</ReloadUnitSystem>
+  </Properties>
+  <Dependencies />
+  <References />
+  <Blocks />
+  <Files>
+    <File md5="F6EDA5881835113398953A00E2A2D1BE" import="1">Benin/BeninLSPeace.mp3</File>
+    <File md5="A190A60BAA3E78ED1F9B276EEF2F4F9A" import="1">Benin/BeninLSWar.mp3</File>
+    <File md5="3939921167C34EFA19D3BFE963A06074" import="0">Benin/Benin Civ Mod.xml</File>
+    <File md5="245EEF60E1603BB4C527BD339D8F7CA4" import="0">Benin/Benin Game Text Mod.xml</File>
+    <File md5="8552A81979D92D18BCB96F941F5812F5" import="0">Benin/Benin Leader Mod.xml</File>
+    <File md5="C136F3E979937A2A41D5F36B30B9DEF2" import="1">Benin/Benin_Leader_Scene_LS_Mod.xml</File>
+    <File md5="4E7E3DC7D64A49C5839C49E9190B4CFE" import="0">Benin/Benin Unit Mod.xml</File>
+    <File md5="E4DDCD81E2CC17160505B257F347CBCF" import="1">Benin/Code/BeninLSImprovementCode.lua</File>
+    <File md5="38EA292F2218C4FEDCC1558DEBC8736B" import="0">Benin/Code/BeninLSTraitCode.lua</File>
+    <File md5="E8A1749F63A324BF191B81475067EBA5" import="0">Benin/Code/BeninLSTraitCode.xml</File>
+    <File md5="EB6B8581D011EFC23408AE97B1A807D9" import="0">Benin/Code/BeninLSUnitCode.lua</File>
+    <File md5="DAE5F681DB1A217D7DA8EE627DBFB504" import="0">Benin/Code/BeninLSUnitCode.xml</File>
+    <File md5="4646644770CA40CD90FA196D0E2A5B7E" import="0">Benin/Benin Improvement.xml</File>
+    <File md5="C2E8C12730BC6415258EC5EC899AEB54" import="1">Benin/Code/LSSaveUtils.lua</File>
+    <File md5="5754B1BE6E37A2F9D04D9D4149E5CDDF" import="1">Benin/Code/SaveUtils.lua</File>
+    <File md5="1F2D005630521860E0C216F2C3FB0E63" import="1">Benin/DiploBeninLSMod.dds</File>
+    <File md5="C8BCBAD1D646C8ADF9A4015F6B26FB8E" import="1">Benin/DoMBeninLSMod.dds</File>
+    <File md5="0D281E4F75B1BEE291A63C47CE48AFA0" import="1">Benin/Graphics/BeninLSWallD0V1.dds</File>
+    <File md5="4DB69305ACB0EF9475971BFE5533E6F9" import="1">Benin/Graphics/BeninLSWallD0V1F.dds</File>
+    <File md5="EA7A1E9C9CB115C9D996A2662DF5693B" import="1">Benin/Graphics/BeninLSWallD0V2.dds</File>
+    <File md5="ED7F74B15ACC61D82177917B6E53179B" import="1">Benin/Graphics/BeninLSWallD0V2F.dds</File>
+    <File md5="5B4622089EF25F7254FE393EFB9872FE" import="1">Benin/Graphics/BeninLSWallD0V3.dds</File>
+    <File md5="F2139D7A0E70FAF15FE9D3737599F1E1" import="1">Benin/Graphics/BeninLSWallD0V3F.dds</File>
+    <File md5="D6F39610F03271CFE5FD01DAC332667D" import="1">Benin/Graphics/BeninLSWallD0V4.dds</File>
+    <File md5="6536C878FE290CF1988EB5A4092AE947" import="1">Benin/Graphics/BeninLSWallD0V4F.dds</File>
+    <File md5="D1995D71DB692104701C1DB04FD23203" import="1">Benin/Graphics/BeninLSWallD0V5.dds</File>
+    <File md5="64FD076CB21EE1D91681EA77D86350B9" import="1">Benin/Graphics/BeninLSWallD0V5F.dds</File>
+    <File md5="CBE00B6E8C3E60441DC62E655D999D10" import="1">Benin/Graphics/BeninLSWallD4V1.dds</File>
+    <File md5="436D108D6D806C7F1276F3392B6C2974" import="1">Benin/Graphics/BeninLSWallD4V1F.dds</File>
+    <File md5="D24E12C7565E90B340953B1FD95EC88E" import="1">Benin/Graphics/BeninLSWallD4V2.dds</File>
+    <File md5="FFE7045AE1C8D31DF25E3EDA516D3342" import="1">Benin/Graphics/BeninLSWallD4V2F.dds</File>
+    <File md5="D5A77B0565A29E009247C35B6046735E" import="1">Benin/Graphics/BeninLSWallD4V3.dds</File>
+    <File md5="0EB7D6F057E47C9E965753EE10E31A03" import="1">Benin/Graphics/BeninLSWallD4V3F.dds</File>
+    <File md5="31D9378933A3978FB74B039F9F0B8C4B" import="1">Benin/Graphics/BeninLSWallD4V4.dds</File>
+    <File md5="C0F9BC94A703405E8D8A79FEA972F921" import="1">Benin/Graphics/BeninLSWallD4V4F.dds</File>
+    <File md5="CBE00B6E8C3E60441DC62E655D999D10" import="1">Benin/Graphics/BeninLSWallD4V5.dds</File>
+    <File md5="380CA964BE20E799B04A31E2A91BE90C" import="1">Benin/Graphics/BeninLSWallD4V5F.dds</File>
+    <File md5="DCE4AD05A0A2ADECF6EEE561F6B02368" import="1">Benin/Graphics/BeninLSWallD5V1.dds</File>
+    <File md5="86541B04039C024DDFE6D4431D32E557" import="1">Benin/Graphics/BeninLSWallD5V1F.dds</File>
+    <File md5="0A2E4BA43F44649010D751CBF23FA6E6" import="1">Benin/Graphics/BeninLSWallD5V2.dds</File>
+    <File md5="3BBC5A7E6B5D9BBF2A2EFA629D0815DE" import="1">Benin/Graphics/BeninLSWallD5V2F.dds</File>
+    <File md5="5B43707A7630C8BF23875A2CD5EE113B" import="1">Benin/Graphics/BeninLSWallD5V3.dds</File>
+    <File md5="D082163FA376E619CD6BE5927A955D82" import="1">Benin/Graphics/BeninLSWallD5V3F.dds</File>
+    <File md5="98E9DCFD9FBAEE00CBF835F4702EE4CC" import="1">Benin/Graphics/BeninLSWallD5V4.dds</File>
+    <File md5="D2AF08650A000F43DEAD88C5CAE9F3DC" import="1">Benin/Graphics/BeninLSWallD5V4F.dds</File>
+    <File md5="EE5EBDEF772A46580B709935127A8A6C" import="1">Benin/Graphics/BeninLSWallD5V5.dds</File>
+    <File md5="CCD1AFAB9F190C58CC1483B03244B6EA" import="1">Benin/Graphics/BeninLSWallD5V5F.dds</File>
+    <File md5="3EDF392F898B6FD877C2A203183F0325" import="1">Benin/MapBeninLSMod.dds</File>
+    <File md5="4E9F4BAB4499246D1E7153F59395A096" import="1">Benin/Model/BantuSpearman.dds</File>
+    <File md5="972185C0B7E17736CDF9461C1B1C0D31" import="1">Benin/Model/BantuSpearman.fbx</File>
+    <File md5="93999BBE7F64FBC2803DB6E7A28DDDE8" import="1">Benin/Model/BantuSpearman.fxsxml</File>
+    <File md5="FF197C517C2B00C6D8912953C5C0407F" import="1">Benin/Model/BantuSpearman.gr2</File>
+    <File md5="F037EFEBCDBF76CF4E773600AB791AEA" import="1">Benin/Model/BantuSpearman_sref.dds</File>
+    <File md5="A4284591738F8731F0FD792498F24439" import="1">Benin/Model/BantuSpearman_Template.blend</File>
+    <File md5="F71573B7F50767C1859EE52641A4DFF7" import="0">Benin/Model/BeninLSArtDefine.sql</File>
+    <File md5="87FDCE6D2AE71B386AA3EDFAB430DD56" import="1">Benin/Model/SVLSBenin.dds</File>
+    <File md5="89D6923188C3EFC55FCA772CBCD9F62F" import="1">Benin/Model/UnitAlphaLSBenin.dds</File>
+    <File md5="61A02B6BC1AE14875281B69A9A536A56" import="0">Burma/Burma Unit Mod.xml</File>
+    <File md5="D83C689F3504321A439C40E1E4B7CDBD" import="1">Burma/Code/BurmaLSImprovementCode.lua</File>
+    <File md5="39B6A855B3BDD603083EB5A259B3C925" import="0">Burma/Code/BurmaLSUnitCode.lua</File>
+    <File md5="F367A958072F9939651D31AF7AFB0C1B" import="0">Burma/Code/BurmaLSUnitCode.xml</File>
+    <File md5="DA68DCCFDC439A212EF0EF9139D891FB" import="1">Burma/Code/BurmaLSTraitCode.lua</File>
+    <File md5="C2E8C12730BC6415258EC5EC899AEB54" import="1">Burma/Code/LSSaveUtils.lua</File>
+    <File md5="1293167EE0EA178E81FEEAB9C4B9A3C5" import="1">Burma/DiploBurmaLSMod.dds</File>
+    <File md5="8C7F42F68AB070865FE9C873BA8D43D7" import="1">Burma/DoMBurmaLSMod.dds</File>
+    <File md5="0DA3429C32BACBECE0ADD6D571B0ADB7" import="1">Burma/BurmaLSWar.mp3</File>
+    <File md5="E6D1A3DA0D4F5D79CBE775FE3F075542" import="1">Burma/BurmaLSPeace.mp3</File>
+    <File md5="9616E0E153F8D5130B8B733FB43704D4" import="1">Burma/Graphics/BurmaLSPagodaV1.dds</File>
+    <File md5="4E4E6AEDDCB9777AD0D6C2DA7E1E9AFB" import="1">Burma/Graphics/BurmaLSPagodaV10.dds</File>
+    <File md5="BC830F2E8531B9365DE7F0BD333147EB" import="1">Burma/Graphics/BurmaLSPagodaV10F.dds</File>
+    <File md5="8DC513F9AA51807E7F4C48AFE0B06FE1" import="1">Burma/Graphics/BurmaLSPagodaV11.dds</File>
+    <File md5="A32885D51958027A6E5DEC3542D7B079" import="1">Burma/Graphics/BurmaLSPagodaV11F.dds</File>
+    <File md5="3228263EFC8BD9D5191BC9133F2F7E8D" import="1">Burma/Graphics/BurmaLSPagodaV12.dds</File>
+    <File md5="224B2CC0A37E2EC72D9ECA6F994D29DD" import="1">Burma/Graphics/BurmaLSPagodaV12F.dds</File>
+    <File md5="A64E568911FDA8C2408C2C4048D82045" import="1">Burma/Graphics/BurmaLSPagodaV13.dds</File>
+    <File md5="C552B55727137869C421B0163D242FE7" import="1">Burma/Graphics/BurmaLSPagodaV13F.dds</File>
+    <File md5="4B50A03F2D6F8CDCD2D6BF18FA16B59F" import="1">Burma/Graphics/BurmaLSPagodaV14.dds</File>
+    <File md5="E2D31FA84DEBE491BCA1C155FFBEF699" import="1">Burma/Graphics/BurmaLSPagodaV14F.dds</File>
+    <File md5="1865F1C7E6FD723A2742381265FA9DEA" import="1">Burma/Graphics/BurmaLSPagodaV15.dds</File>
+    <File md5="563E4F3EA703EC4BC40222D521EC49AC" import="1">Burma/Graphics/BurmaLSPagodaV15F.dds</File>
+    <File md5="775281ACC506D3A97EF1E1FFBA132793" import="1">Burma/Graphics/BurmaLSPagodaV16.dds</File>
+    <File md5="021F731844C862C76355CA38D77389BE" import="1">Burma/Graphics/BurmaLSPagodaV16F.dds</File>
+    <File md5="86926DE56558A35AC108DD8FC1EA57F7" import="1">Burma/Graphics/BurmaLSPagodaV1F.dds</File>
+    <File md5="86771695BE68384F0619DA8827BA811B" import="1">Burma/Graphics/BurmaLSPagodaV2.dds</File>
+    <File md5="2DD880E5DB7CB0BE47BF9E31C4BB4EF6" import="1">Burma/Graphics/BurmaLSPagodaV2F.dds</File>
+    <File md5="07BA0F15E183A0FBE87C5BCE67E1F4F4" import="1">Burma/Graphics/BurmaLSPagodaV3.dds</File>
+    <File md5="02EB72B9930D5A8167592C5475740189" import="1">Burma/Graphics/BurmaLSPagodaV3F.dds</File>
+    <File md5="915AE306F3F5CDAC5D21F25FED351EAC" import="0">Burma/Burma Improvement Mod.xml</File>
+    <File md5="6A3820265CF6665E40DF40FE90020582" import="1">Burma/Graphics/BurmaLSPagodaV4.dds</File>
+    <File md5="6A3E7E6EE593BDD5CC553B87F807CFFF" import="1">Burma/Graphics/BurmaLSPagodaV4F.dds</File>
+    <File md5="1B79E352398CC1E0720003B907D9342D" import="1">Burma/Graphics/BurmaLSPagodaV5.dds</File>
+    <File md5="8F2BF78570732612C611BD963E89DCF3" import="1">Burma/Graphics/BurmaLSPagodaV5F.dds</File>
+    <File md5="09AFA8509C9D64D67F3D25A0BB92ED81" import="1">Burma/Graphics/BurmaLSPagodaV6.dds</File>
+    <File md5="B3BBF72B47EACF7BEA76AC91A9E31349" import="1">Burma/Graphics/BurmaLSPagodaV6F.dds</File>
+    <File md5="DC0C415B48875D5AA8C1A68A0A21427C" import="1">Burma/Graphics/BurmaLSPagodaV7.dds</File>
+    <File md5="19EADEAD7A405C34DB2DF6D25D9F4F31" import="1">Burma/Graphics/BurmaLSPagodaV7F.dds</File>
+    <File md5="AD82D8911ABC40580A81A7B76ABC2708" import="1">Burma/Graphics/BurmaLSPagodaV8.dds</File>
+    <File md5="032E8E6FD8F5176A7D45B3A1DEFC912D" import="1">Burma/Graphics/BurmaLSPagodaV8F.dds</File>
+    <File md5="2BEF20ACD1A9210550E0CAF754495C2C" import="1">Burma/Graphics/BurmaLSPagodaV9.dds</File>
+    <File md5="1F89C948A90EC16CFBB03C981A89B32B" import="1">Burma/Graphics/BurmaLSPagodaV9F.dds</File>
+    <File md5="3564D1063FF387EF9A9B67CA92E527FF" import="1">Burma/MapBurmaLSMod.dds</File>
+    <File md5="E0D8675F91775BD3F22DCF697A6EEA39" import="0">Burma/Burma Civ Mod.xml</File>
+    <File md5="18B10C74643B2CF7905DE7D884ADF69B" import="0">Burma/Burma Game Text Mod.xml</File>
+    <File md5="577843AE767C86F56EF1FEBF4F42DD07" import="0">Burma/Burma Leader Mod.xml</File>
+    <File md5="2433A3CFB0BB353353064A755FB168F0" import="1">Burma/Burma_Leader_Scene_LS_Mod.xml</File>
+    <File md5="3CDFAA21B18A367236C65345CBC74386" import="1">Burma/Model/Horseman_China.blend</File>
+    <File md5="5593F84EB093F99A928DCBF7264C3D79" import="1">Burma/Model/Horseman_China.dds</File>
+    <File md5="9A29DE76ECA77BAE3605321970891B0A" import="1">Burma/Model/Horseman_China.fxsxml</File>
+    <File md5="D39FADEA7CC5F1CAA163BBF0A67CA379" import="1">Burma/Model/Horseman_China.gr2</File>
+    <File md5="3A7A06F4F73960C0ABE9F88B58734892" import="1">Burma/Model/Horseman_China_gloss.dds</File>
+    <File md5="651AD041BBB81FA07E533C347AB2382D" import="1">Burma/Model/Horseman_China_Horse.dds</File>
+    <File md5="AC41C06BA721315512F26433220FEDF7" import="1">Burma/Model/no_gloss.dds</File>
+    <File md5="BD6E99FF9683694966533DB29F4667F2" import="0">Burma/Model/BurmaLSUUArtDefine.sql</File>
+    <File md5="4F4A086A20DF0FF22750AFFB73DBA7B7" import="1">Burma/Model/SVLSBurma.dds</File>
+    <File md5="68CC1BF93DBD2593012C9433F2143426" import="1">Burma/Model/UnitAlphaLSBurma.dds</File>
+    <File md5="7689788B85C27B575A69245C64E6A594" import="1">Thebes/Code/ThebesLSBuildingCode.lua</File>
+    <File md5="53C8B07FE167F232D5A3CD50B3F699A5" import="0">Thebes/Model/ThebesLSUUArtDefine.sql</File>
+    <File md5="FE512B685A46436BED7945704064EEC5" import="1">Thebes/Model/Pikeman_Greece.blend</File>
+    <File md5="68306D2A9C378131D05FF015CD8DC845" import="1">Thebes/Model/Pikeman_Greece.dds</File>
+    <File md5="96BA511FBD7B719A1A1E5689FC5ED8CE" import="1">Thebes/Model/Pikeman_Greece.fxsxml</File>
+    <File md5="07CCF319CEDF9625C00CFD26E2601736" import="1">Thebes/Model/Pikeman_Greece.gr2</File>
+    <File md5="21A8A542450644107119EC0662AC6B5A" import="1">Thebes/Model/Pikeman_Greece_gloss.dds</File>
+    <File md5="F98719678F1307B6953020B4E9249847" import="1">Thebes/NiceProphecySoundLS.mp3</File>
+    <File md5="1C253BFA9CA358CCDBD5F5A200E810CF" import="0">Thebes/Thebes Building Mod.xml</File>
+    <File md5="6AD344A669BFE724FD3D8212E39D1956" import="0">Thebes/Thebes Unit Mod.xml</File>
+    <File md5="7175B8026739A79951B707DF206C096E" import="1">Thebes/Model/SVLSThebes.dds</File>
+    <File md5="ABAA5C6AD08459A3F8AC9412871F45E1" import="1">Thebes/Model/UnitAlphaLSThebes.dds</File>
+    <File md5="CCE9A2A9C3334FD378F6DB3187270F25" import="0">Thebes/Thebes Civ Mod.xml</File>
+    <File md5="455DA2545280779565CB3684E382EA30" import="0">Thebes/Thebes Game Text Mod.xml</File>
+    <File md5="CA09EAC5BA29BE375F2C5B21518690F9" import="0">Thebes/Thebes Leader Mod.xml</File>
+    <File md5="6E7D75E4F28AB139994B2D544323C7CF" import="1">Thebes/Thebes_Leader_Scene_LS_Mod.xml</File>
+    <File md5="1E3445AF796EA5228F282E6A46AC307B" import="1">Thebes/DiploThebesLSMod.dds</File>
+    <File md5="0AF43DC069C542C6344A67DF92D83C9F" import="1">Thebes/DoMThebesLSMod.dds</File>
+    <File md5="D743EC78D8EED49FB24CE8EDF6A2F8A1" import="1">Thebes/MapThebesLSMod.dds</File>
+    <File md5="5CDCB7792AA4DCB845DC83D61789D7B3" import="1">Thebes/ThebesLSPeace.mp3</File>
+    <File md5="3F0342D3F8069D6D651888372BD4D9AF" import="0">Thebes/ThebesLSUnitCode.xml</File>
+    <File md5="C2E8C12730BC6415258EC5EC899AEB54" import="1">Thebes/Code/LSSaveUtils.lua</File>
+    <File md5="06978921E587B807B5A90D224EDF1EEB" import="1">Thebes/Code/ThebesLSTraitCode.lua</File>
+    <File md5="99A1B0189E8636950F7B5D675DDB8C41" import="0">Thebes/Code/ThebesLSUnitCode.lua</File>
+    <File md5="F793476778823945C2289541263D941E" import="0">Thebes/Code/ThebesLSUnitCode.xml</File>
+    <File md5="7AD4005E6540871488F5F2C6AB01909A" import="1">Thebes/ThebesLSWar.mp3</File>
+    <File md5="7C0D20186160DEFE411A0F47DF394E60" import="1">ThreeDotZeroZero/ActionLS18Atlas45.dds</File>
+    <File md5="0D23D127412AC9029C22A033732425B3" import="1">ThreeDotZeroZero/ActionLS18Atlas64.dds</File>
+    <File md5="10AC35700D0A1B28C084A377D4D354CE" import="1">ThreeDotZeroZero/AlphaLS18Atlas24.dds</File>
+    <File md5="C0DC09DC00A7F9FF830960C69A836784" import="1">ThreeDotZeroZero/AlphaLS18Atlas32.dds</File>
+    <File md5="9698A2270474ED1E4E26D3F75CAFF23F" import="1">ThreeDotZeroZero/AlphaLS18Atlas48.dds</File>
+    <File md5="2C2AAB94D8250EB30412A1921A114B62" import="1">ThreeDotZeroZero/AlphaLS18Atlas64.dds</File>
+    <File md5="BCF86FBF29811540C6FA2F4FF4C2C036" import="1">ThreeDotZeroZero/BuildingLS18Atlas128.dds</File>
+    <File md5="B22CF66050BCC40C46B5A949DE64E1A2" import="1">ThreeDotZeroZero/BuildingLS18Atlas256.dds</File>
+    <File md5="59563A5C2686F86F7F16A83024E184F1" import="1">ThreeDotZeroZero/BuildingLS18Atlas45.dds</File>
+    <File md5="CF80B83E547C5C9C711E435EC047B77F" import="1">ThreeDotZeroZero/BuildingLS18Atlas64.dds</File>
+    <File md5="5C3C4FF62041E539698018FC958D3A76" import="1">ThreeDotZeroZero/CivLS18Atlas128.dds</File>
+    <File md5="4FF5A66702795A86666E3ADE7C19D953" import="1">ThreeDotZeroZero/CivLS18Atlas256.dds</File>
+    <File md5="04A44FCE4B0FF673473724FFB32E22E6" import="1">ThreeDotZeroZero/CivLS18Atlas32.dds</File>
+    <File md5="F42C2F1B0487F9F620AF9F7F8900C8A3" import="1">ThreeDotZeroZero/CivLS18Atlas45.dds</File>
+    <File md5="C7BCD009AB9EA60F7B04E9928777DAD8" import="1">ThreeDotZeroZero/CivLS18Atlas64.dds</File>
+    <File md5="F2AF1385C14D6858EB3D8F8F490844F4" import="1">ThreeDotZeroZero/CivLS18Atlas80.dds</File>
+    <File md5="DF8FEA6E6304DEA397EA37B9D1B4EDD7" import="1">ThreeDotZeroZero/CivLS18Leader128.dds</File>
+    <File md5="21923EE364620A76973424926F4EAA44" import="1">ThreeDotZeroZero/CivLS18Leader256.dds</File>
+    <File md5="A2B752E2287916BB64BEE7B68C2D4FB2" import="1">ThreeDotZeroZero/CivLS18Leader64.dds</File>
+    <File md5="F54560618E2E31910EA9ACD60E0FF42C" import="1">ThreeDotZeroZero/LeaderLS18Atlas128.dds</File>
+    <File md5="C422CD226C35C82A0477B34B2EC5EAF0" import="1">ThreeDotZeroZero/LeaderLS18Atlas256.dds</File>
+    <File md5="C61156624B464DD87EE00437CE1E7C9A" import="1">ThreeDotZeroZero/LeaderLS18Atlas64.dds</File>
+    <File md5="EC4FE9786B521B47733A02CFFFDF772A" import="0">ThreeDotZeroZero/LS18 Atlas Mod.xml</File>
+    <File md5="AFB0B156D03747011944A267E2ABC7E1" import="1">ThreeDotZeroZero/UnitLS18Atlas128.dds</File>
+    <File md5="DCF7AEC03473341C96C429DB0A657268" import="1">ThreeDotZeroZero/UnitLS18Atlas256.dds</File>
+    <File md5="918D099AC85BF884AEA119AD96AC435F" import="1">ThreeDotZeroZero/UnitLS18Atlas45.dds</File>
+    <File md5="B20AB93121EC32067EB33195715AFA4D" import="1">ThreeDotZeroZero/UnitLS18Atlas64.dds</File>
+    <File md5="112F2D910FC0535937427F331ABADCA6" import="1">ThreeDotZeroZero/UnitLS18Atlas80.dds</File>
+  </Files>
+  <Actions>
+    <OnModActivated>
+      <UpdateDatabase>Benin/Benin Improvement.xml</UpdateDatabase>
+      <UpdateDatabase>Benin/Model/BeninLSArtDefine.sql</UpdateDatabase>
+      <UpdateDatabase>Burma/Burma Improvement Mod.xml</UpdateDatabase>
+      <UpdateDatabase>Burma/Model/BurmaLSUUArtDefine.sql</UpdateDatabase>
+      <UpdateDatabase>Burma/Burma Civ Mod.xml</UpdateDatabase>
+      <UpdateDatabase>Burma/Burma Game Text Mod.xml</UpdateDatabase>
+      <UpdateDatabase>Burma/Burma Leader Mod.xml</UpdateDatabase>
+      <UpdateDatabase>Burma/Burma Unit Mod.xml</UpdateDatabase>
+      <UpdateDatabase>ThreeDotZeroZero/LS18 Atlas Mod.xml</UpdateDatabase>
+      <UpdateDatabase>Benin/Benin Civ Mod.xml</UpdateDatabase>
+      <UpdateDatabase>Benin/Model/BeninLSArtDefine.sql</UpdateDatabase>
+      <UpdateDatabase>Benin/Benin Game Text Mod.xml</UpdateDatabase>
+      <UpdateDatabase>Benin/Benin Improvement.xml</UpdateDatabase>
+      <UpdateDatabase>Benin/Benin Leader Mod.xml</UpdateDatabase>
+      <UpdateDatabase>Benin/Benin Unit Mod.xml</UpdateDatabase>
+      <UpdateDatabase>Thebes/Thebes Building Mod.xml</UpdateDatabase>
+      <UpdateDatabase>Thebes/Thebes Civ Mod.xml</UpdateDatabase>
+      <UpdateDatabase>Thebes/Thebes Game Text Mod.xml</UpdateDatabase>
+      <UpdateDatabase>Thebes/Thebes Leader Mod.xml</UpdateDatabase>
+      <UpdateDatabase>Thebes/Thebes Unit Mod.xml</UpdateDatabase>
+      <UpdateDatabase>Thebes/Model/ThebesLSUUArtDefine.sql</UpdateDatabase>
+    </OnModActivated>
+  </Actions>
+  <EntryPoints>
+    <EntryPoint type="InGameUIAddin" file="Benin/Code/BeninLSUnitCode.lua">
+      <Name>1</Name>
+      <Description>
+      </Description>
+    </EntryPoint>
+    <EntryPoint type="InGameUIAddin" file="Benin/Code/BeninLSTraitCode.lua">
+      <Name>2</Name>
+      <Description>
+      </Description>
+    </EntryPoint>
+    <EntryPoint type="InGameUIAddin" file="Thebes/Code/ThebesLSUnitCode.lua">
+      <Name>3</Name>
+      <Description>
+      </Description>
+    </EntryPoint>
+    <EntryPoint type="InGameUIAddin" file="Burma/Code/BurmaLSUnitCode.lua">
+      <Name>4</Name>
+      <Description>
+      </Description>
+    </EntryPoint>
+  </EntryPoints>
+</Mod>

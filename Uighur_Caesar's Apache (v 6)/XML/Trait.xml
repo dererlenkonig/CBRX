@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 08/30/15 12:43:54 PM -->
+<GameData>
+	<Traits>
+		<Row>
+			<Type>TRAIT_UC_DESERT_RAIDERS</Type>
+			<Description>TXT_KEY_TRAIT_UC_DESERT_RAIDERS</Description>
+			<ShortDescription>TXT_KEY_TRAIT_UC_DESERT_RAIDERS_SHORT</ShortDescription>
+		</Row>
+	</Traits>
+  
+</GameData>

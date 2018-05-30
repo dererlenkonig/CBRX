@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 3/12/2017 11:24:46 PM -->
+<GameData>
+	<Language_en_US>
+		<Row Tag="TXT_KEY_CIV_CB_SULU_ADJECTIVE">
+			<Text>Sulu</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_CB_SULU_DESC">
+			<Text>Sulu Empire</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_CB_SULU_SHORT_DESC">
+			<Text>Sulu</Text>
+		</Row>
+		<!-- DoM text here-->
+		<Row Tag="TXT_KEY_CIV5_CB_SULU_DOM_TEXT">
+			<Text>Praise be to you, Sultan Jamalul Kiram II! You lead the great Sultanate of Sulu, founded in the early 1400s and the first Muslim state in the Philippine archipelago. Your people gained independence from the wealthy Sultan of Brunei and created a realm that stretched across the Sulu Sea. The sea provided wealth to your people, from trade, pearling, and piracy. The Sultanate resisted the colonial powers of the Spanish, British, and Dutch for hundreds of years, maintaining its independence. The end of the independence of the Sultanate came with the arrival of the Americans, when you were joined with the rest of the Philippines to form one nation. [NEWLINE][NEWLINE]Great Sultan, your people once more need a strong leader, one who can lead them back to power and prosperity. Will you use the sea to earn wealth, or will you use it to defeat your enemies? Will you build a civilization that can stand the test of time?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_CB_SULU_HEADING_1">
+			<Text>History</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_CB_SULU_TEXT_1">
+			<Text>The Sultanate of Sulu was a Muslim state that ruled the islands in the Sulu Archipelago, parts of Mindanao, certain portions of Palawan and north-eastern Borneo (currently parts of Sabah and North Kalimantan). The sultanate was founded on 17 November 1405. by a Johore-born explorer and religious scholar Sharif ul-Hashim. Paduka Mahasari Maulana al Sultan Sharif ul-Hashim became his full regnal name, Sharif-ul Hashim his abbreviated name. He settled in Buansa, Sulu. After the marriage of Abu Bakr and a local dayang-dayang (princess) Paramisuli, he founded the sultanate. The Sultanate gained its independence from the Bruneian Empire in 1578. At its peak, it stretched over the islands that bordered the western peninsula of Mindanao in the east to Palawan in the north. It also covers the area in northeastern side of Borneo, stretching from Marudu Bay, to Tepian Durian in present-day Kalimantan. Due to the arrival of western powers such as the Spanish, British, Dutch, French, German and American, the Sultan thalassocracy and sovereign political powers were relinquished by 1915 through an agreement that was signed with the last colonialist, the United States. In 1962, Philippine Government under the leadership of President Diosdado Macapagal officially recognised the continued existence of the Sultanate of Sulu. On 24 May 1974, Sultan Mohammad Mahakuttah Kiram (reigned 1974–1986), was the last officially recognized Sulu Sultan in the Philippines, having been recognized by President Ferdinand Marcos.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_CB_KIRAM_HEADING_1">
+			<Text>History</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_CB_KIRAM_TEXT_1">
+			<Text>He was the younger brother of Sultan Badarud-Din II. He was proclaimed Sultan of Sulu by his followers in 1894 as the son of Jamalul Alam. According to some sources, his real name was Amirul Kiram Awal. His proclamation as sultan was contested by Datu Aliud-Din, a grandson of Sultan Shakirul-Lah, but without any success. Aliud-Din was forced to flee to Basilan. It was Harun Ar-Rashid who tried to mediate between Jamalul-Kiram and Aliud-Din, until the Spaniards thought it expedient to have Harun Ar-Rashid himself proclaimed Sultan. The Spaniards were led eventually to deal with Jamalul Kiram II as the Sultan of Sulu in spite of his repeated refusal to go to Manila on a state visit. In 1915, Jamalul Kiram II virtually surrendered his political powers to the United States government under the 1915 Carpenter Agreement. Jamalul Kiram II died on 7 June 1936, without leaving any son nor heir. Although he had seven daughters, no woman could be appointed as heir or successor according to Islamic law.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_CB_KIRAM_LIVED">
+			<Text>r. 1894-1936</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_CB_KIRAM_NAME">
+			<Text>Jamalul Kiram II</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_CB_KIRAM_SUBTITLE">
+			<Text>Leader of Sulu</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_CB_KIRAM_TITLES_1">
+			<Text>Sultan of Sulu</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CB_KIRAM">
+			<Text>Jamalul Kiram II</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_BAUANG">
+			<Text>Bauang</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_DUNGUN">
+			<Text>Dungun</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MAIMBUNG">
+			<Text>Maimbung</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SANDAKAN">
+			<Text>Sandakan</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_PATIKUL">
+			<Text>Patikul</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TAGUIMA">
+			<Text>Taguima</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TALIPAO">
+			<Text>Talipao</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SIASI">
+			<Text>Siasi</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_INDANAN">
+			<Text>Indanan</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SEMPORNA">
+			<Text>Semporna</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SIMUNUL">
+			<Text>Simunul</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_LAMITAN">
+			<Text>Lamitan</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SAMBOANGAN">
+			<Text>Samboangan</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_PASANGAN">
+			<Text>Pasangan</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_LAHAD_DATU">
+			<Text>Lahad Datu</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TAWAU">
+			<Text>Tawau</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_BONGAO">
+			<Text>Bongao</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_PANGLIMA_SUGALA">
+			<Text>Panglima Sugala</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_KINABATANGAN">
+			<Text>Kinabatangan</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_PANAMAO">
+			<Text>Panamao</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_PANGUTARAN">
+			<Text>Pangutaran</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SAPASAPA">
+			<Text>Sapa-sapa</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TONGKIL">
+			<Text>Tongkil</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JOLO">
+			<Text>Jolo</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_CB_SULU_0">
+			<Text>Esmail</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_CB_SULU_1">
+			<Text>Sitti</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_CB_SULU_2">
+			<Text>Alimuddin</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_CB_SULU_3">
+			<Text>Paramisuli</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_CB_SULU_4">
+			<Text>Baktiar</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_CB_SULU_5">
+			<Text>Muwallil</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_CB_SULU_6">
+			<Text>Karamat</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_CB_SULU_7">
+			<Text>Budiman</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_CB_SULU_8">
+			<Text>Pahala</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_CB_SULU_9">
+			<Text>Francisco</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

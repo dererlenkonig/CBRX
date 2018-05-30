@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 17/11/2012 12:43:44 -->
+<GameData>
+	<Diplomacy_Responses>
+		
+		<Row LeaderType="LEADER_VAULI">
+			<ResponseType>RESPONSE_FIRST_GREETING</ResponseType>
+			<Response>TXT_KEY_LEADER_VAULI_FIRSTGREETING%</Response>
+		</Row>
+		<Row LeaderType="LEADER_VAULI">
+			<ResponseType>RESPONSE_DEFEATED</ResponseType>
+			<Response>TXT_KEY_LEADER_VAULI_DEFEATED%</Response>
+		</Row>
+		<Row LeaderType="LEADER_VAULI">
+			<ResponseType>RESPONSE_DOW_GENERIC</ResponseType>
+			<Response>TXT_KEY_LEADER_VAULI_DECLAREWAR%</Response>
+		</Row>
+		<Row LeaderType="LEADER_VAULI">
+			<ResponseType>RESPONSE_DOW_GENERIC</ResponseType>
+			<Response>TXT_KEY_LEADER_VAULI_EXPANSION_SERIOUS_WARNING%</Response>
+		</Row>
+		<Row LeaderType="LEADER_VAULI">
+			<ResponseType>RESPONSE_DOW_GENERIC</ResponseType>
+			<Response>TXT_KEY_LEADER_VAULI_GREETING_POLITE_HELLO%</Response>
+		</Row>
+		<Row LeaderType="LEADER_VAULI">
+			<ResponseType>RESPONSE_DOW_GENERIC</ResponseType>
+			<Response>TXT_KEY_LEADER_VAULI_GREETING_NEUTRAL_HELLO%</Response>
+		</Row>
+		<Row LeaderType="LEADER_VAULI">
+			<ResponseType>RESPONSE_DOW_GENERIC</ResponseType>
+			<Response>TXT_KEY_LEADER_VAULI_HOSTILE_AGGRESSIVE_MILITARY_WARNING%</Response>
+		</Row>
+		<Row LeaderType="LEADER_VAULI">
+			<ResponseType>RESPONSE_DOW_GENERIC</ResponseType>
+			<Response>TXT_KEY_LEADER_VAULI_RESPONSE_REQUEST%</Response>
+		</Row>
+		
+	</Diplomacy_Responses>
+</GameData>

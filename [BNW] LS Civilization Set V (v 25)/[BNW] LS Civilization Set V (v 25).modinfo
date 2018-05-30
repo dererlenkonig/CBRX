@@ -1,0 +1,165 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mod id="2b06b560-17b0-4103-9fdb-fb6c2a0fbc6e" version="25">
+  <Properties>
+    <Name>[BNW] LS Civilization Set V</Name>
+    <Teaser>Adds Olmec, Scotland and Zimbabwe civilizations.</Teaser>
+    <Description>Mod is created for and tested on GK + BNW.
+Mod adds three playable civilizations to the game.
+
+Scottish music:
+George Frideric Handel - Music for the Royal Fireworks
+Braveheart soundtrack - Betrayal &amp; Desolation</Description>
+    <Authors>LastSword</Authors>
+    <HideSetupGame>0</HideSetupGame>
+    <AffectsSavedGames>1</AffectsSavedGames>
+    <MinCompatibleSaveVersion>0</MinCompatibleSaveVersion>
+    <SupportsSinglePlayer>1</SupportsSinglePlayer>
+    <SupportsMultiplayer>1</SupportsMultiplayer>
+    <SupportsHotSeat>1</SupportsHotSeat>
+    <SupportsMac>1</SupportsMac>
+    <ReloadAudioSystem>1</ReloadAudioSystem>
+    <ReloadLandmarkSystem>1</ReloadLandmarkSystem>
+    <ReloadStrategicViewSystem>1</ReloadStrategicViewSystem>
+    <ReloadUnitSystem>1</ReloadUnitSystem>
+  </Properties>
+  <Dependencies />
+  <References />
+  <Blocks />
+  <Files>
+    <File md5="E95598B37BA46E5E0469A1169137B583" import="0">OlmecEmpire/Diplomacy.sql</File>
+    <File md5="A9EB6E6C65BAE47C0BB7643AC414A640" import="1">OlmecEmpire/DiploOlmecLSMod.dds</File>
+    <File md5="5A1F0918114D8FA3CF5343F67ECE64C6" import="1">OlmecEmpire/DoMOlmecLSMod.dds</File>
+    <File md5="DC160FD8293767138EC5EEC1AA362F7B" import="1">OlmecEmpire/OlmecLSPeace.mp3</File>
+    <File md5="4DDE43CB9EBC9679BB3D6973726DB36B" import="1">OlmecEmpire/MapOlmecLSMod.dds</File>
+    <File md5="779811470BF0D5F9B533DE8C2221C05A" import="1">OlmecEmpire/OlmecLSWar.mp3</File>
+    <File md5="45B532A22D886CFC52B08DFDA988F6C5" import="0">OlmecEmpire/Olmec Building Mod.xml</File>
+    <File md5="E7A7FB4C739FC8ECD6FAFD1BDF7A43FE" import="0">OlmecEmpire/Olmec Civ Mod.xml</File>
+    <File md5="F03F3E8887AB4F35CCF1F6EAE578AA28" import="0">OlmecEmpire/Olmec Game Text Mod.xml</File>
+    <File md5="32A493ACA9C90CE194EEF701161147F7" import="0">OlmecEmpire/Olmec Leader Mod.xml</File>
+    <File md5="F0B08AA32544EB90F3A49DED4201145C" import="0">OlmecEmpire/Olmec Units Mod.xml</File>
+    <File md5="AEE7683D372B4CC7AE714BAE8CF106A3" import="1">OlmecEmpire/OlmecUnitAlphaAtlas.dds</File>
+    <File md5="49C9700AF4BDAA5161ECABBA808D9BB6" import="1">OlmecEmpire/Olmec_Leader_Scene_LS_Mod.xml</File>
+    <File md5="4B8A40562CF0D48AB560F152BC54305F" import="0">OlmecEmpire/OlmecLSUnitCode.lua</File>
+    <File md5="C7074CB8DB4376DC91FFD5741328BBD3" import="1">OlmecEmpire/OlmecLSTraitCode.lua</File>
+    <File md5="F6B0229781DF6E9F4D55CEEC9AC2CDB6" import="1">OlmecEmpire/OlmecLSBuildingCode.lua</File>
+    <File md5="900E32D63AC84E4F19E567765CED49CF" import="1">OlmecEmpire/SV_OlmecLS.dds</File>
+    <File md5="8811BB18BB1029A50CE91F034902E2C4" import="0">OlmecEmpire/OlmecLSiArtDefine.sql</File>
+    <File md5="ACFD531A18803805FAB7C7A5D9FE9D92" import="0">ScotlandKingdom/Diplomacy.sql</File>
+    <File md5="56059822187184B8623132E1B2071AD0" import="1">ScotlandKingdom/DiploScotlandLSMod.dds</File>
+    <File md5="D9D272121C8A98D6D720722FC1AEFA67" import="1">ScotlandKingdom/DoMScotlandLSMod.dds</File>
+    <File md5="2F132BCB460A75982DFF99CC1358A66D" import="1">ScotlandKingdom/LSScotlandPeaceMusic.mp3</File>
+    <File md5="D9BB3386EF9AE57312E385EA2B6A338A" import="1">ScotlandKingdom/LSScotlandWarMusic.mp3</File>
+    <File md5="B51B8B8AA162554AEFB0735D2EC5C42B" import="1">ScotlandKingdom/MapScotlandLSMod.dds</File>
+    <File md5="5754B1BE6E37A2F9D04D9D4149E5CDDF" import="1">ScotlandKingdom/SaveUtils.lua</File>
+    <File md5="60430E790B1EB2B91230845092290442" import="0">ScotlandKingdom/ScotlandLSUnitCode.lua</File>
+    <File md5="744AF92F94C5623E8955A526C172660A" import="0">ScotlandKingdom/Scotland Building Mod.xml</File>
+    <File md5="14F6E2A25AB6937D1AC0B9278F6A9768" import="0">ScotlandKingdom/Scotland Civ Mod.xml</File>
+    <File md5="BDFDCF49D07C383F638E6E9FDED0FB89" import="0">ScotlandKingdom/Scotland Game Text Mod.xml</File>
+    <File md5="CA832C2026BB49620F7D6C6FF29C9975" import="0">ScotlandKingdom/Scotland Leader Mod.xml</File>
+    <File md5="BD46B8D203B5886A502087816075DD99" import="0">ScotlandKingdom/Scotland Units Mod.xml</File>
+    <File md5="00B5207FE1DADD194F6F3B249304C57B" import="1">ScotlandKingdom/ScotlandUnitAlphaAtlas.dds</File>
+    <File md5="8B998D2611C00E134C289FAB0FBC887F" import="1">ScotlandKingdom/Scotland_Leader_Scene_LS_Mod.xml</File>
+    <File md5="3E58E954D810F604AF822A70E89E7DA0" import="1">ScotlandKingdom/ScotlandLSTraitCode.lua</File>
+    <File md5="621AB1774790B14D005605C1EAB748D5" import="1">ScotlandKingdom/SV_ScotlandLS.dds</File>
+    <File md5="F9DD56DAF3EA10188BAF7530DA82FF98" import="0">ScotlandKingdom/ScotlandLSArtDefine.sql</File>
+    <File md5="564191567A9D4A9BDDC04AAE4FC24F26" import="1">ScotlandKingdom/ScotlandLSBuildingCode.lua</File>
+    <File md5="2FD18CAAA82D2D58D53C12C461B8B7C2" import="1">Uncommon/AlphaLS5Atlas24.dds</File>
+    <File md5="1A18BEC11FE0E6E93D2DFC905687A0A3" import="1">Uncommon/AlphaLS5Atlas32.dds</File>
+    <File md5="FF8BF1666DB9076D6E201260AAA666FC" import="1">Uncommon/AlphaLS5Atlas48.dds</File>
+    <File md5="BF89BCD347E12315E057E1665C437C62" import="1">Uncommon/AlphaLS5Atlas64.dds</File>
+    <File md5="867D5A4C60FF8B69EE064D237D3C517E" import="1">Uncommon/BuildingLS5Atlas128.dds</File>
+    <File md5="4784B0F3EB6B9FDE1A607A216954FE38" import="1">Uncommon/BuildingLS5Atlas256.dds</File>
+    <File md5="22E1722D586B9738A6F7FB3E4A0DE20E" import="1">Uncommon/BuildingLS5Atlas45.dds</File>
+    <File md5="39C909EBE40D0E5F7519A9B2C1BAC14A" import="1">Uncommon/BuildingLS5Atlas64.dds</File>
+    <File md5="A256A9F28AAE2C563560C4A209F7B885" import="1">Uncommon/CivLS5Atlas128.dds</File>
+    <File md5="0E5B3F02E50D58381FD587E10D1C2452" import="1">Uncommon/CivLS5Atlas256.dds</File>
+    <File md5="6AFEFA77A2F3F3E03D6A511268813E18" import="1">Uncommon/CivLS5Atlas32.dds</File>
+    <File md5="B57F82EDBD6D7733CB608AED59CE9775" import="1">Uncommon/CivLS5Atlas45.dds</File>
+    <File md5="37839590282525B3DD4F9BBDE5A122A2" import="1">Uncommon/CivLS5Atlas64.dds</File>
+    <File md5="F4BA34E3F536BC5F841AF6CAA7C89876" import="1">Uncommon/CivLS5Atlas80.dds</File>
+    <File md5="9E5F56BF1ADC9242A8021BDAEC2775EC" import="1">Uncommon/LeaderLS5Atlas128.dds</File>
+    <File md5="49365528A43BF11AFB7A739D3A4487DE" import="1">Uncommon/LeaderLS5Atlas256.dds</File>
+    <File md5="3D0A651E090E46DC92E8FCC1ADF9E494" import="1">Uncommon/LeaderLS5Atlas64.dds</File>
+    <File md5="224D1414FA1103BA82D8FFD32BA71727" import="0">Uncommon/LS5 Atlas Mod.xml</File>
+    <File md5="3B337A8848EB78C6F0A7789D88E21902" import="1">Uncommon/UnitLS5Atlas128.dds</File>
+    <File md5="4C67BB0218C5BBD00344C98E82CD2FC6" import="1">Uncommon/UnitLS5Atlas256.dds</File>
+    <File md5="9B0202142F37A13F0F16EBDE316FE83A" import="1">Uncommon/UnitLS5Atlas45.dds</File>
+    <File md5="CD5E81A0478D4FD4D96C3E4C05F17AAF" import="1">Uncommon/UnitLS5Atlas64.dds</File>
+    <File md5="FED7BFDDA1C9BFF311D34B42C8EEAD7B" import="1">Uncommon/UnitLS5Atlas80.dds</File>
+    <File md5="A23154336993930EA079D73697F1B106" import="0">ZimbabweKingdom/Diplomacy.sql</File>
+    <File md5="2073FFC3B8ED6E32ED19C41A96DDCB83" import="1">ZimbabweKingdom/DiploZimbabweLSMod.dds</File>
+    <File md5="635BA3D8561ED5DA9324A8E5BED72314" import="1">ZimbabweKingdom/DoMZimbabweLSMod.dds</File>
+    <File md5="F6485D5CB11CFBF31F3E76C62A33819C" import="1">ZimbabweKingdom/ZimbabweLSBuildingCode.lua</File>
+    <File md5="9945234FC5CE11A7672B6CF024C02D81" import="0">ZimbabweKingdom/ZimbabweLSUnitCode.xml</File>
+    <File md5="40F82F567BA79C993A6DCCDABC07172F" import="1">ZimbabweKingdom/MapZimbabweLSMod.dds</File>
+    <File md5="ECEE15E52196EF91DE50F5E7FB776AE3" import="1">ZimbabweKingdom/SV_ZimbabweLS.dds</File>
+    <File md5="E35612B6C62717C896AB22CC9610E4AA" import="1">ZimbabweKingdom/ZimbabweLSTraitCode.lua</File>
+    <File md5="7E652D9630204949121F350DFFB02158" import="1">ZimbabweKingdom/Model/impi_1.dds</File>
+    <File md5="3D094C6B1A777A70077A29A48F9166BF" import="1">ZimbabweKingdom/Model/impi_1.fxsxml</File>
+    <File md5="AC3DF6DFEAB8C312423CFB2D05FD1901" import="1">ZimbabweKingdom/Model/impi_1.gr2</File>
+    <File md5="6BB5C921AB17A1A85B8FE4DEE9EE73E5" import="1">ZimbabweKingdom/Model/impi_2.dds</File>
+    <File md5="908FDFD6301BC411BB561EC41870DC25" import="1">ZimbabweKingdom/Model/impi_2.fxsxml</File>
+    <File md5="4271E91C2730FD23C6360D6BAC649D55" import="1">ZimbabweKingdom/Model/impi_2.gr2</File>
+    <File md5="D24B5408503009FD7771879918867BBF" import="1">ZimbabweKingdom/Model/impi_3.dds</File>
+    <File md5="83394A4FDD6110290076ABBD4D7875B6" import="1">ZimbabweKingdom/Model/impi_3.fxsxml</File>
+    <File md5="67F538FCE1B0B5B00B018DAF1060F4DF" import="1">ZimbabweKingdom/Model/impi_3.gr2</File>
+    <File md5="9195F74685E714E68BA4678508A7FEE0" import="1">ZimbabweKingdom/Model/impi_4.dds</File>
+    <File md5="72BF0ABA148EB6872E4B0D2AF0F906EC" import="1">ZimbabweKingdom/Model/impi_4.fxsxml</File>
+    <File md5="5DA2F58547851A2034D78BFAFAF216FE" import="1">ZimbabweKingdom/Model/impi_4.gr2</File>
+    <File md5="CF217E101010D4D34A06E80F11C3AF3F" import="1">ZimbabweKingdom/Model/impi_sref.dds</File>
+    <File md5="8922CC0FB34749289FA13A3EA17FBC7A" import="0">ZimbabweKingdom/Model/ZimbRozwiArtDefine.sql</File>
+    <File md5="53B93DF5BE9D55979994A913222C47B9" import="0">ZimbabweKingdom/Zimbabwe Building Mod.xml</File>
+    <File md5="5374ABB02770755BFD8C2E96CA82F3A2" import="0">ZimbabweKingdom/Zimbabwe Civ Mod.xml</File>
+    <File md5="8993CAD8F7FEA72D8FD860057B675915" import="0">ZimbabweKingdom/Zimbabwe Game Text Mod.xml</File>
+    <File md5="F5BD6D0FD0E3662D34941719D5385035" import="0">ZimbabweKingdom/Zimbabwe Leader Mod.xml</File>
+    <File md5="5574C535096EB41F0C3B86B7B54DD2EB" import="0">ZimbabweKingdom/Zimbabwe Units Mod.xml</File>
+    <File md5="04FC658FA96C6D81EDF93691231E7B93" import="1">ZimbabweKingdom/ZimbabwePeaceMusic.mp3</File>
+    <File md5="A05DE869B325EBDCA8E299EFA413D92B" import="1">ZimbabweKingdom/ZimbabweUnitAlphaAtlas.dds</File>
+    <File md5="70A5DA6DAC0ED2DE66895B25DCCA6AEE" import="1">ZimbabweKingdom/ZimbabweWarMusic.mp3</File>
+    <File md5="E82C159BAFEE79D7396F478983DC75F6" import="1">ZimbabweKingdom/Zimbabwe_Leader_Scene_LS_Mod.xml</File>
+    <File md5="4BDF868311D3F68764C83408B491D96E" import="1">ZimbabweKingdom/ZimbabweLSUnitCode.lua</File>
+  </Files>
+  <Actions>
+    <OnModActivated>
+      <UpdateDatabase>OlmecEmpire/Olmec Units Mod.xml</UpdateDatabase>
+      <UpdateDatabase>OlmecEmpire/Olmec Leader Mod.xml</UpdateDatabase>
+      <UpdateDatabase>OlmecEmpire/Olmec Game Text Mod.xml</UpdateDatabase>
+      <UpdateDatabase>OlmecEmpire/Olmec Civ Mod.xml</UpdateDatabase>
+      <UpdateDatabase>OlmecEmpire/Olmec Building Mod.xml</UpdateDatabase>
+      <UpdateDatabase>ZimbabweKingdom/Zimbabwe Building Mod.xml</UpdateDatabase>
+      <UpdateDatabase>ZimbabweKingdom/Zimbabwe Civ Mod.xml</UpdateDatabase>
+      <UpdateDatabase>ZimbabweKingdom/Zimbabwe Game Text Mod.xml</UpdateDatabase>
+      <UpdateDatabase>ZimbabweKingdom/Zimbabwe Leader Mod.xml</UpdateDatabase>
+      <UpdateDatabase>ZimbabweKingdom/Zimbabwe Units Mod.xml</UpdateDatabase>
+      <UpdateDatabase>ScotlandKingdom/Scotland Building Mod.xml</UpdateDatabase>
+      <UpdateDatabase>ScotlandKingdom/Scotland Civ Mod.xml</UpdateDatabase>
+      <UpdateDatabase>ScotlandKingdom/Scotland Game Text Mod.xml</UpdateDatabase>
+      <UpdateDatabase>ScotlandKingdom/Scotland Leader Mod.xml</UpdateDatabase>
+      <UpdateDatabase>ScotlandKingdom/Scotland Units Mod.xml</UpdateDatabase>
+      <UpdateDatabase>Uncommon/LS5 Atlas Mod.xml</UpdateDatabase>
+      <UpdateDatabase>ZimbabweKingdom/Model/ZimbRozwiArtDefine.sql</UpdateDatabase>
+      <UpdateDatabase>OlmecEmpire/OlmecLSiArtDefine.sql</UpdateDatabase>
+      <UpdateDatabase>ScotlandKingdom/ScotlandLSArtDefine.sql</UpdateDatabase>
+      <UpdateDatabase>OlmecEmpire/Diplomacy.sql</UpdateDatabase>
+      <UpdateDatabase>ZimbabweKingdom/Diplomacy.sql</UpdateDatabase>
+      <UpdateDatabase>ScotlandKingdom/Diplomacy.sql</UpdateDatabase>
+    </OnModActivated>
+  </Actions>
+  <EntryPoints>
+    <EntryPoint type="InGameUIAddin" file="OlmecEmpire/OlmecLSUnitCode.lua">
+      <Name>Olmec Trait</Name>
+      <Description>
+      </Description>
+    </EntryPoint>
+    <EntryPoint type="InGameUIAddin" file="ScotlandKingdom/ScotlandLSUnitCode.lua">
+      <Name>Scotland Trait</Name>
+      <Description>
+      </Description>
+    </EntryPoint>
+    <EntryPoint type="InGameUIAddin" file="ZimbabweKingdom/ZimbabweLSUnitCode.lua">
+      <Name>Zimbabwe</Name>
+      <Description>
+      </Description>
+    </EntryPoint>
+  </EntryPoints>
+</Mod>

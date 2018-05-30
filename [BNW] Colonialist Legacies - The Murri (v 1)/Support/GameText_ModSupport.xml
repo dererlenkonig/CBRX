@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 11/23/2013 1:27:25 PM -->
+<GameData>
+	<Language_en_US>
+		<!--RYOGA UNIQUE CULTURAL INFLUENCE-->
+		<Row Tag="TXT_KEY_GENERIC_CL_MURRI_INFLUENTIAL_ON_AI_1">
+			<Text>Our people are now travelling massive distances to eat pine cones! PINE CONES! Can you believe it? Anyway, I'm naturally very distressed at the influence of your culture. Oh, do I want to try some? I guess a little taste can't hurt...</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

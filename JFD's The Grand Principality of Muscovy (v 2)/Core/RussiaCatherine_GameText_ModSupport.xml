@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 11/23/2013 1:27:25 PM -->
+<GameData>
+	<Language_en_US>
+		<!--SUKRITACT DECISIONS-->
+		<!--Decree the Establishment of the Smolny Institute-->
+		<Row Tag="TXT_KEY_DECISIONS_JFD_RUSSIA_CATHERINE_SMOLNY_INSTITUTE">
+			<Text>Decree the Establishment of the Smolny Institute</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_JFD_RUSSIA_CATHERINE_SMOLNY_INSTITUTE_DESC">
+			<Text>The higher education of women is of paramount importance. To secure their place in this new age of enlightenment, we decree the founding of an establishment for women's higher learning.
+				[NEWLINE]-------------------------
+				[NEWLINE][COLOR_POSITIVE_TEXT]Requirements:[ENDCOLOR]
+				[NEWLINE]-------------------------
+				[NEWLINE][ICON_BULLET]Player must be Russia (Catherine).
+				[NEWLINE][ICON_BULLET]Must have researched Education.
+				[NEWLINE][ICON_BULLET]May only be enacted from the beginning of the {1_EraDesc}.
+				[NEWLINE][ICON_BULLET]May only be enacted once per game.
+				[NEWLINE]-------------------------
+				[NEWLINE][COLOR_POSITIVE_TEXT]Costs:[ENDCOLOR]
+				[NEWLINE]-------------------------
+				[NEWLINE][ICON_BULLET]{2_Num} [ICON_GOLD] Gold.
+				[NEWLINE][ICON_BULLET]1 [ICON_MAGISTRATES] Magistrates.
+				[NEWLINE]-------------------------
+				[NEWLINE][COLOR_POSITIVE_TEXT]Rewards:[ENDCOLOR]
+				[NEWLINE]-------------------------
+				[NEWLINE][ICON_BULLET]Builds the Smolny Institute in the [ICON_CAPITAL] Capital.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_JFD_RUSSIA_CATHERINE_SMOLNY_INSTITUTE_ENACTED_DESC">
+			<Text>
+				The higher education of women is of paramount importance. To secure their place in this new age of enlightenment, we decree the founding of an establishment for women's higher learning.
+				[NEWLINE]-------------------------
+				[NEWLINE][COLOR_POSITIVE_TEXT]Rewards:[ENDCOLOR]
+				[NEWLINE]-------------------------
+				[NEWLINE][ICON_BULLET]Builds the Smolny Institute in the [ICON_CAPITAL] Capital.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_DECISIONS_JFD_SMOLNY">
+			<Text>Smolny Institute</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_DECISIONS_JFD_SMOLNY_TEXT">
+			<Text>The Smolny Institute is a Palladian edifice in St Petersburg that has played a major part in the history of Russia. The building was commissioned from Giacomo Quarenghi by the Society for Education of Noble Maidens and constructed in 1806–08 to house the Smolny Institute for Noble Maidens, established at the urging of Ivan Betskoy and in accordance with a decree of Catherine II (the Great) in 1764, borrowing its name from the nearby Smolny Convent. The Smolny was Russia's first educational establishment for women and continued to function under the personal patronage of the Russian Emperors until just before the 1917 revolution.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_WORLD_EVENT_JFD_RUSSIA_CATHERINE_SMOLNY_INTITUTE">
+			<Text>{1_LeaderName} of {2_CivName} has founded the Smolny Institute, a place of higher learning for women.</Text>
+		</Row>
+		<!--Patronise the Fur Trade-->
+		<Row Tag="TXT_KEY_DECISIONS_JFD_RUSSIA_CATHERINE_FUR_TRADE">
+			<Text>Patronise the Fur Trade</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_JFD_RUSSIA_CATHERINE_FUR_TRADE_DESC">
+			<Text>Fur is one of our most valuable commodities. Russian Furs are demanded in the most prestigious courts. We should seek out and claim new lands, and have our most experienced hunters gather what they can of this most prized luxury.
+				[NEWLINE]-------------------------
+				[NEWLINE][COLOR_POSITIVE_TEXT]Requirements:[ENDCOLOR]
+				[NEWLINE]-------------------------
+				[NEWLINE][ICON_BULLET]Player must be Russia (Catherine).
+				[NEWLINE][ICON_BULLET]Must have a natural source of [ICON_RES_FUR] Fur.
+				[NEWLINE][ICON_BULLET]May only be enacted from the beginning of the Renaissance Era.
+				[NEWLINE][ICON_BULLET]May only be enacted once per game.
+				[NEWLINE]-------------------------
+				[NEWLINE][COLOR_POSITIVE_TEXT]Costs:[ENDCOLOR]
+				[NEWLINE]-------------------------
+				[NEWLINE][ICON_BULLET]{1_Num} [ICON_GOLD] Gold.
+				[NEWLINE][ICON_BULLET]1 [ICON_MAGISTRATES] Magistrates.
+				[NEWLINE]-------------------------
+				[NEWLINE][COLOR_POSITIVE_TEXT]Rewards:[ENDCOLOR]
+				[NEWLINE]-------------------------
+				[NEWLINE][ICON_BULLET]Receive free Settlers.
+				[NEWLINE][ICON_BULLET]Each city founded in Tundra spawns a nearby source of [ICON_RES_FUR] Fur.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_JFD_RUSSIA_CATHERINE_FUR_TRADE_ENACTED_DESC">
+			<Text>Fur is one of our most valuable commodities. Russian Furs are demanded in the most prestigious courts. We should seek out and claim new lands, and have our most experienced hunters gather what they can of this most prized luxury.
+				[NEWLINE]-------------------------
+				[NEWLINE][COLOR_POSITIVE_TEXT]Rewards:[ENDCOLOR]
+				[NEWLINE]-------------------------
+				[NEWLINE][ICON_BULLET]Receive free Settlers.
+				[NEWLINE][ICON_BULLET]Each city founded in Tundra spawns a nearby source of [ICON_RES_FUR] Fur.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_WORLD_EVENT_JFD_RUSSIA_CATHERINE_FUR_TRADE">
+			<Text>{1_LeaderName} of {2_CivName} has begun investing in the Fur Trade.</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

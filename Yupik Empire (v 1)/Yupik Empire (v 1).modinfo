@@ -1,0 +1,185 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mod id="38805af3-bcf3-4fe6-81cd-92e571db732b" version="1">
+  <Properties>
+    <Name>Yupik Empire</Name>
+    <Stability>Alpha</Stability>
+    <Teaser>Adds the [COLOR_POSITIVE_TEXT]Yup'ik Empire[ENDCOLOR] to Brave New World</Teaser>
+    <Description>Adds the Yupik Empire to Brave New World
+
+DOM banquise
+Music: 
+Anno 1503 Soundtrack - 41 Inuit
+Pamyua - Ocean Prayer
+
+StartOnSnow: Authors: Neirai and LastSword for Colonialist Legacies's Inuit
+Map: LadyDuckington</Description>
+    <Authors>Gedemo</Authors>
+    <HideSetupGame>0</HideSetupGame>
+    <AffectsSavedGames>1</AffectsSavedGames>
+    <MinCompatibleSaveVersion>0</MinCompatibleSaveVersion>
+    <SupportsSinglePlayer>1</SupportsSinglePlayer>
+    <SupportsMultiplayer>1</SupportsMultiplayer>
+    <SupportsHotSeat>1</SupportsHotSeat>
+    <SupportsMac>1</SupportsMac>
+    <ReloadAudioSystem>1</ReloadAudioSystem>
+    <ReloadLandmarkSystem>1</ReloadLandmarkSystem>
+    <ReloadStrategicViewSystem>1</ReloadStrategicViewSystem>
+    <ReloadUnitSystem>1</ReloadUnitSystem>
+  </Properties>
+  <Dependencies>
+    <Dlc id="0E3751A1-F840-4e1b-9706-519BF484E59D" minversion="0" maxversion="999" />
+    <Dlc id="6DA07636-4123-4018-B643-6575B4EC336B" minversion="0" maxversion="999" />
+  </Dependencies>
+  <References>
+    <Mod id="36e88483-48fe-4545-b85f-bafc50dde315" minversion="0" maxversion="999" title="YnAEMP" />
+    <Mod id="31a31d1c-b9d7-45e1-842c-23232d66cd47" minversion="0" maxversion="999" title="JFD's Cultural Diversity (Core)" />
+    <Mod id="7fdd72a5-d4ae-441c-bc4e-2e3d2a26cff4" minversion="0" maxversion="999" title="Ethnic Units" />
+    <Mod id="6676902b-b907-45f1-8db5-32dcb2135eee" minversion="0" maxversion="999" title="JFD's Exploration Continued Expanded" />
+    <Mod id="eea66053-7579-481a-bb8d-2f3959b59974" minversion="0" maxversion="999" title="JFD's Piety and Sovereignty (Piety)" />
+    <Mod id="10e9728f-d61c-4317-be4f-7d52d6bae6f4" minversion="0" maxversion="999" title="JFD's Claims, Colonies, and Crimes" />
+    <Mod id="e576894a-ed2b-4033-be14-ed1c8ceb81d3" minversion="0" maxversion="999" title="Map Labels" />
+    <Mod id="6010e6f6-918e-48b8-9332-d60783bd8fb5" minversion="0" maxversion="999" title="Historical Religions Complete (BNW or GK)" />
+    <Mod id="a19351c5-c0b3-4b07-8695-4affaa199949" minversion="0" maxversion="999" title="JFD's AND POUAKAI's MERCENARIES" />
+  </References>
+  <Blocks />
+  <Files>
+    <File md5="233B9AE10E5E1BEF7AD84CCC8C8F2646" import="1">ART/alphaYUPIK24.dds</File>
+    <File md5="233B9AE10E5E1BEF7AD84CCC8C8F2646" import="1">ART/alphaYUPIK32.dds</File>
+    <File md5="AC197066C6074AA610C55BCFB889CCEA" import="1">ART/alphaYUPIK48.dds</File>
+    <File md5="AC197066C6074AA610C55BCFB889CCEA" import="1">ART/alphaYUPIK64.dds</File>
+    <File md5="6733B0D9A0F12746C68510848D1D5471" import="1">ART/ApanuugpakScene.dds</File>
+    <File md5="61D41DD86EDCF855492F0DDF64CAB4DF" import="1">ART/Apanuugpak_128.dds</File>
+    <File md5="4CB903D2A3D9BA2235CDF42A6DFB2446" import="1">ART/Apanuugpak_256.dds</File>
+    <File md5="1750BC7638A7AC55995B6A8E6A01F9AB" import="1">ART/Apanuugpak_64.dds</File>
+    <File md5="54EDCA4B0D7E49D81D4384F7BF10227D" import="1">ART/Apanuugpak_scene.xml</File>
+    <File md5="FB05064D835AA04F9805AC2B0B39EE79" import="1">ART/bear_256.dds</File>
+    <File md5="11919D28EEAA3B5DFF2789895B7DD7F2" import="1">ART/bear_45.dds</File>
+    <File md5="B7DB8CF11CF84A17DD7B8827D13DAF8A" import="1">ART/bear_64.dds</File>
+    <File md5="FAECA2033CCAC3837BCB0674FE0EE7D5" import="1">ART/bear_80.dds</File>
+    <File md5="A24DA13BCAE1EAF9AE778DFE34DB69EA" import="1">ART/beaver_256.dds</File>
+    <File md5="3BF52BDCE74BCD1E316EA31CD3C0A720" import="1">ART/beaver_45.dds</File>
+    <File md5="D74EBEAD5025F7C35085A0C69D034A25" import="1">ART/beaver_64.dds</File>
+    <File md5="9CAD6452D589C7FD9F565B3805F467BC" import="1">ART/beaver_80.dds</File>
+    <File md5="6F2323AD04CF201B48FC41FE6CA4B289" import="1">ART/Halibut_256.dds</File>
+    <File md5="F52E0925DD3C9346DE4DDA2D2CCA76D4" import="1">ART/Halibut_45.dds</File>
+    <File md5="97FF6FE0B3271BCDDB257BFF71707F22" import="1">ART/Halibut_64.dds</File>
+    <File md5="1A63651F5BEB736401C610377C4D5341" import="1">ART/Halibut_80.dds</File>
+    <File md5="65223944BFCF03521126BA7F13C08CD3" import="1">ART/Narval_256.dds</File>
+    <File md5="C97926D2A57BCE240A40BE72B0F91B56" import="1">ART/Narval_45.dds</File>
+    <File md5="34619AFD2EB7D1B3700DA278CBE2141B" import="1">ART/Narval_64.dds</File>
+    <File md5="8BB7D1D0F7BCA2EAF1B72C0E9C7440C1" import="1">ART/Narval_80.dds</File>
+    <File md5="FDEB81888CB08020D4F168AF1FE7AAEE" import="1">ART/YupikDOM.dds</File>
+    <File md5="DE7C189C0D29AAE2A6817AD19DE01A30" import="1">ART/Yupikgranary_128.dds</File>
+    <File md5="D842A1146E422B00224668D17EFFE31C" import="1">ART/Yupikgranary_256.dds</File>
+    <File md5="CF9C1E6BEA513814C416F99A62D00DDB" import="1">ART/Yupikgranary_45.dds</File>
+    <File md5="3045F53B040AD15AB294F1DF49412253" import="1">ART/Yupikgranary_64.dds</File>
+    <File md5="D394F0F97AC137B964159CCEAE548093" import="1">ART/Yupikgranary_80.dds</File>
+    <File md5="2C405EB734DADC9223FFA5C79A5EAEF8" import="1">ART/YupikhunterFlag.dds</File>
+    <File md5="3374B8C38F726EEEBB71A56D6D786FAC" import="1">ART/Yupikhunter_128.dds</File>
+    <File md5="675BC9C672694150979BAFCF45119E97" import="1">ART/Yupikhunter_256.dds</File>
+    <File md5="A587A2142B13E9131E3A4E22CF1675CB" import="1">ART/Yupikhunter_45.dds</File>
+    <File md5="6E8E087E64F500D8AA7C0B75279C7126" import="1">ART/Yupikhunter_64.dds</File>
+    <File md5="9B83E1C00279A6C41A5B566913610B96" import="1">ART/Yupikhunter_80.dds</File>
+    <File md5="648BC0E08592716A01C9B78D7D2D89FD" import="1">ART/YupikMap.dds</File>
+    <File md5="8C78E91FEC68CF29A7B6C895EE521DD1" import="1">ART/YUPIK_128.dds</File>
+    <File md5="B1FC359062FFAE19C7437F91E793ABC2" import="1">ART/YUPIK_256.dds</File>
+    <File md5="DB9AC472322EA1D2F01B127AC0B6642A" import="1">ART/YUPIK_32.dds</File>
+    <File md5="45B3CF23612AAC22D3AC4CD2E10D0F94" import="1">ART/YUPIK_45.dds</File>
+    <File md5="2FFCC6885B143B654BB3BC75BAADBD54" import="1">ART/YUPIK_64.dds</File>
+    <File md5="6837C2D9F24DA8B1EB8AAB4EF33DC1D4" import="1">ART/YUPIK_80.dds</File>
+    <File md5="2CCB345E39936E2C6584140DED95AD44" import="1">Font Icon/Yupikhalibut_Fonticon.xml</File>
+    <File md5="E4912319AA4D437AAEAFE40546A6C12B" import="1">Font Icon/Yupikhalibut_fonticons.ggxml</File>
+    <File md5="DD07984C6F52F969C914EFA6C52363C3" import="1">Font Icon/Yupikhalibut_fonticons.dds</File>
+    <File md5="8BE2A2047FE1D12A27F54CFC8C040D96" import="1">Font Icon/Yupiknarval_Fonticon.xml</File>
+    <File md5="589459D8E6633D0B4D8C5A3CFB6669DD" import="1">Font Icon/Yupiknarval_fonticons.ggxml</File>
+    <File md5="8FB5B7FEB6F7A320DC7D33D377813D04" import="1">Font Icon/Yupikbeaver_Fonticon.xml</File>
+    <File md5="28003B17BDC42773B14B19AB2B70DB97" import="1">Font Icon/Yupikbeaver_fonticons.ggxml</File>
+    <File md5="BE91334E95AA86C7225ECA4D259E3C5A" import="1">Font Icon/Yupikbear_Fonticon.xml</File>
+    <File md5="3A74A180BCEFE719460A8A4005918E4E" import="1">Font Icon/Yupikbear_fonticons.ggxml</File>
+    <File md5="B78B0CE52AA4D77BE8D31A1B71C9F3DA" import="1">Font Icon/Yupikbear_fonticons.dds</File>
+    <File md5="4C5637E09B84F252CD9420758F7AA083" import="1">Font Icon/Yupikbeaver_fonticons.dds</File>
+    <File md5="7BE0788DE731828FDC3EAF017B45E610" import="1">Font Icon/Yupiknarval_fonticons.dds</File>
+    <File md5="6D11EF7AF1B12BAB87CBDF2F0BB66AFD" import="0">LUA/YupikRelocation.lua</File>
+    <File md5="EEE12758DB2E28F4EB941830045C807F" import="0">SQL/Cultural Diversity.sql</File>
+    <File md5="B7137FEC092125273D0060DE9CC1031F" import="0">SQL/Ethnic Units.sql</File>
+    <File md5="693E7FED99F2F88F88E079098694E6B2" import="0">SQL/JFD's and Pouakai's mercenaries.sql</File>
+    <File md5="6E425BDE9A574FC5629CCF6A5307AD03" import="0">SQL/JFD's Claims and Colonies.sql</File>
+    <File md5="9740DE26013178CB47F481B021E4CC94" import="0">SQL/JFD's Exploration Continued Expanded.sql</File>
+    <File md5="33CC41FDA186C3280BE8D6C78B6D04AE" import="0">SQL/JFD's Piety and Prestige.sql</File>
+    <File md5="209EACABC89367508B0579D51EB87B4B" import="0">SQL/MapLabels.sql</File>
+    <File md5="00AF2B897DCB3A1D749A89C2A9D3DAA7" import="0">SQL/Tomatekh's Historical Religions.sql</File>
+    <File md5="04A6742B4B0FF77B36D9D7F830E5DB41" import="0">XML/Buildings/Qasqig.xml</File>
+    <File md5="87F41B7FE631DFAB9822B221496CB144" import="0">XML/Buildings/BuildingTrait.xml</File>
+    <File md5="27F42188CD00B69A0E17201335626C05" import="0">XML/Civilizations/Yupik.xml</File>
+    <File md5="24F77D8E47F6AB06F0BF60E4FDCF0B4E" import="0">XML/Civilizations/Traits.xml</File>
+    <File md5="AE93FC305CA90362C73065EC5BC5A9C5" import="0">XML/GameInfo/YUPIKHUNTER_IconTextureAtlases.xml</File>
+    <File md5="BB5FEF10743A089A5C2FAED37F4D6CFD" import="0">XML/GameInfo/QASGIQ_IconTextureAtlases.xml</File>
+    <File md5="FDA2D9C279A194C48FBE15F5CF53FC87" import="0">XML/GameInfo/YUPIKHALIBUT_IconTextureAtlases.xml</File>
+    <File md5="1CCC7BF1C63127EF054B79F9902497EF" import="0">XML/GameInfo/YUPIKBEAR_IconTextureAtlases.xml</File>
+    <File md5="B477217BB0DF5A6EFAF9B22583AC77E0" import="0">XML/GameInfo/YUPIKNARVAL_IconTextureAtlases.xml</File>
+    <File md5="45795405D949C2995C0C4C8E3AC595DC" import="0">XML/GameInfo/YUPIKBEAVER_IconTextureAtlases.xml</File>
+    <File md5="899E46EA6CAFFE966D42892D9D2373E0" import="0">XML/GameInfo/YUPIKIconTextureAtlases.xml</File>
+    <File md5="30CADDB23F66348FF2E7D4BDED2BD3AD" import="0">XML/Leaders/ApanuugpakMusic.xml</File>
+    <File md5="43D6AE012A39F446BBE5AC0BAE1A4FA3" import="1">XML/Leaders/ApanuugpakPeace.mp3</File>
+    <File md5="46B037678069E01C5187C1C61B9DABF5" import="1">XML/Leaders/ApanuugpakWar.mp3</File>
+    <File md5="88853CC3E9BA10728EA0CFC42FF746BE" import="0">XML/Leaders/Leader_Apanuugpak.xml</File>
+    <File md5="3C9C2941EC6B2561673E1258D2207084" import="0">XML/NewText/Dialog.xml</File>
+    <File md5="C9D7621B66E2B796F2F540126A48E9E8" import="0">XML/NewText/GameText.xml</File>
+    <File md5="D2498B290A73EF4B8E7228DF4F0A8818" import="0">XML/NewText/JFD's Claims and Colonies.xml</File>
+    <File md5="CA5B1548769A0961205AFE77A9CD7D29" import="0">XML/NewText/Response.xml</File>
+    <File md5="E7831C81C7853BBC5D7F0F089F55F65C" import="0">XML/NewText/Ryoga's Unique Cultural Influence.xml</File>
+    <File md5="1189EC15AB0A591FF785B8F9CEFAC542" import="0">XML/Terrain/Salmon.xml</File>
+    <File md5="F701998FEC1D790C0B0CFA4BB90D589F" import="0">XML/Units/UnitPromotions.xml</File>
+    <File md5="7FCB039635283723BAFFC105F5B823E2" import="0">XML/Units/Warrior.xml</File>
+    <File md5="0EF556AF73E7840A3EB60AC7FBAC5CC4" import="0">XML/YnAEMP.xml</File>
+  </Files>
+  <Actions>
+    <OnModActivated>
+      <UpdateDatabase>XML/NewText/Dialog.xml</UpdateDatabase>
+      <UpdateDatabase>XML/NewText/GameText.xml</UpdateDatabase>
+      <UpdateDatabase>XML/NewText/Response.xml</UpdateDatabase>
+      <UpdateDatabase>ART/Apanuugpak_scene.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Buildings/Qasqig.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Buildings/BuildingTrait.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Civilizations/Traits.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Civilizations/Yupik.xml</UpdateDatabase>
+      <UpdateDatabase>XML/GameInfo/YUPIKIconTextureAtlases.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Leaders/ApanuugpakMusic.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Leaders/Leader_Apanuugpak.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Units/Warrior.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Units/UnitPromotions.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Terrain/Salmon.xml</UpdateDatabase>
+      <UpdateDatabase>Font Icon/Yupikbear_Fonticon.xml</UpdateDatabase>
+      <UpdateDatabase>Font Icon/Yupikbeaver_Fonticon.xml</UpdateDatabase>
+      <UpdateDatabase>Font Icon/Yupiknarval_Fonticon.xml</UpdateDatabase>
+      <UpdateDatabase>Font Icon/Yupikbear_fonticons.ggxml</UpdateDatabase>
+      <UpdateDatabase>Font Icon/Yupikbeaver_fonticons.ggxml</UpdateDatabase>
+      <UpdateDatabase>Font Icon/Yupiknarval_fonticons.ggxml</UpdateDatabase>
+      <UpdateDatabase>XML/GameInfo/YUPIKBEAR_IconTextureAtlases.xml</UpdateDatabase>
+      <UpdateDatabase>XML/GameInfo/YUPIKBEAVER_IconTextureAtlases.xml</UpdateDatabase>
+      <UpdateDatabase>XML/GameInfo/YUPIKNARVAL_IconTextureAtlases.xml</UpdateDatabase>
+      <UpdateDatabase>Font Icon/Yupikhalibut_Fonticon.xml</UpdateDatabase>
+      <UpdateDatabase>Font Icon/Yupikhalibut_fonticons.ggxml</UpdateDatabase>
+      <UpdateDatabase>XML/GameInfo/YUPIKHALIBUT_IconTextureAtlases.xml</UpdateDatabase>
+      <UpdateDatabase>XML/GameInfo/QASGIQ_IconTextureAtlases.xml</UpdateDatabase>
+      <UpdateDatabase>XML/GameInfo/YUPIKHUNTER_IconTextureAtlases.xml</UpdateDatabase>
+      <UpdateDatabase>SQL/Cultural Diversity.sql</UpdateDatabase>
+      <UpdateDatabase>XML/NewText/Ryoga's Unique Cultural Influence.xml</UpdateDatabase>
+      <UpdateDatabase>SQL/Ethnic Units.sql</UpdateDatabase>
+      <UpdateDatabase>SQL/JFD's and Pouakai's mercenaries.sql</UpdateDatabase>
+      <UpdateDatabase>SQL/JFD's Claims and Colonies.sql</UpdateDatabase>
+      <UpdateDatabase>SQL/JFD's Exploration Continued Expanded.sql</UpdateDatabase>
+      <UpdateDatabase>SQL/JFD's Piety and Prestige.sql</UpdateDatabase>
+      <UpdateDatabase>XML/NewText/JFD's Claims and Colonies.xml</UpdateDatabase>
+      <UpdateDatabase>SQL/Tomatekh's Historical Religions.sql</UpdateDatabase>
+      <UpdateDatabase>SQL/MapLabels.sql</UpdateDatabase>
+      <UpdateDatabase>XML/YnAEMP.xml</UpdateDatabase>
+    </OnModActivated>
+  </Actions>
+  <EntryPoints>
+    <EntryPoint type="InGameUIAddin" file="LUA/YupikRelocation.lua">
+      <Name>YupikRelocation</Name>
+      <Description>YupikRelocation</Description>
+    </EntryPoint>
+  </EntryPoints>
+</Mod>

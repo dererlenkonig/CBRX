@@ -1,0 +1,271 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<Language_en_US>
+		<Row Tag="TXT_KEY_BUILDING_LS_NDONGO_UB">
+			<Text>Vata</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_LS_NDONGO_UB_STRATEGY">
+			<Text>The Vata is the Ndongo unique building, replacing the Water Mill.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_LS_NDONGO_UB_HELP">
+			<Text>Allows units to use river for quick travel.[NEWLINE][NEWLINE]City must be built next to a River.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_BUILDINGS_LS_NDONGO_UB_TEXT">
+			<Text>The vata village, referred to as libata in Kongo documents and by the Portuguese in the sixteenth century, served as Kongo's basic social unit after the family. Nkuluntu, or mocolunto to the Portuguese, chiefs headed the villages. The one to two hundred citizens per village migrated about every ten years to accommodate soil exhaustion. Communal land-ownership and collective farms produced harvests divided by families according to the number of people per household. The nkuluntu received special premium from the harvest before the division.</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_UNIT_LS_NDONGO_UU">
+			<Text>Gunzes</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_LS_NDONGO_UU_STRATEGY">
+			<Text>Use Gunzes for surprise attacks. They keep their abilities on upgrade so do not delay it.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_HELP_LS_NDONGO_UU">
+			<Text>Gain extra attack bonus for every turn without a combat (up to +50%) and may attack after using quick-travel through river (Unique Vata Ability).</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_LS_UU_NDONGO_2">
+			<Text>Heart of Africa II</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_LS_UU_NDONGO_2_HELP">
+			<Text>+2 Movement if starts turn unseen by any rival.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_LS_UU_NDONGO_1">
+			<Text>Heart of Africa I</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_LS_UU_NDONGO_1_HELP">
+			<Text>+1 Movement if starts turn unseen by any enemy.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_LS_UU_NDONGO">
+			<Text>Heart of Africa</Text>
+		</Row>
+
+
+		<Row Tag="TXT_KEY_PROMOTION_LS_NDONGO_CHARGE_BASE_V">
+			<Text>Hidden Threat V</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_LS_NDONGO_CHARGE_BASE_HELP_V">
+			<Text>+50% Attack Bonus.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_LS_NDONGO_CHARGE_BASE_IV">
+			<Text>Hidden Threat IV</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_LS_NDONGO_CHARGE_BASE_HELP_IV">
+			<Text>+40% Attack Bonus.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_LS_NDONGO_CHARGE_BASE_III">
+			<Text>Hidden Threat III</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_LS_NDONGO_CHARGE_BASE_HELP_III">
+			<Text>+30% Attack Bonus.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_LS_NDONGO_CHARGE_BASE_II">
+			<Text>Hidden Threat II</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_LS_NDONGO_CHARGE_BASE_HELP_II">
+			<Text>+20% Attack Bonus.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_LS_NDONGO_CHARGE_BASE_I">
+			<Text>Hidden Threat I</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_LS_NDONGO_CHARGE_BASE_I_HELP">
+			<Text>+10% Attack Bonus.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_LS_NDONGO_CHARGE_BASE">
+			<Text>Hidden Threat</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_LS_NDONGO_CHARGE_BASE_HELP">
+			<Text>Extra Attack Bonus for every turn without combat. Can attack instantly after Rivercraft.</Text>
+		</Row>
+		
+		<Row Tag="TXT_KEY_NDONGO_LS_MOD_DESC">
+			<Text>Kingdom of Ndongo</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NDONGO_LS_MOD_SHORT_DESC">
+			<Text>Ndongo</Text>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_NDONGO_LS_MOD_ADJECTIVE">
+			<Text>Ndonga</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NDONGO_LS_MOD">
+			<Text>Ndongo</Text>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_DAWN_OF_MAN_NDONGO_LS_MOD_TEXT">
+			<Text>Blessings and salutations to you, revered Queen Anna Nzinga, leader of the most magnificent kingdoms of Ndongo and Matamba. Your mayesty converted to Christianity, in order to strengthen the peace treaty with the Portuguese, who never honoured the treaty however, proving their word was worthy nothing.  You sent Dutch an embassy and concluded an alliance with them against the Portuguese who continued to occupy the inland parts of their colony. Hoping to recover lost lands with Dutch help, she moved her capital to Kavanga in the northern part of Ndongo's former domains. In 1644 you defeated the Portuguese army at Ngoleme, but was unable to follow up. You have sacrificed your life to protect your people from foreign violence.[NEWLINE][NEWLINE]Brave and inquisitive Nzinga, the world longs for a leader who can provide a shelter from the oppression, guided by brilliant intuition and military genius. Can you lead the people in the creation of a new kingdom to rival the greatest ones? Can you build a civilization that will stand the test of time?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NDONGO_LS_MOD_NJINGA_DESC">
+			<Text>Nzinga</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NDONGO_LS_MOD_NJINGA_NAME">
+			<Text>Nzinga</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NDONGO_LS_MOD_NJINGA_SUBTITLE">
+			<Text>Queen</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NDONGO_LS_MOD_NJINGA_TITLES_1">
+			<Text>Muchino a muhatu</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_LS_NDONGO_SHORT">
+			<Text>Heart of Africa</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_LS_NDONGO">
+			<Text>Land Units gain extra Movement if start turn unseen by rivals.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_NDONGO_LS_MOD_NJINGA_PEDIA_LIVED">
+			<Text>c. 1583 – December 17, 1663</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_NDONGO_LS_MOD_NJINGA_PEDIA_NAME">
+			<Text>Nzinga</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_NDONGO_LS_MOD_NJINGA_PEDIA_SUBTITLE">
+			<Text>Leader of Ndongo and Matamba</Text>
+		</Row>
+		
+		
+		<Row Tag="TXT_KEY_CITY_NAME_NDONGO_LS_MOD_1">
+			<Text>Matamba</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_NDONGO_LS_MOD_2">
+			<Text>Kavanga</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_NDONGO_LS_MOD_3">
+			<Text>Masangano</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_NDONGO_LS_MOD_4">
+			<Text>Luanda</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_NDONGO_LS_MOD_5">
+			<Text>Huambo</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_NDONGO_LS_MOD_6">
+			<Text>M'banza Congo</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_NDONGO_LS_MOD_7">
+			<Text>Menonogue</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_NDONGO_LS_MOD_8">
+			<Text>Lubango</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_NDONGO_LS_MOD_9">
+			<Text>Benguela</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_NDONGO_LS_MOD_10">
+			<Text>Namibe</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_NDONGO_LS_MOD_11">
+			<Text>Saurimo</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_NDONGO_LS_MOD_12">
+			<Text>Kuito</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_NDONGO_LS_MOD_13">
+			<Text>Lobito</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_NDONGO_LS_MOD_14">
+			<Text>Ulge</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_NDONGO_LS_MOD_15">
+			<Text>Malange</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_NDONGO_LS_MOD_16">
+			<Text>Luena</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_NDONGO_LS_MOD_17">
+			<Text>Quimbele</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_NDONGO_LS_MOD_18">
+			<Text>Damba</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_NDONGO_LS_MOD_19">
+			<Text>Negage</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_NDONGO_LS_MOD_20">
+			<Text>Lucapa</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_NDONGO_LS_MOD_21">
+			<Text>Cangamba</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_NDONGO_LS_MOD_22">
+			<Text>Mavinga</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_NDONGO_LS_MOD_23">
+			<Text>Luau</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_NDONGO_LS_MOD_24">
+			<Text>Gabela</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_NDONGO_LS_MOD_25">
+			<Text>Cacolo</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_NDONGO_LS_MOD_26">
+			<Text>Sumbe</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_NDONGO_LS_MOD_27">
+			<Text>Porto Amboin</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_NDONGO_LS_MOD_28">
+			<Text>Caluquembe</Text>
+		</Row>		
+		<Row Tag="TXT_KEY_CITY_NAME_NDONGO_LS_MOD_29">
+			<Text>Soyo</Text>
+		</Row>		
+		<Row Tag="TXT_KEY_CITY_NAME_NDONGO_LS_MOD_30">
+			<Text>Noqui</Text>
+		</Row>
+
+		
+		
+		
+		<Row Tag="TXT_KEY_SPY_NAME_NDONGO_LS_MOD_0">
+			<Text>Ndambi</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_NDONGO_LS_MOD_1">
+			<Text>Mbandi</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_NDONGO_LS_MOD_2">
+			<Text>Kiluanji</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_NDONGO_LS_MOD_3">
+			<Text>Hari</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_NDONGO_LS_MOD_4">
+			<Text>Afonso</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_NDONGO_LS_MOD_5">
+			<Text>Malukisa</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_NDONGO_LS_MOD_6">
+			<Text>Luyinda</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_NDONGO_LS_MOD_7">
+			<Text>Mona</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_NDONGO_LS_MOD_8">
+			<Text>Barbara</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_NDONGO_LS_MOD_9">
+			<Text>Ana</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		
+		
+		
+		<Row Tag="TXT_KEY_LEADER_NDONGO_LS_MOD_NJINGA_FIRST_GREETING_1">
+			<Text>My name, Ana de Sousa Nzinga Mbande is like a salt on the open wound for enemies and oppressors of my people. What are you looking for?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_NDONGO_LS_MOD_NJINGA_FIRST_GREETING_2">
+			<Text>I am sorry, but we run out of chairs. That's terrible habit of mine, never sit on the same one twice.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_NDONGO_LS_MOD_NJINGA_DEFEATED_1">
+			<Text>You did it. You enslaved my people and humiliated me in this unfair competition of greed and power.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_NDONGO_LS_MOD_NJINGA_DEFEATED_2">
+			<Text>You defeated my warriors, outsmarted my scientists and outclassed my engineers. However, I am the one beloved by people.</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

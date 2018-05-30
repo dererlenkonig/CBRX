@@ -1,0 +1,25 @@
+<GameData>
+	<Diplomacy_Responses>
+		<Row LeaderType="LEADER_SENSHI_HAWKE">
+			<ResponseType>RESPONSE_FIRST_GREETING</ResponseType>
+			<Response>TXT_KEY_LEADER_SENSHI_HAWKE_FIRSTGREETING%</Response>
+		</Row>
+		<Row LeaderType="LEADER_SENSHI_HAWKE">
+			<ResponseType>RESPONSE_DEFEATED</ResponseType>
+			<Response>TXT_KEY_LEADER_SENSHI_HAWKE_DEFEATED%</Response>
+		</Row>
+	</Diplomacy_Responses>
+	<Language_en_US>
+		<!--General phrases -->
+		<!--Greeting (first time meeting) -->
+		<Row Tag="TXT_KEY_LEADER_SENSHI_HAWKE_FIRSTGREETING_1">
+			<Text>Welcome to Australia, a comfy bloody country! I'm Bob Hawke, and I'm the big PM around here. Nice to meet ya!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_SENSHI_HAWKE_FIRSTGREETING_2">
+			<Text>On behalf of all Australia, I welcome you- ah, forget it. G'day mate, I'm Bob.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_SENSHI_HAWKE_DEFEATED_1">
+			<Text>I used to think there was not a bum among us up on the world stage! You've changed that.</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

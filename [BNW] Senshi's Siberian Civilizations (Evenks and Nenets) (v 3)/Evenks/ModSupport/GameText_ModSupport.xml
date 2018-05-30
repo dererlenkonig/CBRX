@@ -1,0 +1,22 @@
+<GameData>
+	<Language_en_US>
+		<!--Heads of Govt.-->
+		<Row Tag="TXT_KEY_JFD_HEAD_OF_GOVERNMENT_TITLE_CIVILIZATION_SENSHI_EVENKS">
+			<Text>Governor</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_HEAD_OF_GOVERNMENT_TITLE_CIVILIZATION_SENSHI_EVENKS_1">
+			<Text>Anatolii Yakimov</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_HEAD_OF_GOVERNMENT_TITLE_CIVILIZATION_SENSHI_EVENKS_2">
+			<Text>Aleksandr Bokovikov</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_HEAD_OF_GOVERNMENT_TITLE_CIVILIZATION_SENSHI_EVENKS_3">
+			<Text>Boris Zolotaryov</Text>
+		</Row>
+		<!--RYOGA UNIQUE CULTURAL INFLUENCE-->
+		<Row Tag="TXT_KEY_GENERIC_SENSHI_EVENKS_INFLUENTIAL_ON_AI_1">
+			<Text>My young daughter is now insisting on a fawn for her birthday. I plan to ask my local shaman to cease the influence of your culture.</Text>
+		</Row>
+		<!--E&D-->
+	</Language_en_US>
+</GameData>

@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 17/11/2012 12:43:21 -->
+<GameData>
+	<Language_PL_PL>
+		<Row Tag="TXT_KEY_LEADER_VAULI_DECLAREWAR_1">
+			<Text>You will face me on the battlefield!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VAULI_DECLAREWAR_2">
+			<Text>You have insulted us for the last time. This means war!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VAULI_DECLAREWAR_3">
+			<Text>You are a scourge to the Nenetses which we will no longer tolerate!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VAULI_DEFEATED_1">
+			<Text>Oooh, I knew you were nothing but trouble!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VAULI_DEFEATED_2">
+			<Text>Ridiculous! I have not lost!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VAULI_DEFEATED_3">
+			<Text>Very well...</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VAULI_FIRSTGREETING_1">
+			<Text>I have heard whispers of you through the forests. Finally, do I get to meet you. I am Vauli Piettomin, leader of the mighty Samoyedic Empire</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VAULI_FIRSTGREETING_2">
+			<Text>The Samoyedic people greet you, Stranger! I am Vauli Piettomin!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VAULI_FIRSTGREETING_3">
+			<Text>Greetings, Stranger! I am Vauli Piettomin, mighty leader of the Samoyedic People! Let us feast to celebrate this grand occasion!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VAULI_GREETING_POLITE_HELLO_1">
+			<Text>Ah, welcome back. The Samoyedic people is always happy to entertain friends.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VAULI_GREETING_NEUTRAL_HELLO_1">
+			<Text>We of the Samoyedic Empire great you.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VAULI_HOSTILE_AGGRESSIVE_MILITARY_WARNING_1">
+			<Text>Do you wish to attack the mighty Samoyedics? Your armies seems to indicate this. Pull them back before it's too late.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VAULI_EXPANSION_SERIOUS_WARNING_1">
+			<Text>Are you like all the others? Respect the rights of the Samoyedics before this leads to war!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VAULI_RESPONSE_REQUEST_1">
+			<Text>Even the mighty will stumble. Might I ask a good friend for help?</Text>
+		</Row>
+		</Language_PL_PL>	
+	<Language_en_US>
+		<Row Tag="TXT_KEY_LEADER_VAULI_DECLAREWAR_1">
+			<Text>You will face me on the battlefield!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VAULI_DECLAREWAR_2">
+			<Text>You have insulted us for the last time. This means war!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VAULI_DECLAREWAR_3">
+			<Text>You are a scourge to the Nenetses which we will no longer tolerate!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VAULI_DEFEATED_1">
+			<Text>Oooh, I knew you were nothing but trouble!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VAULI_DEFEATED_2">
+			<Text>Ridiculous! I have not lost!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VAULI_DEFEATED_3">
+			<Text>Very well...</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VAULI_FIRSTGREETING_1">
+			<Text>I have heard whispers of you through the forests. Finally, do I get to meet you. I am Vauli Piettomin, leader of the mighty Samoyedic Empire</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VAULI_FIRSTGREETING_2">
+			<Text>The Samoyedic people greet you, Stranger! I am Vauli Piettomin!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VAULI_FIRSTGREETING_3">
+			<Text>Greetings, Stranger! I am Vauli Piettomin, mighty leader of the Samoyedic People! Let us feast to celebrate this grand occasion!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VAULI_GREETING_POLITE_HELLO_1">
+			<Text>Ah, welcome back. The Samoyedic people is always happy to entertain friends.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VAULI_GREETING_NEUTRAL_HELLO_1">
+			<Text>We of the Samoyedic Empire great you.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VAULI_HOSTILE_AGGRESSIVE_MILITARY_WARNING_1">
+			<Text>Do you wish to attack the mighty Samoyedics? Your armies seems to indicate this. Pull them back before it's too late.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VAULI_EXPANSION_SERIOUS_WARNING_1">
+			<Text>Are you like all the others? Respect the rights of the Samoyedics before this leads to war!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VAULI_RESPONSE_REQUEST_1">
+			<Text>Even the mighty will stumble. Might I ask a good friend for help?</Text>
+		</Row>
+	</Language_en_US>
+	<Language_FR_FR>
+	
+		<Row Tag="TXT_KEY_LEADER_VAULI_DECLAREWAR_1">
+			<Text>Rendez-vous sur le champs de bataille!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VAULI_DECLAREWAR_2">
+			<Text>Vous nous avez suffisamment insultés, cela signifie la guerre!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VAULI_DECLAREWAR_3">
+			<Text>Vous êtes une plaie pour les Nenetses, et cela ne peut plus être toléré!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VAULI_DEFEATED_1">
+			<Text>Je savais bien que vous ne seriez qu'une source de problèmes pour nous!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VAULI_DEFEATED_2">
+			<Text>C'est ridicule, je n'ai pas perdu!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VAULI_DEFEATED_3">
+			<Text>Trés bien...</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VAULI_FIRSTGREETING_1">
+			<Text>Des caravannes de marchands m'ont dit bien des choses à votre sujet. Je vous rencontre enfin. Je suis Vauli Piettomin, Chef de l'empire samoyède!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VAULI_FIRSTGREETING_2">
+			<Text>Les samoyèdes vous saluent étranger! Je suis Vauli Piettomin!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VAULI_FIRSTGREETING_3">
+			<Text>Salutation étranger! Je suis Vauli Piettomin, grand chef de l'Empire samoyède! Célèbrons cette rencontre!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VAULI_GREETING_POLITE_HELLO_1">
+			<Text>Ah, encore vous? Les Samoyèdes sont toujours ravis de parler à des amis.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VAULI_GREETING_NEUTRAL_HELLO_1">
+			<Text>L'empire samoyède vous salue.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VAULI_HOSTILE_AGGRESSIVE_MILITARY_WARNING_1">
+			<Text>Vous avez l'intention de nous attaquer? C'est ce que semblent indiquer les récents mouvements de troupes à nos frontières. Retirez-les avant qu'il ne soit trop tard.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VAULI_EXPANSION_SERIOUS_WARNING_1">
+			<Text>Votre expansion telle la gangraine nous inquiète! Modérez votre expansion ou vous allez le regretter!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VAULI_RESPONSE_REQUEST_1">
+			<Text>Les temps sont durs. Puis-je solliciter l'aide d'un bon ami?</Text>
+		</Row>
+	</Language_FR_FR>
+</GameData>

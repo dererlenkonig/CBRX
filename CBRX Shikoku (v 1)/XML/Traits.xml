@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 1/26/2013 5:39:06 PM -->
+<GameData>
+	<Traits>
+		<Row>
+			<Type>TRAIT_BLACK_SHIPS</Type>
+			<Description>TXT_KEY_TRAIT_BLACK_SHIPS</Description>
+			<ShortDescription>TXT_KEY_TRAIT_BLACK_SHIPS_SHORT</ShortDescription>
+		</Row>
+	</Traits>
+</GameData>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by Tomatekh-->
+<GameData>
+	<UnitPromotions>
+		<Row>
+			<Type>PROMOTION_XINGU</Type>
+			<Description>TXT_KEY_PROMOTION_XINGU</Description>
+			<Help>TXT_KEY_PROMOTION_XINGU_HELP</Help>
+			<Sound>AS2D_IF_LEVELUP</Sound>
+			<CannotBeChosen>true</CannotBeChosen>
+			<PortraitIndex>59</PortraitIndex>
+			<IconAtlas>ABILITY_ATLAS</IconAtlas>
+			<PediaType>PEDIA_ATTRIBUTES</PediaType>
+			<PediaEntry>TXT_KEY_PROMOTION_XINGU</PediaEntry>
+		</Row>
+		<Row>
+			<Type>PROMOTION_XINGU_DUMMMY</Type>
+			<Description>TXT_KEY_PROMOTION_XINGU</Description>
+			<Help>TXT_KEY_PROMOTION_XINGU_HELP</Help>
+			<Sound>AS2D_IF_LEVELUP</Sound>
+			<CannotBeChosen>true</CannotBeChosen>
+			<CombatPercent>30</CombatPercent>
+			<PortraitIndex>0</PortraitIndex>
+			<IconAtlas>XINGU_PROMOTION_ATLAS_MOD</IconAtlas>
+			<PediaType>NULL</PediaType>
+			<PediaEntry>TXT_KEY_PROMOTION_XINGU</PediaEntry>
+		</Row>
+		<Row>
+			<Type>PROMOTION_XINGU_UPGRADE</Type>
+			<Description>TXT_KEY_PROMOTION_XINGU_UPGRADE</Description>
+			<Help>TXT_KEY_PROMOTION_XINGU_UPGRADE_HELP</Help>
+			<Sound>AS2D_IF_LEVELUP</Sound>
+			<CannotBeChosen>true</CannotBeChosen>
+			<PortraitIndex>59</PortraitIndex>
+			<IconAtlas>ABILITY_ATLAS</IconAtlas>
+			<PediaType>PEDIA_ATTRIBUTES</PediaType>
+			<PediaEntry>TXT_KEY_PROMOTION_XINGU_UPGRADE</PediaEntry>
+		</Row>		
+	</UnitPromotions>
+</GameData>

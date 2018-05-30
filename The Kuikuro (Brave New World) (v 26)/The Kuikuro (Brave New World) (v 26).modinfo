@@ -1,0 +1,159 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mod id="f21e720c-7b62-4f56-8e9b-199e754d7cba" version="26">
+  <Properties>
+    <Name>The Kuikuro (Brave New World)</Name>
+    <Teaser>Adds the Kuikuro to the base game. Requires the Brave New World expansion.</Teaser>
+    <Description>Adds the Kuikuro to the base game. Requires the Brave New World expansion.
+[NEWLINE][NEWLINE]~~~
+[NEWLINE][NEWLINE]Note: 
+[NEWLINE]- Requires the Brave New World expansion .
+[NEWLINE]- Updates to the Mod will most likely break save games. Please do not update until you are ready to begin a new game.
+[NEWLINE][NEWLINE]~~~
+[NEWLINE][NEWLINE]Leader: Anetü
+[NEWLINE][NEWLINE]UA: Garden Cities
+[NEWLINE]UU: Huka-Huka Warrior
+[NEWLINE]UB: House Garden</Description>
+    <Authors>Tomatekh</Authors>
+    <SpecialThanks>Janboruta</SpecialThanks>
+    <HideSetupGame>0</HideSetupGame>
+    <Homepage>http://forums.civfanatics.com/showthread.php?t=472751</Homepage>
+    <AffectsSavedGames>1</AffectsSavedGames>
+    <MinCompatibleSaveVersion>26</MinCompatibleSaveVersion>
+    <SupportsSinglePlayer>1</SupportsSinglePlayer>
+    <SupportsMultiplayer>1</SupportsMultiplayer>
+    <SupportsHotSeat>1</SupportsHotSeat>
+    <SupportsMac>1</SupportsMac>
+    <ReloadAudioSystem>1</ReloadAudioSystem>
+    <ReloadLandmarkSystem>1</ReloadLandmarkSystem>
+    <ReloadStrategicViewSystem>1</ReloadStrategicViewSystem>
+    <ReloadUnitSystem>1</ReloadUnitSystem>
+  </Properties>
+  <Dependencies>
+    <Dlc id="6DA07636-4123-4018-B643-6575B4EC336B" minversion="0" maxversion="999" />
+  </Dependencies>
+  <References>
+    <Dlc id="0E3751A1-F840-4e1b-9706-519BF484E59D" minversion="0" maxversion="999" />
+    <Mod id="36e88483-48fe-4545-b85f-bafc50dde315" minversion="0" maxversion="999" title="YnAEMP" />
+    <Mod id="1f941088-b185-4159-865c-472df81247b2" minversion="0" maxversion="999" title="Events and Decisions" />
+    <Mod id="7fdd72a5-d4ae-441c-bc4e-2e3d2a26cff4" minversion="0" maxversion="999" title="Ethnic Units" />
+    <Mod id="e576894a-ed2b-4033-be14-ed1c8ceb81d3" minversion="0" maxversion="999" title="Map Labels" />
+    <Mod id="31a31d1c-b9d7-45e1-842c-23232d66cd47" minversion="0" maxversion="999" title="Cultural Diversity" />
+    <Mod id="01c131ef-2162-4a7b-b845-763a4e675940" minversion="0" maxversion="999" title="Cultural Influence" />
+    <Mod id="d1b6328c-ff44-4b0d-aad7-c657f83610cd" minversion="0" maxversion="999" title="C. Patch" />
+    <Mod id="8411a7a8-dad3-4622-a18e-fcc18324c799" minversion="0" maxversion="999" title="C. Balance Patch" />
+    <Mod id="8670da15-d435-44ea-9758-7438cb321411" minversion="0" maxversion="999" title="R.E.D." />
+    <Mod id="eea66053-7579-481a-bb8d-2f3959b59974" minversion="0" maxversion="999" title="Piety" />
+    <Mod id="ce8aa614-7ef7-4a45-a179-5329869e8d6d" minversion="0" maxversion="999" title="Enlightenment" />
+    <Mod id="d99bf7aa-51ac-4bef-bd88-d765b28e260e" minversion="0" maxversion="999" title="Soveriegnty" />
+    <Mod id="a19351c5-c0b3-4b07-8695-4affaa199949" minversion="0" maxversion="999" title="Mercenaries" />
+    <Mod id="10e9728f-d61c-4317-be4f-7d52d6bae6f4" minversion="0" maxversion="999" title="CID" />
+    <Mod id="910fd32c-1b89-489d-a890-d94d36dc4cdf" minversion="0" maxversion="999" title="JFD - CL" />
+    <Mod id="d9ece224-6cd8-4519-a27a-c417b59cdf35" minversion="0" maxversion="999" title="Future Worlds" />
+    <Mod id="6676902b-b907-45f1-8db5-32dcb2135eee" minversion="0" maxversion="999" title="ExCE" />
+  </References>
+  <Blocks />
+  <Files>
+    <File md5="D6918E2C68A3B55B6BDF0B1B0A727F11" import="1">Art/Alpha/XinguAlphaAtlas128.dds</File>
+    <File md5="2DDF30D381592627BCF214E2B604129B" import="1">Art/Alpha/XinguAlphaAtlas16.dds</File>
+    <File md5="763536CDF95F531E2CCD55C645B83F36" import="1">Art/Alpha/XinguAlphaAtlas24.dds</File>
+    <File md5="B45F52AB80FFEFF2EF38387C4F0E8C9B" import="1">Art/Alpha/XinguAlphaAtlas32.dds</File>
+    <File md5="9680ABED60C5432E40E7E3A3085531D9" import="1">Art/Alpha/XinguAlphaAtlas48.dds</File>
+    <File md5="285F6BFAFDB41593683EB778C08E958D" import="1">Art/Alpha/XinguAlphaAtlas64.dds</File>
+    <File md5="F2081302457EACDFA5379B07A55D102C" import="1">Art/Atlas/XinguAtlas128.dds</File>
+    <File md5="1F4CD887A715B56B576BE48020140E1E" import="1">Art/Atlas/XinguAtlas214.dds</File>
+    <File md5="05C72C2CB739DA485E819BAABB657299" import="1">Art/Atlas/XinguAtlas256.dds</File>
+    <File md5="23EFCA5F2D84F944C4D61E80B97295F2" import="1">Art/Atlas/XinguAtlas32.dds</File>
+    <File md5="E3468489D547E5D68A8C1F4D31426AE5" import="1">Art/Atlas/XinguAtlas45.dds</File>
+    <File md5="4AE876C7BA92C73BD91F91CD60E4DE4C" import="1">Art/Atlas/XinguAtlas64.dds</File>
+    <File md5="C04F6A5DD8D690D27BAD34D48B84EE71" import="1">Art/Atlas/XinguAtlas80.dds</File>
+    <File md5="21CDCEED7D81983A502F1C20ED00BC57" import="1">Art/Promotion/XinguPromotion256.dds</File>
+    <File md5="4515CFD32CBCA5FD9B31BA7E74BDF85D" import="1">Art/Promotion/XinguPromotion32.dds</File>
+    <File md5="2D64910169FF17FBFD6D2CFAAAADE518" import="1">Art/Promotion/XinguPromotion45.dds</File>
+    <File md5="D2E665F6B269588CF10F19FE789271C9" import="1">Art/Promotion/XinguPromotion64.dds</File>
+    <File md5="D9ACB983E655AEC2738A069244550056" import="1">Art/Units/Huka 1/black_4x4.dds</File>
+    <File md5="9C97DB55774BB652521B9218EC6B79F8" import="1">Art/Units/Huka 1/HukaHukaWarrior1.fxsxml</File>
+    <File md5="7B2287C9F610C4BFA7053DCAE1D6BB39" import="1">Art/Units/Huka 1/HukaHukaWarrior1.gr2</File>
+    <File md5="93C0A216B313CC61DFBB60191AC644A5" import="1">Art/Units/Huka 1/HukaHukaWarrior1_diff.dds</File>
+    <File md5="D9ACB983E655AEC2738A069244550056" import="1">Art/Units/Huka 2/black_4x4.dds</File>
+    <File md5="F979812AD667CC6706B38E6E8F7104AD" import="1">Art/Units/Huka 2/HukaHukaWarrior2.fxsxml</File>
+    <File md5="3BE3C967CA9E04685D215984338D9B8D" import="1">Art/Units/Huka 2/HukaHukaWarrior2.gr2</File>
+    <File md5="6111958989B826518FEF21315B54D45B" import="1">Art/Units/Huka 2/HukaHukaWarrior2_diff.dds</File>
+    <File md5="EC1731DFB149F8FC121B6AB41B5F17E7" import="1">Art/Units/Scout_Aztec.dds</File>
+    <File md5="E15C966FB2B8E32536415D304700B9EE" import="1">Art/Units/Scout_Aztec.fxsxml</File>
+    <File md5="67CFFDB65B14D1477C5C19D100319CDC" import="1">Art/Units/Scout_Aztec.gr2</File>
+    <File md5="CC72DB433B6EF3971DCF4DE417A75200" import="1">Art/Units/Scout_Aztec_gloss.dds</File>
+    <File md5="14C5564BC244D981C6E23F0440939E49" import="1">Art/Units/sv_XinguUnit.dds</File>
+    <File md5="96E189AF202EA41AF9A7C7E0C525997D" import="1">Art/Units/XinguUnitAlphaAtlas.dds</File>
+    <File md5="EE4EF0771FD2C4951590A0CD1CB55A8C" import="1">Art/Xingu_Diplo_Mod.dds</File>
+    <File md5="948B0FC5B2F36B5E137653C11CF780FD" import="1">Art/Xingu_DoM_Mod.dds</File>
+    <File md5="357B957C60881BC413B278134290F11C" import="1">Art/Xingu_Map_Mod.dds</File>
+    <File md5="0B6A3788BCFFB9A31D1538F55DDFD779" import="1">Audio/XinguPeace.mp3</File>
+    <File md5="CC3382FA497D64A5E7A2FED9686B0B4E" import="1">Audio/XinguWar.mp3</File>
+    <File md5="6B1ECF85AC26EE7E5552E6AF858BECA4" import="1">Decisions/EDSlashBrunEarly.dds</File>
+    <File md5="360724A12578EEDF0C86847C81AA99BD" import="1">Decisions/TomatekhXinguDecisions.lua</File>
+    <File md5="CBEF74A440CE6D23D0403CB846BBE3AD" import="0">Decisions/TomatekhXinguDecisions.xml</File>
+    <File md5="DC834ACF9AFF219B26123CF3238A94FD" import="1">Decisions/TomatekhXinguEvents.lua</File>
+    <File md5="BC5353A78186857D17E369FD74C3BFF9" import="0">Decisions/XinguDecisionsExtra.lua</File>
+    <File md5="15F203B2F220B149CBD4D8E57985DBAE" import="0">Decisions/XinguDecisionsExtra.sql</File>
+    <File md5="572F4DBCD3C7FCB4C35020452FA27D41" import="0">Lua/Xingu Mod Check.lua</File>
+    <File md5="10DD793E735DCAFA0F4EB32F1F2A6D20" import="1">Lua/Xingu Mod Scripts.lua</File>
+    <File md5="A026B921292100E0BBBAA804ED42F073" import="0">SQL/Xingu Art Defines.sql</File>
+    <File md5="D1280E3E6C2477FA675F1FEC1DC30843" import="0">SQL/Xingu Art Info.sql</File>
+    <File md5="875EFE2F28FC29077344134070CBC233" import="0">SQL/Xingu Audio Info.sql</File>
+    <File md5="9C55E8818CC19C9BB523AC966641E23B" import="0">SQL/Xingu Civ Info.sql</File>
+    <File md5="0AD3CE646E96396BAD5B661CCFC5415F" import="0">SQL/Xingu Mod Info.sql</File>
+    <File md5="1ED3CC66527159576891EFC2D9D48B6F" import="0">SQL/Xingu Unit Info.sql</File>
+    <File md5="52C44D2EB94AFBDF4E42D5965B3BBBCB" import="0">SQL/Xingu YnAMEP.sql</File>
+    <File md5="C8E211AAD2257EF2B527BFBCA9FD0536" import="1">XML/Art/Xingu_Leader_Scene_Mod.xml</File>
+    <File md5="01121DA9CAB44CC980FF9D4B97113099" import="0">XML/Buildings/Xingu Buildings.xml</File>
+    <File md5="E4EF1E6FD41118D00D9456F56491097C" import="0">XML/Terrain/Xingu Builds.xml</File>
+    <File md5="029E8A4DB5DC091EB7C9F023EF64B6A0" import="0">XML/Text/Non English XML Tags/Xingu Game Text DE_DE.xml</File>
+    <File md5="F26AA5AAC81302CEBA74319D77BBD6B7" import="0">XML/Text/Non English XML Tags/Xingu Game Text ES_ES.xml</File>
+    <File md5="5F9B37F4C224E27C2B0DA40CE71C97B5" import="0">XML/Text/Non English XML Tags/Xingu Game Text FR_FR.xml</File>
+    <File md5="1D9AAF2E2D7AB907C7BF6980CF22A6B5" import="0">XML/Text/Non English XML Tags/Xingu Game Text IT_IT.xml</File>
+    <File md5="84E346FD82E757096B997CB2635D133F" import="0">XML/Text/Non English XML Tags/Xingu Game Text JA_JP.xml</File>
+    <File md5="75056983299D527C98460A7AB2D66321" import="0">XML/Text/Non English XML Tags/Xingu Game Text KO_KR.xml</File>
+    <File md5="FA259B2A669AA2FA08DFAC09ADF66744" import="0">XML/Text/Non English XML Tags/Xingu Game Text PL_PL.xml</File>
+    <File md5="25B20685BE249FB94B207C0476C0F9D6" import="0">XML/Text/Non English XML Tags/Xingu Game Text RU_RU.xml</File>
+    <File md5="9B1A5FB6CEC80C24E1FCB1466C8C3A00" import="0">XML/Text/Xingu Game Text.xml</File>
+    <File md5="D55F498015A1E4D47BA1F8B6389FAC83" import="0">XML/Units/Xingu Promotions.xml</File>
+    <File md5="623DDA7088333AE4795BD0D45BBEE5FE" import="0">XML/Units/Xingu Units Alt.xml</File>
+    <File md5="73135DC912AF05FACBC3D665FE14FD55" import="0">XML/Units/Xingu Units.xml</File>
+  </Files>
+  <Actions>
+    <OnModActivated>
+      <UpdateDatabase>SQL/Xingu Civ Info.sql</UpdateDatabase>
+      <UpdateDatabase>XML/Buildings/Xingu Buildings.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Terrain/Xingu Builds.xml</UpdateDatabase>
+      <UpdateDatabase>SQL/Xingu Unit Info.sql</UpdateDatabase>
+      <UpdateDatabase>XML/Units/Xingu Units.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Units/Xingu Promotions.xml</UpdateDatabase>
+      <UpdateDatabase>SQL/Xingu Art Info.sql</UpdateDatabase>
+      <UpdateDatabase>SQL/Xingu Art Defines.sql</UpdateDatabase>
+      <UpdateDatabase>SQL/Xingu Audio Info.sql</UpdateDatabase>
+      <UpdateDatabase>XML/Text/Xingu Game Text.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Text/Non English XML Tags/Xingu Game Text RU_RU.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Text/Non English XML Tags/Xingu Game Text PL_PL.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Text/Non English XML Tags/Xingu Game Text KO_KR.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Text/Non English XML Tags/Xingu Game Text JA_JP.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Text/Non English XML Tags/Xingu Game Text IT_IT.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Text/Non English XML Tags/Xingu Game Text FR_FR.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Text/Non English XML Tags/Xingu Game Text ES_ES.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Text/Non English XML Tags/Xingu Game Text DE_DE.xml</UpdateDatabase>
+      <UpdateDatabase>SQL/Xingu Mod Info.sql</UpdateDatabase>
+      <UpdateDatabase>Decisions/TomatekhXinguDecisions.xml</UpdateDatabase>
+      <UpdateDatabase>SQL/Xingu YnAMEP.sql</UpdateDatabase>
+      <UpdateDatabase>Decisions/XinguDecisionsExtra.sql</UpdateDatabase>
+    </OnModActivated>
+  </Actions>
+  <EntryPoints>
+    <EntryPoint type="InGameUIAddin" file="Lua/Xingu Mod Check.lua">
+      <Name>Xingu</Name>
+      <Description>Xingu</Description>
+    </EntryPoint>
+    <EntryPoint type="InGameUIAddin" file="Decisions/XinguDecisionsExtra.lua">
+      <Name>Decisions</Name>
+      <Description>Decisions</Description>
+    </EntryPoint>
+  </EntryPoints>
+</Mod>

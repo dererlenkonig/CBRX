@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 17/11/2012 12:43:21 -->
+<GameData>
+	<Language_en_US>
+		<Row Tag="TXT_KEY_LEADER_RAJAPAPUA_DECLAREWAR_1">
+			<Text>I 'm afraid that remains is only one way out : death!!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_RAJAPAPUA_DECLAREWAR_2">
+			<Text>It is time for us to wipe you off the map!!!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_RAJAPAPUA_DECLAREWAR_3">
+			<Text>I must confess that I'll take some pleasure in destroying you!!!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_RAJAPAPUA_DEFEATED_1">
+			<Text>I knew I should crush you while I had the chance!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_RAJAPAPUA_DEFEATED_2">
+			<Text>You have been lucky, it does not happen twice!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_RAJAPAPUA_DEFEATED_3">
+			<Text>One day I would have my revenge...</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_RAJAPAPUA_FIRSTGREETING_1">
+			<Text>I have heard whispers of you through the forests. Finally, do I get to meet you. I am Rajapapua, leader of the mighty Papuan Empire</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_RAJAPAPUA_FIRSTGREETING_2">
+			<Text>The Papuan people greet you, Stranger! I am Rajapapua!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_RAJAPAPUA_FIRSTGREETING_3">
+			<Text>Namona, Stranger! I am Rajapapua, mighty leader of the Papuans! Let us feast to celebrate this grand occasion!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_RAJAPAPUA_GREETING_POLITE_HELLO_1">
+			<Text>Ah, welcome back. The Papuans are always happy to entertain friends.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_RAJAPAPUA_GREETING_NEUTRAL_HELLO_1">
+			<Text>Namona! We of the Papuan Empire great you.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_RAJAPAPUA_HOSTILE_AGGRESSIVE_MILITARY_WARNING_1">
+			<Text>Do you wish to attack the mighty Papuans? Your armies seems to indicate this. Pull them back before it's too late.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_RAJAPAPUA_EXPANSION_SERIOUS_WARNING_1">
+			<Text>Are you like all the others? Respect the rights of the Papuans before this leads to war!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_RAJAPAPUA_RESPONSE_REQUEST_1">
+			<Text>Even the mighty will stumble. Might I ask a good friend for help?</Text>
+		</Row>
+	</Language_en_US>
+	<Language_FR_FR>
+		<Row Tag="TXT_KEY_LEADER_RAJAPAPUA_DECLAREWAR_1">
+			<Text>J'ai bien peur qu'il ne vous reste plus qu'une seule issue: la mort!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_RAJAPAPUA_DECLAREWAR_2">
+			<Text>Il est temps pour nous de vous rayer de la carte!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_RAJAPAPUA_DECLAREWAR_3">
+			<Text>Je dois avouer que je vais prendre un certain plaisir à vous détruire!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_RAJAPAPUA_DEFEATED_1">
+			<Text>Je savais bien que j'aurais du vous écraser tant que j'en avais l'occasion!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_RAJAPAPUA_DEFEATED_2">
+			<Text>Vous avez eu de la chance, ça ne se reproduira pas deux fois!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_RAJAPAPUA_DEFEATED_3">
+			<Text>Un jour, j'aurais ma revanche...</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_RAJAPAPUA_FIRSTGREETING_1">
+			<Text>Des caravannes de marchands m'ont dit bien des choses à votre sujet. Je vous rencontre enfin. Je suis Rajapapua, Chef de l'empire de Papouasie!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_RAJAPAPUA_FIRSTGREETING_2">
+			<Text>Namona! Les Papous vous saluent étranger! Je suis Rajapapua!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_RAJAPAPUA_FIRSTGREETING_3">
+			<Text>Namona étranger! Je suis Rajapapua, grand chef de l'Empire des Papous! Célèbrons cette rencontre!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_RAJAPAPUA_GREETING_POLITE_HELLO_1">
+			<Text>Ah, encore vous? Les Papous sont toujours ravis de parler à des amis.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_RAJAPAPUA_GREETING_NEUTRAL_HELLO_1">
+			<Text>Namona! L'empire de Papouasie vous salue.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_RAJAPAPUA_HOSTILE_AGGRESSIVE_MILITARY_WARNING_1">
+			<Text>Vous avez l'intention de nous attaquer? C'est ce que semblent indiquer les récents mouvements de troupes à nos frontières. Retirez-les avant qu'il ne soit trop tard.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_RAJAPAPUA_EXPANSION_SERIOUS_WARNING_1">
+			<Text>Votre expansion telle la gangraine nous inquiète! Modérez votre expansion ou vous allez le regretter!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_RAJAPAPUA_RESPONSE_REQUEST_1">
+			<Text>Les temps sont durs. Puis-je solliciter l'aide d'un bon ami?</Text>
+		</Row>
+	</Language_FR_FR>
+</GameData>

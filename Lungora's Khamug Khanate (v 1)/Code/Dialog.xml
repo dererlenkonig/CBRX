@@ -1,0 +1,173 @@
+
+	<GameData>
+		<Language_en_US>
+			<!-- DIPLOMACY -->
+			<!--First Greeting messages from AI leaders-->
+			<Row Tag="TXT_KEY_LEADER_JAMUKHA_FIRSTGREETING_1">
+				<Text>I, Jamukha, welcome you to the Steppe, it's towering peaks and rolling valleys are the home of my people. Kneel before me and you shall see peace and prosperity, oppose and let your herds and families come to ruin.</Text>
+			</Row>
+			<Row Tag="TXT_KEY_LEADER_JAMUKHA_FIRSTGREETING_2">
+				<Text>You are met by the chief of the Jadaran and khan of all Mongols, Jamukha! Tengri has guided your steeds here, and I hope for your clan that he intends a great friendship rather than a tragic tale.</Text>
+			</Row>
+			<!--Defeated messages from AI leaders-->
+			<Row Tag="TXT_KEY_LEADER_JAMUKHA_DEFEATED_1">
+				<Text>Now you're Khan and I'm at your feet. Are you happy? </Text>
+			</Row>
+			<!-- Human repeats an action too much, gets the following responses -->
+			<Row Tag="TXT_KEY_LEADER_JAMUKHA_REPEAT_TOO_MUCH_1">
+				<Text>I ask you to leave my precence for now.</Text>
+			</Row>
+			<Row Tag="TXT_KEY_LEADER_JAMUKHA_REPEAT_TRADE_TOO_MUCH_1">
+				<Text>Rightfully, I should demand your side of this offer and keep my own!</Text>
+			</Row>
+			<!-- Greetings -->
+			<Row Tag="TXT_KEY_LEADER_JAMUKHA_GREETING_HOSTILE_HELLO_1">
+				<Text>Say what is needed, and that alone.</Text>
+			</Row>
+			<Row Tag="TXT_KEY_LEADER_JAMUKHA_GREETING_POLITE_HELLO_1">
+				<Text>Aha my friend! Come, have a seat and some Airag. </Text>
+			</Row>
+			<Row Tag="TXT_KEY_LEADER_JAMUKHA_GREETING_HOSTILE_HUMAN_AT_WAR_1">
+				<Text>My men stand by their steeds. Do not begin to falter or we may just find what remains of your lands fine takings.</Text>
+			</Row>
+			<Row Tag="TXT_KEY_LEADER_JAMUKHA_GREETING_HUMAN_AT_WAR_1">
+				<Text>I wish the best for your people in these dangerous and stormy times.</Text>
+			</Row>
+			<Row Tag="TXT_KEY_LEADER_JAMUKHA_HOSTILE_AGGRESSIVE_MILITARY_WARNING_1">
+				<Text>I hope those men of yours are a hunting party. Their proximity to my lands is worrying.</Text>
+			</Row>
+			<Row Tag="TXT_KEY_JAMUKHA_GREETING_HOSTILE_AGGRESSIVE_PLOT_BUYING_1">
+				<Text>The steppe belongs to the Mongol people. Your adamant claiming of it offends the lord Tengri.</Text>
+			</Row>
+			<Row Tag="TXT_KEY_LEADER_JAMUKHA_GREETING_AGGRESSIVE_PLOT_BUYING_1">
+				<Text>My chiefs are expressing distaste at your border expansion. I suggest you stop or there may be repercussions.</Text>
+			</Row>
+			<Row Tag="TXT_KEY_LEADER_JAMUKHA_GREETING_HOSTILE_AGGRESSIVE_EXPANSION_1">
+				<Text>I did not imagine a day when your people would foolishly settle the land of mine. Let it be known that your subjugation is all but assured.</Text>
+			</Row>
+			<Row Tag="TXT_KEY_LEADER_JAMUKHA_GREETING_AGGRESSIVE_EXPANSION_1">
+				<Text>These are the lands of my peoples. I suggest you settle elsewhere.</Text>
+			</Row>
+			<Row Tag="TXT_KEY_LEADER_JAMUKHA_GREETING_FRIENDLY_STRONG_MILITARY_1">
+				<Text>Your warriors are strong and numerous! Say we take them and mine to carve out greater territories?</Text>
+			</Row>
+			<Row Tag="TXT_KEY_LEADER_JAMUKHA_GREETING_FRIENDLY_STRONG_ECONOMY_1">
+				<Text>Of all the riches on the step, yours are the greatest. I hope you will share that prosperity with my people in goodwill.</Text>
+			</Row>
+			<Row Tag="TXT_KEY_LEADER_JAMUKHA_GREETING_HOSTILE_HUMAN_FEW_CITIES_1">
+				<Text>Oh look. The puny city-state yet to be annexed.</Text>
+			</Row>
+			<Row Tag="TXT_KEY_LEADER_JAMUKHA_GREETING_HOSTILE_HUMAN_SMALL_ARMY_1">
+				<Text>It would not surprise me if my horse we able to take out your army, without myself on its back.</Text>
+			</Row>
+			<Row Tag="TXT_KEY_LEADER_JAMUKHA_GREETING_HOSTILE_HUMAN_IS_WARMONGER_1">
+				<Text>You take many lands, But you are without honour. I hope Tengri brings winters of death and summers of drought upon you.</Text>
+			</Row>
+			<Row Tag="TXT_KEY_LEADER_JAMUKHA_TOO_SOON_FOR_DOF_1">
+				<Text> You should know my trust, while like iron, is hard to win. You have not won it yet.</Text>
+					</Row>
+					<Row Tag="TXT_KEY_LEADER_JAMUKHA_DENOUNCE_1">
+						<Text>You are a son of a dog and a leper. Tengri has forsaken you and so should the world. [NEWLINE][NEWLINE]([COLOR_WARNING_TEXT]They have publicly denounced us! NOTE: You are not at war.[ENDCOLOR])</Text>
+					</Row>
+					<Row Tag="TXT_KEY_LEADER_JAMUKHA_DENOUNCE_2">
+						<Text>Any trust I may have had is broken. May you rot in a latrine pit and men piss from above. [NEWLINE][NEWLINE]([COLOR_WARNING_TEXT]They have publicly denounced us! NOTE: You are not at war.[ENDCOLOR])</Text>
+					</Row>
+					<Row Tag="TXT_KEY_LEADER_JAMUKHA_RESPONSE_TO_BEING_DENOUNCED_1">
+						<Text>If that is how it must be, so be it.</Text>
+					</Row>
+					<Row Tag="TXT_KEY_LEADER_JAMUKHA_HUMAN_DOFED_FRIEND_1">
+						<Text>You and {1_CivName} have much alike. You are both like siblings to me, a bond beyond blood.</Text>
+					</Row>
+					<Row Tag="TXT_KEY_LEADER_JAMUKHA_HUMAN_DOFED_ENEMY_1">
+						<Text>{1_CivName} is a mangy hound, getting close only pushes you away from the likes of the Khamug.</Text>
+					</Row>
+					<Row Tag="TXT_KEY_LEADER_JAMUKHA_HUMAN_DENOUNCED_FRIEND_1">
+						<Text>The Mongols respect {1_CivName}. To get on their bad side is to see my armies at your doors.</Text>
+					</Row>
+					<Row Tag="TXT_KEY_LEADER_JAMUKHA_HUMAN_DENOUNCED_ENEMY_1">
+						<Text>I agree, {1_CivName} is not to be trusted.</Text>
+					</Row>
+					<Row Tag="TXT_KEY_LEADER_JAMUKHA_HUMAN_DOF_SO_AI_DOF_1">
+						<Text>You see {1_CivName} as a worthy friend? Then so shall I!</Text>
+					</Row>
+					<Row Tag="TXT_KEY_LEADER_JAMUKHA_HUMAN_DOF_SO_AI_DENOUNCE_1">
+						<Text>I see the honourless cur has a pet. Now I have to deal with both you and {1_CivName}?</Text>
+					</Row>
+					<Row Tag="TXT_KEY_LEADER_JAMUKHA_HUMAN_DENOUNCE_SO_AI_DENOUNCE_1">
+						<Text>I too see that {1_CivName} is without honour. The combination of our denouncements will have them rethink their actions.</Text>
+					</Row>
+					<!-- General Diplo Text -->
+					<Row Tag="TXT_KEY_LEADER_JAMUKHA_DEC_FRIENDSHIP_1">
+						<Text>The Mongols see your people have much honour. Come and stand beside us.</Text>
+					</Row>
+					<Row Tag="TXT_KEY_LEADER_JAMUKHA_DEC_FRIENDSHIP_2">
+						<Text>I have seen your feats and loyalty to your people and the lord Tengri. Shall you join us in friendship></Text>
+					</Row>
+					<Row Tag="TXT_KEY_LEADER_JAMUKHA_AGGRESSIVE_MILITARY_WARNING_1">
+						<Text>Move your men or they will become the target dummies for ours.</Text>
+					</Row>
+					<Row Tag="TXT_KEY_LEADER_JAMUKHA_PLOT_BUYING_WARNING_1">
+						<Text>I advise you to not expand there.</Text>
+					</Row>
+					<Row Tag="TXT_KEY_LEADER_JAMUKHA_PLOT_BUYING_SERIOUS_WARNING_1">
+						<Text>Your expansion into the land of my people must stop.</Text>
+					</Row>
+					<Row Tag="TXT_KEY_LEADER_JAMUKHA_EXPANSION_SERIOUS_WARNING_1">
+						<Text>Your expansion into the land of my people must stop.</Text>
+					</Row>
+					<Row Tag="TXT_KEY_LEADER_JAMUKHA_EXPANSION_WARNING">
+						<Text>Return your people home and abandon this land, before I have to ride my horses upon you.</Text>
+					</Row>
+					<Row Tag="TXT_KEY_LEADER_JAMUKHA_RETURNED_CIVILIAN_1">
+						<Text>The Khamug Mongols are eternally grateful! Tengri truely acts through you. </Text>
+					</Row>
+					<!--Public Declarations-->
+					<Row Tag="TXT_KEY_LEADER_JAMUKHA_DECLARATION_PROTECT_CITY_STATE_1">
+						<Text>{2_MajorCivName:textkey} announces to the world that it is now protecting {1_MinorCivName:textkey}. Attacking the City-State will greatly damage relations and may lead to war.</Text>
+					</Row>
+					<Row Tag="TXT_KEY_LEADER_JAMUKHA_DECLARATION_ABANDON_CITY_STATE_1">
+						<Text>{2_MajorCivName:textkey} has taken back its guarantee of protecting {1_MinorCivName:textkey}.</Text>
+					</Row>
+					<!-- Human is asking the AI for something -->
+					<Row Tag="TXT_KEY_LEADER_JAMUKHA_DONT_SETTLE_NO_1">
+						<Text>No. I will continue to claim the land that is mine.</Text>
+					</Row>
+					<Row Tag="TXT_KEY_LEADER_JAMUKHA_DONT_SETTLE_YES_1">
+						<Text>An agreement is made, that land is yours.</Text>
+					</Row>
+					<!--Deal Offers and related-->
+					<Row Tag="TXT_KEY_LEADER_JAMUKHA_LUXURY_TRADE_1">
+						<Text>Trade back and forth will benefit us both.</Text>
+					</Row>
+					<Row Tag="TXT_KEY_LEADER_JAMUKHA_OPEN_BORDERS_EXCHANGE_1">
+						<Text>My lands are yours to wander, so long as the return is exchanged.</Text>
+					</Row>
+					<Row Tag="TXT_KEY_LEADER_JAMUKHA_RESPONSE_REQUEST_1">
+						<Text>The Mongol people are in need, a small gift from a friend to a friend is surely not too much to offer.</Text>
+					</Row>
+					<!--AI Attacked by Human - Strong and Weak also include the default response sets-->
+					<Row Tag="TXT_KEY_LEADER_JAMUKHA_ATTACKED_HOSTILE_1">
+						<Text>There will be war, but you shall not see the Mongols fall. Our hooves will thunder against you.</Text>
+					</Row>
+					<Row Tag="TXT_KEY_LEADER_JAMUKHA_ATTACKED_EXCITED_1">
+						<Text>I want to ask you: All Mongols fear the thunder... but not you? </Text>
+					</Row>
+					<Row Tag="TXT_KEY_LEADER_JAMUKHA_ATTACKED_SAD_1">
+						<Text>The steppes will never be yours.</Text>
+					</Row>
+					<Row Tag="TXT_KEY_LEADER_JAMUKHA_ATTACKED_BETRAYED_1">
+						<Text>Tengri will see justice brought, until then it is my duty.</Text>
+					</Row>
+					<!--AI Responses to a human peace offer-->
+					<Row Tag="TXT_KEY_LEADER_JAMUKHA_TOO_SOON_NO_PEACE_1">
+						<Text>Ha! I do not give up so soon.</Text>
+					</Row>
+					<!--AI Responses to a discussion mode topics-->
+					<Row Tag="TXT_KEY_LEADER_JAMUKHA_BAD_1">
+						<Text>This is saddening to hear.</Text>
+					</Row>
+					<Row Tag="TXT_KEY_LEADER_JAMUKHA_GOOD_1">
+						<Text>You have our thanks.</Text>
+					</Row>
+				</Language_en_US>
+	</GameData>

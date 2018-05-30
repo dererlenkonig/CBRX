@@ -1,0 +1,161 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mod id="b0e91c7f-a888-41f3-82e6-bb48429c04e6" version="1">
+  <Properties>
+    <Name>Selk'nam Civilization</Name>
+    <Stability>Alpha</Stability>
+    <Teaser>Selk'nam</Teaser>
+    <Description>Selk'nam</Description>
+    <Authors>User</Authors>
+    <SpecialThanks>Civfanatics 4 Templates</SpecialThanks>
+    <HideSetupGame>0</HideSetupGame>
+    <AffectsSavedGames>1</AffectsSavedGames>
+    <MinCompatibleSaveVersion>0</MinCompatibleSaveVersion>
+    <SupportsSinglePlayer>1</SupportsSinglePlayer>
+    <SupportsMultiplayer>1</SupportsMultiplayer>
+    <SupportsHotSeat>1</SupportsHotSeat>
+    <SupportsMac>1</SupportsMac>
+    <ReloadAudioSystem>1</ReloadAudioSystem>
+    <ReloadLandmarkSystem>0</ReloadLandmarkSystem>
+    <ReloadStrategicViewSystem>1</ReloadStrategicViewSystem>
+    <ReloadUnitSystem>1</ReloadUnitSystem>
+  </Properties>
+  <Dependencies />
+  <References>
+    <Mod id="36e88483-48fe-4545-b85f-bafc50dde315" minversion="0" maxversion="999" title="Y(n)AEMP" />
+    <Mod id="d1b6328c-ff44-4b0d-aad7-c657f83610cd" minversion="0" maxversion="999" title="Com. Patch" />
+    <Mod id="31a31d1c-b9d7-45e1-842c-23232d66cd47" minversion="0" maxversion="999" title="Cultural Diversity" />
+    <Mod id="eea66053-7579-481a-bb8d-2f3959b59974" minversion="0" maxversion="999" title="Rise to Power" />
+    <Mod id="e576894a-ed2b-4033-be14-ed1c8ceb81d3" minversion="0" maxversion="999" title="Map Labels" />
+    <Mod id="1153b26a-69fd-4cd5-899c-a8ba8e0e5e5d" minversion="0" maxversion="999" title="Civ 4 Leader Traits" />
+    <Mod id="eea66053-7579-481a-bb8d-2f3959b59974" minversion="0" maxversion="999" title="Piety and Prestige" />
+  </References>
+  <Blocks />
+  <Files>
+    <File md5="3718FDAEF176E54D30AAC1492D54B634" import="1">Art/Bark Mask.dds</File>
+    <File md5="B690E1F2092283AE4A0E0529D88A17D8" import="1">Art/chimu_scout.fxsxml</File>
+    <File md5="FD2DABA178D71BFDC4504AF0E6797EB8" import="1">Art/chimu_scout.gr2</File>
+    <File md5="53986AA1FFC198F5DE137B4985ADFE09" import="1">Art/Haalchinalpha32.dds</File>
+    <File md5="8DABADE1F2C845102B3A88EBDC6D52D2" import="1">Art/Haalchinalpha45.dds</File>
+    <File md5="7D460EA363CE187ED13622FDF5828FF9" import="1">Art/Haalchinalpha48.dds</File>
+    <File md5="2DB2CA2F0906AECABC7E22354A9B9770" import="1">Art/Haalchinalpha64.dds</File>
+    <File md5="63D050E6D078A75D4CA8E9E43D83D9E5" import="1">Art/HaalchinSV.dds</File>
+    <File md5="0DF2613E6AFA1FA1EBE7D056BB8CF01A" import="1">Art/haalchin_new_diff.dds</File>
+    <File md5="9C1D3010B4D00A64D3E843CC11C23BE3" import="1">Art/haalchin_sref.dds</File>
+    <File md5="96AEF1FEBBB7B6949FE83E583DCD7035" import="1">Art/Hain_ceremony.dds</File>
+    <File md5="2D13AE5DBD8BC5C59591FA5A808F78DA" import="1">Art/Hawitpin.dds</File>
+    <File md5="C67ED99394DB0A33731E545B078CFC30" import="1">Art/hoorn.dds</File>
+    <File md5="4DE9E6D1E092A776A6028B364DAF65D2" import="1">Art/jeprfonticon.dds</File>
+    <File md5="43059601DD7D411DDEE05594BB65EFEA" import="1">Art/KmalSV.dds</File>
+    <File md5="1A4130B9F05D5B99E36224CE97E0CB8A" import="1">Art/Paautin.dds</File>
+    <File md5="920EB21646954DC4F8DD2BEE34FA72A2" import="1">Art/Selknam map.dds</File>
+    <File md5="B7B31D987119114BD2FE8007B01C426B" import="1">Art/SELKNAM-PAMPAS_PROMOTION_ATLAS_128.dds</File>
+    <File md5="437B5C4F6B95A4C9C135485FA37997F5" import="1">Art/SELKNAM-PAMPAS_PROMOTION_ATLAS_24.dds</File>
+    <File md5="D1419BB6B4EB8F7C6733ED917B842F09" import="1">Art/SELKNAM-PAMPAS_PROMOTION_ATLAS_256.dds</File>
+    <File md5="EBEE959571AB201066B870568C51CFE2" import="1">Art/SELKNAM-PAMPAS_PROMOTION_ATLAS_32.dds</File>
+    <File md5="99E1738662FDB76B4FE68BAC4CAFBE9D" import="1">Art/SELKNAM-PAMPAS_PROMOTION_ATLAS_45.dds</File>
+    <File md5="1536B97ACF19D14890151F785A0CDE12" import="1">Art/SELKNAM-PAMPAS_PROMOTION_ATLAS_48.dds</File>
+    <File md5="2E49BE079C1801B6E76CCB11A9BFD2F8" import="1">Art/SELKNAM-PAMPAS_PROMOTION_ATLAS_64.dds</File>
+    <File md5="67FE684B2EAF0B07D1DCE148579D9CED" import="1">Art/SELKNAM-PAMPAS_PROMOTION_ATLAS_80.dds</File>
+    <File md5="28348EF7CF9B3F0F87D957E3D5A16345" import="1">Art/Selknamdiplo.dds</File>
+    <File md5="E2A0385C742C518E178A4A9BEF92D888" import="1">Art/SelknamDOM.dds</File>
+    <File md5="E3595071EFE8FB94D9492838D9060328" import="1">Art/SELKNAM_ALPHA_128.dds</File>
+    <File md5="CE52CCA20B34CD60325CF7FE1019D00B" import="1">Art/SELKNAM_ALPHA_24.dds</File>
+    <File md5="AAF5B2E272B4553F9BED29925BD12AA1" import="1">Art/SELKNAM_ALPHA_256.dds</File>
+    <File md5="853802196E684171C0D00D610788AD5A" import="1">Art/SELKNAM_ALPHA_32.dds</File>
+    <File md5="D2DEF507FD3B89134A690443C281D17A" import="1">Art/SELKNAM_ALPHA_45.dds</File>
+    <File md5="268875094B0E29BFF061FC43E93FB53F" import="1">Art/SELKNAM_ALPHA_48.dds</File>
+    <File md5="D3803AF222AEEFA1CAFD0659CA34EFD1" import="1">Art/SELKNAM_ALPHA_64.dds</File>
+    <File md5="6073810CF347E9C687E1199E8EFD218A" import="1">Art/SELKNAM_ALPHA_80.dds</File>
+    <File md5="FA919C5328E3017D08C7D83035EE5E99" import="1">Art/SELKNAM_ATLAS_128.dds</File>
+    <File md5="B9406988ED89059AA27366913997BC64" import="1">Art/SELKNAM_ATLAS_24.dds</File>
+    <File md5="280A1FAB2CF2EBF4215B2F19DE127CFF" import="1">Art/SELKNAM_ATLAS_256.dds</File>
+    <File md5="2E5573630F72E618C979A06FF39D985D" import="1">Art/SELKNAM_ATLAS_32.dds</File>
+    <File md5="1F557A66D441AF2BADB62B428D7153C2" import="1">Art/SELKNAM_ATLAS_45.dds</File>
+    <File md5="153504F0772335BB09EB448BE8F02886" import="1">Art/SELKNAM_ATLAS_64.dds</File>
+    <File md5="E535C8DB701F8365AD7A2D66BFA6EDFF" import="1">Art/SELKNAM_ATLAS_80.dds</File>
+    <File md5="D94D49C449CBAF9B6FEE87BA2979A29E" import="1">Art/soljen.dds</File>
+    <File md5="022231B35049161A2840C5B8F6C5A37E" import="1">Art/sorren.dds</File>
+    <File md5="999C43504B29CE608BC7961C61E7C9FD" import="1">Art/Spearman_Inca.dds</File>
+    <File md5="E5071A47105C703E83D42A4C6EE926ED" import="1">Art/Spearman_Inca.fxsxml</File>
+    <File md5="D5D298CFCE85773977DC66CD8BBB7075" import="1">Art/Spearman_Inca.gr2</File>
+    <File md5="86793FA3D516FD4D0B1B033C94276627" import="1">Art/Spearman_Inca_gloss.dds</File>
+    <File md5="58B594B35831127668464F8973557389" import="1">Art/ulichen.dds</File>
+    <File md5="86C1C3EDCE4699DE320A932C4E70E22C" import="0">LUA/CityInfoStack.lua</File>
+    <File md5="A7CCB7D45E2D3B21303FFFE9031B1136" import="0">LUA/Hain Hut Functions.lua</File>
+    <File md5="D63DC8BB6AA0F310DD55B264DB49C7E2" import="0">LUA/PlotIterators.lua</File>
+    <File md5="5754B1BE6E37A2F9D04D9D4149E5CDDF" import="0">LUA/SaveUtils.lua</File>
+    <File md5="37A37CC427B7D702BF6403A63D2D0C39" import="1">LUA/strict.lua</File>
+    <File md5="58C0B8176CB4B52D6298348E032BBDB6" import="0">LUA/Trait for Selk'nam.lua</File>
+    <File md5="C5A497C75932A4CF0D3239410F7D3DF1" import="1">Music/Selknampeace.mp3</File>
+    <File md5="3D9FD684ED85E808F057392E10748BBA" import="1">Music/Selknamwar.mp3</File>
+    <File md5="9A7C91D7FA32565EBC3F2C65A1DE0FFF" import="0">SQL/HaalchinArtDefines.sql</File>
+    <File md5="BE193441194C4CFB77A4DDC18787CE7B" import="1">SQL/Jepr.sql</File>
+    <File md5="E15B4975C720D167A56BF7E2630D8B24" import="0">SQL/K'mal Art Defines.sql</File>
+    <File md5="43B1A564DCF047FD88548A0DAA55D97F" import="0">SQL/Mod Support.sql</File>
+    <File md5="C4C75FC7A9AD7A7C0F0A244F9936DEB4" import="0">SQL/Selknam_ArtDefines.sql</File>
+    <File md5="A23789B7B5889B7FBA8D1829A1E914A2" import="1">SQL/Selknam_GameDefines.sql</File>
+    <File md5="A0644DED59F64B15DA82F84932B56A89" import="0">XML/Aein-Ain.xml</File>
+    <File md5="2CD97FCB49D68C66F473526A0A0B5CE4" import="0">XML/Aesthetic.xml</File>
+    <File md5="5C763895D0F2FEFAE8BB241AB2D9723A" import="0">XML/CBRXSelknamFixes.xml</File>
+    <File md5="E375AA4712324AF9566C1171F3C9D51F" import="0">XML/Civilization.xml</File>
+    <File md5="EF4F27A8C9AD1318E12C5BCC14B0CA51" import="0">XML/DiplomacyResponses.xml</File>
+    <File md5="AF4A9D7F4F60E34AA1B1CDE187BA3BE9" import="0">XML/DummyTundra.xml</File>
+    <File md5="84F8C21B0F66BB52C103ECE4F5A3DBAA" import="0">XML/GameText.xml</File>
+    <File md5="EB8FC7CE62712EA3F9EAC7A0A4310997" import="0">XML/Jepr.xml</File>
+    <File md5="575958F7C9F854D07905D51F458EF819" import="1">XML/Jepr_Fonticon.xml</File>
+    <File md5="D1A0854FE30C1CF808F794740E3B5BE1" import="1">XML/Jepr_fonticons.ggxml</File>
+    <File md5="895F3C74DDA4732112CF3BD4BAB153EE" import="0">XML/IconAtlas.xml</File>
+    <File md5="927B792A7027A43B716C292668A4B657" import="0">XML/Hain Hut.xml</File>
+    <File md5="1F2B3B4183CCC5F422D0D3C50DE6D789" import="0">XML/Kmal.xml</File>
+    <File md5="0B27C82EEA8CFB28BE9A0CF5A0129BFB" import="0">XML/Selknam Market.xml</File>
+    <File md5="5BA62DD885193E18329EFD82CFCA24C8" import="0">XML/Mod Support.xml</File>
+    <File md5="E58F2E16F36DF4E6CD946DB40915FD10" import="0">XML/Trait.xml</File>
+    <File md5="7C0BFED047409BB23D2A32A88E6EB984" import="1">XML/XoonScene.xml</File>
+    <File md5="178FC2EB477DDAF36FCB6F174C7B6F99" import="0">XML/YNAEMP.xml</File>
+  </Files>
+  <Actions>
+    <OnModActivated>
+      <UpdateDatabase>SQL/Jepr.sql</UpdateDatabase>
+      <UpdateDatabase>XML/Civilization.xml</UpdateDatabase>
+      <UpdateDatabase>XML/DiplomacyResponses.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Hain Hut.xml</UpdateDatabase>
+      <UpdateDatabase>XML/IconAtlas.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Jepr.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Trait.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Jepr_Fonticon.xml</UpdateDatabase>
+      <UpdateDatabase>XML/XoonScene.xml</UpdateDatabase>
+      <UpdateDatabase>XML/GameText.xml</UpdateDatabase>
+      <UpdateDatabase>SQL/Selknam_GameDefines.sql</UpdateDatabase>
+      <UpdateDatabase>XML/Aein-Ain.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Kmal.xml</UpdateDatabase>
+      <UpdateDatabase>SQL/Selknam_ArtDefines.sql</UpdateDatabase>
+      <UpdateDatabase>SQL/K'mal Art Defines.sql</UpdateDatabase>
+      <UpdateDatabase>SQL/HaalchinArtDefines.sql</UpdateDatabase>
+      <UpdateDatabase>XML/YNAEMP.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Mod Support.xml</UpdateDatabase>
+      <UpdateDatabase>SQL/Mod Support.sql</UpdateDatabase>
+      <UpdateDatabase>XML/Selknam Market.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Aesthetic.xml</UpdateDatabase>
+      <UpdateDatabase>XML/DummyTundra.xml</UpdateDatabase>
+      <UpdateDatabase>XML/CBRXSelknamFixes.xml</UpdateDatabase>
+    </OnModActivated>
+  </Actions>
+  <EntryPoints>
+    <EntryPoint type="InGameUIAddin" file="LUA/Hain Hut Functions.lua">
+      <Name>Hain Hut Func</Name>
+      <Description>HHF</Description>
+    </EntryPoint>
+    <EntryPoint type="InGameUIAddin" file="LUA/PlotIterators.lua">
+      <Name>PlotIterators</Name>
+      <Description>Whoward the Minion's masterpiece</Description>
+    </EntryPoint>
+    <EntryPoint type="InGameUIAddin" file="LUA/SaveUtils.lua">
+      <Name>Save Utils</Name>
+      <Description>Save Utils</Description>
+    </EntryPoint>
+    <EntryPoint type="InGameUIAddin" file="LUA/Trait for Selk'nam.lua">
+      <Name>Trait</Name>
+      <Description>Free</Description>
+    </EntryPoint>
+  </EntryPoints>
+</Mod>

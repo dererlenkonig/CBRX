@@ -1,0 +1,4796 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 7/7/2012 7:15:09 PM -->
+<GameData>
+
+	<!-- ToolTip-->
+	<Language_IT_IT>
+
+		<!--Obelisk-->
+		<Row Tag="TXT_KEY_BEL_ENL_OBE_SHORT">
+			<Text>Obelisco: Illuminazione</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BEL_ENL_OBE">
+			<Text>Usare [ICON_PEACE] Fede per l'acquisto di Obelisco: Illuminazione (2 [ICON_RESEARCH] Scienza, +2 [ICON_GREAT_PEOPLE] Grandi punti Scientist)</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILD_ENL_OBE">
+			<Text>Obelisco: Illuminazione</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILD_ENL_OBE_STRAT">
+			<Text>Può essere costruito solo in città a seguito di una religione con l'Obelisco: Illuminazione convinzione. Costruire questo edificio con l'acquisto con [ICON_PEACE] Fede</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BEL_WEA_OBE_SHORT">
+			<Text>Obelisco: Ricchezza</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BEL_WEA_OBE">
+			<Text>Usare [ICON_PEACE] La fede di acquistare ricchezza Obelisco (+2 [ICON_GOLD] Oro, 2 [ICON_GREAT_PEOPLE] Grandi punti Merchant)</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILD_WEA_OBE">
+			<Text>Obelisco: Ricchezza</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILD_WEA_OBE_STRAT">
+			<Text>Può essere costruito solo in città a seguito di una religione con l'Obelisco: Ricchezza convinzione. Costruire questo edificio con l'acquisto con [ICON_PEACE] Fede</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BEL_FER_OBE_SHORT">
+			<Text>Obelisco: Fervore</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BEL_FER_OBE">
+			<Text>Usare [ICON_PEACE] La fede di acquistare Fervore Obelisco (+2 [ICON_PRODUCTION] Produzione, + 2 [ICON_GREAT_PEOPLE] Grandi punti Ingegnere)</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILD_FER_OBE">
+			<Text>Obelisco: Fervore</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILD_FER_OBE_STRAT">
+			<Text>Può essere costruito solo in città a seguito di una religione con l'Obelisco: Fervore convinzione. Costruire questo edificio con l'acquisto con [ICON_PEACE] Fede</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BEL_CUL_OBE_SHORT">
+			<Text>Obelisco: Cultura</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BEL_CUL_OBE">
+			<Text>Usare [ICON_PEACE] Fede per l'acquisto di Cultura Obelisco (+2 [ICON_CULTURE] Cultura, +2 [ICON_TOURISM] Turismo)</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILD_CUL_OBE">
+			<Text>Obelisco: Cultura</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILD_CUL_OBE_STRAT">
+			<Text>Può essere costruito solo in città a seguito di una religione con l'Obelisco: Cultura convinzione. Costruire questo edificio con l'acquisto con [ICON_PEACE] Fede</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BEL_PIE_OBE_SHORT">
+			<Text>Obelisco: Pietà</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BEL_PIE_OBE">
+			<Text>Usare [ICON_PEACE] Fede per l'acquisto di Pietà Obelisco (+2 [ICON_PEACE] La fede, + 25% di pressione religioso della città.)</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILD_PIE_OBE">
+			<Text>Obelisco di Pietà</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILD_PIE_OBE_STRAT">
+			<Text>Può essere costruito solo in città a seguito di una religione con l'Obelisco: Pietà convinzione. Costruire questo edificio con l'acquisto con [ICON_PEACE] Fede</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILD_PIE_OBE_HELP">
+			<Text>+25% Della pressione religioso della città.</Text>
+		</Row>
+		<!-- Shrine enhancement -->
+
+		<Row Tag="TXT_KEY_BELIEF_ANC_CULTURE_SHORT">
+			<Text>Cultura Ancestrale</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_ANC_CULTURE">
+			<Text>+1 [ICON_CULTURE] Cultura dai Santuari </Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_ANC_FAITH_SHORT">
+			<Text>Devozione Ancestrale</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_ANC_FAITH">
+			<Text>+1 [ICON_PEACE] Fede dai Santuari </Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_ANC_FOOD_SHORT">
+			<Text>Abbondanza Ancestrale</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_ANC_FOOD">
+			<Text>+1 [ICON_FOOD] Cibo dai Santuari </Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_ANC_PROD_SHORT">
+			<Text>Operosita Ancestrale</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_ANC_PROD">
+			<Text>+1 [ICON_PRODUCTION] Produzione dai Santuari </Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_ANC_SCIENCE_SHORT">
+			<Text>Conoscenza Ancestrale</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_ANC_SCIENCE">
+			<Text>+1 [ICON_RESEARCH] Scienza dai Santuari </Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_ANC_HAPPY_SHORT">
+			<Text>Felicita Ancestrale</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_ANC_HAPPY">
+			<Text>+1 [ICON_HAPPINESS_1] Felicita dai Santuari in citta con 3 o piu seguaci </Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_ANC_GOLD_SHORT">
+			<Text>Prosperita Ancestrale</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_ANC_GOLD">
+			<Text>+1 [ICON_GOLD] Oro dai Santuari </Text>
+		</Row>
+
+		<!-- City Enhancement 10 min pop -->
+
+		<Row Tag="TXT_KEY_BELIEF_GOD_CULTURE_SHORT">
+			<Text>Dea della Cultura</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_GOD_CULTURE">
+			<Text>+3 [ICON_CULTURE] Cultura in citta con 10 o piu [ICON_CITIZEN] Abitanti </Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_GOD_FAITH_SHORT">
+			<Text>Dio della Disciplina</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_GOD_FAITH">
+			<Text>+3 [ICON_PEACE] Fede in citta con 10 o piu [ICON_CITIZEN] Abitanti </Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_GOD_FOOD_SHORT">
+			<Text>Dea dell'Abbondanza</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_GOD_FOOD">
+			<Text>+3 [ICON_FOOD] Cibo in citta con 10 o piu [ICON_CITIZEN] Abitanti </Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_GOD_PROD_SHORT">
+			<Text>Dio del Lavoro</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_GOD_PROD">
+			<Text>+3 [ICON_PRODUCTION] Produzione in citta con 10 o piu [ICON_CITIZEN] Abitanti </Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_GOD_SCIENCE_SHORT">
+			<Text>Dea della Conoscenza</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_GOD_SCIENCE">
+			<Text>+3 [ICON_RESEARCH] Scienza in citta con 10 o piu [ICON_CITIZEN] Abitanti </Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_GOD_HAPPY_SHORT">
+			<Text>Dio delle Feste</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_GOD_HAPPY">
+			<Text>+2 [ICON_HAPPINESS_1] Felicita in citta con 10 o piu [ICON_CITIZEN] Abitanti </Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_GOD_GOLD_SHORT">
+			<Text>Dea della Prosperita</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_GOD_GOLD">
+			<Text>+3 [ICON_GOLD] Oro in citta con 10 o piu [ICON_CITIZEN] Abitanti </Text>
+		</Row>
+
+		<!-- City Enhancement 3 min Follower -->
+
+		<Row Tag="TXT_KEY_BELIEF_AVA_CULTURE_SHORT">
+			<Text>Avatar della Cultura</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_AVA_CULTURE">
+			<Text>+1 [ICON_CULTURE] Cultura in citta con 3 o piu [ICON_CITIZEN] Abitanti </Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_AVA_FAITH_SHORT">
+			<Text>Avatar della Disciplina</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_AVA_FAITH">
+			<Text>+1 [ICON_PEACE] Fede  in citta con 3 o piu [ICON_CITIZEN] Abitanti </Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_AVA_FOOD_SHORT">
+			<Text>Avatar dell'Abbondanza</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_AVA_FOOD">
+			<Text>+1 [ICON_FOOD] Cibo  in citta con 3 o piu [ICON_CITIZEN] Abitanti </Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_AVA_PROD_SHORT">
+			<Text>Avatar del Lavoro</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_AVA_PROD">
+			<Text>+1 [ICON_PRODUCTION] Produzione  in citta con 3 o piu [ICON_CITIZEN] Abitanti </Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_AVA_SCIENCE_SHORT">
+			<Text>Avatar della Conoscenza</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_AVA_SCIENCE">
+			<Text>+1 [ICON_RESEARCH] Scienza  in citta con 3 o piu [ICON_CITIZEN] Abitanti </Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_AVA_HAPPY_SHORT">
+			<Text>Avatar della Gioia</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_AVA_HAPPY">
+			<Text>+1 [ICON_HAPPINESS_1] Felicita in citta con 5 o piu [ICON_CITIZEN] Abitanti </Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_AVA_GOLD_SHORT">
+			<Text>Avatar della Prosperita</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_AVA_GOLD">
+			<Text>+1 [ICON_GOLD] Oro in citta con 3 o piu [ICON_CITIZEN] Abitanti </Text>
+		</Row>
+
+		<!-- Feature And terrain -->
+
+		<Row Tag="TXT_KEY_SAC_ATOLL_CULTURE_SHORT">
+			<Text>Cultura del Mare</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SAC_ATOLL_CULTURE">
+			<Text>+2 [ICON_CULTURE] Cultura dagli Atolli</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SAC_MARSH_CULTURE_SHORT">
+			<Text>Cultura della Palude</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SAC_MARSH_CULTURE">
+			<Text>+1 [ICON_CULTURE] dalle Paludi</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SAC_JUNGLE_CULTURE_SHORT">
+			<Text>Cultura della Giungla</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SAC_JUNGLE_CULTURE">
+			<Text>+1 [ICON_CULTURE] Cultura dalle Giungle</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SAC_OASIS_CULTURE_SHORT">
+			<Text>Cultura dell'Oasi</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SAC_OASIS_CULTURE">
+			<Text>+2 [ICON_CULTURE] Cultura dalle Oasi</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SAC_DESERT_CULTURE_SHORT">
+			<Text>Cultura del Deserto</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SAC_DESERT_CULTURE">
+			<Text>+1 [ICON_CULTURE] Cultura dai Deserti</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SAC_TUNDRA_CULTURE_SHORT">
+			<Text>Cultura della Steppa</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SAC_TUNDRA_CULTURE">
+			<Text>+1 [ICON_CULTURE] Cultura dalla Tundra</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SAC_SNOW_CULTURE_SHORT">
+			<Text>Cultura della Neve</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SAC_SNOW_CULTURE">
+			<Text>+1 [ICON_CULTURE] Cultura dalla Neve</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SAC_ATOLL_SCIENCE_SHORT">
+			<Text>Atollo Illuminante</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SAC_ATOLL_SCIENCE">
+			<Text>+2 [ICON_RESEARCH] Scienza dagli Atolli</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SAC_MARSH_SCIENCE_SHORT">
+			<Text>Palude Illuminante</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SAC_MARSH_SCIENCE">
+			<Text>+1 [ICON_RESEARCH] Scienza dalle Paludi</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SAC_JUNGLE_SCIENCE_SHORT">
+			<Text>Giungla Illuminante</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SAC_JUNGLE_SCIENCE">
+			<Text>+1 [ICON_RESEARCH] Scienza dalle Giungle</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SAC_OASIS_SCIENCE_SHORT">
+			<Text>Oasi Illuminante</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SAC_OASIS_SCIENCE">
+			<Text>+2 [ICON_RESEARCH] Scienza dalle Oasi</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SAC_DESERT_SCIENCE_SHORT">
+			<Text>Deserto Illuminante</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SAC_DESERT_SCIENCE">
+			<Text>+1 [ICON_RESEARCH] Scienza dai Deserti</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SAC_TUNDRA_SCIENCE_SHORT">
+			<Text>Steppa Illuminante</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SAC_TUNDRA_SCIENCE">
+			<Text>+1 [ICON_RESEARCH] Scienza dalla Tundra</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SAC_SNOW_SCIENCE_SHORT">
+			<Text>Neve Illuminante</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SAC_SNOW_SCIENCE">
+			<Text>+1 [ICON_RESEARCH] Scienza dalla Neve</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SAC_ATOLL_FAITH_SHORT">
+			<Text>Atolli Sacri</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SAC_ATOLL_FAITH">
+			<Text>+2 [ICON_PEACE] Fede dagli Atolli</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SAC_MARSH_FAITH_SHORT">
+			<Text>Paludi Sacre</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SAC_MARSH_FAITH">
+			<Text>+1 [ICON_PEACE] Fede dalle Paludi</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SAC_JUNGLE_FAITH_SHORT">
+			<Text>Giungle Sacre</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SAC_JUNGLE_FAITH">
+			<Text>+1 [ICON_PEACE] Fede dalle Giungle</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SAC_OASIS_FAITH_SHORT">
+			<Text>Oasi Sacre</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SAC_OASIS_FAITH">
+			<Text>+2 [ICON_PEACE] Fede dalle Oasi</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SAC_DESERT_FAITH_SHORT">
+			<Text>Deserti Sacri</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SAC_DESERT_FAITH">
+			<Text>+1 [ICON_PEACE] Fede dai Deserti</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SAC_TUNDRA_FAITH_SHORT">
+			<Text>Steppa Sacra</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SAC_TUNDRA_FAITH">
+			<Text>+1 [ICON_PEACE] Fede dalla Tundra</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SAC_SNOW_FAITH_SHORT">
+			<Text>Neve Sacra</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SAC_SNOW_FAITH">
+			<Text>+1 [ICON_PEACE] Fede dalla Neve</Text>
+		</Row>
+
+		<!-- Holy War -->
+
+		<Row Tag="TXT_KEY_BELIEF_FAITH_HEALER_SHORT">
+			<Text>Guaritore della Fede</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_FAITH_HEALER">
+			<Text>+30 PS recuperati al turno vicino ad una Citta amica che segue questa Religione </Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_FAITH_DEFENDER_SHORT">
+			<Text>Difensore della Fede</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_FAITH_DEFENDER">
+			<Text>+20% [ICON_STRENGTH] Forza di Combattimento vicino ad una Citta amica che segue questa Religione </Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_FAITH_CRUSADER_SHORT">
+			<Text>Crociata</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_FAITH_CRUSADER">
+			<Text>+20% [ICON_STRENGTH] Forza di Combattimento vicino ad una citta nemica che segue questa Religione </Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_FAITH_ZEALOT_SHORT">
+			<Text>Zelotismo</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_FAITH_ZEALOT">
+			<Text>Guadagni [ICON_PEACE] Fede ogni volta che uccidi un nemico </Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_FAITH_TEMPLAR_SHORT">
+			<Text>Santi Guerrieri</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_FAITH_TEMPLAR">
+			<Text>Usa la [ICON_PEACE] Fede per acquistare unita terrestri di epoca pre-industriale </Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_FAITH_FORTRESS_SHORT">
+			<Text>Fortezza della Fede</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_FAITH_FORTRESS">
+			<Text>+30% [ICON_RANGE_STRENGTH] Forza degli Attacchi a Distanza delle citta </Text>
+		</Row>
+
+		<!-- % Yields and %Growth  -->
+
+		<Row Tag="TXT_KEY_BELIEF_RELIGIOUS_ABUNDANCE_SHORT">
+			<Text>Abbondanza Religiosa</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_RELIGIOUS_ABUNDANCE">
+			<Text>+1% [ICON_FOOD] Cibo per ogni Seguace (max +15%) </Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_RELIGIOUS_LABOR_SHORT">
+			<Text>Manodopera Religosa</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_RELIGIOUS_LABOR">
+			<Text>+1% [ICON_PRODUCTION] Produzione per ogni seguace (max +15%) </Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_RELIGIOUS_ENLIGHT_SHORT">
+			<Text>Monaci Scienziati</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_RELIGIOUS_ENLIGHT">
+			<Text>+1% [ICON_RESEARCH] Scienza per ogni Seguace (max +15%) </Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_RELIGIOUS_WEALTH_SHORT">
+			<Text>Prosperita Religiosa</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_RELIGIOUS_WEALTH">
+			<Text>+1% [ICON_GOLD] Oro per ogni Seguace (max +15%) </Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_RELIGIOUS_CUL_SHORT">
+			<Text>Cultura Religiosa</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_RELIGIOUS_CUL">
+			<Text>Del confine Crescita piu veloce del 15%</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_REL_FERT_SHORT">
+			<Text>Riti di Fertilita</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_REL_FERT">
+			<Text>[ICON_CITIZEN] Crescita piu veloce del 10% </Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_REL_MIS_SHORT">
+			<Text>Le spade diventano aratri</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_REL_MIS">
+			<Text> [ICON_CITIZEN] Crescita piu veloce del 15% in tempo di pace </Text>
+		</Row>
+
+		<!-- Yields Per city/Foreign City -->
+
+		<Row Tag="TXT_KEY_BELIEF_PILGRIM_CULTURE_SHORT">
+			<Text>Cultura dei Pellegrini</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_PILGRIM_CULTURE">
+			<Text>+1 [ICON_CULTURE] Cultura per ogni citta straniera che segue questa Religione </Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_PILGRIM_FAITH_SHORT">
+			<Text>Pellegrinaggio</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_PILGRIM_FAITH">
+			<Text>+2 [ICON_PEACE] Fede per ogni citta straniera che segue questa Religione </Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_CHURCH_GOLD_SHORT">
+			<Text>Ricchezze della Chiesa</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_CHURCH_GOLD">
+			<Text>+2 [ICON_GOLD] Oro per ogni citta che segue questa religione </Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_CHURCH_HAPPY_SHORT">
+			<Text>Generosita della Chiesa</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_CHURCH_HAPPY">
+			<Text>+1 [ICON_HAPPINESS_1] Felicita per ogni 2 citta che segue questa religione </Text>
+		</Row>
+
+		<!-- Yields Per Luxury Res -->
+
+		<Row Tag="TXT_KEY_BELIEF_FEST_TAILOR_SHORT">
+			<Text>Offerte: Tessuti</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_FEST_TAILOR">
+			<Text>+1 [ICON_CULTURE] Cultura e +1 [ICON_PEACE] Fede da [ICON_RES_FUR] e [ICON_RES_COTTON] </Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_FEST_SEA_SHORT">
+			<Text>Offerte: Pescato</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_FEST_SEA">
+			<Text>+1 [ICON_CULTURE] Cultura e +1 [ICON_PEACE] Fede da [ICON_RES_WHALE] e [ICON_RES_CRAB] </Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_FEST_JEW_SHORT">
+			<Text>Offerte: Gioielli</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_FEST_JEW">
+			<Text>+1 [ICON_CULTURE] Cultura e +1 [ICON_PEACE] Fede da [ICON_RES_PEARLS] e [ICON_RES_GEMS] </Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_FEST_RICH_SHORT">
+			<Text>Offerte: Ricchezze</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_FEST_RICH">
+			<Text>+1 [ICON_CULTURE] Cultura and +1 [ICON_PEACE] Fede da [ICON_RES_GOLD] e [ICON_RES_SILVER] </Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_FEST_ORI_SHORT">
+			<Text>Offerte: Prodotti Orientali</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_FEST_ORI">
+			<Text>+1 [ICON_CULTURE] Cultura and +1 [ICON_PEACE] Fede da [ICON_RES_SILK] e [ICON_RES_DYE] </Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_FEST_SPI_SHORT">
+			<Text>Offerte: Spezie</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_FEST_SPI">
+			<Text>+1 [ICON_CULTURE] Cultura and +1 [ICON_PEACE] Fede da [ICON_RES_SPICES]e [ICON_RES_SALT] </Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_FEST_GOR_SHORT">
+			<Text>Offerte: Prelibatezze</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_FEST_GOR">
+			<Text>+1 [ICON_CULTURE] Cultura e +1 [ICON_PEACE] Fede da [ICON_RES_SUGAR] e [ICON_RES_TRUFFLES] </Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_FEST_RIT_SHORT">
+			<Text>Offerte: Rituali</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_FEST_RIT">
+			<Text>+1 [ICON_CULTURE] Cultura e +1 [ICON_PEACE] Fede da [ICON_RES_WINE] e [ICON_RES_INCENSE] </Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_FEST_STA_SHORT">
+			<Text>Offerte: Statue</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_FEST_STA">
+			<Text>+1 [ICON_CULTURE] Cultura e +1 [ICON_PEACE] Fede da [ICON_RES_MARBLE] e [ICON_RES_COPPER] </Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_FEST_EXO_SHORT">
+			<Text>Offerte: Rarita</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_FEST_EXO">
+			<Text>+1 [ICON_CULTURE] Cultura e +1 [ICON_PEACE] Fede da [ICON_RES_CITRUS] e [ICON_RES_IVORY] </Text>
+		</Row>
+
+		<!-- Yields Per Improvement -->
+
+		<Row Tag="TXT_KEY_BELIEF_PRA_QUA_FOOD_SHORT">
+			<Text>Pietre Benedette: Fertilita</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_PRA_QUA_FOOD">
+			<Text>+1 [ICON_FOOD] Cibo dalle Cave </Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_PRA_QUA_PROD_SHORT">
+			<Text>Pietre Benedette: Fervore</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_PRA_QUA_PROD">
+			<Text>+1 [ICON_PRODUCTION] Produzione dalle Cave </Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_PRA_QUA_GOLD_SHORT">
+			<Text>Pietre Benedette: Prosperita</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_PRA_QUA_GOLD">
+			<Text>+1 [ICON_GOLD] Oro dalle Cave  </Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_PRA_CAM_FOOD_SHORT">
+			<Text>Caccia Benedetta: Abbondanza</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_PRA_CAM_FOOD">
+			<Text>+1 [ICON_FOOD] Cibo dai Campi </Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_PRA_CAM_PROD_SHORT">
+			<Text>Caccia Benedetta: Fervore</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_PRA_CAM_PROD">
+			<Text>+1 [ICON_PRODUCTION] Produzione dai Campi </Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_PRA_CAM_GOLD_SHORT">
+			<Text>Caccia Benedetta: Prosperita</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_PRA_CAM_GOLD">
+			<Text>+1 [ICON_GOLD] Oro dai Campi </Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_PRA_PAS_FOOD_SHORT">
+			<Text>Pastorizia Benedetta: Abbondanza</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_PRA_PAS_FOOD">
+			<Text>+1 [ICON_FOOD] Cibo dai Pascoli </Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_PRA_PAS_PROD_SHORT">
+			<Text>Pastorizia Benedetta: Fervore</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_PRA_PAS_PROD">
+			<Text>+1 [ICON_PRODUCTION] Produzione dai Pascoli </Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_PRA_PAS_GOLD_SHORT">
+			<Text>Pastorizia Benedetta: Prosperita</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_PRA_PAS_GOLD">
+			<Text>+1 [ICON_GOLD] Oro dai Pascoli </Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_PRA_SUN_FOOD_SHORT">
+			<Text>Agricoltura Benedetta: Sole</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_PRA_SUN_FOOD">
+			<Text>+1 [ICON_FOOD] Cibo dai [ICON_RES_BANANA] [ICON_RES_WHEAT] [ICON_RES_CITRUS]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_PRA_PLA_FOOD_SHORT">
+			<Text>Agricoltura Benedetta: Abbondanza</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_PRA_PLA_FOOD">
+			<Text>+1 [ICON_FOOD] Cibo dai Pascoli </Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_PRA_PLA_PROD_SHORT">
+			<Text>Agricoltura Benedetta: Fervore</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_PRA_PLA_PROD">
+			<Text>+1 [ICON_PRODUCTION] Produzione dalle Piantagioni </Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_PRA_PLA_GOLD_SHORT">
+			<Text>Agricoltura Benedetta: Prosperita</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_PRA_PLA_GOLD">
+			<Text>+1 [ICON_GOLD] Oro dalle Piantagioni </Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_PRA_FISH_FOOD_SHORT">
+			<Text>Pesca Benedetta: Abbondanza</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_PRA_FISH_FOOD">
+			<Text>+1 [ICON_FOOD] Cibo dai Pescherecci </Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_PRA_FISH_PROD_SHORT">
+			<Text>Pesca Benedetta: Fervore</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_PRA_FISH_PROD">
+			<Text>+1 [ICON_PRODUCTION] Produzione dai Pescherecci </Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_PRA_FISH_GOLD_SHORT">
+			<Text>Pesca Benedetta: Prosperita</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_PRA_FISH_GOLD">
+			<Text>+1 [ICON_GOLD] Oro dai Pescherecci </Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_PRA_MINE_FOOD_SHORT">
+			<Text>Estrazione Benedetta: Abbondanza</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_PRA_MINE_FOOD">
+			<Text>+1 [ICON_FOOD] Cibo da: [ICON_RES_COPPER], [ICON_RES_IRON], [ICON_RES_GOLD], [ICON_RES_SILVER], [ICON_RES_ALUMINUM], [ICON_RES_SALT], [ICON_RES_GEMS] </Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_PRA_MINE_PROD_SHORT">
+			<Text>Estrazione Benedetta: Fervore</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_PRA_MINE_PROD">
+			<Text>+1 [ICON_PRODUCTION] Produzione da: [ICON_RES_COPPER], [ICON_RES_IRON], [ICON_RES_GOLD], [ICON_RES_SILVER], [ICON_RES_ALUMINUM], [ICON_RES_SALT], [ICON_RES_GEMS] </Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_PRA_MINE_GOLD_SHORT">
+			<Text>Estrazione Benedetta: Prosperita</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_PRA_MINE_GOLD">
+			<Text>+1 [ICON_GOLD] Oro da: [ICON_RES_COPPER], [ICON_RES_IRON], [ICON_RES_GOLD], [ICON_RES_SILVER], [ICON_RES_ALUMINUM], [ICON_RES_SALT], [ICON_RES_GEMS]  </Text>
+		</Row>
+
+
+		<!-- Yields Per Great Improvement -->
+
+		<Row Tag="TXT_KEY_BELIEF_PIOGP_GEN_SHORT">
+			<Text>Esercito pio</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_PIOGP_GEN">
+			<Text>+2 [ICON_PEACE] Fede da Cittadelle, +1 [ICON_PEACE] Fede da Caserma</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_PIOGP_ENG_1_SHORT">
+			<Text>Commercianti pio</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_PIOGP_ENG_1">
+			<Text>Convertire 2 [ICON_PEACE] Fede da Luoghi Santi in 3 [ICON_GOLD] Oro</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_PIOGP_ENG_2_SHORT">
+			<Text>Scienziato pio</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_PIOGP_ENG_2">
+			<Text>Convertire 2 [ICON_PEACE] Fede da Luoghi Santi in 4 [ICON_RESEARCH] Scienza</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_PIOGP_ENG_3_SHORT">
+			<Text>Artista pio</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_PIOGP_ENG_3">
+			<Text>Convertire 2 [ICON_PEACE] Fede da Luoghi Santi in 3 [ICON_CULTURE] Cultura</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_PIOGP_ENG_4_SHORT">
+			<Text>Lavoratore pio</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_PIOGP_ENG_4">
+			<Text>Convertire 2 [ICON_PEACE] Fede da Luoghi Santi in 3 [ICON_PRODUCTION] Produzione</Text>
+		</Row>
+
+		<!-- Yields Per trade Route -->
+
+		<Row Tag="TXT_KEY_BELIEF_TRAV_SCI_SHORT">
+			<Text>Scambi Scientifici</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_TRAV_SCI">
+			<Text>+2 [ICON_RESEARCH] Scienza in città con una [ICON_CONNECTED] collegamento città</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_TRAV_CUL_SHORT">
+			<Text>Scambi Culturali</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_TRAV_CUL">
+			<Text>+2 [ICON_CULTURE] Cultura in città con una [ICON_CONNECTED] collegamento città</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_TRAV_FAI_SHORT">
+			<Text>Scambi Interreligiosi</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_TRAV_FAI">
+			<Text>+2 [ICON_PEACE] Fede in città con una [ICON_CONNECTED] collegamento città</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_TRAV_FOOD_SHORT">
+			<Text>Offerte di Viaggio</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_TRAV_FOOD">
+			<Text>+2 [ICON_FOOD] Cibo in città con una [ICON_CONNECTED] collegamento città</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_TRAV_PROD_SHORT">
+			<Text>Manodopera Itinerante</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_TRAV_PROD">
+			<Text>+2 [ICON_PRODUCTION] Produzione in città con una [ICON_CONNECTED] collegamento città</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_TRAV_GOLD_SHORT">
+			<Text>Donazioni di Viaggio</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_TRAV_GOLD">
+			<Text>+2 [ICON_GOLD] Oro in città con una [ICON_CONNECTED] collegamento città</Text>
+		</Row>
+
+		<!-- Yields Per Natural Wonder -->
+
+		<Row Tag="TXT_KEY_BELIEF_NATURAL_SCI_SHORT">
+			<Text>Scienza Naturale</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_NATURAL_SCI">
+			<Text>+4 [ICON_RESEARCH] Scienza dalle Meraviglie Naturali</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_NATURAL_CUL_SHORT">
+			<Text>Cultura Naturale</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_NATURAL_CUL">
+			<Text>+4 [ICON_CULTURE] Cultura dalle Meraviglie Naturali</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_NATURAL_FAI_SHORT">
+			<Text>Comunanza con la Natura</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_NATURAL_FAI">
+			<Text>+4 [ICON_PEACE] Fede dalle Meraviglie Naturali</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_NATURAL_FOOD_SHORT">
+			<Text>Abbondanza Naturale</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_NATURAL_FOOD">
+			<Text>+4 [ICON_FOOD] Cibo dalle Meraviglie Naturali</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_NATURAL_PROD_SHORT">
+			<Text>Lavoro Naturale</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_NATURAL_PROD">
+			<Text>+4 [ICON_PRODUCTION] Produzione dalle Meraviglie Naturali</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_NATURAL_GOLD_SHORT">
+			<Text>Ricchezze Naturali</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_NATURAL_GOLD">
+			<Text>+4 [ICON_GOLD] Oro dalle Meraviglie Naturali</Text>
+		</Row>
+
+		<!-- Yields Per World Wonder -->
+
+		<Row Tag="TXT_KEY_BELIEF_WOND_SCI_SHORT">
+			<Text>Icone: Scienza</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_WOND_SCI">
+			<Text>Ogni Grande Meraviglia da +2 [ICON_RESEARCH] Scienza nella citta </Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_WOND_CUL_SHORT">
+			<Text>Icone: Cultura</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_WOND_CUL">
+			<Text>Ogni Grande Meraviglia da  +2 [ICON_CULTURE] Cultura nella citta </Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_WOND_FAI_SHORT">
+			<Text>Icone: Fede</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_WOND_FAI">
+			<Text>Ogni Grande Meraviglia da +2 [ICON_PEACE] Fede nella citta </Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_WOND_FOOD_SHORT">
+			<Text>Icone : Abbondanza</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_WOND_FOOD">
+			<Text>Ogni Grande Meraviglia da  +1 [ICON_FOOD] Cibo nella citta </Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_WOND_PROD_SHORT">
+			<Text>Icone: Lavoro</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_WOND_PROD">
+			<Text>Ogni Grande Meraviglia da  +1 [ICON_PRODUCTION] Produzione nella citta </Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_WOND_GOLD_SHORT">
+			<Text>Icone : Idoli</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_WOND_GOLD">
+			<Text>Ogni Grande Meraviglia da  +2 [ICON_GOLD] Oro nella citta </Text>
+		</Row>
+
+		<!-- Yields Per Temple / Wonder Construct % -->
+
+		<Row Tag="TXT_KEY_BELIEF_MON_SCI_SHORT">
+			<Text>Monumento alla Scienza</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_MON_SCI">
+			<Text>+2 [ICON_RESEARCH] Scienza dai Templi </Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_MON_CUL_SHORT">
+			<Text>Monumento alla Cultura</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_MON_CUL">
+			<Text>+2 [ICON_CULTURE] Cultura dai Templi </Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_MON_FOOD_SHORT">
+			<Text>Monumento all'Abbondanza</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_MON_FOOD">
+			<Text>+2 [ICON_FOOD] Cibo dai Templi </Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_MON_PROD_SHORT">
+			<Text>Monumento alla Fatica</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_MON_PROD">
+			<Text>+2 [ICON_PRODUCTION] Produzione dai Templi </Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_MON_GOLD_SHORT">
+			<Text>Monumento alla Prosperita</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_MON_GOLD">
+			<Text>+2 [ICON_GOLD] Oro dai Templi </Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_MON_HAPPY_SHORT">
+			<Text>Monumento alla Gioia</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_MON_HAPPY">
+			<Text>+2 [ICON_HAPPINESS_1] Felicita dai Templi in Citta con 5 Fedeli </Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_MON_WOND_SHORT">
+			<Text>Monumento agli Dei</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_MON_WOND">
+			<Text>+15% alla [ICON_PRODUCTION] Produzione di Meraviglie Antiche e Classiche</Text>
+		</Row>
+
+		<!-- Yields if city has Specialist -->
+
+		<Row Tag="TXT_KEY_BELIEF_GURU_SCI_SHORT">
+			<Text>Guru Illuminato</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_GURU_SCI">
+			<Text>+2 [ICON_RESEARCH] Scienza se la citta ha uno specialista </Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_GURU_CUL_SHORT">
+			<Text>Guru Acculturato</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_GURU_CUL">
+			<Text>+2 [ICON_CULTURE] Cultura se la citta ha uno specialista </Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_GURU_FAI_SHORT">
+			<Text>Guru-Apostolo</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_GURU_FAI">
+			<Text>+2 [ICON_PEACE] Fede se la citta ha uno specialista  </Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_GURU_FOOD_SHORT">
+			<Text>Guru Caritatevole</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_GURU_FOOD">
+			<Text>+2 [ICON_FOOD] Cibo se la citta ha uno specialista </Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_GURU_PROD_SHORT">
+			<Text>Guru Laborioso</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_GURU_PROD">
+			<Text>+2 [ICON_PRODUCTION] Produzione se la citta ha uno specialista </Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_GURU_GOLD_SHORT">
+			<Text>Guru Mercante</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_GURU_GOLD">
+			<Text>+2 [ICON_GOLD] Oro se la citta ha uno specialista </Text>
+		</Row>
+
+		<!-- Gold or science on conversion or City State Resting -->
+
+		<Row Tag="TXT_KEY_BELIEF_INTER_SCI_SHORT">
+			<Text>Conoscenze Straniere</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_INTER_SCI">
+			<Text>Guadagni [ICON_RESEARCH] Scienza quando un missionario diffonde la Religione in una citta con una Religione diversa </Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_INTER_GOLD_SHORT">
+			<Text>Riti di Iniziazione</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_INTER_GOLD">
+			<Text>Guadagni 100 [ICON_GOLD] Oro quando una citta si converte per la prima volta alla tua Religione </Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_INTER_FOLLOWERS_SHORT">
+			<Text>Primato del Papa</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_INTER_FOLLOWERS">
+			<Text>+15 di [ICON_INFLUENCE] Influenza minima sulle Citta Stato con la tua stessa Religione </Text>
+		</Row>
+
+		<!-- Special Building -->
+
+		<Row Tag="TXT_KEY_BELIEF_CONS_CATHEDRALS_SHORT">
+			<Text>Costruzione: Cattedrali</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_CONS_CATHEDRALS">
+			<Text>Usa [ICON_PEACE] Fede per acquistare cattedrali (+1 [ICON_PEACE] Fede, +1 [ICON_CULTURE] Cultura, +1 [ICON_HAPPINESS_1] Felicita, Grande opera di slot di arte) </Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_CONS_MOSQUES_SHORT">
+			<Text>Costruzione: Moschee</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_CONS_MOSQUES">
+			<Text>Usa [ICON_PEACE] Fede per acquistare Moschee (+3 [ICON_PEACE] Fede, +2 [ICON_CULTURE] Cultura, +1 [ICON_HAPPINESS_1] Felicita) </Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_CONS_PAGODAS_SHORT">
+			<Text>Costruzione: Pagode</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_CONS_PAGODAS">
+			<Text>Usa [ICON_PEACE] Fede per acquistare pagode (+2 [ICON_PEACE] Fede, +2 [ICON_CULTURE] Cultura, +2 [ICON_HAPPINESS_1] Felicita) </Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_CONS_MONASTERIES_SHORT">
+			<Text>Costruzione: Monasteri</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_CONS_MONASTERIES">
+			<Text>Usa [ICON_PEACE] Fede per acquistare Monasteri (+2 [ICON_PEACE] Fede, +2 [ICON_CULTURE] Cultura, piu con [ICON_RES_WINE] o [ICON_RES_INCENSE] ) </Text>
+		</Row>
+
+		<!-- Yield per foreign follower not at war -->
+		<!-- Yield per Foreign follower -->
+		<!-- Yield per follower -->
+
+		<Row Tag="TXT_KEY_BELIEF_APO_PEACE_SHORT">
+			<Text>Amanti della Pace</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_APO_PEACE">
+			<Text>+1 [ICON_HAPPINESS_1] Felicita per ogni 6 Seguaci della tua Religione in citta straniere non nemiche </Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_APO_CUL_SHORT">
+			<Text>Apostoli della Cultura</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_APO_CUL">
+			<Text>+1 [ICON_CULTURE] Cultura per ogni 5 Seguaci di questa Religione in altre Civilta </Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_APO_OPU_SHORT">
+			<Text>Apostoli della Ricchezza</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_APO_OPU">
+			<Text>+1 [ICON_GOLD] Oro per ogni 4 Seguaci di questa Religione </Text>
+		</Row>
+
+		<!-- Grouped Vanilla Enhancers -->
+
+		<Row Tag="TXT_KEY_BELIEF_HOLY_ORDERS_SHORT">
+			<Text>Ordine Sacro</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_HOLY_ORDERS">
+			<Text>I Missionari e gli Inquisitori costano il 30% di [ICON_PEACE] Fede in meno </Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_HOLY_PREACHERS_SHORT">
+			<Text>Predicatori Itineranti</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_HOLY_PREACHERS">
+			<Text>La raligione si diffonde in citta a distanza del 30% maggiore </Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_HOLY_MESSIAH_SHORT">
+			<Text>Messia</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_HOLY_MESSIAH">
+			<Text>I Grandi Profeti sono il 25% piu forti e acquistati con il 25% di [ICON_PEACE] Fede in meno </Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_HOLY_MISSIONARY_SHORT">
+			<Text>Santi Missionari</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_HOLY_MISSIONARY">
+			<Text>+25% alla forza di conversione dei Missionari </Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_HOLY_MESSENGER_SHORT">
+			<Text>Messaggero di Dio</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_HOLY_MESSENGER">
+			<Text>La religione si diffonde nelle citta-stato amiche con velocita doppia</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_HOLY_TEXTS_SHORT">
+			<Text>Testi Religiosi</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_HOLY_TEXTS">
+			<Text>La religione si diffonde il 35% piu in fretta.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_HOLY_MARTYR_SHORT">
+			<Text>Santo Martire</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_HOLY_MARTYR">
+			<Text>Guadagni 50 [ICON_PEACE] Fede ogni volta che un [ICON_GREAT_PEOPLE] Grande Personaggio e consumato </Text>
+		</Row>
+
+		<!-- Rulership: Yield per Building PALACE vs Granary -->
+		<Row Tag="TXT_KEY_BELIEF_RUL_DES_SHORT">
+			<Text>Monarca divino</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_RUL_DES">
+			<Text>+1 [ICON_CULTURE] , [ICON_PEACE] , [ICON_GOLD], [ICON_PRODUCTION], [ICON_RESEARCH] dal Palazzo nella tua [ICON_CAPITAL] Capitale.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_RUL_TAX_SHORT">
+			<Text>Governo: Tassazione</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_RUL_TAX">
+			<Text>+1 [ICON_GOLD] Oro dai Granai in citta con 3 o piu Seguaci e +3 [ICON_PRODUCTION] Produzione dal Palazzo nella tua [ICON_CAPITAL] Capitale.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_RUL_GEN_SHORT">
+			<Text>Governo: Generosita</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_RUL_GEN">
+			<Text>+1 [ICON_HAPPINESS_1] Felicita dai Granai in citta con 3 o piu Seguaci e +3 [ICON_GOLD] Oro dal Palazzo nella tua [ICON_CAPITAL] Capitale.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_RUL_CONS_SHORT">
+			<Text>Governo: Leva</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_RUL_CONS">
+			<Text>+1 [ICON_PRODUCTION] Produzione dalle Caserme in citta con 3 o piu Seguaci e +3 [ICON_CULTURE] Cultura dal Palazzo nella tua [ICON_CAPITAL] Capitale.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_RUL_MENT_SHORT">
+			<Text>Governo: Insegnamento</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_RUL_MENT">
+			<Text>+1 [ICON_RESEARCH] Scienza dai Granai in citta con 3 o piu Seguaci e +3 [ICON_CULTURE] Cultura dal Palazzo nella tua [ICON_CAPITAL] Capitale.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_RUL_THEO_SHORT">
+			<Text>Governo: Teocrazia</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_RUL_THEO">
+			<Text>+1 [ICON_PEACE] Fede dalle Caserme in citta con 3 o piu Seguaci e +3 [ICON_PRODUCTION] Produzione dal Palazzo nella tua Capitale [ICON_CAPITAL] Capital.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_RUL_MOD_SHORT">
+			<Text>Governo: Modernismo</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_RUL_MOD">
+			<Text>+1 [ICON_HAPPINESS_1] Felicita dalle Caserme in citta con 3 o piu Seguaci e +3 [ICON_RESEARCH] Scienza dal Palazzo nella tua [ICON_CAPITAL] Capitale.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_RUL_HEDO_SHORT">
+			<Text>Governo: Edonismo</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_RUL_HEDO">
+			<Text>+1 [ICON_CULTURE] Cultura dai Granai in citta con 3 o piu Seguaci e +3 [ICON_GOLD] Oro dal Palazzo nella tua [ICON_CAPITAL] Capitale.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_RUL_COLO_SHORT">
+			<Text>Rulership: Colonial</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_RUL_COLO">
+			<Text>+1 [ICON_PRODUCTION]Produzione dai Granai in citta con 3 o piu Seguaci e +3 [ICON_FOOD] Cibo dal Palazzo nella tua [ICON_CAPITAL] Capitale.</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_BELIEF_SACRED_WATER_SHORT">
+			<Text>Acque Sacre</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_BELIEF_SACRED_WATER">
+			<Text>+1 [ICON_HAPPINESS_1] Felicita dalle Citta poste sui fiumi </Text>
+		</Row>
+
+	</Language_IT_IT>
+
+	<!-- ToolTip-->
+	<Language_en_US>
+
+		<!--Obelisk-->
+		<Row Tag="TXT_KEY_BEL_ENL_OBE_SHORT">
+			<Text>Obelisk: Enlightenment</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BEL_ENL_OBE">
+			<Text>Use [ICON_PEACE] Faith to purchase Enlightenment Obelisk (+2 [ICON_RESEARCH] Science, +2 [ICON_GREAT_PEOPLE] Great Scientist points)</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILD_ENL_OBE">
+			<Text>Obelisk of Enlightenment</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILD_ENL_OBE_STRAT">
+			<Text>Can only be built in cities following a religion with the Obelisk: Enlightenment belief. Construct this building by purchasing it with [ICON_PEACE] Faith</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BEL_WEA_OBE_SHORT">
+			<Text>Obelisk: Wealth</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BEL_WEA_OBE">
+			<Text>Use [ICON_PEACE] Faith to purchase Wealth Obelisk (+2 [ICON_GOLD] Gold, +2 [ICON_GREAT_PEOPLE] Great Merchant points)</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILD_WEA_OBE">
+			<Text>Obelisk of Wealth</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILD_WEA_OBE_STRAT">
+			<Text>Can only be built in cities following a religion with the Obelisk: Wealth belief. Construct this building by purchasing it with [ICON_PEACE] Faith</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BEL_FER_OBE_SHORT">
+			<Text>Obelisk: Fervor</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BEL_FER_OBE">
+			<Text>Use [ICON_PEACE] Faith to purchase Fervor Obelisk (+2 [ICON_PRODUCTION] Production, + 2 [ICON_GREAT_PEOPLE] Great Engineer points)</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILD_FER_OBE">
+			<Text>Obelisk of Fervor</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILD_FER_OBE_STRAT">
+			<Text>Can only be built in cities following a religion with the Obelisk: Fervor belief. Construct this building by purchasing it with [ICON_PEACE] Faith</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BEL_CUL_OBE_SHORT">
+			<Text>Obelisk: Culture</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BEL_CUL_OBE">
+			<Text>Use [ICON_PEACE] Faith to purchase Culture Obelisk (+2 [ICON_CULTURE] Culture, +2 [ICON_TOURISM] Tourism)</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILD_CUL_OBE">
+			<Text>Obelisk of Culture</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILD_CUL_OBE_STRAT">
+			<Text>Can only be built in cities following a religion with the Obelisk: Culture belief. Construct this building by purchasing it with [ICON_PEACE] Faith</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_BEL_PIE_OBE_SHORT">
+			<Text>Obelisk: Piety</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BEL_PIE_OBE">
+			<Text>Use [ICON_PEACE] Faith to purchase Piety Obelisk (+2 [ICON_PEACE] Faith, + 25% Religious pressure in the city.)</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILD_PIE_OBE">
+			<Text>Obelisk of Piety</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILD_PIE_OBE_STRAT">
+			<Text>Can only be built in cities following a religion with the Obelisk: Piety belief. Construct this building by purchasing it with [ICON_PEACE] Faith</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILD_PIE_OBE_HELP">
+			<Text>+25% Religious Pressure in the city.</Text>
+		</Row>
+
+		<!-- Shrine enhancement -->
+
+		<Row Tag="TXT_KEY_BELIEF_ANC_CULTURE_SHORT">
+			<Text>Ancestral Culture</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_ANC_CULTURE">
+			<Text>+1 [ICON_CULTURE] Culture from Shrines </Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_ANC_FAITH_SHORT">
+			<Text>Ancestral Worship</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_ANC_FAITH">
+			<Text>+1 [ICON_PEACE] Faith from Shrines </Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_ANC_FOOD_SHORT">
+			<Text>Ancestral Abundance</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_ANC_FOOD">
+			<Text>+1 [ICON_FOOD] Food from Shrines </Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_ANC_PROD_SHORT">
+			<Text>Ancestral Labor</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_ANC_PROD">
+			<Text>+1 [ICON_PRODUCTION] Production from Shrines </Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_ANC_SCIENCE_SHORT">
+			<Text>Ancestral Knowledge</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_ANC_SCIENCE">
+			<Text>+1 [ICON_RESEARCH] Science from Shrines </Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_ANC_HAPPY_SHORT">
+			<Text>Ancestral Joy</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_ANC_HAPPY">
+			<Text>+1 [ICON_HAPPINESS_1] Happiness from Shrines in cities with 3+ followers </Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_ANC_GOLD_SHORT">
+			<Text>Ancestral Wealth</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_ANC_GOLD">
+			<Text>+1 [ICON_GOLD] Gold from Shrines</Text>
+		</Row>
+
+		<!-- City Enhancement 10 min pop -->
+
+		<Row Tag="TXT_KEY_BELIEF_GOD_CULTURE_SHORT">
+			<Text>God of Culture</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_GOD_CULTURE">
+			<Text>+3 [ICON_CULTURE] Culture in cities with [ICON_CITIZEN] Population of 10+ </Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_GOD_FAITH_SHORT">
+			<Text>God of Discipline</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_GOD_FAITH">
+			<Text>+3 [ICON_PEACE] Faith in cities with [ICON_CITIZEN] Population of 10+ </Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_GOD_FOOD_SHORT">
+			<Text>God of Abundance</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_GOD_FOOD">
+			<Text>+3 [ICON_FOOD] Food in cities with [ICON_CITIZEN] Population of 10+ </Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_GOD_PROD_SHORT">
+			<Text>God of Labor</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_GOD_PROD">
+			<Text>+3 [ICON_PRODUCTION] Production in cities with [ICON_CITIZEN] Population of 10+ </Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_GOD_SCIENCE_SHORT">
+			<Text>God of Knowledge</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_GOD_SCIENCE">
+			<Text>+3 [ICON_RESEARCH] Science in cities with [ICON_CITIZEN] Population of 10+ </Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_GOD_HAPPY_SHORT">
+			<Text>God of Joy</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_GOD_HAPPY">
+			<Text>+2 [ICON_HAPPINESS_1] Happiness in cities with [ICON_CITIZEN] Population of 10+ </Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_GOD_GOLD_SHORT">
+			<Text>God of Wealth</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_GOD_GOLD">
+			<Text>+3 [ICON_GOLD] Gold in cities with [ICON_CITIZEN] Population of 10+ </Text>
+		</Row>
+
+		<!-- City Enhancement 3 min Follower -->
+
+		<Row Tag="TXT_KEY_BELIEF_AVA_CULTURE_SHORT">
+			<Text>Avatar of Culture</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_AVA_CULTURE">
+			<Text>+1 [ICON_CULTURE] Culture in cities with [ICON_CITIZEN] Population of 3+ </Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_AVA_FAITH_SHORT">
+			<Text>Avatar of Discipline</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_AVA_FAITH">
+			<Text>+1 [ICON_PEACE] Faith in cities with [ICON_CITIZEN] Population of 3+ </Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_AVA_FOOD_SHORT">
+			<Text>Avatar of Abundance</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_AVA_FOOD">
+			<Text>+1 [ICON_FOOD] Food in cities with [ICON_CITIZEN] Population of 3+ </Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_AVA_PROD_SHORT">
+			<Text>Avatar of Labor</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_AVA_PROD">
+			<Text>+1 [ICON_PRODUCTION] Production in cities with [ICON_CITIZEN] Population of 3+ </Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_AVA_SCIENCE_SHORT">
+			<Text>Avatar of Knowledge</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_AVA_SCIENCE">
+			<Text>+1 [ICON_RESEARCH] Science in cities with [ICON_CITIZEN] Population of 3+ </Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_AVA_HAPPY_SHORT">
+			<Text>Avatar of Joy</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_AVA_HAPPY">
+			<Text>+1 [ICON_HAPPINESS_1] Happiness in cities with [ICON_CITIZEN] Population of 5+ </Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_AVA_GOLD_SHORT">
+			<Text>Avatar of Wealth</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_AVA_GOLD">
+			<Text>+1 [ICON_GOLD] Gold in cities with [ICON_CITIZEN] Population of 3+ </Text>
+		</Row>
+
+		<!-- Feature And terrain -->
+
+		<Row Tag="TXT_KEY_SAC_ATOLL_CULTURE_SHORT">
+			<Text>Cultural Atolls</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SAC_ATOLL_CULTURE">
+			<Text>+2 [ICON_CULTURE] Culture from Atoll tiles</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SAC_MARSH_CULTURE_SHORT">
+			<Text>Cultural Marshes</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SAC_MARSH_CULTURE">
+			<Text>+1 [ICON_CULTURE] Culture from Marsh tiles</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SAC_JUNGLE_CULTURE_SHORT">
+			<Text>Cultural Jungles</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SAC_JUNGLE_CULTURE">
+			<Text>+1 [ICON_CULTURE] Culture from Jungle tiles</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SAC_OASIS_CULTURE_SHORT">
+			<Text>Cultural Oasis</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SAC_OASIS_CULTURE">
+			<Text>+2 [ICON_CULTURE] Culture from Oasis tiles</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SAC_DESERT_CULTURE_SHORT">
+			<Text>Cultural Deserts</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SAC_DESERT_CULTURE">
+			<Text>+1 [ICON_CULTURE] Culture from Desert tiles</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SAC_TUNDRA_CULTURE_SHORT">
+			<Text>Cultural Tundras</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SAC_TUNDRA_CULTURE">
+			<Text>+1 [ICON_CULTURE] Culture from Tundra tiles</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SAC_SNOW_CULTURE_SHORT">
+			<Text>Cultural Snow</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SAC_SNOW_CULTURE">
+			<Text>+1 [ICON_CULTURE] Culture from Snow tiles</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SAC_ATOLL_SCIENCE_SHORT">
+			<Text>Enlightening Atolls</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SAC_ATOLL_SCIENCE">
+			<Text>+2 [ICON_RESEARCH] Science from Atoll tiles</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SAC_MARSH_SCIENCE_SHORT">
+			<Text>Enlightening Marshes</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SAC_MARSH_SCIENCE">
+			<Text>+1 [ICON_RESEARCH] Science from Marsh tiles</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SAC_JUNGLE_SCIENCE_SHORT">
+			<Text>Enlightening Jungles</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SAC_JUNGLE_SCIENCE">
+			<Text>+1 [ICON_RESEARCH] Science from Jungle tiles</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SAC_OASIS_SCIENCE_SHORT">
+			<Text>Enlightening Oasis</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SAC_OASIS_SCIENCE">
+			<Text>+2 [ICON_RESEARCH] Science from Oasis tiles</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SAC_DESERT_SCIENCE_SHORT">
+			<Text>Enlightening Deserts</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SAC_DESERT_SCIENCE">
+			<Text>+1 [ICON_RESEARCH] Science from Desert tiles</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SAC_TUNDRA_SCIENCE_SHORT">
+			<Text>Enlightening Tundras</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SAC_TUNDRA_SCIENCE">
+			<Text>+1 [ICON_RESEARCH] Science from Tundra tiles</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SAC_SNOW_SCIENCE_SHORT">
+			<Text>Enlightening Snow</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SAC_SNOW_SCIENCE">
+			<Text>+1 [ICON_RESEARCH] Science from Snow tiles</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SAC_ATOLL_FAITH_SHORT">
+			<Text>Sacred Atolls</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SAC_ATOLL_FAITH">
+			<Text>+2 [ICON_PEACE] Faith from Atoll tiles</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SAC_MARSH_FAITH_SHORT">
+			<Text>Sacred Marshes</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SAC_MARSH_FAITH">
+			<Text>+1 [ICON_PEACE] Faith from Marsh tiles</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SAC_JUNGLE_FAITH_SHORT">
+			<Text>Sacred Jungles</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SAC_JUNGLE_FAITH">
+			<Text>+1 [ICON_PEACE] Faith from Jungle tiles</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SAC_OASIS_FAITH_SHORT">
+			<Text>Sacred Oasis</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SAC_OASIS_FAITH">
+			<Text>+2 [ICON_PEACE] Faith from Oasis tiles</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SAC_DESERT_FAITH_SHORT">
+			<Text>Sacred Deserts</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SAC_DESERT_FAITH">
+			<Text>+1 [ICON_PEACE] Faith from Desert tiles</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SAC_TUNDRA_FAITH_SHORT">
+			<Text>Sacred Tundras</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SAC_TUNDRA_FAITH">
+			<Text>+1 [ICON_PEACE] Faith from Tundra tiles</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SAC_SNOW_FAITH_SHORT">
+			<Text>Sacred Snow</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SAC_SNOW_FAITH">
+			<Text>+1 [ICON_PEACE] Faith from Snow tiles</Text>
+		</Row>
+
+		<!-- Holy War -->
+
+		<Row Tag="TXT_KEY_BELIEF_FAITH_HEALER_SHORT">
+			<Text>Faith Healer</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_FAITH_HEALER">
+			<Text>+30 HP healed per turn if adjacent to a friendly city </Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_FAITH_DEFENDER_SHORT">
+			<Text>Faith Defender</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_FAITH_DEFENDER">
+			<Text>+20% [ICON_STRENGTH] Combat Strength near friendly Cities that follow this Religion </Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_FAITH_CRUSADER_SHORT">
+			<Text>Faith Crusader</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_FAITH_CRUSADER">
+			<Text>+20% [ICON_STRENGTH] Combat Strength near enemy Cities that follow this Religion </Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_FAITH_ZEALOT_SHORT">
+			<Text>Faith Zealot</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_FAITH_ZEALOT">
+			<Text>Gain [ICON_PEACE] Faith each time you kill an ennemy </Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_FAITH_TEMPLAR_SHORT">
+			<Text>Faith Templar</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_FAITH_TEMPLAR">
+			<Text>Use [ICON_PEACE] Faith to purchase pre-Industrial land units </Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_FAITH_FORTRESS_SHORT">
+			<Text>Faith Fortress</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_FAITH_FORTRESS">
+			<Text>+30% increase in city [ICON_RANGE_STRENGTH] Ranged Combat Strength </Text>
+		</Row>
+
+
+		<Row Tag="TXT_KEY_BELIEF_HOLY_WARS_SHORT">
+			<Text>Holy Wars</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_HOLY_WARS">
+			<Text>May build Barracks, Armory, and Millitary Academy with [ICON_PEACE] Faith.</Text>
+		</Row>
+
+		<!-- % Yields and %Growth  -->
+
+		<Row Tag="TXT_KEY_BELIEF_RELIGIOUS_ABUNDANCE_SHORT">
+			<Text>Religious Abundance</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_RELIGIOUS_ABUNDANCE">
+			<Text>+1% [ICON_FOOD] Food for each follower (max +15%) </Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_RELIGIOUS_LABOR_SHORT">
+			<Text>Religious Labor</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_RELIGIOUS_LABOR">
+			<Text>+1% [ICON_PRODUCTION] Production for each follower (max +15%) </Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_RELIGIOUS_ENLIGHT_SHORT">
+			<Text>Religious Enlightenment</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_RELIGIOUS_ENLIGHT">
+			<Text>+1% [ICON_RESEARCH] Science for each follower (max +15%) </Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_RELIGIOUS_WEALTH_SHORT">
+			<Text>Religious Wealth</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_RELIGIOUS_WEALTH">
+			<Text>+1% [ICON_GOLD] Gold for each follower (max +15%) </Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_RELIGIOUS_CUL_SHORT">
+			<Text>Religious Culture</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_RELIGIOUS_CUL">
+			<Text>15% faster border growth</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_REL_FERT_SHORT">
+			<Text>Religious Fertility</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_REL_FERT">
+			<Text>10% faster [ICON_CITIZEN] Growth rate </Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_REL_MIS_SHORT">
+			<Text>Religious Miscegenation</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_REL_MIS">
+			<Text>15% faster [ICON_CITIZEN] Growth rate for city if not at war </Text>
+		</Row>
+
+		<!-- Yields Per city/Foreign City -->
+
+		<Row Tag="TXT_KEY_BELIEF_PILGRIM_CULTURE_SHORT">
+			<Text>Pilgrim Culture</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_PILGRIM_CULTURE">
+			<Text>+1 [ICON_CULTURE] Culture for each foreign city following this religion </Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_PILGRIM_FAITH_SHORT">
+			<Text>Pilgrim Faith</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_PILGRIM_FAITH">
+			<Text>+2 [ICON_PEACE] Faith for each foreign city following this religion </Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_CHURCH_GOLD_SHORT">
+			<Text>Church Opulence</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_CHURCH_GOLD">
+			<Text>+2 [ICON_GOLD] Gold for each city following this religion </Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_CHURCH_HAPPY_SHORT">
+			<Text>Church Generosity</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_CHURCH_HAPPY">
+			<Text>+1 [ICON_HAPPINESS_1] Happiness for each 2 city following this religion </Text>
+		</Row>
+
+		<!-- Yields Per Luxury Res -->
+
+		<Row Tag="TXT_KEY_BELIEF_FEST_TAILOR_SHORT">
+			<Text>Offering: Textiles</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_FEST_TAILOR">
+			<Text>+1 [ICON_CULTURE] Culture and +1 [ICON_PEACE] Faith from [ICON_RES_FUR] and [ICON_RES_COTTON] </Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_FEST_SEA_SHORT">
+			<Text>Offering: Sea Products</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_FEST_SEA">
+			<Text>+1 [ICON_CULTURE] Culture and +1 [ICON_PEACE] Faith from [ICON_RES_WHALE] and [ICON_RES_CRAB] </Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_FEST_JEW_SHORT">
+			<Text>Offering: Jewels</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_FEST_JEW">
+			<Text>+1 [ICON_CULTURE] Culture and +1 [ICON_PEACE] Faith from [ICON_RES_PEARLS] and [ICON_RES_GEMS] </Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_FEST_RICH_SHORT">
+			<Text>Offering: Riches</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_FEST_RICH">
+			<Text>+1 [ICON_CULTURE] Culture and +1 [ICON_PEACE] Faith from [ICON_RES_GOLD] and [ICON_RES_SILVER] </Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_FEST_ORI_SHORT">
+			<Text>Offering: Oriental</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_FEST_ORI">
+			<Text>+1 [ICON_CULTURE] Culture and +1 [ICON_PEACE] Faith from [ICON_RES_SILK] and [ICON_RES_DYE] </Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_FEST_SPI_SHORT">
+			<Text>Offering: Spices</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_FEST_SPI">
+			<Text>+1 [ICON_CULTURE] Culture and +1 [ICON_PEACE] Faith from [ICON_RES_SPICES] and [ICON_RES_SALT] </Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_FEST_GOR_SHORT">
+			<Text>Offering: Desserts</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_FEST_GOR">
+			<Text>+1 [ICON_CULTURE] Culture and +1 [ICON_PEACE] Faith from [ICON_RES_SUGAR] and [ICON_RES_TRUFFLES] </Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_FEST_RIT_SHORT">
+			<Text>Offering: Rituals</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_FEST_RIT">
+			<Text>+1 [ICON_CULTURE] Culture and +1 [ICON_PEACE] Faith from [ICON_RES_WINE] and [ICON_RES_INCENSE] </Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_FEST_STA_SHORT">
+			<Text>Offering: Statues</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_FEST_STA">
+			<Text>+1 [ICON_CULTURE] Culture and +1 [ICON_PEACE] Faith from [ICON_RES_MARBLE] and [ICON_RES_COPPER] </Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_FEST_EXO_SHORT">
+			<Text>Offering: Exotics</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_FEST_EXO">
+			<Text>+1 [ICON_CULTURE] Culture and +1 [ICON_PEACE] Faith from [ICON_RES_CITRUS] and [ICON_RES_IVORY] </Text>
+		</Row>
+
+		<!-- Yields Per Improvement -->
+
+		<Row Tag="TXT_KEY_BELIEF_PRA_QUA_FOOD_SHORT">
+			<Text>Blessed Stones : Fertility</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_PRA_QUA_FOOD">
+			<Text>+1 [ICON_FOOD] Food from Quarries </Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_PRA_QUA_PROD_SHORT">
+			<Text>Blessed Stones : Fervor</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_PRA_QUA_PROD">
+			<Text>+1 [ICON_PRODUCTION] Production from Quarries </Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_PRA_QUA_GOLD_SHORT">
+			<Text>Blessed Stones : Wealth</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_PRA_QUA_GOLD">
+			<Text>+1 [ICON_GOLD] Gold from Quarries  </Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_PRA_CAM_FOOD_SHORT">
+			<Text>Blessed Hunting : Abundance</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_PRA_CAM_FOOD">
+			<Text>+1 [ICON_FOOD] Food from Camps </Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_PRA_CAM_PROD_SHORT">
+			<Text>Blessed Hunting : Fervor</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_PRA_CAM_PROD">
+			<Text>+1 [ICON_PRODUCTION] Production from Camps </Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_PRA_CAM_GOLD_SHORT">
+			<Text>Blessed Hunting : Wealth</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_PRA_CAM_GOLD">
+			<Text>+1 [ICON_GOLD] Gold from Camps </Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_PRA_PAS_FOOD_SHORT">
+			<Text>Blessed Herding : Abundance</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_PRA_PAS_FOOD">
+			<Text>+1 [ICON_FOOD] Food from Pastures </Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_PRA_PAS_PROD_SHORT">
+			<Text>Blessed Herding : Fervor</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_PRA_PAS_PROD">
+			<Text>+1 [ICON_PRODUCTION] Production from Pastures </Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_PRA_PAS_GOLD_SHORT">
+			<Text>Blessed Herding : Wealth</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_PRA_PAS_GOLD">
+			<Text>+1 [ICON_GOLD] Gold from Pastures </Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_PRA_SUN_FOOD_SHORT">
+			<Text>Blessed Farming : Sun</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_PRA_SUN_FOOD">
+			<Text>+1 [ICON_FOOD] Food from [ICON_RES_BANANA] [ICON_RES_WHEAT] [ICON_RES_CITRUS]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_PRA_PLA_FOOD_SHORT">
+			<Text>Blessed Farming : Abundance</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_PRA_PLA_FOOD">
+			<Text>+1 [ICON_FOOD] Food from Plantations </Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_PRA_PLA_PROD_SHORT">
+			<Text>Blessed Farming : Fervor</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_PRA_PLA_PROD">
+			<Text>+1 [ICON_PRODUCTION] Production from Plantations </Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_PRA_PLA_GOLD_SHORT">
+			<Text>Blessed Farming : Wealth</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_PRA_PLA_GOLD">
+			<Text>+1 [ICON_GOLD] Gold from Plantations </Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_PRA_FISH_FOOD_SHORT">
+			<Text>Blessed Fishing : Abundance</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_PRA_FISH_FOOD">
+			<Text>+1 [ICON_FOOD] Food from Fishing boats </Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_PRA_FISH_PROD_SHORT">
+			<Text>Blessed Fishing : Fervor</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_PRA_FISH_PROD">
+			<Text>+1 [ICON_PRODUCTION] Production from Fishing boats </Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_PRA_FISH_GOLD_SHORT">
+			<Text>Blessed Fishing : Wealth</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_PRA_FISH_GOLD">
+			<Text>+1 [ICON_GOLD] Gold from Fishing boats </Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_PRA_MINE_FOOD_SHORT">
+			<Text>Blessed Mining : Abundance</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_PRA_MINE_FOOD">
+			<Text>+1 [ICON_FOOD] Food from [ICON_RES_COPPER] [ICON_RES_IRON] [ICON_RES_GOLD] [ICON_RES_SILVER] [ICON_RES_ALUMINUM] [ICON_RES_SALT] [ICON_RES_GEMS] </Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_PRA_MINE_PROD_SHORT">
+			<Text>Blessed Mining : Fervor</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_PRA_MINE_PROD">
+			<Text>+1 [ICON_PRODUCTION] Production from [ICON_RES_COPPER] [ICON_RES_IRON] [ICON_RES_GOLD] [ICON_RES_SILVER] [ICON_RES_ALUMINUM] [ICON_RES_SALT] [ICON_RES_GEMS] </Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_PRA_MINE_GOLD_SHORT">
+			<Text>Blessed Mining : Wealth</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_PRA_MINE_GOLD">
+			<Text>+1 [ICON_GOLD] Gold from from [ICON_RES_COPPER] [ICON_RES_IRON] [ICON_RES_GOLD] [ICON_RES_SILVER] [ICON_RES_ALUMINUM] [ICON_RES_SALT] [ICON_RES_GEMS]  </Text>
+		</Row>
+
+
+		<!-- Yields Per Great Improvement -->
+
+		<Row Tag="TXT_KEY_BELIEF_PIOGP_GEN_SHORT">
+			<Text>Pious Army</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_PIOGP_GEN">
+			<Text>+2 [ICON_PEACE] Faith from Citadels, +1 [ICON_PEACE] From Barracks</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_PIOGP_ENG_1_SHORT">
+			<Text>Pious Merchants</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_PIOGP_ENG_1">
+			<Text>Convert 2 [ICON_PEACE] Faith from Holy Sites to 3 [ICON_GOLD] Gold</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_PIOGP_ENG_2_SHORT">
+			<Text>Pious Scientists</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_PIOGP_ENG_2">
+			<Text>Convert 2 [ICON_PEACE] Faith from Holy Sites to 4 [ICON_RESEARCH] Science</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_PIOGP_ENG_3_SHORT">
+			<Text>Pious Artists</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_PIOGP_ENG_3">
+			<Text>Convert 2 [ICON_PEACE] Faith from Holy Sites to 3 [ICON_CULTURE] Culture</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_PIOGP_ENG_4_SHORT">
+			<Text>Pious Laborers</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_PIOGP_ENG_4">
+			<Text>Convert 2 [ICON_PEACE] Faith from Holy Sites to 3 [ICON_PRODUCTION] Production</Text>
+		</Row>
+
+		<!-- Yields Per trade Route -->
+
+		<Row Tag="TXT_KEY_BELIEF_TRAV_SCI_SHORT">
+			<Text>Traveler Enlightenment</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_TRAV_SCI">
+			<Text>+2 [ICON_RESEARCH] Science in cities with a [ICON_CONNECTED] City Connection</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_TRAV_CUL_SHORT">
+			<Text>Traveler Culture</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_TRAV_CUL">
+			<Text>+2 [ICON_CULTURE] Culture in cities with a [ICON_CONNECTED] City Connection</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_TRAV_FAI_SHORT">
+			<Text>Traveler Faith</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_TRAV_FAI">
+			<Text>+2 [ICON_PEACE] Faith in cities with a [ICON_CONNECTED] City Connection</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_TRAV_FOOD_SHORT">
+			<Text>Traveler Offering</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_TRAV_FOOD">
+			<Text>+2 [ICON_FOOD] Food in cities with a [ICON_CONNECTED] City Connection</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_TRAV_PROD_SHORT">
+			<Text>Traveler Labor</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_TRAV_PROD">
+			<Text>+2 [ICON_PRODUCTION] Production in cities with a [ICON_CONNECTED] City Connection</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_TRAV_GOLD_SHORT">
+			<Text>Traveler Donation</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_TRAV_GOLD">
+			<Text>+2 [ICON_GOLD] Gold in cities with a [ICON_CONNECTED] City Connection</Text>
+		</Row>
+
+		<!-- Yields Per Natural Wonder -->
+
+		<Row Tag="TXT_KEY_BELIEF_NATURAL_SCI_SHORT">
+			<Text>Natural Enlightenment</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_NATURAL_SCI">
+			<Text>+3 [ICON_RESEARCH] Science from Natural Wonders</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_NATURAL_CUL_SHORT">
+			<Text>Natural Culture</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_NATURAL_CUL">
+			<Text>+3 [ICON_CULTURE] Culture from Natural Wonders</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_NATURAL_FAI_SHORT">
+			<Text>Natural Faith</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_NATURAL_FAI">
+			<Text>+4 [ICON_PEACE] Faith from Natural Wonders</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_NATURAL_FOOD_SHORT">
+			<Text>Natural Abundance</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_NATURAL_FOOD">
+			<Text>+3 [ICON_FOOD] Food from Natural Wonders</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_NATURAL_PROD_SHORT">
+			<Text>Natural Labor</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_NATURAL_PROD">
+			<Text>+3 [ICON_PRODUCTION] Production from Natural Wonders</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_NATURAL_GOLD_SHORT">
+			<Text>Natural Riche</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_NATURAL_GOLD">
+			<Text>+3 [ICON_GOLD] Gold from Natural Wonders</Text>
+		</Row>
+
+		<!-- Yields Per World Wonder -->
+
+		<Row Tag="TXT_KEY_BELIEF_WOND_SCI_SHORT">
+			<Text>Iconism : Enlightenment</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_WOND_SCI">
+			<Text>Each World Wonder provides +2 [ICON_RESEARCH] Science in city </Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_WOND_CUL_SHORT">
+			<Text>Iconism : Culture</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_WOND_CUL">
+			<Text>Each World Wonder provides +2 [ICON_CULTURE] Culture in city </Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_WOND_FAI_SHORT">
+			<Text>Iconism : Faith</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_WOND_FAI">
+			<Text>Each World Wonder provides +2 [ICON_PEACE] Faith in city </Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_WOND_FOOD_SHORT">
+			<Text>Iconism : Abundance</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_WOND_FOOD">
+			<Text>Each World Wonder provides +1 [ICON_FOOD] Food in city </Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_WOND_PROD_SHORT">
+			<Text>Iconism : Labor</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_WOND_PROD">
+			<Text>Each World Wonder provides +1 [ICON_PRODUCTION] Production in city </Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_WOND_GOLD_SHORT">
+			<Text>Iconism : Idols</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_WOND_GOLD">
+			<Text>Each World Wonder provides +2 [ICON_GOLD] Gold in city </Text>
+		</Row>
+
+		<!-- Yields Per Temple / Wonder Construct % -->
+
+		<Row Tag="TXT_KEY_BELIEF_MON_SCI_SHORT">
+			<Text>Monument of Science</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_MON_SCI">
+			<Text>+2 [ICON_RESEARCH] Science from Temples </Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_MON_CUL_SHORT">
+			<Text>Monument of Culture</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_MON_CUL">
+			<Text>+2 [ICON_CULTURE] Culture from Temples </Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_MON_FOOD_SHORT">
+			<Text>Monument of Abundance</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_MON_FOOD">
+			<Text>+2 [ICON_FOOD] Food from Temples </Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_MON_PROD_SHORT">
+			<Text>Monument of Labor</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_MON_PROD">
+			<Text>+2 [ICON_PRODUCTION] Production from Temples </Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_MON_GOLD_SHORT">
+			<Text>Monument of Wealth</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_MON_GOLD">
+			<Text>+2 [ICON_GOLD] Gold from Temples </Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_MON_HAPPY_SHORT">
+			<Text>Monument of Joy</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_MON_HAPPY">
+			<Text>+2 [ICON_HAPPINESS_1] Happiness from Temples in cities with 5 followers </Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_MON_WOND_SHORT">
+			<Text>Monuments Construction</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_MON_WOND">
+			<Text>+15% [ICON_PRODUCTION] Production of Ancient/Classical Wonders</Text>
+		</Row>
+
+		<!-- Yields if city has Specialist -->
+
+		<Row Tag="TXT_KEY_BELIEF_GURU_SCI_SHORT">
+			<Text>Guruship : Enlightenment</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_GURU_SCI">
+			<Text>+2 [ICON_RESEARCH] Science if city has a Specialist </Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_GURU_CUL_SHORT">
+			<Text>Guruship : Culture</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_GURU_CUL">
+			<Text>+2 [ICON_CULTURE] Culture if city has a Specialist </Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_GURU_FAI_SHORT">
+			<Text>Guruship : Apostle</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_GURU_FAI">
+			<Text>+2 [ICON_PEACE] Faith if city has a Specialist </Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_GURU_FOOD_SHORT">
+			<Text>Guruship : Charity</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_GURU_FOOD">
+			<Text>+2 [ICON_FOOD] Food if city has a Specialist </Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_GURU_PROD_SHORT">
+			<Text>Guruship : Labor</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_GURU_PROD">
+			<Text>+2 [ICON_PRODUCTION] Production if city has a Specialist </Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_GURU_GOLD_SHORT">
+			<Text>Guruship : Mercantilist</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_GURU_GOLD">
+			<Text>+2 [ICON_GOLD] Gold if city has a Specialist </Text>
+		</Row>
+
+		<!-- Gold or science on conversion or City State Resting -->
+
+		<Row Tag="TXT_KEY_BELIEF_INTER_SCI_SHORT">
+			<Text>Foreign Knowledge</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_INTER_SCI">
+			<Text>Gain [ICON_RESEARCH] Science when a Missionary spreads this religion to cities of other religions </Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_INTER_GOLD_SHORT">
+			<Text>Foreign Offerings</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_INTER_GOLD">
+			<Text>Gain +100 [ICON_GOLD] Gold when each City first converts to this Religion </Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_INTER_FOLLOWERS_SHORT">
+			<Text>Foreign Followers</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_INTER_FOLLOWERS">
+			<Text>+15 to [ICON_INFLUENCE] Influence resting point with City-States following this religion </Text>
+		</Row>
+
+		<!-- Special Building -->
+
+		<Row Tag="TXT_KEY_BELIEF_CONS_CATHEDRALS_SHORT">
+			<Text>Construction: Cathedrals</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_CONS_CATHEDRALS">
+			<Text>Use [ICON_PEACE] Faith to purchase Cathedrals (+1 [ICON_PEACE] Faith, +1 [ICON_CULTURE] Culture, +1 [ICON_HAPPINESS_1] Happiness, Great work of Art slot.) </Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_CONS_MOSQUES_SHORT">
+			<Text>Construction: Mosques</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_CONS_MOSQUES">
+			<Text>Use [ICON_PEACE] Faith to purchase Mosques (+3 [ICON_PEACE] Faith, +2 [ICON_CULTURE] Culture, +1 [ICON_HAPPINESS_1] Happiness) </Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_CONS_PAGODAS_SHORT">
+			<Text>Construction: Pagodas</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_CONS_PAGODAS">
+			<Text>Use [ICON_PEACE] Faith to purchase Pagodas (+2 [ICON_PEACE] Faith, +2 [ICON_CULTURE] Culture, +2 [ICON_HAPPINESS_1] Happiness) </Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_CONS_MONASTERIES_SHORT">
+			<Text>Construction: Monasteries</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_CONS_MONASTERIES">
+			<Text>Use [ICON_PEACE] Faith to purchase Monasteries (+2 [ICON_PEACE] Faith, +2 [ICON_CULTURE] Culture, more with [ICON_RES_WINE] Wine or [ICON_RES_INCENSE] Incense) </Text>
+		</Row>
+
+		<!-- Yield per foreign follower not at war -->
+		<!-- Yield per Foreign follower -->
+		<!-- Yield per follower -->
+
+		<Row Tag="TXT_KEY_BELIEF_APO_PEACE_SHORT">
+			<Text>Apostles of Peace</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_APO_PEACE">
+			<Text>+1 [ICON_HAPPINESS_1] Happiness for every 6 followers of this religion in non-enemy foreign cities </Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_APO_CUL_SHORT">
+			<Text>Apostles of Culture</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_APO_CUL">
+			<Text>+1 [ICON_CULTURE] Culture for every 5 followers of this religion in other civilizations </Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_APO_OPU_SHORT">
+			<Text>Apostles of Opulence</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_APO_OPU">
+			<Text>+1 [ICON_GOLD] Gold for every 4 followers of this religion </Text>
+		</Row>
+
+		<!-- Grouped Vanilla Enhancers -->
+
+		<Row Tag="TXT_KEY_BELIEF_HOLY_ORDERS_SHORT">
+			<Text>Holy Order</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_HOLY_ORDERS">
+			<Text>Missionaries and Inquisitors cost 30% less [ICON_PEACE] Faith </Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_HOLY_PREACHERS_SHORT">
+			<Text>Holy Preacher</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_HOLY_PREACHERS">
+			<Text>Religion spreads to cities 30% further away </Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_HOLY_MESSIAH_SHORT">
+			<Text>Holy Messiah</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_HOLY_MESSIAH">
+			<Text>Prophets 25% stronger and earned with 25% less [ICON_PEACE] Faith </Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_HOLY_MISSIONARY_SHORT">
+			<Text>Holy Missionary</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_HOLY_MISSIONARY">
+			<Text>Missionary conversion strength +25% </Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_HOLY_MESSENGER_SHORT">
+			<Text>Holy Messenger</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_HOLY_MESSENGER">
+			<Text>Religion spreads to friendly city-states at double rate </Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_HOLY_TEXTS_SHORT">
+			<Text>Holy Texts</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_HOLY_TEXTS">
+			<Text>Religion spreads 35% faster.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_HOLY_MARTYR_SHORT">
+			<Text>Holy Martyr</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_HOLY_MARTYR">
+			<Text>Gain 50 Faith each time a [ICON_GREAT_PEOPLE] Great Person is expended </Text>
+		</Row>
+
+		<!-- Rulership: Yield per Building PALACE vs Granary -->
+
+		<Row Tag="TXT_KEY_BELIEF_RUL_DES_SHORT">
+			<Text>God-King</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_RUL_DES">
+			<Text>+1 [ICON_CULTURE] , [ICON_PEACE] , [ICON_GOLD], [ICON_PRODUCTION], [ICON_RESEARCH] from Palace in your [ICON_CAPITAL] Capital.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_RUL_TAX_SHORT">
+			<Text>Rulership: Taxation</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_RUL_TAX">
+			<Text>+1 [ICON_GOLD] Gold from Granary in cities with 3+ followers and +3 [ICON_PRODUCTION] Production from Palace in your [ICON_CAPITAL] Capital.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_RUL_GEN_SHORT">
+			<Text>Rulership: Generous</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_RUL_GEN">
+			<Text>+1 [ICON_HAPPINESS_1] Happiness from Granary in cities with 3+ followers and +3 [ICON_GOLD] Gold from Palace in your [ICON_CAPITAL] Capital.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_RUL_CONS_SHORT">
+			<Text>Rulership: Conscription</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_RUL_CONS">
+			<Text>+1 [ICON_PRODUCTION] Production from Barracks in cities with 3+ followers and +3 [ICON_CULTURE] Culture from Palace in your [ICON_CAPITAL] Capital.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_RUL_MENT_SHORT">
+			<Text>Rulership: Mentoring</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_RUL_MENT">
+			<Text>+1 [ICON_RESEARCH] Science from Granary in cities with 3+ followers and +3 [ICON_CULTURE] Culture from Palace in your [ICON_CAPITAL] Capital.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_RUL_THEO_SHORT">
+			<Text>Rulership: Theocratic</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_RUL_THEO">
+			<Text>+1 [ICON_PEACE] Faith from Barracks in cities with 3+ followers and +3 [ICON_PRODUCTION] Production from Palace in your [ICON_CAPITAL] Capital.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_RUL_MOD_SHORT">
+			<Text>Rulership: Modernism</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_RUL_MOD">
+			<Text>+1 [ICON_HAPPINESS_1] Happiness from Barracks in cities with 3+ followers and +3 [ICON_RESEARCH] Science from Palace in your [ICON_CAPITAL] Capital.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_RUL_HEDO_SHORT">
+			<Text>Rulership: Hedonism</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_RUL_HEDO">
+			<Text>+1 [ICON_CULTURE] Culture from Granary in cities with 3+ followers and +3 [ICON_GOLD] Gold from Palace in your [ICON_CAPITAL] Capital.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_RUL_COLO_SHORT">
+			<Text>Rulership: Colonial</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_RUL_COLO">
+			<Text>+1 [ICON_PRODUCTION] Production from Granary in cities with 3+ followers and +3 [ICON_FOOD] Food from Palace in your [ICON_CAPITAL] Capital.</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_BELIEF_SACRED_WATER_SHORT">
+			<Text>Sacred Water</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_SACRED_WATER">
+			<Text>+1 [ICON_HAPPINESS_1] Happiness from cities on rivers </Text>
+		</Row>
+
+
+
+	</Language_en_US>
+	
+	
+	<!-- Beliefs -->
+	<Beliefs>
+
+		<!-- BNW reformation Beliefs -->
+		<Row>
+			<Type>BELIEF_CHARITABLE_MISSIONS</Type>
+			<Description>TXT_KEY_BELIEF_CHARITABLE_MISSIONS</Description>
+			<ShortDescription>TXT_KEY_BELIEF_CHARITABLE_MISSIONS_SHORT</ShortDescription>
+			<Reformation>true</Reformation>
+			<CityStateInfluenceModifier>30</CityStateInfluenceModifier>
+		</Row>
+		<Row>
+			<Type>BELIEF_EVANGELISM</Type>
+			<Description>TXT_KEY_BELIEF_EVANGELISM</Description>
+			<ShortDescription>TXT_KEY_BELIEF_EVANGELISM_SHORT</ShortDescription>
+			<Reformation>true</Reformation>
+			<OtherReligionPressureErosion>100</OtherReligionPressureErosion>
+		</Row>
+		<Row>
+			<Type>BELIEF_HEATHEN_CONVERSION</Type>
+			<Description>TXT_KEY_BELIEF_HEATHEN_CONVERSION</Description>
+			<ShortDescription>TXT_KEY_BELIEF_HEATHEN_CONVERSION_SHORT</ShortDescription>
+			<Reformation>true</Reformation>
+			<ConvertsBarbarians>true</ConvertsBarbarians>
+		</Row>
+		<Row>
+			<Type>BELIEF_JESUIT_EDUCATION</Type>
+			<Description>TXT_KEY_BELIEF_JESUIT_EDUCATION</Description>
+			<ShortDescription>TXT_KEY_BELIEF_JESUIT_EDUCATION_SHORT</ShortDescription>
+			<Reformation>true</Reformation>
+		</Row>
+		<Row>
+			<Type>BELIEF_RELIGIOUS_FERVOR</Type>
+			<Description>TXT_KEY_BELIEF_RELIGIOUS_FERVOR</Description>
+			<ShortDescription>TXT_KEY_BELIEF_RELIGIOUS_FERVOR_SHORT</ShortDescription>
+			<Reformation>true</Reformation>
+		</Row>
+		<Row>
+			<Type>BELIEF_SACRED_SITES</Type>
+			<Description>TXT_KEY_BELIEF_SACRED_SITES</Description>
+			<ShortDescription>TXT_KEY_BELIEF_SACRED_SITES_SHORT</ShortDescription>
+			<Reformation>true</Reformation>
+			<FaithBuildingTourism>2</FaithBuildingTourism>
+		</Row>
+		<Row>
+			<Type>BELIEF_TO_GLORY_OF_GOD</Type>
+			<Description>TXT_KEY_BELIEF_TO_GLORY_OF_GOD</Description>
+			<ShortDescription>TXT_KEY_BELIEF_TO_GLORY_OF_GOD_SHORT</ShortDescription>
+			<Reformation>true</Reformation>
+			<FaithPurchaseAllGreatPeople>true</FaithPurchaseAllGreatPeople>
+		</Row>
+		<Row>
+			<Type>BELIEF_UNDERGROUND_SECT</Type>
+			<Description>TXT_KEY_BELIEF_UNDERGROUND_SECT</Description>
+			<ShortDescription>TXT_KEY_BELIEF_UNDERGROUND_SECT_SHORT</ShortDescription>
+			<Reformation>true</Reformation>
+			<SpyPressure>5</SpyPressure>
+		</Row>
+		<Row>
+			<Type>BELIEF_UNITY_OF_PROPHETS</Type>
+			<Description>TXT_KEY_BELIEF_UNITY_OF_PROPHETS</Description>
+			<ShortDescription>TXT_KEY_BELIEF_UNITY_OF_PROPHETS_SHORT</ShortDescription>
+			<Reformation>true</Reformation>
+			<InquisitorPressureRetention>50</InquisitorPressureRetention>
+		</Row>
+
+		<!-- New reformation Beliefs -->
+		<Row>
+			<Type>BELIEF_HOLY_WARS</Type>
+			<Description>TXT_KEY_BELIEF_HOLY_WARS</Description>
+			<ShortDescription>TXT_KEY_BELIEF_HOLY_WARS_SHORT</ShortDescription>
+			<Reformation>true</Reformation>
+		</Row>
+
+
+		<!-- Holy War -->
+		
+		<Row>
+			<Type>BELIEF_FAITH_HEALER</Type>
+			<Description>TXT_KEY_BELIEF_FAITH_HEALER</Description>
+			<ShortDescription>TXT_KEY_BELIEF_FAITH_HEALER_SHORT</ShortDescription>
+			<Pantheon>true</Pantheon>
+			<FriendlyHealChange>30</FriendlyHealChange>
+		</Row>
+		<Row>
+			<Type>BELIEF_FAITH_DEFENDER</Type>
+			<Description>TXT_KEY_BELIEF_FAITH_DEFENDER</Description>
+			<ShortDescription>TXT_KEY_BELIEF_FAITH_DEFENDER_SHORT</ShortDescription>
+			<Enhancer>true</Enhancer>
+			<CombatModifierFriendlyCities>20</CombatModifierFriendlyCities>
+		</Row>
+		<Row>
+			<Type>BELIEF_FAITH_CRUSADER</Type>
+			<Description>TXT_KEY_BELIEF_FAITH_CRUSADER</Description>
+			<ShortDescription>TXT_KEY_BELIEF_FAITH_CRUSADER_SHORT</ShortDescription>
+			<Enhancer>true</Enhancer>
+			<CombatModifierEnemyCities>20</CombatModifierEnemyCities>
+		</Row>
+		<Row>
+			<Type>BELIEF_FAITH_ZEALOT</Type>
+			<Description>TXT_KEY_BELIEF_FAITH_ZEALOT</Description>
+			<ShortDescription>TXT_KEY_BELIEF_FAITH_ZEALOT_SHORT</ShortDescription>
+			<Pantheon>true</Pantheon>
+			<MaxDistance>10</MaxDistance>
+			<FaithFromKills>50</FaithFromKills>
+		</Row>
+		<Row>
+			<Type>BELIEF_FAITH_FORTRESS</Type>
+			<Description>TXT_KEY_BELIEF_FAITH_FORTRESS</Description>
+			<ShortDescription>TXT_KEY_BELIEF_FAITH_FORTRESS_SHORT</ShortDescription>
+			<Pantheon>true</Pantheon>
+			<CityRangeStrikeModifier>30</CityRangeStrikeModifier>
+		</Row>
+		<Row>
+			<Type>BELIEF_FAITH_TEMPLAR</Type>
+			<Description>TXT_KEY_BELIEF_FAITH_TEMPLAR</Description>
+			<ShortDescription>TXT_KEY_BELIEF_FAITH_TEMPLAR_SHORT</ShortDescription>
+			<Follower>true</Follower>
+		</Row>
+
+		<!--Obelisk-->
+		
+		<Row>
+			<Type>BELIEF_ENL_OBE</Type>
+			<Description>TXT_KEY_BEL_ENL_OBE</Description>
+			<ShortDescription>TXT_KEY_BEL_ENL_OBE_SHORT</ShortDescription>
+			<Follower>true</Follower>
+		</Row>
+		<Row>
+			<Type>BELIEF_WEA_OBE</Type>
+			<Description>TXT_KEY_BEL_WEA_OBE</Description>
+			<ShortDescription>TXT_KEY_BEL_WEA_OBE_SHORT</ShortDescription>
+			<Follower>true</Follower>
+		</Row>
+		<Row>
+			<Type>BELIEF_FER_OBE</Type>
+			<Description>TXT_KEY_BEL_FER_OBE</Description>
+			<ShortDescription>TXT_KEY_BEL_FER_OBE_SHORT</ShortDescription>
+			<Follower>true</Follower>
+		</Row>
+		<Row>
+			<Type>BELIEF_CUL_OBE</Type>
+			<Description>TXT_KEY_BEL_CUL_OBE</Description>
+			<ShortDescription>TXT_KEY_BEL_CUL_OBE_SHORT</ShortDescription>
+			<Follower>true</Follower>
+		</Row>
+		<Row>
+			<Type>BELIEF_PIE_OBE</Type>
+			<Description>TXT_KEY_BEL_PIE_OBE</Description>
+			<ShortDescription>TXT_KEY_BEL_PIE_OBE_SHORT</ShortDescription>
+			<Follower>true</Follower>
+		</Row>
+
+		<!-- Special Building -->
+
+		<Row>
+			<Type>BELIEF_CONS_CATHEDRALS</Type>
+			<Description>TXT_KEY_BELIEF_CONS_CATHEDRALS</Description>
+			<ShortDescription>TXT_KEY_BELIEF_CONS_CATHEDRALS_SHORT</ShortDescription>
+			<Follower>true</Follower>
+		</Row>
+		<Row>
+			<Type>BELIEF_CONS_MOSQUES</Type>
+			<Description>TXT_KEY_BELIEF_CONS_MOSQUES</Description>
+			<ShortDescription>TXT_KEY_BELIEF_CONS_MOSQUES_SHORT</ShortDescription>
+			<Follower>true</Follower>
+		</Row>
+		<Row>
+			<Type>BELIEF_CONS_PAGODAS</Type>
+			<Description>TXT_KEY_BELIEF_CONS_PAGODAS</Description>
+			<ShortDescription>TXT_KEY_BELIEF_CONS_PAGODAS_SHORT</ShortDescription>
+			<Follower>true</Follower>
+		</Row>
+		<Row>
+			<Type>BELIEF_CONS_MONASTERIES</Type>
+			<Description>TXT_KEY_BELIEF_CONS_MONASTERIES</Description>
+			<ShortDescription>TXT_KEY_BELIEF_CONS_MONASTERIES_SHORT</ShortDescription>
+			<Follower>true</Follower>
+		</Row>
+
+		<!-- Shrine enhancement -->
+
+		<Row>
+			<Type>BELIEF_ANC_CULTURE</Type>
+			<Description>TXT_KEY_BELIEF_ANC_CULTURE</Description>
+			<ShortDescription>TXT_KEY_BELIEF_ANC_CULTURE_SHORT</ShortDescription>
+			<Pantheon>true</Pantheon>
+		</Row>
+		<Row>
+			<Type>BELIEF_ANC_FAITH</Type>
+			<Description>TXT_KEY_BELIEF_ANC_FAITH</Description>
+			<ShortDescription>TXT_KEY_BELIEF_ANC_FAITH_SHORT</ShortDescription>
+			<Pantheon>true</Pantheon>
+		</Row>
+		<Row>
+			<Type>BELIEF_ANC_FOOD</Type>
+			<Description>TXT_KEY_BELIEF_ANC_FOOD</Description>
+			<ShortDescription>TXT_KEY_BELIEF_ANC_FOOD_SHORT</ShortDescription>
+			<Pantheon>true</Pantheon>
+		</Row>
+		<Row>
+			<Type>BELIEF_ANC_PROD</Type>
+			<Description>TXT_KEY_BELIEF_ANC_PROD</Description>
+			<ShortDescription>TXT_KEY_BELIEF_ANC_PROD_SHORT</ShortDescription>
+			<Pantheon>true</Pantheon>
+		</Row>
+		<Row>
+			<Type>BELIEF_ANC_SCIENCE</Type>
+			<Description>TXT_KEY_BELIEF_ANC_SCIENCE</Description>
+			<ShortDescription>TXT_KEY_BELIEF_ANC_SCIENCE_SHORT</ShortDescription>
+			<Pantheon>true</Pantheon>
+		</Row>
+		<Row>
+			<Type>BELIEF_ANC_HAPPY</Type>
+			<Description>TXT_KEY_BELIEF_ANC_HAPPY</Description>
+			<ShortDescription>TXT_KEY_BELIEF_ANC_HAPPY_SHORT</ShortDescription>
+			<Pantheon>true</Pantheon>
+			<MinFollowers>3</MinFollowers>
+		</Row>
+		<Row>
+			<Type>BELIEF_ANC_GOLD</Type>
+			<Description>TXT_KEY_BELIEF_ANC_GOLD</Description>
+			<ShortDescription>TXT_KEY_BELIEF_ANC_GOLD_SHORT</ShortDescription>
+			<Pantheon>true</Pantheon>
+		</Row>
+
+		<!-- City Enhancement 10 min pop -->
+
+		<Row>
+			<Type>BELIEF_GOD_CULTURE</Type>
+			<Description>TXT_KEY_BELIEF_GOD_CULTURE</Description>
+			<ShortDescription>TXT_KEY_BELIEF_GOD_CULTURE_SHORT</ShortDescription>
+			<Pantheon>true</Pantheon>
+			<MinPopulation>10</MinPopulation>
+		</Row>
+		<Row>
+			<Type>BELIEF_GOD_FAITH</Type>
+			<Description>TXT_KEY_BELIEF_GOD_FAITH</Description>
+			<ShortDescription>TXT_KEY_BELIEF_GOD_FAITH_SHORT</ShortDescription>
+			<Pantheon>true</Pantheon>
+			<MinPopulation>10</MinPopulation>
+		</Row>
+		<Row>
+			<Type>BELIEF_GOD_FOOD</Type>
+			<Description>TXT_KEY_BELIEF_GOD_FOOD</Description>
+			<ShortDescription>TXT_KEY_BELIEF_GOD_FOOD_SHORT</ShortDescription>
+			<Pantheon>true</Pantheon>
+			<MinPopulation>10</MinPopulation>
+		</Row>
+		<Row>
+			<Type>BELIEF_GOD_PROD</Type>
+			<Description>TXT_KEY_BELIEF_GOD_PROD</Description>
+			<ShortDescription>TXT_KEY_BELIEF_GOD_PROD_SHORT</ShortDescription>
+			<Pantheon>true</Pantheon>
+			<MinPopulation>10</MinPopulation>
+		</Row>
+		<Row>
+			<Type>BELIEF_GOD_SCIENCE</Type>
+			<Description>TXT_KEY_BELIEF_GOD_SCIENCE</Description>
+			<ShortDescription>TXT_KEY_BELIEF_GOD_SCIENCE_SHORT</ShortDescription>
+			<Pantheon>true</Pantheon>
+			<MinPopulation>10</MinPopulation>
+		</Row>
+		<Row>
+			<Type>BELIEF_GOD_HAPPY</Type>
+			<Description>TXT_KEY_BELIEF_GOD_HAPPY</Description>
+			<ShortDescription>TXT_KEY_BELIEF_GOD_HAPPY_SHORT</ShortDescription>
+			<Pantheon>true</Pantheon>
+			<MinPopulation>10</MinPopulation>
+			<HappinessPerCity>2</HappinessPerCity>
+		</Row>
+		<Row>
+			<Type>BELIEF_GOD_GOLD</Type>
+			<Description>TXT_KEY_BELIEF_GOD_GOLD</Description>
+			<ShortDescription>TXT_KEY_BELIEF_GOD_GOLD_SHORT</ShortDescription>
+			<Pantheon>true</Pantheon>
+			<MinPopulation>10</MinPopulation>
+		</Row>
+
+		<!-- City Enhancement 3 min pop -->
+
+		<Row>
+			<Type>BELIEF_AVA_CULTURE</Type>
+			<Description>TXT_KEY_BELIEF_AVA_CULTURE</Description>
+			<ShortDescription>TXT_KEY_BELIEF_AVA_CULTURE_SHORT</ShortDescription>
+			<Pantheon>true</Pantheon>
+			<MinPopulation>3</MinPopulation>
+		</Row>
+		<Row>
+			<Type>BELIEF_AVA_FAITH</Type>
+			<Description>TXT_KEY_BELIEF_AVA_FAITH</Description>
+			<ShortDescription>TXT_KEY_BELIEF_AVA_FAITH_SHORT</ShortDescription>
+			<Pantheon>true</Pantheon>
+			<MinPopulation>3</MinPopulation>
+		</Row>
+		<Row>
+			<Type>BELIEF_AVA_FOOD</Type>
+			<Description>TXT_KEY_BELIEF_AVA_FOOD</Description>
+			<ShortDescription>TXT_KEY_BELIEF_AVA_FOOD_SHORT</ShortDescription>
+			<Pantheon>true</Pantheon>
+			<MinPopulation>3</MinPopulation>
+		</Row>
+		<Row>
+			<Type>BELIEF_AVA_PROD</Type>
+			<Description>TXT_KEY_BELIEF_AVA_PROD</Description>
+			<ShortDescription>TXT_KEY_BELIEF_AVA_PROD_SHORT</ShortDescription>
+			<Pantheon>true</Pantheon>
+			<MinPopulation>3</MinPopulation>
+		</Row>
+		<Row>
+			<Type>BELIEF_AVA_SCIENCE</Type>
+			<Description>TXT_KEY_BELIEF_AVA_SCIENCE</Description>
+			<ShortDescription>TXT_KEY_BELIEF_AVA_SCIENCE_SHORT</ShortDescription>
+			<Pantheon>true</Pantheon>
+			<MinPopulation>3</MinPopulation>
+		</Row>
+		<Row>
+			<Type>BELIEF_AVA_HAPPY</Type>
+			<Description>TXT_KEY_BELIEF_AVA_HAPPY</Description>
+			<ShortDescription>TXT_KEY_BELIEF_AVA_HAPPY_SHORT</ShortDescription>
+			<Pantheon>true</Pantheon>
+			<MinPopulation>5</MinPopulation>
+			<HappinessPerCity>1</HappinessPerCity>
+		</Row>
+		<Row>
+			<Type>BELIEF_AVA_GOLD</Type>
+			<Description>TXT_KEY_BELIEF_AVA_GOLD</Description>
+			<ShortDescription>TXT_KEY_BELIEF_AVA_GOLD_SHORT</ShortDescription>
+			<Pantheon>true</Pantheon>
+			<MinPopulation>3</MinPopulation>
+		</Row>
+
+		<!-- Feature And terrain -->
+
+		<Row>
+			<Type>BELIEF_SAC_ATOLL_CULTURE</Type>
+			<Description>TXT_KEY_SAC_ATOLL_CULTURE</Description>
+			<ShortDescription>TXT_KEY_SAC_ATOLL_CULTURE_SHORT</ShortDescription>
+			<Pantheon>true</Pantheon>
+		</Row>
+		<Row>
+			<Type>BELIEF_SAC_MARSH_CULTURE</Type>
+			<Description>TXT_KEY_SAC_MARSH_CULTURE</Description>
+			<ShortDescription>TXT_KEY_SAC_MARSH_CULTURE_SHORT</ShortDescription>
+			<Pantheon>true</Pantheon>
+		</Row>
+		<Row>
+			<Type>BELIEF_SAC_JUNGLE_CULTURE</Type>
+			<Description>TXT_KEY_SAC_JUNGLE_CULTURE</Description>
+			<ShortDescription>TXT_KEY_SAC_JUNGLE_CULTURE_SHORT</ShortDescription>
+			<Pantheon>true</Pantheon>
+		</Row>
+		<Row>
+			<Type>BELIEF_SAC_OASIS_CULTURE</Type>
+			<Description>TXT_KEY_SAC_OASIS_CULTURE</Description>
+			<ShortDescription>TXT_KEY_SAC_OASIS_CULTURE_SHORT</ShortDescription>
+			<Pantheon>true</Pantheon>
+		</Row>
+		<Row>
+			<Type>BELIEF_SAC_DESERT_CULTURE</Type>
+			<Description>TXT_KEY_SAC_DESERT_CULTURE</Description>
+			<ShortDescription>TXT_KEY_SAC_DESERT_CULTURE_SHORT</ShortDescription>
+			<Pantheon>true</Pantheon>
+		</Row>
+		<Row>
+			<Type>BELIEF_SAC_TUNDRA_CULTURE</Type>
+			<Description>TXT_KEY_SAC_TUNDRA_CULTURE</Description>
+			<ShortDescription>TXT_KEY_SAC_TUNDRA_CULTURE_SHORT</ShortDescription>
+			<Pantheon>true</Pantheon>
+		</Row>
+		<Row>
+			<Type>BELIEF_SAC_SNOW_CULTURE</Type>
+			<Description>TXT_KEY_SAC_SNOW_CULTURE</Description>
+			<ShortDescription>TXT_KEY_SAC_SNOW_CULTURE_SHORT</ShortDescription>
+			<Pantheon>true</Pantheon>
+		</Row>
+		<Row>
+			<Type>BELIEF_SAC_ATOLL_SCIENCE</Type>
+			<Description>TXT_KEY_SAC_ATOLL_SCIENCE</Description>
+			<ShortDescription>TXT_KEY_SAC_ATOLL_SCIENCE_SHORT</ShortDescription>
+			<Pantheon>true</Pantheon>
+		</Row>
+		<Row>
+			<Type>BELIEF_SAC_MARSH_SCIENCE</Type>
+			<Description>TXT_KEY_SAC_MARSH_SCIENCE</Description>
+			<ShortDescription>TXT_KEY_SAC_MARSH_SCIENCE_SHORT</ShortDescription>
+			<Pantheon>true</Pantheon>
+		</Row>
+		<Row>
+			<Type>BELIEF_SAC_JUNGLE_SCIENCE</Type>
+			<Description>TXT_KEY_SAC_JUNGLE_SCIENCE</Description>
+			<ShortDescription>TXT_KEY_SAC_JUNGLE_SCIENCE_SHORT</ShortDescription>
+			<Pantheon>true</Pantheon>
+		</Row>
+		<Row>
+			<Type>BELIEF_SAC_OASIS_SCIENCE</Type>
+			<Description>TXT_KEY_SAC_OASIS_SCIENCE</Description>
+			<ShortDescription>TXT_KEY_SAC_OASIS_SCIENCE_SHORT</ShortDescription>
+			<Pantheon>true</Pantheon>
+		</Row>
+		<Row>
+			<Type>BELIEF_SAC_DESERT_SCIENCE</Type>
+			<Description>TXT_KEY_SAC_DESERT_SCIENCE</Description>
+			<ShortDescription>TXT_KEY_SAC_DESERT_SCIENCE_SHORT</ShortDescription>
+			<Pantheon>true</Pantheon>
+		</Row>
+		<Row>
+			<Type>BELIEF_SAC_TUNDRA_SCIENCE</Type>
+			<Description>TXT_KEY_SAC_TUNDRA_SCIENCE</Description>
+			<ShortDescription>TXT_KEY_SAC_TUNDRA_SCIENCE_SHORT</ShortDescription>
+			<Pantheon>true</Pantheon>
+		</Row>
+		<Row>
+			<Type>BELIEF_SAC_SNOW_SCIENCE</Type>
+			<Description>TXT_KEY_SAC_SNOW_SCIENCE</Description>
+			<ShortDescription>TXT_KEY_SAC_SNOW_SCIENCE_SHORT</ShortDescription>
+			<Pantheon>true</Pantheon>
+		</Row>
+		<Row>
+			<Type>BELIEF_SAC_ATOLL_FAITH</Type>
+			<Description>TXT_KEY_SAC_ATOLL_FAITH</Description>
+			<ShortDescription>TXT_KEY_SAC_ATOLL_FAITH_SHORT</ShortDescription>
+			<Pantheon>true</Pantheon>
+		</Row>
+		<Row>
+			<Type>BELIEF_SAC_MARSH_FAITH</Type>
+			<Description>TXT_KEY_SAC_MARSH_FAITH</Description>
+			<ShortDescription>TXT_KEY_SAC_MARSH_FAITH_SHORT</ShortDescription>
+			<Pantheon>true</Pantheon>
+		</Row>
+		<Row>
+			<Type>BELIEF_SAC_JUNGLE_FAITH</Type>
+			<Description>TXT_KEY_SAC_JUNGLE_FAITH</Description>
+			<ShortDescription>TXT_KEY_SAC_JUNGLE_FAITH_SHORT</ShortDescription>
+			<Pantheon>true</Pantheon>
+		</Row>
+		<Row>
+			<Type>BELIEF_SAC_OASIS_FAITH</Type>
+			<Description>TXT_KEY_SAC_OASIS_FAITH</Description>
+			<ShortDescription>TXT_KEY_SAC_OASIS_FAITH_SHORT</ShortDescription>
+			<Pantheon>true</Pantheon>
+		</Row>
+		<Row>
+			<Type>BELIEF_SAC_DESERT_FAITH</Type>
+			<Description>TXT_KEY_SAC_DESERT_FAITH</Description>
+			<ShortDescription>TXT_KEY_SAC_DESERT_FAITH_SHORT</ShortDescription>
+			<Pantheon>true</Pantheon>
+		</Row>
+		<Row>
+			<Type>BELIEF_SAC_TUNDRA_FAITH</Type>
+			<Description>TXT_KEY_SAC_TUNDRA_FAITH</Description>
+			<ShortDescription>TXT_KEY_SAC_TUNDRA_FAITH_SHORT</ShortDescription>
+			<Pantheon>true</Pantheon>
+		</Row>
+		<Row>
+			<Type>BELIEF_SAC_SNOW_FAITH</Type>
+			<Description>TXT_KEY_SAC_SNOW_FAITH</Description>
+			<ShortDescription>TXT_KEY_SAC_SNOW_FAITH_SHORT</ShortDescription>
+			<Pantheon>true</Pantheon>
+		</Row>
+
+
+		<!-- % Yields and %Growth -->
+
+
+		<Row>
+			<Type>BELIEF_RELIGIOUS_ABUNDANCE</Type>
+			<Description>TXT_KEY_BELIEF_RELIGIOUS_ABUNDANCE</Description>
+			<ShortDescription>TXT_KEY_BELIEF_RELIGIOUS_ABUNDANCE_SHORT</ShortDescription>
+			<Follower>true</Follower>
+		</Row>
+		<Row>
+			<Type>BELIEF_RELIGIOUS_LABOR</Type>
+			<Description>TXT_KEY_BELIEF_RELIGIOUS_LABOR</Description>
+			<ShortDescription>TXT_KEY_BELIEF_RELIGIOUS_LABOR_SHORT</ShortDescription>
+			<Follower>true</Follower>
+		</Row>
+		<Row>
+			<Type>BELIEF_RELIGIOUS_ENLIGHT</Type>
+			<Description>TXT_KEY_BELIEF_RELIGIOUS_ENLIGHT</Description>
+			<ShortDescription>TXT_KEY_BELIEF_RELIGIOUS_ENLIGHT_SHORT</ShortDescription>
+			<Follower>true</Follower>
+		</Row>
+		<Row>
+			<Type>BELIEF_RELIGIOUS_WEALTH</Type>
+			<Description>TXT_KEY_BELIEF_RELIGIOUS_WEALTH</Description>
+			<ShortDescription>TXT_KEY_BELIEF_RELIGIOUS_WEALTH_SHORT</ShortDescription>
+			<Follower>true</Follower>
+		</Row>
+		<Row>
+			<Type>BELIEF_RELIGIOUS_CUL</Type>
+			<Description>TXT_KEY_BELIEF_RELIGIOUS_CUL</Description>
+			<ShortDescription>TXT_KEY_BELIEF_RELIGIOUS_CUL_SHORT</ShortDescription>
+			<PlotCultureCostModifier>-15</PlotCultureCostModifier>
+			<Pantheon>true</Pantheon>
+		</Row>
+		<Row>
+			<Type>BELIEF_REL_FERT</Type>
+			<Description>TXT_KEY_BELIEF_REL_FERT</Description>
+			<ShortDescription>TXT_KEY_BELIEF_REL_FERT_SHORT</ShortDescription>
+			<Pantheon>true</Pantheon>
+			<CityGrowthModifier>10</CityGrowthModifier>
+		</Row>
+		<Row>
+			<Type>BELIEF_BELIEF_REL_MIS</Type>
+			<Description>TXT_KEY_BELIEF_REL_MIS</Description>
+			<ShortDescription>TXT_KEY_BELIEF_REL_MIS_SHORT</ShortDescription>
+			<Follower>true</Follower>
+			<CityGrowthModifier>15</CityGrowthModifier>
+			<RequiresPeace>true</RequiresPeace>
+		</Row>
+
+		<!-- Yields Per city/Foreign City -->
+
+		<Row>
+			<Type>BELIEF_PILGRIM_CULTURE</Type>
+			<Description>TXT_KEY_BELIEF_PILGRIM_CULTURE</Description>
+			<ShortDescription>TXT_KEY_BELIEF_PILGRIM_CULTURE_SHORT</ShortDescription>
+			<Founder>true</Founder>
+		</Row>
+		<Row>
+			<Type>BELIEF_PILGRIM_FAITH</Type>
+			<Description>TXT_KEY_BELIEF_PILGRIM_FAITH</Description>
+			<ShortDescription>TXT_KEY_BELIEF_PILGRIM_FAITH_SHORT</ShortDescription>
+			<Founder>true</Founder>
+		</Row>
+		<Row>
+			<Type>BELIEF_CHURCH_GOLD</Type>
+			<Description>TXT_KEY_BELIEF_CHURCH_GOLD</Description>
+			<ShortDescription>TXT_KEY_BELIEF_CHURCH_GOLD_SHORT</ShortDescription>
+			<Founder>true</Founder>
+			<GoldPerFollowingCity>2</GoldPerFollowingCity>
+		</Row>
+		<Row>
+			<Type>BELIEF_CHURCH_HAPPY</Type>
+			<Description>TXT_KEY_BELIEF_CHURCH_HAPPY</Description>
+			<ShortDescription>TXT_KEY_BELIEF_CHURCH_HAPPY_SHORT</ShortDescription>
+			<Founder>true</Founder>
+			<HappinessPerFollowingCity>0.5</HappinessPerFollowingCity>
+		</Row>
+
+		<!-- Yields Per Luxury Res -->
+
+		<Row>
+			<Type>BELIEF_FEST_TAILOR</Type>
+			<Description>TXT_KEY_BELIEF_FEST_TAILOR</Description>
+			<ShortDescription>TXT_KEY_BELIEF_FEST_TAILOR_SHORT</ShortDescription>
+			<Pantheon>true</Pantheon>
+		</Row>
+		<Row>
+			<Type>BELIEF_FEST_SEA</Type>
+			<Description>TXT_KEY_BELIEF_FEST_SEA</Description>
+			<ShortDescription>TXT_KEY_BELIEF_FEST_SEA_SHORT</ShortDescription>
+			<Pantheon>true</Pantheon>
+		</Row>
+		<Row>
+			<Type>BELIEF_FEST_JEW</Type>
+			<Description>TXT_KEY_BELIEF_FEST_JEW</Description>
+			<ShortDescription>TXT_KEY_BELIEF_FEST_JEW_SHORT</ShortDescription>
+			<Pantheon>true</Pantheon>
+		</Row>
+		<Row>
+			<Type>BELIEF_FEST_RICH</Type>
+			<Description>TXT_KEY_BELIEF_FEST_RICH</Description>
+			<ShortDescription>TXT_KEY_BELIEF_FEST_RICH_SHORT</ShortDescription>
+			<Pantheon>true</Pantheon>
+		</Row>
+		<Row>
+			<Type>BELIEF_FEST_ORI</Type>
+			<Description>TXT_KEY_BELIEF_FEST_ORI</Description>
+			<ShortDescription>TXT_KEY_BELIEF_FEST_ORI_SHORT</ShortDescription>
+			<Pantheon>true</Pantheon>
+		</Row>
+		<Row>
+			<Type>BELIEF_FEST_SPI</Type>
+			<Description>TXT_KEY_BELIEF_FEST_SPI</Description>
+			<ShortDescription>TXT_KEY_BELIEF_FEST_SPI_SHORT</ShortDescription>
+			<Pantheon>true</Pantheon>
+		</Row>
+		<Row>
+			<Type>BELIEF_FEST_GOR</Type>
+			<Description>TXT_KEY_BELIEF_FEST_GOR</Description>
+			<ShortDescription>TXT_KEY_BELIEF_FEST_GOR_SHORT</ShortDescription>
+			<Pantheon>true</Pantheon>
+		</Row>
+		<Row>
+			<Type>BELIEF_FEST_RIT</Type>
+			<Description>TXT_KEY_BELIEF_FEST_RIT</Description>
+			<ShortDescription>TXT_KEY_BELIEF_FEST_RIT_SHORT</ShortDescription>
+			<Pantheon>true</Pantheon>
+		</Row>
+		<Row>
+			<Type>BELIEF_FEST_STA</Type>
+			<Description>TXT_KEY_BELIEF_FEST_STA</Description>
+			<ShortDescription>TXT_KEY_BELIEF_FEST_STA_SHORT</ShortDescription>
+			<Pantheon>true</Pantheon>
+		</Row>
+		<Row>
+			<Type>BELIEF_FEST_EXO</Type>
+			<Description>TXT_KEY_BELIEF_FEST_EXO</Description>
+			<ShortDescription>TXT_KEY_BELIEF_FEST_EXO_SHORT</ShortDescription>
+			<Pantheon>true</Pantheon>
+		</Row>
+
+		<!-- Yields Per Improvement -->
+
+		<Row>
+			<Type>BELIEF_PRA_QUA_FOOD</Type>
+			<Description>TXT_KEY_BELIEF_PRA_QUA_FOOD</Description>
+			<ShortDescription>TXT_KEY_BELIEF_PRA_QUA_FOOD_SHORT</ShortDescription>
+			<Pantheon>true</Pantheon>
+		</Row>
+		<Row>
+			<Type>BELIEF_PRA_CAM_FOOD</Type>
+			<Description>TXT_KEY_BELIEF_PRA_CAM_FOOD</Description>
+			<ShortDescription>TXT_KEY_BELIEF_PRA_CAM_FOOD_SHORT</ShortDescription>
+			<Pantheon>true</Pantheon>
+		</Row>
+		<Row>
+			<Type>BELIEF_PRA_PAS_FOOD</Type>
+			<Description>TXT_KEY_BELIEF_PRA_PAS_FOOD</Description>
+			<ShortDescription>TXT_KEY_BELIEF_PRA_PAS_FOOD_SHORT</ShortDescription>
+			<Pantheon>true</Pantheon>
+		</Row>
+		<Row>
+			<Type>BELIEF_PRA_SUN_FOOD</Type>
+			<Description>TXT_KEY_BELIEF_PRA_SUN_FOOD</Description>
+			<ShortDescription>TXT_KEY_BELIEF_PRA_SUN_FOOD_SHORT</ShortDescription>
+			<Pantheon>true</Pantheon>
+		</Row>
+		<Row>
+			<Type>BELIEF_PRA_PLA_FOOD</Type>
+			<Description>TXT_KEY_BELIEF_PRA_PLA_FOOD</Description>
+			<ShortDescription>TXT_KEY_BELIEF_PRA_PLA_FOOD_SHORT</ShortDescription>
+			<Pantheon>true</Pantheon>
+		</Row>
+		<Row>
+			<Type>BELIEF_PRA_FISH_FOOD</Type>
+			<Description>TXT_KEY_BELIEF_PRA_FISH_FOOD</Description>
+			<ShortDescription>TXT_KEY_BELIEF_PRA_FISH_FOOD_SHORT</ShortDescription>
+			<Pantheon>true</Pantheon>
+		</Row>
+		<Row>
+			<Type>BELIEF_PRA_QUA_PROD</Type>
+			<Description>TXT_KEY_BELIEF_PRA_QUA_PROD</Description>
+			<ShortDescription>TXT_KEY_BELIEF_PRA_QUA_PROD_SHORT</ShortDescription>
+			<Pantheon>true</Pantheon>
+		</Row>
+		<Row>
+			<Type>BELIEF_PRA_CAM_PROD</Type>
+			<Description>TXT_KEY_BELIEF_PRA_CAM_PROD</Description>
+			<ShortDescription>TXT_KEY_BELIEF_PRA_CAM_PROD_SHORT</ShortDescription>
+			<Pantheon>true</Pantheon>
+		</Row>
+		<Row>
+			<Type>BELIEF_PRA_PAS_PROD</Type>
+			<Description>TXT_KEY_BELIEF_PRA_PAS_PROD</Description>
+			<ShortDescription>TXT_KEY_BELIEF_PRA_PAS_PROD_SHORT</ShortDescription>
+			<Pantheon>true</Pantheon>
+		</Row>
+		<Row>
+			<Type>BELIEF_PRA_PLA_PROD</Type>
+			<Description>TXT_KEY_BELIEF_PRA_PLA_PROD</Description>
+			<ShortDescription>TXT_KEY_BELIEF_PRA_PLA_PROD_SHORT</ShortDescription>
+			<Pantheon>true</Pantheon>
+		</Row>
+		<Row>
+			<Type>BELIEF_PRA_FISH_PROD</Type>
+			<Description>TXT_KEY_BELIEF_PRA_FISH_PROD</Description>
+			<ShortDescription>TXT_KEY_BELIEF_PRA_FISH_PROD_SHORT</ShortDescription>
+			<Pantheon>true</Pantheon>
+		</Row>
+		<Row>
+			<Type>BELIEF_PRA_QUA_GOLD</Type>
+			<Description>TXT_KEY_BELIEF_PRA_QUA_GOLD</Description>
+			<ShortDescription>TXT_KEY_BELIEF_PRA_QUA_GOLD_SHORT</ShortDescription>
+			<Pantheon>true</Pantheon>
+		</Row>
+		<Row>
+			<Type>BELIEF_PRA_CAM_GOLD</Type>
+			<Description>TXT_KEY_BELIEF_PRA_CAM_GOLD</Description>
+			<ShortDescription>TXT_KEY_BELIEF_PRA_CAM_GOLD_SHORT</ShortDescription>
+			<Pantheon>true</Pantheon>
+		</Row>
+		<Row>
+			<Type>BELIEF_PRA_PAS_GOLD</Type>
+			<Description>TXT_KEY_BELIEF_PRA_PAS_GOLD</Description>
+			<ShortDescription>TXT_KEY_BELIEF_PRA_PAS_GOLD_SHORT</ShortDescription>
+			<Pantheon>true</Pantheon>
+		</Row>
+		<Row>
+			<Type>BELIEF_PRA_PLA_GOLD</Type>
+			<Description>TXT_KEY_BELIEF_PRA_PLA_GOLD</Description>
+			<ShortDescription>TXT_KEY_BELIEF_PRA_PLA_GOLD_SHORT</ShortDescription>
+			<Pantheon>true</Pantheon>
+		</Row>
+		<Row>
+			<Type>BELIEF_PRA_FISH_GOLD</Type>
+			<Description>TXT_KEY_BELIEF_PRA_FISH_GOLD</Description>
+			<ShortDescription>TXT_KEY_BELIEF_PRA_FISH_GOLD_SHORT</ShortDescription>
+			<Pantheon>true</Pantheon>
+		</Row>
+		<Row>
+			<Type>BELIEF_PRA_MINE_FOOD</Type>
+			<Description>TXT_KEY_BELIEF_PRA_MINE_FOOD</Description>
+			<ShortDescription>TXT_KEY_BELIEF_PRA_MINE_FOOD_SHORT</ShortDescription>
+			<Pantheon>true</Pantheon>
+		</Row>
+		<Row>
+			<Type>BELIEF_PRA_MINE_PROD</Type>
+			<Description>TXT_KEY_BELIEF_PRA_MINE_PROD</Description>
+			<ShortDescription>TXT_KEY_BELIEF_PRA_MINE_PROD_SHORT</ShortDescription>
+			<Pantheon>true</Pantheon>
+		</Row>
+		<Row>
+			<Type>BELIEF_PRA_MINE_GOLD</Type>
+			<Description>TXT_KEY_BELIEF_PRA_MINE_GOLD</Description>
+			<ShortDescription>TXT_KEY_BELIEF_PRA_MINE_GOLD_SHORT</ShortDescription>
+			<Pantheon>true</Pantheon>
+		</Row>
+
+
+		<!-- Yields Per Great Improvement -->
+
+		<Row>
+			<Type>BELIEF_PIOGP_GEN</Type>
+			<Description>TXT_KEY_BELIEF_PIOGP_GEN</Description>
+			<ShortDescription>TXT_KEY_BELIEF_PIOGP_GEN_SHORT</ShortDescription>
+			<Follower>true</Follower>
+		</Row>
+		<Row>
+			<Type>BELIEF_PIOGP_ENG_1</Type>
+			<Description>TXT_KEY_BELIEF_PIOGP_ENG_1</Description>
+			<ShortDescription>TXT_KEY_BELIEF_PIOGP_ENG_1_SHORT</ShortDescription>
+			<Follower>true</Follower>
+		</Row>
+		<Row>
+			<Type>BELIEF_PIOGP_ENG_2</Type>
+			<Description>TXT_KEY_BELIEF_PIOGP_ENG_2</Description>
+			<ShortDescription>TXT_KEY_BELIEF_PIOGP_ENG_2_SHORT</ShortDescription>
+			<Follower>true</Follower>
+		</Row>
+		<Row>
+			<Type>BELIEF_PIOGP_ENG_3</Type>
+			<Description>TXT_KEY_BELIEF_PIOGP_ENG_3</Description>
+			<ShortDescription>TXT_KEY_BELIEF_PIOGP_ENG_3_SHORT</ShortDescription>
+			<Follower>true</Follower>
+		</Row>
+		<Row>
+			<Type>BELIEF_PIOGP_ENG_4</Type>
+			<Description>TXT_KEY_BELIEF_PIOGP_ENG_4</Description>
+			<ShortDescription>TXT_KEY_BELIEF_PIOGP_ENG_4_SHORT</ShortDescription>
+			<Follower>true</Follower>
+		</Row>
+
+		<!-- Yields Per trade Route -->
+		<!-- Yields Per natural wonder -->
+		<!-- Yields Per world wonder -->
+
+		<Row>
+			<Type>BELIEF_TRAV_SCI</Type>
+			<Description>TXT_KEY_BELIEF_TRAV_SCI</Description>
+			<ShortDescription>TXT_KEY_BELIEF_TRAV_SCI_SHORT</ShortDescription>
+			<Pantheon>true</Pantheon>
+		</Row>
+		<Row>
+			<Type>BELIEF_NATURAL_SCI</Type>
+			<Description>TXT_KEY_BELIEF_NATURAL_SCI</Description>
+			<ShortDescription>TXT_KEY_BELIEF_NATURAL_SCI_SHORT</ShortDescription>
+			<Pantheon>true</Pantheon>
+		</Row>
+		<Row>
+			<Type>BELIEF_WOND_SCI</Type>
+			<Description>TXT_KEY_BELIEF_WOND_SCI</Description>
+			<ShortDescription>TXT_KEY_BELIEF_WOND_SCI_SHORT</ShortDescription>
+			<Follower>true</Follower>
+		</Row>
+		<Row>
+			<Type>BELIEF_TRAV_CUL</Type>
+			<Description>TXT_KEY_BELIEF_TRAV_CUL</Description>
+			<ShortDescription>TXT_KEY_BELIEF_TRAV_CUL_SHORT</ShortDescription>
+			<Pantheon>true</Pantheon>
+		</Row>
+		<Row>
+			<Type>BELIEF_NATURAL_CUL</Type>
+			<Description>TXT_KEY_BELIEF_NATURAL_CUL</Description>
+			<ShortDescription>TXT_KEY_BELIEF_NATURAL_CUL_SHORT</ShortDescription>
+			<Pantheon>true</Pantheon>
+		</Row>
+		<Row>
+			<Type>BELIEF_WOND_CUL</Type>
+			<Description>TXT_KEY_BELIEF_WOND_CUL</Description>
+			<ShortDescription>TXT_KEY_BELIEF_WOND_CUL_SHORT</ShortDescription>
+			<Follower>true</Follower>
+		</Row>
+		<Row>
+			<Type>BELIEF_TRAV_FAI</Type>
+			<Description>TXT_KEY_BELIEF_TRAV_FAI</Description>
+			<ShortDescription>TXT_KEY_BELIEF_TRAV_FAI_SHORT</ShortDescription>
+			<Pantheon>true</Pantheon>
+		</Row>
+		<Row>
+			<Type>BELIEF_NATURAL_FAI</Type>
+			<Description>TXT_KEY_BELIEF_NATURAL_FAI</Description>
+			<ShortDescription>TXT_KEY_BELIEF_NATURAL_FAI_SHORT</ShortDescription>
+			<Pantheon>true</Pantheon>
+		</Row>
+		<Row>
+			<Type>BELIEF_WOND_FAI</Type>
+			<Description>TXT_KEY_BELIEF_WOND_FAI</Description>
+			<ShortDescription>TXT_KEY_BELIEF_WOND_FAI_SHORT</ShortDescription>
+			<Follower>true</Follower>
+		</Row>
+		<Row>
+			<Type>BELIEF_TRAV_FOOD</Type>
+			<Description>TXT_KEY_BELIEF_TRAV_FOOD</Description>
+			<ShortDescription>TXT_KEY_BELIEF_TRAV_FOOD_SHORT</ShortDescription>
+			<Pantheon>true</Pantheon>
+		</Row>
+		<Row>
+			<Type>BELIEF_NATURAL_FOOD</Type>
+			<Description>TXT_KEY_BELIEF_NATURAL_FOOD</Description>
+			<ShortDescription>TXT_KEY_BELIEF_NATURAL_FOOD_SHORT</ShortDescription>
+			<Pantheon>true</Pantheon>
+		</Row>
+		<Row>
+			<Type>BELIEF_WOND_FOOD</Type>
+			<Description>TXT_KEY_BELIEF_WOND_FOOD</Description>
+			<ShortDescription>TXT_KEY_BELIEF_WOND_FOOD_SHORT</ShortDescription>
+			<Follower>true</Follower>
+		</Row>
+		<Row>
+			<Type>BELIEF_TRAV_PROD</Type>
+			<Description>TXT_KEY_BELIEF_TRAV_PROD</Description>
+			<ShortDescription>TXT_KEY_BELIEF_TRAV_PROD_SHORT</ShortDescription>
+			<Pantheon>true</Pantheon>
+		</Row>
+		<Row>
+			<Type>BELIEF_NATURAL_PROD</Type>
+			<Description>TXT_KEY_BELIEF_NATURAL_PROD</Description>
+			<ShortDescription>TXT_KEY_BELIEF_NATURAL_PROD_SHORT</ShortDescription>
+			<Pantheon>true</Pantheon>
+		</Row>
+		<Row>
+			<Type>BELIEF_WOND_PROD</Type>
+			<Description>TXT_KEY_BELIEF_WOND_PROD</Description>
+			<ShortDescription>TXT_KEY_BELIEF_WOND_PROD_SHORT</ShortDescription>
+			<Follower>true</Follower>
+		</Row>
+		<Row>
+			<Type>BELIEF_TRAV_GOLD</Type>
+			<Description>TXT_KEY_BELIEF_TRAV_GOLD</Description>
+			<ShortDescription>TXT_KEY_BELIEF_TRAV_GOLD_SHORT</ShortDescription>
+			<Pantheon>true</Pantheon>
+		</Row>
+		<Row>
+			<Type>BELIEF_NATURAL_GOLD</Type>
+			<Description>TXT_KEY_BELIEF_NATURAL_GOLD</Description>
+			<ShortDescription>TXT_KEY_BELIEF_NATURAL_GOLD_SHORT</ShortDescription>
+			<Pantheon>true</Pantheon>
+		</Row>
+		<Row>
+			<Type>BELIEF_WOND_GOLD</Type>
+			<Description>TXT_KEY_BELIEF_WOND_GOLD</Description>
+			<ShortDescription>TXT_KEY_BELIEF_WOND_GOLD_SHORT</ShortDescription>
+			<Follower>true</Follower>
+		</Row>
+
+
+		<!-- Yields Per Temple / Wonder Construct % -->
+
+		<Row>
+			<Type>BELIEF_MON_SCI</Type>
+			<Description>TXT_KEY_BELIEF_MON_SCI</Description>
+			<ShortDescription>TXT_KEY_BELIEF_MON_SCI_SHORT</ShortDescription>
+			<Follower>true</Follower>
+		</Row>
+		<Row>
+			<Type>BELIEF_MON_CUL</Type>
+			<Description>TXT_KEY_BELIEF_MON_CUL</Description>
+			<ShortDescription>TXT_KEY_BELIEF_MON_CUL_SHORT</ShortDescription>
+			<Follower>true</Follower>
+		</Row>
+		<Row>
+			<Type>BELIEF_MON_FOOD</Type>
+			<Description>TXT_KEY_BELIEF_MON_FOOD</Description>
+			<ShortDescription>TXT_KEY_BELIEF_MON_FOOD_SHORT</ShortDescription>
+			<Follower>true</Follower>
+		</Row>
+		<Row>
+			<Type>BELIEF_MON_PROD</Type>
+			<Description>TXT_KEY_BELIEF_MON_PROD</Description>
+			<ShortDescription>TXT_KEY_BELIEF_MON_PROD_SHORT</ShortDescription>
+			<Follower>true</Follower>
+		</Row>
+		<Row>
+			<Type>BELIEF_MON_GOLD</Type>
+			<Description>TXT_KEY_BELIEF_MON_GOLD</Description>
+			<ShortDescription>TXT_KEY_BELIEF_MON_GOLD_SHORT</ShortDescription>
+			<Follower>true</Follower>
+		</Row>
+		<Row>
+			<Type>BELIEF_MON_HAPPY</Type>
+			<Description>TXT_KEY_BELIEF_MON_HAPPY</Description>
+			<ShortDescription>TXT_KEY_BELIEF_MON_HAPPY_SHORT</ShortDescription>
+			<MinFollowers>5</MinFollowers>
+			<Follower>true</Follower>
+		</Row>
+		<Row>
+			<Type>BELIEF_MON_WOND</Type>
+			<Description>TXT_KEY_BELIEF_MON_WOND</Description>
+			<ShortDescription>TXT_KEY_BELIEF_MON_WOND_SHORT</ShortDescription>
+			<Pantheon>true</Pantheon>
+			<ObsoleteEra>ERA_MEDIEVAL</ObsoleteEra>
+			<WonderProductionModifier>15</WonderProductionModifier>
+		</Row>
+
+		<!-- Yields if city has Specialist -->
+
+		<Row>
+			<Type>BELIEF_GURU_SCI</Type>
+			<Description>TXT_KEY_BELIEF_GURU_SCI</Description>
+			<ShortDescription>TXT_KEY_BELIEF_GURU_SCI_SHORT</ShortDescription>
+			<Follower>true</Follower>
+		</Row>
+		<Row>
+			<Type>BELIEF_GURU_CUL</Type>
+			<Description>TXT_KEY_BELIEF_GURU_CUL</Description>
+			<ShortDescription>TXT_KEY_BELIEF_GURU_CUL_SHORT</ShortDescription>
+			<Follower>true</Follower>
+		</Row>
+		<Row>
+			<Type>BELIEF_GURU_FAI</Type>
+			<Description>TXT_KEY_BELIEF_GURU_FAI</Description>
+			<ShortDescription>TXT_KEY_BELIEF_GURU_FAI_SHORT</ShortDescription>
+			<Follower>true</Follower>
+		</Row>
+		<Row>
+			<Type>BELIEF_GURU_FOOD</Type>
+			<Description>TXT_KEY_BELIEF_GURU_FOOD</Description>
+			<ShortDescription>TXT_KEY_BELIEF_GURU_FOOD_SHORT</ShortDescription>
+			<Follower>true</Follower>
+		</Row>
+		<Row>
+			<Type>BELIEF_GURU_PROD</Type>
+			<Description>TXT_KEY_BELIEF_GURU_PROD</Description>
+			<ShortDescription>TXT_KEY_BELIEF_GURU_PROD_SHORT</ShortDescription>
+			<Follower>true</Follower>
+		</Row>
+		<Row>
+			<Type>BELIEF_GURU_GOLD</Type>
+			<Description>TXT_KEY_BELIEF_GURU_GOLD</Description>
+			<ShortDescription>TXT_KEY_BELIEF_GURU_GOLD_SHORT</ShortDescription>
+			<Follower>true</Follower>
+		</Row>
+
+		<!-- Gold or science on conversion -->
+
+		<Row>
+			<Type>BELIEF_INTER_SCI</Type>
+			<Description>TXT_KEY_BELIEF_INTER_SCI</Description>
+			<ShortDescription>TXT_KEY_BELIEF_INTER_SCI_SHORT</ShortDescription>
+			<Founder>true</Founder>
+			<SciencePerOtherReligionFollower>10</SciencePerOtherReligionFollower>
+		</Row>
+		<Row>
+			<Type>BELIEF_INTER_GOLD</Type>
+			<Description>TXT_KEY_BELIEF_INTER_GOLD</Description>
+			<ShortDescription>TXT_KEY_BELIEF_INTER_GOLD_SHORT</ShortDescription>
+			<Founder>true</Founder>
+			<GoldPerFirstCityConversion>100</GoldPerFirstCityConversion>
+		</Row>
+		<Row>
+			<Type>BELIEF_INTER_FOLLOWERS</Type>
+			<Description>TXT_KEY_BELIEF_INTER_FOLLOWERS</Description>
+			<ShortDescription>TXT_KEY_BELIEF_INTER_FOLLOWERS_SHORT</ShortDescription>
+			<Founder>true</Founder>
+			<CityStateMinimumInfluence>15</CityStateMinimumInfluence>
+		</Row>
+
+		<!-- Yield per foreign follower not at war -->
+		<!-- Yield per Foreign follower -->
+		<!-- Yield per follower -->
+
+		<Row>
+			<Type>BELIEF_APO_PEACE</Type>
+			<Description>TXT_KEY_BELIEF_APO_PEACE</Description>
+			<ShortDescription>TXT_KEY_BELIEF_APO_PEACE_SHORT</ShortDescription>
+			<Founder>true</Founder>
+			<HappinessPerXPeacefulForeignFollowers>6</HappinessPerXPeacefulForeignFollowers>
+		</Row>
+		<Row>
+			<Type>BELIEF_APO_CUL</Type>
+			<Description>TXT_KEY_BELIEF_APO_CUL</Description>
+			<ShortDescription>TXT_KEY_BELIEF_APO_CUL_SHORT</ShortDescription>
+			<Founder>true</Founder>
+		</Row>
+		<Row>
+			<Type>BELIEF_APO_OPU</Type>
+			<Description>TXT_KEY_BELIEF_APO_OPU</Description>
+			<ShortDescription>TXT_KEY_BELIEF_APO_OPU_SHORT</ShortDescription>
+			<Founder>true</Founder>
+			<GoldPerXFollowers>4</GoldPerXFollowers>
+		</Row>
+
+		<!-- Grouped Vanilla Enhancers -->
+
+		<Row>
+			<Type>BELIEF_HOLY_ORDERS</Type>
+			<Description>TXT_KEY_BELIEF_HOLY_ORDERS</Description>
+			<ShortDescription>TXT_KEY_BELIEF_HOLY_ORDERS_SHORT</ShortDescription>
+			<Enhancer>true</Enhancer>
+			<MissionaryCostModifier>-30</MissionaryCostModifier>
+		</Row>
+		<Row>
+			<Type>BELIEF_HOLY_PREACHERS</Type>
+			<Description>TXT_KEY_BELIEF_HOLY_PREACHERS</Description>
+			<ShortDescription>TXT_KEY_BELIEF_HOLY_PREACHERS_SHORT</ShortDescription>
+			<Enhancer>true</Enhancer>
+			<SpreadDistanceModifier>30</SpreadDistanceModifier>
+		</Row>
+		<Row>
+			<Type>BELIEF_HOLY_MESSIAH</Type>
+			<Description>TXT_KEY_BELIEF_HOLY_MESSIAH</Description>
+			<ShortDescription>TXT_KEY_BELIEF_HOLY_MESSIAH_SHORT</ShortDescription>
+			<Enhancer>true</Enhancer>
+			<ProphetStrengthModifier>25</ProphetStrengthModifier>
+			<ProphetCostModifier>-25</ProphetCostModifier>
+		</Row>
+		<Row>
+			<Type>BELIEF_HOLY_MISSIONARY</Type>
+			<Description>TXT_KEY_BELIEF_HOLY_MISSIONARY</Description>
+			<ShortDescription>TXT_KEY_BELIEF_HOLY_MISSIONARY_SHORT</ShortDescription>
+			<Enhancer>true</Enhancer>
+			<MissionaryStrengthModifier>25</MissionaryStrengthModifier>
+		</Row>
+		<Row>
+			<Type>BELIEF_HOLY_MESSENGER</Type>
+			<Description>TXT_KEY_BELIEF_HOLY_MESSENGER</Description>
+			<ShortDescription>TXT_KEY_BELIEF_HOLY_MESSENGER_SHORT</ShortDescription>
+			<Enhancer>true</Enhancer>
+			<FriendlyCityStateSpreadModifier>100</FriendlyCityStateSpreadModifier>
+		</Row>
+		<Row>
+			<Type>BELIEF_HOLY_TEXTS</Type>
+			<Description>TXT_KEY_BELIEF_HOLY_TEXTS</Description>
+			<ShortDescription>TXT_KEY_BELIEF_HOLY_TEXTS_SHORT</ShortDescription>
+			<Enhancer>true</Enhancer>
+			<SpreadStrengthModifier>35</SpreadStrengthModifier>
+		</Row>
+		<Row>
+			<Type>BELIEF_HOLY_MARTYR</Type>
+			<Description>TXT_KEY_BELIEF_HOLY_MARTYR</Description>
+			<ShortDescription>TXT_KEY_BELIEF_HOLY_MARTYR_SHORT</ShortDescription>
+			<Enhancer>true</Enhancer>
+			<GreatPersonExpendedFaith>50</GreatPersonExpendedFaith>
+		</Row>
+
+
+		<!-- Rulership: Yield per Building Palace vs Granary + God-King-->
+		<Row>
+			<Type>BELIEF_RUL_DES</Type>
+			<Description>TXT_KEY_BELIEF_RUL_DES</Description>
+			<ShortDescription>TXT_KEY_BELIEF_RUL_DES_SHORT</ShortDescription>
+			<Pantheon>true</Pantheon>
+		</Row>
+		<Row>
+			<Type>BELIEF_RUL_TAX</Type>
+			<Description>TXT_KEY_BELIEF_RUL_TAX</Description>
+			<ShortDescription>TXT_KEY_BELIEF_RUL_TAX_SHORT</ShortDescription>
+			<Follower>true</Follower>
+			<MinFollowers>3</MinFollowers>
+		</Row>
+		<Row>
+			<Type>BELIEF_RUL_GEN</Type>
+			<Description>TXT_KEY_BELIEF_RUL_GEN</Description>
+			<ShortDescription>TXT_KEY_BELIEF_RUL_GEN_SHORT</ShortDescription>
+			<Follower>true</Follower>
+			<MinFollowers>3</MinFollowers>
+		</Row>
+		<Row>
+			<Type>BELIEF_RUL_CONS</Type>
+			<Description>TXT_KEY_BELIEF_RUL_CONS</Description>
+			<ShortDescription>TXT_KEY_BELIEF_RUL_CONS_SHORT</ShortDescription>
+			<Follower>true</Follower>
+			<MinFollowers>3</MinFollowers>
+		</Row>
+		<Row>
+			<Type>BELIEF_RUL_MENT</Type>
+			<Description>TXT_KEY_BELIEF_RUL_MENT</Description>
+			<ShortDescription>TXT_KEY_BELIEF_RUL_MENT_SHORT</ShortDescription>
+			<Follower>true</Follower>
+			<MinFollowers>3</MinFollowers>
+		</Row>
+		<Row>
+			<Type>BELIEF_RUL_THEO</Type>
+			<Description>TXT_KEY_BELIEF_RUL_THEO</Description>
+			<ShortDescription>TXT_KEY_BELIEF_RUL_THEO_SHORT</ShortDescription>
+			<Follower>true</Follower>
+			<MinFollowers>3</MinFollowers>
+		</Row>
+		<Row>
+			<Type>BELIEF_RUL_MOD</Type>
+			<Description>TXT_KEY_BELIEF_RUL_MOD</Description>
+			<ShortDescription>TXT_KEY_BELIEF_RUL_MOD_SHORT</ShortDescription>
+			<Follower>true</Follower>
+			<MinFollowers>3</MinFollowers>
+		</Row>
+		<Row>
+			<Type>BELIEF_RUL_HEDO</Type>
+			<Description>TXT_KEY_BELIEF_RUL_HEDO</Description>
+			<ShortDescription>TXT_KEY_BELIEF_RUL_HEDO_SHORT</ShortDescription>
+			<Follower>true</Follower>
+			<MinFollowers>3</MinFollowers>
+		</Row>
+		<Row>
+			<Type>BELIEF_RUL_COLO</Type>
+			<Description>TXT_KEY_BELIEF_RUL_COLO</Description>
+			<ShortDescription>TXT_KEY_BELIEF_RUL_COLO_SHORT</ShortDescription>
+			<Follower>true</Follower>
+			<MinFollowers>3</MinFollowers>
+		</Row>
+
+		<!-- Happiness city river -->
+		<Row>
+			<Type>BELIEF_SACRED_WATER</Type>
+			<Description>TXT_KEY_BELIEF_SACRED_WATER</Description>
+			<ShortDescription>TXT_KEY_BELIEF_SACRED_WATER_SHORT</ShortDescription>
+			<Pantheon>true</Pantheon>
+			<RiverHappiness>1</RiverHappiness>
+		</Row>
+
+
+	</Beliefs>
+
+
+	<!-- Beliefs Effect -->
+
+	<!-- Faith Building-->
+	<Buildings>
+
+		<!--Obelisk-->
+		<Row>
+			<Type>BUILDING_ENL_OBE</Type>
+			<BuildingClass>BUILDINGCLASS_ENL_OBE</BuildingClass>
+			<Cost>-1</Cost>
+			<FaithCost>250</FaithCost>
+			<UnlockedByBelief>true</UnlockedByBelief>
+			<Description>TXT_KEY_BUILD_ENL_OBE</Description>
+			<Strategy>TXT_KEY_BUILD_ENL_OBE_STRAT</Strategy>
+			<ArtDefineTag>MONUMENT</ArtDefineTag>
+			<SpecialistType>SPECIALIST_SCIENTIST</SpecialistType>
+			<GreatPeopleRateChange>2</GreatPeopleRateChange>
+			<MinAreaSize>-1</MinAreaSize>
+			<IconAtlas>BW_ATLAS_1</IconAtlas>
+			<NeverCapture>true</NeverCapture>
+			<PortraitIndex>21</PortraitIndex>
+		</Row>
+		<Row>
+			<Type>BUILDING_WEA_OBE</Type>
+			<BuildingClass>BUILDINGCLASS_WEA_OBE</BuildingClass>
+			<Cost>-1</Cost>
+			<FaithCost>250</FaithCost>
+			<UnlockedByBelief>true</UnlockedByBelief>
+			<Description>TXT_KEY_BUILD_WEA_OBE</Description>
+			<Strategy>TXT_KEY_BUILD_WEA_OBE_STRAT</Strategy>
+			<ArtDefineTag>MONUMENT</ArtDefineTag>
+			<SpecialistType>SPECIALIST_MERCHANT</SpecialistType>
+			<GreatPeopleRateChange>2</GreatPeopleRateChange>
+			<MinAreaSize>-1</MinAreaSize>
+			<IconAtlas>BW_ATLAS_1</IconAtlas>
+			<NeverCapture>true</NeverCapture>
+			<PortraitIndex>21</PortraitIndex>
+		</Row>
+		<Row>
+			<Type>BUILDING_FER_OBE</Type>
+			<BuildingClass>BUILDINGCLASS_FER_OBE</BuildingClass>
+			<Cost>-1</Cost>
+			<FaithCost>250</FaithCost>
+			<UnlockedByBelief>true</UnlockedByBelief>
+			<Description>TXT_KEY_BUILD_FER_OBE</Description>
+			<Strategy>TXT_KEY_BUILD_FER_OBE_STRAT</Strategy>
+			<ArtDefineTag>MONUMENT</ArtDefineTag>
+			<SpecialistType>SPECIALIST_ENGINEER</SpecialistType>
+			<GreatPeopleRateChange>2</GreatPeopleRateChange>
+			<MinAreaSize>-1</MinAreaSize>
+			<IconAtlas>BW_ATLAS_1</IconAtlas>
+			<NeverCapture>true</NeverCapture>
+			<PortraitIndex>21</PortraitIndex>
+		</Row>
+		<Row>
+			<Type>BUILDING_CUL_OBE</Type>
+			<BuildingClass>BUILDINGCLASS_CUL_OBE</BuildingClass>
+			<Cost>-1</Cost>
+			<FaithCost>250</FaithCost>
+			<UnlockedByBelief>true</UnlockedByBelief>
+			<Description>TXT_KEY_BUILD_CUL_OBE</Description>
+			<Strategy>TXT_KEY_BUILD_CUL_OBE_STRAT</Strategy>
+			<ArtDefineTag>MONUMENT</ArtDefineTag>
+			<SpecialistType>SPECIALIST_ARTIST</SpecialistType>
+			<GreatPeopleRateChange>0</GreatPeopleRateChange>
+			<MinAreaSize>-1</MinAreaSize>
+			<IconAtlas>BW_ATLAS_1</IconAtlas>
+			<NeverCapture>true</NeverCapture>
+			<PortraitIndex>21</PortraitIndex>
+		</Row>
+		<Row>
+			<Type>BUILDING_PIE_OBE</Type>
+			<BuildingClass>BUILDINGCLASS_PIE_OBE</BuildingClass>
+			<Cost>-1</Cost>
+			<FaithCost>250</FaithCost>
+			<UnlockedByBelief>true</UnlockedByBelief>
+			<Help>TXT_KEY_BUILD_PIE_OBE_HELP</Help>
+			<Description>TXT_KEY_BUILD_PIE_OBE</Description>
+			<Strategy>TXT_KEY_BUILD_PIE_OBE_STRAT</Strategy>
+			<ArtDefineTag>MONUMENT</ArtDefineTag>
+			<ReligiousPressureModifier>25</ReligiousPressureModifier>
+			<MinAreaSize>-1</MinAreaSize>
+			<IconAtlas>BW_ATLAS_1</IconAtlas>
+			<NeverCapture>true</NeverCapture>
+			<PortraitIndex>21</PortraitIndex>
+		</Row>
+		
+		<!--Holy War Faith Cost-->
+
+		<Update>
+			<Set FaithCost="150" UnlockedByBelief="true" />
+			<Where Type="BUILDING_BARRACKS" />
+		</Update>
+		<Update>
+			<Set FaithCost="175" UnlockedByBelief="true" />
+			<Where Type="BUILDING_ARMORY" />
+		</Update>
+		<Update>
+			<Set FaithCost="200" UnlockedByBelief="true" />
+			<Where Type="BUILDING_MILITARY_ACADEMY" />
+		</Update>
+
+
+	</Buildings>
+
+	<!--Faith Building Classes-->
+	<BuildingClasses>
+
+		<!--Obelisk-->
+		<Row>
+			<Type>BUILDINGCLASS_ENL_OBE</Type>
+			<DefaultBuilding>BUILDING_ENL_OBE</DefaultBuilding>
+			<Description>TXT_KEY_BUILD_ENL_OBE</Description>
+		</Row>
+		<Row>
+			<Type>BUILDINGCLASS_WEA_OBE</Type>
+			<DefaultBuilding>BUILDING_WEA_OBE</DefaultBuilding>
+			<Description>TXT_KEY_BUILD_WEA_OBE</Description>
+		</Row>
+		<Row>
+			<Type>BUILDINGCLASS_FER_OBE</Type>
+			<DefaultBuilding>BUILDING_FER_OBE</DefaultBuilding>
+			<Description>TXT_KEY_BUILD_FER_OBE</Description>
+		</Row>
+		<Row>
+			<Type>BUILDINGCLASS_CUL_OBE</Type>
+			<DefaultBuilding>BUILDING_CUL_OBE</DefaultBuilding>
+			<Description>TXT_KEY_BUILD_CUL_OBE</Description>
+		</Row>
+		<Row>
+			<Type>BUILDINGCLASS_PIE_OBE</Type>
+			<DefaultBuilding>BUILDING_PIE_OBE</DefaultBuilding>
+			<Description>TXT_KEY_BUILD_PIE_OBE</Description>
+		</Row>
+
+	</BuildingClasses>
+
+	<!--Faith Building Flavors-->
+	<Building_Flavors>
+
+		<!--Obelisk-->
+		<Row>
+			<BuildingType>BUILDING_ENL_OBE</BuildingType>
+			<FlavorType>FLAVOR_SCIENCE</FlavorType>
+			<Flavor>5</Flavor>
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_WEA_OBE</BuildingType>
+			<FlavorType>FLAVOR_GOLD</FlavorType>
+			<Flavor>5</Flavor>
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_FER_OBE</BuildingType>
+			<FlavorType>FLAVOR_PRODUCTION</FlavorType>
+			<Flavor>5</Flavor>
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_CUL_OBE</BuildingType>
+			<FlavorType>FLAVOR_CULTURE</FlavorType>
+			<Flavor>5</Flavor>
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_PIE_OBE</BuildingType>
+			<FlavorType>FLAVOR_RELIGION</FlavorType>
+			<Flavor>5</Flavor>
+		</Row>
+
+	</Building_Flavors>
+
+	<!--Faith Building Yield-->
+	<Building_YieldChanges>
+
+		<!--Obelisk-->
+		<Row>
+			<BuildingType>BUILDING_ENL_OBE</BuildingType>
+			<YieldType>YIELD_SCIENCE</YieldType>
+			<Yield>2</Yield>
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_WEA_OBE</BuildingType>
+			<YieldType>YIELD_GOLD</YieldType>
+			<Yield>2</Yield>
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_FER_OBE</BuildingType>
+			<YieldType>YIELD_PRODUCTION</YieldType>
+			<Yield>2</Yield>
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_CUL_OBE</BuildingType>
+			<YieldType>YIELD_CULTURE</YieldType>
+			<Yield>2</Yield>
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_PIE_OBE</BuildingType>
+			<YieldType>YIELD_FAITH</YieldType>
+			<Yield>2</Yield>
+		</Row>
+
+	</Building_YieldChanges>
+
+	<Belief_BuildingClassTourism>
+		<Row>
+			<BeliefType>BELIEF_CUL_OBE</BeliefType>
+			<BuildingClassType>BUILDINGCLASS_CUL_OBE</BuildingClassType>
+			<Tourism>2</Tourism>
+		</Row>
+	</Belief_BuildingClassTourism>
+
+	<!-- Faith Construction -->
+	<Belief_BuildingClassFaithPurchase>
+		<Row>
+			<BeliefType>BELIEF_ENL_OBE</BeliefType>
+			<BuildingClassType>BUILDINGCLASS_ENL_OBE</BuildingClassType>
+		</Row>
+		<Row>
+			<BeliefType>BELIEF_WEA_OBE</BeliefType>
+			<BuildingClassType>BUILDINGCLASS_WEA_OBE</BuildingClassType>
+		</Row>
+		<Row>
+			<BeliefType>BELIEF_FER_OBE</BeliefType>
+			<BuildingClassType>BUILDINGCLASS_FER_OBE</BuildingClassType>
+		</Row>
+		<Row>
+			<BeliefType>BELIEF_CUL_OBE</BeliefType>
+			<BuildingClassType>BUILDINGCLASS_CUL_OBE</BuildingClassType>
+		</Row>
+		<Row>
+			<BeliefType>BELIEF_PIE_OBE</BeliefType>
+			<BuildingClassType>BUILDINGCLASS_PIE_OBE</BuildingClassType>
+		</Row>
+		<Row>
+			<BeliefType>BELIEF_CONS_CATHEDRALS</BeliefType>
+			<BuildingClassType>BUILDINGCLASS_CATHEDRAL</BuildingClassType>
+		</Row>
+		<Row>
+			<BeliefType>BELIEF_CONS_MOSQUES</BeliefType>
+			<BuildingClassType>BUILDINGCLASS_MOSQUE</BuildingClassType>
+		</Row>
+		<Row>
+			<BeliefType>BELIEF_CONS_PAGODAS</BeliefType>
+			<BuildingClassType>BUILDINGCLASS_PAGODA</BuildingClassType>
+		</Row>
+		<Row>
+			<BeliefType>BELIEF_CONS_MONASTERIES</BeliefType>
+			<BuildingClassType>BUILDINGCLASS_MONASTERY</BuildingClassType>
+		</Row>
+		<Row>
+			<BeliefType>BELIEF_HOLY_WARS</BeliefType>
+			<BuildingClassType>BUILDINGCLASS_BARRACKS</BuildingClassType>
+		</Row>
+		<Row>
+			<BeliefType>BELIEF_HOLY_WARS</BeliefType>
+			<BuildingClassType>BUILDINGCLASS_ARMORY</BuildingClassType>
+		</Row>
+		<Row>
+			<BeliefType>BELIEF_HOLY_WARS</BeliefType>
+			<BuildingClassType>BUILDINGCLASS_MILITARY_ACADEMY</BuildingClassType>
+		</Row>
+		
+	</Belief_BuildingClassFaithPurchase>
+
+	<!-- Unit purchase with faith : Era -->
+	<Belief_EraFaithUnitPurchase>
+		<Row>
+			<BeliefType>BELIEF_FAITH_TEMPLAR</BeliefType>
+			<EraType>ERA_ANCIENT</EraType>
+		</Row>
+		<Row>
+			<BeliefType>BELIEF_FAITH_TEMPLAR</BeliefType>
+			<EraType>ERA_CLASSICAL</EraType>
+		</Row>
+		<Row>
+			<BeliefType>BELIEF_FAITH_TEMPLAR</BeliefType>
+			<EraType>ERA_MEDIEVAL</EraType>
+		</Row>
+		<Row>
+			<BeliefType>BELIEF_FAITH_TEMPLAR</BeliefType>
+			<EraType>ERA_RENAISSANCE</EraType>
+		</Row>
+	</Belief_EraFaithUnitPurchase>
+
+	<!-- Shrine Enhancement / Temple -->
+	<Belief_BuildingClassYieldChanges>
+		<Row>
+			<BeliefType>BELIEF_ANC_CULTURE</BeliefType>
+			<BuildingClassType>BUILDINGCLASS_SHRINE</BuildingClassType>
+			<YieldType>YIELD_CULTURE</YieldType>
+			<YieldChange>1</YieldChange>
+		</Row>
+		<Row>
+			<BeliefType>BELIEF_ANC_FAITH</BeliefType>
+			<BuildingClassType>BUILDINGCLASS_SHRINE</BuildingClassType>
+			<YieldType>YIELD_FAITH</YieldType>
+			<YieldChange>1</YieldChange>
+		</Row>
+		<Row>
+			<BeliefType>BELIEF_ANC_FOOD</BeliefType>
+			<BuildingClassType>BUILDINGCLASS_SHRINE</BuildingClassType>
+			<YieldType>YIELD_FOOD</YieldType>
+			<YieldChange>1</YieldChange>
+		</Row>
+		<Row>
+			<BeliefType>BELIEF_ANC_PROD</BeliefType>
+			<BuildingClassType>BUILDINGCLASS_SHRINE</BuildingClassType>
+			<YieldType>YIELD_PRODUCTION</YieldType>
+			<YieldChange>1</YieldChange>
+		</Row>
+		<Row>
+			<BeliefType>BELIEF_ANC_SCIENCE</BeliefType>
+			<BuildingClassType>BUILDINGCLASS_SHRINE</BuildingClassType>
+			<YieldType>YIELD_SCIENCE</YieldType>
+			<YieldChange>1</YieldChange>
+		</Row>
+		<Row>
+			<BeliefType>BELIEF_ANC_GOLD</BeliefType>
+			<BuildingClassType>BUILDINGCLASS_SHRINE</BuildingClassType>
+			<YieldType>YIELD_GOLD</YieldType>
+			<YieldChange>1</YieldChange>
+		</Row>
+		<Row>
+			<BeliefType>BELIEF_MON_SCI</BeliefType>
+			<BuildingClassType>BUILDINGCLASS_TEMPLE</BuildingClassType>
+			<YieldType>YIELD_SCIENCE</YieldType>
+			<YieldChange>2</YieldChange>
+		</Row>
+		<Row>
+			<BeliefType>BELIEF_MON_CUL</BeliefType>
+			<BuildingClassType>BUILDINGCLASS_TEMPLE</BuildingClassType>
+			<YieldType>YIELD_CULTURE</YieldType>
+			<YieldChange>2</YieldChange>
+		</Row>
+		<Row>
+			<BeliefType>BELIEF_MON_FOOD</BeliefType>
+			<BuildingClassType>BUILDINGCLASS_TEMPLE</BuildingClassType>
+			<YieldType>YIELD_FOOD</YieldType>
+			<YieldChange>2</YieldChange>
+		</Row>
+		<Row>
+			<BeliefType>BELIEF_MON_PROD</BeliefType>
+			<BuildingClassType>BUILDINGCLASS_TEMPLE</BuildingClassType>
+			<YieldType>YIELD_PRODUCTION</YieldType>
+			<YieldChange>2</YieldChange>
+		</Row>
+		<Row>
+			<BeliefType>BELIEF_MON_GOLD</BeliefType>
+			<BuildingClassType>BUILDINGCLASS_TEMPLE</BuildingClassType>
+			<YieldType>YIELD_GOLD</YieldType>
+			<YieldChange>2</YieldChange>
+		</Row>
+
+		<Row>
+			<BeliefType>BELIEF_PIOGP_GEN</BeliefType>
+			<BuildingClassType>BUILDINGCLASS_BARRACKS</BuildingClassType>
+			<YieldType>YIELD_FAITH</YieldType>
+			<YieldChange>1</YieldChange>
+		</Row>
+
+		<!-- Rulership: Yield per Building Palace vs Granary + God-King-->
+		
+		<Row>
+			<BeliefType>BELIEF_RUL_DES</BeliefType>
+			<BuildingClassType>BUILDINGCLASS_PALACE</BuildingClassType>
+			<YieldType>YIELD_CULTURE</YieldType>
+			<YieldChange>1</YieldChange>
+		</Row>
+		<Row>
+			<BeliefType>BELIEF_RUL_DES</BeliefType>
+			<BuildingClassType>BUILDINGCLASS_PALACE</BuildingClassType>
+			<YieldType>YIELD_FAITH</YieldType>
+			<YieldChange>1</YieldChange>
+		</Row>
+		<Row>
+			<BeliefType>BELIEF_RUL_DES</BeliefType>
+			<BuildingClassType>BUILDINGCLASS_PALACE</BuildingClassType>
+			<YieldType>YIELD_GOLD</YieldType>
+			<YieldChange>1</YieldChange>
+		</Row>
+		<Row>
+			<BeliefType>BELIEF_RUL_DES</BeliefType>
+			<BuildingClassType>BUILDINGCLASS_PALACE</BuildingClassType>
+			<YieldType>YIELD_PRODUCTION</YieldType>
+			<YieldChange>1</YieldChange>
+		</Row>
+		<Row>
+			<BeliefType>BELIEF_RUL_DES</BeliefType>
+			<BuildingClassType>BUILDINGCLASS_PALACE</BuildingClassType>
+			<YieldType>YIELD_SCIENCE</YieldType>
+			<YieldChange>1</YieldChange>
+		</Row>
+		
+		<Row>
+			<BeliefType>BELIEF_RUL_TAX</BeliefType>
+			<BuildingClassType>BUILDINGCLASS_GRANARY</BuildingClassType>
+			<YieldType>YIELD_GOLD</YieldType>
+			<YieldChange>1</YieldChange>
+		</Row>
+		<Row>
+			<BeliefType>BELIEF_RUL_TAX</BeliefType>
+			<BuildingClassType>BUILDINGCLASS_PALACE</BuildingClassType>
+			<YieldType>YIELD_PRODUCTION</YieldType>
+			<YieldChange>3</YieldChange>
+		</Row>
+		<Row>
+			<BeliefType>BELIEF_RUL_GEN</BeliefType>
+			<BuildingClassType>BUILDINGCLASS_PALACE</BuildingClassType>
+			<YieldType>YIELD_GOLD</YieldType>
+			<YieldChange>3</YieldChange>
+		</Row>
+		<Row>
+			<BeliefType>BELIEF_RUL_CONS</BeliefType>
+			<BuildingClassType>BUILDINGCLASS_BARRACKS</BuildingClassType>
+			<YieldType>YIELD_PRODUCTION</YieldType>
+			<YieldChange>1</YieldChange>
+		</Row>
+		<Row>
+			<BeliefType>BELIEF_RUL_CONS</BeliefType>
+			<BuildingClassType>BUILDINGCLASS_PALACE</BuildingClassType>
+			<YieldType>YIELD_CULTURE</YieldType>
+			<YieldChange>3</YieldChange>
+		</Row>
+		<Row>
+			<BeliefType>BELIEF_RUL_MENT</BeliefType>
+			<BuildingClassType>BUILDINGCLASS_GRANARY</BuildingClassType>
+			<YieldType>YIELD_SCIENCE</YieldType>
+			<YieldChange>1</YieldChange>
+		</Row>
+		<Row>
+			<BeliefType>BELIEF_RUL_MENT</BeliefType>
+			<BuildingClassType>BUILDINGCLASS_PALACE</BuildingClassType>
+			<YieldType>YIELD_CULTURE</YieldType>
+			<YieldChange>3</YieldChange>
+		</Row>
+		<Row>
+			<BeliefType>BELIEF_RUL_THEO</BeliefType>
+			<BuildingClassType>BUILDINGCLASS_BARRACKS</BuildingClassType>
+			<YieldType>YIELD_FAITH</YieldType>
+			<YieldChange>1</YieldChange>
+		</Row>
+		<Row>
+			<BeliefType>BELIEF_RUL_THEO</BeliefType>
+			<BuildingClassType>BUILDINGCLASS_PALACE</BuildingClassType>
+			<YieldType>YIELD_PRODUCTION</YieldType>
+			<YieldChange>3</YieldChange>
+		</Row>
+		<Row>
+			<BeliefType>BELIEF_RUL_MOD</BeliefType>
+			<BuildingClassType>BUILDINGCLASS_PALACE</BuildingClassType>
+			<YieldType>YIELD_SCIENCE</YieldType>
+			<YieldChange>3</YieldChange>
+		</Row>
+		<Row>
+			<BeliefType>BELIEF_RUL_HEDO</BeliefType>
+			<BuildingClassType>BUILDINGCLASS_GRANARY</BuildingClassType>
+			<YieldType>YIELD_CULTURE</YieldType>
+			<YieldChange>1</YieldChange>
+		</Row>
+		<Row>
+			<BeliefType>BELIEF_RUL_HEDO</BeliefType>
+			<BuildingClassType>BUILDINGCLASS_PALACE</BuildingClassType>
+			<YieldType>YIELD_GOLD</YieldType>
+			<YieldChange>3</YieldChange>
+		</Row>
+
+		<Row>
+			<BeliefType>BELIEF_RUL_COLO</BeliefType>
+			<BuildingClassType>BUILDINGCLASS_GRANARY</BuildingClassType>
+			<YieldType>YIELD_PRODUCTION</YieldType>
+			<YieldChange>1</YieldChange>
+		</Row>
+		<Row>
+			<BeliefType>BELIEF_RUL_COLO</BeliefType>
+			<BuildingClassType>BUILDINGCLASS_PALACE</BuildingClassType>
+			<YieldType>YIELD_FOOD</YieldType>
+			<YieldChange>3</YieldChange>
+		</Row>
+
+	</Belief_BuildingClassYieldChanges>
+	<Belief_BuildingClassHappiness>
+		<Row>
+			<BeliefType>BELIEF_ANC_HAPPY</BeliefType>
+			<BuildingClassType>BUILDINGCLASS_SHRINE</BuildingClassType>
+			<Happiness>1</Happiness>
+		</Row>
+		<Row>
+			<BeliefType>BELIEF_MON_HAPPY</BeliefType>
+			<BuildingClassType>BUILDINGCLASS_TEMPLE</BuildingClassType>
+			<Happiness>2</Happiness>
+		</Row>
+		<Row>
+			<BeliefType>BELIEF_RUL_GEN</BeliefType>
+			<BuildingClassType>BUILDINGCLASS_GRANARY</BuildingClassType>
+			<Happiness>1</Happiness>
+		</Row>
+		<Row>
+			<BeliefType>BELIEF_RUL_MOD</BeliefType>
+			<BuildingClassType>BUILDINGCLASS_BARRACKS</BuildingClassType>
+			<Happiness>1</Happiness>
+		</Row>
+	</Belief_BuildingClassHappiness>
+
+	<!-- City Enhancement 10 min pop -->
+	<!-- City Enhancement 3 min pop-->
+	<Belief_CityYieldChanges>
+
+		<!-- City Enhancement 10 min pop -->
+
+		<Row>
+			<BeliefType>BELIEF_GOD_CULTURE</BeliefType>
+			<YieldType>YIELD_CULTURE</YieldType>
+			<Yield>3</Yield>
+		</Row>
+		<Row>
+			<BeliefType>BELIEF_GOD_FAITH</BeliefType>
+			<YieldType>YIELD_FAITH</YieldType>
+			<Yield>3</Yield>
+		</Row>
+		<Row>
+			<BeliefType>BELIEF_GOD_FOOD</BeliefType>
+			<YieldType>YIELD_FOOD</YieldType>
+			<Yield>3</Yield>
+		</Row>
+		<Row>
+			<BeliefType>BELIEF_GOD_PROD</BeliefType>
+			<YieldType>YIELD_PRODUCTION</YieldType>
+			<Yield>3</Yield>
+		</Row>
+		<Row>
+			<BeliefType>BELIEF_GOD_SCIENCE</BeliefType>
+			<YieldType>YIELD_SCIENCE</YieldType>
+			<Yield>3</Yield>
+		</Row>
+		<Row>
+			<BeliefType>BELIEF_GOD_GOLD</BeliefType>
+			<YieldType>YIELD_GOLD</YieldType>
+			<Yield>3</Yield>
+		</Row>
+
+
+		<!-- City Enhancement 3 min pop -->
+
+		<Row>
+			<BeliefType>BELIEF_AVA_CULTURE</BeliefType>
+			<YieldType>YIELD_CULTURE</YieldType>
+			<Yield>1</Yield>
+		</Row>
+		<Row>
+			<BeliefType>BELIEF_AVA_FAITH</BeliefType>
+			<YieldType>YIELD_FAITH</YieldType>
+			<Yield>1</Yield>
+		</Row>
+		<Row>
+			<BeliefType>BELIEF_AVA_FOOD</BeliefType>
+			<YieldType>YIELD_FOOD</YieldType>
+			<Yield>1</Yield>
+		</Row>
+		<Row>
+			<BeliefType>BELIEF_AVA_PROD</BeliefType>
+			<YieldType>YIELD_PRODUCTION</YieldType>
+			<Yield>1</Yield>
+		</Row>
+		<Row>
+			<BeliefType>BELIEF_AVA_SCIENCE</BeliefType>
+			<YieldType>YIELD_SCIENCE</YieldType>
+			<Yield>1</Yield>
+		</Row>
+		<Row>
+			<BeliefType>BELIEF_AVA_GOLD</BeliefType>
+			<YieldType>YIELD_GOLD</YieldType>
+			<Yield>1</Yield>
+		</Row>
+	</Belief_CityYieldChanges>
+
+	<!-- Feature And terrain -->
+	<Belief_FeatureYieldChanges>
+
+		<Row>
+			<BeliefType>BELIEF_SAC_ATOLL_CULTURE</BeliefType>
+			<FeatureType>FEATURE_ATOLL</FeatureType>
+			<YieldType>YIELD_CULTURE</YieldType>
+			<Yield>2</Yield>
+		</Row>
+
+		<Row>
+			<BeliefType>BELIEF_SAC_ATOLL_SCIENCE</BeliefType>
+			<FeatureType>FEATURE_ATOLL</FeatureType>
+			<YieldType>YIELD_SCIENCE</YieldType>
+			<Yield>2</Yield>
+		</Row>
+
+		<Row>
+			<BeliefType>BELIEF_SAC_ATOLL_FAITH</BeliefType>
+			<FeatureType>FEATURE_ATOLL</FeatureType>
+			<YieldType>YIELD_FAITH</YieldType>
+			<Yield>2</Yield>
+		</Row>
+
+		<Row>
+			<BeliefType>BELIEF_SAC_MARSH_CULTURE</BeliefType>
+			<FeatureType>FEATURE_MARSH</FeatureType>
+			<YieldType>YIELD_CULTURE</YieldType>
+			<Yield>1</Yield>
+		</Row>
+
+		<Row>
+			<BeliefType>BELIEF_SAC_MARSH_SCIENCE</BeliefType>
+			<FeatureType>FEATURE_MARSH</FeatureType>
+			<YieldType>YIELD_SCIENCE</YieldType>
+			<Yield>1</Yield>
+		</Row>
+
+		<Row>
+			<BeliefType>BELIEF_SAC_MARSH_FAITH</BeliefType>
+			<FeatureType>FEATURE_MARSH</FeatureType>
+			<YieldType>YIELD_FAITH</YieldType>
+			<Yield>1</Yield>
+		</Row>
+
+		<Row>
+			<BeliefType>BELIEF_SAC_JUNGLE_CULTURE</BeliefType>
+			<FeatureType>FEATURE_JUNGLE</FeatureType>
+			<YieldType>YIELD_CULTURE</YieldType>
+			<Yield>1</Yield>
+		</Row>
+
+		<Row>
+			<BeliefType>BELIEF_SAC_JUNGLE_SCIENCE</BeliefType>
+			<FeatureType>FEATURE_JUNGLE</FeatureType>
+			<YieldType>YIELD_SCIENCE</YieldType>
+			<Yield>1</Yield>
+		</Row>
+
+		<Row>
+			<BeliefType>BELIEF_SAC_JUNGLE_FAITH</BeliefType>
+			<FeatureType>FEATURE_JUNGLE</FeatureType>
+			<YieldType>YIELD_FAITH</YieldType>
+			<Yield>1</Yield>
+		</Row>
+
+		<Row>
+			<BeliefType>BELIEF_SAC_OASIS_CULTURE</BeliefType>
+			<FeatureType>FEATURE_OASIS</FeatureType>
+			<YieldType>YIELD_CULTURE</YieldType>
+			<Yield>2</Yield>
+		</Row>
+
+		<Row>
+			<BeliefType>BELIEF_SAC_OASIS_SCIENCE</BeliefType>
+			<FeatureType>FEATURE_OASIS</FeatureType>
+			<YieldType>YIELD_SCIENCE</YieldType>
+			<Yield>2</Yield>
+		</Row>
+
+		<Row>
+			<BeliefType>BELIEF_SAC_OASIS_FAITH</BeliefType>
+			<FeatureType>FEATURE_OASIS</FeatureType>
+			<YieldType>YIELD_FAITH</YieldType>
+			<Yield>2</Yield>
+		</Row>
+
+
+	</Belief_FeatureYieldChanges>
+	<Belief_TerrainYieldChanges>
+
+		<Row>
+			<BeliefType>BELIEF_SAC_DESERT_CULTURE</BeliefType>
+			<TerrainType>TERRAIN_DESERT</TerrainType>
+			<YieldType>YIELD_CULTURE</YieldType>
+			<Yield>1</Yield>
+		</Row>
+
+		<Row>
+			<BeliefType>BELIEF_SAC_DESERT_SCIENCE</BeliefType>
+			<TerrainType>TERRAIN_DESERT</TerrainType>
+			<YieldType>YIELD_SCIENCE</YieldType>
+			<Yield>1</Yield>
+		</Row>
+
+		<Row>
+			<BeliefType>BELIEF_SAC_DESERT_FAITH</BeliefType>
+			<TerrainType>TERRAIN_DESERT</TerrainType>
+			<YieldType>YIELD_FAITH</YieldType>
+			<Yield>1</Yield>
+		</Row>
+
+
+		<Row>
+			<BeliefType>BELIEF_SAC_TUNDRA_CULTURE</BeliefType>
+			<TerrainType>TERRAIN_TUNDRA</TerrainType>
+			<YieldType>YIELD_CULTURE</YieldType>
+			<Yield>1</Yield>
+		</Row>
+
+		<Row>
+			<BeliefType>BELIEF_SAC_TUNDRA_SCIENCE</BeliefType>
+			<TerrainType>TERRAIN_TUNDRA</TerrainType>
+			<YieldType>YIELD_SCIENCE</YieldType>
+			<Yield>1</Yield>
+		</Row>
+
+		<Row>
+			<BeliefType>BELIEF_SAC_TUNDRA_FAITH</BeliefType>
+			<TerrainType>TERRAIN_TUNDRA</TerrainType>
+			<YieldType>YIELD_FAITH</YieldType>
+			<Yield>1</Yield>
+		</Row>
+
+		<Row>
+			<BeliefType>BELIEF_SAC_SNOW_CULTURE</BeliefType>
+			<TerrainType>TERRAIN_SNOW</TerrainType>
+			<YieldType>YIELD_CULTURE</YieldType>
+			<Yield>1</Yield>
+		</Row>
+
+		<Row>
+			<BeliefType>BELIEF_SAC_SNOW_SCIENCE</BeliefType>
+			<TerrainType>TERRAIN_SNOW</TerrainType>
+			<YieldType>YIELD_SCIENCE</YieldType>
+			<Yield>1</Yield>
+		</Row>
+
+		<Row>
+			<BeliefType>BELIEF_SAC_SNOW_FAITH</BeliefType>
+			<TerrainType>TERRAIN_SNOW</TerrainType>
+			<YieldType>YIELD_FAITH</YieldType>
+			<Yield>1</Yield>
+		</Row>
+
+	</Belief_TerrainYieldChanges>
+
+	<!-- % Yields -->
+	<Belief_MaxYieldModifierPerFollower>
+		<Row>
+			<BeliefType>BELIEF_RELIGIOUS_ABUNDANCE</BeliefType>
+			<YieldType>YIELD_FOOD</YieldType>
+			<Max>15</Max>
+		</Row>
+
+		<Row>
+			<BeliefType>BELIEF_RELIGIOUS_LABOR</BeliefType>
+			<YieldType>YIELD_PRODUCTION</YieldType>
+			<Max>15</Max>
+		</Row>
+
+		<Row>
+			<BeliefType>BELIEF_RELIGIOUS_ENLIGHT</BeliefType>
+			<YieldType>YIELD_SCIENCE</YieldType>
+			<Max>15</Max>
+		</Row>
+		<Row>
+			<BeliefType>BELIEF_RELIGIOUS_WEALTH</BeliefType>
+			<YieldType>YIELD_GOLD</YieldType>
+			<Max>15</Max>
+		</Row>
+	</Belief_MaxYieldModifierPerFollower>
+
+	<!-- Yields Per city/Foreign City -->
+	<Belief_YieldChangePerForeignCity>
+		<Row>
+			<BeliefType>BELIEF_PILGRIM_CULTURE</BeliefType>
+			<YieldType>YIELD_CULTURE</YieldType>
+			<Yield>1</Yield>
+		</Row>
+		<Row>
+			<BeliefType>BELIEF_PILGRIM_FAITH</BeliefType>
+			<YieldType>YIELD_FAITH</YieldType>
+			<Yield>2</Yield>
+		</Row>
+	</Belief_YieldChangePerForeignCity>
+
+	<!-- Yields Per Luxury Res -->
+	<Belief_ResourceYieldChanges>
+
+		<Row>
+			<BeliefType>BELIEF_FEST_TAILOR</BeliefType>
+			<ResourceType>RESOURCE_FUR</ResourceType>
+			<YieldType>YIELD_FAITH</YieldType>
+			<Yield>1</Yield>
+		</Row>
+		<Row>
+			<BeliefType>BELIEF_FEST_TAILOR</BeliefType>
+			<ResourceType>RESOURCE_COTTON</ResourceType>
+			<YieldType>YIELD_FAITH</YieldType>
+			<Yield>1</Yield>
+		</Row>
+		<Row>
+			<BeliefType>BELIEF_FEST_TAILOR</BeliefType>
+			<ResourceType>RESOURCE_FUR</ResourceType>
+			<YieldType>YIELD_CULTURE</YieldType>
+			<Yield>1</Yield>
+		</Row>
+		<Row>
+			<BeliefType>BELIEF_FEST_TAILOR</BeliefType>
+			<ResourceType>RESOURCE_COTTON</ResourceType>
+			<YieldType>YIELD_CULTURE</YieldType>
+			<Yield>1</Yield>
+		</Row>
+
+		<Row>
+			<BeliefType>BELIEF_FEST_SEA</BeliefType>
+			<ResourceType>RESOURCE_WHALE</ResourceType>
+			<YieldType>YIELD_FAITH</YieldType>
+			<Yield>1</Yield>
+		</Row>
+		<Row>
+			<BeliefType>BELIEF_FEST_SEA</BeliefType>
+			<ResourceType>RESOURCE_CRAB</ResourceType>
+			<YieldType>YIELD_FAITH</YieldType>
+			<Yield>1</Yield>
+		</Row>
+		<Row>
+			<BeliefType>BELIEF_FEST_SEA</BeliefType>
+			<ResourceType>RESOURCE_WHALE</ResourceType>
+			<YieldType>YIELD_CULTURE</YieldType>
+			<Yield>1</Yield>
+		</Row>
+		<Row>
+			<BeliefType>BELIEF_FEST_SEA</BeliefType>
+			<ResourceType>RESOURCE_CRAB</ResourceType>
+			<YieldType>YIELD_CULTURE</YieldType>
+			<Yield>1</Yield>
+		</Row>
+
+
+		<Row>
+			<BeliefType>BELIEF_FEST_JEW</BeliefType>
+			<ResourceType>RESOURCE_GEMS</ResourceType>
+			<YieldType>YIELD_FAITH</YieldType>
+			<Yield>1</Yield>
+		</Row>
+		<Row>
+			<BeliefType>BELIEF_FEST_JEW</BeliefType>
+			<ResourceType>RESOURCE_PEARLS</ResourceType>
+			<YieldType>YIELD_FAITH</YieldType>
+			<Yield>1</Yield>
+		</Row>
+		<Row>
+			<BeliefType>BELIEF_FEST_JEW</BeliefType>
+			<ResourceType>RESOURCE_GEMS</ResourceType>
+			<YieldType>YIELD_CULTURE</YieldType>
+			<Yield>1</Yield>
+		</Row>
+		<Row>
+			<BeliefType>BELIEF_FEST_JEW</BeliefType>
+			<ResourceType>RESOURCE_PEARLS</ResourceType>
+			<YieldType>YIELD_CULTURE</YieldType>
+			<Yield>1</Yield>
+		</Row>
+
+		<Row>
+			<BeliefType>BELIEF_FEST_RICH</BeliefType>
+			<ResourceType>RESOURCE_GOLD</ResourceType>
+			<YieldType>YIELD_FAITH</YieldType>
+			<Yield>1</Yield>
+		</Row>
+		<Row>
+			<BeliefType>BELIEF_FEST_RICH</BeliefType>
+			<ResourceType>RESOURCE_SILVER</ResourceType>
+			<YieldType>YIELD_FAITH</YieldType>
+			<Yield>1</Yield>
+		</Row>
+		<Row>
+			<BeliefType>BELIEF_FEST_RICH</BeliefType>
+			<ResourceType>RESOURCE_GOLD</ResourceType>
+			<YieldType>YIELD_CULTURE</YieldType>
+			<Yield>1</Yield>
+		</Row>
+		<Row>
+			<BeliefType>BELIEF_FEST_RICH</BeliefType>
+			<ResourceType>RESOURCE_SILVER</ResourceType>
+			<YieldType>YIELD_CULTURE</YieldType>
+			<Yield>1</Yield>
+		</Row>
+
+		<Row>
+			<BeliefType>BELIEF_FEST_ORI</BeliefType>
+			<ResourceType>RESOURCE_SILK</ResourceType>
+			<YieldType>YIELD_FAITH</YieldType>
+			<Yield>1</Yield>
+		</Row>
+		<Row>
+			<BeliefType>BELIEF_FEST_ORI</BeliefType>
+			<ResourceType>RESOURCE_DYE</ResourceType>
+			<YieldType>YIELD_FAITH</YieldType>
+			<Yield>1</Yield>
+		</Row>
+		<Row>
+			<BeliefType>BELIEF_FEST_ORI</BeliefType>
+			<ResourceType>RESOURCE_SILK</ResourceType>
+			<YieldType>YIELD_CULTURE</YieldType>
+			<Yield>1</Yield>
+		</Row>
+		<Row>
+			<BeliefType>BELIEF_FEST_ORI</BeliefType>
+			<ResourceType>RESOURCE_DYE</ResourceType>
+			<YieldType>YIELD_CULTURE</YieldType>
+			<Yield>1</Yield>
+		</Row>
+
+		<Row>
+			<BeliefType>BELIEF_FEST_SPI</BeliefType>
+			<ResourceType>RESOURCE_SPICES</ResourceType>
+			<YieldType>YIELD_FAITH</YieldType>
+			<Yield>1</Yield>
+		</Row>
+		<Row>
+			<BeliefType>BELIEF_FEST_SPI</BeliefType>
+			<ResourceType>RESOURCE_SALT</ResourceType>
+			<YieldType>YIELD_FAITH</YieldType>
+			<Yield>1</Yield>
+		</Row>
+		<Row>
+			<BeliefType>BELIEF_FEST_SPI</BeliefType>
+			<ResourceType>RESOURCE_SPICES</ResourceType>
+			<YieldType>YIELD_CULTURE</YieldType>
+			<Yield>1</Yield>
+		</Row>
+		<Row>
+			<BeliefType>BELIEF_FEST_SPI</BeliefType>
+			<ResourceType>RESOURCE_SALT</ResourceType>
+			<YieldType>YIELD_CULTURE</YieldType>
+			<Yield>1</Yield>
+		</Row>
+
+		<Row>
+			<BeliefType>BELIEF_FEST_GOR</BeliefType>
+			<ResourceType>RESOURCE_SUGAR</ResourceType>
+			<YieldType>YIELD_FAITH</YieldType>
+			<Yield>1</Yield>
+		</Row>
+		<Row>
+			<BeliefType>BELIEF_FEST_GOR</BeliefType>
+			<ResourceType>RESOURCE_TRUFFLES</ResourceType>
+			<YieldType>YIELD_FAITH</YieldType>
+			<Yield>1</Yield>
+		</Row>
+		<Row>
+			<BeliefType>BELIEF_FEST_GOR</BeliefType>
+			<ResourceType>RESOURCE_SUGAR</ResourceType>
+			<YieldType>YIELD_CULTURE</YieldType>
+			<Yield>1</Yield>
+		</Row>
+		<Row>
+			<BeliefType>BELIEF_FEST_GOR</BeliefType>
+			<ResourceType>RESOURCE_TRUFFLES</ResourceType>
+			<YieldType>YIELD_CULTURE</YieldType>
+			<Yield>1</Yield>
+		</Row>
+
+
+		<Row>
+			<BeliefType>BELIEF_FEST_RIT</BeliefType>
+			<ResourceType>RESOURCE_WINE</ResourceType>
+			<YieldType>YIELD_FAITH</YieldType>
+			<Yield>1</Yield>
+		</Row>
+		<Row>
+			<BeliefType>BELIEF_FEST_RIT</BeliefType>
+			<ResourceType>RESOURCE_INCENSE</ResourceType>
+			<YieldType>YIELD_FAITH</YieldType>
+			<Yield>1</Yield>
+		</Row>
+		<Row>
+			<BeliefType>BELIEF_FEST_RIT</BeliefType>
+			<ResourceType>RESOURCE_WINE</ResourceType>
+			<YieldType>YIELD_CULTURE</YieldType>
+			<Yield>1</Yield>
+		</Row>
+		<Row>
+			<BeliefType>BELIEF_FEST_RIT</BeliefType>
+			<ResourceType>RESOURCE_INCENSE</ResourceType>
+			<YieldType>YIELD_CULTURE</YieldType>
+			<Yield>1</Yield>
+		</Row>
+
+		<Row>
+			<BeliefType>BELIEF_FEST_STA</BeliefType>
+			<ResourceType>RESOURCE_MARBLE</ResourceType>
+			<YieldType>YIELD_FAITH</YieldType>
+			<Yield>1</Yield>
+		</Row>
+		<Row>
+			<BeliefType>BELIEF_FEST_STA</BeliefType>
+			<ResourceType>RESOURCE_COPPER</ResourceType>
+			<YieldType>YIELD_FAITH</YieldType>
+			<Yield>1</Yield>
+		</Row>
+		<Row>
+			<BeliefType>BELIEF_FEST_STA</BeliefType>
+			<ResourceType>RESOURCE_MARBLE</ResourceType>
+			<YieldType>YIELD_CULTURE</YieldType>
+			<Yield>1</Yield>
+		</Row>
+		<Row>
+			<BeliefType>BELIEF_FEST_STA</BeliefType>
+			<ResourceType>RESOURCE_COPPER</ResourceType>
+			<YieldType>YIELD_CULTURE</YieldType>
+			<Yield>1</Yield>
+		</Row>
+
+		<Row>
+			<BeliefType>BELIEF_FEST_EXO</BeliefType>
+			<ResourceType>RESOURCE_CITRUS</ResourceType>
+			<YieldType>YIELD_FAITH</YieldType>
+			<Yield>1</Yield>
+		</Row>
+		<Row>
+			<BeliefType>BELIEF_FEST_EXO</BeliefType>
+			<ResourceType>RESOURCE_IVORY</ResourceType>
+			<YieldType>YIELD_FAITH</YieldType>
+			<Yield>1</Yield>
+		</Row>
+
+		<Row>
+			<BeliefType>BELIEF_FEST_EXO</BeliefType>
+			<ResourceType>RESOURCE_CITRUS</ResourceType>
+			<YieldType>YIELD_CULTURE</YieldType>
+			<Yield>1</Yield>
+		</Row>
+		<Row>
+			<BeliefType>BELIEF_FEST_EXO</BeliefType>
+			<ResourceType>RESOURCE_IVORY</ResourceType>
+			<YieldType>YIELD_CULTURE</YieldType>
+			<Yield>1</Yield>
+		</Row>
+
+		<Row>
+			<BeliefType>BELIEF_PRA_MINE_FOOD</BeliefType>
+			<ResourceType>RESOURCE_IRON</ResourceType>
+			<YieldType>YIELD_FOOD</YieldType>
+			<Yield>1</Yield>
+		</Row>
+
+		<Row>
+			<BeliefType>BELIEF_PRA_MINE_FOOD</BeliefType>
+			<ResourceType>RESOURCE_COPPER</ResourceType>
+			<YieldType>YIELD_FOOD</YieldType>
+			<Yield>1</Yield>
+		</Row>
+
+		<Row>
+			<BeliefType>BELIEF_PRA_MINE_FOOD</BeliefType>
+			<ResourceType>RESOURCE_GOLD</ResourceType>
+			<YieldType>YIELD_FOOD</YieldType>
+			<Yield>1</Yield>
+		</Row>
+
+		<Row>
+			<BeliefType>BELIEF_PRA_MINE_FOOD</BeliefType>
+			<ResourceType>RESOURCE_SILVER</ResourceType>
+			<YieldType>YIELD_FOOD</YieldType>
+			<Yield>1</Yield>
+		</Row>
+
+		<Row>
+			<BeliefType>BELIEF_PRA_MINE_FOOD</BeliefType>
+			<ResourceType>RESOURCE_ALUMINUM</ResourceType>
+			<YieldType>YIELD_FOOD</YieldType>
+			<Yield>1</Yield>
+		</Row>
+
+		<Row>
+			<BeliefType>BELIEF_PRA_MINE_FOOD</BeliefType>
+			<ResourceType>RESOURCE_SALT</ResourceType>
+			<YieldType>YIELD_FOOD</YieldType>
+			<Yield>1</Yield>
+		</Row>
+
+		<Row>
+			<BeliefType>BELIEF_PRA_MINE_FOOD</BeliefType>
+			<ResourceType>RESOURCE_GEMS</ResourceType>
+			<YieldType>YIELD_FOOD</YieldType>
+			<Yield>1</Yield>
+		</Row>
+
+		<Row>
+			<BeliefType>BELIEF_PRA_MINE_PROD</BeliefType>
+			<ResourceType>RESOURCE_IRON</ResourceType>
+			<YieldType>YIELD_PRODUCTION</YieldType>
+			<Yield>1</Yield>
+		</Row>
+
+		<Row>
+			<BeliefType>BELIEF_PRA_MINE_PROD</BeliefType>
+			<ResourceType>RESOURCE_COPPER</ResourceType>
+			<YieldType>YIELD_PRODUCTION</YieldType>
+			<Yield>1</Yield>
+		</Row>
+
+		<Row>
+			<BeliefType>BELIEF_PRA_MINE_PROD</BeliefType>
+			<ResourceType>RESOURCE_GOLD</ResourceType>
+			<YieldType>YIELD_PRODUCTION</YieldType>
+			<Yield>1</Yield>
+		</Row>
+
+		<Row>
+			<BeliefType>BELIEF_PRA_MINE_PROD</BeliefType>
+			<ResourceType>RESOURCE_SILVER</ResourceType>
+			<YieldType>YIELD_PRODUCTION</YieldType>
+			<Yield>1</Yield>
+		</Row>
+
+		<Row>
+			<BeliefType>BELIEF_PRA_MINE_PROD</BeliefType>
+			<ResourceType>RESOURCE_ALUMINUM</ResourceType>
+			<YieldType>YIELD_PRODUCTION</YieldType>
+			<Yield>1</Yield>
+		</Row>
+		
+		<Row>
+			<BeliefType>BELIEF_PRA_MINE_PROD</BeliefType>
+			<ResourceType>RESOURCE_SALT</ResourceType>
+			<YieldType>YIELD_PRODUCTION</YieldType>
+			<Yield>1</Yield>
+		</Row>
+
+		<Row>
+			<BeliefType>BELIEF_PRA_MINE_PROD</BeliefType>
+			<ResourceType>RESOURCE_GEMS</ResourceType>
+			<YieldType>YIELD_PRODUCTION</YieldType>
+			<Yield>1</Yield>
+		</Row>
+
+		<Row>
+			<BeliefType>BELIEF_PRA_MINE_GOLD</BeliefType>
+			<ResourceType>RESOURCE_IRON</ResourceType>
+			<YieldType>YIELD_GOLD</YieldType>
+			<Yield>1</Yield>
+		</Row>
+
+		<Row>
+			<BeliefType>BELIEF_PRA_MINE_GOLD</BeliefType>
+			<ResourceType>RESOURCE_COPPER</ResourceType>
+			<YieldType>YIELD_GOLD</YieldType>
+			<Yield>1</Yield>
+		</Row>
+
+		<Row>
+			<BeliefType>BELIEF_PRA_MINE_GOLD</BeliefType>
+			<ResourceType>RESOURCE_GOLD</ResourceType>
+			<YieldType>YIELD_GOLD</YieldType>
+			<Yield>1</Yield>
+		</Row>
+
+		<Row>
+			<BeliefType>BELIEF_PRA_MINE_GOLD</BeliefType>
+			<ResourceType>RESOURCE_SILVER</ResourceType>
+			<YieldType>YIELD_GOLD</YieldType>
+			<Yield>1</Yield>
+		</Row>
+
+		<Row>
+			<BeliefType>BELIEF_PRA_MINE_GOLD</BeliefType>
+			<ResourceType>RESOURCE_ALUMINUM</ResourceType>
+			<YieldType>YIELD_GOLD</YieldType>
+			<Yield>1</Yield>
+		</Row>
+		
+		<Row>
+			<BeliefType>BELIEF_PRA_MINE_GOLD</BeliefType>
+			<ResourceType>RESOURCE_SALT</ResourceType>
+			<YieldType>YIELD_GOLD</YieldType>
+			<Yield>1</Yield>
+		</Row>
+
+		<Row>
+			<BeliefType>BELIEF_PRA_MINE_GOLD</BeliefType>
+			<ResourceType>RESOURCE_GEMS</ResourceType>
+			<YieldType>YIELD_GOLD</YieldType>
+			<Yield>1</Yield>
+		</Row>
+
+		<Row>
+			<BeliefType>BELIEF_PRA_SUN_FOOD</BeliefType>
+			<ResourceType>RESOURCE_BANANA</ResourceType>
+			<YieldType>YIELD_FOOD</YieldType>
+			<Yield>1</Yield>
+		</Row>
+		<Row>
+			<BeliefType>BELIEF_PRA_SUN_FOOD</BeliefType>
+			<ResourceType>RESOURCE_CITRUS</ResourceType>
+			<YieldType>YIELD_FOOD</YieldType>
+			<Yield>1</Yield>
+		</Row>
+		<Row>
+			<BeliefType>BELIEF_PRA_SUN_FOOD</BeliefType>
+			<ResourceType>RESOURCE_WHEAT</ResourceType>
+			<YieldType>YIELD_FOOD</YieldType>
+			<Yield>1</Yield>
+		</Row>
+
+
+		
+
+	</Belief_ResourceYieldChanges>
+
+	<!-- Yields Per Improvement -->
+	<!-- Yields Per Great Improvement -->
+	<Belief_ImprovementYieldChanges>
+
+
+		<Row>
+			<BeliefType>BELIEF_PRA_QUA_FOOD</BeliefType>
+			<ImprovementType>IMPROVEMENT_QUARRY</ImprovementType>
+			<YieldType>YIELD_FOOD</YieldType>
+			<Yield>1</Yield>
+		</Row>
+
+		<Row>
+			<BeliefType>BELIEF_PRA_QUA_PROD</BeliefType>
+			<ImprovementType>IMPROVEMENT_QUARRY</ImprovementType>
+			<YieldType>YIELD_PRODUCTION</YieldType>
+			<Yield>1</Yield>
+		</Row>
+
+		<Row>
+			<BeliefType>BELIEF_PRA_QUA_GOLD</BeliefType>
+			<ImprovementType>IMPROVEMENT_QUARRY</ImprovementType>
+			<YieldType>YIELD_GOLD</YieldType>
+			<Yield>1</Yield>
+		</Row>
+
+		<Row>
+			<BeliefType>BELIEF_PRA_CAM_FOOD</BeliefType>
+			<ImprovementType>IMPROVEMENT_CAMP</ImprovementType>
+			<YieldType>YIELD_FOOD</YieldType>
+			<Yield>1</Yield>
+		</Row>
+
+		<Row>
+			<BeliefType>BELIEF_PRA_CAM_PROD</BeliefType>
+			<ImprovementType>IMPROVEMENT_CAMP</ImprovementType>
+			<YieldType>YIELD_PRODUCTION</YieldType>
+			<Yield>1</Yield>
+		</Row>
+
+		<Row>
+			<BeliefType>BELIEF_PRA_CAM_GOLD</BeliefType>
+			<ImprovementType>IMPROVEMENT_CAMP</ImprovementType>
+			<YieldType>YIELD_GOLD</YieldType>
+			<Yield>1</Yield>
+		</Row>
+
+		<Row>
+			<BeliefType>BELIEF_PRA_FISH_FOOD</BeliefType>
+			<ImprovementType>IMPROVEMENT_FISHING_BOATS</ImprovementType>
+			<YieldType>YIELD_FOOD</YieldType>
+			<Yield>1</Yield>
+		</Row>
+
+		<Row>
+			<BeliefType>BELIEF_PRA_FISH_PROD</BeliefType>
+			<ImprovementType>IMPROVEMENT_FISHING_BOATS</ImprovementType>
+			<YieldType>YIELD_PRODUCTION</YieldType>
+			<Yield>1</Yield>
+		</Row>
+
+		<Row>
+			<BeliefType>BELIEF_PRA_FISH_GOLD</BeliefType>
+			<ImprovementType>IMPROVEMENT_FISHING_BOATS</ImprovementType>
+			<YieldType>YIELD_GOLD</YieldType>
+			<Yield>1</Yield>
+		</Row>
+
+		<Row>
+			<BeliefType>BELIEF_PRA_PAS_FOOD</BeliefType>
+			<ImprovementType>IMPROVEMENT_PASTURE</ImprovementType>
+			<YieldType>YIELD_FOOD</YieldType>
+			<Yield>1</Yield>
+		</Row>
+
+		<Row>
+			<BeliefType>BELIEF_PRA_PAS_PROD</BeliefType>
+			<ImprovementType>IMPROVEMENT_PASTURE</ImprovementType>
+			<YieldType>YIELD_PRODUCTION</YieldType>
+			<Yield>1</Yield>
+		</Row>
+
+		<Row>
+			<BeliefType>BELIEF_PRA_PAS_GOLD</BeliefType>
+			<ImprovementType>IMPROVEMENT_PASTURE</ImprovementType>
+			<YieldType>YIELD_GOLD</YieldType>
+			<Yield>1</Yield>
+		</Row>
+
+		<Row>
+			<BeliefType>BELIEF_PRA_PLA_FOOD</BeliefType>
+			<ImprovementType>IMPROVEMENT_PLANTATION</ImprovementType>
+			<YieldType>YIELD_FOOD</YieldType>
+			<Yield>1</Yield>
+		</Row>
+
+		<Row>
+			<BeliefType>BELIEF_PRA_PLA_PROD</BeliefType>
+			<ImprovementType>IMPROVEMENT_PLANTATION</ImprovementType>
+			<YieldType>YIELD_PRODUCTION</YieldType>
+			<Yield>1</Yield>
+		</Row>
+
+		<Row>
+			<BeliefType>BELIEF_PRA_PLA_GOLD</BeliefType>
+			<ImprovementType>IMPROVEMENT_PLANTATION</ImprovementType>
+			<YieldType>YIELD_GOLD</YieldType>
+			<Yield>1</Yield>
+		</Row>
+
+
+		<Row>
+			<BeliefType>BELIEF_PIOGP_GEN</BeliefType>
+			<ImprovementType>IMPROVEMENT_CITADEL</ImprovementType>
+			<YieldType>YIELD_FAITH</YieldType>
+			<Yield>2</Yield>
+		</Row>
+
+		<Row>
+			<BeliefType>BELIEF_PIOGP_ENG_1</BeliefType>
+			<ImprovementType>IMPROVEMENT_HOLY_SITE</ImprovementType>
+			<YieldType>YIELD_FAITH</YieldType>
+			<Yield>-2</Yield>
+		</Row>
+
+		<Row>
+			<BeliefType>BELIEF_PIOGP_ENG_1</BeliefType>
+			<ImprovementType>IMPROVEMENT_HOLY_SITE</ImprovementType>
+			<YieldType>YIELD_GOLD</YieldType>
+			<Yield>3</Yield>
+		</Row>
+
+
+		<Row>
+			<BeliefType>BELIEF_PIOGP_ENG_2</BeliefType>
+			<ImprovementType>IMPROVEMENT_HOLY_SITE</ImprovementType>
+			<YieldType>YIELD_FAITH</YieldType>
+			<Yield>-2</Yield>
+		</Row>
+
+		<Row>
+			<BeliefType>BELIEF_PIOGP_ENG_2</BeliefType>
+			<ImprovementType>IMPROVEMENT_HOLY_SITE</ImprovementType>
+			<YieldType>YIELD_SCIENCE</YieldType>
+			<Yield>4</Yield>
+		</Row>
+
+		<Row>
+			<BeliefType>BELIEF_PIOGP_ENG_3</BeliefType>
+			<ImprovementType>IMPROVEMENT_HOLY_SITE</ImprovementType>
+			<YieldType>YIELD_FAITH</YieldType>
+			<Yield>-2</Yield>
+		</Row>
+		<Row>
+			<BeliefType>BELIEF_PIOGP_ENG_3</BeliefType>
+			<ImprovementType>IMPROVEMENT_HOLY_SITE</ImprovementType>
+			<YieldType>YIELD_CULTURE</YieldType>
+			<Yield>3</Yield>
+		</Row>
+		
+		<Row>
+			<BeliefType>BELIEF_PIOGP_ENG_4</BeliefType>
+			<ImprovementType>IMPROVEMENT_HOLY_SITE</ImprovementType>
+			<YieldType>YIELD_FAITH</YieldType>
+			<Yield>-2</Yield>
+		</Row>
+		<Row>
+			<BeliefType>BELIEF_PIOGP_ENG_4</BeliefType>
+			<ImprovementType>IMPROVEMENT_HOLY_SITE</ImprovementType>
+			<YieldType>YIELD_PRODUCTION</YieldType>
+			<Yield>3</Yield>
+		</Row>
+
+
+	</Belief_ImprovementYieldChanges>
+
+	<!-- Yields Per trade Route -->
+	<!-- Yields Per natural wonder -->
+	<!-- Yields Per world wonder -->
+	<Belief_YieldChangeTradeRoute>
+
+		<Row>
+			<BeliefType>BELIEF_TRAV_SCI</BeliefType>
+			<YieldType>YIELD_SCIENCE</YieldType>
+			<Yield>2</Yield>
+		</Row>
+
+		<Row>
+			<BeliefType>BELIEF_TRAV_CUL</BeliefType>
+			<YieldType>YIELD_CULTURE</YieldType>
+			<Yield>2</Yield>
+		</Row>
+
+		<Row>
+			<BeliefType>BELIEF_TRAV_FAI</BeliefType>
+			<YieldType>YIELD_FAITH</YieldType>
+			<Yield>2</Yield>
+		</Row>
+
+		<Row>
+			<BeliefType>BELIEF_TRAV_FOOD</BeliefType>
+			<YieldType>YIELD_FOOD</YieldType>
+			<Yield>2</Yield>
+		</Row>
+
+		<Row>
+			<BeliefType>BELIEF_TRAV_PROD</BeliefType>
+			<YieldType>YIELD_PRODUCTION</YieldType>
+			<Yield>2</Yield>
+		</Row>
+
+		<Row>
+			<BeliefType>BELIEF_TRAV_GOLD</BeliefType>
+			<YieldType>YIELD_GOLD</YieldType>
+			<Yield>2</Yield>
+		</Row>
+
+	</Belief_YieldChangeTradeRoute>
+	<Belief_YieldChangeNaturalWonder>
+
+		<Row>
+			<BeliefType>BELIEF_NATURAL_SCI</BeliefType>
+			<YieldType>YIELD_SCIENCE</YieldType>
+			<Yield>3</Yield>
+		</Row>
+
+		<Row>
+			<BeliefType>BELIEF_NATURAL_CUL</BeliefType>
+			<YieldType>YIELD_CULTURE</YieldType>
+			<Yield>3</Yield>
+		</Row>
+
+
+		<Row>
+			<BeliefType>BELIEF_NATURAL_FAI</BeliefType>
+			<YieldType>YIELD_FAITH</YieldType>
+			<Yield>4</Yield>
+		</Row>
+
+
+		<Row>
+			<BeliefType>BELIEF_NATURAL_FOOD</BeliefType>
+			<YieldType>YIELD_FOOD</YieldType>
+			<Yield>3</Yield>
+		</Row>
+
+		<Row>
+			<BeliefType>BELIEF_NATURAL_PROD</BeliefType>
+			<YieldType>YIELD_PRODUCTION</YieldType>
+			<Yield>3</Yield>
+		</Row>
+
+
+		<Row>
+			<BeliefType>BELIEF_NATURAL_GOLD</BeliefType>
+			<YieldType>YIELD_GOLD</YieldType>
+			<Yield>3</Yield>
+		</Row>
+
+	</Belief_YieldChangeNaturalWonder>
+	<Belief_YieldChangeWorldWonder>
+
+		<Row>
+			<BeliefType>BELIEF_WOND_SCI</BeliefType>
+			<YieldType>YIELD_SCIENCE</YieldType>
+			<Yield>2</Yield>
+		</Row>
+
+		<Row>
+			<BeliefType>BELIEF_WOND_CUL</BeliefType>
+			<YieldType>YIELD_CULTURE</YieldType>
+			<Yield>2</Yield>
+		</Row>
+
+		<Row>
+			<BeliefType>BELIEF_WOND_FAI</BeliefType>
+			<YieldType>YIELD_FAITH</YieldType>
+			<Yield>2</Yield>
+		</Row>
+
+		<Row>
+			<BeliefType>BELIEF_WOND_FOOD</BeliefType>
+			<YieldType>YIELD_FOOD</YieldType>
+			<Yield>1</Yield>
+		</Row>
+
+		<Row>
+			<BeliefType>BELIEF_WOND_PROD</BeliefType>
+			<YieldType>YIELD_PRODUCTION</YieldType>
+			<Yield>1</Yield>
+		</Row>
+
+		<Row>
+			<BeliefType>BELIEF_WOND_GOLD</BeliefType>
+			<YieldType>YIELD_GOLD</YieldType>
+			<Yield>2</Yield>
+		</Row>
+
+
+	</Belief_YieldChangeWorldWonder>
+
+	<!-- Yields if city has Specialist -->
+	<Belief_YieldChangeAnySpecialist>
+
+		<Row>
+			<BeliefType>BELIEF_GURU_SCI</BeliefType>
+			<YieldType>YIELD_SCIENCE</YieldType>
+			<Yield>2</Yield>
+		</Row>
+
+		<Row>
+			<BeliefType>BELIEF_GURU_CUL</BeliefType>
+			<YieldType>YIELD_CULTURE</YieldType>
+			<Yield>2</Yield>
+		</Row>
+
+		<Row>
+			<BeliefType>BELIEF_GURU_FAI</BeliefType>
+			<YieldType>YIELD_FAITH</YieldType>
+			<Yield>2</Yield>
+		</Row>
+
+		<Row>
+			<BeliefType>BELIEF_GURU_FOOD</BeliefType>
+			<YieldType>YIELD_FOOD</YieldType>
+			<Yield>2</Yield>
+		</Row>
+
+		<Row>
+			<BeliefType>BELIEF_GURU_PROD</BeliefType>
+			<YieldType>YIELD_PRODUCTION</YieldType>
+			<Yield>2</Yield>
+		</Row>
+
+		<Row>
+			<BeliefType>BELIEF_GURU_GOLD</BeliefType>
+			<YieldType>YIELD_GOLD</YieldType>
+			<Yield>2</Yield>
+		</Row>
+
+	</Belief_YieldChangeAnySpecialist>
+
+	<!-- Yield per foreign follower not at war -->
+	<!-- Yield per Foreign follower -->
+	<!-- Yield per follower -->
+	<Belief_YieldChangePerXForeignFollowers>
+
+		<Row>
+			<BeliefType>BELIEF_APO_CUL</BeliefType>
+			<YieldType>YIELD_CULTURE</YieldType>
+			<ForeignFollowers>5</ForeignFollowers>
+		</Row>
+
+	</Belief_YieldChangePerXForeignFollowers>
+
+
+
+
+
+</GameData>
+
+
+
+
+
+
+
+

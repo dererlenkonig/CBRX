@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 5/30/2015 10:03:44 AM -->
+<GameData>
+	<Language_en_US>
+		<!--JFD RISE TO POWER-->
+		<!--JFD PIETY-->
+		<Row Tag="TXT_KEY_TRAIT_JFD_OTTOMAN_PIETY">
+			<Text>Internal Trade Routes produce +33% more [ICON_FOOD] Food and [ICON_PRODUCTION] Production. Each [ICON_PUPPET] puppet connected via Internal Trade Route yields +4 [ICON_GOLD] Gold and an additional +5 [ICON_PEACE] Faith if following a different religion than your State Religion.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_OTTOMAN_GOLD_FROM_PUPPETS">
+			<Text>[TAB]{1_Num} from [ICON_SWAP] Trade Routes between your cities and your [ICON_PUPPET] puppets.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_OTTOMAN_FAITH_FROM_PUPPETS">
+			<Text>[COLOR_POSITIVE_TEXT]+{1_Num}[ENDCOLOR] from [ICON_SWAP] Trade Routes between your cities and your [ICON_PUPPET] puppets.</Text>
+		</Row>
+		<!--SUKRITACT DECISIONS-->
+		<!--Commission Decorated Tughra-->
+		<Row Tag="TXT_KEY_DECISIONS_JFD_OTTOMAN_COMMISSION_DECORATED_TUGHRA">
+			<Text>Commission Decorated Tughra</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_JFD_OTTOMAN_COMMISSION_DECORATED_TUGHRA_DESC">
+			<Text>It is the charge of the Sultan to ensure that his reign is well regarded. And so we must commission a most decorated and elaborate Tughra to benefit the glory of our rule.
+				[NEWLINE]-------------------------
+				[NEWLINE][COLOR_POSITIVE_TEXT]Requirements:[ENDCOLOR]
+				[NEWLINE]-------------------------
+				[NEWLINE][ICON_BULLET]Player must be the Ottomans.
+				[NEWLINE][ICON_BULLET]May only be enacted from the beginning of the Renaissance Era.
+				[NEWLINE][ICON_BULLET]May only be enacted once per game.
+				[NEWLINE]-------------------------
+				[NEWLINE][COLOR_POSITIVE_TEXT]Costs:[ENDCOLOR]
+				[NEWLINE]-------------------------
+				[NEWLINE][ICON_BULLET]{1_Num} [ICON_GOLD] Gold.
+				[NEWLINE]-------------------------
+				[NEWLINE][COLOR_POSITIVE_TEXT]Rewards:[ENDCOLOR]
+				[NEWLINE]-------------------------
+				[NEWLINE][ICON_BULLET]Gain a free Great Artist.
+				[NEWLINE][ICON_BULLET]1 [ICON_MAGISTRATES] Magistrates.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_JFD_OTTOMAN_COMMISSION_DECORATED_TUGHRA_ENACTED_DESC">
+			<Text>It is the charge of the Sultan to ensure that his reign is well regarded. And so we must commission a most decorated and elaborate Tughra to benefit the glory of our rule.[NEWLINE]
+				[NEWLINE]-------------------------
+				[NEWLINE][COLOR_POSITIVE_TEXT]Rewards:[ENDCOLOR]
+				[NEWLINE]-------------------------
+				[NEWLINE][ICON_BULLET]Gain a free Great Artist.
+				[NEWLINE][ICON_BULLET]1 [ICON_MAGISTRATES] Magistrates.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_DECISIONS_JFD_OTTOMAN_CALLIGRAPHER">
+			<Text>Great Calligrapher</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_JFD_OTTOMAN_CALLIGRAPHER_DESC">
+			<Text>Nişancı</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_JFD_SULEIMAN_TUGHRA">
+			<Text>Tughra of Suleiman the Magnificent</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

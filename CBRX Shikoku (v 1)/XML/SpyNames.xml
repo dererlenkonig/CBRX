@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 3/12/2013 4:59:29 PM -->
+<GameData>
+  <!-- TODO: Insert table creation example here. -->
+ 
+  <!-- TODO: Insert table data example here.-->
+  
+  <!-- Enter your Game Data here. -->
+	<Civilization_SpyNames>
+		<Row>
+			<CivilizationType>CIVILIZATION_TOSA</CivilizationType>
+			<SpyName>TXT_KEY_SPY_NAME_JAPAN_0</SpyName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_TOSA</CivilizationType>
+			<SpyName>TXT_KEY_SPY_NAME_JAPAN_1</SpyName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_TOSA</CivilizationType>
+			<SpyName>TXT_KEY_SPY_NAME_JAPAN_2</SpyName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_TOSA</CivilizationType>
+			<SpyName>TXT_KEY_SPY_NAME_JAPAN_3</SpyName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_TOSA</CivilizationType>
+			<SpyName>TXT_KEY_SPY_NAME_JAPAN_4</SpyName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_TOSA</CivilizationType>
+			<SpyName>TXT_KEY_SPY_NAME_JAPAN_5</SpyName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_TOSA</CivilizationType>
+			<SpyName>TXT_KEY_SPY_NAME_JAPAN_6</SpyName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_TOSA</CivilizationType>
+			<SpyName>TXT_KEY_SPY_NAME_JAPAN_7</SpyName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_TOSA</CivilizationType>
+			<SpyName>TXT_KEY_SPY_NAME_JAPAN_8</SpyName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_TOSA</CivilizationType>
+			<SpyName>TXT_KEY_SPY_NAME_JAPAN_9</SpyName>
+		</Row>
+	</Civilization_SpyNames>
+</GameData>

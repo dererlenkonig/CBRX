@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 4/13/2014 1:47:48 AM -->
+<GameData>
+		<Language_en_US>
+			<Row Tag="TXT_KEY_CIV5_DJSH_KAZAKH_HEADING_1">
+				<Text>History</Text>
+			</Row>
+			<Row Tag="TXT_KEY_CIV5_DJSH_KAZAKH_TEXT_1">
+				<Text>Central Asia was originally inhabited by Indo-Iranians. The best known of those groups was the nomadic Scythians. The Turkic people began encroaching on the Iranians starting at least in the 5th century AD, possibly earlier. They became the dominant ethnic group of Central Asia. The Cumans entered the steppes of modern day Kazakhstan around the early 11th century, where they later joined with the Kipchaks and established the vast Cuman-Kipchak confederation. While ancient cities Taraz (Aulie-Ata) and Hazrat-e Turkestan had long served as important way-stations along the Silk Road connecting East and West, real political consolidation only began with the Mongol invasion of the early 13th century. Under the Mongol Empire, administrative districts were established, and these eventually came under the rule of the emergent Kazakh Khanate (Kazakhstan). Throughout this period, traditionally nomadic life and a livestock-based economy continued to dominate the steppe. In the 15th century, a distinct Kazakh identity began to emerge among the Turkic tribes, a process which was consolidated by the mid-16th century with the appearance of the Kazakh language, culture, and economy. At its height the Khanate would rule parts of Central Asia and control Cumania. The Kazakhs nomads would raid people of Russian territory for slaves until the Russian conquest of Kazakhstan. From the sixteenth through the early nineteenth century, the most powerful nomadic peoples were the Kazakhs and the Oirats. The beginning of the 18th century marked the zenith of the Kazakh Khanate. During this period the Little Horde participated in the 1723–1730 war against the Dzungars, following their "Great Disaster" invasion of Kazakh territories. The Dzungars seized the pastures of the defeated Kazakhs, taking many captives, and slaughtering entire clans. Under the leadership of Abul Khair Khan, the Kazakhs won major victories over the Dzungar at the Bulanty River in 1726, and at the Battle of Anrakay in 1729. Ablai Khan participated in the most significant battles against the Dzungars from the 1720s to the 1750s, for which he was declared a "batyr" ("hero") by the people. In the 19th century, the Russian Empire began to expand into Central Asia. The "Great Game" period is generally regarded as running from approximately 1813 to the Anglo-Russian Convention of 1907. The tsars effectively ruled over most of the territory belonging to what is now the Republic of Kazakhstan. Although there was a brief period of autonomy (Alash Autonomy) during the tumultuous period following the collapse of the Russian Empire the Kazakhs eventually succumbed to Soviet rule. In 1920, the area of present-day Kazakhstan became an autonomous republic within the Soviet Union. On 16 December 1991, Kazakhstan became the last Soviet republic to declare independence. Its communist-era leader, Nursultan Nazarbayev, became the country's first President, a position he has retained for more than two decades.</Text>
+			</Row>
+			<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_ABLAI_KHAN_HEADING_1">
+				<Text>General Information</Text>
+			</Row>
+			<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_ABLAI_KHAN_TEXT_1">
+				<Text>Ablai Khan was a Kazakh khan of the Middle jüz. Born as Wali-ullah Abul-Mansur Khan, Ablai Khan belonged to the senior branch of descendants of the 15th century founder of the Kazakh state, Janybek Khan. In the first half of the 18th century, Ablai Khan proved to be a talented organizer and commander as he headed detachments of the Kazakh militia fighting the Dzungars. He participated in the most significant battles against the Dzungars from the 1720s to the 1750s, for which he was declared a "batyr" ("hero") by the people.[NEWLINE][NEWLINE]Ablai's activity aimed to create a strong and independent Kazakh state. He headed the unified forces of the Kazakhs and furthered the centralization of state power in Kazakhstan. Until his election as the khan of the three jüzes, Ablai had to compete with Khan Abul Mambet and his descendants of Middle jüz for leadership. Initially, Russia recognized Abul-Mambet Khan as the Khan of Middle jüz, while Ablai was supported by China. Ablai's talent in playing China against Russia gradually made him the unrivaled Khan of the steppe. Unlike Abul Khair Khan of Little jüz, Ablai never submitted to Russian rule. In 1771, at the meeting of the representatives of the three jüzes, Ablai was elected as the Kazakh khan. Russian Empress requested that the title of khan should be recognized and officially approved by Russia. To that end, she sent an official letter to Petropavl, where Ablai was expected to receive the title in 1779. He never showed up at the fort, declining Russia's request to appoint him as the khan of Middle jüz. In contrast to Ablai, other khans and sultans had been competing for the lavish gifts and stipends of the Emperors of Russia in return for their submission.[NEWLINE][NEWLINE]During the Qing campaigns against the Dzungars, Ablai Khan chose not to take sides in the Dzungar-Chinese conflict. Once the conflict was settled, Ablai offered his submission to the Qianlong Emperor. Ablai was confirmed as Kazakh Khan by both the Chinese and the Russians. He led numerous campaigns against Khanate of Kokand and the Kyrgyz. In the last campaign his troops liberated many cities in Southern Kazakhstan and even captured Tashkent. Then he proceeded to present-day Kyrgyzstan and won a furious battle with troops of local warlords. Upon his death in 1781 he was interred in the Mausoleum of Khoja Ahmed Yasavi in Hazrat-e Turkestan.</Text>
+			</Row>
+			<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_ABLAI_KHAN_LIVED">
+				<Text>1711 - 1781 AD</Text>
+			</Row>
+			<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_ABLAI_KHAN_NAME">
+				<Text>Ablai Khan</Text>
+			</Row>
+			<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_ABLAI_KHAN_SUBTITLE">
+				<Text>Leader of the Kazakhs</Text>
+			</Row>
+			<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_ABLAI_KHAN_TITLES_1">
+				<Text>Batyr</Text>
+			</Row>
+			<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_ABLAI_KHAN_TITLES_2">
+				<Text>Khan of the Middle Jüz</Text>
+			</Row>
+			<Row Tag="TXT_KEY_TRAIT_NOMADIC_PASTORALISTS">
+				<Text>Founded cities claim nearby flat Plains and Grass tiles without any features and spawn a [ICON_RES_SHEEP] Sheep, [ICON_RES_HORSE] Horse or [ICON_RES_COW] Cattle resource. Pastures resources are automatically improved.</Text>
+			</Row>
+			<Row Tag="TXT_KEY_TRAIT_NOMADIC_PASTORALISTS_SHORT">
+				<Text>Nomadic Pastoralists</Text>
+			</Row>
+			<Row Tag="TXT_KEY_LEADER_ABLAI_KHAN_FIRST_GREETING_1">
+				<Text>Beware, stranger: The Kazakh Jüzes are unified and order is restored. Ignore us and you will regret it.</Text>
+			</Row>
+			<Row Tag="TXT_KEY_LEADER_ABLAI_KHAN_FIRST_GREETING_2">
+				<Text>You walk on our steppe as if you were invited. I am not aware of such an arrangement. Explain your presence.</Text>
+			</Row>
+			<Row Tag="TXT_KEY_LEADER_ABLAI_KHAN_DEFEATED_1">
+				<Text>We will reorganize and retake what is ours!</Text>
+			</Row>
+			<Row Tag="TXT_KEY_LEADER_ABLAI_KHAN_DEFEATED_2">
+				<Text>What are you waiting for? Finish it.</Text>
+			</Row>
+		</Language_en_US>
+</GameData>

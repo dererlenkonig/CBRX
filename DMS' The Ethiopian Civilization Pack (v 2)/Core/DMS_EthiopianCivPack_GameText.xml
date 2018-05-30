@@ -1,0 +1,1750 @@
+<GameData>
+	<Language_en_US>
+		<!-- KINGDOM OF AKSUM (KALEB) -->
+		<!-- Aksum -->
+		<Row Tag="TXT_KEY_CIVILIZATION_DMS_AKSUM_KALEB_DESC">
+			<Text>Aksumite Empire</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILIZATION_DMS_AKSUM_KALEB_SHORT_DESC">
+			<Text>Aksum</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILIZATION_DMS_AKSUM_KALEB_ADJECTIVE">
+			<Text>Aksumite</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_DMS_AKSUM_KALEB_HEADING_1">
+			<Text>History</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_DMS_AKSUM_KALEB_TEXT_1">
+			<Text>The Kingdom of Aksum was an ancient kingdom located in present-day Eritrea and the Tigray Region of Ethiopia. Ruled by the Aksumites, it existed from approximately 100 AD to 940 AD. The polity was centered in the city of Axum. It grew from the proto-Aksumite Iron Age period around the 4th century BC to achieve prominence by the 1st century AD, and became a major player on the commercial route between the Roman Empire and Ancient India. The Aksumite rulers facilitated trade by minting their own Aksumite currency, with the state establishing its hegemony over the declining Kingdom of Kush. It also regularly entered the politics of the kingdoms on the Arabian Peninsula, and eventually extended its rule over the region with the conquest of the Himyarite Kingdom.[NEWLINE][NEWLINE]The Axumites erected a number of large stelae, which served a religious purpose in pre-Christian times. One of these granite columns is the largest such structure in the world, standing at 90 feet. Under Ezana (fl. 320–360) Aksum adopted Christianity. The Kingdom used the name "Ethiopia" as early as the 4th century.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_DMS_AKSUM_KALEB_HEADING_2">
+			<Text>Origins</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_DMS_AKSUM_KALEB_TEXT_2">
+			<Text>Aksum was previously thought to have been founded by Sabaeans, who spoke a language from the Semitic branch of the Afro-Asiatic family. Newer evidence suggests that Semitic-speaking Aksumites and semiticized Agaw peoples, who originally spoke other Afro-Asiatic languages from the family's Cushitic branch, had already established an independent civilisation in the territory before the arrival of the Sabaeans. The older D'mt kingdom flourished in the area between the 10th and 5th centuries BC, prior to the proposed Sabaean migration of the 4th or 5th century BC. According to the Book of Aksum, Aksum's first capital, Mazaber, was built by Itiyopis, son of Cush. The capital was later moved to Aksum in northern Ethiopia. Over 95% of Aksum remains unexplored beneath the modern city and its surrounding area.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_DMS_AKSUM_KALEB_HEADING_3">
+			<Text>Empire</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_DMS_AKSUM_KALEB_TEXT_3">
+			<Text>The Empire of Aksum at its height at times extended across most of present-day Eritrea, Ethiopia, Djibouti, Sudan, Egypt, Yemen and Saudi Arabia. The capital city of the empire was Aksum, now in northern Ethiopia. Today a smaller community, the city of Aksum was once a bustling metropolis, cultural and economic center. Two hills and two streams lie on the east and west expanses of the city; perhaps providing the initial impetus for settling this area. Along the hills and plain outside the city, the Aksumites had cemeteries with elaborate grave stones called stelae, or obelisks. Other important cities included Yeha, Hawulti-Melazo, Matara, Adulis, and Qohaito, the last three of which are now in Eritrea. By the reign of Endubis in the late 3rd century, it had begun minting its own currency and was named by Mani as one of the four great powers of his time along with Persia, Rome, and China. It converted to Christianity in 325 or 328 under King Ezana and was the first state ever to use the image of the cross on its coins.[NEWLINE][NEWLINE]Around 520, the King Kaleb sent an expedition to Yemen against the Jewish Himyarite King Dhu Nuwas, who was persecuting the Christian/Aksumite community in his kingdom. Dhu Nuwas was deposed and killed and Kaleb appointed a Christian Himyarite, Sumuafa Ashawa, as his viceroy. However, around 525 this viceroy was deposed by the Aksumite general Abreha with support of Ethiopians who had settled in Yemen, and withheld tribute to Kaleb. When Kaleb sent another expedition against Abreha this force defected, killing their commander, and joining Abreha. Another expedition sent against them was defeated, leaving Yemen under Abreha's rule, where he continued to promote the Christian faith until his death, not long after which Yemen was conquered by the Persians. According to Munro-Hay these wars may have been Aksum's swan-song as a great power, with an overall weakening of Aksumite authority and over-expenditure in money and manpower. According to Ethiopian traditions, Kaleb eventually abdicated and retired to a monastery. It is also possible that Ethiopia was affected by the Plague of Justinian around this time.[NEWLINE][NEWLINE]Aksum remained a strong, though weakened, empire and trading power until the rise of Islam in the 7th century. However, unlike the relations between the Islamic powers and Christian Europe, Aksum, which provided shelter to Muhammad's early followers around 615, was on good terms with its Islamic neighbors. Nevertheless, as early as 640, Umar ibn al-Khattāb sent a naval expedition against Adulis under Alkama bin Mujazziz, but it was eventually defeated. Aksumite naval power also declined throughout the period, though in 702 Aksumite pirates were able to invade the Hejaz and occupy Jeddah. In retaliation, however, Sulayman ibn Abd al-Malik was able to take the Dahlak Archipelago from Aksum, which became Muslim from that point on, though it later recovered in the 9th century and became a vassal to the Emperor of Ethiopia.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_DMS_AKSUM_KALEB_HEADING_4">
+			<Text>Foreign relations, trade, and economy</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_DMS_AKSUM_KALEB_TEXT_4">
+			<Text>Aksum was deeply involved in the trade network between India and the Mediterranean (Rome, later Byzantium), exporting ivory, tortoise shell, gold and emeralds, and importing silk and spices. Aksum's access to both the Red Sea and the Upper Nile enabled its strong navy to profit in trade between various African (Nubia), Arabian (Yemen), and Indian states. The main exports of Aksum were, as would be expected of a state during this time, agricultural products. The land was much more fertile during the time of the Aksumites than now, and their principal crops were grains such as wheat and barley. The people of Aksum also raised cattle, sheep, and camels. Wild animals were also hunted for things such as ivory and rhinoceros horns. They traded with Roman traders as well as with Egyptian and Persian merchants. The empire was also rich with gold and iron deposits. These metals were valuable to trade, but another mineral was also widely traded: salt. Salt was abundant in Aksum and was traded quite frequently. It benefited from a major transformation of the maritime trading system that linked the Roman Empire and India. This change took place around the start of the 1st century. The older trading system involved coastal sailing and many intermediary ports. The Red Sea was of secondary importance to the Persian Gulf and overland connections to the Levant. Starting around 100 BC a route from Egypt to India was established, making use of the Red Sea and using monsoon winds to cross the Arabian Sea directly to southern India. By about 100 AD, the volume of traffic being shipped on this route had eclipsed older routes. Roman demand for goods from southern India increased dramatically, resulting in greater number of large ships sailing down the Red Sea from Roman Egypt to the Arabian Sea and India.[NEWLINE][NEWLINE]The Kingdom of Aksum was ideally located to take advantage of the new trading situation. Adulis soon became the main port for the export of African goods, such as ivory, incense, gold, slaves, and exotic animals. In order to supply such goods the kings of Aksum worked to develop and expand an inland trading network. A rival, and much older trading network that tapped the same interior region of Africa was that of the Kingdom of Kush, which had long supplied Egypt with African goods via the Nile corridor. By the 1st century AD, however, Aksum had gained control over territory previously Kushite. The Periplus of the Erythraean Sea explicitly describes how ivory collected in Kushite territory was being exported through the port of Adulis instead of being taken to Meroë, the capital of Kush. During the 2nd and 3rd centuries AD the Kingdom of Aksum continued to expand their control of the southern Red Sea basin. A caravan route to Egypt was established which bypassed the Nile corridor entirely. Aksum succeeded in becoming the principal supplier of African goods to the Roman Empire, not least as a result of the transformed Indian Ocean trading system.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_DMS_AKSUM_KALEB_HEADING_5">
+			<Text>Culture</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_DMS_AKSUM_KALEB_TEXT_5">
+			<Text>The Empire of Aksum is notable for a number of achievements, such as its own alphabet, the Ge'ez script which was eventually modified to include vowels, becoming an abugida. Furthermore, in the early times of the empire, around 1700 years ago, giant Obelisks to mark emperors' (and nobles') tombs (underground grave chambers) were constructed, the most famous of which is the Obelisk of Aksum.[NEWLINE][NEWLINE]Under Emperor Ezana, Aksum adopted Christianity in place of its former polytheistic and Judaic religions around 325. This gave rise to the present day Ethiopian Orthodox Tewahedo Church (only granted autonomy from the Coptic Church in 1953), and Eritrean Orthodox Tewahdo Church (granted autonomy from the Ethiopian Orthodox church in 1993). Since the schism with orthodoxy following the Council of Chalcedon (451), it has been an important Miaphysite church, and its scriptures and liturgy continue to be in Ge'ez.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_DMS_AKSUM_KALEB_HEADING_6">
+			<Text>Religion</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_DMS_AKSUM_KALEB_TEXT_6">
+			<Text>Before its conversion to Christianity, the Aksumites practiced a polytheistic religion related to the religion practiced in southern Arabia. This included the use of the crescent-and-disc symbol used in southern Arabia and the northern horn. It is suggested that the pagan Aksumites worshipped Astar, his son, Mahrem, and Beher.[NEWLINE][NEWLINE]Aksum culture was significantly influenced by Judaism, saying that "The first carriers of Judaism reached Ethiopia between the rise of the Aksumite kingdom at the beginning of the Common Era and conversion to Christianity of King Ezana in the fourth century." It is believed that although Ethiopian tradition suggests that these were present in large numbers, that "A relatively small number of texts and individuals dwelling in the cultural, economic, and political center could have had a considerable impact." and that "their influence was diffused throughout Ethiopian culture in its formative period By the time Christianity took hold in the fourth century, many of the originally Hebraic-Jewish elements had been adopted by much of the indigenous population and were no longer viewed as foreign characteristics. Nor were they perceived as in conflict with the acceptance of Christianity."</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_DMS_AKSUM_KALEB_HEADING_7">
+			<Text>Decline</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_DMS_AKSUM_KALEB_TEXT_7">
+			<Text>Eventually, the Islamic Empire took control of the Red Sea and most of the Nile, pushing Aksum into economic isolation. Northwest of Aksum, in modern-day Sudan, the Christian states of Makuria and Alodia lasted till the 13th century before becoming Islamic. Aksum, isolated, nonetheless still remained Christian. After a second golden age in the early 6th century, the empire began to decline, eventually ceasing its production of coins in the early 7th century. Around this same time, the Aksumite population was forced to go farther inland to the highlands for protection, abandoning Aksum as the capital. Arab writers of the time continued to describe Ethiopia (no longer referred to as Aksum) as an extensive and powerful state, though they had lost control of most of the coast and their tributaries. While land was lost in the north, it was gained in the south; and, though Ethiopia was no longer an economic power, it still attracted Arab merchants. The capital was moved to a new location, currently unknown, though it may have been called Ku'bar or Jarmi.[NEWLINE][NEWLINE]Local history holds that, around 960, a Jewish Queen named Yodit (Judith) or "Gudit" defeated the empire and burned its churches and literature. While there is evidence of churches being burned and an invasion around this time, her existence has been questioned by some modern authors. Another possibility is that the Aksumite power was ended by a southern pagan queen named Bani al-Hamwiyah, possibly of the tribe al-Damutah or Damoti (Sidama). It is clear from contemporary sources that a female usurper did indeed rule the country at this time, and that her reign ended some time before 1003. After a short Dark Age, the Aksumite Empire was succeeded by the Agaw Zagwe dynasty in the 11th or 12th century (most likely around 1137), although limited in size and scope.</Text>
+		</Row>
+		<!-- Kaleb -->
+		<Row Tag="TXT_KEY_LEADER_DMS_KALEB">
+			<Text>Kaleb</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_DMS_KALEB_HEADING_1">
+			<Text>Background</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_DMS_KALEB_TEXT_1">
+			<Text>Kaleb (ruled circa 514-543) was the last major Aksumite king of Ethiopia, during whose reign the kingdom reached the apex of its glory. Ethiopian and Syrian sources refer to him as Kaleb, but Greek sources call him Hellesthaeeus, Ella Atsbeha, or Ellesbas. Legend makes King Tazena his father.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_DMS_KALEB_HEADING_2">
+			<Text>Origin</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_DMS_KALEB_TEXT_2">
+			<Text>Little is known of his earlier life. He was educated at an Ethiopian Church school, but realized the importance of Greek culture. He ordered the governor of Adulis, the famous Red Sea port of the Aksumite period through which Greek trade came to Ethiopia, to copy the Greek inscriptions of Ptolemy IV (Macedonian king of Egypt from 221-205 BC), and of an unknown Ethiopian emperor. The 6th-century theologian and geographer Cosmas Indicopleustes preserved the only exact copy, which he later included in his book Topographia Christiana ("Christian Topography").</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_DMS_KALEB_HEADING_3">
+			<Text>Reign</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_DMS_KALEB_TEXT_3">
+			<Text>Aksum reached its last period of glory during Kaleb's reign. Legends were inscribed in the Ge' ez language on coins, and art and architecture flourished. Aksum controlled traffic on the Red Sea, as well as much of the Far Eastern trade. Only Aksumites were permitted to sail ships to the Far East. The Byzantine emperor Justin I (ruled 518-527) encouraged Aksum to engage in the silk trade with China, in competition with the Persians.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_DMS_KALEB_HEADING_4">
+			<Text>Military and conquests</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_DMS_KALEB_TEXT_4">
+			<Text>Kaleb is especially remembered for his military expedition in to South Arabia, which had long been under Ethiopian control. About A.D. 523, Dhu Nuwas, a local prince of the Najran area, led a revolt, after first having secured the support of the large Jewish community in South Arabia by converting to Judaism. Moving during the winter, when the weather would not permit Aksumite intervention he attacked the Ethiopian garrison, conquered the whole of South Arabia, persecuted the Christians, and forced Judaism on them. The following summer, however, Kaleb heard of his exploits and prepared a punitive expedition against him. Kaleb himself set out with his naval force, defeated Dhu Nuwas restoring Ethiopian sovereignty over South Arabia in A.D. 525.[NEWLINE][NEWLINE]This victory won Kaleb fame as the defender of the Christian faith and increased his prestige and power. Aksumite Ethiopia became the third power in the Middle Eastern region as a whole after the rival Byzantine and Persian empires. The Byzantine Empire frequently sent ambassadors to Kaleb to conclude commercial or military treaties.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_DMS_KALEB_HEADING_5">
+			<Text>Later life</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_DMS_KALEB_TEXT_5">
+			<Text>Ethiopian and Greek legends state that Kaleb abdicated after his return from South Arabia. Dedicating his crown to the Holy Sepulchre, he entered the monastery of Abba Pantaleon, where he spent the rest of his life. He was canonized by the Ethiopian church, and was the first Ethiopian to be recognized by the Greek and Roman Catholic churches as saint.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_DMS_KALEB_NAME">
+			<Text>Kaleb of Axum</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_DMS_KALEB_SUBTITLE">
+			<Text>Ruler of the Aksumites</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_DMS_KALEB_TITLES_1">
+			<Text>King of Aksum</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_DMS_KALEB_TITLES_2">
+			<Text>St. Elesbaan</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_DMS_KALEB_TITLES_3">
+			<Text>The One Who Brought About the Morning</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_DMS_KALEB_TITLES_4">
+			<Text>The One Who Collected Tribute</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_DMS_KALEB_TITLES_5">
+			<Text>Hellestheaeus</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_DMS_KALEB_LIVED">
+			<Text>c. 480 - 540 AD</Text>
+		</Row>
+		<!-- DOM -->
+		<Row Tag="TXT_KEY_DOM_DMS_KALEB_AKSUM">
+			<Text>Greetings king Kaleb of Aksum, Saint Elesbaan, and protector of Christianity. From its earliest days Aksum was known as one of the four great powers of the world, alongside Persia, Rome and China, and its gloriousness under your rule is challenged only by that achieved by King Ezana before you. With your eventual conquest of the Himyarite Kingdom in Arabia, you secured control of both sides of the southern Red Sea. Thus Aksum prospered as a trading empire exporting the goods of Africa to both Arabia, Europe and India. While eventually ending your reign by abdicating the throne and retiring to a monastery, you are forever known in Ethiopia as 'The One who Brought About the Morning'.[NEWLINE][NEWLINE]It is the wish of the people that you return from retirement to lead them once again. Will you plant the seeds that will one day become the Ethiopian Empire? Will you build a civilization that stands the test of time?</Text>
+		</Row>
+		<!-- Sarawit -->
+		<Row Tag="TXT_KEY_UNIT_DMS_SARAWIT">
+			<Text>Sarawit</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_DMS_SARAWIT_TEXT">
+			<Text>The Aksumite army was divided into groups known as Sarawit. Sarawit regiments are thought to have been considerable in size, and each Sarwe (singular form of Sarawit) had its own name, likely in reference to the region they or their commander came from. These names include Hara, Halen, Damawa, Sabarat, Hadefan, Sabaha, Laken, Sera and Mahaza. The Sarawit were commaned by its own negus (i.e. king), which suggests that the subordinate kings in Aksum led their own tribal contingents.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_DMS_SARAWIT_STRATEGY">
+			<Text>The Sarawit is the Aksumite unique Unit, replacing the Spearman. It is slightly stronger than the Spearman, and especially powerful against Mounted Units. The Cost of the Sarawit is decreased by 8% (up to 64%) for every Sarawit owned. It does however have a higher Maintenance Cost.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_DMS_SARAWIT_HELP">
+			<Text>Ancient Era Unit which specializes in defeating Mounted Units. Only the Aksumites may build it. This Unit has a higher maintenance cost than the Spearman it replaces, but is both slightly stronger and cheaper to train depending on the number of already owned Sarawit.</Text>
+		</Row>
+		<!-- Trait -->
+		<Row Tag="TXT_KEY_TRAIT_DMS_SAINT_ELESBAAN_SHORT">
+			<Text>Saint Elesbaan</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_DMS_SAINT_ELESBAAN">
+			<Text>Can buy additional [ICON_INTERNATIONAL_TRADE] Trade Route slots with [ICON_PEACE] Faith. Cities generate extra [ICON_FOOD] Growth when the target of international Trade Routes.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_DMS_AKSUM_BUY_TRADE_ROUTE_SLOT_WITH_FAITH">
+			<Text>COST: [ICON_PEACE] {1_faithProgress} / {2_faithCost}</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_DMS_AKSUM_BUY_TRADE_ROUTE_SLOT_WITH_FAITH_HELP">
+			<Text>Purchase additional [ICON_INTERNATIONAL_TRADE] Trade Route slots [ICON_PEACE] Faith.[NEWLINE][NEWLINE][COLOR_POSITIVE_TEXT]You have enough [ICON_PEACE] Faith to purchase an additional Trade Route slot.[ENDCOLOR][NEWLINE][NEWLINE]NOTE: The cost increases for every Trade Route slot you purchased, and you can at most purchase one slot per Era advanced.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_DMS_AKSUM_BUY_TRADE_ROUTE_SLOT_WITH_FAITH_HELP_DISABLED_1">
+			<Text>Purchase additional [ICON_INTERNATIONAL_TRADE] Trade Route slots [ICON_PEACE] Faith.[NEWLINE][NEWLINE][COLOR_NEGATIVE_TEXT][ICON_BULLET]You do not have enough [ICON_PEACE] Faith to purchase an additional Trade Route slot.[ENDCOLOR][NEWLINE][NEWLINE]NOTE: The cost increases for every Trade Route slot you purchased, and you can at most purchase one slot per Era advanced.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_DMS_AKSUM_BUY_TRADE_ROUTE_SLOT_WITH_FAITH_HELP_DISABLED_2">
+			<Text>Purchase additional [ICON_INTERNATIONAL_TRADE] Trade Route slots [ICON_PEACE] Faith.[NEWLINE][NEWLINE][COLOR_NEGATIVE_TEXT][ICON_BULLET]You have already purchased the current maximal number of Trade Route slots.[ENDCOLOR][NEWLINE][NEWLINE]NOTE: The cost increases for every Trade Route slot you purchased, and you can at most purchase one slot per Era advanced.</Text>
+		</Row>
+		<!-- dummy buildings -->
+		<Row Tag="TXT_KEY_BUILDING_DMS_TRADE_ROUTE_SLOT_DUMMY">
+			<Text>DMS: Aksum trade dummy building</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_DMS_TRADE_ROUTE_SLOT_DUMMY_HELP">
+			<Text>DMS: Aksum trade dummy building help</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_DMS_TRADE_ROUTE_GROWTH_DUMMY">
+			<Text>DMS: Aksum trade growth dummy building</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_DMS_TRADE_ROUTE_GROWTH_DUMMY_HELP">
+			<Text>DMS: Aksum trade growth dummy building help</Text>
+		</Row>
+		<!-- MCIS -->
+		<Row Tag="TXT_KEY_MCIS_DMS_SAINT_ELESBAAN_HELP">
+			<Text>+{1_iNumGrowth}% [ICON_FOOD] Growth in this City for having {2_iNumTRs} incoming internation Trade Route(s).</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MCIS_DMS_SARAWIT_HELP">
+			<Text>+{1_iNumDiscount}% [ICON_PRODUCTION] Production discount on the next Sarawit for currently owning a total of {2_iNumSarawit} Sarawit Unit(s).</Text>
+		</Row>
+		<!-- City names -->
+		<Row Tag="TXT_KEY_CITY_NAME_DMS_AKSUM_KALEB_0">
+			<Text>Axum</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_DMS_AKSUM_KALEB_1">
+			<Text>Adulis</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_DMS_AKSUM_KALEB_2">
+			<Text>Qohaito</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_DMS_AKSUM_KALEB_3">
+			<Text>Wiqro</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_DMS_AKSUM_KALEB_4">
+			<Text>Hawulti-Melazo</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_DMS_AKSUM_KALEB_5">
+			<Text>Yeha</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_DMS_AKSUM_KALEB_6">
+			<Text>Mazaber</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_DMS_AKSUM_KALEB_7">
+			<Text>Matara</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_DMS_AKSUM_KALEB_8">
+			<Text>Keskese</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_DMS_AKSUM_KALEB_9">
+			<Text>Massawa</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_DMS_AKSUM_KALEB_10">
+			<Text>Mendefera</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_DMS_AKSUM_KALEB_11">
+			<Text>Narjan</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_DMS_AKSUM_KALEB_12">
+			<Text>Sembel</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_DMS_AKSUM_KALEB_13">
+			<Text>Dungur</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_DMS_AKSUM_KALEB_14">
+			<Text>Ta'akha Maryam</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_DMS_AKSUM_KALEB_15">
+			<Text>Dessie</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_DMS_AKSUM_KALEB_16">
+			<Text>Mota</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_DMS_AKSUM_KALEB_17">
+			<Text>Anza</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_DMS_AKSUM_KALEB_18">
+			<Text>Mojo</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_DMS_AKSUM_KALEB_19">
+			<Text>Gondar</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_DMS_AKSUM_KALEB_20">
+			<Text>Tekondo</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_DMS_AKSUM_KALEB_21">
+			<Text>Bahir Dar</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_DMS_AKSUM_KALEB_22">
+			<Text>Debre Werq</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_DMS_AKSUM_KALEB_23">
+			<Text>Gorgora</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_DMS_AKSUM_KALEB_24">
+			<Text>Degum</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_DMS_AKSUM_KALEB_25">
+			<Text>Addis Ababa</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_DMS_AKSUM_KALEB_26">
+			<Text>Dire Dawa</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_DMS_AKSUM_KALEB_27">
+			<Text>Gelemso</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_DMS_AKSUM_KALEB_28">
+			<Text>Delghi</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_DMS_AKSUM_KALEB_29">
+			<Text>Kombolcha</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_DMS_AKSUM_KALEB_30">
+			<Text>Golo</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_DMS_AKSUM_KALEB_31">
+			<Text>Dejen</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_DMS_AKSUM_KALEB_32">
+			<Text>Dangila</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_DMS_AKSUM_KALEB_33">
+			<Text>Kobo</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_DMS_AKSUM_KALEB_34">
+			<Text>Shire</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_DMS_AKSUM_KALEB_35">
+			<Text>Harar</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_DMS_AKSUM_KALEB_36">
+			<Text>Wuchate</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_DMS_AKSUM_KALEB_37">
+			<Text>Negash</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_DMS_AKSUM_KALEB_38">
+			<Text>Mek'ele</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_DMS_AKSUM_KALEB_39">
+			<Text>Henzat</Text>
+		</Row>
+		<!-- KINGDOM OF SEMIEN (GUDIT) -->
+		<!-- Semien -->
+		<Row Tag="TXT_KEY_CIVILIZATION_DMS_SEMIEN_GUDIT_DESC">
+			<Text>Semien Empire</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILIZATION_DMS_SEMIEN_GUDIT_SHORT_DESC">
+			<Text>Semien</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILIZATION_DMS_SEMIEN_GUDIT_ADJECTIVE">
+			<Text>Beta Israeli</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_DMS_SEMIEN_GUDIT_HEADING_1">
+			<Text>History</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_DMS_SEMIEN_GUDIT_TEXT_1">
+			<Text>The Kingdom of Semien, sometimes referred to as the Kingdom of Beta Israel, was an ancient kingdom of the Beta Israeli population centered in the northwestern part of the Ethiopian Empire that came to an end in 1627 during the reign of Ethiopian Emperor Susenyos I. There is a disagreement regarding the exact time of the establishment of the kingdom; it was preceded by a number of regions which were in Jewish rule in the northwestern part of Ethiopia. The Jewish-Ethiopian tradition dates the establishment of the Kingdom of Semien to the fourth century, right after the kingdom of Axum turned to Christianity during the reign of Ezana of Axum.[NEWLINE]The Golden Age of the Beta Israel kingdom took place, according to the Ethiopian tradition, between the years 858–1270, in which the Jewish kingdom flourished. During that period the world Jewry heard for the first time the stories of Eldad ha-Dani who apparently visited the kingdom. Marco Polo and Benjamin of Tudela also mention an independent Ethiopian Jewish kingdom in the writings from that period. This period ends with the rise of the Christian Solomonic dynasty.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_DMS_SEMIEN_GUDIT_HEADING_2">
+			<Text>Beta Israel</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_DMS_SEMIEN_GUDIT_TEXT_2">
+			<Text>Beta Israel, also known as Ethiopian Jews, are Jews that developed and lived for centuries in the area of Kingdom of Aksum and the Ethiopian Empire that is currently divided between Amhara and Tigray Regions of Ethiopia. Most of these peoples have emigrated to Israel since the late 20th century.[NEWLINE][NEWLINE]The Beta Israeli lived in northern and northwestern Ethiopia, in more than 500 small villages spread over a wide territory, alongside populations that were Muslim and predominantly Christian. Most of them were concentrated in the area around and to the north of Lake Tana, in the Gondar region among the Wolqayit, Shire and Tselemt, Dembia, Segelt, Quara, and Belesa.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_DMS_SEMIEN_GUDIT_HEADING_3">
+			<Text>Establishment of the kingdom</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_DMS_SEMIEN_GUDIT_TEXT_3">
+			<Text>According to the Beta Israel tradition, the Jewish kingdom of Beta Israel was initially established after Ezana was crowned as the Emperor of Axum (in 325 CE). Ezana, who was educated in his childhood by the missioner Frumentius, declared Christianity as the religion of the Ethiopian empire after he was crowned. The inhabitants who practiced Judaism and refused to convert to Christianity began revolting – this group was referred to as "Beta Israel" by the emperor. The Beta Israel kingdom was eventually established after a civil war between the Jewish population and the Christian population. The Jewish rebels wanted to distinguish themselves from the people who practiced Christianity and therefore during that civil war the Jewish community began to migrate out of the Empire towards the Semien Mountains region and the province of Dembiya – regions located north of Lake Tana and south of the Tekezé River – at that time this region was not an integral part of the Axum Empire and as a result, the Jews began to establish their kingdom in that region, crowned the first king, Phineas, a descendant of the Jewish High Priest Zadok, and started a period of territorial expansion eastward and southward.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_DMS_SEMIEN_GUDIT_HEADING_4">
+			<Text>Conquest of Aksum</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_DMS_SEMIEN_GUDIT_TEXT_4">
+			<Text>During the mid 9th century the empire of Aksum began a new expansion which led to an armed conflict between the Empire forces and the Beta Israel forces. The Beta Israel kingdom under King Gideon the fourth managed to defeat the Axum forces. Nevertheless, during the battle king Gideon was killed. As a result, Gideon's daughter Gudit inherited the kingdom from her father and took command. Gudit's first challenge was to stop any future invasions to the kingdom by the Christian Aksumite Empire. As a result, Judith formed an alliance with the Agaw – this way a military alliance was formed between those who opposed the expansion of the Christian Aksumite Empire.[NEWLINE][NEWLINE]Around 960, the large tribal confederation led by Queen Gudit, which included both forces of the Agaw tribes and the Beta Israel forces, invaded the capital of Axum and conquered and destroyed the city of Axum (including many churches and monasteries which were burned and destroyed) and imposed the Jewish rule over Axum. In addition, the Axumite throne was snatched and the forces of Queen Gudit sacked and burned the Debre Damo monastery which at the time was a treasury and a prison for the male relatives of the emperor of Ethiopia, killing all of the potential heirs of the emperor.[NEWLINE][NEWLINE]After the fall of the Axum Empire, Gudit crowned herself as the empress and appointed governors in the provinces which were conquered. Queen Judith ruled over the territory she conquered for around 40 years, establishing trade relations with the neighboring countries and eventually passing the throne on to her descendants.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_DMS_SEMIEN_GUDIT_HEADING_5">
+			<Text>Zagwe Dynasty</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_DMS_SEMIEN_GUDIT_TEXT_5">
+			<Text>Though clouded in mysteries and uncertainties, the Zagwe dynasty was established sometime between 900 and 1137 AD. The name of the dynasty is thought to derive from the phrase "Ze-Agaw", meaning "Dynasty of the Agaw", which references the Agaw people, who was allied with Gudit during the invasion of Aksum, and eventually came to constitute the ruling class of Ethiopia at the time.[NEWLINE][NEWLINE]According to some Ethiopian traditional accounts, the last of Gudit's successors was overthrown by Mara Takla Haymanot who is credited as the founder of the Zagwe dynasty. He married a female descendant of the last Aksumite emperor to stake his claim as the legitimate heir to the long dead empire. The kingdom's capital was at Adafa, not far from modern day Lalibela in the Lasta mountains.  The Zagwe continued the Orthodox Christianity of Aksum and constructed many rock-hewn churches such as the Church of Saint George in Lalibela. The dynasty would last until its overthrow by a new regime claiming descent from the old Aksumite kings.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_DMS_SEMIEN_GUDIT_HEADING_6">
+			<Text>Wars and collapse</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_DMS_SEMIEN_GUDIT_TEXT_6">
+			<Text>In 1270 the Christian Solomonic dynasty was restored after the crowning of a monarch who claimed descent from the single royal prince who managed to escape Queen Gudit's uprising. For the next three centuries the Solomonic Dynasty emperors conducted a long and ongoing series of armed confrontations with the Jewish Kingdom.[NEWLINE]In 1329, Emperor Amda Seyon campaigned in the northwest provinces of Semien, Wegera, Tselemt, and Tsegede, in which many had been converting to Judaism and where the Beta Israel had been gaining prominence.[NEWLINE]During the reign of Emperor Yeshaq (1414–1429) who invaded the Jewish kingdom, annexed it and began to exert religious pressure. Yeshaq divided the occupied territories of the Jewish kingdom into three provinces which were controlled by commissioners appointed by him. He reduced the Jews' social status below that of Christians and forced the Jews to convert or lose their land. It would be given away as rist, a type of land qualification that rendered it forever inheritable by the recipient and not transferable by the Emperor. Yeshaq decreed, "He who is baptized in the Christian religion may inherit the land of his father, otherwise let him be a Falāsī." This may have been the origin for the term "Falasha" ("wanderer," or "landless person").[NEWLINE]By 1450 the Jewish kingdom managed to annex back the territories it lost beforehand and began preparing to fight the armies of the emperor. The Beta Israel forces invaded the Ethiopian Empire in 1462 but lost the campaign and many of its military forces were killed. Later on the forces of the Ethiopian emperor invaded the kingdom in the region of Begemder and massacred many of the Jews in that region throughout a period of seven years. Although the area of the kingdom became significantly smaller afterwards, the Jews were able to eventually restore their kingdom.[NEWLINE]During the reign of emperor Sarsa Dengel the Jewish kingdom was invaded and the forces of the Ethiopian empire besieged the kingdom. The Jews survived the siege, but at the end of the siege the King Goshen was executed and many of his soldiers as well as many other Beta Israel members committed mass suicides.[NEWLINE]During the reign of Susenyos I the Ethiopian empire waged war against the Jewish kingdom and managed to conquer the entire kingdom and annex it to the Ethiopian empire by 1627.</Text>
+		</Row>
+		<!-- Gudit -->
+		<Row Tag="TXT_KEY_LEADER_DMS_GUDIT">
+			<Text>Gudit</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_DMS_GUDIT_HEADING_1">
+			<Text>Background</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_DMS_GUDIT_TEXT_1">
+			<Text>Gudit (or Judith, Yodit, or Esato, or Ga'wa), is a semi-legendary non-christian queen (flourished c. 960) who laid waste to Aksum and its countryside, destroyed churches and monuments, and attempted to exterminate the members of the ruling Axumite dynasty. Her deeds are recorded in the oral tradition and mentioned incidentally in various historical accounts.[NEWLINE][NEWLINE]Information about Gudit is contradictory and incomplete. However, most agree that she killed the emperor, ascended the throne herself, and reigned for 40 years. There is a tradition that Gudit sacked and burned Debre Damo, which at the time was a treasury and a prison for the male relatives of the king of Ethiopia; this may be an echo of the later capture and sack of Amba Geshen by Ahmed Gragn. Gudit is known as ´Esato in Amharic, which means "fire". Gudit is so related to the destruction of the Axumite Empire, that the name in Amharic is commonly translated as "destruction".</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_DMS_GUDIT_HEADING_2">
+			<Text>Ethnicity</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_DMS_GUDIT_TEXT_2">
+			<Text>The Italian orientalist, Carlo Conti Rossini, first proposed that the account of this warrior queen in the History of the Patriarchs of Alexandria, where she was described as Bani al-Hamwiyah, ought to be read as Bani al-Damutah, and argued that she was ruler of the once-powerful kingdom of Damot, and that she was related to one of the indigenous Sidamo peoples of southern Ethiopia. This would agree with the numerous references to matriarchs ruling the Sidamo polities.[NEWLINE][NEWLINE]If Gudit did not belong to one of the Sidamo peoples, then some scholars, based on the traditions that Gudit was Jewish, propose that she was of the Agaw people, who historically have been numerous in Lasta, and a number of whom (known as the Beta Israel), have professed an Israelite pre-Ezra Judaism since ancient times. If she was not of Hebrew, Israelite or Jewish origin, she might have been a convert to Judaism by her husband, known as Zenobis, son of the King of Sam. Local traditions around Adi Kaweh where she allegedly died and was buried indicate her faith was pagan-Hebraic,rather than Israelite or Jewish [NEWLINE][NEWLINE]Historian Enrico Cerulli also mentions a Muslim queen named Badit daughter of Maya in the same time period who ruled the Sultanate of Shewa located in Hararghe, the historical home of the Harla people. Somali local traditions also attest to this queen being of Harla background whom they called Arawelo.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_DMS_GUDIT_HEADING_3">
+			<Text>Historical evidence</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_DMS_GUDIT_TEXT_3">
+			<Text>It was during the office of Patriarch Philotheos of Alexandria when Gudit started her revolt, near the end of the reign of the king who had deposed the Abuna Petros. As Taddesse Tamrat explains, at the time "his own death in the conflict, and the military reverses of the kingdom were taken as divine retribution for the sufferings of Abuna Petros."[NEWLINE]This chronological synchronicity with the tenure of Patriarch Philotheos, and the intervention of king Georgios II of Makuria, provides us a date of c.960 for Gudit. A contemporary Arab historian, Ibn Hawqal, provides this account: "The country of the habasha has been ruled by a woman for many years now: she has killed the king of the habasha who was called Hadani. Until today she rules with complete independence in her own country and the frontier areas of the country of the Haḍani, in the southern part of [the country of] the habashi."[NEWLINE][NEWLINE]Another historian mentions that the king of Yemen sent a zebra to the ruler of Iraq in 969/970, which he had received as a gift from the Queen of al-Habasha. Taddesse Tamrat has speculated that one effect of Gudit's otherwise ephemeral rule, might be the pockets of various languages related to Amharic scattered across southwestern Ethiopia (e.g. Argobba, Gurage and Gafat), which could have been Axumite military settlements isolated by her conquests and later Sidamo migrations.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_DMS_GUDIT_NAME">
+			<Text>Esato</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_DMS_GUDIT_SUBTITLE">
+			<Text>Warrior Queen of Ethiopia</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_DMS_GUDIT_TITLES_1">
+			<Text>Queen of Semien</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_DMS_GUDIT_TITLES_2">
+			<Text>Yodit of Beta Israel</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_DMS_GUDIT_TITLES_3">
+			<Text>Conqueror of Ethiopia</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_DMS_GUDIT_TITLES_4">
+			<Text>The One of Fire and Destruction</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_DMS_GUDIT_LIVED">
+			<Text>c. 920 - 980 AD</Text>
+		</Row>
+		<!-- DOM -->
+		<Row Tag="TXT_KEY_DOM_DMS_GUDIT">
+			<Text>Fierce and brave princess of the Beta Israel, ruler of the Semien Kingdom and conquer of Aksum, we welcome you, Gudit of Ethiopia. While your origin is clouded in mystery and speculation, you are credited by most as the main force behind the invasion of Aksum in the 10th century AD, laying waste to numerous churches and monuments, devastating the countryside and ultimately seizing the throne for yourself, ending a millennium-old dynasty in the process. Hero to some and villain to others, your alliance with the Agaw people was the beginning of the Zagwe Dynasty that was to last for 300 years.[NEWLINE][NEWLINE]Hear our call once more beautiful Queen of destruction, the oppressed seek a liberator. Will you raise your sword against Emperors and light the torch to burn his cities? Will you build a civilisation that stands the test of time?</Text>
+		</Row>
+		<!-- Agaw Archer -->
+		<Row Tag="TXT_KEY_UNIT_DMS_AGAW_BOUDA">
+			<Text>Agaw Archer</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_DMS_AGAW_BOUDA_TEXT">
+			<Text>The Agaw people are an ethnic group inhabiting Ethiopia and neighboring Eritrea. They speak Agaw languages, which belong to the Cushitic branch of the Afro-Asiatic family. The Agaw are perhaps first mentioned in the 3rd-century AD Monumentum Adulitanum, an Aksumite inscription recorded by Cosmas Indicopleustes in the 6th century. The inscription refers to a people called "Athagaus" (or Athagaous), perhaps from ʿAd Agaw, meaning "sons of Agaw". The Athagaous first turn up as one of the peoples conquered by the unknown king who inscribed the Monumentum Adulitanum. The Agaw are later mentioned in an inscription of the 4th-century Aksumite King Ezana and 6th-century King Kaleb. Based on this evidence, a number of experts embrace a theory first stated by Edward Ullendorff and Carlo Conti Rossini that they are the original inhabitants of much of the northern Ethiopian highlands, and were either forced out of their original settlements or assimilated by Semitic-speaking Tigray-Tigrinya and Amhara peoples. Cosmas Indicopleustes also noted in his Christian Topography that a major gold trade route passed through the region "Agau". The area referred to seems to be an area east of the Tekezé River and just south of the Semien Mountains, perhaps around Lake Tana.[NEWLINE][NEWLINE]During the 10th-century, the Agaw people formed an alliance with the Queen Gudit and conquered the Aksumite Kingdom. It is likely that this shift in power was what enabled the Agaw people to become the ruling class of the Zagwe dynasty of Ethiopia, which lasted from about 900 to 1270. The name of the dynasty itself comes from the Ge'ez phrase Ze-Agaw (meaning "of the Agaw"), and refers to the Agaw people.[NEWLINE][NEWLINE]Perhaps the most famous of the Agaw Emperors of the Zagwe dynasty was Gebre Mesqel Lalibela, who is credited with having constructed the rock-hewn churches of Lalibela.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_DMS_AGAW_BOUDA_STRATEGY">
+			<Text>The Agaw Archer is the Beta Israeli unique unit, replacing the Composite Bowman. The Agaw Archer is significantly less powerful than the Composite Bowman, but it has a longer range. Attacking enemy Units will automatically pillage the tile of the enemy Unit and heal the Agaw Archer for +15 HP in the process.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_DMS_AGAW_BOUDA_HELP">
+			<Text>Classical Era ranged Unit. Only the Beta Israeli may build it. This Unit has +1 range, but is significantly weaker compared to the Composite Bowman it replaces. Additionally it can pillage tiles at a distance by attacking enemy Units, which will also heal the Agaw.</Text>
+		</Row>
+		<!-- Haymanot Masgid -->
+		<Row Tag="TXT_KEY_BUILDING_DMS_MASGID">
+			<Text>Masgid</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_BUILDINGS_DMS_MASGID_TEXT">
+			<Text>The Beta Israel call their prayer house or synagogue Masgid (sometimes also "maqurab", "bet salot" or "bet Egziabher", literally meaning "place of worship".[NEWLINE][NEWLINE]The Beta Israel did not have rabbis but each village had a priest called a "kahen" (pl. "kahant").</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_DMS_MASGID_STRATEGY">
+			<Text>The Masgid is Beta Israeli unique building, replacing the Temple. In addition to the regular abilities of the Temple, the Masgid increases [ICON_STRENGTH] City Defense by +3 and provides [ICON_PRODUCTION] Production equal to half the total [ICON_PEACE] Faith output of the Capital.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_DMS_MASGID_HELP">
+			<Text>Unique Beta Israeli Temple replacement. +2 [ICON_PEACE] Faith and +3 [ICON_STRENGTH] City Defense. Provides [ICON_PRODUCTION] Production equal to half the total [ICON_PEACE] Faith output of the Capital.</Text>
+		</Row>
+		<!-- Trait -->
+		<Row Tag="TXT_KEY_TRAIT_DMS_FIELDS_OF_JUDITH_SHORT">
+			<Text>Fields of Judith</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_DMS_FIELDS_OF_JUDITH">
+			<Text>Pillaged Improvements provide [ICON_PEACE] Faith (in the Capital) per Unit you have nearby and pillaged Great Tile Improvements continously damage the Capital of the enemy. Capturing Cities provide [ICON_PEACE] Faith per [ICON_GREAT_WORKS] Great Work the City has.</Text>
+		</Row>
+		<!-- Promotions -->
+		<Row Tag="TXT_KEY_PROMOTION_DMS_QEST">
+			<Text>Qest</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_DMS_QEST_HELP">
+			<Text>Can pillage tiles at a distance and thus healing itself by attacking enemy Units stationed on tile with an Improvement.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_DMS_BEFORERANDOM">
+			<Text>Agaw Archer pillaging tile</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_DMS_BEFORERANDOM_HELP">
+			<Text>Can pillage tiles at a distance and thus healing itself by attacking enemy Units stationed on tile with an Improvement.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_DMS_AFTERRANDOM">
+			<Text>Agaw Archer pillaging tile</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_DMS_AFTERRANDOM_HELP">
+			<Text>Can pillage tiles at a distance and thus healing itself by attacking enemy Units stationed on tile with an Improvement.</Text>
+		</Row>
+		<!-- dummy buildings -->
+		<Row Tag="TXT_KEY_BUILDING_DMS_PILLAGE_IMPROVEMENT_FAITH">
+			<Text>DMS: Gudit pillage improvement faith dummy</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_DMS_PILLAGE_IMPROVEMENT_FAITH_HELP">
+			<Text>DMS: Gudit pillage improvement faith dummy help</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_DMS_MASGID_PRODUCTION_DUMMY">
+			<Text>DMS: Masgid Production dummy</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_DMS_MASGID_PRODUCTION_DUMMY_HELP">
+			<Text>DMS: Masgid Production dummy help</Text>
+		</Row>
+		<!-- MCIS -->
+		<Row Tag="TXT_KEY_MCIS_DMS_FIELD_OF_JUDITH_HELP">
+			<Text>[COLOR_POSITIVE_TEXT]+{1_iFaith} [ICON_PEACE] Faith[ENDCOLOR] in the Capital from having Units near pillaged enemy Improvements.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MCIS_DMS_MASGID_PRODUCTION_HELP">
+			<Text>[COLOR_POSITIVE_TEXT]+{1_iProduction} [ICON_PRODUCTION] Production[ENDCOLOR] in this City from generating a total of [COLOR_POSITIVE_TEXT]+{2_iFaithOutput} [ICON_PEACE] Faith[ENDCOLOR] in the Capital.</Text>
+		</Row>
+		<!-- Spy names -->
+		<Row Tag="TXT_KEY_SPY_NAME_DMS_SEMIEN_GUDIT_0">
+			<Text>Avraham Neguise</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_DMS_SEMIEN_GUDIT_1">
+			<Text>Taamrat Emmanuel</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_DMS_SEMIEN_GUDIT_2">
+			<Text>Jeremy Cool Habash</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_DMS_SEMIEN_GUDIT_3">
+			<Text>Uri Ben Baruch</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_DMS_SEMIEN_GUDIT_4">
+			<Text>Takla Haymanot</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_DMS_SEMIEN_GUDIT_5">
+			<Text>Tatadim</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_DMS_SEMIEN_GUDIT_6">
+			<Text>Jan Seyum</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_DMS_SEMIEN_GUDIT_7">
+			<Text>Germa Seyum</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_DMS_SEMIEN_GUDIT_8">
+			<Text>Na'akueto La'ab</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_DMS_SEMIEN_GUDIT_9">
+			<Text>Kedus Harbe</Text>
+		</Row>
+		<!-- City names -->
+		<Row Tag="TXT_KEY_CITY_NAME_DMS_SEMIEN_GUDIT_0">
+			<Text>Gondar</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_DMS_SEMIEN_GUDIT_1">
+			<Text>Wolleka</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_DMS_SEMIEN_GUDIT_2">
+			<Text>Balankab</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_DMS_SEMIEN_GUDIT_3">
+			<Text>Ambober</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_DMS_SEMIEN_GUDIT_4">
+			<Text>Kechene</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_DMS_SEMIEN_GUDIT_5">
+			<Text>Degoma</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_DMS_SEMIEN_GUDIT_6">
+			<Text>Azazo</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_DMS_SEMIEN_GUDIT_7">
+			<Text>Emfraz</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_DMS_SEMIEN_GUDIT_8">
+			<Text>Maksenit</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_DMS_SEMIEN_GUDIT_9">
+			<Text>Teda</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_DMS_SEMIEN_GUDIT_10">
+			<Text>Balnagab</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_DMS_SEMIEN_GUDIT_11">
+			<Text>Liben</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_DMS_SEMIEN_GUDIT_12">
+			<Text>Sokota</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_DMS_SEMIEN_GUDIT_13">
+			<Text>Hamusit</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_DMS_SEMIEN_GUDIT_14">
+			<Text>Aymiba</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_DMS_SEMIEN_GUDIT_15">
+			<Text>Chuahit</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_DMS_SEMIEN_GUDIT_16">
+			<Text>Gorgora</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_DMS_SEMIEN_GUDIT_17">
+			<Text>Koladiba</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_DMS_SEMIEN_GUDIT_18">
+			<Text>Arbaya</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_DMS_SEMIEN_GUDIT_19">
+			<Text>Dembola</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_DMS_SEMIEN_GUDIT_20">
+			<Text>Yesmala</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_DMS_SEMIEN_GUDIT_21">
+			<Text>Shawra</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_DMS_SEMIEN_GUDIT_22">
+			<Text>Dengel Ber</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_DMS_SEMIEN_GUDIT_23">
+			<Text>Esey Dibir</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_DMS_SEMIEN_GUDIT_24">
+			<Text>Mekane Berhan</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_DMS_SEMIEN_GUDIT_25">
+			<Text>Gomenge</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_DMS_SEMIEN_GUDIT_26">
+			<Text>Dabat</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_DMS_SEMIEN_GUDIT_27">
+			<Text>Wekin</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_DMS_SEMIEN_GUDIT_28">
+			<Text>Sankira</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_DMS_SEMIEN_GUDIT_29">
+			<Text>Abderafi</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_DMS_SEMIEN_GUDIT_30">
+			<Text>Kirakir</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_DMS_SEMIEN_GUDIT_31">
+			<Text>Kunzila</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_DMS_SEMIEN_GUDIT_32">
+			<Text>Injibara</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_DMS_SEMIEN_GUDIT_33">
+			<Text>Chagni</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_DMS_SEMIEN_GUDIT_34">
+			<Text>Aksum</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_DMS_SEMIEN_GUDIT_35">
+			<Text>Mek'ele</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_DMS_SEMIEN_GUDIT_36">
+			<Text>Debre Damo</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_DMS_SEMIEN_GUDIT_37">
+			<Text>Bahir Dar</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_DMS_SEMIEN_GUDIT_38">
+			<Text>Shire</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_DMS_SEMIEN_GUDIT_39">
+			<Text>Mojo</Text>
+		</Row>
+		<!-- EMPIRE OF ETHIOPIA (AMDA SEYON I) -->
+		<!-- Ethiopia -->
+		<Row Tag="TXT_KEY_CIVILIZATION_ETHIOPIA_SEYON_I_DESC">
+			<Text>Ethiopian Empire</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILIZATION_ETHIOPIA_SEYON_I_SHORT_DESC">
+			<Text>Ethiopia</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILIZATION_ETHIOPIA_SEYON_I_ADJECTIVE">
+			<Text>Ethiopian</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_ETHIOPIA_SEYON_I_HEADING_1">
+			<Text>History</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_ETHIOPIA_SEYON_I_TEXT_1">
+			<Text>...</Text>
+		</Row>
+		<!-- Amda Seyon I -->
+		<Row Tag="TXT_KEY_LEADER_DMS_SEYON_I">
+			<Text>Amda Seyon I</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_DMS_SEYON_I_HEADING_1">
+			<Text>Background</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_DMS_SEYON_I_TEXT_1">
+			<Text>Amda Seyon I (also Amde Tsiyon) was Emperor of Ethiopia from 1314 to 1344. He took the throne name Gebre Mesqel meaning "Slave of the Cross" and was a member of the - at the time - fairly new Solomonic Dynasty. He is considered as one of the most outstanding Ethiopian kings of any age and a singular figure dominating the Horn of Africa in the fourteenth century. His conquests of Muslim borderlands greatly expanded Ethiopian territory and power in the region, maintained for centuries after his death. These expansions further provided for the spread of Christianity to frontier areas, sparking a long era of proselytization, Christianization, and integration of previously peripheral areas.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_DMS_SEYON_I_HEADING_2">
+			<Text>Origin</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_DMS_SEYON_I_TEXT_2">
+			<Text>It is argued that there is sufficient evidence to show that Amda Seyon was the son of the preceding Emperor, Wedem Arad. However, when a deputation of monks accused him of incest for marrying his late father's concubine Jan Mogassa and threatened to excommunicate him, he claimed to be the biological son of the Emperor's brother Qidm Asagid; however this explanation may have had its origins in court gossip. Whatever the truth of Amda Seyon's parentage, the imperial history known as the Paris Chronicle records that he expressed his rage at his accusers by beating one of them and exiling the others.[NEWLINE][NEWLINE]It is not known how Amda Seyon became Emperor. However, there are a few pieces of information that indicate that he may have been involved in the succession struggle against Wedem Arad.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_DMS_SEYON_I_HEADING_3">
+			<Text>Army</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_DMS_SEYON_I_TEXT_3">
+			<Text>Emperor Amda Seyon's army was remarkably similar to the organization of the army during ancient Aksumite times. It consisted of two parts: the first, his central army, was very effective and closely attached to the Royal Court; the second was a much larger local militia raised in times of local crises. These local units would, as in Aksumite times, form a distinctive unit and fight together, maintaining their local character and were divided into smaller units each headed by a local ruler. Though these local units were largely out of the direct control of Amda Seyon, during his reign, the control of vassal contingents enjoyed by the Emperor increased greatly and would continue until the 16th century.[NEWLINE]The central army was divided into independent regiments, each with its own specialized name, such as Qeste-Nihb, Hareb Gonda, and Tekula. The independent regiments competed for the king's favor, who "raised" and "nourished" them from childhood. The regiments were led by an intimately loyal commander directly responsible to Amda Seyon. His own son, Saf-Asegid, commanded one of these divisions, as did Amda Seyon's brother-in-law. Moreover, the commander of Qeste-Nihb, Simishehal, along with his colleague Inze-Aygeb, were described as the "most beloved" officers of the Emperor. The specialized regiments tied their fortune to that of the Emperor and were most likely taken from the best soldiers from around the country. Amda Seyon used them whenever quick action had to be taken, and their regiment commanders would often serve the role of governor in times of crises in certain provinces, as did Digna, the right-wing commander of the cavalry regiment Korem in 1332 in Tigray. His central army further consisted of regional regiments similar to those of his local militias. They were drawn mainly from newly conquered provinces and shared a cultural and linguistic heritage. Most soldiers were probably prisoners taken in the conquests, though some were undoubtedly kept as servants to the royal court, while others were exported to slave markets or given to private citizens. Those who were to serve the Emperor were given military training, probably under a commander from the same region and loyal to the Emperor. Most of these groups were broken down into smaller sections due to their size; for instance, in Amda Seyon's 1332 (or 1329) campaigns, a division of Damot fought the Beta Israel in the north, while another went to fight in the campaigns in the south against the Sultanate of Ifat.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_DMS_SEYON_I_HEADING_4">
+			<Text>Early military actions</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_DMS_SEYON_I_TEXT_4">
+			<Text>In 1316/7 AD Amda Seyon successfully campaigned against the Muslim Damot and Hadiya Kingdoms. Though his early control of these regions was minimal, it is evident by ca. 1330 that Hadiya had been fully integrated, providing troops for his 1332 campaigns against the Sultanate of Ifat. The King of Hadiya, Amano, refused to visit the Emperor and give his tribute, encouraged by, according to Amda Seyon's chronicler, a Muslim "prophet of darkness" named Bel'am. The Emperor was infuriated, invading Hadiya and killing many people, and taking Amano prisoner along with many of his subjects. Bel'am, however was able to escape the Emperor by fleeing to Ifat.[NEWLINE][NEWLINE]These conquests represented a significant advancement of Amda Seyon's eventual goal of controlling the inland trade previously controlled by the Muslims in Ifat and farther east. Hadiya's conquest deeply affected the slave trade and consequently hurt the trade and wealth of the eastern Muslim provinces. For the first time, the Muslim presence in the region was threatened, which later resulted in alliances between the Muslim provinces (which often rebelled) when they had previously acted more independently of each other.[NEWLINE][NEWLINE]In the same year as his campaigns against the southern regions of Damot and Hadiya, the Emperor also campaigned against the more northerly province of Gojjam.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_DMS_SEYON_I_HEADING_5">
+			<Text>Northern campaigns</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_DMS_SEYON_I_TEXT_5">
+			<Text>After his early campaigns in the south, Amda Seyon had to turn north to strengthen his control over areas that had in the meanwhile gained more autonomy. The northern Tigrayan Enderta Province had increasingly been asserting its independence since the Solomonic restoration under Yekuno Amlak in 1270. During Yekuno Amlak's time, the governor of Enderta had the most power among the northern provinces and held the title Hasgwa and Aqabé Tsentsen ('keeper of the fly whisks – an ancient Aksumite title) and threatened the Amhara-based lineage currently in power. The governor also referred to Enderta as "his kingdom," and his sons and successors did not even mention the Emperor in their chronicles. Eventually Enderta rebelled. Amda Seyon responded swiftly, killing the governor, dividing the titles, and awarding them to different individuals of lowly origin.[NEWLINE][NEWLINE]In 1329, the Emperor campaigned in the northern provinces of Semien, Wegera, Tselemt, and Tsegede, in which many had been converting to Judaism and where the Beta Israel had been gaining prominence.[NEWLINE][NEWLINE]Amda Seyon was also wary of Muslim power along the Red Sea coast and therefore headed to the northern area of Tigray Province bordering the Red Sea. Here he known for having said: "I, King Amdä-ṣiyon, went to the sea of Eritrea [i.e. "Red"]. When I reached there, I mounted on an elephant and entered the sea. I took up my arrow and spears, killed my enemies, and saved my people."</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_DMS_SEYON_I_HEADING_6">
+			<Text>Rebellion of Haqq ad-Din I</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_DMS_SEYON_I_TEXT_6">
+			<Text>Around 1320, Sultan an-Nasir Muhammad of the Mamluk Sultanate based in Cairo began persecuting Copts and destroying their churches. Amda Seyon subsequently sent a mission to Cairo in 1321-2 threatening to retaliate against the Muslims in his kingdom and divert the course of the Nile if the sultan did not end his persecution. Though Al-Nasir Muhammad ignored the envoys, fear of the diversion of the Nile in Egypt would continue for centuries. As a result of the dispute and threats, Haqq ad-Din I, governor of Ifat, seized and imprisoned a member of the deputation sent by the Emperor on his way back from Cairo. Haqq ad-Din tried to convert him, killing him when this failed. The Emperor responded by invading Ifat accompanied by, according to Amda Seyon's royal chronicler, only seven horsemen, and killed many of the rebelling governor's soldiers. Part of the army then followed him and destroyed the province's capital, Ifat, and Amda Seyon took much of its wealth in the form of gold, silver, bronze, lead, and clothing. Amda Seyon continued his reprisals throughout all of his Muslim provinces, pillaging Kuelgore, Bequlzar, Gidaye, Kubet, Fedsé Qedsé, Hargaye (the latter five yet unidentified), and Shewa, then populated mainly by Muslims, taking livestock, killing many inhabitants, destroying towns, and taking prisoners, who were later assimilated.[NEWLINE]As a result of Amda Seyon's reprisals, other Muslim provinces rebelled, seeing that his army had become weak from the long campaigns. The people of Gebel (or Werjih, today called Worji), reportedly "very skilled in warfare," subsequently revolted and pillaged some Christian regions. The people of Medra Zega and Manzih (Menz), then Muslims, also revolted, surrounding and attacking the Emperor, who defeated them and killed their commander Dedadir, a son of Haqq ad-Din.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_DMS_SEYON_I_HEADING_7">
+			<Text>Later campaigns: Causes</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_DMS_SEYON_I_TEXT_7">
+			<Text>The most important primary source for his reign, The Glorious Victories, describes the extensive military campaigns Amda Seyon undertook in the plains drained by the Awash River. Beginning on 24 Yakatit (18 February), the Emperor led his army against a number of enemies; another document, referring to this year, states that he defeated 10 kings. Rebellion in the Muslim provinces stemmed from the threat to Islam by Amda Seyon, magnified by the earlier loss of trade from his campaigns. This defiance was encouraged and perhaps even instigated by religious leaders in Ifat and other Muslim provinces. The "false prophet" reported as having fled from Hadiya during the 1316/7 campaigns continued spreading propaganda against the king in Ifat.[NEWLINE]A second religious leader is noted as having fomented trouble in the region, specifically in Adal and Mora, where he is considered to have been the one who gathered the Muslim troops, kings, and rulers against the Emperor.[NEWLINE]As a result of these instigations and conditions the governor of Ifat as well as brother and successor to Haqq ad-Din, showed defiance to Amda Seyon by confiscating some of the Emperor's goods in transit from the coast, similar to what his brother had done before him. Amda Seyon was furious with Sabr ad-Din, saying to him, "You took away the commodities belonging to me obtained in exchange for the large quantity of gold and silver I had entrusted to the merchants... you imprisoned the traders who did business for me."</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_DMS_SEYON_I_HEADING_8">
+			<Text>Later campaigns: First Ifat rebellion</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_DMS_SEYON_I_TEXT_8">
+			<Text>Sabr ad-Din's rebellion was not an attempt to achieve independence, but to become emperor of a Muslim Ethiopia. Amda Seyon's royal chronicle states that Sabr ad-Din proclaimed: "I wish to be King of all Ethiopia; I will rule the Christians according to their law and I will destroy their churches...I will nominate governors in all the provinces of Ethiopia, as does the King of Zion...I will transform the churches into mosques. I will subjugate and convert the King of the Christians to my religion, I will make him a provincial governor, and if he refuses to be converted I will hand him over to one of the shepherds, called Warjeke [i.e. Werjih], that he may be made a keeper of camels. As for the Queen Jan Mangesha, his wife, I will employ her to grind corn. I will make my residence at Marade [i.e. Tegulet], the capital of his kingdom." In fact, after his first incursion, Sabr ad-Din appointed governors for nearby and neighboring provinces such as Fetegar and Alamalé (i.e. Aymellel, part of the "Guragé country"), as well as far-off provinces in the north like Damot, Amhara, Angot, Inderta, Begemder, and Gojjam. He also threatened to plant khat at the capital, a stimulant used by Muslims but forbidden to Ethiopian Orthodox Christians.[NEWLINE][NEWLINE]Sabr ad-Din's rebellion, with its religious support and ambitious goals, was therefore seen as a jihad rather than an attempt at independence, and it was consequently immediately joined by the nearby Muslim province of Dewaro (the first known mention of the province), under the governor Haydera, and the western province of Hadiya under the vassal local ruler Ameno. Sabr ad-Din divided his troops into three parts, sending a division north-westwards to attack Amhara, one northwards to attack Angot, and another, under his personal command, westward to take Shewa.[NEWLINE][NEWLINE]Amda Seyon subsequently mobilized his soldiers to meet the threat, endowing them with gifts of gold, silver, and lavish clothing – so much so that the chronicler explains that "in his reign gold and silver abounded like stones and fine clothes were as common as the leaves of the trees or the grass in the fields." Despite the extravagance he bestowed on his men, many chose not to fight due to the inhospitability of Ifat's mountainous and arid terrain and the complete absence of roads. Nevertheless, they advanced on 24 Yakatit, and an attachment was able to find the rebellious governor and put him to flight. Once the remainder of Amda Seyon's army arrived, they destroyed the capital and killed many soldiers, but Sabr ad-Din once again escaped. Amda Seyon's forces then grouped together for a final attack, destroying one of his camps, killing many men, women, and children, taking the rest prisoner, as well as looting it of its gold, silver, and its "fine clothes and jewels without number."[NEWLINE][NEWLINE]Sabr ad-Din subsequently sued for peace, appealing to Queen Jan Mengesha, who refused his peace offer and expressed Amda Seyon's determination not to return to his capital until he had searched Sabr ad-Din out. Upon hearing this, Sabr ad-Din realized that his rebellion futile and surrendered himself to Amda Seyon's camp. Amda Seyon's courtiers demanded that Sabr ad-Din be executed, but he instead granted him relative clemency and had the rebellious governor imprisoned. Amda Seyon then appointed the governor's brother, Jamal ad-Din I, as his successor in Ifat. Just as the Ifat rebellion had been quelled, however, the neighboring provinces of Adal and Mora just north of Ifat rose against the Emperor. Amda Seyon soon also put down this rebellion.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_DMS_SEYON_I_HEADING_9">
+			<Text>Later campaigns: Conquest of Adal and Second Ifat rebellion</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_DMS_SEYON_I_TEXT_9">
+			<Text>After much campaigning, Amda Seyon's troops were exhausted and wished to return to their homes, pleading that the rainy season was soon approaching. Amda Seyon refused, however, saying to them:"Do not repeat in front me what you have just said, for I will not leave so long as the ungodly Muslims make war on me, who am the King of all the Muslims of Ethiopia, and I have confidence in the help of God."[NEWLINE][NEWLINE]The new governor of Ifat also beseeched him to return, giving him many gifts, stating that his country was ruined and begging him not to "ravage it again," so that its inhabitants may recover and work the land for the Emperor. He promised him that if he left that Ifat and its inhabitants would serve the Emperor with their trade and tribute and that he and the Muslims of Ethiopia were the Emperor's servants. Amda Seyon rejected the governor's pleas, declaring: "While I am attacked by wolves and dogs, by the sons of vipers and children of evil who do not believe in the Son of God, I will never return to my kingdom, and if I leave without going as far as Adal I am no longer the son of my mother; let me no more be called a man, but a woman."[NEWLINE][NEWLINE]Amda Seyon continued and was attacked twice in skirmishes before making camp. The Muslims returned during the night in much greater numbers, and attacked him with an army raised from the seven "great towns" (i.e. districts) of Adal, Gebela, Lebekela, Mora, Paguma, and Tiqo. During the battle, Amda Seyon was struck from the rear by an enemy's sword, cutting his girdle around his waist and his battle dress, but the Emperor was able to turn and kill the attacker with his spear before he could strike again. Amda Seyon emerged victorious from the battle and sent fresh troops who had not fought to pursue the surviving enemies. They were able to reach the survivors on the banks of a nearby river by morning and kill them, taking many swords, bows, spears, and clothes.[NEWLINE][NEWLINE]Jamal ad-Din, despite being his appointee, also joined the rebellion, collaborating with the ruler of Adal to encircle the Emperor, to which the ruler of Adal responded by mobilizing his forces. The Ethiopian army was encircled by the two armies in the Battle of Das, but Amda Seyon was able to defeat them, despite being ill. He then led his army against Talag, the capital of Adal, where the brother of the governor of Adal and three of the governor's sons surrendered. The Emperor then defeated another governor-king, retraced his steps, returning to Bequlzar in Ifat, where he commanded Jamal ad-Din to deliver him all of the province's apostate Christians. The Emperor was first given the priests, deacons, and soldiers, who were each given 30 lashes and imprisoned as slaves. He then turned to the other traitors, whom Jamal ad-Din refused to hand over. Amda Seyon again ravaged Ifat and deposed Jamal ad-Din, appointing Nasir ad-Din, another brother of Sabr ad-Din, as governor.[NEWLINE][NEWLINE]Having finished campaigning in Ifat, he took his army to the town of Gu'ét, where he killed many men and captured numerous women and cattle. The Emperor then invaded the region of modern Somaliland, where he defeated an attack by the people of Harla. Amda Seyon then advanced to the town of Dilhoya. The town had previously deposed his governor along with other Christian men and women, to which the Emperor responded by taking and looting the town and their livestock, as well as killing many of its inhabitants. He continued to Degwi, killing numerous neighboring Werjih pastoralists, who had previously revolted and pillaged some Christian areas earlier in his reign. The chronicle described the people as "very wicked," as they "neither knew God nor feared men". Before the end of the month of December, Amda Seyon ravaged the land of Sharkha and imprisoned its governor Yosef.[NEWLINE]These efforts extended Ethiopian rule for the first time across the Awash River, gaining control of Dawaro, Bale, and other Muslim states.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_DMS_SEYON_I_HEADING_10">
+			<Text>Trade and culture</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_DMS_SEYON_I_TEXT_10">
+			<Text>Trade flourished under Amda Seyon. Archeological investigations in the treasuries of Ethiopian churches and monasteries have recovered coins, textiles and other objects that prove the existence of trade with the Byzantine Empire. Taddesse Tamrat also notes that he had a Syrian secretary from a Christian family of Damascus, who helped him keep in close touch with events in the Middle East.[NEWLINE][NEWLINE]Some of the earliest works of Ethiopian literature were written during Amda Seyon's reign. Perhaps the best known is the Kebra Nagast, which was translated from Arabic at the request of Yaebika Egzi'e, governor of Inderta. Other works from this period include the Mashafa Mestira Samay Wamedr ("The Book of the Mysteries of Heaven and Earth") written by Giyorgis of Segla, and the Zena Eskender ("History of Alexander the Great"), a romance wherein Alexander the Great becomes a Christian saint. Ullendorff has identified a tradition that at this time the Ge'ez translation of the Bible was revised. Also worth mentioning is that four of the Soldiers Songs were composed during the reign of Amda Seyon, and are the earliest existing examples of Amharic. Lastly, Amda Seyon is the first king recorded as having donated to the library of the Ethiopian community at Jerusalem.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_DMS_SEYON_I_NAME">
+			<Text>Amde Tsiyon</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_DMS_SEYON_I_SUBTITLE">
+			<Text>Gebre Mesqel</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_DMS_SEYON_I_TITLES_1">
+			<Text>Emperor of Ethiopia</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_DMS_SEYON_I_TITLES_2">
+			<Text>Slave of the Cross</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_DMS_SEYON_I_TITLES_3">
+			<Text>Pillar of Zion</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_DMS_SEYON_I_LIVED">
+			<Text>c. 1270 - 1344 AD</Text>
+		</Row>
+		<!-- DOM -->
+		<Row Tag="TXT_KEY_DOM_DMS_AMDA_SEYON_ETHIOPIA">
+			<Text>All behold Emperor Amda Seyon I of Ethiopia, Pillar of Zion. While trade flourished under your rule, especially with the Byzantine Empire, it is your legendary military accomplishments that undoubtly asserted the strength of the only forty three years old Solomonic dynasty. With your restructuring and expansion of the imperial army, Ethiopia could finally match and even surpass their Muslim adversaries, leading to the conquest of many nations. Especially so during 'The Glorious Victories', as they were called, which saw the defeat of no less than 10 kings in the span of three years. While several of these conquered regions continuously rebelled, you ruled with an iron fist and were ruthless in your dealings with dissidents and detractors.[NEWLINE][NEWLINE]Summoned once again, the Ethiopian people seek unyielding leadership that will bring them honour, diverting the Nile in the process if need be. Will you triump against all odds and conquer your rivals? Will you build a civilisation that stands the test of time?</Text>
+		</Row>
+		<!-- Korem -->
+		<Row Tag="TXT_KEY_UNIT_DMS_KOREM">
+			<Text>Korem</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_DMS_KOREM_TEXT">
+			<Text>Under the guidance of Emperor Amda Seyon I, the elite Ethiopian army was divided into several regiments, one being the Korem cavalry named after the region/town of the same name. These specialized regiments tied their fortune to that of the Emperor and were most likely taken from the best soldiers from around the country. Amda Seyon used them whenever quick action had to be taken, and their regiment commanders would often serve the role of governor in times of crises in certain provinces, as did Digna, the right-wing commander of the cavalry regiment Korem.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_DMS_KOREM_STRATEGY">
+			<Text>The Korem is one of the two units, unique to Amda Seyon I's Ethiopia. This unit has the same statistics as the Knight, which it replaces, but is available earlier at Metal Casting instead of at Chivalry. Further, upon killing an enemy Unit, the Korem recieves extra Experience dependent on the total number of Cities already captured from that enemy.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_DMS_KOREM_HELP">
+			<Text>Very fast Medieval Mounted Unit, weak to Pikemen. Only Amda Seyon I's Ethiopia may build it. It is available at Metal Casting instead of Chivalry unlike the Knight it replaces, and receive extra Experience upon killing enemy Units.</Text>
+		</Row>
+		<!-- Shotelai -->
+		<Row Tag="TXT_KEY_UNIT_DMS_SHOTELAI">
+			<Text>Shotelai</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_DMS_SHOTELAI_TEXT">
+			<Text>The shotel sword has been in use in the Ethiopian region since the ealiest dates of the Aksumite kingdom, used by both mounted and dismounted warriors. After the Solomonic dynastic restoration in 1270, the Ethiopian Emperors began to re-establish the Aksumite armies of old, and under Emperor Amda Seyon I in particular, this succeeded. The Ethiopian armies started - or resumed - using the shotel sword, and the Shotel Swordsmen were known as Shotelai, organised into the "Axurarat Shotelai" force.[NEWLINE][NEWLINE]Shotel techniques among others included hooking attacks both against mounted and dismounted opponents that had devastating effect especially against mounted cavalry. The shotel could be used to hook and rip the warrior off the horse. Classically the Shotel was employed in a dismounted state to hook the opponent by reaching around a shield or any other defensive implement or weapon.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_DMS_SHOTELAI_STRATEGY">
+			<Text>The Shotelai is one of the two units, unique to Amda Seyon I's Ethiopia. It is much more powerful against Mounted Units than the Swordsman, which it replaces. Enemy Units starting their turn adjacent to a Shotelai, may get their Movement reduced, depending on their Health.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_DMS_SHOTELAI_HELP">
+			<Text>Strong, front-line land Unit of the Classical Era. Only Amda Seyon I's Ethiopia may build it. This Unit has a very high [ICON_STRENGTH] Combat Strength against Mounted Units, unlike the Swordsman, which it replaces, and may reduce the Movement of adjacent enemy Unit.</Text>
+		</Row>
+		<!-- Trait -->
+		<Row Tag="TXT_KEY_TRAIT_DMS_PILLAR_OF_ZION_SHORT">
+			<Text>Pillar of Zion</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_DMS_PILLAR_OF_ZION">
+			<Text>If the Capital enters a 'We Love The King Day', then so does every other City in the Empire. During 'We Love The King Days' Courthouses are maintenance free and increase [ICON_PRODUCTION] Military Unit Production by 25%.</Text>
+		</Row>
+		<!-- dummy buildings -->
+		<Row Tag="TXT_KEY_BUILDING_DMS_AS_FREE_COURTHOUSE">
+			<Text>DMS: Amda Seyon dummy courthouse building</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_DMS_AS_FREE_COURTHOUSE_HELP">
+			<Text>DMS: Amda Seyon dummy courthouse building help</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_DMS_AS_WLTKD_DUMMY">
+			<Text>DMS: Amda Seyon dummy WLTKD building</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_DMS_AS_WLTKD_DUMMY_HELP">
+			<Text>DMS: Amda Seyon dummy WLTKD building help</Text>
+		</Row>
+		<!-- Promotions -->
+		<Row Tag="TXT_KEY_PROMOTION_DMS_KOREM">
+			<Text>Digna's Wrath</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_DMS_KOREM_HELP">
+			<Text>Receive extra Experience upon killing an enemy Unit dependent on the number of Cities already captured from that enemy.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_DMS_SHOTEL">
+			<Text>Jan Amora</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_DMS_SHOTEL_HELP">
+			<Text>Enemy Units starting their turn adjacent to this Unit, may get their Movement reduced, depending on their Health.</Text>
+		</Row>
+		<!-- MCIS -->
+		<Row Tag="TXT_KEY_MCIS_DMS_FREE_COURTHOUSE_HELP">
+			<Text>This City is celebrating a 'We Love The King Day'. Thus its Courthouse is maintenance free and increase [COLOR_POSITIVE_TEXT][ICON_PRODUCTION] Unit Production by 25%[ENDCOLOR].</Text>
+		</Row>
+		<!-- City names -->
+		<Row Tag="TXT_KEY_CITY_NAME_DMS_ETHIOPIA_SEYON_I_0">
+			<Text>Tegulet</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_DMS_ETHIOPIA_SEYON_I_1">
+			<Text>Shire</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_DMS_ETHIOPIA_SEYON_I_2">
+			<Text>Addis Ababa</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_DMS_ETHIOPIA_SEYON_I_3">
+			<Text>Qeste-Nihb</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_DMS_ETHIOPIA_SEYON_I_4">
+			<Text>Korem</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_DMS_ETHIOPIA_SEYON_I_5">
+			<Text>Hareb Gonda</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_DMS_ETHIOPIA_SEYON_I_6">
+			<Text>Tekula</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_DMS_ETHIOPIA_SEYON_I_7">
+			<Text>Asaita</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_DMS_ETHIOPIA_SEYON_I_8">
+			<Text>Adama</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_DMS_ETHIOPIA_SEYON_I_9">
+			<Text>Addis Zemen</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_DMS_ETHIOPIA_SEYON_I_10">
+			<Text>Bahir Dar</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_DMS_ETHIOPIA_SEYON_I_11">
+			<Text>Awasa</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_DMS_ETHIOPIA_SEYON_I_12">
+			<Text>Dejen</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_DMS_ETHIOPIA_SEYON_I_13">
+			<Text>Gondar</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_DMS_ETHIOPIA_SEYON_I_14">
+			<Text>Debre Werq</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_DMS_ETHIOPIA_SEYON_I_15">
+			<Text>Hosaena</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_DMS_ETHIOPIA_SEYON_I_16">
+			<Text>Gorgora</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_DMS_ETHIOPIA_SEYON_I_17">
+			<Text>Axum</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_DMS_ETHIOPIA_SEYON_I_18">
+			<Text>Mota</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_DMS_ETHIOPIA_SEYON_I_19">
+			<Text>Bonga</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_DMS_ETHIOPIA_SEYON_I_20">
+			<Text>Kebri Mangest</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_DMS_ETHIOPIA_SEYON_I_21">
+			<Text>Negash</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_DMS_ETHIOPIA_SEYON_I_22">
+			<Text>Dabat</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_DMS_ETHIOPIA_SEYON_I_23">
+			<Text>Kobo</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_DMS_ETHIOPIA_SEYON_I_24">
+			<Text>Delghi</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_DMS_ETHIOPIA_SEYON_I_25">
+			<Text>Bichena</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_DMS_ETHIOPIA_SEYON_I_26">
+			<Text>Chencha</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_DMS_ETHIOPIA_SEYON_I_27">
+			<Text>Dire Dawa</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_DMS_ETHIOPIA_SEYON_I_28">
+			<Text>Arboye</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_DMS_ETHIOPIA_SEYON_I_29">
+			<Text>Konso</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_DMS_ETHIOPIA_SEYON_I_30">
+			<Text>Asella</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_DMS_ETHIOPIA_SEYON_I_31">
+			<Text>Mojo</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_DMS_ETHIOPIA_SEYON_I_32">
+			<Text>Bati</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_DMS_ETHIOPIA_SEYON_I_33">
+			<Text>Yabelo</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_DMS_ETHIOPIA_SEYON_I_34">
+			<Text>Dangila</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_DMS_ETHIOPIA_SEYON_I_35">
+			<Text>Kombolcha</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_DMS_ETHIOPIA_SEYON_I_36">
+			<Text>Bale Robe</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_DMS_ETHIOPIA_SEYON_I_37">
+			<Text>Jimma</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_DMS_ETHIOPIA_SEYON_I_38">
+			<Text>Jijinga</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_DMS_ETHIOPIA_SEYON_I_39">
+			<Text>Gelemso</Text>
+		</Row>
+		<!-- EMPIRE OF ETHIOPIA (ZARA YAQOB) -->
+		<!-- Ethiopia -->
+		<Row Tag="TXT_KEY_CIVILIZATION_ETHIOPIA_YAQOB_DESC">
+			<Text>Ethiopian Empire</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILIZATION_ETHIOPIA_YAQOB_SHORT_DESC">
+			<Text>Ethiopia</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILIZATION_ETHIOPIA_YAQOB_ADJECTIVE">
+			<Text>Ethiopian</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_ETHIOPIA_YAQOB_HEADING_1">
+			<Text>History</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_ETHIOPIA_YAQOB_TEXT_1">
+			<Text>...</Text>
+		</Row>
+		<!-- Zara Yaqob -->
+		<Row Tag="TXT_KEY_LEADER_DMS_YAQOB">
+			<Text>Zara Yaqob</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_DMS_YAQOB_HEADING_1">
+			<Text>Background</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_DMS_YAQOB_TEXT_1">
+			<Text>Zara Yaqob was Emperor of Ethiopia from 1434 until 1468. A member of the Solomonic Dynasty, which traced its heritage back to the Biblical King Solomon, Zara Yaqob was an extremely devout, if occasionally draconian, ruler. Confined to the Amba Geshen prison for the early years of his life due to being a potential threat to his brother Tewodros's grip on the throne, Zara Yaqob only gained monarchal power in 1434 after his brother's death.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_DMS_YAQOB_NAME">
+			<Text>Zara Yaqob</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_DMS_YAQOB_SUBTITLE">
+			<Text>Kwestantinos I</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_DMS_YAQOB_TITLES_1">
+			<Text>Emperor of Ethiopia</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_DMS_YAQOB_LIVED">
+			<Text>1399 - 1468 AD</Text>
+		</Row>
+		<!-- DOM -->
+		<Row Tag="TXT_KEY_DOM_DMS_ZARA_YAQOB_ETHIOPIA">
+			<Text>It's the Lord's will that guides your hand, pious Zara Yaqob. Unquestionably you are the greatest ruler Ethiopia has seen since Ezana and Kaleb, during the heyday of Aksumite power, and your dedication to the Ethiopian church ensured both a much needed religious unity and made the empire a bastion for the faithful. In defeating the Muslim kingdom of Adal, whose power had grown to a threatening degree, you consolidated Ethiopia's hold over the Sidamo kingdoms in the south as well as the Muslim kingdoms beyond the Awash River. While not as successful in later military campaigns, you instead concentrated on religious writings, contributing greatly to Ethiopian literature and gaining you a reputation as an author of great renown.[NEWLINE][NEWLINE]Confined to the royal prison of Mount Gishan no more, your wise rule and great churches brought the Ethiopian people to glory, and they now look to you to do so again. Will you lead them towards glory, spreading the true faith once again? Will you build a civilisation that stands the test of time?</Text>
+		</Row>
+		<!-- Monolithic Church -->
+		<Row Tag="TXT_KEY_BUILD_DMS_MONOLITHIC_CHURCH_REC">
+			<Text>Monolithic Church</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DMS_MONOLITHIC_CHURCH">
+			<Text>Construct a [LINK=IMPROVEMENT_DMS_MONOLITHIC_CHURCH]Monolithic Church[\LINK]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILD_DMS_MONOLITHIC_CHURCH_HELP">
+			<Text>Can only be built on a Hill or on a source of Stone or Marble and may not be built adjacent to another Monolithic Church. Provides a slot for a [ICON_GREAT_WORK] Great Work of Writing in the nearest City. Yields +2 [ICON_PEACE] Faith and +1 [ICON_PRODUCTION] Production, and an additional +1 [ICON_PEACE] Faith and +1 [ICON_PRODUCTION] Production for every Great Work of Writing in the nearest City.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_IMPROVEMENT_DMS_MONOLITHIC_CHURCH">
+			<Text>Monolithic Church</Text>
+		</Row>
+		<Row Tag="TXT_KEY_IMPROVEMENT_DMS_MONOLITHIC_CHURCH_TEXT">
+			<Text>Monolithic Churches, often hewn from a single immense mass of stone, are a major feature of Ethiopian Christianity. The most well-known examples of these impressive buildings are the eleven Churches of Lalibela, the most famous of which is the Church of Saint George, particularly noteworthy for being carved in the shape of a cross. The Churches of Lalibela have been dated to the late 12th or early 13th century AD, with the Church of Saint George being the latest one to be constructed.[NEWLINE]This particular cluster of Monolithic Churches, attributed – as one might guess – to King Lalibela approx.. 1181 – 1221) of the late Zagwe Dynasty. They were supposedly constructed in an attempt to build a ‘New Jerusalem’, with the complex separated into two sections. The first of which represents Jerusalem as on earth, whilst the other is Jerusalem as in heaven. The complex is bisected by a manmade trench of dimensions 25 meters by 25 meters by 30 meters, in representation of the River Jordan.[NEWLINE][NEWLINE]Though the phenomenon of ‘Monolithic Churches’ is not exclusive to Ethiopia by any means – none come close to matching the majesty of the complex at Lalibela, and many could be better described as cave monasteries than true free-standing monolithic churches.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_IMPROVEMENT_DMS_MONOLITHIC_CHURCH_HELP">
+			<Text>Can only be built on a Hill or on a source of Stone or Marble and may not be built adjacent to another Monolithic Church. Provides a slot for a [ICON_GREAT_WORK] Great Work of Writing in the nearest City. Yields +2 [ICON_PEACE] Faith and +1 [ICON_PRODUCTION] Production, and an additional +1 [ICON_PEACE] Faith and +1 [ICON_PRODUCTION] Production for every Great Work of Writing in the nearest City.</Text>
+		</Row>
+		<!-- Monolithic Church Dummy Building -->
+		<Row Tag="TXT_KEY_BUILDING_DMS_MONOLITHIC_CHURCH_GREAT_WORK">
+			<Text>Monolithic Church: Great Work of Writing</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_DMS_MONOLITHIC_CHURCH_GREAT_WORK_HELP">
+			<Text>Monolithic Church: Great Work of Writing</Text>
+		</Row>
+		<!-- Debtera -->
+		<Row Tag="TXT_KEY_UNIT_DMS_DEBTERA">
+			<Text>Debtera</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_DMS_DEBTERA_TEXT">
+			<Text>A Debtera (occasionally referred to as dabtara) is a figure in the Ethiopian and Eritrean Orthodox Churches whose roles and responsibilities primarily centre on various religious performances – often taking the form of hymns or dances. It is not uncommon however for the debtera to be expected to carry out exorcisms or other forms of white magic. Unlike the other major positions within the Ethiopian clergy – The Priests and the Deacons – the debtera are usually not ordained, this does not prevent debtera from being ordained as deacons eventually, however.[NEWLINE]The more magical of the debtera’s responsibilities are often performed out of the sight of the church, and are not always encouraged – with certain actions directly contradicting the teachings of the Ethiopian Church. In this manner it is probably best to see the role of the debtera as inherently dualistic – in a sense – the role that they fill as largely musical accomplices to prayer is very different from their role as folk healer. It is not uncommon for a debtera to take up secular work as well, if the times demand it – education is particularly seen as a natural route for one to transition into.[NEWLINE][NEWLINE]It is interesting that despite their strong links to the Ethiopian Church and affiliation with white magic, that the debtera are in some cases regarded negatively by the population, who often either question their sanity or accuse them of studying the more malevolent aspect of magic and demons.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_DMS_DEBTERA_STRATEGY">
+			<Text>The Debtera is a Unique Great Person, replacing the Great Prophet, and only ontainable by Zara Yaqob's Ethiopia. Like the Great Prophet, it can found and enhance Religion and construct the Holy Site Improvement. Unlike the Great Prophet however, upon being expended the Debtera heals all nearby friendly Units for 25 HP and grants them the unique Promotion 'Seed of Jacob' for 25 turns, which allows them to yield [ICON_GREAT_WRITER] Great Writer Points when killing Enemy Units.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_DMS_DEBTERA_HELP">
+			<Text>The Unique Great Person replacing the Great Prophet for Zara Yaqob's Ethiopia. Besides the standard effects of the Great Prophet, the Debtera - upon being expended - heals all nearby friendly Units for 25 HP and grants them the unique Promotion 'Seed of Jacob' for 25 turns, which allows them to yield [ICON_GREAT_WRITER] Great Writer Points when killing Enemy Units.</Text>
+		</Row>
+		<!-- Trait -->
+		<Row Tag="TXT_KEY_TRAIT_DMS_SEED_OF_JACOB_SHORT">
+			<Text>Book of Light</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_DMS_SEED_OF_JACOB">
+			<Text>Expending a [ICON_GREAT_WRITER] Great Writer permanently increases the Religious Pressure in nearby Ethiopian Cities. [ICON_PEACE] Faith generated from terrain (including Improvements) provides extra [ICON_STRENGTH] Defense and HP in Cities.</Text>
+		</Row>
+		<!-- dummy buildings -->
+		<Row Tag="TXT_KEY_BUILDING_BUILDING_DMS_ZY_GREAT_WORKS_WRITING">
+			<Text>Monolithic Church Great Writing</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_BUILDING_DMS_ZY_GREAT_WORKS_WRITING_HELP">
+			<Text>Great Work of Writing slot received from having a nearby Monolithic Church.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_DMS_ZY_RELIGIOUS_PRESSURE">
+			<Text>DMS: ZY Religious Pressure dummy</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_DMS_ZY_RELIGIOUS_PRESSURE_HELP">
+			<Text>DMS: ZY Religious Pressure dummy help</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_DMS_ZY_DEFENSE">
+			<Text>DMS: ZY Defense from terrain Faith</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_DMS_ZY_DEFENSE_HELP">
+			<Text>DMS: ZY Defense from terrain Faith help</Text>
+		</Row>
+		<!-- Promotions -->
+		<Row Tag="TXT_KEY_PROMOTION_DMS_SEED_OF_JACOB_1">
+			<Text>Seed of Jacob</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_DMS_SEED_OF_JACOB_1_HELP">
+			<Text>Yields [ICON_GREAT_WRITER] Great Writer Points when killing Enemy Units or when being killed itself[NEWLINE][NEWLINE][COLOR_POSITIVE_TEXT]Turns remaining: 25[ENDCOLOR].</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_DMS_SEED_OF_JACOB_2">
+			<Text>Seed of Jacob</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_DMS_SEED_OF_JACOB_2_HELP">
+			<Text>Yields [ICON_GREAT_WRITER] Great Writer Points when killing Enemy Units or when being killed itself[NEWLINE][NEWLINE][COLOR_POSITIVE_TEXT]Turns remaining: 24[ENDCOLOR].</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_DMS_SEED_OF_JACOB_3">
+			<Text>Seed of Jacob</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_DMS_SEED_OF_JACOB_3_HELP">
+			<Text>Yields [ICON_GREAT_WRITER] Great Writer Points when killing Enemy Units or when being killed itself[NEWLINE][NEWLINE][COLOR_POSITIVE_TEXT]Turns remaining: 23[ENDCOLOR].</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_DMS_SEED_OF_JACOB_4">
+			<Text>Seed of Jacob</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_DMS_SEED_OF_JACOB_4_HELP">
+			<Text>Yields [ICON_GREAT_WRITER] Great Writer Points when killing Enemy Units or when being killed itself[NEWLINE][NEWLINE][COLOR_POSITIVE_TEXT]Turns remaining: 22[ENDCOLOR].</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_DMS_SEED_OF_JACOB_5">
+			<Text>Seed of Jacob</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_DMS_SEED_OF_JACOB_5_HELP">
+			<Text>Yields [ICON_GREAT_WRITER] Great Writer Points when killing Enemy Units or when being killed itself[NEWLINE][NEWLINE][COLOR_POSITIVE_TEXT]Turns remaining: 21[ENDCOLOR].</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_DMS_SEED_OF_JACOB_6">
+			<Text>Seed of Jacob</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_DMS_SEED_OF_JACOB_6_HELP">
+			<Text>Yields [ICON_GREAT_WRITER] Great Writer Points when killing Enemy Units or when being killed itself[NEWLINE][NEWLINE][COLOR_POSITIVE_TEXT]Turns remaining: 20[ENDCOLOR].</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_DMS_SEED_OF_JACOB_7">
+			<Text>Seed of Jacob</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_DMS_SEED_OF_JACOB_7_HELP">
+			<Text>Yields [ICON_GREAT_WRITER] Great Writer Points when killing Enemy Units or when being killed itself[NEWLINE][NEWLINE][COLOR_POSITIVE_TEXT]Turns remaining: 19[ENDCOLOR].</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_DMS_SEED_OF_JACOB_8">
+			<Text>Seed of Jacob</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_DMS_SEED_OF_JACOB_8_HELP">
+			<Text>Yields [ICON_GREAT_WRITER] Great Writer Points when killing Enemy Units or when being killed itself[NEWLINE][NEWLINE][COLOR_POSITIVE_TEXT]Turns remaining: 18[ENDCOLOR].</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_DMS_SEED_OF_JACOB_9">
+			<Text>Seed of Jacob</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_DMS_SEED_OF_JACOB_9_HELP">
+			<Text>Yields [ICON_GREAT_WRITER] Great Writer Points when killing Enemy Units or when being killed itself[NEWLINE][NEWLINE][COLOR_POSITIVE_TEXT]Turns remaining: 17[ENDCOLOR].</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_DMS_SEED_OF_JACOB_10">
+			<Text>Seed of Jacob</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_DMS_SEED_OF_JACOB_10_HELP">
+			<Text>Yields [ICON_GREAT_WRITER] Great Writer Points when killing Enemy Units or when being killed itself[NEWLINE][NEWLINE][COLOR_POSITIVE_TEXT]Turns remaining: 16[ENDCOLOR].</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_DMS_SEED_OF_JACOB_11">
+			<Text>Seed of Jacob</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_DMS_SEED_OF_JACOB_11_HELP">
+			<Text>Yields [ICON_GREAT_WRITER] Great Writer Points when killing Enemy Units or when being killed itself[NEWLINE][NEWLINE][COLOR_POSITIVE_TEXT]Turns remaining: 15[ENDCOLOR].</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_DMS_SEED_OF_JACOB_12">
+			<Text>Seed of Jacob</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_DMS_SEED_OF_JACOB_12_HELP">
+			<Text>Yields [ICON_GREAT_WRITER] Great Writer Points when killing Enemy Units or when being killed itself[NEWLINE][NEWLINE][COLOR_POSITIVE_TEXT]Turns remaining: 14[ENDCOLOR].</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_DMS_SEED_OF_JACOB_13">
+			<Text>Seed of Jacob</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_DMS_SEED_OF_JACOB_13_HELP">
+			<Text>Yields [ICON_GREAT_WRITER] Great Writer Points when killing Enemy Units or when being killed itself[NEWLINE][NEWLINE][COLOR_POSITIVE_TEXT]Turns remaining: 13[ENDCOLOR].</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_DMS_SEED_OF_JACOB_14">
+			<Text>Seed of Jacob</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_DMS_SEED_OF_JACOB_14_HELP">
+			<Text>Yields [ICON_GREAT_WRITER] Great Writer Points when killing Enemy Units or when being killed itself[NEWLINE][NEWLINE][COLOR_POSITIVE_TEXT]Turns remaining: 12[ENDCOLOR].</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_DMS_SEED_OF_JACOB_15">
+			<Text>Seed of Jacob</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_DMS_SEED_OF_JACOB_15_HELP">
+			<Text>Yields [ICON_GREAT_WRITER] Great Writer Points when killing Enemy Units or when being killed itself[NEWLINE][NEWLINE][COLOR_POSITIVE_TEXT]Turns remaining: 11[ENDCOLOR].</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_DMS_SEED_OF_JACOB_16">
+			<Text>Seed of Jacob</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_DMS_SEED_OF_JACOB_16_HELP">
+			<Text>Yields [ICON_GREAT_WRITER] Great Writer Points when killing Enemy Units or when being killed itself[NEWLINE][NEWLINE][COLOR_POSITIVE_TEXT]Turns remaining: 10[ENDCOLOR].</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_DMS_SEED_OF_JACOB_17">
+			<Text>Seed of Jacob</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_DMS_SEED_OF_JACOB_17_HELP">
+			<Text>Yields [ICON_GREAT_WRITER] Great Writer Points when killing Enemy Units or when being killed itself[NEWLINE][NEWLINE][COLOR_POSITIVE_TEXT]Turns remaining: 9[ENDCOLOR].</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_DMS_SEED_OF_JACOB_18">
+			<Text>Seed of Jacob</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_DMS_SEED_OF_JACOB_18_HELP">
+			<Text>Yields [ICON_GREAT_WRITER] Great Writer Points when killing Enemy Units or when being killed itself[NEWLINE][NEWLINE][COLOR_POSITIVE_TEXT]Turns remaining: 8[ENDCOLOR].</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_DMS_SEED_OF_JACOB_19">
+			<Text>Seed of Jacob</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_DMS_SEED_OF_JACOB_19_HELP">
+			<Text>Yields [ICON_GREAT_WRITER] Great Writer Points when killing Enemy Units or when being killed itself[NEWLINE][NEWLINE][COLOR_POSITIVE_TEXT]Turns remaining: 7[ENDCOLOR].</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_DMS_SEED_OF_JACOB_20">
+			<Text>Seed of Jacob</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_DMS_SEED_OF_JACOB_20_HELP">
+			<Text>Yields [ICON_GREAT_WRITER] Great Writer Points when killing Enemy Units or when being killed itself[NEWLINE][NEWLINE][COLOR_POSITIVE_TEXT]Turns remaining: 6[ENDCOLOR].</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_DMS_SEED_OF_JACOB_21">
+			<Text>Seed of Jacob</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_DMS_SEED_OF_JACOB_21_HELP">
+			<Text>Yields [ICON_GREAT_WRITER] Great Writer Points when killing Enemy Units or when being killed itself[NEWLINE][NEWLINE][COLOR_POSITIVE_TEXT]Turns remaining: 5[ENDCOLOR].</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_DMS_SEED_OF_JACOB_22">
+			<Text>Seed of Jacob</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_DMS_SEED_OF_JACOB_22_HELP">
+			<Text>Yields [ICON_GREAT_WRITER] Great Writer Points when killing Enemy Units or when being killed itself[NEWLINE][NEWLINE][COLOR_POSITIVE_TEXT]Turns remaining: 4[ENDCOLOR].</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_DMS_SEED_OF_JACOB_23">
+			<Text>Seed of Jacob</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_DMS_SEED_OF_JACOB_23_HELP">
+			<Text>Yields [ICON_GREAT_WRITER] Great Writer Points when killing Enemy Units or when being killed itself[NEWLINE][NEWLINE][COLOR_POSITIVE_TEXT]Turns remaining: 3[ENDCOLOR].</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_DMS_SEED_OF_JACOB_24">
+			<Text>Seed of Jacob</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_DMS_SEED_OF_JACOB_24_HELP">
+			<Text>Yields [ICON_GREAT_WRITER] Great Writer Points when killing Enemy Units or when being killed itself[NEWLINE][NEWLINE][COLOR_POSITIVE_TEXT]Turns remaining: 2[ENDCOLOR].</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_DMS_SEED_OF_JACOB_25">
+			<Text>Seed of Jacob</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_DMS_SEED_OF_JACOB_25_HELP">
+			<Text>Yields [ICON_GREAT_WRITER] Great Writer Points when killing Enemy Units or when being killed itself[NEWLINE][NEWLINE][COLOR_POSITIVE_TEXT]Turns remaining: 1[ENDCOLOR].</Text>
+		</Row>
+		<!-- MCIS -->
+		<Row Tag="TXT_KEY_MCIS_DMS_RELIGIOUS_PRESSURE_HELP">
+			<Text>[NEWLINE][COLOR_POSITIVE_TEXT]+{1_iReligiousPressure}[ENDCOLOR] Religious Pressure in this City from having expended [COLOR_POSITIVE_TEXT]{2_iNumGW}[ENDCOLOR] Great Writer(s) nearby.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MCIS_DMS_FAITH_DEFENSE_HP_HELP">
+			<Text>[NEWLINE]Receive City Defense and HP by generating [ICON_PEACE] Faith from terrain and Improvements.[NEWLINE][NEWLINE]This City is currently generating [COLOR_POSITIVE_TEXT]+{1_iFaith}[ENDCOLOR] [ICON_PEACE] Faith from terrain and Improvements[NEWLINE][NEWLINE][ICON_BULLET][COLOR_POSITIVE_TEXT]+{2_iDefense}[ENDCOLOR] [ICON_STRENGTH] City Strength.[NEWLINE][ICON_BULLET][COLOR_POSITIVE_TEXT]+{3_iHP}[ENDCOLOR] City Hit Points.</Text>
+		</Row>
+		<!-- City names -->
+		<Row Tag="TXT_KEY_CITY_NAME_DMS_ETHIOPIA_YAQOB_0">
+			<Text>Debre Berhan</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_DMS_ETHIOPIA_YAQOB_1">
+			<Text>Roha</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_DMS_ETHIOPIA_YAQOB_2">
+			<Text>Addis Ababa</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_DMS_ETHIOPIA_YAQOB_3">
+			<Text>Gondar</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_DMS_ETHIOPIA_YAQOB_4">
+			<Text>Mek'ele</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_DMS_ETHIOPIA_YAQOB_5">
+			<Text>Harar</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_DMS_ETHIOPIA_YAQOB_6">
+			<Text>Adama</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_DMS_ETHIOPIA_YAQOB_7">
+			<Text>Asaita</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_DMS_ETHIOPIA_YAQOB_8">
+			<Text>Delghi</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_DMS_ETHIOPIA_YAQOB_9">
+			<Text>Addis Zemen</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_DMS_ETHIOPIA_YAQOB_10">
+			<Text>Bahir Dar</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_DMS_ETHIOPIA_YAQOB_11">
+			<Text>Awasa</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_DMS_ETHIOPIA_YAQOB_12">
+			<Text>Debre Werq</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_DMS_ETHIOPIA_YAQOB_13">
+			<Text>Hosaena</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_DMS_ETHIOPIA_YAQOB_14">
+			<Text>Dejen</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_DMS_ETHIOPIA_YAQOB_15">
+			<Text>Arboye</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_DMS_ETHIOPIA_YAQOB_16">
+			<Text>Dire Dawa</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_DMS_ETHIOPIA_YAQOB_17">
+			<Text>Bichena</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_DMS_ETHIOPIA_YAQOB_18">
+			<Text>Jimma</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_DMS_ETHIOPIA_YAQOB_19">
+			<Text>Asella</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_DMS_ETHIOPIA_YAQOB_20">
+			<Text>Bati</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_DMS_ETHIOPIA_YAQOB_21">
+			<Text>Dabat</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_DMS_ETHIOPIA_YAQOB_22">
+			<Text>Mojo</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_DMS_ETHIOPIA_YAQOB_23">
+			<Text>Shire</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_DMS_ETHIOPIA_YAQOB_24">
+			<Text>Negash</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_DMS_ETHIOPIA_YAQOB_25">
+			<Text>Kobo</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_DMS_ETHIOPIA_YAQOB_26">
+			<Text>Dangila</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_DMS_ETHIOPIA_YAQOB_27">
+			<Text>Gorgora</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_DMS_ETHIOPIA_YAQOB_28">
+			<Text>Chencha</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_DMS_ETHIOPIA_YAQOB_29">
+			<Text>Gelemso</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_DMS_ETHIOPIA_YAQOB_30">
+			<Text>Kombolcha</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_DMS_ETHIOPIA_YAQOB_31">
+			<Text>Sokoru</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_DMS_ETHIOPIA_YAQOB_32">
+			<Text>Irgalem</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_DMS_ETHIOPIA_YAQOB_33">
+			<Text>Kebri Mangest</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_DMS_ETHIOPIA_YAQOB_34">
+			<Text>Debre Marqos</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_DMS_ETHIOPIA_YAQOB_35">
+			<Text>Axum</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_DMS_ETHIOPIA_YAQOB_36">
+			<Text>Jijinga</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_DMS_ETHIOPIA_YAQOB_37">
+			<Text>Finote Selam</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_DMS_ETHIOPIA_YAQOB_38">
+			<Text>Mota</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_DMS_ETHIOPIA_YAQOB_39">
+			<Text>Konso</Text>
+		</Row>
+		<!-- EMPIRE OF ETHIOPIA (MENELIK II) -->
+		<!-- Ethiopia -->
+		<Row Tag="TXT_KEY_CIVILIZATION_ETHIOPIA_MENELIK_II_DESC">
+			<Text>Ethiopian Empire</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILIZATION_ETHIOPIA_MENELIK_II_SHORT_DESC">
+			<Text>Ethiopia</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILIZATION_ETHIOPIA_MENELIK_II_ADJECTIVE">
+			<Text>Ethiopian</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_ETHIOPIA_MENELIK_II_HEADING_1">
+			<Text>History</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_ETHIOPIA_MENELIK_II_TEXT_1">
+			<Text>...</Text>
+		</Row>
+		<!-- DOM -->
+		<Row Tag="TXT_KEY_DOM_DMS_MENELIK_ETHIOPIA">
+			<Text>Hail Emiye Menelik, Emperor of Ethiopia and defender of its independence. It was your reign that saw the borders of the Ethiopian Empire restored to their historical glory, whilst still begining the arduous process of modernisation that would ensure that your people maintained security throughout the ravages of foreign colonialism. Indeed you are perhaps best remembered for the stalwart defence your people mounted against the attempted Italian conquest of your lands - your success ensuring not only international prestige, but the recognition of the Ethiopian right to sovereignty and self-determination. This is to say nothing of your tolerant reforms, and great candour shown to the poor and destitute of your land.[NEWLINE][NEWLINE]All is not as it once was however, your people now wander aimless and divided - in need of an Emperor who can protect and safegaurd their interests through these turbulent times. Will you once more be the bastion of the faithful? Will you build a civilisation to stand the test of time?</Text>
+		</Row>
+		<!-- Menelik II -->
+		<Row Tag="TXT_KEY_LEADER_DMS_MENELIK_II">
+			<Text>Menelik II</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_DMS_MENELIK_II_HEADING_1">
+			<Text>Background</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_DMS_MENELIK_II_TEXT_1">
+			<Text>...</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_DMS_MENELIK_II_NAME">
+			<Text>Sahle Maryam</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_DMS_MENELIK_II_SUBTITLE">
+			<Text>King of Kings</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_DMS_MENELIK_II_TITLES_1">
+			<Text>Emperor of Ethiopia</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_DMS_MENELIK_II_TITLES_2">
+			<Text>Emiye</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_DMS_MENELIK_II_LIVED">
+			<Text>1844 - 1913 AD</Text>
+		</Row>
+		<!-- Sebastopol -->
+		<Row Tag="TXT_KEY_UNIT_DMS_SEBASTOPOL">
+			<Text>Sebastopol</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_DMS_SEBASTOPOL_TEXT">
+			<Text>The Sebastopol was a large mortar commissioned by Tewodros II (1818 – 1868), the Emperor of Ethiopia as part of his efforts to industrialise his realm. Ironically these very same efforts would lead to one of the only military engagements that the Sebastopol was intended to take part in. The Battle of Magdala (April 1868) was caused, in a large part, by Tewodros’ decision to imprison a number of British and German missionaries with the intention of ransoming them back for weaponry and other equipment.[NEWLINE]The result of this battle was a decisive British victory, with the main Abyssinian resistance ceasing once Tewodros was found to have committed suicide (using, curiously, a pistol which had been a gift from Queen Victoria) – resulting in the destruction of the Fortress of Magdala and widespread looting (some of this loot would later be returned to Haile Selassie by George V). There is little concrete evidence suggesting that the Sebastopol Mortar itself was used in this battle, despite the fact that the cannon itself was found, and still remains half-buried at Amba Mariam. A replica of the original Sebastopol was cast to serve as a monument, being placed in Tewodros Square, Addis Ababa.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_DMS_SEBASTOPOL_STRATEGY">
+			<Text>The Sebastopol is one of the two Units, unique to Menelik II's Ethiopia. It is more expensive than the Artillery, which it replaces, and much stronger against Cities. For the first 5 turns after having entered foreign territory, it receives the effect of the Great General as well as granting nearby friendly Units an additional [ICON_MOVES] Move Point. Vulnerable to Melee attacks and must set up prior to firing.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_DMS_SEBASTOPOL_HELP">
+			<Text>Powerful Artillery Unit of the Industrial Era. Only Menelik II's Ethiopia may build it. This Unit acts as a Great General and grants extra [ICON_MOVES] Move Points to nearby Units for 5 turns after entering foreign territory. Extra [ICON_STRENGTH] Combat Strength against Cities. Must set up prior to firing.</Text>
+		</Row>
+		<!-- Promotions -->
+		<Row Tag="TXT_KEY_PROMOTION_TEWODROS_LEGACY">
+			<Text>Tewodros' Legacy</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_TEWODROS_LEGACY_HELP">
+			<Text>+50% [ICON_STRENGTH] Combat Strenth against Cities[NEWLINE][NEWLINE]This effect stacks with the regular Combat Strength against Cities of the Artillery[NEWLINE][NEWLINE]For the first 5 turns after having entered foreign territory, recieve the effect of the Great General as well as granting nearby friendly Units an additional [ICON_MOVES] Move Point.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_DMS_GREAT_MOTAR_1_GG">
+			<Text>Great Mortar</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_DMS_GREAT_MOTAR_1_GG_HELP">
+			<Text>For the first 5 turns after having entered foreign territory, recieve the effect of the Great General as well as granting nearby friendly Units an additional [ICON_MOVES] Move Point.[NEWLINE][NEWLINE][COLOR_POSITIVE_TEXT]Turns remaining: 5[ENDCOLOR].</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_DMS_GREAT_MOTAR_2_GG">
+			<Text>Great Mortar</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_DMS_GREAT_MOTAR_2_GG_HELP">
+			<Text>For the first 5 turns after having entered foreign territory, recieve the effect of the Great General as well as granting nearby friendly Units an additional [ICON_MOVES] Move Point.[NEWLINE][NEWLINE][COLOR_POSITIVE_TEXT]Turns remaining: 4[ENDCOLOR].</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_DMS_GREAT_MOTAR_3_GG">
+			<Text>Great Mortar</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_DMS_GREAT_MOTAR_3_GG_HELP">
+			<Text>For the first 5 turns after having entered foreign territory, recieve the effect of the Great General as well as granting nearby friendly Units an additional [ICON_MOVES] Move Point.[NEWLINE][NEWLINE][COLOR_POSITIVE_TEXT]Turns remaining: 3[ENDCOLOR].</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_DMS_GREAT_MOTAR_4_GG">
+			<Text>Great Mortar</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_DMS_GREAT_MOTAR_4_GG_HELP">
+			<Text>For the first 5 turns after having entered foreign territory, recieve the effect of the Great General as well as granting nearby friendly Units an additional [ICON_MOVES] Move Point.[NEWLINE][NEWLINE][COLOR_POSITIVE_TEXT]Turns remaining: 2[ENDCOLOR].</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_DMS_GREAT_MOTAR_5_GG">
+			<Text>Great Mortar</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_DMS_GREAT_MOTAR_5_GG_HELP">
+			<Text>For the first 10 turns after having entered foreign territory, recieve the effect of the Great General as well as granting nearby friendly Units an additional [ICON_MOVES] Move Point.[NEWLINE][NEWLINE][COLOR_POSITIVE_TEXT]Turns remaining: 1[ENDCOLOR].</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_DMS_GREAT_MOTAR_DEPLETED">
+			<Text>Great Mortar</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_DMS_GREAT_MOTAR_DEPLETED_HELP">
+			<Text>For the first 10 turns after having entered foreign territory, recieve the effect of the Great General as well as granting nearby friendly Units an additional [ICON_MOVES] Move Point.[NEWLINE][NEWLINE][COLOR_NEGATIVE_TEXT]Effect no longer active[ENDCOLOR].</Text>
+		</Row>
+		<!-- Trait -->
+		<!-- City names -->
+		<Row Tag="TXT_KEY_CITY_NAME_DMS_ETHIOPIA_MENELIK_II_0">
+			<Text>Addis Alem</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_DMS_ETHIOPIA_MENELIK_II_1">
+			<Text>Addis Ababa</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_DMS_ETHIOPIA_MENELIK_II_2">
+			<Text>Adwa</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_DMS_ETHIOPIA_MENELIK_II_3">
+			<Text>Harar</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_DMS_ETHIOPIA_MENELIK_II_4">
+			<Text>Gondar</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_DMS_ETHIOPIA_MENELIK_II_5">
+			<Text>Dessie</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_DMS_ETHIOPIA_MENELIK_II_6">
+			<Text>Adama</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_DMS_ETHIOPIA_MENELIK_II_7">
+			<Text>Debre Berhan</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_DMS_ETHIOPIA_MENELIK_II_8">
+			<Text>Makdala</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_DMS_ETHIOPIA_MENELIK_II_9">
+			<Text>Lalibela</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_DMS_ETHIOPIA_MENELIK_II_10">
+			<Text>Mek'ele</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_DMS_ETHIOPIA_MENELIK_II_11">
+			<Text>Adrigrat</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_DMS_ETHIOPIA_MENELIK_II_12">
+			<Text>Ankober</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_DMS_ETHIOPIA_MENELIK_II_13">
+			<Text>Awasa</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_DMS_ETHIOPIA_MENELIK_II_14">
+			<Text>Buno Bedele</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_DMS_ETHIOPIA_MENELIK_II_15">
+			<Text>Debarq</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_DMS_ETHIOPIA_MENELIK_II_16">
+			<Text>Debre Tabor</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_DMS_ETHIOPIA_MENELIK_II_17">
+			<Text>Alamata</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_DMS_ETHIOPIA_MENELIK_II_18">
+			<Text>Asella</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_DMS_ETHIOPIA_MENELIK_II_19">
+			<Text>Jijinga</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_DMS_ETHIOPIA_MENELIK_II_20">
+			<Text>Jimma</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_DMS_ETHIOPIA_MENELIK_II_21">
+			<Text>Bahir Dar</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_DMS_ETHIOPIA_MENELIK_II_22">
+			<Text>Metemma</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_DMS_ETHIOPIA_MENELIK_II_23">
+			<Text>Asaita</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_DMS_ETHIOPIA_MENELIK_II_24">
+			<Text>Hosaena</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_DMS_ETHIOPIA_MENELIK_II_25">
+			<Text>Dire Dawa</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_DMS_ETHIOPIA_MENELIK_II_26">
+			<Text>Arboye</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_DMS_ETHIOPIA_MENELIK_II_27">
+			<Text>Welwel</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_DMS_ETHIOPIA_MENELIK_II_28">
+			<Text>Weldiya</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_DMS_ETHIOPIA_MENELIK_II_29">
+			<Text>Addis Zemen</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_DMS_ETHIOPIA_MENELIK_II_30">
+			<Text>Nekemte</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_DMS_ETHIOPIA_MENELIK_II_31">
+			<Text>Shilavo</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_DMS_ETHIOPIA_MENELIK_II_32">
+			<Text>Maji</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_DMS_ETHIOPIA_MENELIK_II_33">
+			<Text>Dabat</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_DMS_ETHIOPIA_MENELIK_II_34">
+			<Text>Axum</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_DMS_ETHIOPIA_MENELIK_II_35">
+			<Text>Shire</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_DMS_ETHIOPIA_MENELIK_II_36">
+			<Text>Awash</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_DMS_ETHIOPIA_MENELIK_II_37">
+			<Text>Kombolcha</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_DMS_ETHIOPIA_MENELIK_II_38">
+			<Text>Bonga</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_DMS_ETHIOPIA_MENELIK_II_39">
+			<Text>Gambela</Text>
+		</Row>
+		<!-- EMPIRE OF ETHIOPIA (HALIE SELASSIE) -->
+		<!-- Ethiopia -->
+		<!-- Haile Selassie -->
+		<!-- Kagnew -->
+		<Row Tag="TXT_KEY_UNIT_DMS_KAGNEW">
+			<Text>Kagnew Battalion</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_DMS_KAGNEW_TEXT">
+			<Text>The Ethiopian Kagnew Battalions were three successive battalions drawn from the 1st Division Imperial Bodyguard sent by Emperor Haile Selassie I between June 1951 and April 1954 as part of the United Nations forces in the Korean War. Each Kagnew Battalion was drawn completely from the officers and men of the 1st Division Imperial Body Guard or the Kebur Zabagna, sometimes also referred to as Ethiopia's "Royal" Guards. The troops selected for Korea were given intensive training in the mountains of Ethiopia for aclimatisation.[NEWLINE][NEWLINE]"Kagnew" was the name of the warhorse of Ras Makonnen, Menelik II's General and the father of Haile Selassie during the First Italo-Ethiopian War.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_DMS_KAGNEW_STRATEGY">
+			<Text>The Kagnew Battalion is one of the two Units, unique to Haile Selassie's Ethiopia. It has the same effects as the Infantry, which it replaces and in addition it starts with the Drill I Promotion and receives extra [ICON_STRENGTH] Combat Strength in enemy territory for each other Major Civilization also at War with the enemy in question. During peacetime, the Kagnew Battalion yields [ICON_CULTURE] Culture equal to its level.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_DMS_KAGNEW_HELP">
+			<Text>Powerful Infantry Unit of the Modern Era. Only Haile Selassie's Ethiopia may build it. This Unit receives extra [ICON_STRENGTH] Combat Strength in enemy territory for each Civilization also at War with the enemy. Yields [ICON_CULTURE] Culture equal to its level during peacetime.</Text>
+		</Row>
+		<!-- Makonnen -->
+		<Row Tag="TXT_KEY_UNIT_DMS_MAKONNEN">
+			<Text>Makonnen</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_DMS_MAKONNEN_TEXT">
+			<Text>Ethiopia began the formation of a small air arm in 1929, with the delivery of a Potez 25 A2 to the capital Addis Ababa on 18 August 1929. A Junkers W 33c followed on 5 September. This small nucleus was built upon in the next few years to a force numbering 13 aircraft. A few transport aircraft were also acquired during 1934-35 for ambulance work. The Air Force was commanded by a French pilot, Andre Maillet, who delivered the first Potez. He was succeeded by another Frenchman, Paul Corriger, who remained until the Italian conquest of Ethiopia in 1935, when the Imperial Ethiopian Air Force ceased to exist.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_DMS_MAKONNEN_STRATEGY">
+			<Text>The Makonnen is one of the two Units, unique to Haile Selassie's Ethiopia. It is weaker than the Triplane it replaces, but heals itself much faster. If another Major Civilization with which you share a Declaration of Friendship researches Flight, you receive a free Makonnen in the Capital - even if you haven't researched the Technology yourself.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_DMS_MAKONNEN_HELP">
+			<Text>Fast healing, but weak early Air Unit designed to intercept incoming enemy aircraft. Only Haile Selassie's Ethiopia may build it. Obtainable before researching Flight, as a free Makonnen appears in the Capital whenever a Major Civilization with which you share a Declaration of Friendship researches the Technology.</Text>
+		</Row>
+		<!-- Trait -->
+		<Row Tag="TXT_KEY_TRAIT_DMS_THE_LION_OF_JUDAH_SHORT">
+			<Text>Lion of Judah</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_DMS_THE_LION_OF_JUDAH">
+			<Text>Upon adopting a Social Policy, receive [ICON_CULTURE] Culture for every Civilization having already adopted the same Policy. Receive a World Congress delegate for every Ideological Tenet of level 2 or 3 adopted.</Text>
+		</Row>
+		<!-- dummy buildings -->
+		<Row Tag="TXT_KEY_BUILDING_DMS_HS_DELEGATE_TENET">
+			<Text>DMS: HS dummy building WC delegate</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_DMS_HS_DELEGATE_TENET_HELP">
+			<Text>DMS: HS dummy building WC delegate help</Text>
+		</Row>
+		<!-- Promotions -->
+		<Row Tag="TXT_KEY_PROMOTION_DMS_IMPERIAL_AIRFORCE">
+			<Text>Imperial Ethiopian Airforce</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_DMS_IMPERIAL_AIRFORCE_HELP">
+			<Text>This unit Heals 15 Additional HP per turn.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_DMS_ZEBENYA">
+			<Text>Zebenya</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_DMS_ZEBENYA_HELP">
+			<Text>Receive extra [ICON_STRENGTH] Combat Strenth enemy territory per Civilization also at war with the enemy in question[NEWLINE][NEWLINE]During peacetime, yields [ICON_CULTURE] Culture equal to its level.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_DMS_ZEBENYA_1_STRENGTH">
+			<Text>Zebenya: Extra Combat Strength I</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_DMS_ZEBENYA_1_STRENGTH_HELP">
+			<Text>+5% [ICON_STRENGTH] Combat Strength for being in territory of a Civilization at War with [COLOR_POSITIVE_TEXT]1 Major Civilization[ENDCOLOR] beside yourself.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_DMS_ZEBENYA_2_STRENGTH">
+			<Text>Zebenya: Extra Combat Strength II</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_DMS_ZEBENYA_2_STRENGTH_HELP">
+			<Text>+10% [ICON_STRENGTH] Combat Strength for being in territory of a Civilization at War with [COLOR_POSITIVE_TEXT]2 Major Civilizations[ENDCOLOR] beside yourself.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_DMS_ZEBENYA_3_STRENGTH">
+			<Text>Zebenya: Extra Combat Strength III</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_DMS_ZEBENYA_3_STRENGTH_HELP">
+			<Text>+15% [ICON_STRENGTH] Combat Strength for being in territory of a Civilization at War with [COLOR_POSITIVE_TEXT]3 Major Civilizations[ENDCOLOR] beside yourself.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_DMS_ZEBENYA_4_STRENGTH">
+			<Text>Zebenya: Extra Combat Strength IV</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_DMS_ZEBENYA_4_STRENGTH_HELP">
+			<Text>+20% [ICON_STRENGTH] Combat Strength for being in territory of a Civilization at War with [COLOR_POSITIVE_TEXT]4 Major Civilizations[ENDCOLOR] beside yourself.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_DMS_ZEBENYA_5_STRENGTH">
+			<Text>Zebenya: Extra Combat Strength V</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_DMS_ZEBENYA_5_STRENGTH_HELP">
+			<Text>+25% [ICON_STRENGTH] Combat Strength for being in territory of a Civilization at War with [COLOR_POSITIVE_TEXT]5 or more Major Civilizations[ENDCOLOR] beside yourself.</Text>
+		</Row>
+		<!-- MCIS -->
+		<Row Tag="TXT_KEY_MCIS_DMS_WC_DELEGATE_HELP">
+			<Text>[COLOR_POSITIVE_TEXT]+{1_iWCDelegates} World Congress Delegate(s)[ENDCOLOR] from having adopted {2_iWCDelegates} Ideological Tenet(s) of level 2 or 3.</Text>
+		</Row>
+		<!-- City names -->
+		<Row Tag="TXT_KEY_CITY_NAME_DMS_ETHIOPIA_0">
+			<Text>Addis Ababa</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_DMS_ETHIOPIA_1">
+			<Text>Harar</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_DMS_ETHIOPIA_2">
+			<Text>Gondar</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_DMS_ETHIOPIA_3">
+			<Text>Lalibela</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_DMS_ETHIOPIA_4">
+			<Text>Mek'ele</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_DMS_ETHIOPIA_5">
+			<Text>Jimma</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_DMS_ETHIOPIA_6">
+			<Text>Nazret</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_DMS_ETHIOPIA_7">
+			<Text>Shashamane</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_DMS_ETHIOPIA_8">
+			<Text>Debre Berhan</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_DMS_ETHIOPIA_9">
+			<Text>Awasa</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_DMS_ETHIOPIA_10">
+			<Text>Hagere Hiwot</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_DMS_ETHIOPIA_11">
+			<Text>Dessie</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_DMS_ETHIOPIA_12">
+			<Text>Hosaena</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_DMS_ETHIOPIA_13">
+			<Text>Nekemte</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_DMS_ETHIOPIA_14">
+			<Text>Abi Addi</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_DMS_ETHIOPIA_15">
+			<Text>Awash</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_DMS_ETHIOPIA_16">
+			<Text>Addis Zemen</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_DMS_ETHIOPIA_17">
+			<Text>Gore</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_DMS_ETHIOPIA_18">
+			<Text>Wereta</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_DMS_ETHIOPIA_19">
+			<Text>Negele Borana</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_DMS_ETHIOPIA_20">
+			<Text>Bishoftu</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_DMS_ETHIOPIA_21">
+			<Text>Giyon</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_DMS_ETHIOPIA_22">
+			<Text>Butajira</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_DMS_ETHIOPIA_23">
+			<Text>Kebri Dahar</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_DMS_ETHIOPIA_24">
+			<Text>Kombolcha</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_DMS_ETHIOPIA_25">
+			<Text>Agaro</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_DMS_ETHIOPIA_26">
+			<Text>Axum</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_DMS_ETHIOPIA_27">
+			<Text>Chencha</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_DMS_ETHIOPIA_28">
+			<Text>Arboye</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_DMS_ETHIOPIA_29">
+			<Text>Arba Minch</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_DMS_ETHIOPIA_30">
+			<Text>Dabat</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_DMS_ETHIOPIA_31">
+			<Text>Metemma</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_DMS_ETHIOPIA_32">
+			<Text>Kulubi</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_DMS_ETHIOPIA_33">
+			<Text>Asosa</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_DMS_ETHIOPIA_34">
+			<Text>Finicha'a</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_DMS_ETHIOPIA_35">
+			<Text>Asaita</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_DMS_ETHIOPIA_36">
+			<Text>Sayo</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_DMS_ETHIOPIA_37">
+			<Text>Debre Zebit</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_DMS_ETHIOPIA_38">
+			<Text>Bahir Dar</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_DMS_ETHIOPIA_39">
+			<Text>Jijinga</Text>
+		</Row>
+		<!-- Spy names -->
+		<Row Tag="TXT_KEY_SPY_NAME_DMS_ETHIOPIA_0">
+			<Text>Hailu Gabre</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_DMS_ETHIOPIA_1">
+			<Text>Mulu Ken</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_DMS_ETHIOPIA_2">
+			<Text>Wendimu</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_DMS_ETHIOPIA_3">
+			<Text>Li'ol</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_DMS_ETHIOPIA_4">
+			<Text>Demeke</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_DMS_ETHIOPIA_5">
+			<Text>Mulu Alem</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_DMS_ETHIOPIA_6">
+			<Text>Abebech</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_DMS_ETHIOPIA_7">
+			<Text>Zema</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_DMS_ETHIOPIA_8">
+			<Text>Mihret</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_DMS_ETHIOPIA_9">
+			<Text>Kebedech</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

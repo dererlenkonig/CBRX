@@ -1,0 +1,22 @@
+<GameData>
+	<Diplomacy_Responses>
+		<Row LeaderType="LEADER_SENSHI_SEONJO">
+			<ResponseType>RESPONSE_FIRST_GREETING</ResponseType>
+			<Response>TXT_KEY_LEADER_SENSHI_SEONJO_FIRSTGREETING%</Response>
+		</Row>
+		<Row LeaderType="LEADER_SENSHI_SEONJO">
+			<ResponseType>RESPONSE_DEFEATED</ResponseType>
+			<Response>TXT_KEY_LEADER_SENSHI_SEONJO_DEFEATED%</Response>
+		</Row>
+	</Diplomacy_Responses>
+	<Language_en_US>
+		<!--General phrases -->
+		<!--Greeting (first time meeting) -->
+		<Row Tag="TXT_KEY_LEADER_SENSHI_SEONJO_FIRSTGREETING_1">
+			<Text>Greetings to you, great leader. I am Seonjo, ruler of this humble kingdom. I trust you are here in peace? I have been fairly successful at repelling invasions in the past.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_SENSHI_SEONJO_DEFEATED_1">
+			<Text>What? No! This is impossible! Keep beating the war drums! Don't let them know it is over! KEEP BEATING THE DRUMS!</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

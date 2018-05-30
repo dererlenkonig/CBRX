@@ -1,0 +1,17 @@
+<GameData>
+	<UnitPromotions>
+		<Row>
+			<Type>PROMOTION_CL_MURRI_ENEMY_ROUTE</Type>
+			<Description>TXT_KEY_PROMOTION_CL_MURRI_ENEMY_ROUTE</Description>
+			<Help>TXT_KEY_PROMOTION_CL_MURRI_ENEMY_ROUTE_HELP</Help>
+			<Sound>AS2D_IF_LEVELUP</Sound>
+			<CannotBeChosen>true</CannotBeChosen>
+			<LostWithUpgrade>true</LostWithUpgrade>
+			<EnemyRoute>true</EnemyRoute>
+			<PortraitIndex>33</PortraitIndex>
+			<IconAtlas>PROMOTION_ATLAS</IconAtlas>
+			<PediaType>PEDIA_ATTRIBUTES</PediaType>
+			<PediaEntry>TXT_KEY_PROMOTION_CL_MURRI_ENEMY_ROUTE</PediaEntry>
+		</Row>
+	</UnitPromotions>
+</GameData>

@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by Tomatekh-->
+<GameData>
+	<Language_en_US>
+		<Row Tag="TXT_KEY_POLICY_DYNASTY_BLANK_1">
+			<Text>Xia Temp 1</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POLICY_DYNASTY_BLANK_TEXT_1">
+			<Text>Xia Temp 1</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POLICY_DYNASTY_BLANK_HELP_1">
+			<Text>Temp Fix</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POLICY_DYNASTY_BLANK_2">
+			<Text>Xia Temp 2</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POLICY_DYNASTY_BLANK_TEXT_2">
+			<Text>Xia Temp 2</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POLICY_DYNASTY_BLANK_HELP_2">
+			<Text>Temp Fix</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POLICY_DYNASTY_BLANK_3">
+			<Text>Xia Temp 3</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POLICY_DYNASTY_BLANK_TEXT_3">
+			<Text>Xia Temp 3</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POLICY_DYNASTY_BLANK_HELP_3">
+			<Text>Temp Fix</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POLICY_DYNASTY_BLANK_4">
+			<Text>Xia Temp 4</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POLICY_DYNASTY_BLANK_TEXT_4">
+			<Text>Xia Temp 4</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POLICY_DYNASTY_BLANK_HELP_4">
+			<Text>Temp Fix</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POLICY_DYNASTY_BLANK_5">
+			<Text>Xia Temp 5</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POLICY_DYNASTY_BLANK_TEXT_5">
+			<Text>Xia Temp 5</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POLICY_DYNASTY_BLANK_HELP_5">
+			<Text>Temp Fix</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POLICY_DYNASTY_BLANK_6">
+			<Text>Xia Temp 6</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POLICY_DYNASTY_BLANK_TEXT_6">
+			<Text>Xia Temp 6</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POLICY_DYNASTY_BLANK_HELP_6">
+			<Text>Temp Fix</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POLICY_DYNASTY_BLANK_7">
+			<Text>Xia Temp 7</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POLICY_DYNASTY_BLANK_TEXT_7">
+			<Text>Xia Temp 7</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POLICY_DYNASTY_BLANK_HELP_7">
+			<Text>Temp Fix</Text>
+		</Row>	
+	</Language_en_US> 
+</GameData>

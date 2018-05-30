@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 9/24/2016 1:25:05 PM -->
+<GameData>
+	<Language_en_US>
+		<!--Trait-->
+		<Row Tag="TXT_KEY_TRAIT_C15_VENICE_CRUSADE">
+			<Text>Fourth Crusade</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_C15_VENICE_CRUSADE_DESC">
+			<Text>Upon capturing an enemy [ICON_CAPITAL] Capital, all cities enter "We Love The King Day" and you receive an additional [ICON_INTERNATIONAL_TRADE] Trade Route. [ICON_PRODUCTION] Production while building Naval Units increases by 3% for every [ICON_PUPPET] Puppet in the Empire. (Max +66%)</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_C15_VENICE_TRADE_SLOT">
+			<Text>Extra trade slot</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_C15_VENICE_NAVAL_PROD">
+			<Text>Naval Production mod</Text>
+		</Row>
+		<Row Tag="TXT_KEY_C15_VENICE_HEADER">
+			<Text>Capital Captured!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_C15_VENICE_TEXT">
+			<Text>Capturing {1_City} for the first time has caused a "We Love The King Day" in all cities and has increased your [ICON_INTERNATIONAL_TRADE] Trade Route limit by 1.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_C15_VENICE_MCIS_DESC">
+			<Text>Fourth Crusade</Text>
+		</Row>
+		<Row Tag="TXT_KEY_C15_VENICE_MCIS_HELP">
+			<Text>+{1_Num}% [ICON_PRODUCTION] Production when building Naval Units.</Text>
+		</Row>
+		<!--Great Galleass-->
+		<Row Tag="TXT_KEY_PROMOTION_C15_VENICE_GREAT_CITY_BONUS">
+			<Text>Bonus vs Cities (100)</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_C15_VENICE_GREAT_CITY_BONUS_HELP">
+			<Text>+100% Combat vs Cities.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_C15_VENETIAN_GALLEASS_HELP">
+			<Text>Powerful Medieval Era Naval Unit unique to Venice. Stronger than the Galleass and better at attacking Cities, although it is more expensive and must set up before firing.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_C15_VENETIAN_GALLEASS_STRATEGY">
+			<Text>The Great Galleass is a unique Galleass replacement for Venice. It is more expensive than the Galleas, but it has higher Combat and Ranged Combat values as well as a +100% bonus vs Cities. Must set up before firing.</Text>
+		</Row>
+		<!--Noleggiatore-->
+		<Row Tag="TXT_KEY_UNIT_C15_VENICE_NOLEGGIATORE">
+			<Text>Noleggiatore</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_C15_VENICE_NOLEGGIATORE_STRATEGY">
+			<Text>The Noleggiatore is a Caravel replacement for Venice. When it starts its turn on the same tile as a friendly Cargo Ship, it receives +2 [ICON_MOVES] Movement and +1 Sight. When stationed inside a [ICON_PUPPET] Puppeted or [ICON_OCCUPIED] Occupied city, it generates [ICON_GOLD] Gold equivalent to the city's [ICON_CITIZEN] Population.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_C15_VENICE_NOLEGGIATORE_HELP">
+			<Text>Unique Caravel replacement for Venice. When begining on the same tile as a friendly Cargo Ship, receive +2 [ICON_MOVES] Movement and +1 Sight. Generates [ICON_GOLD] Gold if stationed in a [ICON_PUPPET] Puppeted or [ICON_OCCUPIED] Occupied city.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_C15_VENICE_NOLEGGIATORE_HELP_EE">
+			<Text>Unique Carrack replacement for Venice. When begining on the same tile as a friendly [ICON_INTERNATIONAL_TRADE] Trade Route, receive +2 [ICON_MOVES] Movement and +1 Sight. Generates [ICON_GOLD] Gold if stationed in a [ICON_PUPPET] Puppeted or [ICON_OCCUPIED] Occupied city.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_C15_VENICE_NOLEGGIATORE_STRATEGY_EE">
+			<Text>The Noleggiatore is a Carrack replacement for Venice. When it starts its turn on the same tile as a friendly [ICON_INTERNATIONAL_TRADE] Trade Route, it receives +2 [ICON_MOVES] Movement and +1 Sight. When stationed inside a [ICON_PUPPET] Puppeted or [ICON_OCCUPIED] Occupied city, it generates [ICON_GOLD] Gold equivalent to the city's [ICON_CITIZEN] Population.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_C15_VENICE_NOLEGGIATORE_PEDIA">
+			<Text>Noleggiatore is Italian for "Charterer", or "Freighter". This presumably means it's a trading vessel of some kind.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_C15_VENICE_NOLEGGIATORE">
+			<Text>Trade Ship</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_C15_VENICE_NOLEGGIATORE_HELP">
+			<Text>Will recieve +2 Movement and +1 Sight when begining on a Trade Route.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_C15_VENICE_NOLEGGIATORE_ROUTE">
+			<Text>Trade Ship</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_C15_VENICE_NOLEGGIATORE_HELP_ROUTE">
+			<Text>+2 Movement and +1 Sight from begining the turn on a Trade Route.</Text>
+		</Row>
+		<!--City list taken from Jifford-->
+		<!-- City Names -->
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_VERONA">
+			<Text>Verona</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_VICENZA">
+			<Text>Vicenza</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_PARENZO">
+			<Text>Parenzo</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_ZARA">
+			<Text>Zara</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_SPALATO">
+			<Text>Spalato</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_DURAZZO">
+			<Text>Durazzo</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_CHANIA">
+			<Text>Chania</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_CANDIA">
+			<Text>Candia</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_NEGROPONTE">
+			<Text>Negroponte</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_AQUILEA">
+			<Text>Aquilea</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_POLA">
+			<Text>Pola</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_NICOISA">
+			<Text>Nicoisa</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_BRESCIA">
+			<Text>Brescia</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_PADUA">
+			<Text>Padua</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_BERGAMO">
+			<Text>Bergamo</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_MYSTRAS">
+			<Text>Mystras</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_CHIOGGIA">
+			<Text>Cioggia</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_LIMASSOL">
+			<Text>Limassol</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_MIRA">
+			<Text>Mira</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_MIRANO">
+			<Text>Mirano</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_ANTIVARI">
+			<Text>Antivari</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_LEPANTO">
+			<Text>Lepanto</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_FAMAGUSTA">
+			<Text>Famagusta</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_MODON">
+			<Text>Modon</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_ERACLEA">
+			<Text>Eraclea</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_CASTELNUOVO">
+			<Text>Castelnuovo</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_PATRAS">
+			<Text>Patras</Text>
+		</Row>
+	</Language_en_US>
+  
+</GameData>

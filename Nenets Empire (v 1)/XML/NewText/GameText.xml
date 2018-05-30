@@ -1,0 +1,783 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 02/11/2012 14:26:32 -->
+<GameData>
+	<Language_PL_PL>
+		<Row Tag="TXT_KEY_BUILD_SAMOYEDIC_CHUM">
+			<Text>Build a Samoyedic Chum</Text>
+		</Row>
+		<Row Tag="TXT_KEY_IMPROVEMENT_SAMOYEDIC_CHUM">
+			<Text>Samoyedic Chum</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_IMPROVEMENTS_SAMOYEDIC_CHUM_TEXT">
+			<Text>Chum is the tipi of the Nenets people.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILD_SAMOYEDIC_CHUM_HELP">
+			<Text>Build a chum, that raises the production of [ICON_FAITH] faith and [ICON_FOOD] food on tundra and snow tiles.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILD_SAMOYEDIC_CHUM_REC">
+			<Text>It raises the production of [ICON_FAITH] faith and [ICON_FOOD] food on tundra and snow tiles.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_IMPROVEMENTS_SAMOYEDIC_CHUM_HELP">
+			<Text>Giving additional [ICON_FAITH] faith and [ICON_FOOD] food, the chum can only be built in flat tundra and snow.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_TADIBYA">
+			<Text>Shaman Tadibya</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_TADIBYA_HELP">
+			<Text>The Tadibya Shaman can act as a culture bomb and can spread religion like a missionary.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_TADIBYA_STRATEGY">
+			<Text>Get the Tadibya Shaman to extend your empire.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_TADIBYA_TEXT">
+			<Text>Tadibya shamans are the mediators between the ordinary world and the upper- and underworlds of the spirits among the Nenets people. The Nenets rank their shamans by their spiritual attachment and function as well as their experience.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_PERMAFROST_HELP">
+			<Text>The Royal Palace is located in your capitale city.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_PERMAFROST">
+			<Text>Royal Palace</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_PERMAFROST_DESC">
+			<Text>The Palace automatically appears in the capital city of the empire. It provides a small amount of [ICON_RESEARCH] Science, [ICON_GOLD] Gold, and [ICON_CULTURE] Culture for free. If you connect other cities to the capital by road or harbor, you will create trade routes which generate additional income. If your capital city is captured, your Palace will automatically be rebuilt in another city. If you subsequently retake your original capital, the Palace will move back to its original location.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_PERMAFROST_QUOTE">
+			<Text>"Nature is clever. When man gives him a hand, what masterpiece will create!".[NEWLINE]- Benoît Desforêts[NEWLINE].</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_SAMOYED_ADJECTIVE">
+			<Text>Nenets</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_SAMOYED_DESC">
+			<Text>Nenets empire</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_SAMOYED_SHORT_DESC">
+			<Text>Nenetsia</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_DAWN_SAMOYED_TEXT">
+			<Text>Great Vauli Piettomin, your people Nenets appeal to you again to rebuild the great Samoyedic civilization. Located in the heart of taiga forest, crossing the siberian tundra, samoyed way of life is the emblem of development in harmony with nature. After the Russian Revolution, their culture suffered due to Soviet collectivisation policy. The government of the Soviet Union tried to force the nomadic Samoyeds to become sedentary. They were forced to settle in villages and their children were educated in state boarding schools, which resulted in erosion of their cultural identity. Many, especially in the Nenets Autonomous Okrug lost their mother tongue and became assimilated. Can you Great Vauli, help your people to overcome the test of time?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_VAULI_HEADING_1">
+			<Text>History</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_VAULI_TEXT_1">
+			<Text>Leader of the uprising of the poor Nentsi in the 1830s and 1840s. Vauli is a Nenets tundra bottom of the Taz River (Yamal-Nenets Okrug of now Tyumen Oblast).</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_VAULI_HEADING_2">
+			<Text>History</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_VAULI_TEXT_2">
+			<Text>Leading an armed detachment Vauli Piettomin led a struggle against local princes, rich reindeer herders, traders and Tsarist officials. In January 1841, he approached Obdorsk with a detachment of 400 men in combat. With his closest friends, he was taken prisoner by treachery. They were then exiled to hard labor in Eastern Siberia, where Vauli Piettomin died.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_VAULI_LIVED">
+			<Text>19th century</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_VAULI_NAME">
+			<Text>Vauli Piettomin</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_VAULI_SUBTITLE">
+			<Text>Chief of Nenets</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VAULI">
+			<Text>Vauli Piettomin</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_HYPERBOREAN_DESC">
+			<Text>Get a free [ICON_RES_DEER] deer ressource in each city. This deer is tradable as a luxury and provides more happiness.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_HYPERBOREAN_SHORT_DESC">
+			<Text>Hyperboreans</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_SAMOYED_HEADING_1">
+			<Text>History</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_SAMOYED_TEXT_1">
+			<Text>The term Samoyed (also Samoyedic people) is used to describe peoples speaking Samoyed languages, which are part of the Uralic family. They are a language group, not an ethnic or cultural .The name derives from the obsolete term Samoyed used in Russia for some indigenous peoples of Siberia. The Russian conquest of Siberia took place in the 16th and 17th centuries, when the Siberian Khanate became a loose structure policy vassalages who became undermined by the activities of Russian explorers who, though numerically larger, lobbied different based on the fathers of the tribes to change their loyalty and building strong distant from which they raided.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SIRTYA">
+			<Text>Sirtya</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_NYARYANA">
+			<Text>Nyar'yana</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_YAPTIK">
+			<Text>Yaptik</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_VENGO">
+			<Text>Vengo</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TUSIDA">
+			<Text>Tusida</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_NGOKATTETA">
+			<Text>Ngokatteta</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_VANUITO">
+			<Text>Vanuito</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SERPIVA">
+			<Text>Serpiva</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_KHUDI">
+			<Text>Khudi</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SEROTETA">
+			<Text>Seroteta</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_ESYNGI">
+			<Text>Esyngi</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_LAMDO">
+			<Text>Lamdo</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_NIARUI">
+			<Text>Niarui</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_YAUNGAT">
+			<Text>Yaungat</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_PUIKO">
+			<Text>Puiko</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_KHOROLIA">
+			<Text>Khorolia</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_LADUKAI">
+			<Text>Ladukai</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SUSOI">
+			<Text>Susoi</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_OKOTETTO">
+			<Text>Okotetto</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_PIASNDAI">
+			<Text>Piasndai</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_LAPTANDER">
+			<Text>Laptander</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_IADNE">
+			<Text>Iadne</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_SAMOYED_0">
+			<Text>Yuri Vella</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_SAMOYED_1">
+			<Text>Tyko Vylka</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_SAMOYED_2">
+			<Text>Jarkko Niemi</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_SAMOYED_3">
+			<Text>Varnek</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_SAMOYED_4">
+			<Text>Ust Kara</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_SAMOYED_5">
+			<Text>Karatayka</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_SAMOYED_6">
+			<Text>Oma</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_SAMOYED_7">
+			<Text>Kya</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_SAMOYED_8">
+			<Text>Tobseda</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_SAMOYED_9">
+			<Text>Shoina</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_TADIBYA_PAKHUDI">
+			<Text>Pak Hudi</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_TADIBYA_NABTIKO">
+			<Text>Nabtiko</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_TADIBYA_NATSEKY">
+			<Text>Natseky Nyumda</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_TADIBYA_NYALKU">
+			<Text>Nyalku</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_TADIBYA_KHONI">
+			<Text>Khoni Nedeta</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_TADIBYA_PARID">
+			<Text>Paridyenya ne</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_TADIBYA_KATHYAKO">
+			<Text>Khatyako' neka</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_TADIBYA_VITYAKO">
+			<Text>Vityako' nisya</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_TADIBYA_ILKO">
+			<Text>Ilko' iri</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_TADIBYA_YEEIK">
+			<Text>Ye'eikrne</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_TADIBYA_YADNE">
+			<Text>Yadne Pudako</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_TADIBYA_SALINDER">
+			<Text>Salinder Vesei</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_TADIBYA_KAKO">
+			<Text>Kako vesako</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+	</Language_PL_PL>	
+	<Language_en_US>
+		<Row Tag="TXT_KEY_BUILD_SAMOYEDIC_CHUM">
+			<Text>Build a Samoyedic Chum</Text>
+		</Row>
+		<Row Tag="TXT_KEY_IMPROVEMENT_SAMOYEDIC_CHUM">
+			<Text>Samoyedic Chum</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_IMPROVEMENTS_SAMOYEDIC_CHUM_TEXT">
+			<Text>Chum is the tipi of the Nenets people.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILD_SAMOYEDIC_CHUM_HELP">
+			<Text>Build a chum, that raises the production of [ICON_FAITH] faith and [ICON_FOOD] food on tundra and snow tiles.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILD_SAMOYEDIC_CHUM_REC">
+			<Text>It raises the production of [ICON_FAITH] faith and [ICON_FOOD] food on tundra and snow tiles.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_IMPROVEMENTS_SAMOYEDIC_CHUM_HELP">
+			<Text>Giving additional [ICON_FAITH] faith and [ICON_FOOD] food, the chum can only be built in flat tundra and snow.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_TADIBYA">
+			<Text>Shaman Tadibya</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_TADIBYA_HELP">
+			<Text>The Tadibya Shaman can act as a culture bomb and can spread religion like a missionary.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_TADIBYA_STRATEGY">
+			<Text>Get the Tadibya Shaman to extend your empire.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_TADIBYA_TEXT">
+			<Text>Tadibya shamans are the mediators between the ordinary world and the upper- and underworlds of the spirits among the Nenets people. The Nenets rank their shamans by their spiritual attachment and function as well as their experience.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_PERMAFROST_HELP">
+			<Text>The Royal Palace is located in your capitale city.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_PERMAFROST">
+			<Text>Royal Palace</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_PERMAFROST_DESC">
+			<Text>Permafrost.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_PERMAFROST_QUOTE">
+			<Text>"Nature is clever. When man gives him a hand, what masterpiece will create!".[NEWLINE]- Benoît Desforêts[NEWLINE].</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_SAMOYED_ADJECTIVE">
+			<Text>Nenets</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_SAMOYED_DESC">
+			<Text>Nenets empire</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_SAMOYED_SHORT_DESC">
+			<Text>Nenetsia</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_DAWN_SAMOYED_TEXT">
+			<Text>Great Vauli Piettomin, your people Nenets appeal to you again to rebuild the great Samoyedic civilization. Located in the heart of taiga forest, crossing the siberian tundra, samoyed way of life is the emblem of development in harmony with nature. After the Russian Revolution, their culture suffered due to Soviet collectivisation policy. The government of the Soviet Union tried to force the nomadic Samoyeds to become sedentary. They were forced to settle in villages and their children were educated in state boarding schools, which resulted in erosion of their cultural identity. Many, especially in the Nenets Autonomous Okrug lost their mother tongue and became assimilated. Can you Great Vauli, help your people to overcome the test of time?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_VAULI_HEADING_1">
+			<Text>History</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_VAULI_TEXT_1">
+			<Text>Leader of the uprising of the poor Nentsi in the 1830s and 1840s. Vauli is a Nenets tundra bottom of the Taz River (Yamal-Nenets Okrug of now Tyumen Oblast).</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_VAULI_HEADING_2">
+			<Text>History</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_VAULI_TEXT_2">
+			<Text>Leading an armed detachment Vauli Piettomin led a struggle against local princes, rich reindeer herders, traders and Tsarist officials. In January 1841, he approached Obdorsk with a detachment of 400 men in combat. With his closest friends, he was taken prisoner by treachery. They were then exiled to hard labor in Eastern Siberia, where Vauli Piettomin died.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_VAULI_LIVED">
+			<Text>19th century</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_VAULI_NAME">
+			<Text>Vauli Piettomin</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_VAULI_SUBTITLE">
+			<Text>Chief of Nenets</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VAULI">
+			<Text>Vauli Piettomin</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_HYPERBOREAN_DESC">
+			<Text>Get a free [ICON_RES_DEER] deer ressource in each city. This deer is tradable as a luxury.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_HYPERBOREAN_SHORT_DESC">
+			<Text>Hyperboreans</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_SAMOYED_HEADING_1">
+			<Text>History</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_SAMOYED_TEXT_1">
+			<Text>The term Samoyed (also Samoyedic people) is used to describe peoples speaking Samoyed languages, which are part of the Uralic family. They are a language group, not an ethnic or cultural .The name derives from the obsolete term Samoyed used in Russia for some indigenous peoples of Siberia. The Russian conquest of Siberia took place in the 16th and 17th centuries, when the Siberian Khanate became a loose structure policy vassalages who became undermined by the activities of Russian explorers who, though numerically larger, lobbied different based on the fathers of the tribes to change their loyalty and building strong distant from which they raided.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SIRTYA">
+			<Text>Sirtya</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_NYARYANA">
+			<Text>Nyar'yana</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_YAPTIK">
+			<Text>Yaptik</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_VENGO">
+			<Text>Vengo</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TUSIDA">
+			<Text>Tusida</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_NGOKATTETA">
+			<Text>Ngokatteta</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_VANUITO">
+			<Text>Vanuito</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SERPIVA">
+			<Text>Serpiva</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_KHUDI">
+			<Text>Khudi</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SEROTETA">
+			<Text>Seroteta</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_ESYNGI">
+			<Text>Esyngi</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_LAMDO">
+			<Text>Lamdo</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_NIARUI">
+			<Text>Niarui</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_YAUNGAT">
+			<Text>Yaungat</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_PUIKO">
+			<Text>Puiko</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_KHOROLIA">
+			<Text>Khorolia</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_LADUKAI">
+			<Text>Ladukai</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SUSOI">
+			<Text>Susoi</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_OKOTETTO">
+			<Text>Okotetto</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_PIASNDAI">
+			<Text>Piasndai</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_LAPTANDER">
+			<Text>Laptander</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_IADNE">
+			<Text>Iadne</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_SAMOYED_0">
+			<Text>Yuri Vella</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_SAMOYED_1">
+			<Text>Tyko Vylka</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_SAMOYED_2">
+			<Text>Jarkko Niemi</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_SAMOYED_3">
+			<Text>Varnek</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_SAMOYED_4">
+			<Text>Ust Kara</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_SAMOYED_5">
+			<Text>Karatayka</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_SAMOYED_6">
+			<Text>Oma</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_SAMOYED_7">
+			<Text>Kya</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_SAMOYED_8">
+			<Text>Tobseda</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_SAMOYED_9">
+			<Text>Shoina</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_TADIBYA_PAKHUDI">
+			<Text>Pak Hudi</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_TADIBYA_NABTIKO">
+			<Text>Nabtiko</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_TADIBYA_NATSEKY">
+			<Text>Natseky Nyumda</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_TADIBYA_NYALKU">
+			<Text>Nyalku</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_TADIBYA_KHONI">
+			<Text>Khoni Nedeta</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_TADIBYA_PARID">
+			<Text>Paridyenya ne</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_TADIBYA_KATHYAKO">
+			<Text>Khatyako' neka</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_TADIBYA_VITYAKO">
+			<Text>Vityako' nisya</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_TADIBYA_ILKO">
+			<Text>Ilko' iri</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_TADIBYA_YEEIK">
+			<Text>Ye'eikrne</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_TADIBYA_YADNE">
+			<Text>Yadne Pudako</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_TADIBYA_SALINDER">
+			<Text>Salinder Vesei</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_TADIBYA_KAKO">
+			<Text>Kako vesako</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+	</Language_en_US>
+	<Language_FR_FR>
+
+		<Row Tag="TXT_KEY_BUILD_SAMOYEDIC_CHUM">
+			<Text>Construire une Tchoum Samoyède</Text>
+		</Row>
+		<Row Tag="TXT_KEY_IMPROVEMENT_SAMOYEDIC_CHUM">
+			<Text>Tchoum Samoyède</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_IMPROVEMENTS_SAMOYEDIC_CHUM_TEXT">
+			<Text>La Tchoum Samoyède est l'habitat traditionnel des peuples de la toundra. [NEWLINE][NEWLINE]Il doit être construit sur une case de neige ou de toundra et fournit +1[ICON_FAITH] foi et +1 [ICON_FOOD] nourriture.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILD_SAMOYEDIC_CHUM_HELP">
+			<Text>Permet de construire une Tchoum Samoyède, qui augmente la quantité de [ICON_FAITH] foi et de [ICON_FOOD] nourriture générées par la case de toundra ou de neige.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILD_SAMOYEDIC_CHUM_REC">
+			<Text>Augmente la quantité  de [ICON_FAITH] foi et de [ICON_FOOD] nourriture générées par la case de toundra ou de neige.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_IMPROVEMENTS_SAMOYEDIC_CHUM_HELP">
+			<Text>Produisant de la [ICON_FAITH] foi et de [ICON_FOOD] nourriture, la Tchoum Samoyède ne peut être construite que sur une case de toundra ou de neige.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_TADIBYA">
+			<Text>Shaman Tadibya</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_TADIBYA_HELP">
+			<Text>Le Shaman Tadibya vous permet d'accroitre votre territoire en créant des bombes culturelles mais il peut aussi diffuser la religion d'état quand il y en a une.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_TADIBYA_STRATEGY">
+			<Text>Posez des bombes culturelles avec votre Shaman Tadibya.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_TADIBYA_TEXT">
+			<Text>Les shamans tadibya sont les médiateurs entre le monde ordinaire des hommes et les sphères spirituelles chez le peuple Nenets. Les Nenets classent leurs chamans par leur attachement à leur fonction ainsi que par leur expérience spirituelle..</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_PERMAFROST_HELP">
+			<Text>Le Palais Royal est construit dans votre capitale.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_PERMAFROST">
+			<Text>Palais Royal</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_PERMAFROST_DESC">
+			<Text>Le palais apparaît automatiquement dans la capitale de votre empire. Il confère un léger bonus de production, de [ICON_RESEARCH] science, [ICON_GOLD] d'or et de [ICON_CULTURE] culture à votre civilisation. Connectez d'autres villes à votre capitale via des routes ou un port, et vous établirez des routes commerciales qui vous rapporteront des revenus supplémentaires. Si votre capitale est prise, votre palais est automatiquement reconstruit dans une autre ville qui devient immédiatement votre nouvelle capitale. Si vous parvenez ensuite à reprendre votre capitale d'origine, le palais y sera reconstruit.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_PERMAFROST_QUOTE">
+			<Text>"Nature is clever. When man gives him a hand, what masterpiece will create!".[NEWLINE]- Benoît Desforêts[NEWLINE].</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_SAMOYED_ADJECTIVE">
+			<Text>Nenetse</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_SAMOYED_DESC">
+			<Text>Empire nenetse</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_SAMOYED_SHORT_DESC">
+			<Text>Nenetsie</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_DAWN_SAMOYED_TEXT">
+			<Text>O Impetueux Vauli! Remonte sur ton traineau et part à l'assault de la taiga car ton peuple te réclame! Les Nénètses, surnommés les Princes de la Toundra car ils règnent sur les steppes et forêts sibériennes, seraient originaires des Monts Saïan de la Sibérie occidentale. Ce peuple se serait mélangé aux aborigènes qui, selon des récits traditionnels, vivaient dans des abris souterrains. Lors de l'invasion mongole, les Nénètses, ainsi que d'autres tribus du nord-ouest de la Sibérie, payaient des impôts au khanat sibérien de Koutchoum khan. En 1585, les Russes annexèrent ces tribus et imposèrent leurs propres impôts en fourrures. L’influence russe sur les Nénètses débute aux XIIIe et XIVe siècles et sera totale au XVIIe siècle. Avec la Révolution russe de 1917, les Nénètses subissent une politique d’assimilation et de collectivisation forcée. Ils sont contraints de renoncer à leur vie nomade en se sédentarisant dans des exploitations agricoles collectives d’État, les kolkhozes. Les enfants sont envoyés à l’école pour apprendre le russe, ce qui a eu pour conséquence la perte de leur langue et la disparition de leur mode vie traditionnel. O Grand Vauli! Restaure l'independance des peuples samoyèdes et aide les à franchir les épreuves du temps!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_VAULI_HEADING_1">
+			<Text>Histoire</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_VAULI_TEXT_1">
+			<Text>Chef de l'insurrection des pauvres Nentsi dans les années 1830 et 1840. Vauli est un Nenets de la toundra du bas de la rivière Taz (maintenant Yamal-Nenets Okrug de l'oblast de Tioumen).</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_VAULI_HEADING_2">
+			<Text>Histoire</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_VAULI_TEXT_2">
+			<Text>Entraînant un détachement armé, Vauli Piettomin mena une lutte contre les princes locaux, riches éleveurs de rennes, les commerçants et les fonctionnaires tsaristes. En Janvier 1841, il s'approcha de Obdorsk avec un détachement de 400 hommes au combat. Avec ses plus proches camarades, il fut fait prisonnier par traitrise. Ils ont été ensuite exilés aux travaux forcés en Sibérie orientale, où Vauli Piettomin mort.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_VAULI_LIVED">
+			<Text>XIX éme siècle</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_VAULI_NAME">
+			<Text>Vauli Piettomin</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_VAULI_SUBTITLE">
+			<Text>Chef des Nenetses</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VAULI">
+			<Text>Vauli Piettomin</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_HYPERBOREAN_DESC">
+			<Text>Vos villes bénéficient d'une ressource de [ICON_RES_DEER] rennes gratuite, commercialisable et qui génère plus de bonheur.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_HYPERBOREAN_SHORT_DESC">
+			<Text>Hyperboréens</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_SAMOYED_HEADING_1">
+			<Text>Histoire</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_SAMOYED_TEXT_1">
+			<Text>Le terme samoyède (aussi les peuples Samoyediques) est utilisé pour décrire les peuples parlant des langues samoyède, qui font partie de la famille ouralienne. Ils sont un groupe linguistique, pas un conflit ethnique ou culturel. Le nom dérive du terme obsolète Samoyède utilisé en Russie pour certains peuples autochtones de Sibérie. La conquête russe de la Sibérie a eu lieu dans les 16e et 17e siècles, lorsque le khanat de Sibérie est devenu une structure lâche politique de vassalages qui devenaient sapés par les activités d'explorateurs russes qui, bien que numériquement plus nombreux, fait pression sur les différents basés sur la famille dans les tribus changer leur loyauté et l'établissement de forts éloignés à partir de laquelle ils ont mené des raids.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SIRTYA">
+			<Text>Sirtya</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_NYARYANA">
+			<Text>Nyar'yana</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_YAPTIK">
+			<Text>Yaptik</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_VENGO">
+			<Text>Vengo</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TUSIDA">
+			<Text>Tusida</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_NGOKATTETA">
+			<Text>Ngokatteta</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_VANUITO">
+			<Text>Vanuito</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SERPIVA">
+			<Text>Serpiva</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_KHUDI">
+			<Text>Khudi</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SEROTETA">
+			<Text>Seroteta</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_ESYNGI">
+			<Text>Esyngi</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_LAMDO">
+			<Text>Lamdo</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_NIARUI">
+			<Text>Niarui</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_YAUNGAT">
+			<Text>Yaungat</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_PUIKO">
+			<Text>Puiko</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_KHOROLIA">
+			<Text>Khorolia</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_LADUKAI">
+			<Text>Ladukai</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SUSOI">
+			<Text>Susoi</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_OKOTETTO">
+			<Text>Okotetto</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_PIASNDAI">
+			<Text>Piasndai</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_LAPTANDER">
+			<Text>Laptander</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_IADNE">
+			<Text>Iadne</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_SAMOYED_0">
+			<Text>Yuri Vella</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_SAMOYED_1">
+			<Text>Tyko Vylka</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_SAMOYED_2">
+			<Text>Jarkko Niemi</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_SAMOYED_3">
+			<Text>Varnek</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_SAMOYED_4">
+			<Text>Ust Kara</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_SAMOYED_5">
+			<Text>Karatayka</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_SAMOYED_6">
+			<Text>Oma</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_SAMOYED_7">
+			<Text>Kya</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_SAMOYED_8">
+			<Text>Tobseda</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_SAMOYED_9">
+			<Text>Shoina</Text>
+			<Gender>feminine</Gender>
+		</Row>
+
+		<Row Tag="TXT_KEY_TADIBYA_PAKHUDI">
+			<Text>Pak Hudi</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_TADIBYA_NABTIKO">
+			<Text>Nabtiko</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_TADIBYA_NATSEKY">
+			<Text>Natseky Nyumda</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_TADIBYA_NYALKU">
+			<Text>Nyalku</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_TADIBYA_KHONI">
+			<Text>Khoni Nedeta</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_TADIBYA_PARID">
+			<Text>Paridyenya ne</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_TADIBYA_KATHYAKO">
+			<Text>Khatyako' neka</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_TADIBYA_VITYAKO">
+			<Text>Vityako' nisya</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_TADIBYA_ILKO">
+			<Text>Ilko' iri</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_TADIBYA_YEEIK">
+			<Text>Ye'eikrne</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_TADIBYA_YADNE">
+			<Text>Yadne Pudako</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_TADIBYA_SALINDER">
+			<Text>Salinder Vesei</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_TADIBYA_KAKO">
+			<Text>Kako vesako</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Row>
+	</Language_FR_FR>
+</GameData>

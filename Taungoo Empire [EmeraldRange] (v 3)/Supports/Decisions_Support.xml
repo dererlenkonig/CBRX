@@ -1,0 +1,199 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 5/21/2017 8:18:36 PM -->
+<GameData>
+	<!--Decisions-->
+	<Buildings>
+		<Row>
+			<Type>BUILDING_ER_DECISION_KANDY</Type>
+			<BuildingClass>BUILDINGCLASS_ER_DECISION_DUMMY</BuildingClass>
+			<Cost>-1</Cost>
+			<PrereqTech>NULL</PrereqTech>
+			<MinAreaSize>-1</MinAreaSize>
+			<NukeImmune>true</NukeImmune>
+			<PortraitIndex>19</PortraitIndex>
+			<NeverCapture>true</NeverCapture>
+			<IconAtlas>BW_ATLAS_1</IconAtlas>
+			<Description>TXT_KEY_BUILDING_FAITH_DUMMY</Description>
+			<GreatWorkCount>-1</GreatWorkCount>
+		</Row>
+		<Row>
+			<Type>BUILDING_ER_DUMMY_GATE_OF_BAGO</Type>
+			<BuildingClass>BUILDINGCLASS_ER_TAUNGOO_DUMMY_GATE</BuildingClass>
+			<Cost>-1</Cost>
+			<PrereqTech>NULL</PrereqTech>
+			<MinAreaSize>-1</MinAreaSize>
+			<Happiness>1</Happiness>
+			<NukeImmune>true</NukeImmune>
+			<NeverCapture>true</NeverCapture>
+			<PortraitIndex>19</PortraitIndex>
+			<IconAtlas>BW_ATLAS_1</IconAtlas>
+			<Description>TXT_KEY_BUILDING_GATE_OF_BAGO</Description>
+			<GreatWorkCount>-1</GreatWorkCount>
+		</Row>
+	</Buildings>
+	<BuildingClasses>
+		<Row>
+			<Type>BUILDINGCLASS_ER_DECISION_DUMMY</Type>
+			<DefaultBuilding>BUILDING_ER_DECISION_KANDY</DefaultBuilding>
+			<Description>TXT_KEY_BUILDING_FAITH_DUMMY</Description>
+			<NoLimit>true</NoLimit>
+		</Row>
+		<Row>
+			<Type>BUILDINGCLASS_ER_TAUNGOO_DUMMY_GATE</Type>
+			<DefaultBuilding>BUILDING_ER_DUMMY_GATE_OF_BAGO</DefaultBuilding>
+			<Description>TXT_KEY_BUILDING_GATE_OF_BAGO_CLASS</Description>
+			<NoLimit>true</NoLimit>
+		</Row>
+	</BuildingClasses>
+	<Building_YieldChanges>
+		<Row>
+			<BuildingType>BUILDING_ER_DECISION_KANDY</BuildingType>
+			<YieldType>YIELD_FAITH</YieldType>
+			<Yield>1</Yield>
+		</Row>
+	</Building_YieldChanges>
+	<!--Unit-->
+	<UnitClasses>
+		<Row>
+			<Type>UNITCLASS_ER_DUMMY_ED_ARCHAEOLOGIST</Type>
+			<Description>TXT_KEY_UNIT_ER_DUMMY_ED_ARCHAEOLOGIST</Description>
+			<DefaultUnit>UNIT_ER_DUMMY_ED_ARCHAEOLOGIST</DefaultUnit>
+		</Row>
+	</UnitClasses>
+	<Units>
+		<Row>
+			<Class>UNITCLASS_ER_DUMMY_ED_ARCHAEOLOGIST</Class>
+			<Type>UNIT_ER_DUMMY_ED_ARCHAEOLOGIST</Type>
+			<PrereqTech>TECH_AGRICULTURE</PrereqTech>
+			<Cost>-1</Cost>
+			<Moves>4</Moves>
+			<HurryCostModifier>-1</HurryCostModifier>
+			<Capture>UNITCLASS_ER_DUMMY_ED_ARCHAEOLOGIST</Capture>
+			<CivilianAttackPriority>CIVILIAN_ATTACK_PRIORITY_LOW</CivilianAttackPriority>
+			<Domain>DOMAIN_LAND</Domain>
+			<DefaultUnitAI>UNITAI_ARCHAEOLOGIST</DefaultUnitAI>
+			<Description>TXT_KEY_UNIT_ER_DUMMY_ED_ARCHAEOLOGIST</Description>
+			<AdvancedStartCost>20</AdvancedStartCost>
+			<WorkRate>100</WorkRate>
+			<CombatLimit>0</CombatLimit>
+			<UnitArtInfo>ART_DEF_UNIT_ARCHAEOLOGIST</UnitArtInfo>
+			<UnitArtInfoEraVariation>true</UnitArtInfoEraVariation>
+			<UnitFlagAtlas>EXPANSION2_UNIT_FLAG_ATLAS</UnitFlagAtlas>
+			<UnitFlagIconOffset>0</UnitFlagIconOffset>
+			<IconAtlas>EXPANSION2_UNIT_ATLAS</IconAtlas>
+			<PortraitIndex>0</PortraitIndex>
+		</Row>
+	</Units>
+	<Unit_UniqueNames>
+		<Row>
+			<UnitType>UNIT_ER_DUMMY_ED_ARCHAEOLOGIST</UnitType>
+			<UniqueName>TXT_KEY_ER_DUMMY_ED_ARCHAEOLOGIST</UniqueName>
+			<GreatWorkType>GREAT_WORK_ANCIENT_ERA_ER_DUMMY_KANDY</GreatWorkType>
+		</Row>
+	</Unit_UniqueNames>
+	<Unit_AITypes>
+		<Row>
+			<UnitType>UNIT_ER_DUMMY_ED_ARCHAEOLOGIST</UnitType>
+			<UnitAIType>UNITAI_ARCHAEOLOGIST</UnitAIType>
+		</Row>
+	</Unit_AITypes>
+	<UnitGameplay2DScripts>
+		<Row>
+			<UnitType>UNIT_ER_DUMMY_ED_ARCHAEOLOGIST</UnitType>
+			<SelectionSound>AS2D_SELECT_SETTLER</SelectionSound>
+			<FirstSelectionSound>AS2D_BIRTH_SETTLER</FirstSelectionSound>
+		</Row>
+	</UnitGameplay2DScripts>
+	<GreatWorkArtifactClasses>
+		<Row Type="ARTIFACT_ER_DUMMY_KANDY" Value="40"/>
+	</GreatWorkArtifactClasses>
+	<GreatWorks>
+		<Row>
+			<Type>GREAT_WORK_OTHER_ERA_ER_DUMMY_KANDY</Type>
+			<GreatWorkClassType>GREAT_WORK_ARTIFACT</GreatWorkClassType>
+			<ArtifactClassType>ARTIFACT_ER_DUMMY_KANDY</ArtifactClassType>
+			<Description>TXT_KEY_ARTIFACT_OTHER_ERA_ER_DUMMY_KANDY</Description>
+			<Audio>AS2D_GREAT_ARTIST_ARTWORK</Audio>
+		</Row>
+		<Row EraType="ERA_ANCIENT">
+			<Type>GREAT_WORK_ANCIENT_ERA_ER_DUMMY_KANDY</Type>
+			<GreatWorkClassType>GREAT_WORK_ARTIFACT</GreatWorkClassType>
+			<ArtifactClassType>ARTIFACT_ER_DUMMY_KANDY</ArtifactClassType>
+			<Description>TXT_KEY_ARTIFACT_ANCIENT_ERA_ER_DUMMY_KANDY</Description>
+		</Row>
+	</GreatWorks>
+	<Language_en_US>
+		<Row Tag="TXT_KEY_ARTIFACT_OTHER_ERA_ER_DUMMY_KANDY">
+			<Text>Tooth of Kandy</Text>
+		</Row>
+		<Row Tag="TXT_KEY_ARTIFACT_ANCIENT_ERA_ER_DUMMY_KANDY">
+			<Text>Tooth of Kandy</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_ER_DUMMY_ED_ARCHAEOLOGIST">
+			<Text>Relic</Text>
+		</Row>
+		<Row Tag="TXT_KEY_ER_DUMMY_ED_ARCHAEOLOGIST">
+			<Text>Siddhartha Gautama</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_FAITH_DUMMY">
+			<Text>ER Faith Dummy</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_GATE_OF_BAGO">
+			<Text>Gate of Bago Dummy</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_GATE_OF_BAGO_CLASS">
+			<Text>Gate of Bago DummyClass</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_TAUNGOOKANDY">
+			<Text>Recover the Tooth of Kandy</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_TAUNGOOKANDY_DESC">
+			<Text>
+				Foreign colonists nearby have seized control of the Tooth of Kandy. Who knows what the heathens and non-believers will do with this sacred relic. As the protectors of orthodox Theravada Buddhism, we have to ensure that this priceless relic not be mishandled or disrespected by the foreigners. [NEWLINE]
+				[NEWLINE]Requirement/Restrictions:
+				[NEWLINE][ICON_BULLET]Player must be Taungoo.
+				[NEWLINE][ICON_BULLET]Must have researched Theology.
+				[NEWLINE][ICON_BULLET]Must have a free Great Work of Art/Artifact Slot
+				[NEWLINE][ICON_BULLET]May only enacted once per game
+				[NEWLINE]Costs:
+				[NEWLINE][ICON_BULLET]1 [ICON_MAGISTRATES] Magistrates
+				[NEWLINE][ICON_BULLET]{1_Cost} [ICON_GOLD] Gold
+				[NEWLINE]Rewards:
+				[NEWLINE][ICON_BULLET]Gain an Artifact: Tooth of Kandy
+				[NEWLINE][ICON_BULLET]Captial City produces +1 [ICON_PEACE] Faith
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_TAUNGOOKANDY_ENACTED_DESC">
+			<Text>
+			Foreign colonists nearby have seized control of the Tooth of Kandy. Who knows what the heathens and non-believers will do with this sacred relic. As the protectors of orthodox Theravada Buddhism, we have to ensure that this priceless relic not be mishandled or disrespected by the foreigners. [NEWLINE]
+			[NEWLINE]Rewards:
+			[NEWLINE][ICON_BULLET]Gain an Artifact: Tooth of Kandy
+			[NEWLINE][ICON_BULLET]Palace gets +1 [ICON_PEACE] Faith
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_TAUNGOOBAGOGATES">
+			<Text>Construct the Gates of Bago</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_TAUNGOOBAGOGATES_DESC">
+			<Text>
+				Your empire is growing strong, but it hinges itself on your relations with the vassal rulers of your various puppet states. Without an institution behind it, the empire may collapse. Perhaps as the universal ruler, you should consolidate your powers officially in a symbolic construction of city gates around Bago: one for each vassal state. [NEWLINE]
+				[NEWLINE]Requirement/Restrictions:
+				[NEWLINE][ICON_BULLET]Player must be Taungoo.
+				[NEWLINE][ICON_BULLET]Must have at least 4 puppet cities
+				[NEWLINE][ICON_BULLET]May only enacted once per game
+				[NEWLINE]Costs:
+				[NEWLINE][ICON_BULLET]2 [ICON_MAGISTRATES] Magistrates
+				[NEWLINE][ICON_BULLET]{1_Cost} [ICON_GOLD] Gold per current [ICON_PUPPET] puppet city
+				[NEWLINE]Rewards:
+				[NEWLINE][ICON_BULLET]+1 [ICON_HAPPINESS_1] Happiness in all current [ICON_PUPPET] puppetted cities.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_TAUNGOOBAGOGATES_ENACTED_DESC">
+			<Text>
+				Your empire is growing strong, but it hinges itself on your relations with the vassal rulers of your various puppet states. Without an institution behind it, the empire may collapse. Perhaps as the universal ruler, you should consolidate your powers officially in a symbolic construction of city gates around Bago: one for each vassal state. [NEWLINE]
+				[NEWLINE]Rewards:
+				[NEWLINE][ICON_BULLET]Unlocks National Wonder: Gates of Bago (+1 [ICON_HAPPINESS_1] Happiness in all current puppetted cities.)
+			</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

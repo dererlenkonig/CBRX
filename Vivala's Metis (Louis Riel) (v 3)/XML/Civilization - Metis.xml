@@ -1,0 +1,685 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+  <Civilizations>
+    <Row>
+      <Type>CIVILIZATION_VIVALA_METIS</Type>
+      <Description>TXT_KEY_CIV_VIVALA_METIS_DESC</Description>
+      <Civilopedia></Civilopedia>
+      <CivilopediaTag>TXT_KEY_CIV5_VIVALA_METIS</CivilopediaTag>
+      <Strategy></Strategy>
+      <Playable>1</Playable>
+      <AIPlayable>1</AIPlayable>
+      <ShortDescription>TXT_KEY_CIV_VIVALA_METIS_SHORT_DESC</ShortDescription>
+      <Adjective>TXT_KEY_CIV_VIVALA_METIS_ADJECTIVE</Adjective>
+      <DefaultPlayerColor>PLAYERCOLOR_VIVALA_METIS</DefaultPlayerColor>
+		<ArtDefineTag>ART_DEF_CIVILIZATION_IROQUOIS</ArtDefineTag>
+		<ArtStyleType>ARTSTYLE_SOUTH_AMERICA</ArtStyleType>
+		<ArtStyleSuffix>_AMER</ArtStyleSuffix>
+		<ArtStylePrefix>AMERICAN</ArtStylePrefix>
+      <DerivativeCiv></DerivativeCiv>
+      <PortraitIndex>0</PortraitIndex>
+      <IconAtlas>VIVALA_METIS_ATLAS</IconAtlas>
+      <AlphaIconAtlas>VIVALA_METIS_ALPHA</AlphaIconAtlas>
+      <MapImage>MetisMap.dds</MapImage>
+      <DawnOfManQuote>TXT_KEY_CIV5_DAWN_VIVALA_METIS_TEXT</DawnOfManQuote>
+      <DawnOfManImage>RielDOM.dds</DawnOfManImage>
+      <DawnOfManAudio>AS2D_DOM_SPEECH_VIVALA_METIS</DawnOfManAudio>
+      <SoundtrackTag></SoundtrackTag>
+    </Row>
+  </Civilizations>
+
+  <Civilization_BuildingClassOverrides>
+    <Row>
+      <CivilizationType>CIVILIZATION_VIVALA_METIS</CivilizationType>
+      <BuildingClassType>BUILDINGCLASS_CARAVANSARY</BuildingClassType>
+      <BuildingType>BUILDING_VIVALA_TRADE_FACTORY</BuildingType>
+    </Row>
+	  <Row>
+		  <CivilizationType>CIVILIZATION_VIVALA_METIS</CivilizationType>
+		  <BuildingClassType>BUILDINGCLASS_VIVALA_TRADE_FACTORY_WATER</BuildingClassType>
+		  <BuildingType>BUILDING_VIVALA_TRADE_FACTORY_WATER</BuildingType>
+	  </Row>
+  </Civilization_BuildingClassOverrides>
+  <Civilization_CityNames>
+    <Row>
+      <CivilizationType>CIVILIZATION_VIVALA_METIS</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_VIVALA_METIS_0</CityName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_VIVALA_METIS</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_VIVALA_METIS_1</CityName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_VIVALA_METIS</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_VIVALA_METIS_2</CityName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_VIVALA_METIS</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_VIVALA_METIS_3</CityName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_VIVALA_METIS</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_VIVALA_METIS_4</CityName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_VIVALA_METIS</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_VIVALA_METIS_5</CityName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_VIVALA_METIS</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_VIVALA_METIS_6</CityName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_VIVALA_METIS</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_VIVALA_METIS_7</CityName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_VIVALA_METIS</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_VIVALA_METIS_8</CityName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_VIVALA_METIS</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_VIVALA_METIS_9</CityName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_VIVALA_METIS</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_VIVALA_METIS_10</CityName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_VIVALA_METIS</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_VIVALA_METIS_11</CityName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_VIVALA_METIS</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_VIVALA_METIS_12</CityName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_VIVALA_METIS</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_VIVALA_METIS_13</CityName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_VIVALA_METIS</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_VIVALA_METIS_14</CityName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_VIVALA_METIS</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_VIVALA_METIS_15</CityName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_VIVALA_METIS</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_VIVALA_METIS_16</CityName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_VIVALA_METIS</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_VIVALA_METIS_17</CityName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_VIVALA_METIS</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_VIVALA_METIS_18</CityName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_VIVALA_METIS</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_VIVALA_METIS_19</CityName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_VIVALA_METIS</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_VIVALA_METIS_20</CityName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_VIVALA_METIS</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_VIVALA_METIS_21</CityName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_VIVALA_METIS</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_VIVALA_METIS_22</CityName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_VIVALA_METIS</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_VIVALA_METIS_23</CityName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_VIVALA_METIS</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_VIVALA_METIS_24</CityName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_VIVALA_METIS</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_VIVALA_METIS_25</CityName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_VIVALA_METIS</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_VIVALA_METIS_26</CityName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_VIVALA_METIS</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_VIVALA_METIS_27</CityName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_VIVALA_METIS</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_VIVALA_METIS_28</CityName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_VIVALA_METIS</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_VIVALA_METIS_29</CityName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_VIVALA_METIS</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_VIVALA_METIS_30</CityName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_VIVALA_METIS</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_VIVALA_METIS_31</CityName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_VIVALA_METIS</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_VIVALA_METIS_32</CityName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_VIVALA_METIS</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_VIVALA_METIS_33</CityName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_VIVALA_METIS</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_VIVALA_METIS_34</CityName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_VIVALA_METIS</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_VIVALA_METIS_35</CityName>
+    </Row>
+	  <Row>
+		  <CivilizationType>CIVILIZATION_VIVALA_METIS</CivilizationType>
+		  <CityName>TXT_KEY_CITY_NAME_VIVALA_METIS_36</CityName>
+	  </Row>
+	  <Row>
+		  <CivilizationType>CIVILIZATION_VIVALA_METIS</CivilizationType>
+		  <CityName>TXT_KEY_CITY_NAME_VIVALA_METIS_37</CityName>
+	  </Row>
+	  <Row>
+		  <CivilizationType>CIVILIZATION_VIVALA_METIS</CivilizationType>
+		  <CityName>TXT_KEY_CITY_NAME_VIVALA_METIS_38</CityName>
+	  </Row>
+	  <Row>
+		  <CivilizationType>CIVILIZATION_VIVALA_METIS</CivilizationType>
+		  <CityName>TXT_KEY_CITY_NAME_VIVALA_METIS_39</CityName>
+	  </Row>
+	  <Row>
+		  <CivilizationType>CIVILIZATION_VIVALA_METIS</CivilizationType>
+		  <CityName>TXT_KEY_CITY_NAME_VIVALA_METIS_40</CityName>
+	  </Row>
+	  <Row>
+		  <CivilizationType>CIVILIZATION_VIVALA_METIS</CivilizationType>
+		  <CityName>TXT_KEY_CITY_NAME_VIVALA_METIS_41</CityName>
+	  </Row>
+	  <Row>
+		  <CivilizationType>CIVILIZATION_VIVALA_METIS</CivilizationType>
+		  <CityName>TXT_KEY_CITY_NAME_VIVALA_METIS_42</CityName>
+	  </Row>
+	  <Row>
+		  <CivilizationType>CIVILIZATION_VIVALA_METIS</CivilizationType>
+		  <CityName>TXT_KEY_CITY_NAME_VIVALA_METIS_43</CityName>
+	  </Row>
+	  <Row>
+		  <CivilizationType>CIVILIZATION_VIVALA_METIS</CivilizationType>
+		  <CityName>TXT_KEY_CITY_NAME_VIVALA_METIS_44</CityName>
+	  </Row>
+	  <Row>
+		  <CivilizationType>CIVILIZATION_VIVALA_METIS</CivilizationType>
+		  <CityName>TXT_KEY_CITY_NAME_VIVALA_METIS_45</CityName>
+	  </Row>
+	  <Row>
+		  <CivilizationType>CIVILIZATION_VIVALA_METIS</CivilizationType>
+		  <CityName>TXT_KEY_CITY_NAME_VIVALA_METIS_46</CityName>
+	  </Row>
+	  <Row>
+		  <CivilizationType>CIVILIZATION_VIVALA_METIS</CivilizationType>
+		  <CityName>TXT_KEY_CITY_NAME_VIVALA_METIS_47</CityName>
+	  </Row>
+	  <Row>
+		  <CivilizationType>CIVILIZATION_VIVALA_METIS</CivilizationType>
+		  <CityName>TXT_KEY_CITY_NAME_VIVALA_METIS_48</CityName>
+	  </Row>
+	  <Row>
+		  <CivilizationType>CIVILIZATION_VIVALA_METIS</CivilizationType>
+		  <CityName>TXT_KEY_CITY_NAME_VIVALA_METIS_49</CityName>
+	  </Row>
+	  <Row>
+		  <CivilizationType>CIVILIZATION_VIVALA_METIS</CivilizationType>
+		  <CityName>TXT_KEY_CITY_NAME_VIVALA_METIS_50</CityName>
+	  </Row>
+	  <Row>
+		  <CivilizationType>CIVILIZATION_VIVALA_METIS</CivilizationType>
+		  <CityName>TXT_KEY_CITY_NAME_VIVALA_METIS_51</CityName>
+	  </Row>
+	  <Row>
+		  <CivilizationType>CIVILIZATION_VIVALA_METIS</CivilizationType>
+		  <CityName>TXT_KEY_CITY_NAME_VIVALA_METIS_52</CityName>
+	  </Row>
+	  <Row>
+		  <CivilizationType>CIVILIZATION_VIVALA_METIS</CivilizationType>
+		  <CityName>TXT_KEY_CITY_NAME_VIVALA_METIS_53</CityName>
+	  </Row>
+	  <Row>
+		  <CivilizationType>CIVILIZATION_VIVALA_METIS</CivilizationType>
+		  <CityName>TXT_KEY_CITY_NAME_VIVALA_METIS_54</CityName>
+	  </Row>
+	  <Row>
+		  <CivilizationType>CIVILIZATION_VIVALA_METIS</CivilizationType>
+		  <CityName>TXT_KEY_CITY_NAME_VIVALA_METIS_55</CityName>
+	  </Row>
+	  <Row>
+		  <CivilizationType>CIVILIZATION_VIVALA_METIS</CivilizationType>
+		  <CityName>TXT_KEY_CITY_NAME_VIVALA_METIS_56</CityName>
+	  </Row>
+	  <Row>
+		  <CivilizationType>CIVILIZATION_VIVALA_METIS</CivilizationType>
+		  <CityName>TXT_KEY_CITY_NAME_VIVALA_METIS_57</CityName>
+	  </Row>
+	  <Row>
+		  <CivilizationType>CIVILIZATION_VIVALA_METIS</CivilizationType>
+		  <CityName>TXT_KEY_CITY_NAME_VIVALA_METIS_58</CityName>
+	  </Row>
+	  <Row>
+		  <CivilizationType>CIVILIZATION_VIVALA_METIS</CivilizationType>
+		  <CityName>TXT_KEY_CITY_NAME_VIVALA_METIS_59</CityName>
+	  </Row>
+  </Civilization_CityNames>
+  <!-- Civilization_DisableTechs -->
+  <Civilization_FreeBuildingClasses>
+    <Row>
+      <CivilizationType>CIVILIZATION_VIVALA_METIS</CivilizationType>
+      <BuildingClassType>BUILDINGCLASS_PALACE</BuildingClassType>
+    </Row>
+  </Civilization_FreeBuildingClasses>
+  <Civilization_FreeTechs>
+    <Row>
+      <CivilizationType>CIVILIZATION_VIVALA_METIS</CivilizationType>
+      <TechType>TECH_AGRICULTURE</TechType>
+    </Row>
+  </Civilization_FreeTechs>
+  <Civilization_FreeUnits>
+    <Row>
+      <CivilizationType>CIVILIZATION_VIVALA_METIS</CivilizationType>
+      <UnitClassType>UNITCLASS_SETTLER</UnitClassType>
+      <UnitAIType>UNITAI_SETTLE</UnitAIType>
+      <Count>1</Count>
+    </Row>
+  </Civilization_FreeUnits>
+  <Civilization_Leaders>
+    <Row>
+      <CivilizationType>CIVILIZATION_VIVALA_METIS</CivilizationType>
+      <LeaderheadType>LEADER_VIVALA_LOUIS_RIEL</LeaderheadType>
+    </Row>
+  </Civilization_Leaders>
+  <Civilization_Religions>
+    <Row>
+      <CivilizationType>CIVILIZATION_VIVALA_METIS</CivilizationType>
+      <ReligionType>RELIGION_CHRISTIANITY</ReligionType>
+    </Row>
+  </Civilization_Religions>
+  <Civilization_SpyNames>
+    <Row>
+      <CivilizationType>CIVILIZATION_VIVALA_METIS</CivilizationType>
+      <SpyName>TXT_KEY_SPY_NAME_VIVALA_METIS_0</SpyName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_VIVALA_METIS</CivilizationType>
+      <SpyName>TXT_KEY_SPY_NAME_VIVALA_METIS_1</SpyName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_VIVALA_METIS</CivilizationType>
+      <SpyName>TXT_KEY_SPY_NAME_VIVALA_METIS_2</SpyName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_VIVALA_METIS</CivilizationType>
+      <SpyName>TXT_KEY_SPY_NAME_VIVALA_METIS_3</SpyName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_VIVALA_METIS</CivilizationType>
+      <SpyName>TXT_KEY_SPY_NAME_VIVALA_METIS_4</SpyName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_VIVALA_METIS</CivilizationType>
+      <SpyName>TXT_KEY_SPY_NAME_VIVALA_METIS_5</SpyName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_VIVALA_METIS</CivilizationType>
+      <SpyName>TXT_KEY_SPY_NAME_VIVALA_METIS_6</SpyName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_VIVALA_METIS</CivilizationType>
+      <SpyName>TXT_KEY_SPY_NAME_VIVALA_METIS_7</SpyName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_VIVALA_METIS</CivilizationType>
+      <SpyName>TXT_KEY_SPY_NAME_VIVALA_METIS_8</SpyName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_VIVALA_METIS</CivilizationType>
+      <SpyName>TXT_KEY_SPY_NAME_VIVALA_METIS_9</SpyName>
+    </Row>
+  </Civilization_SpyNames>
+  <Civilization_UnitClassOverrides>
+    <Row>
+      <CivilizationType>CIVILIZATION_VIVALA_METIS</CivilizationType>
+      <UnitClassType>UNITCLASS_MUSKETMAN</UnitClassType>
+      <UnitType>UNIT_VIVALA_COUREUR_DES_BOIS</UnitType>
+    </Row>
+  </Civilization_UnitClassOverrides>
+  <!-- Civilization_Start_Along_Ocean -->
+	<Civilization_Start_Along_River>
+		<Row>
+			<CivilizationType>CIVILIZATION_VIVALA_METIS</CivilizationType>
+			<StartAlongRiver>1</StartAlongRiver>
+		</Row>
+	</Civilization_Start_Along_River>
+  <Civilization_Start_Region_Priority>
+  </Civilization_Start_Region_Priority>
+  <!-- Civilization_Start_Region_Avoid -->
+  <!-- Civilization_Start_Place_First_Along_Ocean -->
+
+  <PlayerColors>
+    <Row>
+      <Type>PLAYERCOLOR_VIVALA_METIS</Type>
+      <PrimaryColor>COLOR_PLAYER_VIVALA_METIS_ICON</PrimaryColor>
+      <SecondaryColor>COLOR_PLAYER_VIVALA_METIS_BACKGROUND</SecondaryColor>
+      <TextColor>COLOR_PLAYER_WHITE_TEXT</TextColor>
+    </Row>
+  </PlayerColors>
+  <Colors>
+    <Row>
+      <Type>COLOR_PLAYER_VIVALA_METIS_ICON</Type>
+      <Red>0.3686</Red>
+      <Green>0.4078</Green>
+      <Blue>0.7843</Blue>
+      <Alpha>1.0</Alpha>
+    </Row>
+  </Colors>
+  <Colors>
+    <Row>
+      <Type>COLOR_PLAYER_VIVALA_METIS_BACKGROUND</Type>
+      <Red>0.5020</Red>
+      <Green>0.0</Green>
+      <Blue>0.0118</Blue>
+      <Alpha>1.0</Alpha>
+    </Row>
+  </Colors>
+
+  <Language_en_US>
+    <Row Tag="TXT_KEY_CIV_VIVALA_METIS_DESC">
+      <Text>Métis Empire</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CIV5_VIVALA_METIS_FACTOID_HEADING">
+      <Text>Factoids</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CIV5_VIVALA_METIS_FACTOID_TEXT">
+      <Text>The red Métis flag is the oldest flag made in Canada still in use today.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CIV5_VIVALA_METIS_HEADING_1">
+      <Text>History</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CIV5_VIVALA_METIS_HEADING_2">
+      <Text>Terrain and Climate</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CIV5_VIVALA_METIS_HEADING_3">
+      <Text>North American Fur Trade</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CIV5_VIVALA_METIS_HEADING_4">
+      <Text>Marriage à la Façon du Pays</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CIV5_VIVALA_METIS_HEADING_5">
+      <Text>The Red River Rebellion</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CIV5_VIVALA_METIS_HEADING_6">
+      <Text>The Northwest Rebellion</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CIV5_VIVALA_METIS_HEADING_7">
+      <Text>Métis Language</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CIV5_VIVALA_METIS_TEXT_1">
+      <Text>Descending from First Nations People and European fur traders, the Métis are a aboriginal people native to Canada and parts of the Northern United States. While they began as the descendents of Europeans and Natives, they developed a distinct culture and identity over the generations, and became some of the most renowned traders in the New World. After many political, and a few military, struggles, the Métis secured official recognition as one of Canada's three aboriginal groups, alongside the Inuit and First Nations.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CIV5_VIVALA_METIS_TEXT_2">
+      <Text>While the Métis live throughout most of Canada and parts of the United States, their homeland is generally considered to be in the prairie provinces of Manitoba, Saskatchewan, and Alberta, along with upper Montana, which contain a diverse set of terrain. This includes the vast Canadian prairie, woodlands, sprawling networks of rivers, the fertile lands around Lake Winnipeg, and the Canadian Shield.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CIV5_VIVALA_METIS_TEXT_3">
+      <Text>Aboriginal groups throughout Canada and the United States traded furs among each other for centuries before the arrival of the French in the 16th Century. France's (and by extention, Europe's) full involvement in the fur trade began with the founding of Quebec in 1608, which marked the beginning of a large, permanent presence and westward expansion by the French. By the mid 17th Century, the British had become a major rival to France, with the Dutch and Iroquois also playing a major role in the trade. Over a series of conflicts, the French would eventually lose their holdings in Canada, and competition over the fur trade in the region devolved to British trading companies, primarily the Hudson's Bay Company and the North West Company.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CIV5_VIVALA_METIS_TEXT_4">
+      <Text>European traders heavily relied on aboriginal people both to find the best sources of furs, and to survive in the Canadian wilderness. While trade began localized in the east, the Ojibwa people began acting as middlemen between the Europeans and the Cree and Assiniboine to the west. By the 19th Century, the Cree and Assiniboine acted as middlemen in an even greater trade network that stretched across North America. Fostering a good relationship between traders and native groups was key to maintaining an advantageous trade route, and nothing was more efective at forging relationships than the practice of marriage à la façon du pays. Meaning "marriage according to the custom of the country," it was a practice of marrying European fur traders to aboriginal (and later Métis) women in a ceremony that mixed indigenous and European traditions. The marriage was valuable to both parties: the man gained a dependable trade partner that gave him an edge over his rivals, and the woman gained an influential role as an intermediary between cultures.[NEWLINE][NEWLINE]From these marriages came the Métis people. What started as a loose scattering of mixed-race aboriginals grew into settlements with a unique culture bearing some of the strongest elements from their parents. From the First Nations, the Métis inherited excellent navigational and survival skills and a strong knowledge of the land. From the Europeans they inherited strong connections to the influential French Catholic social and economic networks. These traits led the Métis to become some of the most important actors in the fur trade, as hunters, traders, and intermediaries.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CIV5_VIVALA_METIS_TEXT_5">
+      <Text>The Red River Colony, located in modern-day Manitoba and historically part of Rupert's Land, was primarily populated by francophone Métis, and was home to some of the largest Métis settlements of the time. However, the demographics of the colony were rapidly changing. As Canada hurdled towards confederation, many anglophone Protestants moved to the region. Unlike previous settlers, they were hostile to Métis culture- especially to Catholicism. As tensions between the newer settlers and the Métis grew, the newly-formed Canadian government moved to purchase Rupert's Land. Once it did purchase the land, it assigned William McDougall as governor, a man infamous for his anti-French views whom the Métis opposed. Before officially transferring the land to Canada, McDougall sent a team of surveyors to plot the land. Fearing Rupert's Land would be placed under anti-French policies if annexed, the Métis, under the leadership of Louis Riel, prevented McDougall and his survey from entering the Red River Colony. The Métis then formed a provisional government, comprised of equal parts francophones and anglophones to run the colony and negotiate with Canada.[NEWLINE][NEWLINE]The standoff between the Métis provisional government and Canada was tense, but it was ultimately resolved with minimal bloodshed (the only casualty was a Canadian loyalist executed for attempting to assassiniate Riel). Negotiations resulted in the passage of the Manitoba Act, which admitted the Red River Colony into the Confederation as the Province of Manitoba. A number of provisions, as demanded by Riel, were incorporated into the act, including separate French schooling for Métis children, and protections for Catholics.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CIV5_VIVALA_METIS_TEXT_6">
+      <Text>The Red River Rebellion was not the end of conflict between the Métis and the Canadian government. By 1885, it was clear to many Métis, Cree, and Assiniboine that the Canada was failing to protect aboriginal rights, was continuing to encroach on their land, and had little interest in their survival. Hoping to negotiate a new agreement, as they had in the Red River Rebellion, the Métis invited Louis Riel back from exile to lead them. It has been debated just how much Riel attempted diplomacy, but soon, whether it be out of desperation or passion, Riel declared Saskatchewan to be an independent state led by a new French-speaking Métis government. This time, the rebellion did turn into a military conflict. While the Métis had a smaller, less experienced army, they had the advantage of knowing the land, and the Canadians had to transport troops thousands of miles to reach Saskatchewan. However, any advantage the Métis would have gained from the distance was lost due to the use of the newly-built Canadian Pacific Railway. The railway was rugged and even incomplete in places, but it ultimately cut what could have been a weeks-long journey down to nine days. After a couple hundred casualties on both sides, Canada was able to capture the Métis capital at Batoche, putting an end to the rebellion.[NEWLINE][NEWLINE]While the North-West Rebellion only involved a small territory and a few people, its repercussions are still felt in Canada today. The Métis' defeat ensured that English-speakers, not French, would dominate the Prairie Provinces going forward. Canada's military action and execution of Riel also helped deepen the animosity francophones and aboriginals felt towards the anglophones. Riel's death in particular inspired Métis activists for generations, which helped the Métis ensure their recognition as one of Canada's major aboriginal groups.</Text>
+    </Row>
+	  <Row Tag="TXT_KEY_CIV5_VIVALA_METIS_TEXT_7">
+		  <Text>While today most Métis speak French, with Englih as a second language, language was much less consistent among the Métis in the past. Many spoke aboriginal languages and were literate in French and English. Some French Métis spoke a unique dialect of French, while some Anglo-Métis spoke a creole that mixed English, aboriginal languages, and Gaelic. However, the most unique element of Métis language is Michif, a wholly new language constructed from Cree, Ojibwa, and French nouns. Unlike most mixed languages, which tend to simplify the grammar of their parent languages, Michif embraces complex elements from its roots, such as French genders and polysynthetic Cree verbs. There are less than 1000 speakers of Michif today, but many Métis communities still teach it as a means of preserving their culture.</Text>
+	  </Row>
+    <Row Tag="TXT_KEY_CIV5_VIVALA_METIS_TITLE">
+      <Text>The Métis</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CIV_VIVALA_METIS_SHORT_DESC">
+      <Text>The Métis</Text>
+      <Plurality>2</Plurality>
+    </Row>
+    <Row Tag="TXT_KEY_CIV_VIVALA_METIS_ADJECTIVE">
+      <Text>Métis</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CIV5_DAWN_VIVALA_METIS_TEXT">
+      <Text>Greetings, Louis Riel, father of Manitoba and leader of the Métis. Your people emerged from the collision of two worlds, granting you a wholly new spirit of strength and ingenuity. With that spirit, your people spread across the breathtaking North American wilderness, and helped build a trade network that stretched from sea to shining sea. As your Old World predecessors turned to conquer Métis lands, you, Louis Riel, rose to defend them by pen and sword not once, but twice. While you met your end at the conclusion of your second rebellion, your sacrifice inspired others to champion the rights of the Métis and the First Nations for generations.[NEWLINE][NEWLINE]The Métis are blessed with the culture of two worlds. Now they require a leader to push them beyond the greatness of their ancestors. Louis Riel, will you once more fight for the legacy of your people? Will you build a civilization that will stand the test of time?</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_VIVALA_METIS_0">
+      <Text>Batoche</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_VIVALA_METIS_1">
+      <Text>Winnipeg</Text>
+    </Row>
+	  <Row Tag="TXT_KEY_CITY_NAME_VIVALA_METIS_2">
+		  <Text>Saskatoon</Text>
+	  </Row>
+	  <Row Tag="TXT_KEY_CITY_NAME_VIVALA_METIS_3">
+		  <Text>Fort-des-Prairies</Text>
+	  </Row>
+	  <Row Tag="TXT_KEY_CITY_NAME_VIVALA_METIS_4">
+		  <Text>St. Boniface</Text>
+	  </Row>
+	  <Row Tag="TXT_KEY_CITY_NAME_VIVALA_METIS_5">
+		  <Text>Prince Albert</Text>
+	  </Row>
+	  <Row Tag="TXT_KEY_CITY_NAME_VIVALA_METIS_6">
+		  <Text>Battleford</Text>
+	  </Row>
+	  <Row Tag="TXT_KEY_CITY_NAME_VIVALA_METIS_7">
+		  <Text>La Baye</Text>
+	  </Row>
+	  <Row Tag="TXT_KEY_CITY_NAME_VIVALA_METIS_8">
+		  <Text>Portage la Prairie</Text>
+	  </Row>
+	  <Row Tag="TXT_KEY_CITY_NAME_VIVALA_METIS_9">
+		  <Text>Fort St. John</Text>
+	  </Row>
+	  <Row Tag="TXT_KEY_CITY_NAME_VIVALA_METIS_10">
+		  <Text>Bas de la Rivière</Text>
+	  </Row>
+	  <Row Tag="TXT_KEY_CITY_NAME_VIVALA_METIS_11">
+		  <Text>Kenora</Text>
+	  </Row>
+	  <Row Tag="TXT_KEY_CITY_NAME_VIVALA_METIS_12">
+		  <Text>Humboldt</Text>
+	  </Row>
+	  <Row Tag="TXT_KEY_CITY_NAME_VIVALA_METIS_13">
+		  <Text>Devils Lake</Text>
+	  </Row>
+	  <Row Tag="TXT_KEY_CITY_NAME_VIVALA_METIS_14">
+		  <Text>St. Albert</Text>
+	  </Row>
+	  <Row Tag="TXT_KEY_CITY_NAME_VIVALA_METIS_15">
+		  <Text>Sault Ste. Marie</Text>
+	  </Row>
+	  <Row Tag="TXT_KEY_CITY_NAME_VIVALA_METIS_16">
+		  <Text>St. Laurent</Text>
+	  </Row>
+	  <Row Tag="TXT_KEY_CITY_NAME_VIVALA_METIS_17">
+		  <Text>Fort Pitt</Text>
+	  </Row>
+	  <Row Tag="TXT_KEY_CITY_NAME_VIVALA_METIS_18">
+		  <Text>Île-à-la-Crosse</Text>
+	  </Row>
+	  <Row Tag="TXT_KEY_CITY_NAME_VIVALA_METIS_19">
+		  <Text>Fort Garry</Text>
+	  </Row>
+	  <Row Tag="TXT_KEY_CITY_NAME_VIVALA_METIS_20">
+		  <Text>Fort Livingstone</Text>
+	  </Row>
+	  <Row Tag="TXT_KEY_CITY_NAME_VIVALA_METIS_21">
+		  <Text>Chipewyan</Text>
+	  </Row>
+	  <Row Tag="TXT_KEY_CITY_NAME_VIVALA_METIS_22">
+		  <Text>Mackinac</Text>
+	  </Row>
+	  <Row Tag="TXT_KEY_CITY_NAME_VIVALA_METIS_23">
+		  <Text>Timiskaming</Text>
+	  </Row>
+	  <Row Tag="TXT_KEY_CITY_NAME_VIVALA_METIS_24">
+		  <Text>Pembina</Text>
+	  </Row>
+	  <Row Tag="TXT_KEY_CITY_NAME_VIVALA_METIS_25">
+		  <Text>St. Louis de Langevin</Text>
+	  </Row>
+	  <Row Tag="TXT_KEY_CITY_NAME_VIVALA_METIS_26">
+		  <Text>Green Lake</Text>
+	  </Row>
+	  <Row Tag="TXT_KEY_CITY_NAME_VIVALA_METIS_27">
+		  <Text>St. Paul de Métis</Text>
+	  </Row>
+	  <Row Tag="TXT_KEY_CITY_NAME_VIVALA_METIS_28">
+		  <Text>Cumberland</Text>
+	  </Row>
+	  <Row Tag="TXT_KEY_CITY_NAME_VIVALA_METIS_29">
+		  <Text>Gibiraltar</Text>
+	  </Row>
+	  <Row Tag="TXT_KEY_CITY_NAME_VIVALA_METIS_30">
+		  <Text>Lac La Biche</Text>
+	  </Row>
+	  <Row Tag="TXT_KEY_CITY_NAME_VIVALA_METIS_31">
+		  <Text>Kikino</Text>
+	  </Row>
+	  <Row Tag="TXT_KEY_CITY_NAME_VIVALA_METIS_32">
+		  <Text>Buffalo Lake</Text>
+	  </Row>
+	  <Row Tag="TXT_KEY_CITY_NAME_VIVALA_METIS_33">
+		  <Text>Gift Lake</Text>
+	  </Row>
+	  <Row Tag="TXT_KEY_CITY_NAME_VIVALA_METIS_34">
+		  <Text>Elizabeth</Text>
+	  </Row>
+	  <Row Tag="TXT_KEY_CITY_NAME_VIVALA_METIS_35">
+		  <Text>Peavine</Text>
+	  </Row>
+	  <Row Tag="TXT_KEY_CITY_NAME_VIVALA_METIS_36">
+		  <Text>Paddle Prairie</Text>
+	  </Row>
+	  <Row Tag="TXT_KEY_CITY_NAME_VIVALA_METIS_37">
+		  <Text>Fishing Lake</Text>
+	  </Row>
+	  <Row Tag="TXT_KEY_CITY_NAME_VIVALA_METIS_38">
+		  <Text>East Prairie</Text>
+	  </Row>
+	  <Row Tag="TXT_KEY_CITY_NAME_VIVALA_METIS_39">
+		  <Text>Chapleau</Text>
+	  </Row>
+	  <Row Tag="TXT_KEY_CITY_NAME_VIVALA_METIS_40">
+		  <Text>Mattawa</Text>
+	  </Row>
+	  <Row Tag="TXT_KEY_CITY_NAME_VIVALA_METIS_41">
+		  <Text>The Pas</Text>
+	  </Row>
+	  <Row Tag="TXT_KEY_CITY_NAME_VIVALA_METIS_42">
+		  <Text>Grand Rapids</Text>
+	  </Row>
+	  <Row Tag="TXT_KEY_CITY_NAME_VIVALA_METIS_43">
+		  <Text>Fort Carlton</Text>
+	  </Row>
+	  <Row Tag="TXT_KEY_CITY_NAME_VIVALA_METIS_44">
+		  <Text>Fort á la Corne</Text>
+	  </Row>
+	  <Row Tag="TXT_KEY_CITY_NAME_VIVALA_METIS_45">
+		  <Text>Lac Ste. Anne</Text>
+	  </Row>
+	  <Row Tag="TXT_KEY_CITY_NAME_VIVALA_METIS_46">
+		  <Text>La Ronge</Text>
+	  </Row>
+	  <Row Tag="TXT_KEY_CITY_NAME_VIVALA_METIS_47">
+		  <Text>Flathead</Text>
+	  </Row>
+	  <Row Tag="TXT_KEY_CITY_NAME_VIVALA_METIS_48">
+		  <Text>Fish Creek</Text>
+	  </Row>
+	  <Row Tag="TXT_KEY_CITY_NAME_VIVALA_METIS_49">
+		  <Text>Duck Lake</Text>
+	  </Row>
+	  <Row Tag="TXT_KEY_CITY_NAME_VIVALA_METIS_50">
+		  <Text>Red Deer Lake</Text>
+	  </Row>
+	  <Row Tag="TXT_KEY_CITY_NAME_VIVALA_METIS_51">
+		  <Text>Nut Lake</Text>
+	  </Row>
+	  <Row Tag="TXT_KEY_CITY_NAME_VIVALA_METIS_52">
+		  <Text>Frog Lake</Text>
+	  </Row>
+	  <Row Tag="TXT_KEY_CITY_NAME_VIVALA_METIS_53">
+		  <Text>Onion Lake</Text>
+	  </Row>
+	  <Row Tag="TXT_KEY_CITY_NAME_VIVALA_METIS_54">
+		  <Text>Cold Lake</Text>
+	  </Row>
+	  <Row Tag="TXT_KEY_CITY_NAME_VIVALA_METIS_55">
+		  <Text>Birch River</Text>
+	  </Row>
+	  <Row Tag="TXT_KEY_CITY_NAME_VIVALA_METIS_56">
+		  <Text>Clarke's Crossing</Text>
+	  </Row>
+	  <Row Tag="TXT_KEY_CITY_NAME_VIVALA_METIS_57">
+		  <Text>Shell River</Text>
+	  </Row>
+	  <Row Tag="TXT_KEY_CITY_NAME_VIVALA_METIS_58">
+		  <Text>Snake Plains</Text>
+	  </Row>
+	  <Row Tag="TXT_KEY_CITY_NAME_VIVALA_METIS_59">
+		  <Text>Birch Plains</Text>
+	  </Row>
+    <Row Tag="TXT_KEY_SPY_NAME_VIVALA_METIS_0">
+      <Text>Dumont</Text>
+    </Row>
+    <Row Tag="TXT_KEY_SPY_NAME_VIVALA_METIS_1">
+      <Text>Bellehumeur</Text>
+      <Gender>feminine</Gender>
+    </Row>
+    <Row Tag="TXT_KEY_SPY_NAME_VIVALA_METIS_2">
+      <Text>Pierre</Text>
+    </Row>
+    <Row Tag="TXT_KEY_SPY_NAME_VIVALA_METIS_3">
+      <Text>Julie</Text>
+      <Gender>feminine</Gender>
+    </Row>
+    <Row Tag="TXT_KEY_SPY_NAME_VIVALA_METIS_4">
+      <Text>Ambroise</Text>
+    </Row>
+    <Row Tag="TXT_KEY_SPY_NAME_VIVALA_METIS_5">
+      <Text>Angélique</Text>
+      <Gender>feminine</Gender>
+    </Row>
+    <Row Tag="TXT_KEY_SPY_NAME_VIVALA_METIS_6">
+      <Text>John Bruce</Text>
+    </Row>
+    <Row Tag="TXT_KEY_SPY_NAME_VIVALA_METIS_7">
+      <Text>Honoré</Text>
+    </Row>
+    <Row Tag="TXT_KEY_SPY_NAME_VIVALA_METIS_8">
+      <Text>Gabriel</Text>
+    </Row>
+    <Row Tag="TXT_KEY_SPY_NAME_VIVALA_METIS_9">
+      <Text>Jean-Louis</Text>
+    </Row>
+  </Language_en_US>
+</GameData>

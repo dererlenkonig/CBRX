@@ -1,0 +1,406 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 7/1/2015 2:22:44 PM -->
+<GameData>
+	<Language_en_US>
+		
+	<!-- Cities-->
+	
+		<Row Tag="TXT_KEY_CITY_CZECH_1">
+			<Text>Prague</Text>
+		</Row>
+		
+		<Row Tag="TXT_KEY_CITY_CZECH_2">
+			<Text>Brno</Text>
+		</Row>
+		
+		<Row Tag="TXT_KEY_CITY_CZECH_3">
+			<Text>Ostrava</Text>
+		</Row>
+		
+		<Row Tag="TXT_KEY_CITY_CZECH_4">
+			<Text>Plzen</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_CITY_CZECH_5">
+			<Text>Liberec</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_CITY_CZECH_6">
+			<Text>Ceský Krumlov</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_CITY_CZECH_7">
+			<Text>Olomouc</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_CITY_CZECH_8">
+			<Text>Ústí nad Labem</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_CITY_CZECH_9">
+			<Text>Ceské Budejovice</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_CITY_CZECH_10">
+			<Text>Hradec Králové</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_CITY_CZECH_11">
+			<Text>Pardubice</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_CITY_CZECH_12">
+			<Text>Zlín</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_CITY_CZECH_13">
+			<Text>Pisek</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_CITY_CZECH_14">
+			<Text>Kutná Hora</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_CITY_CZECH_15">
+			<Text>Havířov</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_CITY_CZECH_16">
+			<Text>Kladno</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_CITY_CZECH_17">
+			<Text>Most</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_CITY_CZECH_18">
+			<Text>Karlovy Vary</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_CITY_CZECH_19">
+			<Text>Opava</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_CITY_CZECH_20">
+			<Text>Frýdek-Místek</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_CITY_CZECH_21">
+			<Text>Karviná</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_CITY_CZECH_22">
+			<Text>Jihlava</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_CITY_CZECH_23">
+			<Text>Decín</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_CITY_CZECH_24">
+			<Text>Teplice</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_CITY_CZECH_25">
+			<Text>Přerov</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_CITY_CZECH_26">
+			<Text>Chomutov</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_CITY_CZECH_27">
+			<Text>Jablonec nad Nisou</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_CITY_CZECH_28">
+			<Text>Mladá Boleslav</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_CITY_CZECH_29">
+			<Text>Tábor</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_CITY_CZECH_30">
+			<Text>Prostejov</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_CITY_CZECH_31">
+			<Text>Cheb</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_CITY_CZECH_32">
+			<Text>Klatovy</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_CITY_CZECH_33">
+			<Text>Sumperk</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_CITY_CZECH_34">
+			<Text>Kromeříz</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_CITY_CZECH_35">
+			<Text>Hodonín</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_CITY_CZECH_36">
+			<Text>Příbram</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_CITY_CZECH_37">
+			<Text>Kolín</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_CITY_CZECH_38">
+			<Text>Mikulov</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_CITY_CZECH_39">
+			<Text>Telc</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_CITY_CZECH_40">
+			<Text>Hranice</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_CITY_CZECH_41">
+			<Text>Krnov</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_CITY_CZECH_42">
+			<Text>Uherské Hradiste</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_CITY_CZECH_43">
+			<Text>Rokycany</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_CITY_CZECH_44">
+			<Text>Znojmo</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_CITY_CZECH_45">
+			<Text>Benesov</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_CITY_CZECH_46">
+			<Text>Mariánské Lázne</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_CITY_CZECH_47">
+			<Text>Strakonice</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_CITY_CZECH_48">
+			<Text>Lednice</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_CITY_CZECH_49">
+			<Text>Nový Jicín</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_CITY_CZECH_50">
+			<Text>Vyskov</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_CITY_CZECH_51">
+			<Text>Blansko</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_CITY_CZECH_52">
+			<Text>Havlíckuv Brod</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_CITY_CZECH_53">
+			<Text>Melník</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_CITY_CZECH_54">
+			<Text>Chrudim</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_CITY_CZECH_55">
+			<Text>Ceský Tesín</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_CITY_CZECH_56">
+			<Text>Pelhřimov</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_CITY_CZECH_57">
+			<Text>Ceská Lípa</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_CITY_CZECH_58">
+			<Text>Vsetín</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_CITY_CZECH_59">
+			<Text>Zd'ár nad Sázavou</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_CITY_CZECH_60">
+			<Text>Břeclav</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_CITY_CZECH_61">
+			<Text>Svitavy</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_CITY_CZECH_62">
+			<Text>Ústí nad Orlicí</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_CITY_CZECH_63">
+			<Text>Litomysl</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_CITY_CZECH_64">
+			<Text>Trutnov</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_CITY_CZECH_65">
+			<Text>Náchod</Text>
+		</Row>
+			<!--Telc is dupcliated, find replacement -->
+		<Row Tag="TXT_KEY_CITY_CZECH_66">
+			<Text>Spindleruv Mlýn</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_CITY_CZECH_67">
+			<Text>Nepomuk</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_CITY_CZECH_68">
+			<Text>Hrádecek</Text>
+		</Row>
+		
+		
+		
+		
+		
+	<!--?********************************DIVIDER************************************************************************-->	
+	<!--Spies-->
+		<Row Tag="TXT_KEY_SPY_NAME_CZECH_">
+			<Text>Jan</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_CZECH_1">
+			<Text>Jana</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_CZECH_2">
+			<Text>Oskar</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_CZECH_3">
+			<Text>Anna</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_CZECH_4">
+			<Text>Bruno</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_CZECH_5">
+			<Text>Jaromir</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_CZECH_6">
+			<Text>Mikolas</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_CZECH_7">
+			<Text>Monika</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_CZECH_8">
+			<Text>Zuzana</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_CZECH_9">
+			<Text>David</Text>
+		</Row>
+		
+		
+	<!-- Civ Info Text-->
+		
+		<Row Tag="TXT_KEY_CIV_CZECH_ADJECTIVE">
+			<Text>Czech</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_CZECH_DESC">
+			<Text>Czechia</Text>
+		</Row>
+		
+		<Row Tag="TXT_KEY_CIV_CZECH_SHORT_DESC">
+			<Text>Czechia</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_CZECH_TEXT_1">
+			<Text>Officially becoming its own nation on the first day of 1993, the Czech Republic represented the beginning of an age old dream of the Czech people: freedom. Descending from the ever resilient Bohemian and Moravian peoples, their sovereignty was a direct challenge to the Holy Roman Empire. However, over the centuries, subjugation would come from all fronts: The Austrian Empire, Nazi Germany, and the Soviet Union until eventual independence would be found.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_CZECH_TEXT_DOM">
+			<Text>Ahoj oh great Vaclav Havel; poet, statesman, and playwright! Born a man of great education, you chose the path of the arts and lived in the world of theater until foreign oppression would force you from your lifestyle. Marked a dissident by a government that didn't want you, you rose up for your people in a time where they were not represented. Always a fighter of freedom, your opposition to unjust imprisonment often led to your own imprisonment, but this did not stop you from becoming the last president of Czechoslovakia. Using your eloquence and intellect, it was you who lead the Czech people into sovereignty, and it was you whom they chose to become the first President of the Czech Republic! The Czech people call on you once more; will you build a civilization that will stand the test of time?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_VACLAV_HEADING_1">
+			<Text>Serving as the last president of Czechoslovakia (1989-1992) and then the first president of the Czech Republic (1993-2003), Vaclav Havel was an accomplished statesman, poet, playwright, and leader. Starting his early life in the world of Absurdist Theater, the Soviet occupation of Czechoslovakia would lead his station on government blacklists and prompting him to become more politically active. His dissident activities would lead to the secret police to track him for nearly four years, but as he was fond of saying, the Truth Prevails. </Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_VACLAV_TEXT_1">
+			<Text>As the first president of the Czech Republic, Vaclav Havel led with an anti-consumerist humanitarian agenda. More focused on the well-being of his people than bringing his nation to global prominence, he brought the nation from the brink of collapse to a stable and flourishing country. Earning himself many peace awards, his true accomplishment was creating a nation from a land that hadn't been free for centuries.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_VACLAV_LIVED">
+			<Text>1936 - 2011</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_VACLAV_NAME">
+			<Text>Vaclav Havel</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_VACLAV_SUBTITLE">
+			<Text>First President of the Czech Republic</Text>
+		</Row>
+		
+		<Row Tag="TXT_KEY_LEADER_VACLAV_CZECHREPUBLIC">
+			<Text>Vaclav Havel</Text>
+		</Row>
+	
+	<!-- UA: Truth Prevails-->
+	
+		<Row Tag="TXT_KEY_TRAIT_TRUTH_PREVAILS">
+			<Text>+2 [ICON_RESEARCH] science for all Engineer specialists and Manufactories. +2 [ICON_PRODUCTION] production for all Scientist specialists and Academies.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_TRUTH_PREVAILS_SHORT">
+			<Text>Truth Prevails</Text>
+		</Row>
+		
+	<!-- Pivovar Text-->
+	
+		<Row Tag="TXT_KEY_BUILDING_PIVOVAR_DESC">
+			<Text>Pivovar</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_BUILDINGS_PIVOVAR_TEXT">
+			<Text>
+				The Pivovar is a Czech Brewery. The Czechs have a long history of the brewing of beers from Pilsners to Lagers. The Pivoar provides +1 [ICON_GOLD] Gold and + 2 [ICON_FOOD] Food along with the Market's usual bonuses. +15% [ICON_GREAT_PEOPLE] Great People generation in the city it was built. Does NOT contain Merchant Specialist Slots.
+				[NEWLINE]Trade routes other players make to the city with a Pivovar will generate an extra 1 [icon] Gold for the city owner and the trade route owner gains an additional 1 [icon] Gold for the trade route.
+				<!--[NEWLINE]Gains +1 [ICON_FOOD] Food after discovering Refrigeration.-->
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_PIVOVAR_STRATEGY">
+			<Text>
+				The Pivovar is the Czech unique building, replacing the Market. The Pivoar provides +1 [ICON_GOLD] Gold and + 2 [ICON_FOOD] Food along with the Market's usual bonuses. +15% [ICON_GREAT_PEOPLE] Great People generation in the city it was built. Does NOT contain Merchant Specialist Slots.
+				[NEWLINE]Trade routes other players make to the city with a Pivovar will generate an extra 1 [icon] Gold for the city owner and the trade route owner gains an additional 1 [icon] Gold for the trade route.
+				<!--[NEWLINE]Gains +1 [ICON_FOOD] Food after discovering Refrigeration.--></Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_PIVOVAR_HELP">
+			<Text>
+				The Pivoar provides +1 [ICON_GOLD] Gold and + 2 [ICON_FOOD] Food along with the Market's usual bonuses. +15% [ICON_GREAT_PEOPLE] Great People generation in the city it was built. Does NOT contain Merchant Specialist Slots.
+				[NEWLINE]Trade routes other players make to the city with a Pivovar will generate an extra 1 [icon] Gold for the city owner and the trade route owner gains an additional 1 [icon] Gold for the trade route.
+				<!--[NEWLINE]Gains +1 [ICON_FOOD] Food after discovering Refrigeration.--></Text>
+		</Row>
+		
+		<!-- Vysadkar Text-->
+
+		<Row Tag="TXT_KEY_UNIT_PARACZECH">
+			<Text>Vysadkar</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_UNIT_PARACZECH_TEXT">
+			<Text>Vysadkar</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_PARACZECH_STRATEGY">
+			<Text>The Vysadkar is the Czech Unique Paratrooper. They have 5 more combat strength than the Paratrooper they replace, putting them equal to Infantry. They also start with Survivalism I.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_HELP_PARACZECH">
+			<Text>Vysadkar are Czech Unique Paratroopers with Paradrop, Survivalism I, and +5 Combat Strength.</Text>
+		</Row>
+
+	</Language_en_US>
+</GameData>

@@ -1,0 +1,763 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by Tomatekh-->
+<GameData>
+	<Language_PL_PL>
+		<!-- -->
+		<Row Tag="TXT_KEY_TRAIT_OLD_MAN_ABOVE_PP_MOD_SHORT">
+			<Text>Place of Origins</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_OLD_MAN_ABOVE_PP_MOD">
+			<Text>Building an Effigy Mound allows you to change Spirit Guardians, each providing a unique bonus effect. Receive a free Fox-Man when you discover Trapping (this Unit may not be used to found a Religion or build a Holy Site).</Text>
+		</Row>
+		<!-- -->
+		<Row Tag="TXT_KEY_DAWN_OF_MAN_POVERTY_POINT_MOD_TEXT">
+			<Text>Humble mother, blessed ancestor and leader of Poverty Point, your children come to seek your wisdom and guidance. The most developed site of North America's Archaic period, Poverty Point continued a tradition of earthworks first seen almost two millennia earlier at Watson Brake. Their great mounds and carved artifacts stand as testaments to the complexity and ingenuity of pre-Columbian America, and Poverty Point's extensive communication and trade networks helped establish the mound building tradition throughout the Eastern United States. The rise of horticulture would ultimately usher in the Woodland Period and Poverty Point's decline, but it would be centuries before the Mississippi basin would again see Poverty Point's level of complexity.[NEWLINE][NEWLINE]Táhera, your children have long since been forgotten and their great mounds ploughed into farmland. Yet, it is time to return, to once again raise the earth, and ask the Old Man Above for his blessing. Can you revive your ancient people? Can you build a civilization that will stand the test of time?</Text>
+		</Row>
+		<!-- -->
+		<Row Tag="TXT_KEY_LEADER_POVERTY_POINT_MOD_FIRST_GREETING_1">
+			<Text>Greetings, traveler! I am Táhera, leader of Poverty Point. Have you come to trade goods or aid in the construction of the great mound?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_POVERTY_POINT_MOD_FIRST_GREETING_2">
+			<Text>Sehi lapu and welcome! I am Táhera, chief of Poverty Point. Many visit these lands to trade and worship at the great mound.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_POVERTY_POINT_MOD_DEFEATED_1">
+			<Text>You have accomplished a great wrong today. Many relied on us for trade and many more will fail without our support.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_POVERTY_POINT_MOD_DEFEATED_2">
+			<Text>To destroy our great mound... How could you commit such an act? Do you have no respect for this land?</Text>
+		</Row>
+		<!-- -->
+		<Row Tag="TXT_KEY_LEADER_POVERTY_POINT_MOD_DESC">
+			<Text>Táhera</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_POVERTY_POINT_MOD_LIVED">
+			<Text>ca. 1450 BC</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_POVERTY_POINT_MOD_NAME">
+			<Text>Táhera</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_POVERTY_POINT_MOD_SUBTITLE">
+			<Text>Leader of Poverty Point</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_POVERTY_POINT_MOD_TITLES_1">
+			<Text>Mother</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_POVERTY_POINT_MOD_HEADING_1">
+			<Text>History</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_POVERTY_POINT_MOD_TEXT_1">
+			<Text>As a pre-Columbian society lacking writing, little is directly known about Poverty Point government. However, archeological surveys have provided a wealth of information regarding daily life during the Archaic period and much can be learned by studying leadership models and settlement patterns among subsequent mound builder cultures. "Táhera" does not refer to a specific individual but is rather a Tunica term meaning "watchman" or "overseer;" residents of Poverty Point are thought to have spoken a form of proto-Tunica. Táhera is also linguistically related to "certepe," the Calusa title for paramount chief.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_POVERTY_POINT_MOD_HEADING_2">
+			<Text>Poverty Point Hierarchy</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_POVERTY_POINT_MOD_TEXT_2">
+			<Text>The relationship of Poverty Point to the mid-Archaic mound tradition, such as at Watson Brake ca. 3500 BC, is uncertain but provocative. Although the Watson Brake culture remained largely isolated, it is possible that the entire landscape of mid-Archaic mound sites fit into a regional pattern of alignment and were planed constructions. Emerging around ca. 1650 BC and developing over several ensuing centuries, the Poverty Point culture involved unprecedented levels of mound construction and interregional exchange centered on the type site, Poverty Point; a complex of nearly one million cubic yards of mounded earth in six nested, elliptical half rings, two massive bird shaped effigies, and a few conical and flat topped mounds. Other settlements of Poverty Point affiliation were distributed across as 700 square mile area centered on the type site, with more distant communities participating through exchange with core groups.[NEWLINE][NEWLINE]Resident population size and sociopolitical complexity are debated aspects of Poverty Point culture. Clearly an earth-moving project of this magnitude and sophistication, no matter how protracted over time, required not only a large pool of labor, but also formal orchestration. Scholars have suggested that Poverty Point was home to thousands of people, whose houses were distributed along each of the six nested ridges. Unfortunately, evidence for domestic architecture along ridges is cryptic at best, although midden accumulation at the site is sufficiently large to support an argument for repeated episodes of large scale aggregation, if not continuous occupation.[NEWLINE][NEWLINE]Raw materials imported from as far away as the Great Lakes and the Appalachians, while impressive in volume and diversity, were often used to make mundane items: soapstone for cooking vessels; granite, basalt, and greenstone for celts; hematite and magnetite for plummets; and various cherts for projectiles and cutting tools, to name a few. Coupled with the ubiquitous baked clay objects, hearths, pits, and midden accumulation, the inventory of subsistence technology strongly suggests that Poverty Point was a place of residence, but direct evidence for permanent residence still remains elusive.[NEWLINE][NEWLINE]The regional integration of Poverty Point culture is likewise uncertain. Obviously, members of local populations were well connected to the outside world through trading partnerships stretching vast distances in virtually all directions. Communities in a 700 square mile area centered on the type site shared many of the distinctively Poverty Point traits, yet the degree of similarity is not simply a function of distance from the core locale. This suggests that communities were economically and politically autonomous. Although Poverty Point was once argued to be the earliest chiefdom to emerge in the North American continent, most scholars no longer subscribe to the chiefdom model of regional hierarchy, suggesting instead that Poverty Point culture was foremost a shared belief system, organized at a corporate level for public works and ritual, but underwritten by an egalitarian ethos.[NEWLINE][NEWLINE]That population that built, occupied, and visited Poverty Point may have consisted of small-scale corporate groups whose internal sociality was based on principles of egalitarianism, but it is hard to defend the position that such constituent units were not ranked relative to one another. Poverty Point was a place of pilgrimage, and it drew from a pool of congregants with different histories, experiences, and know-how. People repeatedly traveled to Poverty Point from faraway places, bringing with them local materials that were left at the site or distributed locally. And they seem to have returned to their home lands with only ideas, as few of the material and objects entering the greater Poverty Point area appear to have left. In a sense, Poverty Point may have been the place of origin for all those who visited, but it is unlikely that all such persons could claim equal status. As in the origins myths of hunter-gatherers elsewhere, the sequential creations of different types of people are the rationale for ranking among the living.[NEWLINE][NEWLINE]Geometric patterning among Archaic mounds, including those of Poverty Point, is an archaeological fact whose significance lies not so much in the labor needed to erect them, but in the ideas, needed to conceive of them. Arguably similar in the function to diagrammatic mound centers of Mississippian society, Archaic mound complexes may have served as sociograms, locations at which public architecture was deliberated arranged in such a manner as to evoke and reinforce key social distinctions. The central spaces or plazas created by the circular or elliptical arrangement of mounds may have been especially significant in reproducing hierarchy.[NEWLINE][NEWLINE]The Archaic mound building tradition should be noted for embodying the root metaphors for hierarchal structures later seen in the Woodland and Mississippian traditions. It is important to separate the act of mound building from the activities taking place on mounds. The platform mounds of Mississippian chiefdoms were platforms for the buildings of the elite and access to them was limited; they were explicitly about social differentiation. Similar constructions of the Middle Woodland period were locations of feasts and mortuary ritual, actions arguably serving to integrate, rather than to differentiate, social identities. There is currently very little data on the activities taking place at Archaic mound complexes, but, given the absence of platform constructions, they were likely not used as ritual surfaces or residences per se. Thus, each of the major mound building traditions involve different types of actives and most likely different structural relationships among mounds, ritual actions, and routine practice.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_POVERTY_POINT_MOD_HEADING_3">
+			<Text>Verdict of History</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_POVERTY_POINT_MOD_TEXT_3">
+			<Text>Due to the lack of a historical record, it is not possible to properly asses Poverty Point leadership. However, Poverty Point is now understood as an independent outstanding cultural development that ranks alongside similar sites in Central and South America. Poverty Point complexes display several key features of social advancement including monumental architecture exhibiting solar orientation, public spaces servicing a broad ritual network, and an advanced tool industry. Both environmental conditions and cultural processes posited for this autonomous creation and seem to have been closely interrelated within Poverty Point culture.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_POVERTY_POINT_MOD_HEADING_4">
+			<Text>Factoid</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_POVERTY_POINT_MOD_TEXT_4">
+			<Text>Later cultures of the American Southeast, many of which are culturally descended from Poverty Point, followed a matrilocal residence pattern with authority passing down through female lineage.</Text>
+		</Row>
+		<!-- -->
+		<Row Tag="TXT_KEY_POVERTY_POINT_MOD_DESC">
+			<Text>Poverty Point Empire</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POVERTY_POINT_MOD_SHORT_DESC">
+			<Text>Poverty Point</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POVERTY_POINT_MOD_ADJECTIVE">
+			<Text>Poverty Point</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POVERTY_POINT_MOD">
+			<Text>Poverty Point</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_POVERTY_POINT_MOD_TITLE">
+			<Text>Poverty Point</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_POVERTY_POINT_MOD_HEADING_1">
+			<Text>History</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_POVERTY_POINT_MOD_TEXT_1">
+			<Text>The Poverty Point culture, named after its type site in what is today northeastern Louisiana, refers to a pre-historic group of indigenous peoples who inhabited the area of the lower Mississippi Valley and surrounding Gulf coast from ca. 2200 to 700 BC. Reaching its peak around 1500 BC, Poverty Point represents one of the oldest complex cultures, and possibly the first tribal culture in the Mississippi Delta and in the present-day United States. The culture is known to have traded extensively with surrounding areas, and for its complex of earthworks which (along with the older Watson Brake site) acted as a direct predecessor for the later mound building cultures of the southeastern United States.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_POVERTY_POINT_MOD_HEADING_2">
+			<Text>Climate and Terrain</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_POVERTY_POINT_MOD_TEXT_2">
+			<Text>The Lower Mississippi River Valley was a pivotal geographic feature in the prehistoric exchange systems of central North America because it was the longest north-south corridor for river-borne trade in the continent. The river and intertwined swamps were a significant barrier to east-west overland movement which, paradoxically, also caused many of the major prehistoric trade centers to be on the lower fringes of the valley. Poverty Point clusters developed within and partially in reaction to a geographic region marked by sharp divisions between floodplains and uplands.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_POVERTY_POINT_MOD_HEADING_3">
+			<Text>Watson Brake</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_POVERTY_POINT_MOD_TEXT_3">
+			<Text>Dated to around 3500 BC, Watson Brake is considered the earliest mound complex in North America. It consists of an oval formation of eleven mounds connected by ridges and is located in the floodplain of the Ouachita River in northern Louisiana.[NEWLINE][NEWLINE]The site demonstrate that the pre-agricultural, pre-ceramic, indigenous cultures within the territory of the present-day United States were much more complex than previously thought. Although only occupied seasonally, the primarily hunter-gatherer population was capable of planning and organizing large work forces over a period of several hundred years to accomplish complex monumental construction. Monumental constructions have been known to mark the rise of social complexity world-wide.[NEWLINE][NEWLINE]In contrast to Poverty Point, where its residents made projectile points with materials traded from distant locations, the artifacts of Watson Brake show only local materials and production. The projectile points are middle to late Archaic in age, and were produced more casually than those at Poverty Point.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_POVERTY_POINT_MOD_HEADING_4">
+			<Text>Construction</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_POVERTY_POINT_MOD_TEXT_4">
+			<Text>Poverty Point was not constructed all at once, but appears to have been built up over a period of centuries or even millennia, as additions were made by successive generations. The site primarily consists of six concentric earthworks separated by ditches, or swales, where dirt was removed to build the ridges. Excavations have also revealed evidence that circular wooden-post structures had been built in the plaza area; whether these features were contemporary with other constructions at the site is not currently known.[NEWLINE][NEWLINE]The oldest surviving part of the monument is the Lower Jackson Mound, which was probably constructed during the middle Archaic period. Some archaeologists believe that the Ballcourt Mound may also have been built around this time, though this remains unproven. The rest of the monument was built later, during the late Archaic period. Its creators intentionally incorporating the older monuments of the Lower Jackson Mound and the Ballcourt Mound into later construction. Exactly when later construction commenced, and for how long that construction continued, has remained a matter of speculation and debate. Radiocarbon dating of the site has produced a wide variety of results, and suggested that most of the rings were constructed between ca. 1800 to 1200 BC.[NEWLINE][NEWLINE]Evidence shows that the workers probably lived on-site during construction, setting up temporary homes on top of the very earthworks that they were building, moving them whenever that particular earthwork was added to. Prior to the construction of the earthworks, workers leveled the land around the site and filled in ditches. The main building material was loess, a type of soil which is easy to dig but has the problem of quickly turning to mud when exposed to water. For this reason, clay was used to pack around the loess in order to protect it from rain and ensure that the monuments did not wash away.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_POVERTY_POINT_MOD_HEADING_5">
+			<Text>Purpose</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_POVERTY_POINT_MOD_TEXT_5">
+			<Text>Archaeologists have debated the function of the Poverty Point site since its rediscovery. One of the main questions has been whether it was used for a settlement or only for periodic ceremonial events. Archaeologists have postulated that houses were constructed on top of the concentric ring earthworks, as postholes have been found upon the circular earthworks indicating the former presence of buildings. Other archeologists believe that regular residence would have left a larger archaeological record, though such evidence could have been destroyed by the subsequent ploughing that took place on much of the site.[NEWLINE][NEWLINE]Other theories posit Poverty Point as a site where various groups came to meet and trade on an occasional basis. There is significant evidence of active trade with other Native American peoples. A disproportional amount of imported items, consisting of projectile points and microliths, have been determined to have originated in the Ouachita and Ozark Mountains and in the Ohio and Tennessee River valleys. Other materials derived from trade are soapstone from the southern Appalachian Mountains of Alabama and Georgia, and copper and galena artifacts, indicating trade with the prehistoric copper-producing tribes in the upper Great Lakes region.[NEWLINE][NEWLINE]It is also possible that Poverty Point was used as a religious center. Post holes discovered in the central plaza show that a large post was possibly erected there. Examples of wooden post astronomical circles have been found and reconstructed at later Mississippian cultural sites such as Cahokia. However, it is possible the posts at Poverty Point were geometrically, rather than astronomically, aligned. Researchers have also studied historic and contemporary Native American religious beliefs for parallels, with many noting that the west is seen as the direction of evil and death. It is possible that Poverty Point's rings were built with their arcs against the west to keep malevolent spirits out of the complex.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_POVERTY_POINT_MOD_HEADING_6">
+			<Text>Culture</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_POVERTY_POINT_MOD_TEXT_6">
+			<Text>The people who constructed Poverty Point were hunter-gatherers rather than agriculturalists (although the possibility of some basic horticulture is considered likely). They are a rare example of a complex hunter-gatherer society that constructed large scale monuments. The vast majority of other prehistoric monuments, ranging from Stonehenge to the Great Pyramids, were constructed by agricultural societies, in which crop surpluses allowed for a greater density of population and social stratification.[NEWLINE][NEWLINE]The food sources of the people at Poverty Point came from local animals and plant life. They cooked food in hearths and pits that likely acted as earth ovens, some of which had plastered walls. Firewood was chosen carefully, with specific trees being used, namely oak and to a lesser degree hickory, in order to enhance flavor.[NEWLINE][NEWLINE]The vast majority of artifacts uncovered at Poverty Point are small, baked shapes made of loess, which are usually balls, bicones, or ropes; today collectively known as Poverty Point Objects. It is believed that many of these objects were used in cooking. The inhabitants of Poverty Point produced small amounts of pottery, creating a variety of different styles. Many of their tools appear to have been made on-site, as there is evidence of debris from construction processes found across much of Poverty Point. However, they were also active in trade with other Native American peoples.[NEWLINE][NEWLINE]Changes in temperature and precipitation, such as increased flooding, ultimately caused an ecological imbalance that led to the abandonment of Poverty Point. Archeologists typically use this to distinguish between the late Archaic and early Woodland periods.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_POVERTY_POINT_MOD_STATBOX">
+			<Text>[NEWLINE]        Leader: Táhera[NEWLINE]        Unique Unit: Fox-Man[NEWLINE]        Unique Improvement: Effigy Mound[NEWLINE][NEWLINE]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_POVERTY_POINT_MOD_FACTOID_HEADING">
+			<Text>Poverty Point Factoid</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_POVERTY_POINT_MOD_FACTOID_TEXT">
+			<Text>Although the earthworks at Poverty Point are not the oldest in the United States (predated by the complex at Watson Brake by about 1900 years), they are notable as the oldest earthworks of their size in the Western Hemisphere (surpassed only by the complex at Cahokia constructed close to 2500 years later).</Text>
+		</Row>
+		<!-- -->
+		<Row Tag="TXT_KEY_PROMOTION_PP_BLESSING">
+			<Text>Blessing of the Ancestors</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_PP_BLESSING_HELP">
+			<Text>Provides a unique bonus depending on your current Spirit Guardian.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POVERTY_BONUS_ACTION_NULL">
+			<Text>[COLOR_POSITIVE_TEXT]Blessing of the Ancestors[ENDCOLOR][NEWLINE][NEWLINE]Receive a blessing from the ancestors.[NEWLINE][NEWLINE][COLOR_NEGATIVE_TEXT]Note: This action requires an appropriate Spirit Guardian and is disabled if the Unit is out of moves or has previously completed an active action.[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POVERTY_BONUS_TITLE_0">
+			<Text>Choose a Spirit Guardian</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POVERTY_BONUS_BODY_0">
+			<Text>Choosing a new Spirit Guardian will replace the previous Spirit Guardian's effect.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POVERTY_BONUS_CURRENT">
+			<Text>[COLOR_NEGATIVE_TEXT]This Spirit Guardian has already been chosen.[ENDCOLOR]</Text>
+		</Row>
+		<!-- -->
+		<Row Tag="TXT_KEY_POVERTY_BONUS_TITLE_1">
+			<Text>Old Man Above</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POVERTY_BONUS_BODY_1">
+			<Text>Effigy Mounds provide double [ICON_PEACE] Faith. Religious Units are cheaper to purchase and may be born at lower [ICON_PEACE] Faith levels.[NEWLINE][NEWLINE]Fox-Men will continue to be born even if all Religions have already been founded.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POVERTY_BONUS_PROMOTION_1">
+			<Text>Requires less [ICON_PEACE] Faith.</Text>
+		</Row>
+		<!-- -->
+		<Row Tag="TXT_KEY_POVERTY_BONUS_TITLE_2">
+			<Text>Kneeling Woman</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POVERTY_BONUS_BODY_2">
+			<Text>Cities with less than 5 [ICON_CITIZEN] Population gain an additional +1 [ICON_CITIZEN] Population whenever they grow.[NEWLINE][NEWLINE]Fox-Men may be expended to heal adjacent land Units.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POVERTY_BONUS_PROMOTION_2">
+			<Text>This Unit may be expended to heal adjacent land Units.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POVERTY_BONUS_ACTION_2">
+			<Text>[COLOR_POSITIVE_TEXT]Heal Units[ENDCOLOR][NEWLINE][NEWLINE]This action will consume the Fox-Man and heal friendly land Units in this tile and all adjacent tiles.[NEWLINE][NEWLINE][COLOR_NEGATIVE_TEXT]Note: This action is disabled if the Unit is out of moves or has previously completed an active action.[ENDCOLOR]</Text>
+		</Row>
+		<!-- -->
+		<Row Tag="TXT_KEY_POVERTY_BONUS_TITLE_3">
+			<Text>Red Fox</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POVERTY_BONUS_BODY_3">
+			<Text>Receive an infantry Unit near your [ICON_CAPITAL] Capital every 15 turns. Peace with Barbarians.[NEWLINE][NEWLINE]Fox-Men improve the combat effectiveness of nearby land Units (this effect will stack with the Great General's [COLOR_PLAYER_LIGHT_GREEN]Leadership[ENDCOLOR] bonus).</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POVERTY_BONUS_PROMOTION_3">
+			<Text>Improves combat effectiveness of nearby land Units.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POVERTY_BONUS_PROMOTION_3_D1">
+			<Text>Strength of the Ancestors</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POVERTY_BONUS_PROMOTION_3_D2">
+			<Text>+10% [ICON_STRENGTH] Combat Strength.</Text>
+		</Row>
+		<!-- -->
+		<Row Tag="TXT_KEY_POVERTY_BONUS_TITLE_4">
+			<Text>Long Tail</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POVERTY_BONUS_BODY_4">
+			<Text>Clearing a Barbarian Encampment provides bonus [ICON_RESEARCH] Science toward a Technology known by a rival Civilization. Camps provide +2 [ICON_RESEARCH] Science.[NEWLINE][NEWLINE]Fox-Men increase the experience earned by nearby land Units.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POVERTY_BONUS_PROMOTION_4">
+			<Text>Nearby land Units earn experience toward promotions 25% faster.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POVERTY_BONUS_PROMOTION_4_A1">
+			<Text>Wisdom of the Ancestors</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POVERTY_BONUS_PROMOTION_4_A2">
+			<Text>Earns experience toward promotions 25% faster.</Text>
+		</Row>
+		<!-- -->
+		<Row Tag="TXT_KEY_POVERTY_BONUS_TITLE_5">
+			<Text>Stone Turtle</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POVERTY_BONUS_BODY_5">
+			<Text>Land trade routes originating from a City settled adjacent to a River have a 33% increase in range. Any City, regardless of owner, receiving such a trade route has +10% [ICON_PRODUCTION] Production when constructing Buildings.[NEWLINE][NEWLINE]Fox-Men may be expended to gather Resources.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POVERTY_BONUS_PROMOTION_5">
+			<Text>This Unit may be expended to gather Resources.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POVERTY_BONUS_ACTION_8">
+			<Text>[COLOR_POSITIVE_TEXT]Gather Resources[ENDCOLOR][NEWLINE][NEWLINE]This action will consume the Fox-Man and permanently grant +2 copies of a Luxury or Strategic Resource located on the Fox-Man's tile. It may be completed in Friendly or Neutral Territory.[NEWLINE][NEWLINE]The prerequisite Technology is required to connect the resource to your trading network.[NEWLINE][NEWLINE][COLOR_NEGATIVE_TEXT]Note: This action is disabled if the Unit is out of moves or has previously completed an active action.[ENDCOLOR]</Text>
+		</Row>
+		<!-- -->
+		<Row Tag="TXT_KEY_POVERTY_BONUS_TITLE_6">
+			<Text>Duck Foot</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POVERTY_BONUS_BODY_6">
+			<Text>Land military Units ignore terrain costs when moving along Rivers or Coastal tiles.[NEWLINE][NEWLINE]Fox-Men improve the combat effectiveness of nearby naval Units (this effect will stack with the Great Admiral's [COLOR_PLAYER_LIGHT_GREEN]Naval Leadership[ENDCOLOR] bonus) and may embark with additional [ICON_MOVES] Movement.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POVERTY_BONUS_PROMOTION_6">
+			<Text>Improves combat effectiveness of nearby naval Units. Can embark with additional [ICON_MOVES] Movement.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POVERTY_BONUS_PROMOTION_6_A1">
+			<Text>Duck Foot</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POVERTY_BONUS_PROMOTION_6_A2">
+			<Text>Ignores Terrain Costs when moving along [COLOR_POSITIVE_TEXT]Rivers[ENDCOLOR] or [COLOR_POSITIVE_TEXT]Coast[ENDCOLOR].</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POVERTY_BONUS_PROMOTION_6_D1">
+			<Text>Strength of the Ancestors</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POVERTY_BONUS_PROMOTION_6_D2">
+			<Text>+10% [ICON_STRENGTH] Combat Strength.</Text>
+		</Row>
+		<!-- -->
+		<Row Tag="TXT_KEY_POVERTY_BONUS_TITLE_7">
+			<Text>Beaded Locust</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POVERTY_BONUS_BODY_7">
+			<Text>Culture Specialists generate an additional +1 [ICON_GREAT_PEOPLE] Great Person Point of the appropriate type and Great Works provide an additional +1 [ICON_CULTURE] Culture.[NEWLINE][NEWLINE]Fox-Men may be re-rolled into another random Great Person type.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POVERTY_BONUS_PROMOTION_7">
+			<Text>This Unit may be re-rolled into another random Great Person type.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_PP_BLESSING_HELP_NULL">
+			<Text>Born a Fox-Man.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POVERTY_BONUS_ACTION_7">
+			<Text>[COLOR_POSITIVE_TEXT]Study Teachings[ENDCOLOR][NEWLINE][NEWLINE]This action will convert the Fox-Man into another random Great Person type. The Unit may not be used to construct an Effigy Mound after it has been re-rolled.[NEWLINE][NEWLINE][COLOR_NEGATIVE_TEXT]Note: This action is disabled if the Unit is out of moves or has previously completed an active action.[ENDCOLOR]</Text>
+		</Row>
+		<!-- -->
+		<Row Tag="TXT_KEY_POVERTY_BONUS_TITLE_8">
+			<Text>Potbellied Owl</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POVERTY_BONUS_BODY_8">
+			<Text>Civilian Units, excluding Great People, have additional Sight and will retreat to your nearest City instead of being captured.[NEWLINE][NEWLINE]Fox-Men increase the Improvement construction speed of nearby Workers.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POVERTY_BONUS_PROMOTION_8">
+			<Text>Increases the Improvement construction speed of nearby Workers.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POVERTY_BONUS_PROMOTION_4_B1">
+			<Text>Hunter-Gatherer</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POVERTY_BONUS_PROMOTION_4_B2">
+			<Text>+1 Visibility Range.</Text>
+		</Row>
+		<!-- -->
+		<Row Tag="TXT_KEY_POVERTY_BONUS_TITLE_9">
+			<Text>Horned Serpent</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POVERTY_BONUS_BODY_9">
+			<Text>The empire enters a [ICON_GOLDEN_AGE] Golden Age. All rival Civilizations enter [ICON_RAZING] Anarchy.[NEWLINE][NEWLINE]Fox-Men may be expended to cause [ICON_RESISTANCE] Resistance in a rival Civilization's Cities.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POVERTY_BONUS_PROMOTION_9">
+			<Text>This Unit may be expended to cause [ICON_RESISTANCE] Resistance in a rival Civilization's Cities.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POVERTY_BONUS_ACTION_9">
+			<Text>[COLOR_POSITIVE_TEXT]Pray for Protection[ENDCOLOR][NEWLINE][NEWLINE]This action will consume the Fox-Man and cause [ICON_RESISTANCE] Resistance in a rival Civilization's Cities, the length of which is equal to one-third of your [ICON_GOLDEN_AGE] Golden Age length. It may only be completed in Foreign Territory.[NEWLINE][NEWLINE][COLOR_NEGATIVE_TEXT]Note: This action is disabled if the Unit is out of moves or has previously completed an active action.[ENDCOLOR]</Text>
+		</Row>
+		<!-- -->
+		<!-- -->
+		<Row Tag="TXT_KEY_POVERTY_BONUS_TOOLTIP_0">
+			<Text>[COLOR_POSITIVE_TEXT]Place of Origins[ENDCOLOR][NEWLINE]Build an Effigy Mound to choose a Spirit Guardian. Effigy Mounds may be built by Great People.[NEWLINE][NEWLINE]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POVERTY_BONUS_TOOLTIP_1">
+			<Text>[COLOR_POSITIVE_TEXT]Old Man Above[ENDCOLOR][NEWLINE]Effigy Mounds provide double [ICON_PEACE] Faith. Religious Units are cheaper to purchase and may be born at lower [ICON_PEACE] Faith levels.[NEWLINE][NEWLINE]Fox-Men will continue to be born even if all Religions have already been founded.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POVERTY_BONUS_TOOLTIP_2">
+			<Text>[COLOR_POSITIVE_TEXT]Kneeling Woman[ENDCOLOR][NEWLINE]Cities with less than 5 [ICON_CITIZEN] Population gain an additional +1 [ICON_CITIZEN] Population whenever they grow.[NEWLINE][NEWLINE]Fox-Men may be expended to heal adjacent land Units.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POVERTY_BONUS_TOOLTIP_3">
+			<Text>[COLOR_POSITIVE_TEXT]Red Fox[ENDCOLOR][NEWLINE]Receive an infantry Unit near your [ICON_CAPITAL] Capital every 15 turns. Peace with Barbarians.[NEWLINE][NEWLINE]Fox-Men improve the combat effectiveness of nearby land Units (this effect will stack with the Great General's [COLOR_PLAYER_LIGHT_GREEN]Leadership[ENDCOLOR] bonus).</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POVERTY_BONUS_TOOLTIP_4">
+			<Text>[COLOR_POSITIVE_TEXT]Long Tail[ENDCOLOR][NEWLINE]Clearing a Barbarian Encampment provides bonus [ICON_RESEARCH] Science toward a Technology known by a rival Civilization. Camps provide +2 [ICON_RESEARCH] Science.[NEWLINE][NEWLINE]Fox-Men increase the experience earned by nearby land Units.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POVERTY_BONUS_TOOLTIP_5">
+			<Text>[COLOR_POSITIVE_TEXT]Stone Turtle[ENDCOLOR][NEWLINE]Land trade routes originating from a City settled adjacent to a River have a 33% increase in range. Any City, regardless of owner, receiving such a trade route has +10% [ICON_PRODUCTION] Production when constructing Buildings.[NEWLINE][NEWLINE]Fox-Men may be expended to gather Resources.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POVERTY_BONUS_TOOLTIP_6">
+			<Text>[COLOR_POSITIVE_TEXT]Duck Foot[ENDCOLOR][NEWLINE]Land military Units ignore terrain costs when moving along Rivers or Coastal tiles.[NEWLINE][NEWLINE]Fox-Men improve the combat effectiveness of nearby naval Units (this effect will stack with the Great Admiral's [COLOR_PLAYER_LIGHT_GREEN]Naval Leadership[ENDCOLOR] bonus) and may embark with additional [ICON_MOVES] Movement.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POVERTY_BONUS_TOOLTIP_7">
+			<Text>[COLOR_POSITIVE_TEXT]Beaded Locust[ENDCOLOR][NEWLINE]Culture Specialists generate an additional +1 [ICON_GREAT_PEOPLE] Great Person Point of the appropriate type and Great Works provide an additional +1 [ICON_CULTURE] Culture.[NEWLINE][NEWLINE]Fox-Men may be re-rolled into another random Great Person type.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POVERTY_BONUS_TOOLTIP_8">
+			<Text>[COLOR_POSITIVE_TEXT]Potbellied Owl[ENDCOLOR][NEWLINE]Civilian Units, excluding Great People, have additional Sight and will retreat to your nearest City instead of being captured.[NEWLINE][NEWLINE]Fox-Men increase the Improvement construction speed of nearby Workers.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POVERTY_BONUS_TOOLTIP_9">
+			<Text>[COLOR_POSITIVE_TEXT]Horned Serpent[ENDCOLOR][NEWLINE]The empire enters a [ICON_GOLDEN_AGE] Golden Age. All rival Civilizations enter [ICON_RAZING] Anarchy.[NEWLINE][NEWLINE]Fox-Men may be expended to cause [ICON_RESISTANCE] Resistance in a rival Civilization's Cities.</Text>
+		</Row>
+		<!-- -->
+		<!-- -->
+		<Row Tag="TXT_KEY_POVERTY_BONUS_TOOLTIP_PRE">
+			<Text>[COLOR_CYAN]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POVERTY_BONUS_TOOLTIP_BAR">
+			<Text>[ENDCOLOR][NEWLINE]----------------[NEWLINE]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POVERTY_BONUS_TITLE_10">
+			<Text>Place of Origins</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POVERTY_BONUS_BODY_10">
+			<Text>Build an Effigy Mound to choose a Spirit Guardian. Effigy Mounds may be built by Great People.</Text>
+		</Row>
+		<!-- -->
+		<Row Tag="TXT_KEY_PP_UNIT_MOD">
+			<Text>Fox-Man</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PP_UNIT_MOD_HELP">
+			<Text>This Poverty Point unique Great Person replaces the Great Prophet. In addition to the ability to found or enhance a religion, it provides a unique bonus depending on Poverty Point's current Spirit Guardian.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PP_UNIT_MOD_STRATEGY">
+			<Text>Like the standard Great Prophet, the Fox-Man may found, spread, and enhance religions as well as construct the Holy Site improvement. Additionally, the Fox-Man possesses a unique promotion, Blessing of the Ancestors, which provides a different bonus depending on Poverty Point's current Spirit Guardian.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PP_UNIT_MOD_TEXT">
+			<Text>It is possible that Poverty Point was used as a religious center. A hole discovered in the central plaza shows that a wooden post was likely erected there, as examples of astronomical circles have also been found and reconstructed at later Mississippian culture sites such as Cahokia. Researchers have also studied historic and contemporary Native American religious beliefs for parallels, with many noting that the west is seen as the direction of evil and death. If such traditions extend back into the late Archaic period, Poverty Point's mound rings were then likely built with their arcs against the west to keep malevolent spirits out of the complex.</Text>
+		</Row>
+		<!-- -->
+		<Row Tag="TXT_KEY_TAMALI_ALIBAMA">
+			<Text>Alibama</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TAMALI_SIHKALTINI">
+			<Text>Sihkaltini</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TAMALI_HALAYIHKU">
+			<Text>Hálayihku</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TAMALI_OSKAMELI">
+			<Text>Oskameli</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TAMALI_CIKASA">
+			<Text>Cikasa</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TAMALI_CAHTA">
+			<Text>Cáhta</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TAMALI_SIHTIMASU">
+			<Text>Sihtimásu</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TAMALI_KARANKAWE">
+			<Text>Kárankawe</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TAMALI_KUSATI">
+			<Text>Kusati</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TAMALI_SIHKALPALKA">
+			<Text>Sihkalpálka</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TAMALI_USPI">
+			<Text>Uspi</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TAMALI_LAKASMELI">
+			<Text>Lákasmeli</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TAMALI_PASKA">
+			<Text>Páska</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TAMALI_YORONI">
+			<Text>Yoroni</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TAMALI_HUMA">
+			<Text>Huma</Text>
+		</Row>
+		<!-- -->
+		<Row Tag="TXT_KEY_CEREMONIAL_MOUND_MOD">
+			<Text>Effigy Mound</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CEREMONIAL_MOUND_MOD_HELP">
+			<Text>The unique improvement for the Poverty Point civilization, the Effigy Mound provides a very large base tile yield. Building the improvement also triggers Poverty Point's unique ability, Place of Origins, allowing the civilization to choose a Spirit Guardian and receive a unique bonus effect. This effect persists until a new Spirit Guardian is chosen. The Effigy Mound may be built on flatland tiles by any type of Great Person (consuming the Unit), but may only be built once per game era. Additionally, the improvement may not be pillaged and is permanent once constructed.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CEREMONIAL_MOUND_MOD_TEXT">
+			<Text>The unique improvement for the Poverty Point civilization, the Effigy Mound provides a very large base tile yield. Building the improvement also triggers Poverty Point's unique ability, Place of Origins, allowing the civilization to choose a Spirit Guardian and receive a unique bonus effect. This effect persists until a new Spirit Guardian is chosen. The Effigy Mound may be built on flatland tiles by any type of Great Person (consuming the Unit), but may only be built once per game era. Additionally, the improvement may not be pillaged and is permanent once constructed.[NEWLINE][NEWLINE]Watson Brake and Poverty Point represent the earliest known examples of Pre-Columbian America's mound building tradition, with Poverty Point notable as the largest and most complex late Archaic earthwork occupation and ceremonial site in North America. Many different tribal groups and chiefdoms, involving an array of beliefs and unique cultures over thousands of years, built mounds as expressions of their cultures. The general term "mound builder" is used to cover their shared architectural practice of earthwork mound construction. This practice, believed to be associated with a cosmology that held a cross-cultural appeal, was an early marker of political and social complexity among the indigenous peoples of the Eastern United States.[NEWLINE][NEWLINE]Although largely characteristic of the later Woodland Period, Poverty Point's Bird Mound is potentially one of the earliest examples of effigy style mounds in the United States. Bird designs were likely to first form of effigies to evolve from the earlier conical and linear style mounds of the Archaic period, as modifying a linear mound to make a bird mound required only the addition of a head and a tail. From there many different animal forms eventually emerged, often expressing a kind of abstract elongation. One of the most notable examples of effigy style mounds is the Serpent Mound, constructed by the Adena culture in the Ohio area around ca. 300 BC.</Text>
+		</Row>
+		<!-- -->
+		<Row Tag="TXT_KEY_POVERTY_MOUND_TAG_1">
+			<Text>[COLOR_POSITIVE_TEXT]Construct an Effigy Mound[ENDCOLOR][NEWLINE][NEWLINE]Constructing an Effigy Mound will allow you to choose a new Spirit Guardian.[NEWLINE][NEWLINE]Great Tile Improvements will connect Strategic Resources on this tile to the trade Network. May only be constructed once per game era on flatland tiles. Unit will be consumed.[NEWLINE][NEWLINE]+1 [ICON_GOLD] Gold +1 [ICON_PRODUCTION] Production +1 [ICON_RESEARCH] Science +1 [ICON_CULTURE] Culture +1 [ICON_PEACE] Faith[NEWLINE][NEWLINE][COLOR_NEGATIVE_TEXT]Note: This action is disabled if the Unit is out of moves or has previously completed an active action. The prerequisite Technology is required to clear Forest, Jungle, or Marsh from the tile.[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POVERTY_MOUND_TAG_2">
+			<Text>[COLOR_POSITIVE_TEXT]Construct an Effigy Mound[ENDCOLOR][NEWLINE][NEWLINE]Constructing an Effigy Mound will allow you to choose a new Spirit Guardian.[NEWLINE][NEWLINE]Great Tile Improvements will connect Strategic Resources on this tile to the trade Network. May only be constructed once per game era on flatland tiles. Unit will be consumed.[NEWLINE][NEWLINE]+2 [ICON_GOLD] Gold +2 [ICON_PRODUCTION] Production +2 [ICON_RESEARCH] Science +2 [ICON_CULTURE] Culture +2 [ICON_PEACE] Faith[NEWLINE][NEWLINE][COLOR_NEGATIVE_TEXT]Note: This action is disabled if the Unit is out of moves or has previously completed an active action. The prerequisite Technology is required to clear Forest, Jungle, or Marsh from the tile.[ENDCOLOR]</Text>
+		</Row>
+		<!-- -->
+		<Row Tag="TXT_KEY_CITY_NAME_POVERTY_POINT_MOD_0">
+			<Text>Poverty Point</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_POVERTY_POINT_MOD_1">
+			<Text>Jaketown</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_POVERTY_POINT_MOD_2">
+			<Text>Claiborne</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_POVERTY_POINT_MOD_3">
+			<Text>Beau Rivage</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_POVERTY_POINT_MOD_4">
+			<Text>Watson Brake</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_POVERTY_POINT_MOD_5">
+			<Text>Caney Island</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_POVERTY_POINT_MOD_6">
+			<Text>Copes</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_POVERTY_POINT_MOD_7">
+			<Text>Teoc Creek</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_POVERTY_POINT_MOD_8">
+			<Text>Panther Lake</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_POVERTY_POINT_MOD_9">
+			<Text>Elmwood</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_POVERTY_POINT_MOD_10">
+			<Text>Black Pond</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_POVERTY_POINT_MOD_11">
+			<Text>Bayou Jasmine</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_POVERTY_POINT_MOD_12">
+			<Text>Rabbit Island</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_POVERTY_POINT_MOD_13">
+			<Text>Shoe Bayou</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_POVERTY_POINT_MOD_14">
+			<Text>Ruth Canal</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_POVERTY_POINT_MOD_15">
+			<Text>Paxton Brake</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_POVERTY_POINT_MOD_16">
+			<Text>Monte Sano</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_POVERTY_POINT_MOD_17">
+			<Text>Cold Lake</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_POVERTY_POINT_MOD_18">
+			<Text>Catahoula</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_POVERTY_POINT_MOD_19">
+			<Text>Insley</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_POVERTY_POINT_MOD_20">
+			<Text>Blue Lake</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_POVERTY_POINT_MOD_21">
+			<Text>Rose Mound</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_POVERTY_POINT_MOD_22">
+			<Text>Roscoe Burns</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_POVERTY_POINT_MOD_23">
+			<Text>Galloway</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_POVERTY_POINT_MOD_24">
+			<Text>Sky Lake</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_POVERTY_POINT_MOD_25">
+			<Text>Hedgepeth</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_POVERTY_POINT_MOD_26">
+			<Text>Granny Crowe</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_POVERTY_POINT_MOD_27">
+			<Text>Frenchman's Bend</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_POVERTY_POINT_MOD_28">
+			<Text>Tchefuncte</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_POVERTY_POINT_MOD_29">
+			<Text>Banana Bayou</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_POVERTY_POINT_MOD_30">
+			<Text>Arledge</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_POVERTY_POINT_MOD_31">
+			<Text>Ray Brake</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_POVERTY_POINT_MOD_32">
+			<Text>Isola</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_POVERTY_POINT_MOD_33">
+			<Text>Cow Bayou</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_POVERTY_POINT_MOD_34">
+			<Text>Mott</Text>
+		</Row>
+		<!-- -->
+		<Row Tag="TXT_KEY_SPY_NAME_POVERTY_POINT_MOD_0">
+			<Text>Hálitáheri</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_POVERTY_POINT_MOD_1">
+			<Text>Nini</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_POVERTY_POINT_MOD_2">
+			<Text>Nokushi</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_POVERTY_POINT_MOD_3">
+			<Text>Rushiya</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_POVERTY_POINT_MOD_4">
+			<Text>Oshkameli</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_POVERTY_POINT_MOD_5">
+			<Text>Háhchu</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_POVERTY_POINT_MOD_6">
+			<Text>Yá</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_POVERTY_POINT_MOD_7">
+			<Text>Pehasa</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_POVERTY_POINT_MOD_8">
+			<Text>Kowatohku</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_POVERTY_POINT_MOD_9">
+			<Text>Lápuyámu</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<!-- -->
+		<Row Tag="TXT_KEY_BUILDING_PROPHET_BONUS_0_DESC">
+			<Text>Dummy Poverty Prophet 1</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_POVERTY_DECISION_FAITH_DESC">
+			<Text>Dummy Poverty Faith 1</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_POVERTY_TURTLE_BONUS_1_DESC">
+			<Text>Dummy Poverty Bonus 1</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_POVERTY_TURTLE_BONUS_2_DESC">
+			<Text>Dummy Poverty Bonus 2</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_POVERTY_DECISION_FAITH_TEXT">
+			<Text>Archaeologists have debated the functions of the Poverty Point site since its rediscovery. One of the main questions has been whether it was used for a settlement, or only for periodic ceremonial events. Archaeologists have postulated that houses were constructed on top of the concentric ring earthworks. A few postholes have been found upon these earthworks, indicating the former presence of a building. Other archeologists believe that regular residence would have produced more postholes as an archeological feature, though these could have been destroyed by the subsequent ploughing that took place on much of the site.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_POVERTY_DECISION_FAITH_STRATEGY">
+			<Text>This building cannot be constructed but rather facilitates Poverty Point's unique abilities.</Text>
+		</Row>
+		<!-- -->
+		<Row Tag="TXT_KEY_POLICY_POLICY_POVERTY_MOUND_FOOD_1">
+			<Text>Dummy Poverty Food 1</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POLICY_POLICY_POVERTY_MOUND_FOOD_TEXT_1">
+			<Text>Dummy Poverty Food 1</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POLICY_POLICY_POVERTY_MOUND_FOOD_HELP_1">
+			<Text>+1 [ICON_FOOD] Food from Effigy Mounds.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POLICY_POLICY_POVERTY_MOUND_FOOD_2">
+			<Text>Dummy Poverty Food 2</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POLICY_POLICY_POVERTY_MOUND_FOOD_TEXT_2">
+			<Text>Dummy Poverty Food 2</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POLICY_POLICY_POVERTY_MOUND_FOOD_HELP_2">
+			<Text>+1 [ICON_FOOD] Food from Effigy Mounds.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POLICY_POLICY_POVERTY_MOUND_FAITH_1">
+			<Text>Dummy Poverty Faith 1</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POLICY_POLICY_POVERTY_MOUND_FAITH_TEXT_1">
+			<Text>Dummy Poverty Faith 1</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POLICY_POLICY_POVERTY_MOUND_FAITH_HELP_1">
+			<Text>+1 [ICON_PEACE] Faith from Effigy Mounds.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POLICY_POLICY_POVERTY_MOUND_FAITH_2">
+			<Text>Dummy Poverty Faith 2</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POLICY_POLICY_POVERTY_MOUND_FAITH_TEXT_2">
+			<Text>Dummy Poverty Faith 2</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POLICY_POLICY_POVERTY_MOUND_FAITH_HELP_2">
+			<Text>+1 [ICON_PEACE] Faith from Effigy Mounds.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POLICY_POLICY_POVERTY_MOUND_FAITH_3">
+			<Text>Dummy Poverty Faith 3</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POLICY_POLICY_POVERTY_MOUND_FAITH_TEXT_3">
+			<Text>Dummy Poverty Faith 3</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POLICY_POLICY_POVERTY_MOUND_FAITH_HELP_3">
+			<Text>+4 [ICON_PEACE] Faith from Effigy Mounds.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POLICY_POLICY_POVERTY_MOUND_FAITH_4">
+			<Text>Dummy Poverty Faith 4</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POLICY_POLICY_POVERTY_MOUND_FAITH_TEXT_4">
+			<Text>Dummy Poverty Faith 4</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POLICY_POLICY_POVERTY_MOUND_FAITH_HELP_4">
+			<Text>+1 [ICON_PEACE] Faith from Effigy Mounds.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POLICY_POLICY_POVERTY_CAMP_SCIENCE_1">
+			<Text>Dummy Poverty Science 1</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POLICY_POLICY_POVERTY_CAMP_SCIENCE_TEXT_1">
+			<Text>Dummy Poverty Science 1</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POLICY_POLICY_POVERTY_CAMP_SCIENCE_HELP_1">
+			<Text>+2 [ICON_RESEARCH] Science from Camps.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POLICY_POLICY_POVERTY_BONUS_8">
+			<Text>Dummy Poverty Bonus 8</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POLICY_POLICY_POVERTY_BONUS_8_TEXT">
+			<Text>Dummy Poverty Bonus 8</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POLICY_POLICY_POVERTY_BONUS_8_HELP">
+			<Text>+1 [ICON_CULTURE] Culture from Great Works.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POLICY_POLICY_POVERTY_BONUS_9">
+			<Text>Dummy Poverty Bonus 9</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POLICY_POLICY_POVERTY_BONUS_9_TEXT">
+			<Text>Dummy Poverty Bonus 9</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POLICY_POLICY_POVERTY_BONUS_9_HELP">
+			<Text>Blank Policy</Text>
+		</Row>
+		<!-- -->
+		<Row Tag="TXT_KEY_POLICY_POVERTY_COUNT_1">
+			<Text>Dummy Poverty Count 1</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POLICY_POVERTY_COUNT_TEXT_1">
+			<Text>Dummy Poverty Count 1</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POLICY_POVERTY_COUNT_HELP_1">
+			<Text>Temp keeps Count.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POLICY_POVERTY_COUNT_2">
+			<Text>Dummy Poverty Count 2</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POLICY_POVERTY_COUNT_TEXT_2">
+			<Text>Dummy Poverty Count 2</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POLICY_POVERTY_COUNT_HELP_2">
+			<Text>Temp keeps Count.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POLICY_POVERTY_COUNT_3">
+			<Text>Dummy Poverty Count 3</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POLICY_POVERTY_COUNT_TEXT_3">
+			<Text>Dummy Poverty Count 3</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POLICY_POVERTY_COUNT_HELP_3">
+			<Text>Temp keeps Count.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POLICY_POVERTY_COUNT_4">
+			<Text>Dummy Poverty Count 4</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POLICY_POVERTY_COUNT_TEXT_4">
+			<Text>Dummy Poverty Count 4</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POLICY_POVERTY_COUNT_HELP_4">
+			<Text>Temp keeps Count.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POLICY_POVERTY_COUNT_5">
+			<Text>Dummy Poverty Count 5</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POLICY_POVERTY_COUNT_TEXT_5">
+			<Text>Dummy Poverty Count 5</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POLICY_POVERTY_COUNT_HELP_5">
+			<Text>Temp keeps Count.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POLICY_POVERTY_COUNT_6">
+			<Text>Dummy Poverty Count 6</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POLICY_POVERTY_COUNT_TEXT_6">
+			<Text>Dummy Poverty Count 6</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POLICY_POVERTY_COUNT_HELP_6">
+			<Text>Temp keeps Count.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POLICY_POVERTY_COUNT_7">
+			<Text>Dummy Poverty Count 7</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POLICY_POVERTY_COUNT_TEXT_7">
+			<Text>Dummy Poverty Count 7</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POLICY_POVERTY_COUNT_HELP_7">
+			<Text>Temp keeps Count.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POLICY_POVERTY_COUNT_8">
+			<Text>Dummy Poverty Count 8</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POLICY_POVERTY_COUNT_TEXT_8">
+			<Text>Dummy Poverty Count 8</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POLICY_POVERTY_COUNT_HELP_8">
+			<Text>Temp keeps Count.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POLICY_POVERTY_COUNT_9">
+			<Text>Dummy Poverty Count 9</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POLICY_POVERTY_COUNT_TEXT_9">
+			<Text>Dummy Poverty Count 9</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POLICY_POVERTY_COUNT_HELP_9">
+			<Text>Temp keeps Count.</Text>
+		</Row>
+		<!-- -->
+		<Row Tag="TXT_KEY_BUILDING_POVERTY_MAX_FAITH_DESC">
+			<Text>Prophet Max</Text>
+		</Row>
+		<!-- -->
+		<Row Tag="TXT_KEY_CITYSTATE_MOD_GGANTIJA">
+			<Text>Ggantija</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_MOD_GGANTIJA_ADJ">
+			<Text>Ggantija</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_MOD_GGANTIJA_PEDIA">
+			<Text>Ggantija is the most famous of the Megalithic Temples of Malta; a complex of Neolithic religious sites built on the island of Gozo in what is today the Republic of Malta between 3600 - 3000 BC. The two Ggantija temples are the second oldest manmade religious structures in the world, after Göbekli Tepe in Anatolia. Archaeologists believe that these megalithic temples were the result of local innovations in a process of cultural evolution. This led to the building of several temples during the Ggantija phase, culminating in the large Tarxien temple complex (3150 BC) which remained in use until 2500 BC. After this date, the temple building culture disappeared.[NEWLINE][NEWLINE]The temples were possibly the site of a Fertility cult, as evidenced by the numerous figurines and statues found near the site. Local Gozitan folklore claims that the temples were constructed by a race of giants who used them as a place of worship. The dating and understanding of the various phases of activity in the temples is not easy. Not only are the sites themselves evolutionary in nature, in that each successive temple brought with it further refinement to architectural development, but later Bronze-age peoples also built their own sites over the Neolithic temples.</Text>
+		</Row>
+		<!-- -->
+		<Row Tag="TXT_KEY_GENERIC_POVERTY_POINT_MOD_INFLUENTIAL_ON_AI_1">
+			<Text>My people are now building their homes on top of giant earthworks and carving small potbellied owls. I worry the rest of the world will soon succumb to your culture.</Text>
+		</Row>
+		<!-- -->
+		<Row Tag="TXT_KEY_PMMM_LEADER_MG_NAME_POVERTY_POINT_MOD">
+			<Text>Núhki</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<!-- -->
+		<Row Tag="TXT_KEY_EVENT_CULDEV_TOMATEKH_POVERTY_01">
+			<Text>Small dice-like objects have been carved in {1_City}.</Text>
+		</Row>
+		<!-- -->
+		<Row Tag="TXT_KEY_POVERTY_LEADER_CIV_IV_TRAITS">
+			<Text>Táhera[ICON_PEACE][ICON_GOLD]</Text>
+		</Row>
+	</Language_PL_PL>
+</GameData>

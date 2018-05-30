@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 10/13/2012 2:02:24 AM -->
+<GameData>
+	<Civilizations>
+		<Row>
+			<Type>CIVILIZATION_TOSA</Type>
+			<Description>TXT_KEY_CIV_TOSA_DESC</Description>
+			<ShortDescription>TXT_KEY_CIV_TOSA_SHORT_DESC</ShortDescription>
+			<Adjective>TXT_KEY_CIV_TOSA_ADJECTIVE</Adjective>
+			<CivilopediaTag>TXT_KEY_CIV5_TOSA</CivilopediaTag>
+			<DefaultPlayerColor>PLAYERCOLOR_TOSA</DefaultPlayerColor>
+			<ArtDefineTag>ART_DEF_CIVILIZATION_JAPAN</ArtDefineTag>
+			<ArtStyleType>ARTSTYLE_ASIAN</ArtStyleType>
+			<ArtStyleSuffix>_ASIA</ArtStyleSuffix>
+			<ArtStylePrefix>ASIAN </ArtStylePrefix>
+			<PortraitIndex>2</PortraitIndex>
+			<IconAtlas>JAPANCIVS_COLOR_ATLAS</IconAtlas>
+			<AlphaIconAtlas>JAPANCIVS_ALPHA_ATLAS</AlphaIconAtlas>
+			<MapImage>RisingSunPlaceholder.dds</MapImage>
+			<SoundtrackTag>Japan</SoundtrackTag>
+			<DawnOfManQuote>TXT_KEY_CIV5_DAWN_SHIMAZU_TEXT</DawnOfManQuote>
+			<DawnOfManImage>DOMPlaceholder.dds</DawnOfManImage>
+		</Row>
+	</Civilizations>
+	<Civilization_UnitClassOverrides>
+		<Row>
+			<CivilizationType>CIVILIZATION_TOSA</CivilizationType>
+			<UnitClassType>UNITCLASS_PIKEMAN</UnitClassType>
+			<UnitType>UNIT_FARMER_MILITIA</UnitType>
+		</Row>
+	</Civilization_UnitClassOverrides>
+	<Civilization_FreeBuildingClasses>
+		<Row>
+			<CivilizationType>CIVILIZATION_TOSA</CivilizationType>
+			<BuildingClassType>BUILDINGCLASS_PALACE</BuildingClassType>
+		</Row>
+	</Civilization_FreeBuildingClasses>
+	<Civilization_FreeTechs>
+		<Row>
+			<CivilizationType>CIVILIZATION_TOSA</CivilizationType>
+			<TechType>TECH_AGRICULTURE</TechType>
+		</Row>
+	</Civilization_FreeTechs>
+	<Civilization_FreeUnits>
+		<Row>
+			<CivilizationType>CIVILIZATION_TOSA</CivilizationType>
+			<UnitClassType>UNITCLASS_SETTLER</UnitClassType>
+			<Count>1</Count>
+			<UnitAIType>UNITAI_SETTLE</UnitAIType>
+		</Row>
+	</Civilization_FreeUnits>
+	<Civilization_Leaders>
+		<Row>
+			<CivilizationType>CIVILIZATION_TOSA</CivilizationType>
+			<LeaderheadType>LEADER_RYOMA</LeaderheadType>
+		</Row>
+	</Civilization_Leaders>
+</GameData>

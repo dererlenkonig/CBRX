@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 06/07/16 10:16:24 PM -->
+<GameData>
+	<Language_en_US>
+		<!-- DIPLOMACY: VANILLA Vanilla -->
+		<!--First Greeting messages from AI leaders-->
+		<Row Tag="TXT_KEY_LEADER_UC_GERONIMO_FIRSTGREETING_1">
+			<Text>I was born on the prairies where the wind blew free and there was nothing to break the light of the sun. Welcome to the lands of the Apache as I am their chief Geronimo.</Text>
+		</Row>
+		<!--Defeated messages from AI leaders-->
+		<Row Tag="TXT_KEY_LEADER_UC_GERONIMO_DEFEATED_1">
+			<Text>Once I moved about like the wind. Now I surrender to you and that is all.</Text>
+		</Row>
+		<!--First Greeting from leaders that don't have their own file yet-->
+		<!-- Greetings -->
+		<Row Tag="TXT_KEY_LEADER_UC_GERONIMO_GREETING_POLITE_HELLO_1">
+			<Text>As you have resolved this kindness to me you are worthy of my trust. Now come and let nature hear our callings of union and strength.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_UC_GERONIMO_GREETING_HOSTILE_HELLO_1">
+			<Text>Why must you come with treachery and malicious intent? Be careful as you may suffer the same fate as the White Man or the Mexican that came before.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_UC_GERONIMO_DOW_LEADER_UC_GERONIMO_1">
+			<Text>Our people will no longer face persecution. After your demise the bodies of those we have killed will no longer be worth counting for.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_UC_GERONIMO_LUXURY_TRADE_1">
+			<Text>We must encourage exchange between our people. Would this be of interest?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_UC_GERONIMO_DENOUNCE_1">
+			<Text>We have reasons to suspect that you have talked about our affairs to those who wish to be rid of us. No longer may your word have ground on this soil.[NEWLINE][NEWLINE]([COLOR_WARNING_TEXT]They have publicly denounced us! NOTE: You are not at war.[ENDCOLOR])</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_UC_GERONIMO_DEC_FRIENDSHIP_1">
+			<Text>In a time of persecution and danger of my peoples I deem you worthy of trust. An alliance would be best for our peoples.</Text>
+		</Row>
+
+	</Language_en_US>
+
+
+</GameData>

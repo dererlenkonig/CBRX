@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 10/8/2016 1:13:41 AM -->
+<GameData>
+	<Language_en_US>
+		<Row Tag="TXT_KEY_POLICY_C15_EVENEK_SADDLE">
+			<Text>Reindeer Saddle</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_C15_EVENEK_SADDLE_HELP">
+			<Text>+1 Movement</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISION_C15_EVENEK_SADDLE">
+			<Text>Develop the Reindeer Saddle</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISION_C15_EVENEK_SADDLE_DESC">
+			<Text>
+				The reindeer common throughout our lands could be used efficiently as pack animals, if only we had a means of controlling them effectively. Developing a special saddle which allows for greater control and manoeuvrability could be incredibly useful.[NEWLINE]
+				[NEWLINE]Requirements:
+				[NEWLINE][ICON_BULLET]Player must be The Evenks
+				[NEWLINE][ICON_BULLET]Player must have researched Animal Husbandry
+				[NEWLINE][ICON_BULLET]May only be enacted once per game
+				[NEWLINE]Costs:
+				[NEWLINE][ICON_BULLET]{1_Cost} [ICON_RESEARCH] Science
+				[NEWLINE][ICON_BULLET]2 Magistrates
+				[NEWLINE]Rewards:
+				[NEWLINE][ICON_BULLET]+1 [ICON_CULTURE] Culture on Camps
+				[NEWLINE][ICON_BULLET]+1 [ICON_MOVES] Movement for Mounted Units
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISION_C15_EVENEK_SADDLE_DESC_ENACTED">
+			<Text>
+				Rewards:
+				[NEWLINE][ICON_BULLET]+1 [ICON_CULTURE] Culture on Camps
+				[NEWLINE][ICON_BULLET]+1 [ICON_MOVES] Movement for Mounted Units
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISION_C15_EVENK_NIMAT">
+			<Text>Institutionalise Nimat</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISION_C15_EVENK_NIMAT_DESC">
+			<Text>
+				The hunters in our camps bring back supplies which could be great boons to our community as a whole. Institutionalising the tradition of Nimat would greatly help our people![NEWLINE]
+				[NEWLINE]Requirements:
+				[NEWLINE][ICON_BULLET]Player must be The Evenks
+				[NEWLINE][ICON_BULLET]Player must have an Internal Trade Route
+				[NEWLINE][ICON_BULLET]May not be enacted after the Medieval Era
+				[NEWLINE][ICON_BULLET]May only be enacted once per game
+				[NEWLINE]Costs:
+				[NEWLINE][ICON_BULLET]{1_Cost} [ICON_CULTURE] Culture
+				[NEWLINE][ICON_BULLET]{1_Cost} [ICON_GOLD] Gold
+				[NEWLINE]Rewards:
+				[NEWLINE][ICON_BULLET]Gain +1 [ICON_RES_FUR] Furs and an additional Trade Route Slot for each Internal Trade Route in operation when enacted.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISION_C15_EVENK_NIMAT_DESC_ENACTED">
+			<Text>
+				Rewards:
+				[NEWLINE][ICON_BULLET]Gain +1 [ICON_RES_FUR] Furs and an additional Trade Route Slot for each Internal Trade Route in operation when enacted.
+			</Text>
+		</Row>
+	</Language_en_US>
+  
+</GameData>

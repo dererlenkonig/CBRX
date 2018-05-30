@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 2/18/2013 11:05:06 PM -->
+<GameData>
+	<BuildingClasses>
+		<Row>
+			<Type>BUILDINGCLASS_KHORASAN_FIEFDOM</Type>
+			<DefaultBuilding>BUILDING_KHORASAN_FIEFDOM</DefaultBuilding>
+			<Description>Khorasan Fiefdom</Description>
+		</Row>
+	</BuildingClasses>
+	<Buildings>
+		<Row>
+			<Type>BUILDING_KHORASAN_FIEFDOM</Type>
+			<BuildingClass>BUILDINGCLASS_KHORASAN_FIEFDOM</BuildingClass>
+			<Cost>-1</Cost>
+			<PrereqTech>NULL</PrereqTech>
+			<Capital>true</Capital>
+			<Description>Khorasan Fiefdom</Description>
+			<ArtDefineTag>ART_DEF_BUILDING_FORGE</ArtDefineTag>
+			<GreatWorkCount>-1</GreatWorkCount>
+			<UnitUpgradeCostMod>-50</UnitUpgradeCostMod>
+			<MinAreaSize>-1</MinAreaSize>
+			<HurryCostModifier>-1</HurryCostModifier>
+			<DisplayPosition>16</DisplayPosition>
+			<IconAtlas>CIV_DJSH_SELJUQ_ATLAS</IconAtlas>
+			<NeverCapture>true</NeverCapture>
+			<PortraitIndex>0</PortraitIndex>
+		</Row>
+	</Buildings>
+</GameData>

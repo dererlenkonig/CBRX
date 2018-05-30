@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 05/11/2012 21:54:08 -->
+<GameData>
+	<BuildingClasses>
+		
+		<Row>
+			<Type>BUILDINGCLASS_TRAIT_BUILDING2</Type>
+			<DefaultBuilding>BUILDING_SAHUL</DefaultBuilding>
+			<Description>TXT_KEY_BUILDING_TRAIT_BUILDING</Description>
+		</Row>
+		
+	</BuildingClasses>
+	<Buildings>
+	<Row>
+		<Type>BUILDING_SAHUL</Type>
+		<BuildingClass>BUILDINGCLASS_TRAIT_BUILDING2</BuildingClass>
+		<Cost>-1</Cost>
+		<PrereqTech>TECH_AGRICULTURE</PrereqTech>
+		<Help>TXT_KEY_BUILDING_SAHUL_HELP</Help>
+		<Description>TXT_KEY_BUILDING_SAHUL</Description>
+		<Civilopedia>TXT_KEY_BUILDING_SAHUL_DESC</Civilopedia>
+		<Quote>TXT_KEY_BUILDING_SAHUL_QUOTE</Quote>
+		<ArtDefineTag>MONUMENT</ArtDefineTag>
+		<NukeImmune>true</NukeImmune>
+		<HurryCostModifier>-1</HurryCostModifier>
+		<MinAreaSize>-1</MinAreaSize>
+		<IconAtlas>BW_ATLAS_1</IconAtlas>
+		<PortraitIndex>19</PortraitIndex>
+		<NeverCapture>true</NeverCapture>
+		<GreatWorkCount>-1</GreatWorkCount>
+		<Water>true</Water>
+		<NumTradeRouteBonus>1</NumTradeRouteBonus>
+		<AllowsWaterRoutes>true</AllowsWaterRoutes>
+		<TradeRouteSeaDistanceModifier>50</TradeRouteSeaDistanceModifier>
+	</Row>
+	</Buildings>
+	<Building_TerrainYieldChanges>
+	</Building_TerrainYieldChanges>	
+	<Building_FeatureYieldChanges>
+	</Building_FeatureYieldChanges>
+	<Building_SeaPlotYieldChanges>
+		<Row>
+			<BuildingType>BUILDING_SAHUL</BuildingType>
+			<YieldType>YIELD_GOLD</YieldType>
+			<Yield>1</Yield>
+		</Row>
+	</Building_SeaPlotYieldChanges>
+	<Building_RiverPlotYieldChanges>
+	</Building_RiverPlotYieldChanges>
+		<Building_YieldChanges>
+		</Building_YieldChanges>
+		<Building_ResourceQuantity>
+		</Building_ResourceQuantity>
+	<Building_Flavors>
+	</Building_Flavors>
+	<Building_PrereqBuildingClasses>
+	</Building_PrereqBuildingClasses>
+	<Building_FreeUnits>
+	</Building_FreeUnits>
+</GameData>

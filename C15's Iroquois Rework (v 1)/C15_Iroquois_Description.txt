@@ -1,0 +1,63 @@
+-- C15_Iroquois_Description
+-- Author: Chrisy
+-- DateCreated: 12/29/2017 1:31:50 PM
+--------------------------------------------------------------
+
+It's not exactly an uncommon opinion that the Iroquois [I]aren't the best civ[/I]. Although there have been many attempts to improve them in the past, I decided to go for a more... [I]innovative[/I] approach.
+
+And so, much Lua, tables, and city research by the ever-reliable Seelingcat later a design making use of the five Iroquoisian nations (plus their little brother, if you're using the CP Events) came to fruition. I hope at the very least this will make your games a little more interesting, as Hiawatha's formiddable AI finally has a design to boot.
+
+Please direct issues to my [url=https://forums.civfanatics.com/threads/chrisy15s-civilisations-the-fertile-crescent-to-the-cold-war-and-beyond.561651/]CFC Thread[/url] as it is waaay easier to resolve issues there where we can deal with logs etc.
+
+Direct Download: https://www.dropbox.com/s/5lenod9bijfn4hq/C15%27s%20Iroquois%20Rework%20%28v%201%29.7z?dl=0
+
+[quote]
+[quote]
+UA: Great Law of Peace
+Settling a City assigns it a Nation, granting bonuses, and Units from different Nations receive a Combat bonus when they start Adjacent. Your Forest and Jungle tiles act as Roads, forming City Connections once possible.
+
+UU: Tomahawk Raider
+Unique Ranged Swordsman replacement for the Iroquois. Requires no Iron, ignores Zone of Control, and has the Woodsman Promotion.
+
+UB: Longhouse
+Replaces the Workshop. Provides +10% Production in the City, and increases Yields from Forest tiles depending on the City's Nation.
+[/quote]
+[quote]
+Nation Bonuses:
+
+Onondaga Nation:
+This City enters We Love The King Day whenever you adopt a Social Policy/enact a Reform (JFDDLC). The Longhouse in this City provides +1 Culture on Forest tiles.
+
+Mohawk Nation:
++10 XP to Units trained in this City. Allows the training of the Mohawk Warrior upon discovering Iron Working. The Longhouse in this City provides +1 Production on Forest tiles.
+
+Mohawk Warrior
+Standalone Unit for the Iroquois that may only be trained in Mohawk Cities. Recieves a Combat bonus in Forest and Jungle, and begins with the Woodsman Promotion. Requires no Iron.
+
+Oneida Nation
+City Faith output contributes towards Defence. The Longhouse in this City provides +1 Faith on Forest tiles.
+
+Cayuga Nation
+Each Camp worked by this City increases Gold from incoming International Trade Routes by 1, and a source of Furs is spawned near this City. The Longhouse in this City provides +1 Gold on Forest tiles.
+
+Seneca Nation
+Units receive a 20% Combat bonus near this City, and constructing Defensive Buildings in this City grants Culture. The Longhouse in this City provides +1 Food on Forest tiles.
+
+Tuscarora Nation (obtained through the unqiue Event, enabled through the Community Patch's Events system)
+Units trained in this City receive additional Flanking bonuses and may retreat from Combat. The Longhouse in this City takes its effect from the nearest Nation.
+[/quote]
+[/quote]
+
+Nations are attached to their respective City Names, but the city list is randomised (with the exception of the Capital, which will always be Onondaga); the Nations you receive will as such be subject to the will of the dice.
+
+As a side note, it is also fully possible for you to add your own Nations. I don't know if anyone would [i]want[/i] to do such a thing, but the option is open...
+
+Mod Support: Like everything I guess it still uses the Iroquois and Hiawatha sooo...
+
+Credits:
+Code, Design: Me
+City Names: Seelingcat
+UU Icon: RawSasquatch
+UU Flag: Darth
+
+Have fun, and that's right Neirai bet you weren't ever expecting someone to make Cree But Better hahaha :p

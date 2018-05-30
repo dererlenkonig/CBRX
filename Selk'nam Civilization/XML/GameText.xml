@@ -1,0 +1,338 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 3/30/2018 9:36:56 AM -->
+<GameData>
+  <Language_en_US>
+		<Row Tag="TXT_KEY_CIV_SELKNAM_DESC">
+			<Text>Selknam</Text>
+			<Gender>neuter:an</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_SELKNAM_FACTOID_HEADING">
+			<Text>Selknam Factoid</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_SELKNAM_FACTOID_TEXT">
+			<Text>There is currently only one active speaker of the Selk'nam language</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_SELKNAM_HEADING_1">
+			<Text>History</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_SELKNAM_HEADING_6">
+			<Text>The Fall of the Selknam</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_SELKNAM_HEADING_2">
+			<Text>Climate and Terrain</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_SELKNAM_HEADING_3">
+			<Text>Selknam Origins</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_SELKNAM_HEADING_4">
+			<Text>Lifestyle</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_SELKNAM_HEADING_5">
+			<Text>Height of power</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_SELKNAM_HEADING_7">
+			<Text>Legacy</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_SELKNAM_TEXT_1">
+			<Text>The Selk'nam (as the Tehuelche called them, or Ona, as the Yaghan called them) were an indigenous peoples who made Tierra del Fuego their home. They were nomads and hunter-gatherers and their ancestors were Tehuelches, who existed in the Patagonia north of the island. The island was also home to the Yaghan and other peoples that travelled by canoe through the Fuegan Canals of the west, but had very different customs, language, and appearance. The Selk'nam were the only ones that went into the island and did not depend on the coast for survival. [NEWLINE][/NEWLINE]For their housing, they made cone shaped huts by burying wood poles and covered it with animal skins.[NEWLINE][NEWLINE]They believed that a God by the name of Temaukel was omnipresent and had existed forever, and his creation, Kenos, was sent by him to organize and populate the earth with life and happiness. They did not worship them publicly and thought that there was no after-life.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_SELKNAM_TEXT_7">
+			<Text>Today, despite the Selknam's extinction, a few individuals are learning their language and reviving the treasured customs and traditions of the Selknam</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_SELKNAM_TEXT_2">
+			<Text>Several tribes made Tierra del Fuego their home and are called Fuegians. One of the most prominent were the Selk'nam, which inhabited the North and the interior of the Isla Grande. Most of the other tribes located themselves on the southern coasts. The Yaghan were another indigenous peoples and are thought to be the earliest to inhabit the island, roughly 10,000 years ago.[NEWLINE][NEWLINE]The climate is cold and humid, especially in the south, and its precipitations tend to be snow for half the year. Mammals inhabiting the island include guanacos, relatives to the llama and camel, fur seals on the coast, and red foxes. 30% of the big island is covered in dense forest with more open forests to the drier north.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_SELKNAM_TEXT_3">
+			<Text>The Selknam were nomads and hunter-gatherers and their ancestors were Tehuelches, who existed in the Patagonia north of the island.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_SELKNAM_TEXT_4">
+			<Text>They believed that a God by the name of Temaukel was omnipresent and had existed forever, and his creation, Kenos, was sent by him to organize and populate the earth with life and happiness. They did not worship them publicly and thought that there was no after-life. [NEWLINE][/NEWLINE] Their body paint was also very significant for them and they had different designs for different activities. They found special importance in the red color and covered themselves with 'akel', a red clay. The activities that determined the paint include, of course, rituals, for expression of moods, when traveling, when hunting (including camouflage), fighting, skin protection or for aesthetic purposes.  </Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_SELKNAM_TEXT_5">
+			<Text>The Selknam generally occupied the an area of Tierra del Fuego chiefly in the modern-day Argentina.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_SELKNAM_TEXT_6">
+			<Text>Sadly, the Selk'nam are extinct today. In 1880, Europeans started arriving to the island to mine gold and ranch sheep. Some would kill and rape the women. When the government allowed ranching of sheep in the parts occupied by the Selk'nam, the tribes began killing the sheep for meat, calling them "white guanacos" and the settlers began killing the tribes as a result. Others hunted them down for sport, some with governmental orders. By 1885, the Selk'nam were pushed south because of the vicious colonists, where they encountered conflicts with other tribes over territory. Religious missions settled there with the purpose of converting and "civilizing" the natives, but instead brought them diseases. The Selk'nam barely got a chance at being acculturated, they simply got terminated. In a matter of ten years, the Selk'nam were displaced and then almost fully eradicated. They were taken to human zoos and treated in sub-human ways. In 1974 Anjela Loij, the last full-bloodied Selk'nam, died. </Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_SELKNAM_TITLE">
+			<Text>Selk'nam</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_SELKNAM_SHORT_DESC">
+			<Text>Selk'nam</Text>
+			<Gender>neuter:an</Gender>
+			<Plurality>2</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_SELKNAM_ADJECTIVE">
+			<Text>Selk'nam</Text>
+			<Gender>neuter:an</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_DAWN_SELKNAM_TEXT">
+			<Text>Greetings, mighty Xo'on of the blessed haruwens of the Selk'nam! Since the dawn of time, your valiant people have thrived in this sacred landscape for countless generations, persisting in the face of the elements. Under your leadership, the territory reached its greatest extent, rivalling the vast Kaweskar in power. But the winds of fate changed, great chief, and brought with it the evil spirits of the distant north, who came armed with weapons your people had never imagined exist. They brought only destruction and suffering, forcing your people into slavery and repression, until there were only a few free Selk'nam left. [NEWLINE][NEWLINE] Oh, great and mighty shaman! The age of colonialism has passed, and your people look to you to restore the nation, for them and for all the people of the Selk'nam! Will you build a society that will stand the test of time?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SELKNAM_0">
+			<Text>Kauwes</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SELKNAM_1">
+			<Text>Hamenk</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SELKNAM_2">
+			<Text>Kauxsel</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SELKNAM_3">
+			<Text>Kawalyen</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SELKNAM_4">
+			<Text>Hamhmam</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SELKNAM_5">
+			<Text>Kasen</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SELKNAM_6">
+			<Text>Yewux</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SELKNAM_7">
+			<Text>Karkamen</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SELKNAM_8">
+			<Text>Honhpaxten</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SELKNAM_9">
+			<Text>Halyuwel</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SELKNAM_10">
+			<Text>Orukwantke</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SELKNAM_11">
+			<Text>Koresken</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SELKNAM_12">
+			<Text>Elk</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SELKNAM_13">
+			<Text>Kolyamen</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SELKNAM_14">
+			<Text>Hosi</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SELKNAM_15">
+			<Text>Kaaktar</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SELKNAM_16">
+			<Text>Haur</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SELKNAM_17">
+			<Text>Soskes</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SELKNAM_18">
+			<Text>Wai</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SELKNAM_19">
+			<Text>Saipoot</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SELKNAM_20">
+			<Text>Yebuin</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SELKNAM_21">
+			<Text>Makesyose</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SELKNAM_22">
+			<Text>Xalpen</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SELKNAM_23">
+			<Text>Kotaix</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SELKNAM_24">
+			<Text>Keternen</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SELKNAM_25">
+			<Text>Hoshtan</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SELKNAM_26">
+			<Text>Koshmenk</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SELKNAM_27">
+			<Text>Ushuaia</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SELKNAM_28">
+			<Text>Konip</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SELKNAM_29">
+			<Text>Tolhuin</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SELKNAM_30">
+			<Text>Aloiken</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SELKNAM_31">
+			<Text>Arruikikn</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SELKNAM_32">
+			<Text>Auskarmtoke</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SELKNAM_33">
+			<Text>O'tr</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SELKNAM_34">
+			<Text>Kauk'n</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SELKNAM_35">
+			<Text>Ul</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_SELKNAM_0">
+			<Text>Aichek</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_SELKNAM_1">
+			<Text>Kerren</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_SELKNAM_2">
+			<Text>Mahuin</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_SELKNAM_3">
+			<Text>Chohn</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_SELKNAM_4">
+			<Text>Nah</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_SELKNAM_5">
+			<Text>Hoshtan</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_SELKNAM_6">
+			<Text>Kulan</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_SELKNAM_7">
+			<Text>Xalpen</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_SELKNAM_8">
+			<Text>Ul</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_SELKNAM_9">
+			<Text>Makes</Text>
+			<Gender>feminine</Gender>
+		</Row>
+        <Row Tag="TXT_KEY_UNIT_KMAL">
+			<Text>K'mal</Text>
+		</Row>
+	    <Row Tag="TXT_KEY_CIV5_ANTIQUITY_KMAL_TEXT">
+		  <Text>K'mal</Text>
+	    </Row>
+		<Row Tag="TXT_KEY_UNIT_KMAL_TEXT">
+			<Text>K'mal</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_KMAL_STRATEGY">
+			<Text>K'mals are Spearman Replacements.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_HELP_KMAL">
+			<Text>K'mals are cheaper and stronger than Spearmen. Can move after attacking.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_XOON">
+			<Text>Xo'on Uhan-Té</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_XOON_PEDIA">
+			<Text>Xo'on Uhan-Té</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_XOON">
+			<Text>Xo'on Uhan-Té</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_XOON_HEADING_1">
+			<Text>Info</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_XOON_TEXT_1">
+			<Text>Xo'on Uhan-Té. This was the honorific title of a distinguished and powerful Shaman. He could allegedly kill anyone due to his power, and were apparently able to heal anyone within his power. </Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_XOON_NAME">
+			<Text>Xo'on Uhan-Té</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_XOON_SUBTITLE">
+			<Text>Grand Shaman of the Selk'nam people</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_XOON_TITLES_1">
+			<Text>Shaman of the Selk'nam</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_XOON_LIVED">
+			<Text>c.1600s</Text>
+		</Row>
+	    <Row Tag="TXT_KEY_UNIT_HAALCHIN">
+		    <Text>Haalchin</Text>
+	    </Row>
+	  <Row Tag="TXT_KEY_CIV5_UNIT_HAALCHIN">
+		  <Text>Haalchin</Text>
+	  </Row>
+	  <Row Tag="TXT_KEY_UNIT_HAALCHIN_STRATEGY">
+		  <Text>A Haalchin is a unique great artist. Traditionally, they were artisans that created weapons, masks and cermonial art for the Hain initiation ceremony.</Text>
+	  </Row>
+	  <Row Tag="TXT_KEY_UNIT_HAALCHIN_HELP">
+		  <Text>In Civ, Haalchins can be expended for a unique great work, much like the regular artist, but produces more culture.</Text>
+	  </Row>
+	  <Row Tag="TXT_KEY_GREAT_WORK_HAWITPIN">
+		   <Text>Tanu Mask</Text>
+	   </Row>
+	  <Row Tag="TXT_KEY_GREAT_WORK_HOORN">
+		  <Text>Matan Mask</Text>
+	  </Row>
+	  <Row Tag="TXT_KEY_GREAT_WORK_PAAUTIN">
+		  <Text>Koshmenk Mask</Text>
+	  </Row>
+	  <Row Tag="TXT_KEY_GREAT_WORK_SOLJEN">
+		  <Text>Ulen Mask</Text>
+	  </Row>
+	  <Row Tag="TXT_KEY_GREAT_WORK_SORREN">
+		  <Text>Shoort Body Art</Text>
+	  </Row>
+	  <Row Tag="TXT_KEY_GREAT_WORK_ULICHEN">
+		  <Text>Kterrnen Body Art</Text>
+	  </Row>
+	  <Row Tag="TXT_KEY_GREAT_WORK_KINA">
+		  <Text>Ki:na Mask</Text>
+	  </Row>
+	  <Row Tag="TXT_KEY_HAWITPIN">
+		  <Text>Hawitpin</Text>
+	  </Row>
+	  <Row Tag="TXT_KEY_HOORN">
+		  <Text>Hoorn</Text>
+	  </Row>
+	  <Row Tag="TXT_KEY_PAAUTIN">
+		  <Text>Paautin</Text>
+	  </Row>
+	  <Row Tag="TXT_KEY_SOLJEN">
+		  <Text>Soljen</Text>
+	  </Row>
+	  <Row Tag="TXT_KEY_SORREN">
+		  <Text>Sorren</Text>
+	  </Row>
+	  <Row Tag="TXT_KEY_ULICHEN">
+		  <Text>Ulichen</Text>
+	  </Row>
+	  <Row Tag="TXT_KEY_KINA">
+		  <Text>Keyuk</Text>
+	  </Row>
+	  <Row Tag="TXT_KEY_BUILDING_RANDOM_HAIN_YIELD">
+		  <Text>This turn, the Hain Huts have brought us {1_Faith} [ICON_PEACE] Faith, {2_Culture} [ICON_CULTURE] Culture in one of our cities! Truly Temaukel is with us.</Text>
+	  </Row>
+	  <Row Tag="TXT_KEY_BUILDING_RANDOM_HAIN_YIELD_CITIES">
+		  <Text>This turn, the Hain Huts have brought us {1_Faith} [ICON_PEACE] Faith, {2_Culture} [ICON_CULTURE] Culture in {4_Cities} cities! Truly Temaukel is with us.</Text>
+	  </Row>
+	  <Row Tag="TXT_KEY_BUILDING_AESTHETICS_BOOST_HELP">
+		  <Text>A boost to enable faith purchases to progress the Aesthetics Tree.</Text>
+	  </Row>
+	  <Row Tag="TXT_KEY_BUILDING_AESTHETICS_BOOST">
+		  <Text>Aesthetics Boost</Text>
+	  </Row>
+	  <Row Tag="TXT_KEY_BUILDING_AESTHETICS_BOOST_DESC">
+		  <Text>Enables faster progression of the Aesthetics Tree, introduced in BNW.</Text>
+	  </Row>
+	  <Row Tag="TXT_KEY_BUILDING_AESTHETICS_BOOST_QUOTE">
+		  <Text>Selk'nam Trait</Text>
+	  </Row>
+
+
+	  <!--Lailuka Mythology-->
+		<Row Tag="TXT_KEY_TRAIT_HOOWIN_SHORT">
+			<Text>Lailuka Mythology</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_HOOWIN">
+			<Text>The Aesthetics Policy Tree is available from the start of the game. Melee Units can climb mountains upon reseacrhing optics, and all tundra tiles produce +1 FoodGain an unique resource [ICON_RES_JEPR], Jepr, from Markets.</Text>
+		</Row>
+  </Language_en_US>
+</GameData>

@@ -1,0 +1,79 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mod id="3a499d9c-b130-41de-a4d6-4882f312f2b4" version="3">
+  <Properties>
+    <Name>Vivala's Metis (Louis Riel)</Name>
+    <Stability>Alpha</Stability>
+    <Teaser>Adds the Metis civilization, led by Louis Riel.</Teaser>
+    <Description>Adds the Metis civilization, led by Louis Riel.</Description>
+    <Authors>Vivala</Authors>
+    <HideSetupGame>0</HideSetupGame>
+    <AffectsSavedGames>1</AffectsSavedGames>
+    <MinCompatibleSaveVersion>0</MinCompatibleSaveVersion>
+    <SupportsSinglePlayer>1</SupportsSinglePlayer>
+    <SupportsMultiplayer>1</SupportsMultiplayer>
+    <SupportsHotSeat>1</SupportsHotSeat>
+    <SupportsMac>1</SupportsMac>
+    <ReloadAudioSystem>0</ReloadAudioSystem>
+    <ReloadLandmarkSystem>0</ReloadLandmarkSystem>
+    <ReloadStrategicViewSystem>0</ReloadStrategicViewSystem>
+    <ReloadUnitSystem>0</ReloadUnitSystem>
+  </Properties>
+  <Dependencies />
+  <References />
+  <Blocks />
+  <Files>
+    <File md5="1F7A6E911405397929571CD3F64B0A41" import="1">Art/Alpha/Coureurflag.dds</File>
+    <File md5="32BE9EC897FB53F7B5627E2D067E049E" import="1">Art/Alpha/MetisAlpha128.dds</File>
+    <File md5="20A47E41AF2A838F861E193062690917" import="1">Art/Alpha/MetisAlpha16.dds</File>
+    <File md5="DBC3E38221A6E2D7BE0CB5EDF10CCCD0" import="1">Art/Alpha/MetisAlpha22.dds</File>
+    <File md5="B4303EAE6AF1B95735122EE00D367566" import="1">Art/Alpha/MetisAlpha24.dds</File>
+    <File md5="245B9E8093A653CF376BB5730BBE6937" import="1">Art/Alpha/MetisAlpha256.dds</File>
+    <File md5="9F4FF1B1B86E2FADD06EDF8A56C5A14D" import="1">Art/Alpha/MetisAlpha32.dds</File>
+    <File md5="F205BCF1513B6D3404017AA5920E4E13" import="1">Art/Alpha/MetisAlpha45.dds</File>
+    <File md5="329184C1DB9DEE7FE8B7D083CD915B91" import="1">Art/Alpha/MetisAlpha48.dds</File>
+    <File md5="EACFCB0C39B7C62C859533F6F7F8422C" import="1">Art/Alpha/MetisAlpha64.dds</File>
+    <File md5="B0A4DD48EE88FC539362D7A58324C4F6" import="1">Art/Alpha/MetisAlpha80.dds</File>
+    <File md5="F7EF871FD6978F59C801B2479EC7BFD9" import="1">Art/Atlas/MetisAtlas128.dds</File>
+    <File md5="DB6786DC0F19AD19BF23267D46FF84CA" import="1">Art/Atlas/MetisAtlas256.dds</File>
+    <File md5="2D6383C5CF63D836D4A53DDD702CC45D" import="1">Art/Atlas/MetisAtlas32.dds</File>
+    <File md5="63CBA0F686CD7511BB122243A3FDCBC6" import="1">Art/Atlas/MetisAtlas45.dds</File>
+    <File md5="54465C8D678D07F0D468B3F1D71FF95A" import="1">Art/Atlas/MetisAtlas64.dds</File>
+    <File md5="961C2041D32D067872C51A4E2B5643FD" import="1">Art/Atlas/MetisAtlas80.dds</File>
+    <File md5="DB14D507798110788AF576132701B979" import="1">Art/MetisIconAtlas.xml</File>
+    <File md5="6F3F043CE639E4ABF19B5F5E68135C8C" import="1">Art/MetisMap.dds</File>
+    <File md5="8526F0EF01383D5B347CF7F42B24021A" import="1">Art/RielDOM.dds</File>
+    <File md5="D188E32FF43ABC10FDD8984F8BFE74CC" import="1">Art/RielLeaderScreen.dds</File>
+    <File md5="4555988341E50410F8CD0AECC3254716" import="0">Lua/Metis Uniques.lua</File>
+    <File md5="B6574B90985B6DF8C966D4072A5EA838" import="0">XML/Buildings - Metis Trait.xml</File>
+    <File md5="CFCDC1646282B8641AA55F1B069D5D29" import="0">XML/Building - Trade Factory.xml</File>
+    <File md5="4D5E5BB4948EC0E4EE69343377F7DDA8" import="0">XML/Building - Trade Factory Water.xml</File>
+    <File md5="87BEAB31D13F1A50E210A574513436F6" import="0">XML/Civilization - Metis.xml</File>
+    <File md5="4408AD8D2A7C9A7F73D7366BA89F58E2" import="0">XML/Diplomacy Responses - Riel.xml</File>
+    <File md5="3C5CDAA819AEBF54351B658F1CF11F48" import="0">XML/Leader - Riel.xml</File>
+    <File md5="6AB41D5E3EB2054D9F5DBAD94183F5E5" import="0">XML/Promotions - Coureur des Bois.xml</File>
+    <File md5="F6092D812F08E8A5D1EB94040A2D5B30" import="1">XML/Riel_Scene.xml</File>
+    <File md5="F8595CA09F45E5D4AB12616FDE0FDB76" import="0">XML/Unit - Coureur des Bois.xml</File>
+    <File md5="04D33DA3177AF97FB5953F8DC4175F8E" import="0">XML/Trait - Metis.xml</File>
+  </Files>
+  <Actions>
+    <OnModActivated>
+      <UpdateDatabase>Art/MetisIconAtlas.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Building - Trade Factory.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Civilization - Metis.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Diplomacy Responses - Riel.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Leader - Riel.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Trait - Metis.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Unit - Coureur des Bois.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Riel_Scene.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Building - Trade Factory Water.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Promotions - Coureur des Bois.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Buildings - Metis Trait.xml</UpdateDatabase>
+    </OnModActivated>
+  </Actions>
+  <EntryPoints>
+    <EntryPoint type="InGameUIAddin" file="Lua/Metis Uniques.lua">
+      <Name>Metis Uniques</Name>
+      <Description>Implements the Metis' UA and UU.</Description>
+    </EntryPoint>
+  </EntryPoints>
+</Mod>

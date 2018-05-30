@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 3/9/2013 1:13:12 PM -->
+<GameData>
+  <!-- TODO: Insert table creation example here. -->
+ 
+  <!-- TODO: Insert table data example here.-->
+  
+  <!-- Enter your Game Data here. -->
+	<Civilization_Religions>
+		<Row>
+			<CivilizationType>CIVILIZATION_TOSA</CivilizationType>
+			<ReligionType>RELIGION_SHINTO</ReligionType>
+		</Row>
+	</Civilization_Religions>
+</GameData>

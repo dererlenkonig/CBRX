@@ -1,0 +1,108 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mod id="c2b8e687-f403-48d9-9594-8d7eaeac0321" version="1">
+  <Properties>
+    <Name>JMan's Senusi Libya</Name>
+    <Stability>Alpha</Stability>
+    <Teaser>Adds Senusi Libya led by Omar Mukhtar</Teaser>
+    <Description>Adds Libya under Omar Mukhtar as a playable civilization, with Brave New World.
+
+[QUOTE]
+[I]Unique Ability: [B]Lion of the Desert[/B][/I]
+
+All desert tiles that produce Food also produce an equal amount of Faith and Great General Points.
+
+[I]Unique Unit: [B]Akhdari Cavalry[/B][/I]
+
+The Akhdari Cavalry replaces the Great War Infantry. It is faster than a cavalry unit, but is weaker and more expensive. When an Akhdari Cavalry is destroyed, a vanilla Great War Infantry spawns in its place. 
+
+[I]Unique Great Person: [B]Al-Qayid[/B][/I]
+
+Replacing the Great General, the Al-Qayid can build Markaz Qiadas instead of a normal Citadel. The Markaz Qiada can only be built in deserts, but provides +1 Food, and an additional +1 Production if on a desert hill. 
+
+[/QUOTE]
+
+Thank you all for the support you have given me in making this mod. This mod would not be possible without the Helpline or Blue Cassette.
+
+[B]Credits:[/B]
+Core: Jmangelo67
+Lua: Chrisy15
+Map Art: Emeraldrange
+Icon Art: Coiot, Cubby
+Leaderscreen: Scissor_Fingers
+Alpha Icons: Coiot, Scissor_Fingers, Urdnott
+Dawn of Man Screen: Limerickarcher
+Assembly and Debugging: Limerickarcher
+
+[B]Planned Updates:[/B]
+[*] Proper Civilopedia Entries
+[*] Extensive mod support
+[*] DOM Voiceovers
+[*] Extended GameText including diplomacy responses</Description>
+    <Authors>Jmangelo, Limerickarcher, Scissor_Fingers</Authors>
+    <HideSetupGame>0</HideSetupGame>
+    <AffectsSavedGames>1</AffectsSavedGames>
+    <MinCompatibleSaveVersion>0</MinCompatibleSaveVersion>
+    <SupportsSinglePlayer>1</SupportsSinglePlayer>
+    <SupportsMultiplayer>0</SupportsMultiplayer>
+    <SupportsHotSeat>0</SupportsHotSeat>
+    <SupportsMac>1</SupportsMac>
+    <ReloadAudioSystem>1</ReloadAudioSystem>
+    <ReloadLandmarkSystem>1</ReloadLandmarkSystem>
+    <ReloadStrategicViewSystem>1</ReloadStrategicViewSystem>
+    <ReloadUnitSystem>1</ReloadUnitSystem>
+  </Properties>
+  <Dependencies />
+  <References />
+  <Blocks />
+  <Files>
+    <File md5="4405D1BBB9A894C71FEFB923E9B28B4E" import="0">Art/Art_Defines.sql</File>
+    <File md5="593065F3B40FE92A0DAC682BC0F4ADEC" import="1">Art/IconAtlas/JMANGELO_LibyaAlpha_24.dds</File>
+    <File md5="D4F5675C6A135FEF14AB9F98EB4E7909" import="1">Art/IconAtlas/JMANGELO_LibyaAlpha_32.dds</File>
+    <File md5="AE2BF7A6AEC4ED9784C59737642D0861" import="1">Art/IconAtlas/JMANGELO_LibyaAlpha_48.dds</File>
+    <File md5="1E916986E31A2938337D15D278D3652E" import="1">Art/IconAtlas/JMANGELO_LibyaAlpha_64.dds</File>
+    <File md5="8533A1F8A6E4BE4308D4089727B01334" import="1">Art/IconAtlas/JMANGELO_LibyaAtlas_128.dds</File>
+    <File md5="8ACFFA87FD88A1B0225E9C6A02228CEE" import="1">Art/IconAtlas/JMANGELO_LibyaAtlas_256.dds</File>
+    <File md5="D6666EB80A0240E8C63879B3E7DD45F0" import="1">Art/IconAtlas/JMANGELO_LibyaAtlas_32.dds</File>
+    <File md5="F4198A0FB4790D441252FC479C4D9E3B" import="1">Art/IconAtlas/JMANGELO_LibyaAtlas_45.dds</File>
+    <File md5="585146FB86DE915A3E4A0EB9EB964804" import="1">Art/IconAtlas/JMANGELO_LibyaAtlas_64.dds</File>
+    <File md5="38021A936A3881A891BDE31D3780FD8E" import="1">Art/IconAtlas/JMANGELO_LibyaAtlas_80.dds</File>
+    <File md5="4DB66D4B45C8A028B7B97251E18EC9C8" import="1">Art/IconAtlas/JMANGELO_MarkasQiadaAtlas_256.dds</File>
+    <File md5="7657307FBE1970B16216EB71DB90DDCB" import="1">Art/IconAtlas/JMANGELO_MarkasQiadaAtlas_45.dds</File>
+    <File md5="38600D0712F7D005619627CEE55333A1" import="1">Art/IconAtlas/JMANGELO_MarkasQiadaAtlas_64.dds</File>
+    <File md5="157006EED456A302661D2E89D1C52750" import="1">Art/Other/Diplo_OmarMukhtar.dds</File>
+    <File md5="12DD69F0AE0265D7A0BD8F05B6D99789" import="1">Art/Other/Diplo_OmarMukhtar.xml</File>
+    <File md5="032E3618C2B3C7A0E1BBE2CD2016C7B5" import="1">Art/Other/DOMMukhtar.dds</File>
+    <File md5="8A363B4FCF5F69D3B23ACF5C89356E07" import="1">Art/Other/JMANGELO_LibyaUnitFlag_32.dds</File>
+    <File md5="A4F364FA4667B262150689B804920A27" import="1">Art/Other/MapLibya.dds</File>
+    <File md5="B96D5D871F3C7BDE64968590C140DAFF" import="1">Art/Other/SV_Akhdari.dds</File>
+    <File md5="211F3AE4F5414F82D8A9FCF7A397DB12" import="1">Art/Other/SV_AlQayid.dds</File>
+    <File md5="B4A2495C36F72FF0DEF9D67B05243A30" import="0">Lua/Libya_Functions.lua</File>
+    <File md5="F46D3E2964E956E952D60B095F5FFB46" import="0">SQL/Libya_GameDefines.sql</File>
+    <File md5="26E85B0A6769D3EBACCF72245891C41C" import="0">SQL/Libya_GameDefines_Diplomacy.sql</File>
+    <File md5="CAEFC24A4449C624F5E40CB06254947E" import="0">XML/Civilization/CIV5Traits.xml</File>
+    <File md5="604599F4BA460D99033568E7732ED1F2" import="0">XML/Civilization/SenusiLibya.xml</File>
+    <File md5="7766A6ACD387ACC082C5644000905B1A" import="0">XML/Leader/CIV5Leader_OmarMukhtar.xml</File>
+    <File md5="276D7C0B4ABB118119F102F07F80E069" import="0">XML/NewText/Diplomacy.xml</File>
+    <File md5="C9D6185CDF6DC189D33890EAC6D7E8EF" import="0">XML/NewText/GameText.xml</File>
+    <File md5="5814BCC65C9C3F18CDAF00D594C33DE7" import="0">XML/Units/Units.xml</File>
+  </Files>
+  <Actions>
+    <OnModActivated>
+      <UpdateDatabase>XML/Civilization/SenusiLibya.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Leader/CIV5Leader_OmarMukhtar.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Civilization/CIV5Traits.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Units/Units.xml</UpdateDatabase>
+      <UpdateDatabase>XML/NewText/GameText.xml</UpdateDatabase>
+      <UpdateDatabase>Art/Art_Defines.sql</UpdateDatabase>
+      <UpdateDatabase>SQL/Libya_GameDefines.sql</UpdateDatabase>
+      <UpdateDatabase>Art/Other/Diplo_OmarMukhtar.xml</UpdateDatabase>
+      <UpdateDatabase>SQL/Libya_GameDefines_Diplomacy.sql</UpdateDatabase>
+    </OnModActivated>
+  </Actions>
+  <EntryPoints>
+    <EntryPoint type="InGameUIAddin" file="Lua/Libya_Functions.lua">
+      <Name>Libya Functions</Name>
+      <Description>Libya Functions</Description>
+    </EntryPoint>
+  </EntryPoints>
+</Mod>

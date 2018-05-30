@@ -1,0 +1,36 @@
+TraitBasedLua = 'TRUE';
+
+OVERRIDE_AUTO  = { 
+	CIVILIZATIONS = {
+		CIVILIZATION = {
+			Civilization = 'CIVILIZATION_JFD_QING';
+			Leader = 'LEADER_JFD_CIXI';
+		};
+	};
+
+	MOD_SUPPORT = {
+		Civ4Traits = {
+			LEADER_JFD_CIXI = {
+				Leader 	= 	'LEADER_JFD_CIXI';
+				LeaderTXT	=	'Cixi ';
+			};
+		};
+	};
+
+	COMPONENTS = {
+		COMPONENT = {
+			Type = 'UNIT_JFD_PEKING_FORCE';
+			Class = 'UNITCLASS_GREAT_WAR_INFANTRY';
+		};
+		COMPONENT = {
+			Type = 'BUILDING_JFD_NAVAL_COLLEGE';
+			Class = 'BUILDINGCLASS_SEAPORT';
+		};
+	};
+
+	TRAITS = {
+		TRAIT = {
+			Type = 'TRAIT_JFD_QING';
+		};
+	};
+};

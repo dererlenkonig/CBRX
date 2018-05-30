@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<Diplomacy_Responses>
+		<Row LeaderType="LEADER_VIVALA_LOUIS_RIEL">
+			<ResponseType>RESPONSE_FIRST_GREETING</ResponseType>
+			<Response>TXT_KEY_LEADER_VIVALA_LOUIS_RIEL_FIRSTGREETING%</Response>
+		</Row>
+		<Row LeaderType="LEADER_VIVALA_LOUIS_RIEL">
+			<ResponseType>RESPONSE_DEFEATED</ResponseType>
+			<Response>TXT_KEY_LEADER_VIVALA_LOUIS_RIEL_DEFEATED%</Response>
+		</Row>
+		<Row LeaderType="LEADER_VIVALA_LOUIS_RIEL">
+			<ResponseType>RESPONSE_GREETING_POLITE_HELLO</ResponseType>
+			<Response>TXT_KEY_LEADER_VIVALA_LOUIS_RIEL_POLITE_HELLO%</Response>
+		</Row>
+		<Row LeaderType="LEADER_VIVALA_LOUIS_RIEL">
+			<ResponseType>RESPONSE_GREETING_NEUTRAL_HELLO</ResponseType>
+			<Response>TXT_KEY_LEADER_VIVALA_LOUIS_RIEL_NEUTRAL_HELLO%</Response>
+		</Row>
+		<Row LeaderType="LEADER_VIVALA_LOUIS_RIEL">
+			<ResponseType>RESPONSE_GREETING_HOSTILE_HELLO</ResponseType>
+			<Response>TXT_KEY_LEADER_VIVALA_LOUIS_RIEL_HOSTILE_HELLO%</Response>
+		</Row>
+		<Row LeaderType="LEADER_VIVALA_LOUIS_RIEL">
+			<ResponseType>RESPONSE_HOSTILE_AGGRESSIVE_MILITARY_WARNING</ResponseType>
+			<Response>TXT_KEY_LEADER_VIVALA_LOUIS_RIEL_HOSTILE_AGGRESSIVE_MILITARY_WARNING%</Response>
+		</Row>
+		<Row LeaderType="LEADER_VIVALA_LOUIS_RIEL">
+			<ResponseType>RESPONSE_EXPANSION_SERIOUS_WARNING</ResponseType>
+			<Response>TXT_KEY_LEADER_VIVALA_LOUIS_RIEL_EXPANSION_SERIOUS_WARNING%</Response>
+		</Row>
+		<Row LeaderType="LEADER_VIVALA_LOUIS_RIEL">
+			<ResponseType>RESPONSE_REQUEST</ResponseType>
+			<Response>TXT_KEY_LEADER_VIVALA_LOUIS_RIEL_RESPONSE_REQUEST%</Response>
+		</Row>
+		<Row LeaderType="LEADER_VIVALA_LOUIS_RIEL">
+			<ResponseType>RESPONSE_LUXURY_TRADE</ResponseType>
+			<Response>TXT_KEY_LEADER_VIVALA_LOUIS_RIEL_RESPONSE_LUXURY_TRADE%</Response>
+		</Row>
+		<Row LeaderType="LEADER_VIVALA_LOUIS_RIEL">
+			<ResponseType>RESPONSE_OPEN_BORDERS_EXCHANGE</ResponseType>
+			<Response>TXT_KEY_LEADER_VIVALA_LOUIS_RIEL_OPEN_BORDERS_EXCHANGE%</Response>
+		</Row>
+		<Row LeaderType="LEADER_VIVALA_LOUIS_RIEL">
+			<ResponseType>RESPONSE_ATTACKED_BETRAYED</ResponseType>
+			<Response>TXT_KEY_LEADER_VIVALA_LOUIS_RIEL_ATTACKED_BETRAYED</Response>
+		</Row>
+		<Row LeaderType="LEADER_VIVALA_LOUIS_RIEL">
+			<ResponseType>RESPONSE_ATTACKED_EXCITED</ResponseType>
+			<Response>TXT_KEY_LEADER_VIVALA_LOUIS_RIEL_ATTACKED_EXCITED</Response>
+		</Row>
+		<Row LeaderType="LEADER_VIVALA_LOUIS_RIEL">
+			<ResponseType>RESPONSE_ATTACKED_HOSTILE</ResponseType>
+			<Response>TXT_KEY_LEADER_VIVALA_LOUIS_RIEL_ATTACKED_HOSTILE</Response>
+		</Row>
+		<Row LeaderType="LEADER_VIVALA_LOUIS_RIEL">
+			<ResponseType>RESPONSE_TRADE_NEEDMORE_ANGRY</ResponseType>
+			<Response>TXT_KEY_LEADER_VIVALA_LOUIS_RIEL_TRADE_NEEDMORE_ANGRY</Response>
+		</Row>
+		<Row LeaderType="LEADER_VIVALA_LOUIS_RIEL">
+			<ResponseType>RESPONSE_TRADE_NEEDMORE_NEUTRAL</ResponseType>
+			<Response>TXT_KEY_LEADER_VIVALA_LOUIS_RIEL_TRADE_NEEDMORE_NEUTRAL</Response>
+		</Row>
+		<Row LeaderType="LEADER_VIVALA_LOUIS_RIEL">
+			<ResponseType>RESPONSE_TRADE_NEEDMORE_HAPPY</ResponseType>
+			<Response>TXT_KEY_LEADER_VIVALA_LOUIS_RIEL_TRADE_NEEDMORE_HAPPY</Response>
+		</Row>
+	</Diplomacy_Responses>
+	<Language_en_US>
+		<Row Tag="TXT_KEY_LEADER_VIVALA_LOUIS_RIEL_FIRSTGREETING_1">
+			<Text>My name is Louis Riel, some know me as the leader of the traders over yonder. I will perhaps be one day acknowledged as more than a leader of men, and if I am, I will have an opportunity of being acknowledged as a leader of good in this great country.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VIVALA_LOUIS_RIEL_FIRSTGREETING_2">
+			<Text>Greetings, I am Louis Riel. I say, humbly, through the grace of God I believe I am the prophet of the New World. What mission has brought you here?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VIVALA_LOUIS_RIEL_FIRSTGREETING_3">
+			<Text>Your travels have brought you a long way from home. This is the land of the Métis, and I am Louis Riel, defender of my people. If you seek our goods, we are more than happy to trade. If you seek our lands, the rebellion you spark will burn your empire to the ground.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VIVALA_LOUIS_RIEL_DEFEATED_1">
+			<Text>I am more convinced everyday that without a single exception I did right. And I have always believed that, as I have acted honestly, the time will come when the people of the world will see and acknowledge it.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VIVALA_LOUIS_RIEL_DEFEATED_2">
+			<Text>My people will sleep for one hundred years, but when they awake, it will be the artists who give them their spirit back.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VIVALA_LOUIS_RIEL_DEFEATED_3">
+			<Text>During these different phases of strain, the Metis nation has never, for anything in the world, abandoned its leaders, who were no doubt devoted, but were subjected by a treacherous civilization, to all sorts of humiliation and misery. God will reward it for its loyalty and constancy. In spite of failures, the Metis cause grows incessantly...</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VIVALA_LOUIS_RIEL_GREETING_POLITE_HELLO_1">
+			<Text>Welcome! I hope God has graced you as He has graced me.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VIVALA_LOUIS_RIEL_GREETING_POLITE_HELLO_2">
+			<Text>It is good to see you again. May I interest you in a fresh set of furs for your return trip?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VIVALA_LOUIS_RIEL_GREETING_NEUTRAL_HELLO_1">
+			<Text>Welcome. I hope you took the time to visit our factory on your way in.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VIVALA_LOUIS_RIEL_GREETING_HOSTILE_HELLO_1">
+			<Text>If you want anything from me, leave. I have nothing but my heart and I have given it long ago to my country.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VIVALA_LOUIS_RIEL_GREETING_HOSTILE_HELLO_2">
+			<Text>Begone. God does not grace you.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VIVALA_LOUIS_RIEL_HOSTILE_AGGRESSIVE_MILITARY_WARNING_1">
+			<Text>My patience is nearing its end. If you intend to make use of those troops, your domination and arrogance will be broken in this land.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VIVALA_LOUIS_RIEL_EXPANSION_SERIOUS_WARNING_1">
+			<Text>If you want access to the bounties of our land, you can simply trade for them. Imperialist expansion, however, will leave you poorer than when you began.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VIVALA_LOUIS_RIEL_REQUEST">
+			<Text>You know that we are usually quite capable of holding our own, so understand that this request comes with the utmost humility and necessity.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VIVALA_LOUIS_RIEL_LUXURY_TRADE">
+			<Text>Even our most experienced Coureurs des Bois were unable to track down that item. Please, pay a visit to one of our factories, so we may trade for it.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VIVALA_LOUIS_RIEL_OPEN_BORDERS_EXCHANGE">
+			<Text>The intermingling of our peoples can only make us stronger.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VIVALA_LOUIS_RIEL_ATTACKED_BETRAYED">
+			<Text>We may be a small community and a Half-breed community at that — but we are men, free and spirited men, and we will not allow even you to trample on our rights.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VIVALA_LOUIS_RIEL_ATTACKED_EXCITED">
+			<Text>The smile that comes to my face is not an act of my will, so much it comes naturally, from the satisfaction that I prove that I experience seeing one of my difficulties disappearing.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VIVALA_LOUIS_RIEL_ATTACKED_HOSTILE">
+			<Text>In a little while it will be over. We may fail. But the rights for which we contend will not die.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VIVALA_LOUIS_RIEL_TRADE_NEEDMORE_ANGRY">
+			<Text>What a pathetic excuse for a trade deal.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VIVALA_LOUIS_RIEL_TRADE_NEEDMORE_HAPPY">
+			<Text>My apologies, friend, but our factories have particularly high standards when it comes to trade, so you will need to offer more to please them.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VIVALA_LOUIS_RIEL_TRADE_NEEDMORE_NEUTRAL">
+			<Text>I hope you did not travel all this way just for that offer.</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

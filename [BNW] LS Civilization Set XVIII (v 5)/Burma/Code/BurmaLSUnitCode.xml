@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Context>
+    <Instance Name="AnchorInstance" >
+		<WorldAnchor ID="Anchor" Scaling="True" DepthAdjust="0" >
+			<Stack Offset="0,0" StackGrowth="Right" Anchor="C,C" ID="Stack">
+				<Box Size="512,512">
+					<Image Size="256,256" Anchor ="C,C" Offset="0, -40" Texture="BurmaLSPagodaV10F.dds" ID="Image" Sampler="Linear" BranchAlpha="0.9"/>
+				</Box>
+			</Stack>
+		</WorldAnchor>
+    </Instance>
+
+	<Container ID="Scrap" Hidden="1" />
+    <Container ID="YieldStore" />
+	<Box ID="MyBackground" Hidden="1" Anchor="L,B" Size="35,35" Offset="105,10" Color="0,0,0,0" ConsumeMouse="1">
+		<GridButton Anchor="R,T" ID="MyButton" Size="36,36" Offset="0,0"  Style="SmallButton2"  Hidden="0">
+			<Image Anchor="C,C" Offset="0,0" Size="45,45" Texture="UnitActions360.dds" ID="MyImage45" />
+		</GridButton>
+		<GridButton Anchor="R,T" ID="MyButton64" Size="50,50" Offset="0,0"  Style="BaseButton"  Hidden="0" >
+			<Image Anchor="C,C" Offset="0,0" Size="64,64" Texture="UnitActions.dds" ID="MyImage64" />
+		</GridButton>
+	</Box>
+</Context>

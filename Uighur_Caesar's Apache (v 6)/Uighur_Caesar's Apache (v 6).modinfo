@@ -1,0 +1,116 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mod id="00808576-3b2c-4364-89bc-62148958cce0" version="6">
+  <Properties>
+    <Name>Uighur_Caesar's Apache</Name>
+    <Stability>Alpha</Stability>
+    <Teaser>Adds the Apache under Geronimo to the game.</Teaser>
+    <Description>Adds the Apache under Geronimo to the game. 
+
+UA: Raiding Menace: Units lose no movement when entering pillaged tiles and gain double XP when fighting on pillaged tiles. Gain a free worker upon capturing a city (once per city). 
+
+UU: Renegade: Replaces Rifleman. No cost to pillage, and can enter another civs territory without open borders. Gain a Survivalism promotion equal to its highest Shock or Drill Promotion. 
+
+UU: Warband: Replaces Cavalry. Ignores enemy ZOC and increased flank attack bonus. If attacking a military unit stacked with a civilian, the civilian is killed and this unit heals and gains XP. 
+
+Compatible with CulDiv, Civ4 traits, RtP, YNAEMP 
+
+Credits: 
+
+Kujarim_Wuniver: Icons and Geronimo 
+
+ldvhl: Map, City List, Design help 
+
+Groucho Marx: Geronimo Dialogue 
+
+ruhrgebietheld: Pedias 
+
+DarthStarKiller: Unit flags</Description>
+    <Authors>Uighur_Caesar</Authors>
+    <SpecialThanks>Idvhl, DarthStarKiller, Groucho Marx, ruhrgebietheld, Kujarim_Wuniver, ldvhl</SpecialThanks>
+    <HideSetupGame>0</HideSetupGame>
+    <AffectsSavedGames>1</AffectsSavedGames>
+    <MinCompatibleSaveVersion>0</MinCompatibleSaveVersion>
+    <SupportsSinglePlayer>1</SupportsSinglePlayer>
+    <SupportsMultiplayer>1</SupportsMultiplayer>
+    <SupportsHotSeat>1</SupportsHotSeat>
+    <SupportsMac>1</SupportsMac>
+    <ReloadAudioSystem>1</ReloadAudioSystem>
+    <ReloadLandmarkSystem>1</ReloadLandmarkSystem>
+    <ReloadStrategicViewSystem>1</ReloadStrategicViewSystem>
+    <ReloadUnitSystem>1</ReloadUnitSystem>
+  </Properties>
+  <Dependencies />
+  <References>
+    <Mod id="31a31d1c-b9d7-45e1-842c-23232d66cd47" minversion="0" maxversion="999" title="JFD'S Cultural Diversity" />
+    <Mod id="eea66053-7579-481a-bb8d-2f3959b59974" minversion="0" maxversion="999" title="JFD's Rise to Power" />
+    <Mod id="36e88483-48fe-4545-b85f-bafc50dde315" minversion="0" maxversion="999" title="YNAEMP" />
+    <Mod id="1153b26a-69fd-4cd5-899c-a8ba8e0e5e5d" minversion="0" maxversion="999" title="CIV Traits" />
+  </References>
+  <Blocks />
+  <Files>
+    <File md5="68C78718C0FF5EE30AB1A05CCC4CC6C6" import="1">Art/ApacheAlpha128.dds</File>
+    <File md5="1EBE5D92C336B70E0E2D76EC955621DC" import="1">Art/ApacheAlpha16.dds</File>
+    <File md5="F36B4D93F7F579060AB69A8B7EC93498" import="1">Art/ApacheAlpha24.dds</File>
+    <File md5="D9BE2E4CF8DE2AF32497C6E6D62B2598" import="1">Art/ApacheAlpha32.dds</File>
+    <File md5="D6C322E6BBA5C4705E4F2B449B1A9780" import="1">Art/ApacheAlpha45.dds</File>
+    <File md5="6F8933BAE736580B2B29271DF4FF7144" import="1">Art/ApacheAlpha48.dds</File>
+    <File md5="77496DF8E8E2AA5D8123FFB627A8261E" import="1">Art/ApacheAlpha64.dds</File>
+    <File md5="DBD17B562C137D3F10DAE69C341CA0C2" import="1">Art/ApacheAlpha80.dds</File>
+    <File md5="1B3159F7B887FF1E7FB224014BEE58A0" import="1">Art/WarbandFlag.dds</File>
+    <File md5="F07673160F47D50430EC4B38A704A6B3" import="1">Art/RenegadeFlag.dds</File>
+    <File md5="C8C1081BCD7C5E9FE7172CCEF5058C56" import="1">Art/WarbandSV.dds</File>
+    <File md5="C3EC6AB8FA308A2A0E7C12CAD15A248A" import="1">Art/GeronimoPeace.mp3</File>
+    <File md5="2E14A3517B7C13E34F9E79F093B59A83" import="1">Art/ApacheLS.dds</File>
+    <File md5="4CFB99220F1DEDF69E0E79A53FA9E29D" import="1">Art/Apache128.dds</File>
+    <File md5="2DBD93B6CDFC78B447FDC67FAEAD6312" import="1">Art/Apache256.dds</File>
+    <File md5="EAF09343752036E1DA8BD9953E62613B" import="1">Art/Apache32.dds</File>
+    <File md5="1609AD7EC8DE5B2C689AC2AB6309B5E5" import="1">Art/Apache45.dds</File>
+    <File md5="1623C5D20B494EEDAB1CE401C2FC0737" import="1">Art/Apache64.dds</File>
+    <File md5="B61E441F28373656BFA1493BBC6FDF7A" import="1">Art/Apache80.dds</File>
+    <File md5="8CCCBB52EB9193CC8AED7A29A1767292" import="1">Art/apachemap.dds</File>
+    <File md5="0BF02EC2FCB610A0DE9B1B68FAD6F6DA" import="1">Art/GeronimoWar.mp3</File>
+    <File md5="338F6B4CB2D7CCAC56BAD64098C8A676" import="1">Art/CL_Ogichidaa.dds</File>
+    <File md5="4405D08D71154A6EF8080BC9939D7B12" import="1">Art/CL_Ogichidaa.fxsxml</File>
+    <File md5="765072D82D6BE794B3F0B6CF3B823483" import="1">Art/CL_Ogichidaa.gr2</File>
+    <File md5="90146577D23613FC36C97DE4D91185F1" import="1">Art/GeronimoDOM.dds</File>
+    <File md5="D187020D1294A1EAB803F9AF654D5AEF" import="1">Art/RenegadeSV.dds</File>
+    <File md5="E39A2890EAB8FF9E86EC4911A045C75B" import="0">Lua/ApacheFunctions.lua</File>
+    <File md5="5754B1BE6E37A2F9D04D9D4149E5CDDF" import="1">Lua/SaveUtils.lua</File>
+    <File md5="3FBE7C9EB3D3A272E436E8FCB74915A6" import="0">Text/Diplo.xml</File>
+    <File md5="42797B4497B802CCF66289CFB36C82EB" import="0">Text/Diplo.sql</File>
+    <File md5="983E6E8DE513ACF9FC5BD0F7D02F95D8" import="0">Text/Text.xml</File>
+    <File md5="41734E9B5F88491A1529D054F259A64F" import="0">XML/Apache.xml</File>
+    <File md5="2BE7169CB2529A9F34BFDBB8B67D354C" import="0">XML/Buildings.xml</File>
+    <File md5="656BA485C39DF43A4627B129F9338937" import="0">XML/ArtDefines.xml</File>
+    <File md5="EAC3D934872F718943D16A4A72D8F19B" import="1">XML/ApacheLS.xml</File>
+    <File md5="86C675D603A613C3EB1AE588469C874F" import="0">XML/UnitDefines.sql</File>
+    <File md5="1729842CAD5BFEE136B483601D3DBC1F" import="0">XML/ModSupport.sql</File>
+    <File md5="ED0C982C0F314DE21F387327CDB794DD" import="0">XML/Trait.xml</File>
+    <File md5="371A4EAEB6E11C2AEF32B497F82A1C56" import="0">XML/Promotions.xml</File>
+    <File md5="75006AC667F8111C7D54F4B1027878E9" import="0">XML/Units.xml</File>
+    <File md5="135F68ECD9DD7C6BD687540592BB7212" import="0">XML/Leader.xml</File>
+  </Files>
+  <Actions>
+    <OnModActivated>
+      <UpdateDatabase>XML/Apache.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Buildings.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Trait.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Leader.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Units.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Promotions.xml</UpdateDatabase>
+      <UpdateDatabase>Text/Text.xml</UpdateDatabase>
+      <UpdateDatabase>XML/ArtDefines.xml</UpdateDatabase>
+      <UpdateDatabase>XML/ModSupport.sql</UpdateDatabase>
+      <UpdateDatabase>XML/UnitDefines.sql</UpdateDatabase>
+      <UpdateDatabase>Text/Diplo.sql</UpdateDatabase>
+      <UpdateDatabase>Text/Diplo.xml</UpdateDatabase>
+    </OnModActivated>
+  </Actions>
+  <EntryPoints>
+    <EntryPoint type="InGameUIAddin" file="Lua/ApacheFunctions.lua">
+      <Name>AFFFAFEE</Name>
+      <Description>
+      </Description>
+    </EntryPoint>
+  </EntryPoints>
+</Mod>

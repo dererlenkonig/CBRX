@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 3/17/2018 3:50:57 PM -->
+<GameData>
+	<BuildingClasses>
+		<Row>
+			<Type>BUILDINGCLASS_TUNDRA_BONUS</Type>
+			<DefaultBuilding>BUILDING_EXTRA_FOOD_ON_TUNDRA</DefaultBuilding>
+			<Description>TXT_KEY_BUILDING_EXTRA_FOOD_ON_TUNDRA_BUILDING</Description>
+		</Row>
+	</BuildingClasses>
+	
+	
+	<Buildings>
+		<Row>
+			<Type>BUILDING_EXTRA_FOOD_ON_TUNDRA</Type>
+			<BuildingClass>BUILDINGCLASS_TUNDRA_BONUS</BuildingClass>
+			<Cost>-1</Cost>
+			<PrereqTech>TECH_AGRICULTURE</PrereqTech>
+			<Help>TXT_KEY_BUILDING_EXTRA_FOOD_ON_TUNDRA_HELP</Help>
+			<Description>TXT_KEY_BUILDING_EXTRA_FOOD_ON_TUNDRA</Description>
+			<Civilopedia>TXT_KEY_BUILDING_EXTRA_FOOD_ON_TUNDRA_DESC</Civilopedia>
+			<Quote>TXT_KEY_BUILDING_EXTRA_FOOD_ON_TUNDRA_QUOTE</Quote>
+			<ArtDefineTag>MONUMENT</ArtDefineTag>
+			<NukeImmune>true</NukeImmune>
+			<GreatPeopleRateModifier>0</GreatPeopleRateModifier>
+			<HurryCostModifier>-1</HurryCostModifier>
+			<MinAreaSize>-1</MinAreaSize>
+			<GreatWorkCount>-1</GreatWorkCount>
+			<IconAtlas>BW_ATLAS_1</IconAtlas>
+			<NeverCapture>true</NeverCapture>
+			<PortraitIndex>15</PortraitIndex>
+		</Row>
+	</Buildings>
+	<Building_TerrainYieldChanges>
+		<Row>
+			<BuildingType>BUILDING_EXTRA_FOOD_ON_TUNDRA</BuildingType>
+			<TerrainType>TERRAIN_TUNDRA</TerrainType>
+			<YieldType>YIELD_FOOD</YieldType>
+			<Yield>1</Yield>
+		</Row>
+	</Building_TerrainYieldChanges>
+	<Language_en_US>
+		<Row Tag="TXT_KEY_BUILDING_EXTRA_FOOD_ON_TUNDRA">
+			<Text>Trait</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_EXTRA_FOOD_ON_TUNDRA_DESC">
+			<Text>Trait</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_EXTRA_FOOD_ON_TUNDRA_HELP">
+			<Text>Trait</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_EXTRA_FOOD_ON_TUNDRA_BUILDING">
+			<Text>Trait</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_EXTRA_FOOD_ON_TUNDRA_QUOTE">
+			<Text>Trait</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

@@ -1,0 +1,360 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<Leaders>
+		<Row>
+			<Type>LEADER_VIVALA_LOUIS_RIEL</Type>
+			<Description>TXT_KEY_LEADER_VIVALA_LOUIS_RIEL</Description>
+			<Civilopedia>TXT_KEY_LEADER_VIVALA_LOUIS_RIEL_PEDIA</Civilopedia>
+			<CivilopediaTag>TXT_KEY_CIVILOPEDIA_LEADERS_VIVALA_LOUIS_RIEL</CivilopediaTag>
+			<ArtDefineTag>Riel_Scene.xml</ArtDefineTag>
+			<VictoryCompetitiveness>7</VictoryCompetitiveness>
+			<WonderCompetitiveness>4</WonderCompetitiveness>
+			<MinorCivCompetitiveness>4</MinorCivCompetitiveness>
+			<Boldness>7</Boldness>
+			<DiploBalance>8</DiploBalance>
+			<WarmongerHate>6</WarmongerHate>
+			<WorkAgainstWillingness>6</WorkAgainstWillingness>
+			<WorkWithWillingness>5</WorkWithWillingness>
+			<DenounceWillingness>7</DenounceWillingness>
+			<DoFWillingness>5</DoFWillingness>
+			<Loyalty>4</Loyalty>
+			<Neediness>5</Neediness>
+			<Forgiveness>5</Forgiveness>
+			<Chattiness>5</Chattiness>
+			<Meanness>7</Meanness>
+			<PortraitIndex>1</PortraitIndex>
+			<IconAtlas>VIVALA_METIS_ATLAS</IconAtlas>
+		</Row>
+	</Leaders>
+
+	<Leader_MajorCivApproachBiases>
+		<Row>
+			<LeaderType>LEADER_VIVALA_LOUIS_RIEL</LeaderType>
+			<MajorCivApproachType>MAJOR_CIV_APPROACH_WAR</MajorCivApproachType>
+			<Bias>4</Bias>
+		</Row>
+		<Row>
+			<LeaderType>LEADER_VIVALA_LOUIS_RIEL</LeaderType>
+			<MajorCivApproachType>MAJOR_CIV_APPROACH_HOSTILE</MajorCivApproachType>
+			<Bias>4</Bias>
+		</Row>
+		<Row>
+			<LeaderType>LEADER_VIVALA_LOUIS_RIEL</LeaderType>
+			<MajorCivApproachType>MAJOR_CIV_APPROACH_DECEPTIVE</MajorCivApproachType>
+			<Bias>6</Bias>
+		</Row>
+		<Row>
+			<LeaderType>LEADER_VIVALA_LOUIS_RIEL</LeaderType>
+			<MajorCivApproachType>MAJOR_CIV_APPROACH_GUARDED</MajorCivApproachType>
+			<Bias>8</Bias>
+		</Row>
+		<Row>
+			<LeaderType>LEADER_VIVALA_LOUIS_RIEL</LeaderType>
+			<MajorCivApproachType>MAJOR_CIV_APPROACH_AFRAID</MajorCivApproachType>
+			<Bias>3</Bias>
+		</Row>
+		<Row>
+			<LeaderType>LEADER_VIVALA_LOUIS_RIEL</LeaderType>
+			<MajorCivApproachType>MAJOR_CIV_APPROACH_FRIENDLY</MajorCivApproachType>
+			<Bias>8</Bias>
+		</Row>
+		<Row>
+			<LeaderType>LEADER_VIVALA_LOUIS_RIEL</LeaderType>
+			<MajorCivApproachType>MAJOR_CIV_APPROACH_NEUTRAL</MajorCivApproachType>
+			<Bias>7</Bias>
+		</Row>
+	</Leader_MajorCivApproachBiases>
+	<Leader_MinorCivApproachBiases>
+		<Row>
+			<LeaderType>LEADER_VIVALA_LOUIS_RIEL</LeaderType>
+			<MinorCivApproachType>MINOR_CIV_APPROACH_IGNORE</MinorCivApproachType>
+			<Bias>4</Bias>
+		</Row>
+		<Row>
+			<LeaderType>LEADER_VIVALA_LOUIS_RIEL</LeaderType>
+			<MinorCivApproachType>MINOR_CIV_APPROACH_FRIENDLY</MinorCivApproachType>
+			<Bias>6</Bias>
+		</Row>
+		<Row>
+			<LeaderType>LEADER_VIVALA_LOUIS_RIEL</LeaderType>
+			<MinorCivApproachType>MINOR_CIV_APPROACH_PROTECTIVE</MinorCivApproachType>
+			<Bias>7</Bias>
+		</Row>
+		<Row>
+			<LeaderType>LEADER_VIVALA_LOUIS_RIEL</LeaderType>
+			<MinorCivApproachType>MINOR_CIV_APPROACH_CONQUEST</MinorCivApproachType>
+			<Bias>4</Bias>
+		</Row>
+		<Row>
+			<LeaderType>LEADER_VIVALA_LOUIS_RIEL</LeaderType>
+			<MinorCivApproachType>MINOR_CIV_APPROACH_BULLY</MinorCivApproachType>
+			<Bias>4</Bias>
+		</Row>
+	</Leader_MinorCivApproachBiases>
+	<Leader_Flavors>
+		<Row>
+			<LeaderType>LEADER_VIVALA_LOUIS_RIEL</LeaderType>
+			<FlavorType>FLAVOR_OFFENSE</FlavorType>
+			<Flavor>7</Flavor>
+		</Row>
+		<Row>
+			<LeaderType>LEADER_VIVALA_LOUIS_RIEL</LeaderType>
+			<FlavorType>FLAVOR_DEFENSE</FlavorType>
+			<Flavor>7</Flavor>
+		</Row>
+		<Row>
+			<LeaderType>LEADER_VIVALA_LOUIS_RIEL</LeaderType>
+			<FlavorType>FLAVOR_CITY_DEFENSE</FlavorType>
+			<Flavor>7</Flavor>
+		</Row>
+		<Row>
+			<LeaderType>LEADER_VIVALA_LOUIS_RIEL</LeaderType>
+			<FlavorType>FLAVOR_MILITARY_TRAINING</FlavorType>
+			<Flavor>6</Flavor>
+		</Row>
+		<Row>
+			<LeaderType>LEADER_VIVALA_LOUIS_RIEL</LeaderType>
+			<FlavorType>FLAVOR_RECON</FlavorType>
+			<Flavor>6</Flavor>
+		</Row>
+		<Row>
+			<LeaderType>LEADER_VIVALA_LOUIS_RIEL</LeaderType>
+			<FlavorType>FLAVOR_RANGED</FlavorType>
+			<Flavor>5</Flavor>
+		</Row>
+		<Row>
+			<LeaderType>LEADER_VIVALA_LOUIS_RIEL</LeaderType>
+			<FlavorType>FLAVOR_MOBILE</FlavorType>
+			<Flavor>6</Flavor>
+		</Row>
+		<Row>
+			<LeaderType>LEADER_VIVALA_LOUIS_RIEL</LeaderType>
+			<FlavorType>FLAVOR_NAVAL</FlavorType>
+			<Flavor>6</Flavor>
+		</Row>
+		<Row>
+			<LeaderType>LEADER_VIVALA_LOUIS_RIEL</LeaderType>
+			<FlavorType>FLAVOR_NAVAL_RECON</FlavorType>
+			<Flavor>7</Flavor>
+		</Row>
+		<Row>
+			<LeaderType>LEADER_VIVALA_LOUIS_RIEL</LeaderType>
+			<FlavorType>FLAVOR_NAVAL_GROWTH</FlavorType>
+			<Flavor>7</Flavor>
+		</Row>
+		<Row>
+			<LeaderType>LEADER_VIVALA_LOUIS_RIEL</LeaderType>
+			<FlavorType>FLAVOR_NAVAL_TILE_IMPROVEMENT</FlavorType>
+			<Flavor>3</Flavor>
+		</Row>
+		<Row>
+			<LeaderType>LEADER_VIVALA_LOUIS_RIEL</LeaderType>
+			<FlavorType>FLAVOR_AIR</FlavorType>
+			<Flavor>7</Flavor>
+		</Row>
+		<Row>
+			<LeaderType>LEADER_VIVALA_LOUIS_RIEL</LeaderType>
+			<FlavorType>FLAVOR_EXPANSION</FlavorType>
+			<Flavor>9</Flavor>
+		</Row>
+		<Row>
+			<LeaderType>LEADER_VIVALA_LOUIS_RIEL</LeaderType>
+			<FlavorType>FLAVOR_GROWTH</FlavorType>
+			<Flavor>8</Flavor>
+		</Row>
+		<Row>
+			<LeaderType>LEADER_VIVALA_LOUIS_RIEL</LeaderType>
+			<FlavorType>FLAVOR_TILE_IMPROVEMENT</FlavorType>
+			<Flavor>4</Flavor>
+		</Row>
+		<Row>
+			<LeaderType>LEADER_VIVALA_LOUIS_RIEL</LeaderType>
+			<FlavorType>FLAVOR_INFRASTRUCTURE</FlavorType>
+			<Flavor>6</Flavor>
+		</Row>
+		<Row>
+			<LeaderType>LEADER_VIVALA_LOUIS_RIEL</LeaderType>
+			<FlavorType>FLAVOR_PRODUCTION</FlavorType>
+			<Flavor>5</Flavor>
+		</Row>
+		<Row>
+			<LeaderType>LEADER_VIVALA_LOUIS_RIEL</LeaderType>
+			<FlavorType>FLAVOR_GOLD</FlavorType>
+			<Flavor>6</Flavor>
+		</Row>
+		<Row>
+			<LeaderType>LEADER_VIVALA_LOUIS_RIEL</LeaderType>
+			<FlavorType>FLAVOR_SCIENCE</FlavorType>
+			<Flavor>5</Flavor>
+		</Row>
+		<Row>
+			<LeaderType>LEADER_VIVALA_LOUIS_RIEL</LeaderType>
+			<FlavorType>FLAVOR_CULTURE</FlavorType>
+			<Flavor>6</Flavor>
+		</Row>
+		<Row>
+			<LeaderType>LEADER_VIVALA_LOUIS_RIEL</LeaderType>
+			<FlavorType>FLAVOR_HAPPINESS</FlavorType>
+			<Flavor>5</Flavor>
+		</Row>
+		<Row>
+			<LeaderType>LEADER_VIVALA_LOUIS_RIEL</LeaderType>
+			<FlavorType>FLAVOR_GREAT_PEOPLE</FlavorType>
+			<Flavor>4</Flavor>
+		</Row>
+		<Row>
+			<LeaderType>LEADER_VIVALA_LOUIS_RIEL</LeaderType>
+			<FlavorType>FLAVOR_WONDER</FlavorType>
+			<Flavor>4</Flavor>
+		</Row>
+		<Row>
+			<LeaderType>LEADER_VIVALA_LOUIS_RIEL</LeaderType>
+			<FlavorType>FLAVOR_RELIGION</FlavorType>
+			<Flavor>7</Flavor>
+		</Row>
+		<Row>
+			<LeaderType>LEADER_VIVALA_LOUIS_RIEL</LeaderType>
+			<FlavorType>FLAVOR_DIPLOMACY</FlavorType>
+			<Flavor>7</Flavor>
+		</Row>
+		<Row>
+			<LeaderType>LEADER_VIVALA_LOUIS_RIEL</LeaderType>
+			<FlavorType>FLAVOR_SPACESHIP</FlavorType>
+			<Flavor>4</Flavor>
+		</Row>
+		<Row>
+			<LeaderType>LEADER_VIVALA_LOUIS_RIEL</LeaderType>
+			<FlavorType>FLAVOR_WATER_CONNECTION</FlavorType>
+			<Flavor>7</Flavor>
+		</Row>
+		<Row>
+			<LeaderType>LEADER_VIVALA_LOUIS_RIEL</LeaderType>
+			<FlavorType>FLAVOR_NUKE</FlavorType>
+			<Flavor>5</Flavor>
+		</Row>
+		<Row>
+			<LeaderType>LEADER_VIVALA_LOUIS_RIEL</LeaderType>
+			<FlavorType>FLAVOR_USE_NUKE</FlavorType>
+			<Flavor>5</Flavor>
+		</Row>
+		<Row>
+			<LeaderType>LEADER_VIVALA_LOUIS_RIEL</LeaderType>
+			<FlavorType>FLAVOR_ESPIONAGE</FlavorType>
+			<Flavor>4</Flavor>
+		</Row>
+		<Row>
+			<LeaderType>LEADER_VIVALA_LOUIS_RIEL</LeaderType>
+			<FlavorType>FLAVOR_ANTIAIR</FlavorType>
+			<Flavor>5</Flavor>
+		</Row>
+		<Row>
+			<LeaderType>LEADER_VIVALA_LOUIS_RIEL</LeaderType>
+			<FlavorType>FLAVOR_AIR_CARRIER</FlavorType>
+			<Flavor>5</Flavor>
+		</Row>
+		<Row>
+			<LeaderType>LEADER_VIVALA_LOUIS_RIEL</LeaderType>
+			<FlavorType>FLAVOR_ARCHAEOLOGY</FlavorType>
+			<Flavor>5</Flavor>
+		</Row>
+		<Row>
+			<LeaderType>LEADER_VIVALA_LOUIS_RIEL</LeaderType>
+			<FlavorType>FLAVOR_I_LAND_TRADE_ROUTE</FlavorType>
+			<Flavor>9</Flavor>
+		</Row>
+		<Row>
+			<LeaderType>LEADER_VIVALA_LOUIS_RIEL</LeaderType>
+			<FlavorType>FLAVOR_I_SEA_TRADE_ROUTE</FlavorType>
+			<Flavor>9</Flavor>
+		</Row>
+		<Row>
+			<LeaderType>LEADER_VIVALA_LOUIS_RIEL</LeaderType>
+			<FlavorType>FLAVOR_I_TRADE_ORIGIN</FlavorType>
+			<Flavor>9</Flavor>
+		</Row>
+		<Row>
+			<LeaderType>LEADER_VIVALA_LOUIS_RIEL</LeaderType>
+			<FlavorType>FLAVOR_I_TRADE_DESTINATION</FlavorType>
+			<Flavor>9</Flavor>
+		</Row>
+		<Row>
+			<LeaderType>LEADER_VIVALA_LOUIS_RIEL</LeaderType>
+			<FlavorType>FLAVOR_AIRLIFT</FlavorType>
+			<Flavor>7</Flavor>
+		</Row>
+	</Leader_Flavors>
+	<Leader_Traits>
+		<Row>
+			<LeaderType>LEADER_VIVALA_LOUIS_RIEL</LeaderType>
+			<TraitType>TRAIT_VIVALA_METIS_TRAIT</TraitType>
+		</Row>
+	</Leader_Traits>
+
+	<Language_en_US>
+		<Row Tag="TXT_KEY_LEADER_VIVALA_LOUIS_RIEL">
+			<Text>Louis Riel</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VIVALA_LOUIS_RIEL_PEDIA">
+			<Text>
+				<!-- Add Civilopedia text here -->
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_VIVALA_LOUIS_RIEL_HEADING_1">
+			<Text>History</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_VIVALA_LOUIS_RIEL_HEADING_2">
+			<Text>Early Life</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_VIVALA_LOUIS_RIEL_HEADING_3">
+			<Text>Red River Rebellion</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_VIVALA_LOUIS_RIEL_HEADING_4">
+			<Text>Exile</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_VIVALA_LOUIS_RIEL_HEADING_5">
+			<Text>North-West Rebellion</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_VIVALA_LOUIS_RIEL_HEADING_6">
+			<Text>Trial and Execution</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_VIVALA_LOUIS_RIEL_HEADING_7">
+			<Text>Judgement of History</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_VIVALA_LOUIS_RIEL_LIVED">
+			<Text>1844 AD - 1885 AD</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_VIVALA_LOUIS_RIEL_NAME">
+			<Text>Louis Riel</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_VIVALA_LOUIS_RIEL_SUBTITLE">
+			<Text>Leader of the MÃ©tis</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_VIVALA_LOUIS_RIEL_TEXT_1">
+			<Text>Louis Riel is the most heavily discussed figure in Canadian history. As a leader of the MÃ©tis, he helped fight to preserve the rights, land, and culture of his people against the expanding Canadian confederation.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_VIVALA_LOUIS_RIEL_TEXT_2">
+			<Text>Louis Riel was born in 1844 in the Red River Colony, near modern day Winnipeg. His father was a Franco-Ojibwa MÃ©tis activists who was well known in the region for successfully challenging the Hudson's Bay Company's trade monopoly. His mother was a member of one of the earliest white families to settle in the Red River region. The Riels were devoutly Catholic, so much so that Louis Riel went to Montreal to study to become a priest. However, Riel ultimately lost interest in the priesthood after his father's premature death, and ended up becoming a law clerk. He then spent time working odd jobs in Canada and the United States until he returned to the Red River Colony in 1868.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_VIVALA_LOUIS_RIEL_TEXT_3">
+			<Text>At the start of the Red River Rebellion, a group known as the "MÃ©tis National Conference" (of which Riel was secretary) formed to oppose governor McDougall. When asked to explain the conference's actions, Riel declared that any attempt by Canada to control the region would face resistance unless Ottawa first consulted the MÃ©tis. McDougall ignored the decree and attempted to proceed with his survey, so Riel turned his party away near the US-Canada border and seized Fort Garry.[NEWLINE][NEWLINE]Hoping to resolve the conflict before it escalated any farther, Louis Riel called for a conference of MÃ©tis and anglophones to discuss an agreement. At the convention, he proposed a list of rights that had to be honored before the MÃ©tis would accept any sort of union with Canada. Most of the convention united behind his proposal, but a small, fiercely pro-Canadian faction caused the convention to grind to a halt. They attempted to undermine Riel's authority by calling for a contingent of armed men to overthrow him (this call to arms was largely ignored by the local anglophones). In response, Riel rounded up the men and imprisoned them in Upper Fort Gary.[NEWLINE][NEWLINE]Ottawa, sensing the growing tensions in the region, sent a number of emissaries to negotiate with the MÃ©tis. Hoping to claim greater power in the negotiations, the MÃ©tis proclaimed a provisional government and made Louis Riel its president. The negotiations proceeded very smoothly; however, the pro-Canadian faction within the Red River Colony plotted against the new provisional government. One man, Thomas Scott, was eventually tried and executed by the provisional government for attempting to assassinate Riel.[NEWLINE][NEWLINE]Despite these setbacks, Riel was able to negotiate a deal with Ottawa. His demands were incorporated into the Manitoba Act, which officially incorporated the Red River Colony into Canada as the Province of Manitoba. This political victory has led to Riel being known as the "Father of Manitoba."</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_VIVALA_LOUIS_RIEL_TEXT_4">
+			<Text>While Riel did accomplish what he set out to do in the Red River Rebellion, he wasn't safe. In order to enforce the agreement, Ottawa sent a group of soldiers in what was known as the Wolseley Expedition. As the expedition neared Manitoba, Riel learned that they intended to execute him for the execution of Thomas Scott, and was forced to flee. Riel attempted to receive amnesty, but the Canadian government would not guarantee it, so he eventually fled to the United States.[NEWLINE][NEWLINE]Louis Riel focused primarily on religious matters during his exile. Encouraged by a sympathetic priest from Quebec, Riel became convinced that he was a prophet, chosen by God to lead the MÃ©tis. Some historians believe this was because he developed megalomania during his exile. Megalomania or not, Riel's mental state deteriorated over the course of his exile, to the point where his family had to place him in a series of mental assylums (under a number of psuedonyms) where he spent a few years recovering. After his recovery, Riel eventually found his way back into politics, campaigning for the Republican Party in Montana. However, he wouldn't remain in the United States for much longer, as the MÃ©tis would soon call him back to Canada for one last rebellion.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_VIVALA_LOUIS_RIEL_TEXT_5">
+			<Text>In the Saskatchewan Territory, to the West of Manitoba, many MÃ©tis felt that Ottawa was ignoring agreements made at the end of the Red River Rebellion. European settlers poured in from the East, and MÃ©tis land claims were not being recognized. United groups of MÃ©tis and Anglo-MÃ©tis petitioned the government on numerous occasions, but to no avail. They agreed that Riel was the only person who could resolve the situation, so the wrote to him in Montana, requesting that he return to Canada.[NEWLINE][NEWLINE]As Riel returned, the Canadian government offered a couple of concessions: they would take a survey of the North-West Territories and create a comission to investigate the MÃ©tis' grievances. One faction believed these concessions were merely meant to pacify the MÃ©tis until the Canadian government could organized a way to crush them. Upon his return, Riel sided with this faction, which favored taking up arms immediately. By siding with the more radical faction, Riel lost the support of many sympathetic anglophones, allied First Nations, and even many MÃ©tis. Compounding this problem was Riel's break with the Church, caused by his claims of divine revelations.[NEWLINE][NEWLINE]Despite losing many followers, Louis Riel was prepared for open rebellion. He declared Saskatchewan to be an independent state, ruled by a provisional government with him at its head, and began courting the Cree (whom also had many grievances with the Canadian government) for support. The Canadians were much more numerous, more well-armed, and could easily ship soldiers to the front due to the completed Canadian Pacific Railway, so the MÃ©tis were able to claim very few victories in direct combat. Instead, they often resulted to guerilla warfare, which was moderately successful. In the end, however, the Canadian forces were simply too overwhelming. They captured the capital at Batoche, and imprisoned many leaders of the provisional government, including Riel himself.[NEWLINE][NEWLINE]The MÃ©tis did gain some concessions at the end of the conflict. Their land rights were reinforced, and a survey was carried out in the North-West Territories according to their wishes. However, like the Red River Rebellion, the North-West Rebellion once again solidified anglophone dominance over the region.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_VIVALA_LOUIS_RIEL_TEXT_6">
+			<Text>During his trial, Louis Riel's lawyer attempted to use Riel's previous time in assylums to argue that he was not guilty by reason of insanity. Riel, however, passionately rejected the plea, stating "Life, without the dignity of an intelligent being, is not worth having." While he was found guilty, the jury recommended mercy, but the judge, likely motivated by the death of Thomas Scott, sentenced him to death anyways. In his final days, Riel reconciled with the Catholic Church. He was hanged in Regina on November 16, 1885.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_VIVALA_LOUIS_RIEL_TEXT_7">
+			<Text>Louis Riel is one of the most controversial figures in Canadian history. For many, particularly white anglophones, Riel was a traitor and a madman who took to arms long before political options had run out. To the MÃ©tis and other francophones, he has become a folk hero, someone who stood up against an oppressive regime. Over time, the more favorable views of Riel are gaining prominence. There have been numerous attempts since the 1990s to honor Riel or even revoke his conviction, and while many have failed, Manitoba successfully recognzed the first Louis Riel Day in 2008, which honors the foundin of the province. Today he is most celebrated by francophones, Catholic nationalists, aboriginal groups, and parts of the political Left.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_VIVALA_LOUIS_RIEL_TITLES_1">
+			<Text>Father of Manitoba</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_VIVALA_LOUIS_RIEL_TITLES_2">
+			<Text>President of the Provisional Government of Saskatchewan</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

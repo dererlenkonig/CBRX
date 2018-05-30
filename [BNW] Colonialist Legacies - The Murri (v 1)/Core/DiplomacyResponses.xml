@@ -1,0 +1,22 @@
+<GameData>
+	<Diplomacy_Responses>
+		<Row LeaderType="LEADER_CL_GANUURRU">
+			<ResponseType>RESPONSE_FIRST_GREETING</ResponseType>
+			<Response>TXT_KEY_LEADER_CL_GANUURRU_FIRSTGREETING%</Response>
+		</Row>
+		<Row LeaderType="LEADER_CL_GANUURRU">
+			<ResponseType>RESPONSE_DEFEATED</ResponseType>
+			<Response>TXT_KEY_LEADER_CL_GANUURRU_DEFEATED%</Response>
+		</Row>
+	</Diplomacy_Responses>
+	<Language_en_US>
+		<!--General phrases -->
+		<!--Greeting (first time meeting) -->
+		<Row Tag="TXT_KEY_LEADER_CL_GANUURRU_FIRSTGREETING_1">
+			<Text>Aha! A new face at the feasts, I see! Greetings. I am Gambu Ganuurru, chief of the Gunn-e-darr! Tell me, how far have you travelled to get here?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CL_GANUURRU_DEFEATED_1">
+			<Text>The Murri people, slaughtered before me? And during the feasts as well?! What kind of hideous creature could have done this?!</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

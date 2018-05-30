@@ -1,0 +1,190 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<Language_en_US>
+		<Row Tag="TXT_KEY_UNIT_LS_THEBES">
+			<Text>Sacred Band</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_LS_THEBES_TEXT">
+			<Text>The Sacred Band of Thebes was a troop of select soldiers, consisting of 150 pairs of male lovers which formed the elite force of the Theban army in the 4th century BC. Its predominance began with its crucial role in the Battle of Leuctra in 371 BC. It was annihilated by Philip II of Macedon in the Battle of Chaeronea in 338 BC.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_LS_THEBES_STRATEGY">
+			<Text>The Sacred Band is the Greek unique unit, replacing the Spearman. They start with Promotion that increases their bonus when making a Flank Attack by 50%. The Sacred Band is deadly against mounted opponents.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_HELP_LS_THEBES">
+			<Text>Ancient Era Unit which specializes in defeating Mounted Units. Especially deadly with flank attacks, can always move after killing an enemy. Only Thebes may build it.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_LS_THEBES_STRATEGY">
+			<Text> </Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_LS_THEBES_HELP">
+			<Text>The Treasury is an Ancient-era building unique to the Thebes, replacing the Shrine. Grants [ICON_PEACE] Faith for kills nearby.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_LS_THEBES">
+			<Text>Treasury</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_BUILDINGS_LS_THEBES_TEXT">
+			<Text>The Treasury at Delphi was constructed to house dedications made by respective city and citizens to the sanctuary of Apollo.</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_THEBES_LS_MOD_DESC">
+			<Text>Theban Empire</Text>
+		</Row>
+		<Row Tag="TXT_KEY_THEBES_LS_MOD_SHORT_DESC">
+			<Text>Thebes</Text>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_THEBES_LS_MOD_ADJECTIVE">
+			<Text>Theban</Text>
+		</Row>
+		<Row Tag="TXT_KEY_THEBES_LS_MOD">
+			<Text>Theban Empire</Text>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_DAWN_OF_MAN_THEBES_LS_MOD_TEXT">
+			<Text>The people of Thebes await your guidance, great Epaminondas, the first man of Greece. Well known for your skill as both a politic and a general, your victories reshaped the hellenic world, securing the hegemony of your city-state during your life. Thebes were the most important city of Boetian league, which comprised eleven groups of sovereign cities and associated townships. Your victories haven't stand the test of time, outshined by Philip and his conquest of ancient Greece.[NEWLINE][NEWLINE]Wise and respected General, the people look to you for leadership. Can your strategy outmatch that of your rivals, or will you defeat them diplomatically? Your once great state yearns for that former glory that you once promised - can you build a civilization that stands the test of time?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_THEBES_LS_MOD_DESC">
+			<Text>Epaminondas</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_THEBES_LS_MOD_PEDIA_LIVED">
+			<Text>???-362 BC</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_THEBES_LS_MOD_PEDIA_NAME">
+			<Text>Epaminondas</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_THEBES_LS_MOD_PEDIA_SUBTITLE">
+			<Text>Leader of the Thebes</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_THEBES_LS_MOD_NAME">
+			<Text>Epaminondas</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_THEBES_LS_MOD_SUBTITLE">
+			<Text>King</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_THEBES_LS_MOD_TITLES_1">
+			<Text>General</Text>
+		</Row>
+
+
+		<Row Tag="TXT_KEY_TRAIT_THEBES_LS_MOD_SHORT">
+			<Text>Pythia</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_THEBES_LS_MOD">
+			<Text>May make oracular statements that grants certain bonuses upon being fulfilled.</Text>
+		</Row>
+
+
+		<Row Tag="TXT_KEY_CITY_NAME_THEBES_LS_MOD_1">
+			<Text>Thebes</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_THEBES_LS_MOD_2">
+			<Text>Chalcis</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_THEBES_LS_MOD_3">
+			<Text>Eretria</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_THEBES_LS_MOD_4">
+			<Text>Larissa</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_THEBES_LS_MOD_5">
+			<Text>Scolus</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_THEBES_LS_MOD_6">
+			<Text>Erythrae</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_THEBES_LS_MOD_7">
+			<Text>Scaphae</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_THEBES_LS_MOD_8">
+			<Text>Orchomenus</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_THEBES_LS_MOD_9">
+			<Text>Hysiae</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_THEBES_LS_MOD_10">
+			<Text>Tanagra</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_THEBES_LS_MOD_11">
+			<Text>Thespiae</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_THEBES_LS_MOD_12">
+			<Text>Thisbe</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_THEBES_LS_MOD_13">
+			<Text>Eutresis</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_THEBES_LS_MOD_14">
+			<Text>Haliartus</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_THEBES_LS_MOD_15">
+			<Text>Lebadea</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_THEBES_LS_MOD_16">
+			<Text>Coronea</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_THEBES_LS_MOD_17">
+			<Text>Acraephnium</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_THEBES_LS_MOD_18">
+			<Text>Copia</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_THEBES_LS_MOD_19">
+			<Text>Chaeronea</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_THEBES_LS_MOD_20">
+			<Text>Delphi</Text>
+		</Row>
+
+
+
+		<Row Tag="TXT_KEY_SPY_NAME_THEBES_LS_MOD_0">
+			<Text>Bakis</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_THEBES_LS_MOD_1">
+			<Text>Gorgidas</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_THEBES_LS_MOD_2">
+			<Text>Hesiod</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_THEBES_LS_MOD_3">
+			<Text>Narcissus</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_THEBES_LS_MOD_4">
+			<Text>Pelopidas</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_THEBES_LS_MOD_5">
+			<Text>Corinna</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_THEBES_LS_MOD_6">
+			<Text>Myrtis</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_THEBES_LS_MOD_7">
+			<Text>Claudia</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_THEBES_LS_MOD_8">
+			<Text>Rhodopis</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_THEBES_LS_MOD_9">
+			<Text>Arimneste</Text>
+			<Gender>feminine</Gender>
+		</Row>
+
+
+		<Row Tag="TXT_KEY_LEADER_THEBES_LS_MOD_FIRST_GREETING_1">
+			<Text>It would be unexcepted, if I weren't informed you will come. Welcome to Boetia.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_THEBES_LS_MOD_FIRST_GREETING_2">
+			<Text>Just in time, we shall speak about the problems of tomorrow before they become the problems of today.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_THEBES_LS_MOD_DEFEATED_1">
+			<Text>Just like that, defeated by... what is your name anyway? Nevermind, we are all the points of the infinite set.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_THEBES_LS_MOD_DEFEATED_2">
+			<Text>Oh, so this is what that prophecy was about...</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

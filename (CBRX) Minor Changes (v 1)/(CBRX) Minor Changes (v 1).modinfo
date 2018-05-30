@@ -1,0 +1,54 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mod id="d789e5d9-7c5a-4bbe-9678-04bc4c0433ca" version="1">
+  <Properties>
+    <Name>(CBRX) Minor Changes</Name>
+    <Stability>Alpha</Stability>
+    <Teaser>(CBRX) Minor Changes</Teaser>
+    <Description>(CBRX) Minor Changes</Description>
+    <Authors>Limerickarcher</Authors>
+    <HideSetupGame>0</HideSetupGame>
+    <AffectsSavedGames>0</AffectsSavedGames>
+    <SupportsSinglePlayer>1</SupportsSinglePlayer>
+    <SupportsMultiplayer>0</SupportsMultiplayer>
+    <SupportsHotSeat>0</SupportsHotSeat>
+    <SupportsMac>1</SupportsMac>
+    <ReloadAudioSystem>0</ReloadAudioSystem>
+    <ReloadLandmarkSystem>0</ReloadLandmarkSystem>
+    <ReloadStrategicViewSystem>0</ReloadStrategicViewSystem>
+    <ReloadUnitSystem>0</ReloadUnitSystem>
+  </Properties>
+  <Dependencies />
+  <References>
+    <Mod id="b0e91c7f-a888-41f3-82e6-bb48429c04e6" minversion="0" maxversion="999" title="Dummy Loading Order" />
+  </References>
+  <Blocks />
+  <Files>
+    <File md5="B1E92C1DD073C2CF1DA7E55B6837016F" import="0">ActiveRel.xml</File>
+    <File md5="7434BBAB5DA0E3BF5E063C04FBA7E1A9" import="0">AI.sql</File>
+    <File md5="762228B91EE7AA642A8CB3D03B39D153" import="0">ArchaeologistGenocideWhen.xml</File>
+    <File md5="81E43F763AF5D46C3FE6108983B4E195" import="0">CBRX_TSLs.lua</File>
+    <File md5="9FEC5A0F2561E5DE14198B013FCC8118" import="0">Cities2_GlobalDefines.xml</File>
+    <File md5="B3D0FD5001DAB67AABD2584FEC90CB07" import="0">CityLists.sql</File>
+    <File md5="FFAA308CDC5CF3B892AFF29E0BFF1CDD" import="0">CityNames.xml</File>
+    <File md5="1C307B269FDD2540872B0FD4564AC2F2" import="0">Historical Religions Update.sql</File>
+    <File md5="C2929BB7373F2F7844E3C3CFF5FBE773" import="0">New Colors.sql</File>
+  </Files>
+  <Actions>
+    <OnModActivated>
+      <UpdateDatabase>ActiveRel.xml</UpdateDatabase>
+      <UpdateDatabase>AI.sql</UpdateDatabase>
+      <UpdateDatabase>ArchaeologistGenocideWhen.xml</UpdateDatabase>
+      <UpdateDatabase>Cities2_GlobalDefines.xml</UpdateDatabase>
+      <UpdateDatabase>CityLists.sql</UpdateDatabase>
+      <UpdateDatabase>CityNames.xml</UpdateDatabase>
+      <UpdateDatabase>Historical Religions Update.sql</UpdateDatabase>
+      <UpdateDatabase>New Colors.sql</UpdateDatabase>
+    </OnModActivated>
+  </Actions>
+  <EntryPoints>
+    <EntryPoint type="InGameUIAddin" file="CBRX_TSLs.lua">
+      <Name>CBRX TSLs</Name>
+      <Description>CBRX TSLs</Description>
+    </EntryPoint>
+  </EntryPoints>
+</Mod>

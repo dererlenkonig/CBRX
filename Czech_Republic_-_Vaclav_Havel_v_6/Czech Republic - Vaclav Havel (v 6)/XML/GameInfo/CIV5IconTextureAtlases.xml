@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 7/22/2015 12:17:36 PM -->
+<GameData>
+	<IconTextureAtlases>
+		<Row>
+			<Atlas>CIV_COLOR_ATLAS_LEGENDS</Atlas>
+			<IconSize>256</IconSize>
+			<Filename>CzechIconAtlas256.dds</Filename>
+			<IconsPerRow>8</IconsPerRow>
+			<IconsPerColumn>8</IconsPerColumn>
+		</Row>
+		<Row>
+			<Atlas>CIV_COLOR_ATLAS_LEGENDS</Atlas>
+			<IconSize>128</IconSize>
+			<Filename>CzechIconAtlas128.dds</Filename>
+			<IconsPerRow>8</IconsPerRow>
+			<IconsPerColumn>8</IconsPerColumn>
+		</Row>
+		<Row>
+			<Atlas>CIV_COLOR_ATLAS_LEGENDS</Atlas>
+			<IconSize>80</IconSize>
+			<Filename>CzechIconAtlas80.dds</Filename>
+			<IconsPerRow>7</IconsPerRow>
+			<IconsPerColumn>7</IconsPerColumn>
+		</Row>
+		<Row>
+			<Atlas>CIV_COLOR_ATLAS_LEGENDS</Atlas>
+			<IconSize>64</IconSize>
+			<Filename>CzechIconAtlas64.dds</Filename>
+			<IconsPerRow>8</IconsPerRow>
+			<IconsPerColumn>8</IconsPerColumn>
+		</Row>
+		<Row>
+			<Atlas>CIV_COLOR_ATLAS_LEGENDS</Atlas>
+			<IconSize>45</IconSize>
+			<Filename>CzechIconAtlas45.dds</Filename>
+			<IconsPerRow>6</IconsPerRow>
+			<IconsPerColumn>6</IconsPerColumn>
+		</Row>
+		<Row>
+			<Atlas>CIV_COLOR_ATLAS_LEGENDS</Atlas>
+			<IconSize>32</IconSize>
+			<Filename>CzechIconAtlas32.dds</Filename>
+			<IconsPerRow>4</IconsPerRow>
+			<IconsPerColumn>3</IconsPerColumn>
+		</Row>
+	</IconTextureAtlases>
+</GameData>

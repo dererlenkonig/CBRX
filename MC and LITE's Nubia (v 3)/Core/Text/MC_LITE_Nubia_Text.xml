@@ -1,0 +1,316 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by Pouakai -->
+<GameData>
+	<Language_en_US>
+		<!--Unique Unit-->
+		<Row Tag="TXT_KEY_UNIT_MC_LITE_NUBIAN_APEDEMAK_ARCHER">
+			<Text>Apedemak Archer</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_MC_LITE_NUBIAN_APEDEMAK_ARCHER_HELP">
+			<Text>Unique Nubian Archer. Begins with Siege, and has +1 movement on Rivers.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_MC_LITE_NUBIAN_APEDEMAK_ARCHER_STRATEGY">
+			<Text>The Apedemak Archer is an Archer replacement unique to Nubia. It begins with the Siege promotion, making it more effective against cities, and has an additional +1 movement point when it begins its turn adjacent to a river.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_MC_LITE_NUBIAN_APEDEMAK_ARCHER_PEDIA">
+			<Text>For centuries, the various empires which inhabited what is now northern Sudan were renowned across the ancient and classical world for their prowess with the bow and arrow. One of the traditional Egygptian names for the region, Ta-Seti, translates as Land of the Bow, while Nubian archers saw employ in many regional armies, including ones as far afield as in the Persian imperial army. The roots of Nubian bowmanship can be traced back as early as the Neolithic, when hunters in the region used the bow and arrow as a core part in their hunt, to as late as the Christian kingdoms of the 9th century AD, when a large Arab Muslim invasion force was held off by ranks of Nubian bowmen. </Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_MC_APEDEMAK_RIVER">
+			<Text>River Movement</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_MC_APEDEMAK_RIVER_HELP">
+			<Text>+1 Movement when starting next to a river</Text>
+		</Row>
+		<!--Unique Improvement-->
+		<Row Tag="TXT_KEY_MC_LITE_NUBIAN_ROYAL_PYRAMID">
+			<Text>Royal Pyramid</Text>
+		</Row>
+		<Row Tag="TXT_KEY_IMPROVEMENT_MC_LITE_NUBIAN_ROYAL_PYRAMID_HELP">
+			<Text>Boosts the [ICON_CULTURE] Culture and [ICON_PEACE] Faith output of the tile, and provides +1 [ICON_CULTURE] for each era since the Royal Pyramid was built.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_MC_LITE_NUBIAN_ROYAL_PYRAMID_TEXT">
+			<Text>The Royal Pyramid is a unique Nubian improvement, able to be constructed on flat desert and plains tiles. In addition to boosting the base [ICON_CULTURE] Culture and [ICON_PEACE] Faith output of the tile, the Royal Pyramid boosts the [ICON_CULTURE] Cultural yield of the tile by +1 for each era which has passed since the construction of the improvement. The Royal Pyramid also boosts the combat strength of nearby Nubian units by +10%.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILD_MC_LITE_NUBIAN_ROYAL_PYRAMID">
+			<Text>Construct a [LINK=IMPROVEMENT_MC_LITE_NUBIAN_ROYAL_PYRAMID]Royal Pyramid[\LINK]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILD_MC_LITE_NUBIAN_ROYAL_PYRAMID_HELP">
+			<Text>Provides +1 [ICON_CULTURE] Culture for each era since construction. +10% Strength to nearby Nubian units, and +1 [ICON_CULTURE] Culture with Archaeology.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILD_MC_LITE_NUBIAN_ROYAL_PYRAMID_REC">
+			<Text>It will boost the [ICON_CULTURE] Culture output of this tile, and strengthen nearby Nubian units.</Text>
+		</Row>
+		<!--Unique Ability-->
+		<Row Tag="TXT_KEY_TRAIT_TA_SETI_SHORT">
+			<Text>Ta-Seti</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_TA_SETI">
+			<Text>Cities with a garrisoned Ranged Unit gain +10% Production. Conquering a City with a World Wonder initiates a Golden Age, and all Golden Ages last 10% longer for each World Wonder in the Empire.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_MC_LITE_NUBIA_PRODUCTION">
+			<Text>MC: Nubian Archer Production</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_MC_LITE_NUBIA_WONDERS">
+			<Text>MC: Nubian Wonders</Text>
+		</Row>
+		<!--Denonyms-->
+		<Row Tag="TXT_KEY_MC_LITE_NUBIA">
+			<Text>Nubia</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MC_LITE_NUBIA_DESC">
+			<Text>Nubian Empire</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MC_LITE_NUBIA_SHORT_DESC">
+			<Text>Nubia</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MC_LITE_NUBIA_ADJECTIVE">
+			<Text>Nubian</Text>
+		</Row>
+		<!-- DOM Text-->
+		<Row Tag="TXT_KEY_DAWN_OF_MAN_MC_LITE_NUBIA_TEXT">
+			<Text>Blessings of Amun be upon you, Piye of Nubia. Nubia is a land of wealth and plenty, situated high up the Nile river. A great conqueror, you triumphed over the petty rulers of lower Egypt and extended Nubian rule to the Mediterranean coast. But you were not simply a conqueror. Under your rule new temples and monuments to your glory and that of the Gods were erected across your realm. Your actions saw the splendour of the Nile revitalised in a crowning era of restored power and prestige. An era in which even that once proud Kingdom of Egypt herself bowed to Nubia.[NEWLINE][NEWLINE] Chosen one of Amun, the southern Nile once again calls for a competent leader to herald a new age of glory for her people. Will you once again hold the crook and flail and proclaim yourself the righteous pharoah? Can you replenish this parched land with the blessing of the gods and the wisdom of your divine rule? Can you build a civilization that will stand the test of time?</Text>
+		</Row>
+		<!--Diplo lines-->
+		<Row Tag="TXT_KEY_LEADER_MC_LITE_PIYE_FIRST_GREETING_1">
+			<Text>Ah, a new visitor to the land of God. Welcome, come. Tell me of your journey. </Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MC_LITE_PIYE_FIRST_GREETING_2">
+			<Text>I am Piye, lord and Pharaoh of Nubia and Egypt. Tell me, who are you and where do you hail from?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MC_LITE_PIYE_DEFEATED_1">
+			<Text>You think you can defeat me? I will live on for eternity, my soul will pursue you far into the afterlife. You shall not rest.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MC_LITE_PIYE_DEFEATED_2">
+			<Text>You may have driven us from Eygpt, yet my men will merely retreat to the wilderness of Africa and return to smite vengeance upon you. Do not be so foolish as to think this is over.</Text>
+		</Row>
+		<!--Spy Names-->
+		<Row Tag="TXT_KEY_SPY_NAME_MC_LITE_NUBIA_0">
+			<Text>Shabaka</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_MC_LITE_NUBIA_1">
+			<Text>Aspelta</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_MC_LITE_NUBIA_2">
+			<Text>Taharqa</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_MC_LITE_NUBIA_3">
+			<Text>Senkamanisken</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_MC_LITE_NUBIA_4">
+			<Text>Kashta</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_MC_LITE_NUBIA_5">
+			<Text>Ajola</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_MC_LITE_NUBIA_6">
+			<Text>Mentuemhat</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_MC_LITE_NUBIA_7">
+			<Text>Shepenwepet</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_MC_LITE_NUBIA_8">
+			<Text>Qalhata</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_MC_LITE_NUBIA_9">
+			<Text>Arty</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<!--Civilopedias-->
+		<Row Tag="TXT_KEY_CIVLOPEDIA_MC_LITE_NUBIA_TITLE">
+			<Text>Nubia</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_MC_LITE_NUBIA_HEADING_1">
+			<Text>History</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_MC_LITE_NUBIA_TEXT_1">
+			<Text>Nubia is a name for the region located in the northern end of Sudan and Southern Egypt. In the past this land was the home of many kingdoms of the Nubian people. The source of all life was the Nile river. The name Nubia comes from the Noba people who settled the area in the 4th century after the collapse of the Meroe kingdom.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_MC_LITE_NUBIA_HEADING_2">
+			<Text>Geography</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_MC_LITE_NUBIA_TEXT_2">
+			<Text>Nubia can be divided into two major regions: Upper and Lower Nubia, due to the area being located on the Nile River, the lower region being downstream while the upper region was further upstream. Lower Nubia lay between the First and Second Cataracts of the Nile, spreading into modern Egypt and north Sudan, whilst Upper Nubia was in central Sudan.[NEWLINE][NEWLINE]Most of Nubia's topography is consisted of deserts, except for the narrow strip of the Nile valley which helped provide fertile agriculture and abundant pastures. Because of the availability of food and fresh water, the Nile Valley was populated more so than any other region in Sudan. The first civilization in Sudan, and one of the first in the world, developed there, along the Nile Valley.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_MC_LITE_NUBIA_HEADING_3">
+			<Text>The Kushite Kingdom at Kerma</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_MC_LITE_NUBIA_TEXT_3">
+			<Text>The Kushite kingdom traces its roots to the city of Kerma. While the start of civilization in Kerma may be traced back to the fourth millennium BC, the kingdom is thought to have sprang in approximately 2600 BC. The wealth of the kingdom is reflected in the archeology, particularly the burial findings of the royalty. Gold, ivory, and various types of jewelry attest to an expanded trade network that connected Kerma to the sub-Sahara in the south, the Red Sea coasts in the east, and the Mediterranean world towards the North.[NEWLINE][NEWLINE]Because of this, the political structure at Kerma seems to have anticipated the government system of Kush in the Napatan-Meroeitic period. During the latter period, the political authority of the kingdom was distributed between the priesthood, the king and royalty, and the military. Historically, the Kushites have used their power of influence over Lower Nubia to intice rebellions within Egypt. Consequently, Egyptian controlled Lower Nubia exposed Egypt to Kushite colonial ambitions. Hence, the political independence achieved by the Lower Nubians during the First Intermediate Period is attributed to support from Kush.[NEWLINE][NEWLINE]After the Egyptian pharaoh Ahmose defeated the Hyksos in 1550 BC, he turned his attention to Kush. Ahmose had to defeat Kush in order for him to ensure control over Upper Egypt. The war with the Kushites lasted for fifty years, with wins and losses on both sides.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_MC_LITE_NUBIA_HEADING_4">
+			<Text>Napatan Merotic Periods</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_MC_LITE_NUBIA_TEXT_4">
+			<Text>During the Napatan period, Kush reached its peak in territorial expansion to the north, conquering the whole of Egypt and as far north as Palestine. The Napatan period is best studied through the archeological excavations at el-Kurru, which date to 900 BC the latest. The first known by name Napatan king was Alara (785-60 BC), who also had inscriptions in the Amun temple at Kawa. After his reign, Napata became the royal capital of Kush. During his reign, Jebel Barkal (Arabic for Holly Mountain), near Napata, came to be the most sacred site in Kush. (Although Jebel Barkal already had a significant religious importance before this period). Due to lack of material evidence and sufficient fieldwork, the political nature of the Kushite kingdom is not well understood. Nevertheless, simple analysis linking between various pieces of evidence help provide a broad idea about the nature of governorship in Kush during the Napatan period.[NEWLINE][NEWLINE]The Meroitic period is named after the establishment of Meroe as the capital of the Kushite kingdom in roughly 270 BC. The beginning of this period is contemporary with the reign of Pharaoh Arkamani-qo, who owns the earliest dated pyramid in Meroe. During the Meroitic period, Kush experienced cultural, linguistic, artistic, and architectural revival. New writing, called Meroitic, replaced the older Kushite script. This period is considered to end with the last known Meroitic Pharaoh Teqerideamani, who reigned in the fifth century CE.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_MC_LITE_NUBIA_HEADING_5">
+			<Text>The Kushite Conquest of Egypt</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_MC_LITE_NUBIA_TEXT_5">
+			<Text>The official date for the Kushite conquest of Egypt is not definitely decided. However it is known that Kush had exercised political control over Egypt as early as the ninth century BC. During this period, Lower Egypt was ruled by a group of Libyan kings, who were always on the fight over power allocation. Those Libyans originally immigrated to Egypt in the twelfth century BC. Then, due to their expertise in war, some of them ended up taking important positions in the Egyptian military.[NEWLINE][NEWLINE]Starting from the 22nd Dynasty, when Egypt was already weakening, some of these Libyan militants claimed the official right over the kingship of Egypt. The result was political and social fragmentation allover the country. The Kushites took advantage of the deteriorating situations in Egypt and exercised political control. Evidence suggests that the eleven Libyan kings, who were ruling Egypt at the time, were essentially puppets for the Kushite state. The Libyan kings ruled under superficial titles while the actual seat of power was in Sudan.[NEWLINE][NEWLINE]During the eighth century the Libyan kings rebelled against the Kushite control and wanted to demolish the Cult of Amon at Thebes and replace it with their Lower Egyptian Cult of Hermopolis, thus proclaiming independence. Since the Kushites were followers of the Amon cult, the Thebans appealed to the Kushites for help. In response, the Kushite pharaoh Piankhi, successor and brother of Kashata, invaded Lower Egypt; that is in about 728 BC. He crushed the rebellious armies of Tefnakht (King of Sais) and Oskorn (King of Tanis), the strongest and most influential of the Libyan kings in Lower Egypt.[NEWLINE][NEWLINE]Around 759 BC, Kushite Pharaoh Piye carried extensive military campaigns and reoccupied Lower Egypt. Then, he then pronounced himself as the Pharaoh of both Lower and Upper Egypt. On the Victory Stela, from Napata, Piankhy recorded the circumstances surrounding his victory over the Egyptians, including the taking of Memphis.[NEWLINE][NEWLINE]During the hundred years of ruling Egypt, Kush had extensively interacted with, and influenced, the politics, economy, and cultures of the Near East and North Africa. The impact of such interactions is still waiting further research.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_MC_LITE_NUBIA_HEADING_6">
+			<Text>Kushite Wars</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_MC_LITE_NUBIA_TEXT_6">
+			<Text>In 716 BC, Kushite Pharaoh Piye died and was succeeded by his brother Shabako. Following their conquest of Egypt in 728 BC, the Kushites stretched their imperial control to include the Levant. Archeological work in Jerusalem revealed more than 200 Kushite/Egyptian weights dating back to the period. A wide array of artefacts excavated from elsewhere in the Levant attest to the dominating influence of Kush.[NEWLINE][NEWLINE]Shebiktu, the Pharaoh of Kush, maintained a peaceful policy with Sargon of Assyria who, at the time, was expanding his Assyrian empire in the Near East. In 704 BC, Sargon died in Tubal. His death brought hopes of independence to the Near Eastern districts that fell under his imperial control. Shabako the Kushite pharaoh took advantage of this situation and supported the anti-Assyrian rebels in the Near East, including those in Syria and Phoenicia.[NEWLINE][NEWLINE]One year later (705 BC), Sennacherib succeeded Sargon to the Assyrian throne. He destroyed all the rebellions, starting with those in his homeland in Mesopotamia, including the Babylonian and the Chaldean rebellions, and marched west to re-conquer the territory lost after Sangon’s death. In 702 BC, Shebiktu succeeded his father as the king of Kush. Following in his father’s steps, Shabikto continued to support the anti-Assyrian movements.[NEWLINE][NEWLINE]By 701 BC, Sennacherib was advancing with his military from the Syrian Desert west towards the Phoenician cities of Sidon annd Tyre. Although Sidon may have surrendered as the Assyrian accounts invoke, Tyre was certainly not subdued. Since the Phoenician kings were already in a protoctorate relationship with Kush, the success of Tyre in repulsing the Assyrians is most likely due to military support from Kush. The military of a city as small as Tyre could not have solely repulsed the powerful Assyrians. In the year 621, the Assyrians successfully drove the Kushites into the far south, after which they destroyed everything related to the Kushite royalty they could find.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_MC_LITE_NUBIA_HEADING_7">
+			<Text>The New Egyptian Dynasty and Kush</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_MC_LITE_NUBIA_TEXT_7">
+			<Text>In 654 BC, the Egyptian Psammetik I liberated both Lower and Upper Egypt from the Assyrians and regained Thebes. He further expelled the Kushite officials who ran the Cult of Amon there, and appointed his daughter as the high priestess of Amon.[NEWLINE][NEWLINE]In 593 BC Psammetic II, successor of Psammetic I, marched with a huge army towards Kush. Egyptian inscriptions claim that the Egyptians have inflicted a defeat on the Kushites at one battle north of Napata. The claim is probably not true since there is no physical evidence for Egyptian military invasion there.[NEWLINE][NEWLINE]During this period, the region of Lower Nubia became the no-man's land between Egypt and Kush . Thus, the population of Lower Nubia greatly intermixed with the Egyptians, the Kushites, as well as with other foreign settlers. The Jews, for example, formed large community at Elephantine.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_MC_LITE_NUBIA_HEADING_8">
+			<Text>Twenty-fifth Dynasty of Egypt</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_MC_LITE_NUBIA_TEXT_8">
+			<Text>The Twenty-fifth Dynasty of Egypt, known as the Nubian Dynasty or the Kushite Empire, was the last dynasty of the Third Intermediate Period of Ancient Egypt.[NEWLINE][NEWLINE]The 25th dynasty was a line of rulers originating in the Nubian Kingdom of Kush and most saw Napata as their spiritual homeland. They reigned in part or all of Ancient Egypt from 760 BC to 656 BC. The dynasty began with Kashta's invasion of Upper Egypt and culminated in several years of both successful and unsuccessful war with the Mesopotamian based Assyrian Empire. The 25th's reunification of Lower Egypt, Upper Egypt, and also Kush (Nubia) created the largest Egyptian empire since the New Kingdom. They ushered in an age of renaissance by reaffirming Ancient Egyptian religious traditions, temples, and artistic forms, while introducing some unique aspects of Kushite culture. It was during the 25th dynasty that the Nile valley saw the first widespread construction of pyramids (many in modern Sudan) since the Middle Kingdom. After the Assyrian kings Sargon II and Sennacherib defeated attempts by the Nubian kings to gain a foothold in the Near East, their successors Esarhaddon and Ashurbanipal invaded Egypt and defeated and drove out the Nubians. War with Assyria resulted in the end of Kushite power in Northern Egypt and the conquest of Egypt by Assyria. They were succeeded by the Twenty-sixth dynasty of Egypt, initially a puppet dynasty installed by and vassals of the Assyrians, the last native dynasty to rule Egypt before the Persian conquest.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_MC_LITE_NUBIA_HEADING_9">
+			<Text>Culture</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_MC_LITE_NUBIA_TEXT_9">
+			<Text>Nubians have developed a common identity which has been celebrated in poetry, novels, music and storytelling.[NEWLINE][NEWLINE]Nubians in modern Sudan include the Danaqla around Dongola Reach, the Mahas from the Third Cataract to Wadi Halfa, and the Sikurta around Aswan. These Nubians write using their own script. They also practice scarification: Mahas men and women have three scars on each cheek, while the Danaqla wear these scars on their temples. Younger generations appear to be abandoning this custom.[NEWLINE][NEWLINE]Nubia's ancient cultural development was influenced by its geography. It is sometimes divided into Upper Nubia and Lower Nubia. Upper Nubia was where the ancient Kingdom of Napata (the Kush) was located. Lower Nubia has been called "the corridor to Africa", where there was contact and cultural exchange between Nubians, Egyptians, Greeks, Assyrians, Romans, and Arabs. Lower Nubia was also where the Kingdom of Meroe flourished. The languages spoken by modern Nubians are based on ancient Sudanic dialects. From north to south, they are: Kenuz, Fadicha (Matoki), Sukkot, Mahas, Danagla.[NEWLINE][NEWLINE]Kerma, Napata and Meroe were Nubia's largest population centres. The rich agricultural lands of Nubia supported these cities. Ancient Egyptian rulers sought control of Nubia's wealth, including gold and the important trade routes within its territories. Nubia's trade links with Egypt led to Egypt's domination over Nubia during the New Kingdom period. The emergence of the Kingdom of Meroe in the 8th century BCE led to Egypt being under the control of Nubian rulers for a century, although they preserved many Egyptian cultural traditions. Nubian kings were considered pious scholars and patrons of the arts, copying ancient Egyptian texts and even restoring some Egyptian cultural practices. After this, Egypt's influence declined greatly. Meroe became the centre of power for Nubia and cultural links with sub-Saharan Africa gained greater influence.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_MC_LITE_NUBIA_HEADING_10">
+			<Text>Religion</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_MC_LITE_NUBIA_TEXT_10">
+			<Text>Today, Nubians practice Islam. To a degree, Nubian religious practices involve a syncretism of Islam and traditional folk beliefs. In ancient times, Nubians practiced a mixture of traditional religion and Egyptian religion. Before the spread of Islam, many Nubians were adherents of Christianity.[NEWLINE][NEWLINE]Ancient Napata was an important religious centre in Nubia. It was the location of Gebel Barkal, a massive sandstone hill resembling a rearing cobra in the eyes of the ancient inhabitants. Egyptian priests declared it to be the home of the ancient deity Amun, further enhancing Napata as an ancient religious site. This was the case for both Egyptians and Nubians. Egyptian and Nubian deities alike were worshipped in Nubia for 2500 years, even while Nubia was under the control of the New Kingdom of Egypt. Nubian kings and queens were buried near Gebel Barkal, in pyramids as the Egyptian pharaohs were. Nubian pyramids were built at Gebel Barkal, at Nuri (across the Nile from Gebel Barkal), at El Kerru, and at Meroe, south of Gebel Barkal.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_MC_LITE_NUBIA_HEADING_11">
+			<Text>Summary</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_MC_LITE_NUBIA_TEXT_11">
+			<Text>In the end one can say much about an ancient civilization and people such as the Nubians. Their culture and military activity had a great impact on ancient Egypt as well as the Middle East. However despite these accomplishments the heritage of Nubia is heavily overlooked in the modern world due to heavy representation the other dynasties and cultures of ancient Egypt enjoy.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_MC_LITE_NUBIA_FACTOID_HEADING">
+			<Text>Factoids</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_MC_LITE_NUBIA_FACTOID_TEXT ">
+			<Text>Nubia was was also known by the names of Kush, Wawat  and Ta-seti, meaning the "land of the bow".[NEWLINE][NEWLINE]During the period known as the Middle Kingdom (2134BC - 1782 BC), Egypt began expanding into Nubia to gain more control over the trade routes in Northern Nubia. They also required direct access to trade with Southern Nubia and so to other parts and exotic goods available in the other African countries.</Text>
+		</Row>
+		<!--Leader Civilopedia-->
+		<Row Tag="TXT_KEY_LEADER_MC_LITE_PIYE_DESC">
+			<Text>Piye</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MC_LITE_PIYE_LIVED">
+			<Text>??? - c. 721 BC</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MC_LITE_PIYE_NAME">
+			<Text>Piye</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MC_LITE_PIYE_SUBTITLE">
+			<Text>Leader of Nubia</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MC_LITE_PIYE_TITLES_1">
+			<Text>Usimare</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MC_LITE_PIYE_TITLES_2">
+			<Text>Sneferre</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MC_LITE_PIYE_HEADING_1">
+			<Text>History</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MC_LITE_PIYE_TEXT_1">
+			<Text>The Kushite Pharaoh of both Nubia and Egypt, Piye had a reputation as a fearsome conqueror, and was revered as one of Nubia’s greatest monarchs. Though he inherited both Nubia and Upper Egypt from his predecessor, Nubia was still confined to lands well below the mouth of the Nile. However, Piye noticed an opportunity to take Lower Egypt as well - one that he embarked upon very quickly. Seeing that the ruling dynasty of the kingdom was embroiled on power struggles, Piye lead his army forth for the military conquest of the region. The Egyptians reacted, forming a coalition to counter Piye before they resumed discussing their own problems. This coalition soon invaded the northern part of Piye’s territory, perhaps to scare them into submission. However, Piye simply marched his army into core Egyptian territory, forcing them to back off. He celebrated this success by visiting the Opet Festival in Thebes, proving that he controlled the territory well enough for him to go to what was once a solidly Egyptian city.[NEWLINE][NEWLINE]Piye’s campaign soon went north into the Egyptian heartlands, taking Memphis and Hermopolis. At this point, the Egyptians had realised that the game was up. The leader of the coalition, Tefnakht, wrote his letter of submission to Piye after hiding on an island in the Nile Delta. Piye forced the Egyptian rulers to pay him homage, and satisfied with that, he returned to Nubia, never to go back to Egypt. However, the local kings still had a lot of authority, as he never bothered to fully administer these conquests - though his successor succeeded in fully incorporating most of this land into his empire.[NEWLINE][NEWLINE]For the rest of his reign, Piye ruled an enormous domain, but only ever ruled from his throne in Napata, in the heart of Nubia. His length of his reign was about thirty years in total, though it is disputed if it was any more than thirty years or not. He was buried near his pyramid with his four favourite horses, near to the Jebel Barkal mountain.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MC_LITE_PIYE_FACTOID_HEADING">
+			<Text>Piye Factoids</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MC_LITE_PIYE_FACTOID_TEXT">
+			<Text>Piye thought of his conquest of Egypt as a holy war; he ordered his troops to undergo ritual bathing before their battles.[NEWLINE][NEWLINE]Domestically, Piye ordered restoration work on the Great Temple of Amun, near his burial site.</Text>
+		</Row>
+		<!--City List-->
+		<Row Tag="TXT_KEY_CITY_NAME_MC_LITE_NUBIA_MEROE">
+			<Text>Meroe</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MC_LITE_NUBIA_NAPATA">
+			<Text>Napata</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MC_LITE_NUBIA_GEBEL_BARKAL">
+			<Text>Gebel Barkal</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MC_LITE_NUBIA_NURI">
+			<Text>Nuri</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MC_LITE_NUBIA_KERMA">
+			<Text>Kerma</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MC_LITE_NUBIA_SOLEB">
+			<Text>Soleb</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MC_LITE_NUBIA_NAQA">
+			<Text>Naqa</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MC_LITE_NUBIA_SEMNA">
+			<Text>Semna</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MC_LITE_NUBIA_DAKKA">
+			<Text>Dakka</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MC_LITE_NUBIA_PHILAE">
+			<Text>Philae</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MC_LITE_NUBIA_DABOD">
+			<Text>Dabod</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MC_LITE_NUBIA_KAWA">
+			<Text>Kawa</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MC_LITE_NUBIA_ASWAN">
+			<Text>Aswan</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MC_LITE_NUBIA_TANKASSI">
+			<Text>Tankassi</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MC_LITE_NUBIA_DEBBA">
+			<Text>Debba</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MC_LITE_NUBIA_BERBER">
+			<Text>Berber</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MC_LITE_NUBIA_AMARA">
+			<Text>Amara</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MC_LITE_NUBIA_KOSHA">
+			<Text>Kosha</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MC_LITE_NUBIA_TANGUR">
+			<Text>Tangur</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MC_LITE_NUBIA_OKMA">
+			<Text>Okma</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MC_LITE_NUBIA_BEGARAWIEH">
+			<Text>Begarawieh</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MC_LITE_NUBIA_MERAUI">
+			<Text>Meraui</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MC_LITE_NUBIA_KURGUS">
+			<Text>Kurgus</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MC_LITE_NUBIA_DONGOLA">
+			<Text>Dongola</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MC_LITE_NUBIA_BUHEN">
+			<Text>Buhen</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MC_LITE_NUBIA_ANIBA">
+			<Text>Aniba</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MC_LITE_NUBIA_ELEPHANTINE">
+			<Text>Elephantine</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MC_LITE_NUBIA_ATBARAH">
+			<Text>Atbarah</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MC_LITE_NUBIA_MIRGISSA">
+			<Text>Mirgissa</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

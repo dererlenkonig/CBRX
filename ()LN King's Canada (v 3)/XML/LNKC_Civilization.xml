@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 3/15/2018 1:16:26 PM -->
+<GameData>
+	<!--=======================================================================-->
+	<!--Civilization-->
+	<!--=======================================================================-->
+	
+	<!--Defines key Civilization defines-->
+	<Civilizations>
+		<Row>
+			<Type>CIVILIZATION_LN_KINGCANADA</Type>
+			<Description>TXT_KEY_CIV_LN_KINGCANADA_DESC</Description>
+			<ShortDescription>TXT_KEY_CIV_LN_KINGCANADA_SHORT_DESC</ShortDescription>
+			<Adjective>TXT_KEY_CIV_LN_KINGCANADA_ADJECTIVE</Adjective>
+			<CivilopediaTag>TXT_KEY_CIVLOPEDIA_LN_KINGCANADA</CivilopediaTag>
+			<DefaultPlayerColor>PLAYERCOLOR_LN_KINGCANADA</DefaultPlayerColor>
+			<ArtDefineTag>ART_DEF_CIVILIZATION_AMERICA</ArtDefineTag>
+			<ArtStyleType>ARTSTYLE_EUROPEAN</ArtStyleType>
+			<ArtStyleSuffix>_EURO</ArtStyleSuffix>
+			<ArtStylePrefix>EUROPEAN </ArtStylePrefix>
+			<PortraitIndex>4</PortraitIndex>
+			<IconAtlas>EXPANSION2_CIV_COLOR_ATLAS</IconAtlas>
+			<AlphaIconAtlas>EXPANSION2_CIV_ALPHA_ATLAS</AlphaIconAtlas>
+			<MapImage>DoM_Map.dds</MapImage>
+			<DawnOfManQuote>TXT_KEY_DAWN_OF_MAN_LN_KINGCANADA_TEXT</DawnOfManQuote>
+			<DawnOfManImage>LN_KingCanada_DoM.dds</DawnOfManImage>
+		</Row>
+	</Civilizations>
+
+	<!--Assigns prefered religion-->
+	<Civilization_Religions>
+		<Row>
+			<CivilizationType>CIVILIZATION_LN_KINGCANADA</CivilizationType>
+			<ReligionType>RELIGION_CHRISTIANITY</ReligionType>
+		</Row>
+	</Civilization_Religions>
+
+	<!--Determines which building gets freely constructed in their capital...-->
+	<Civilization_FreeBuildingClasses>
+		<Row>
+			<CivilizationType>CIVILIZATION_LN_KINGCANADA</CivilizationType>
+			<BuildingClassType>BUILDINGCLASS_PALACE</BuildingClassType>
+		</Row>
+	</Civilization_FreeBuildingClasses>
+
+	<!--Determines which technology you get in Ancient Era starts-->
+	<Civilization_FreeTechs>
+		<Row>
+			<CivilizationType>CIVILIZATION_LN_KINGCANADA</CivilizationType>
+			<TechType>TECH_AGRICULTURE</TechType>
+		</Row>
+	</Civilization_FreeTechs>
+
+	<!--Determines what unit you get alongside your first warrior-->
+	<Civilization_FreeUnits>
+		<Row>
+			<CivilizationType>CIVILIZATION_LN_KINGCANADA</CivilizationType>
+			<UnitClassType>UNITCLASS_SETTLER</UnitClassType>
+			<UnitAIType>UNITAI_SETTLE</UnitAIType>
+			<Count>1</Count>
+		</Row>
+	</Civilization_FreeUnits>
+
+	<!--Assigns the player colors to the Civilization-->
+	<PlayerColors>
+		<Row>
+			<Type>PLAYERCOLOR_LN_KINGCANADA</Type>
+			<PrimaryColor>COLOR_PLAYER_LN_KINGCANADA_ICON</PrimaryColor>
+			<SecondaryColor>COLOR_PLAYER_LN_KINGCANADA_BACKGROUND</SecondaryColor>
+			<TextColor>COLOR_PLAYER_WHITE_TEXT</TextColor>
+		</Row>
+	</PlayerColors>
+
+	<!--Determines the custom player color that were assigned above-->
+	<Colors>
+		<Row>
+			<Type>COLOR_PLAYER_LN_KINGCANADA_ICON</Type>
+			<Red>0.91</Red>
+			<Green>0.74</Green>
+			<Blue>0.364</Blue>
+			<Alpha>1.0</Alpha>
+		</Row>
+		<Row>
+			<Type>COLOR_PLAYER_LN_KINGCANADA_BACKGROUND</Type>
+			<Red>0.65</Red>
+			<Green>0.13</Green>
+			<Blue>0.07</Blue>
+			<Alpha>1.0</Alpha>
+		</Row>
+	</Colors>
+
+	<Civilization_SpyNames>
+		<Row>
+			<CivilizationType>CIVILIZATION_LN_KINGCANADA</CivilizationType>
+			<SpyName>TXT_KEY_SPY_NAME_WLMK_CANADA_0</SpyName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_LN_KINGCANADA</CivilizationType>
+			<SpyName>TXT_KEY_SPY_NAME_WLMK_CANADA_1</SpyName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_LN_KINGCANADA</CivilizationType>
+			<SpyName>TXT_KEY_SPY_NAME_WLMK_CANADA_2</SpyName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_LN_KINGCANADA</CivilizationType>
+			<SpyName>TXT_KEY_SPY_NAME_WLMK_CANADA_3</SpyName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_LN_KINGCANADA</CivilizationType>
+			<SpyName>TXT_KEY_SPY_NAME_WLMK_CANADA_4</SpyName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_LN_KINGCANADA</CivilizationType>
+			<SpyName>TXT_KEY_SPY_NAME_WLMK_CANADA_5</SpyName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_LN_KINGCANADA</CivilizationType>
+			<SpyName>TXT_KEY_SPY_NAME_WLMK_CANADA_6</SpyName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_LN_KINGCANADA</CivilizationType>
+			<SpyName>TXT_KEY_SPY_NAME_WLMK_CANADA_7</SpyName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_LN_KINGCANADA</CivilizationType>
+			<SpyName>TXT_KEY_SPY_NAME_WLMK_CANADA_8</SpyName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_LN_KINGCANADA</CivilizationType>
+			<SpyName>TXT_KEY_SPY_NAME_WLMK_CANADA_9</SpyName>
+		</Row>
+	</Civilization_SpyNames>
+
+	<!--Determines the text for the above inputs-->
+	<Language_en_US>
+		<Row Tag="TXT_KEY_CIV_LN_KINGCANADA_DESC">
+			<Text>Dominion of Canada</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_LN_KINGCANADA_SHORT_DESC">
+			<Text>Canada</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_LN_KINGCANADA_ADJECTIVE">
+			<Text>Canadian</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_LN_KINGCANADA">
+			<Text></Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_LN_KINGCANADA_HEADING_1">
+			<Text>Sample Text</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DAWN_OF_MAN_LN_KINGCANADA_TEXT">
+			<Text>
+				When Canada needed a level head to deal with the mounting pressures of being a colonial empire in a world was wrought with war; you, Prime Minister William Lyon Mackenzie King rose to the task. With a hefty hand, and the power of the government, you quickly turned Canada from a diplomatic colony to an independent wartime nation through the use of middle power politics and a strong economic mind. Under your leadership, you dealt with the needs of a rising industrial class without the charismatic power of your contemporaries. You didn’t speak strongly of a Canadian vision, but worked with all your might to make it so.[NEWLINE][NEWLINE]And now, the gateway to a future with you as the foundation awaits you. Will you follow the diplomatic route of your predecessors or will you use your mind to blaze a trail in the cornerstones of this new history. How will you create the Civilization that will stand of time?
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_LN_KINGCANADA_TEXT_1">
+			<Text>Sampled Textual</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

@@ -1,0 +1,95 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mod id="453c69e7-a8ff-4085-bc85-7f2638ff967f" version="1">
+  <Properties>
+    <Name>Lungora's Khamug Khanate</Name>
+    <Stability>Alpha</Stability>
+    <Teaser>A mod by Lungora.
+
+ Adds the Khamug Mongol Khanate to the game.</Teaser>
+    <Description>My first release: The Khamug-Mongol Khanate under Jamukha!
+
+The Khamug-Mongols were a confederation of tribes in Mongolia from the 10th century with the fall of the Liao until their destruction and absorbsion into Genghis Khan's unified Mongol Empire. The first recorded leader of the Khamug was Khabul Khan, great grandfather of Genghis. The confederation ended with the death of Hotula Khan (Genghis' uncle) in 1160, before being recollected by the minor khan of the Jadaran Tribe: Jamukha. Jamukha was Genghis' blood-brother and close friend early in life, but the two became separate, and eventually bitter rivals. By 1206 Jamukha had been beaten down by Genghis and the remaints of the Khamug joined with the new Mongol Empire.
+
+Jamukha
+The Great Khanate - Pastures yield +1 production. Produce mounted units 15% faster. Gain gold when you declare war.
+UU: Hawk Riders - Replaces scout. +2 movement. Slightly stronger.
+UB: Steppe Ger - Replace stables.  +10% production on mounted units. +1 culture on horses and sheep. +1 production on horses. 2 maintenance. Unlocks with animal husbandry (no normal bonuses)
+
+YNAEMP and JFD's gameplay mods have compatibility, E&amp;amp;D coming when I figure out things for it and then code them.
+
+Credits:
+Me (Lungora) - Art, XML, Design, Research
+Senshi "All I did was add a title" Denshi - Consultation, Consolation, Putting text on things
+LeeS - LUA.  
+Bane_ - Help with getting my art to work.
+Everyone else in the civ modding community - For being awesome.
+
+Requires BNW and GnK.</Description>
+    <Authors>Lungora</Authors>
+    <SpecialThanks>Senshi, LeeS, Bane_, Tpangolin, Kelser, Civfantics</SpecialThanks>
+    <HideSetupGame>0</HideSetupGame>
+    <AffectsSavedGames>1</AffectsSavedGames>
+    <MinCompatibleSaveVersion>0</MinCompatibleSaveVersion>
+    <SupportsSinglePlayer>1</SupportsSinglePlayer>
+    <SupportsMultiplayer>0</SupportsMultiplayer>
+    <SupportsHotSeat>1</SupportsHotSeat>
+    <SupportsMac>1</SupportsMac>
+    <ReloadAudioSystem>0</ReloadAudioSystem>
+    <ReloadLandmarkSystem>0</ReloadLandmarkSystem>
+    <ReloadStrategicViewSystem>0</ReloadStrategicViewSystem>
+    <ReloadUnitSystem>0</ReloadUnitSystem>
+  </Properties>
+  <Dependencies />
+  <References />
+  <Blocks />
+  <Files>
+    <File md5="A1D36DA662EA67DCE6B69D7DCEFF1A87" import="1">Assets/AlphaKhamug128.dds</File>
+    <File md5="4D1D8B8793823C057E4F133E5B848544" import="1">Assets/AlphaKhamug16.dds</File>
+    <File md5="CCD4F649CB193EC5814E0564A78B5DD3" import="1">Assets/AlphaKhamug24.dds</File>
+    <File md5="F57F5CD70AFCCC64ACC397EC5F3D23ED" import="1">Assets/AlphaKhamug32.dds</File>
+    <File md5="4A9E8CA9529B72346CA3C38B4767EC71" import="1">Assets/AlphaKhamug48.dds</File>
+    <File md5="4828FE5BFD54F44F5CCCDE16B4CA72BC" import="1">Assets/AlphaKhamug64.dds</File>
+    <File md5="CE848750798208403BAABB2F5DC1C4E2" import="1">Assets/AlphaKhamug80.dds</File>
+    <File md5="15378A31636461764E431E94EA4FD5A5" import="1">Assets/HawkRiderFlag.dds</File>
+    <File md5="E5486542C628F623D258F857A0709BCC" import="1">Assets/JamukhaDiplo.dds</File>
+    <File md5="6A5800A9030AEABB349C54000E312DB6" import="1">Assets/JamukhaDOM.dds</File>
+    <File md5="F21D9AE180C15D3BEFD9BCA718DA015D" import="1">Assets/KhamugMap.dds</File>
+    <File md5="BBE1D1103324CF6D690F58B2D4057C7D" import="1">Assets/Khamug_Icons128.dds</File>
+    <File md5="60C78A5C31C247110C0F0BE0DD1B52D3" import="1">Assets/Khamug_Icons256.dds</File>
+    <File md5="4FF903887C1CB480B2814759B196ADBF" import="1">Assets/Khamug_Icons32.dds</File>
+    <File md5="465A1F346F724DD32FD3FCEE71C47F6B" import="1">Assets/Khamug_Icons45.dds</File>
+    <File md5="AFF5714A80491E7BA65089EB5172A9E0" import="1">Assets/Khamug_Icons64.dds</File>
+    <File md5="9C91B469C5EC14F6B69D739720DF46B7" import="1">Assets/Khamug_Icons80.dds</File>
+    <File md5="F4A42272412B2BE2DE9DB29936851CC3" import="1">Assets/sv_HawkRider.dds</File>
+    <File md5="969C8F11E119D2BB87F44ADE83B9D526" import="0">Code/Art.xml</File>
+    <File md5="5B66FA29D4E11F7857F038D61EF92F5D" import="0">Code/Buildings.xml</File>
+    <File md5="983B671119F77902EC0FC70DD28609AD" import="0">Code/Civilization.xml</File>
+    <File md5="36DFBC047734992D40E4E5BD802EF209" import="0">Code/Diplomacy.sql</File>
+    <File md5="F26F2D794CA8F724D26BFF6C5575EDE5" import="1">Code/Jamukha_Scene.xml</File>
+    <File md5="F06075FA4D43B9C40AE9FA9A3F000681" import="0">Code/Leader.xml</File>
+    <File md5="27D0661D33877F3790570E95D9C5E4FA" import="0">Code/Mod_Support.sql</File>
+    <File md5="62A17216B9DEA10C6F6513762C40C768" import="0">Code/Trait.xml</File>
+    <File md5="A1D527FA612F3780FA6357DDF5F4B235" import="0">Code/Units.xml</File>
+    <File md5="2B069ABF891E6D103EF15D6055CD7D72" import="0">LUA/KhamugGold.lua</File>
+    <File md5="69C3E20F1E61D23DFFEAB07EBF8B0D97" import="0">Code/Dialog.xml</File>
+  </Files>
+  <Actions>
+    <OnModActivated>
+      <UpdateDatabase>Code/Art.xml</UpdateDatabase>
+      <UpdateDatabase>Code/Buildings.xml</UpdateDatabase>
+      <UpdateDatabase>Code/Civilization.xml</UpdateDatabase>
+      <UpdateDatabase>Code/Dialog.xml</UpdateDatabase>
+      <UpdateDatabase>Code/Leader.xml</UpdateDatabase>
+      <UpdateDatabase>Code/Trait.xml</UpdateDatabase>
+      <UpdateDatabase>Code/Units.xml</UpdateDatabase>
+      <UpdateDatabase>Code/Mod_Support.sql</UpdateDatabase>
+      <UpdateDatabase>Code/Diplomacy.sql</UpdateDatabase>
+    </OnModActivated>
+  </Actions>
+  <EntryPoints>
+    <EntryPoint type="InGameUIAddin" file="LUA/KhamugGold.lua">
+      <Name>KhamugGold</Name>
+      <Description>KhamugGold</Description>
+    </EntryPoint>
+  </EntryPoints>
+</Mod>

@@ -1,0 +1,444 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 02/11/2012 14:26:32 -->
+<GameData>
+	<Language_en_US>
+		<Row Tag="TXT_KEY_RESOURCE_YUPIKHALIBUT">
+			<Text>Halibut</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_RESOURCE_YUPIKHALIBUT_TEXT">
+			<Text>Halibut is a flatfish which live in the North Pacific and the North Atlantic oceans. They are highly regarded food fish.The North Pacific commercial halibut fishery dates to the late 19th century and today is one of the region's largest and most lucrative.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RESOURCE_YUPIKBEAR">
+			<Text>Polar Bear</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_RESOURCE_YUPIKBEAR_TEXT">
+			<Text>The Polar Bear is a carnivorous bear whose native range lies largely within the Arctic Circle, encompassing the Arctic Ocean, its surrounding seas and surrounding land masses .</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RESOURCE_YUPIKNARVAL">
+			<Text>Narwhale</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_RESOURCE_YUPIKNARVAL_TEXT">
+			<Text>The Narwhale is a medium-sized toothed whale and possesses a large "tusk" from a protruding canine tooth. It lives year-round in the Arctic waters around Greenland, Canada, and Russia. It is one of two living species of whale in the Monodontidae family, along with the beluga whale. The narwhal males are distinguished by a long, straight, helical tusk, which is an elongated upper left canine.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RESOURCE_YUPIKBEAVER">
+			<Text>Beaver</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_RESOURCE_YUPIKBEAVER_TEXT">
+			<Text>The Beaver is known for building dams, canals, and lodges (homes). They are the second-largest rodent in the world (after the capybara). Their colonies create one or more dams to provide still, deep water to protect against predators, and to float food and building material.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNITCOMBAT_CIVILIAN1">
+			<Text>Civilian Unit</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNITCOMBAT_CIVILIAN2">
+			<Text>Civilian Unity</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_BUILDINGS_QASQIG_TEXT">
+			<Text>Qasqig (Qargi) is a a traditional large semisubterranean men's community house (or communal men's house, men's house, ceremonial house, council house, dance house, communal gathering place) of the Yup'ik and Inuit, also Deg Hit'an Athabaskans (at Anvik, Alaska), was used for public and ceremonial occasions and as a men’s residence. The Qargi was the place where men built their boats, repaired their equipment, took sweat baths, educated young boys, and hosted community dances. Here people learned their oral history, songs and chants. Young boys and men learned to make tools and weapons while they listened to the traditions of their forefathers.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_QASQIG_STRATEGY">
+			<Text>Build an qasqig to enhance your population growth.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_QASQIG_HELP">
+			<Text>The qasqig is a granary.The city must be built near a snow tile. [NEWLINE] It brings +2 [ICON_HAPPINESS_1].</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_QASQIG_DESC">
+			<Text>Qasqig</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_SEDNA">
+			<Text>Raven's blessing</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_SEDNA_HELP">
+			<Text>Can enter coastal tile.Double move on ice and snow.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_NIUGTAQ">
+			<Text>Niugtaq</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CEVAQ">
+			<Text>Cev'aq</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_QERRULLIIK">
+			<Text>Qerrulliik</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SIRENIK">
+			<Text>Sirenik</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TUNUNEQ">
+			<Text>Tununeq</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_IMANGAQ">
+			<Text>Imangaq</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_KASSIGGLUQ">
+			<Text>Kassiggluq</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_KUIGLUQ">
+			<Text>Kuigluq</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_NAPARYARRAQ">
+			<Text>Naparyarraq</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TUULKESSAAQ">
+			<Text>Tuulkessaaq</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MIKURYARMIUT">
+			<Text>Mikuryarmiut</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_ALARNEQ">
+			<Text>Alarneq</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_NAPASKIAQ">
+			<Text>Napaskiaq</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_KUINERRAQ">
+			<Text>Kuinerraq</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_URRAGMIUT">
+			<Text>Urr'agmiut</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CEVVARNEQ">
+			<Text>Cevv'arneq</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TUNTUTULIAQ">
+			<Text>Tuntutuliaq</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_AKIACUAQ">
+			<Text>Akiacuaq</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_AKIAQ">
+			<Text>Akiaq</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_ATMAULLUAQ">
+			<Text>Atmaulluaq</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_ANYARAQ">
+			<Text>Anyaraq</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CURARPALEK">
+			<Text>Curarpalek</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_QIPNEQ">
+			<Text>Qipneq</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_KANGIRNAQ">
+			<Text>Kangirnaq</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_YUPIK_ADJECTIVE">
+			<Text>Yup'ik</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_YUPIK_DESC">
+			<Text>Yup'ik empire</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_YUPIK_SHORT_DESC">
+			<Text>Yup'ik</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_DAWN_YUPIK_TEXT">
+			<Text>Great leader Apanuugpak, your people Yupik appeal to you again to rebuild the great civilization of Yupiks.The common ancestors of Eskimos and Aleuts are believed by archaeologists to have their origin in eastern Siberia, arriving in the Bering Sea area about 10,000 years ago.By about 3,000 years ago, the progenitors of the Yupiit had settled along the coastal areas of what would become western Alaska, with migrations up the coastal rivers—notably the Yukon and Kuskokwim—around 1400 C.E Traditionally, families spent the spring and summer at fish camp, then joined with others at village sites for the winter. Many families still harvest the traditional subsistence resources, especially Pacific salmon and seal. Can you, Great Apanuugpak, help your people overcome the test of time? </Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_APANUUGPAK_HEADING_1">
+			<Text>History</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_APANUUGPAK_TEXT_1">
+			<Text>Apanuugpak was a great warrior during the "bow and arrow" wars, which occurred for many decades, ending about 200 years ago in the Yup'ik region of Southwest Alaska. In these times, Apanuugpak was raised to be a warrior. The diet of boys raised to be warriors was regulated carefully, to help them grow to be light and agile. Apanuugpak's training was rigorous. Some stories say his grandfather would make him run to the top of Nelson Island (about 500 feet high). Then, he would receive just one drop of water from the tip of the feather of a snowy owl to quench his thirst. Then Apanuugpak was told to, roll over sharp mussel shells to toughen his body and mind.Apanuugpak was a virtual "killing machine," according to oral tradition. He achieved victory through his superior strength, courage and ingenuity. Apanuugpak was invisible to his enemies, it is said, though he also had a loud voice, like a crane, that scared them. Arrows bounced off of him, perhaps because of his secret weapon, an armor of mussel shells. His enemies say that a shaman in the Togiak area put a curse on Apanuugpak, who was turned into a rock as he headed back to his village after a raid. That rock can still be seen along the coast. However, Anna Kungurqaq of Nelson Island tells that he died the natural death of an old man while in a steam bath.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_APANUUGPAK_LIVED">
+			<Text>Around 1800</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_APANUUGPAK_NAME">
+			<Text>Apanuugpak</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_APANUUGPAK_SUBTITLE">
+			<Text>Great Leader of Yup'ik</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_APANUUGPAK">
+			<Text>Apanuugpak</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_INLANDSIS_DESC">
+			<Text>Snow tiles +1 [ICON_PEACE] +1 [ICON_FOOD] +1 [ICON_CULTURE]. Ice features +2 [ICON_PEACE]. Extra bonus arctic resources when founding cities abroad. Some units get abilities on snow and ice.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_INLANDSIS_SHORT_DESC">
+			<Text>Ice Curtain</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_YUPIK_HEADING_1">
+			<Text>History</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_YUPIK_TEXT_1">
+			<Text>The Yup'iks are an Eskimo people of western and southwestern Alaska ranging from southern Norton Sound southwards along the coast of the Bering Sea on the Yukon-Kuskokwim Delta (including living on Nelson and Nunivak Islands) and along the northern coast of Bristol Bay as far east as Nushagak Bay and the northern Alaska Peninsula at Naknek River and Egegik Bay.They are one of the four Yupik peoples of Alaska and Siberia, closely related to the Alutiiq (Pacific Yupik) of southcentral Alaska, the Siberian Yupik of St. Lawrence Island and Russian Far East, and the Naukan of Russian Far East. The Yupiit speak the Central Alaskan Yup'ik language. The people of Nunivak Island, speakers of the Nunivak Island dialect of Central Alaskan Yup'ik, call themselves Cup'ig (plural Cup'it); the people of Hooper Bay and Chevak, speakers of the Hooper Bay-Chevak dialect, call themselves Cup'ik (plural Cup'it).</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_YUPIK_0">
+			<Text>Sirenik</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_YUPIK_1">
+			<Text>Naukan</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_YUPIK_2">
+			<Text>Cupik</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_YUPIK_3">
+			<Text>Cupig</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_YUPIK_4">
+			<Text>Sugpiaq</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_YUPIK_5">
+			<Text>Nunivak</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_YUPIK_6">
+			<Text>Alutiiq</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_YUPIK_7">
+			<Text>Inupiaq</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_YUPIK_8">
+			<Text>Inuvialuk</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_YUPIK_9">
+			<Text>Ellam</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_YUPIKHUNTER_DESC">
+			<Text>Alutiiq Hunter</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_HELP_YUPIKHUNTER">
+			<Text>Can embark and can found city. City founded abroad have a unique arctic luxury such as the [ICON_RES_YUPIKBEAR] Polar Bear.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_YUPIKHUNTER_STRATEGY">
+			<Text>Dominate the icecap with this early game unit.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_YUPIKHUNTER_TEXT">
+			<Text>The Alutiiq people traditionally lived a coastal lifestyle, subsisting primarily on ocean resources such as salmon, halibut, and whale, as well as rich land resources such as berries and land mammals. Before European contact with Russian fur traders, the Alutiiq lived in semi-subterranean homes called ciqlluaq. The Alutiiq today live in coastal fishing communities, where they work in all aspects of the modern economy, while also maintaining the cultural value of subsistence.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_NARVAL_HELP">
+			<Text>The Royal Palace is located in your capital city.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_NARVAL">
+			<Text>Royal Palace</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_NARVAL_DESC">
+			<Text>The Palace automatically appears in the capital city of the empire. It provides a small amount of [ICON_RESEARCH] Science, [ICON_GOLD] Gold, and [ICON_CULTURE] Culture for free. If you connect other cities to the capital by road or harbor, you will create trade routes which generate additional income. If your capital city is captured, your Palace will automatically be rebuilt in another city. If you subsequently retake your original capital, the Palace will move back to its original location.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_NARVAL_QUOTE">
+			<Text>"Nature is clever. When man gives him a hand, what masterpiece will create!".[NEWLINE]- Benoît Desforêts[NEWLINE].</Text>
+		</Row>
+	</Language_en_US>
+	<Language_FR_FR>
+		<Row Tag="TXT_KEY_RESOURCE_YUPIKHALIBUT">
+			<Text>Flétan</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_RESOURCE_YUPIKHALIBUT_TEXT">
+			<Text>Le terme « flétan » est le nom vernaculaire donné en français à certains grands poissons plats de la sous-famille des Hippoglossinés. C'est une espèce d'importance commerciale. Dans le Pacifique, le territoire de ce flétan suit les îles Aléoutiennes et s'étend au sud du détroit de Béring sur le plateau continental, davantage du côté de l'Alaska que du côté de la Russie. On trouve quelques flétans du Groenland près de la côte ouest Nord-Américaine. Les œufs et les larves pélagiques se concentrent près de l'île Unalaska et de la fin de l'archipel Aléoutien.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RESOURCE_YUPIKBEAR">
+			<Text>Ours Polaire</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_RESOURCE_YUPIKBEAR_TEXT">
+			<Text>L'Ours Polaire est un grand mammifère carnivore originaire des régions arctiques. C'est, avec l'ours kodiak, le plus grand des carnivores terrestres et il figure au sommet de sa pyramide alimentaire.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RESOURCE_YUPIKNARVAL">
+			<Text>Narval</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_RESOURCE_YUPIKNARVAL_TEXT">
+			<Text>Le Narval, surnommé la licorne des mers, est un cétacé. Les mâles possèdent une unique défense torsadée, issue de l'incisive supérieure gauche, qui peut mesurer jusqu'à trois mètres de long.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RESOURCE_YUPIKBEAVER">
+			<Text>Castor</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_RESOURCE_YUPIKBEAVER_TEXT">
+			<Text>Le castor est surtout connu pour les barrages, les digues et les huttes qu'ils construisent sur les cours d'eau et les rivières. Ce sont les seules espèces à produire et entretenir des zones humides ; ils contribuent ainsi à la diversification de l'habitat. Ils ont été chassés depuis l'Antiquité, ce qui a conduit les deux espèces encore vivantes au bord de l'extinction.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNITCOMBAT_CIVILIAN1">
+			<Text>Unité Civile</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNITCOMBAT_CIVILIAN2">
+			<Text>Unité Civile</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_BUILDINGS_QASQIG_TEXT">
+			<Text>Dans la maison commune des hommes, le qasqig, se déroulaient les cérémonies et les festivités, notamment les chants, les danses et les traditions orales. Le qasqig était principalement utilisé pendant les mois d'hiver, car les groupes de familles suivaient les sources de nourriture tout au long du printemps, de l'été et de l'automne. Tous les hommes et garçons de plus de cinq ans y dorment et y vivent. Ce système de vie commune permet l'échange intergénérationnel et le maintien des traditions par la transmission orale. C'est donc le lieu où les hommes apprennent aux jeunes garçons les techniques de survie et de chasse. Pendant l'hiver, les jeunes y apprenaient aussi à fabriquer des outils et des kayaks. </Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_QASQIG_STRATEGY">
+			<Text>Construisez le qasqig pour accroitre rapidement votre population.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_QASQIG_HELP">
+			<Text>Le qasqig est un grenier.La ville doit être construite prés d'une case de neige. [NEWLINE] Elle apporte +2 [ICON_HAPPINESS_1].</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_QASQIG_DESC">
+			<Text>Qasqig</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_SEDNA">
+			<Text>Benediction de Raven</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_SEDNA_HELP">
+			<Text>Peut naviguer en eau peu profonde.Double mouvement sur la neige et la glace.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_NIUGTAQ">
+			<Text>Niugtaq</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CEVAQ">
+			<Text>Cev'aq</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_QERRULLIIK">
+			<Text>Qerrulliik</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TUNUNEQ">
+			<Text>Tununeq</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SIRENIK">
+			<Text>Sirenik</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_IMANGAQ">
+			<Text>Imangaq</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_KASSIGGLUQ">
+			<Text>Kassiggluq</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_KUIGLUQ">
+			<Text>Kuigluq</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_NAPARYARRAQ">
+			<Text>Naparyarraq</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TUULKESSAAQ">
+			<Text>Tuulkessaaq</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MIKURYARMIUT">
+			<Text>Mikuryarmiut</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_ALARNEQ">
+			<Text>Alarneq</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_NAPASKIAQ">
+			<Text>Napaskiaq</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_KUINERRAQ">
+			<Text>Kuinerraq</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_URRAGMIUT">
+			<Text>Urr'agmiut</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CEVVARNEQ">
+			<Text>Cevv'arneq</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TUNTUTULIAQ">
+			<Text>Tuntutuliaq</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_AKIACUAQ">
+			<Text>Akiacuaq</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_AKIAQ">
+			<Text>Akiaq</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_ATMAULLUAQ">
+			<Text>Atmaulluaq</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_ANYARAQ">
+			<Text>Anyaraq</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CURARPALEK">
+			<Text>Curarpalek</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_QIPNEQ">
+			<Text>Qipneq</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_KANGIRNAQ">
+			<Text>Kangirnaq</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_YUPIK_ADJECTIVE">
+			<Text>Yup'ik</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_YUPIK_DESC">
+			<Text>Empire yup'ik</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_YUPIK_SHORT_DESC">
+			<Text>Yup'ik</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_DAWN_YUPIK_TEXT">
+			<Text>Grand Apanuugpak, votre peuple des Yupiks fait appel à vous une seconde fois pour refonder la grande civilisation des Yupiks. Les Yup'ik ont un style de vie côtier, subsistant principalement grâce aux ressources de l'océan comme le saumon, le flétan et la baleine, ainsi que ressources terrestres telles que les baies et les mammifères terrestres. Avant les premiers contacts avec les commerçants de fourrure russes, les Yupik vivaient dans des maisons semi-souterraines appelées qasqig. Ils vivent aujourd'hui en communautés de pêcheurs, au sein desquelles ils travaillent dans tous les domaines de l'économie moderne, tout en maintenant la valeur culturelle de la subsistance. Pourrez-vous, Grand Apanuugpak, aider votre peuple à surmonter l'épreuve du temps?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_APANUUGPAK_HEADING_1">
+			<Text>History</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_APANUUGPAK_TEXT_1">
+			<Text>Apanuugpak était un grand guerrier pendant la guerre des « arcs et flèches " qui ont eu lieu pendant de nombreuses décennies , pris fin il ya environ 200 ans dans la région du Sud-Ouest de l'Alaska yup'ik . En ces temps, Apanuugpak a été porté à être un guerrier . Le régime alimentaire des garçons élevés pour être des guerriers a été soigneusement réglé, les aider à grandir pour être léger et agile . La formation de Apanuugpak était rigoureuse . Certaines histoires disent que son grand-père lui faisait courir au sommet de l'île Nelson ( environ 500 pieds de haut ) . Ensuite , il recevrait une seule goutte d'eau à partir de la pointe de la plume d'un harfang des neiges pour étancher sa soif . Puis Apanuugpak devait se rouler sur des coquilles de moules pointus pour durcir son corps et son esprit .Apanuugpak était devenu une " machine à tuer ", selon la tradition orale . Il a remporté la victoire par sa force supérieure , le courage et l'ingéniosité . Apanuugpak était invisible à ses ennemis , il est dit , qu'il avait aussi une voix forte , comme une grue , qui faisait peur à ses enemis . Les flèches rebondissent sur lui , peut-être à cause de son arme secrète , une armure de coquilles de moules . Ses ennemis disent que un chaman dans la zone Togiak a jeté un sort sur ​​Apanuugpak , qui a été transformé en un rocher alors qu'il se dirigeait vers son village après un raid . Ce rocher est encore visible le long de la côte . Cependant , Anna Kungurqaq de l'île Nelson dit qu'il mourut de la mort naturelle d'un vieil homme dans un bain de vapeur. </Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_APANUUGPAK_LIVED">
+			<Text>Environ 1800</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_APANUUGPAK_NAME">
+			<Text>Apanuugpak</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_APANUUGPAK_SUBTITLE">
+			<Text>Grand Leader des Yup'ik</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_APANUUGPAK">
+			<Text>Apanuugpak</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_INLANDSIS_DESC">
+			<Text>Case de neige +1 [ICON_PEACE] +1 [ICON_FOOD] +1 [ICON_CULTURE]. Certaines unités ont des facilités sur la neige et la glace.Bénéficiez de ressources uniques en fondant des villes sur d'autres continents.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_INLANDSIS_SHORT_DESC">
+			<Text>Rideau de Glace</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_YUPIK_HEADING_1">
+			<Text>Histoire</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_YUPIK_TEXT_1">
+			<Text>Les Yup'iks  sont les indigènes qui vivent sur la moitié sud de la côte ouest de l'Alaska, spécialement sur le delta Yukon-Kuskokwim et le long de la rivière Kuskokwim (Yupiks du centre de l'Alaska), dans le sud de l'Alaska (les Alutiiqs) et sur la pointe orientale de la Russie et l'île Saint-Laurent au sud du détroit de Béring (les Yupiks de Sibérie). Les Yupiit sont apparentés aux Inuits. Le Delta du Yukon-Kuskokwim se compose plus ou moins d'une toundra subarctique à riche végétation et nombreux cours d'eau servant de voies de communication. Le manque de bois est pallié par l'abondance du bois de flottage descendant les rivières au printemps. Les Yupiit du centre de l'Alaska sont de loin le groupe yupik le plus nombreux. Ceux qui vivent sur l'île Nunivak sont appelés Cup'ig ; ceux qui vivent dans le village de Chevak sont appelés Cup'ik. À cause d'une confusion des explorateurs russes dans les années 1800, certains Yupiit habitant le long de la frontière avec leurs parents aléoutes ont été appelés Aléoutes, ou Alutiiq en yupik. Cette dénomination est restée en vigueur. Les Yupiit se sont auto-désignés ainsi. Le terme se compose de "Yuk" (« personne ») et du suffixe "-pik" (« vrai »).</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_YUPIK_0">
+			<Text>Sirenik</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_YUPIK_1">
+			<Text>Naukan</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_YUPIK_2">
+			<Text>Cupik</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_YUPIK_3">
+			<Text>Cupig</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_YUPIK_4">
+			<Text>Sugpiaq</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_YUPIK_5">
+			<Text>Nunivak</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_YUPIK_6">
+			<Text>Alutiiq</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_YUPIK_7">
+			<Text>Inupiaq</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_YUPIK_8">
+			<Text>Inuvialuk</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_YUPIK_9">
+			<Text>Ellam</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_YUPIKHUNTER_DESC">
+			<Text>Chasseur Alutiiq</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_HELP_YUPIKHUNTER">
+			<Text>Bonus de combat sur la neige. Peut fonder une ville. Les villes fondées par delà la mer apporte des ressources arctiques uniques telles que l'Ours Polaire [ICON_RES_YUPIKBEAR].</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_YUPIKHUNTER_STRATEGY">
+			<Text>Dominez la banquise avec cette unite combattante du debut de partie.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_YUPIKHUNTER_TEXT">
+			<Text>Traditionnellement, les Alutiiq ont un style de vie côtier, subsistant principalement grâce aux ressources de l'océan comme le saumon, le flétan et la baleine, ainsi que ressources terrestres telles que les baies et les mammifères terrestres. Avant les premiers contacts avec les commerçants de fourrure russes, les Alutiiq vivaient dans des maisons semi-souterraines appelées barabaras. Ils vivent aujourd'hui en communautés de pêcheurs, au sein desquelles ils travaillent dans tous les domaines de l'économie moderne, tout en maintenant la valeur culturelle de la subsistance.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_TRAIT_BUILDING14">
+			<Text>Unique building of trait</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_NARVAL_HELP">
+			<Text>Le Palais Royal est construit dans votre capitale.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_NARVAL">
+			<Text>Palais Royal</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_NARVAL_DESC">
+			<Text>Le palais apparaît automatiquement dans la capitale de votre empire. Il confère un léger bonus de production, de [ICON_RESEARCH] science, [ICON_GOLD] d'or et de [ICON_CULTURE] culture à votre civilisation. Connectez d'autres villes à votre capitale via des routes ou un port, et vous établirez des routes commerciales qui vous rapporteront des revenus supplémentaires. Si votre capitale est prise, votre palais est automatiquement reconstruit dans une autre ville qui devient immédiatement votre nouvelle capitale. Si vous parvenez ensuite à reprendre votre capitale d'origine, le palais y sera reconstruit.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_NARVAL_QUOTE">
+			<Text>"La nature est habile. Quand l'homme lui donne un coup de main, quel chef-d'oeuvre va se créer !".[NEWLINE]- Benoît Desforêts[NEWLINE]</Text>
+		</Row>
+
+	</Language_FR_FR>
+</GameData>

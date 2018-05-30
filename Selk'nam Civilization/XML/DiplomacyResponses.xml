@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+  <Diplomacy_Responses>
+    <Row>
+      <LeaderType>LEADER_XOON</LeaderType>
+      <ResponseType>RESPONSE_DEFEATED</ResponseType>
+      <Response>TXT_KEY_LEADER_XOON_DEFEATED%</Response>
+      <Bias>5</Bias>
+    </Row>
+    <Row>
+      <LeaderType>LEADER_XOON</LeaderType>
+      <ResponseType>RESPONSE_EXPANSION_SERIOUS_WARNING</ResponseType>
+      <Response>TXT_KEY_XOON_EXPANSION_SERIOUS_WARNING%</Response>
+      <Bias>5</Bias>
+    </Row>
+    <Row>
+      <LeaderType>LEADER_XOON</LeaderType>
+      <ResponseType>RESPONSE_FIRST_GREETING</ResponseType>
+      <Response>TXT_KEY_LEADER_XOON_FIRSTGREETING%</Response>
+      <Bias>5</Bias>
+    </Row>
+    <Row>
+      <LeaderType>LEADER_XOON</LeaderType>
+      <ResponseType>RESPONSE_GREETING_HOSTILE_HELLO</ResponseType>
+      <Response>TXT_KEY_LEADER_XOON_GREETING_HOSTILE_HELLO%</Response>
+      <Bias>5</Bias>
+    </Row>
+    <Row>
+      <LeaderType>LEADER_XOON</LeaderType>
+      <ResponseType>RESPONSE_GREETING_NEUTRAL_HELLO</ResponseType>
+      <Response>TXT_KEY_LEADER_XOON_GREETING_NEUTRAL_HELLO%</Response>
+      <Bias>5</Bias>
+    </Row>
+    <Row>
+      <LeaderType>LEADER_XOON</LeaderType>
+      <ResponseType>RESPONSE_GREETING_POLITE_HELLO</ResponseType>
+      <Response>TXT_KEY_LEADER_XOON_GREETING_POLITE_HELLO%</Response>
+      <Bias>5</Bias>
+    </Row>
+    <Row>
+      <LeaderType>LEADER_XOON</LeaderType>
+      <ResponseType>RESPONSE_HOSTILE_AGGRESSIVE_MILITARY_WARNING</ResponseType>
+      <Response>TXT_KEY_XOON_HOSTILE_AGGRESSIVE_MILITARY_WARNING%</Response>
+      <Bias>5</Bias>
+    </Row>
+    <Row>
+      <LeaderType>LEADER_XOON</LeaderType>
+      <ResponseType>RESPONSE_LUXURY_TRADE</ResponseType>
+      <Response>TXT_KEY_LEADER_XOON_LUXURY_TRADE%</Response>
+      <Bias>5</Bias>
+    </Row>
+    <Row>
+      <LeaderType>LEADER_XOON</LeaderType>
+      <ResponseType>RESPONSE_OPEN_BORDERS_EXCHANGE</ResponseType>
+      <Response>TXT_KEY_LEADER_XOON_OPEN_BORDERS_EXCHANGE%</Response>
+      <Bias>5</Bias>
+    </Row>
+    <Row>
+      <LeaderType>LEADER_XOON</LeaderType>
+      <ResponseType>RESPONSE_REQUEST</ResponseType>
+      <Response>TXT_KEY_LEADER_XOON_RESPONSE_REQUEST%</Response>
+      <Bias>5</Bias>
+    </Row>
+  </Diplomacy_Responses>
+
+  <Language_en_US>
+    <Row Tag="TXT_KEY_LEADER_XOON_DEFEATED_1">
+      <Text>You fool! Do you know what you have done? The world will long lament your heinous crime!</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_XOON_DEFEATED_2">
+      <Text>Curse you! The blood of the greatest leader in world history is on your hands!</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_XOON_DEFEATED_3">
+      <Text>You have defeated me?? But how could this have happened? There must be some mistake!</Text>
+    </Row>
+    <Row Tag="TXT_KEY_XOON_EXPANSION_SERIOUS_WARNING_1">
+      <Text>Your expansion efforts are an insult. Know that there will be consequences for this.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_XOON_FIRSTGREETING_1">
+      <Text>I, the ruler of these sacred lands, do greet you with warmth and friendship. May the spirits wish you well.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_XOON_FIRSTGREETING_2">
+      <Text>I graciously greet you, and generously offer you my hand in friendship. I am the leader of these lands and am an extremely wise and remarkable ruler.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_XOON_FIRSTGREETING_3">
+      <Text>Welcome, Stranger! I am the mighty shaman of this sacred haruwen. May Temaukel bless your journeys.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_XOON_GREETING_HOSTILE_HELLO_1">
+      <Text>What do you want?</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_XOON_GREETING_NEUTRAL_HELLO_1">
+      <Text>Greetings.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_XOON_GREETING_POLITE_HELLO_1">
+      <Text>Hello friend. What brings you to my lands this day?</Text>
+    </Row>
+    <Row Tag="TXT_KEY_XOON_HOSTILE_AGGRESSIVE_MILITARY_WARNING_1">
+      <Text>I see your armies amassed near my empire. If you wish to attack then come. Our weaponry is superior anyway.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_XOON_LUXURY_TRADE_1">
+      <Text>You have a Luxury Resource that I would like. What do you think of this offer?</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_XOON_OPEN_BORDERS_EXCHANGE_1">
+      <Text>I believe it's in our mutual interest to allow free passage between our two great empires.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_XOON_RESPONSE_REQUEST_1">
+      <Text>Our people are currently experiencing some hardship. Your investment ensure a bright future for us both.</Text>
+    </Row>
+  </Language_en_US>
+</GameData>

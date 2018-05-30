@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 3/21/2013 6:51:09 PM -->
+<GameData>
+	<UnitPromotions>
+		<Row>
+			<Type>PROMOTION_BATIR</Type>
+			<Description>+15 HP healed per turn when healing in neutral territory and +10 HP healed per turn when healing in friendly territory.</Description>
+			<Help>Hero of the People</Help>
+			<Sound>AS2D_IF_LEVELUP</Sound>
+			<CannotBeChosen>true</CannotBeChosen>
+			<NeutralHealChange>15</NeutralHealChange>
+			<FriendlyHealChange>10</FriendlyHealChange>
+			<OrderPriority>1</OrderPriority>
+			<PortraitIndex>9</PortraitIndex>
+			<IconAtlas>PROMOTION_ATLAS</IconAtlas>
+			<PediaType>PEDIA_ATTRIBUTES</PediaType>
+			<PediaEntry>Hero of the People</PediaEntry>
+		</Row>
+		<Row>
+			<Type>PROMOTION_TULGAMA</Type>
+			<Description>+15% [ICON_STRENGTH] Combat Strength when fighting in Open Terrain.</Description>
+			<Help>Tulgama</Help>
+			<Sound>AS2D_IF_LEVELUP</Sound>
+			<CannotBeChosen>true</CannotBeChosen>
+			<OpenAttack>15</OpenAttack>
+			<OpenDefense>15</OpenDefense>
+			<OrderPriority>1</OrderPriority>
+			<PortraitIndex>9</PortraitIndex>
+			<IconAtlas>PROMOTION_ATLAS</IconAtlas>
+			<PediaType>PEDIA_ATTRIBUTES</PediaType>
+			<PediaEntry>Tulgama</PediaEntry>
+		</Row>
+	</UnitPromotions>
+	<UnitPromotions_UnitCombats>
+		<Row>
+			<PromotionType>PROMOTION_BATIR</PromotionType>
+			<UnitCombatType>UNITCOMBAT_MOUNTED</UnitCombatType>
+		</Row>
+		<Row>
+			<PromotionType>PROMOTION_TULGAMA</PromotionType>
+			<UnitCombatType>UNITCOMBAT_MOUNTED</UnitCombatType>
+		</Row>
+	</UnitPromotions_UnitCombats>
+</GameData>

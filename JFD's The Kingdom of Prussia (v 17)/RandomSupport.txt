@@ -1,0 +1,36 @@
+TraitBasedLua = 'TRUE';
+
+OVERRIDE_AUTO  = { 
+	CIVILIZATIONS = {
+		CIVILIZATION = {
+			Civilization = 'CIVILIZATION_JFD_PRUSSIA';
+			Leader = 'LEADER_JFD_FREDERICK';
+		};
+	};
+
+	MOD_SUPPORT = {
+		Civ4Traits = {
+			LEADER_JFD_FREDERICK = {
+				Leader 	= 	'LEADER_JFD_FREDERICK';
+				LeaderTXT	=	'Gediminas ';
+			};
+		};
+	};
+
+	COMPONENTS = {
+		COMPONENT = {
+			Type = 'UNIT_JFD_LANDWEHR';
+			Class = 'UNITCLASS_RIFLEMAN';
+		};
+		COMPONENT = {
+			Type = 'UNIT_JFD_DEATHS_HEAD';
+			Class = 'UNITCLASS_CAVALRY';
+		};
+	};
+
+	TRAITS = {
+		TRAIT = {
+			Type = 'TRAIT_JFD_LITHUANIA';
+		};
+	};
+};

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 7/3/2016 11:33:38 PM -->
+<GameData>
+	<UnitPromotions>
+		<Row>
+			<Type>PROMOTION_SENSHI_SASR</Type>
+			<Description>TXT_KEY_PROMOTION_SENSHI_SASR</Description>
+			<Help>TXT_KEY_PROMOTION_SENSHI_SASR_HELP</Help>
+			<Sound>AS2D_IF_LEVELUP</Sound>
+			<DropRange>2</DropRange>
+			<PortraitIndex>58</PortraitIndex>
+			<IconAtlas>ABILITY_ATLAS</IconAtlas>
+			<CannotBeChosen>true</CannotBeChosen>
+			<PediaType>PEDIA_ATTRIBUTES</PediaType>
+			<PediaEntry>TXT_KEY_UNIT_CIV5_SENSHI_SASR_TEXT</PediaEntry>
+		</Row>
+	</UnitPromotions>
+	<UnitPromotions>
+		<Row>
+			<Type>PROMOTION_SENSHI_SASR_BONUS</Type>
+			<Description>TXT_KEY_PROMOTION_SENSHI_SASR_BONUS</Description>
+			<Help>TXT_KEY_PROMOTION_SENSHI_SASR_BONUS_HELP</Help>
+			<Sound>AS2D_IF_LEVELUP</Sound>
+			<OpenAttack>8</OpenAttack>
+			<OpenDefense>8</OpenDefense>
+			<RoughDefense>8</RoughDefense>
+			<RoughAttack>8</RoughAttack>
+			<PortraitIndex>58</PortraitIndex>
+			<IconAtlas>ABILITY_ATLAS</IconAtlas>
+			<CannotBeChosen>true</CannotBeChosen>
+			<PediaType>PEDIA_ATTRIBUTES</PediaType>
+			<PediaEntry>TXT_KEY_UNIT_CIV5_SENSHI_SASR_TEXT</PediaEntry>
+		</Row>
+	</UnitPromotions>
+	<UnitPromotions_UnitCombats>
+		<Row>
+			<PromotionType>PROMOTION_SENSHI_SASR</PromotionType>
+			<UnitCombatType>UNITCOMBAT_GUN</UnitCombatType>
+		</Row>
+		<Row>
+			<PromotionType>PROMOTION_SENSHI_SASR_BONUS</PromotionType>
+			<UnitCombatType>UNITCOMBAT_GUN</UnitCombatType>
+		</Row>
+	</UnitPromotions_UnitCombats>
+</GameData>

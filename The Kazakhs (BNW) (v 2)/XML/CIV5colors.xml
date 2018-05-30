@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 2/18/2013 10:24:05 PM -->
+<GameData>
+	<Colors>
+		<Row>
+			<Type>COLOR_PLAYER_DJSH_KAZAKH_ICON</Type>
+			<Red>1</Red>
+			<Green>1</Green>
+			<Blue>0.4235</Blue>
+			<Alpha>1</Alpha>
+		</Row>
+		<Row>
+			<Type>COLOR_PLAYER_DJSH_KAZAKH_BACKGROUND</Type>
+			<Red>0.258</Red>
+			<Green>0.619</Green>
+			<Blue>0.709</Blue>
+			<Alpha>1</Alpha>
+		</Row>
+	</Colors>
+</GameData>

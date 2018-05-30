@@ -1,0 +1,86 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mod id="1f1c6b93-b885-4f08-9fac-ee3edfdc036a" version="1">
+  <Properties>
+    <Name>() Indira Gandhi</Name>
+    <Stability>Alpha</Stability>
+    <Teaser>Adds Indira Gandhi</Teaser>
+    <Description>Adds Indira Gandhi</Description>
+    <Authors>Scissor_Fingers, Limerickarcher</Authors>
+    <SpecialThanks>JFD</SpecialThanks>
+    <HideSetupGame>0</HideSetupGame>
+    <AffectsSavedGames>1</AffectsSavedGames>
+    <MinCompatibleSaveVersion>0</MinCompatibleSaveVersion>
+    <SupportsSinglePlayer>1</SupportsSinglePlayer>
+    <SupportsMultiplayer>0</SupportsMultiplayer>
+    <SupportsHotSeat>0</SupportsHotSeat>
+    <SupportsMac>1</SupportsMac>
+    <ReloadAudioSystem>1</ReloadAudioSystem>
+    <ReloadLandmarkSystem>1</ReloadLandmarkSystem>
+    <ReloadStrategicViewSystem>1</ReloadStrategicViewSystem>
+    <ReloadUnitSystem>1</ReloadUnitSystem>
+  </Properties>
+  <Dependencies />
+  <References />
+  <Blocks />
+  <Files>
+    <File md5="06A6EF713AA42EF9F64A88EA1EBBCF1D" import="1">ART/DiploIndira.dds</File>
+    <File md5="807CEFF50DBAB33C97D725ECDE913E7B" import="1">ART/Garuda_Flag.dds</File>
+    <File md5="4388E0DB62532CCA42C5AAC9E640F07D" import="1">ART/IndiaIndiraAlphaAtlas_128.dds</File>
+    <File md5="922D5D3D72B1387C55BF787ECA0A61AF" import="1">ART/IndiaIndiraAlphaAtlas_16.dds</File>
+    <File md5="1CFAD4CFF6C2F96219DEE034B059032A" import="1">ART/IndiaIndiraAlphaAtlas_24.dds</File>
+    <File md5="513381774F19438486F7F9EEFFF538F1" import="1">ART/IndiaIndiraAlphaAtlas_32.dds</File>
+    <File md5="F430D7A02494396693A3B0972D2FF1B2" import="1">ART/IndiaIndiraAlphaAtlas_45.dds</File>
+    <File md5="55A2555381AE6532F8968CB5038B9B98" import="1">ART/IndiaIndiraAlphaAtlas_48.dds</File>
+    <File md5="38242729CC471DA012A73205EA581B62" import="1">ART/IndiaIndiraAlphaAtlas_64.dds</File>
+    <File md5="9A761388877C7F90B539E10DDD4CBF30" import="1">ART/IndiaIndiraAlphaAtlas_80.dds</File>
+    <File md5="BFBE3AB91B4763848F2DA01A2EF60CD1" import="1">ART/IndiaIndiraAtlas_128.dds</File>
+    <File md5="96A5A870CDB93B5682C01D2E4C51B7A1" import="1">ART/IndiaIndiraAtlas_256.dds</File>
+    <File md5="03B44B9D4CBFD3DE10B868FAB13D5FE6" import="1">ART/IndiaIndiraAtlas_32.dds</File>
+    <File md5="1515491486FEE37872BC67EF164B58E0" import="1">ART/IndiaIndiraAtlas_45.dds</File>
+    <File md5="3DF81F2B94A8EA10DFFAEF34B7AEED51" import="1">ART/IndiaIndiraAtlas_64.dds</File>
+    <File md5="69611B709A10646589F7E184C062E919" import="1">ART/IndiaIndiraAtlas_80.dds</File>
+    <File md5="8C90FE28C8F2D2DA4F089D91024F36A5" import="1">ART/Indira_DOM.dds</File>
+    <File md5="F45F7E591453C97203CDAF7C28B33D7C" import="1">ART/MapIndira.dds</File>
+    <File md5="12CCBB2AA82D33939680B55D2A755C4F" import="0">LUA/Indira_Functions.lua</File>
+    <File md5="9D1D4A3C2EDE594A156B2B2C29799251" import="1">LUA/Util/GetUnitsInAdjacentPlotsWithPromotion.lua</File>
+    <File md5="5690A1B2ACA2729FD9D55156E232AB1A" import="1">LUA/Util/PlotIterators.lua</File>
+    <File md5="5754B1BE6E37A2F9D04D9D4149E5CDDF" import="1">LUA/Util/SaveUtils.lua</File>
+    <File md5="8FDA3E79ABDBB907BEA7C6D02D7BE5C1" import="1">MUSIC/IndiraPeace.mp3</File>
+    <File md5="6B111651C29565C2A19D83FF2E81B986" import="1">MUSIC/IndiraWar.mp3</File>
+    <File md5="64897B03AE62417690DC113ECEFE7D25" import="0">MUSIC/Music.xml</File>
+    <File md5="1D240FEC281CF09E3D419707EF9AD1B4" import="0">SQL/GameDefines.sql</File>
+    <File md5="577418B03E1913535B1DC03AD94115CE" import="0">SQL/MasterSupportFile.sql</File>
+    <File md5="679BCAA50E6DD9803B9A598FE96EFFDA" import="0">XML/Buildings.xml</File>
+    <File md5="310326D69336C6538423C4BFF04BA681" import="0">XML/Civilization.xml</File>
+    <File md5="2C3BFB5600E729F160A8E227EC032508" import="0">XML/Dummy.xml</File>
+    <File md5="A91231A2A9EDABA8C68EC03597FCD36F" import="0">XML/GameText.xml</File>
+    <File md5="3D96045C81A99D8BA0764EB1F7622DBD" import="0">XML/IconTextureAtlas.xml</File>
+    <File md5="EE675993AEA545EFBC01928F14ABCF48" import="0">XML/Indira Promotions.xml</File>
+    <File md5="471D7F90C3220D50E7D2EEDB9F5EC4EB" import="0">XML/Indira_Leaderhead.xml</File>
+    <File md5="166FF0D19FFD3BE88DDBDA183C39C0FC" import="0">XML/Leader.xml</File>
+    <File md5="29EF19F3C2E909E39BE9D0EE62ED7C7F" import="0">XML/Units.xml</File>
+  </Files>
+  <Actions>
+    <OnModActivated>
+      <UpdateDatabase>MUSIC/Music.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Units.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Buildings.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Dummy.xml</UpdateDatabase>
+      <UpdateDatabase>XML/GameText.xml</UpdateDatabase>
+      <UpdateDatabase>XML/IconTextureAtlas.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Indira Promotions.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Indira_Leaderhead.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Indira_Leaderhead.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Leader.xml</UpdateDatabase>
+      <UpdateDatabase>SQL/GameDefines.sql</UpdateDatabase>
+      <UpdateDatabase>XML/Civilization.xml</UpdateDatabase>
+      <UpdateDatabase>SQL/MasterSupportFile.sql</UpdateDatabase>
+    </OnModActivated>
+  </Actions>
+  <EntryPoints>
+    <EntryPoint type="InGameUIAddin" file="LUA/Indira_Functions.lua">
+      <Name>Indira_Functions</Name>
+      <Description>Indira Functions</Description>
+    </EntryPoint>
+  </EntryPoints>
+</Mod>

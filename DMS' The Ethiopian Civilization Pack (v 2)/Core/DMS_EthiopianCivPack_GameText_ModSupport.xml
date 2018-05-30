@@ -1,0 +1,752 @@
+<GameData>
+	<Language_en_US>
+		<!-- SUKRITACT's DECISIONS -->
+		<!-- AKSUM -->
+		<!-- Mint Aksumite Coinage -->
+		<Row Tag="TXT_KEY_DECISIONS_DMS_MINT_AKSUMITE_COINAGE">
+			<Text>Mint Aksumite Coinage</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_DMS_MINT_AKSUMITE_COINAGE_DESC">
+			<Text>
+				Our empire grows in power by the day, and its trade connections bring it wealth and exotic items. To confirm our sovereignty and prestige, we should order the minting of our own coin.[NEWLINE]
+				[NEWLINE]Requirement/Restrictions:
+				[NEWLINE][ICON_BULLET]Player must be Aksum
+				[NEWLINE][ICON_BULLET]Must have Steles in all Cities
+				[NEWLINE][ICON_BULLET]Must have researched Currency
+				[NEWLINE][ICON_BULLET]May only be enacted once per game
+				[NEWLINE]Costs:
+				[NEWLINE][ICON_BULLET]{1_Culture} [ICON_CULTURE] Culture
+				[NEWLINE][ICON_BULLET]1 [ICON_MAGISTRATES] Magistrates
+				[NEWLINE]Rewards:
+				[NEWLINE][ICON_BULLET]+2 [ICON_GOLD] Gold from all your Trade Routes
+				[NEWLINE][ICON_BULLET]The Palace generates +2 [ICON_GOLD] Gold
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_DMS_MINT_AKSUMITE_COINAGE_ENACTED_DESC">
+			<Text>
+				Our empire grows in power by the day, and its trade connections bring it wealth and exotic items. To confirm our sovereignty and prestige, we should order the minting of our own coin.[NEWLINE]
+				[NEWLINE]Rewards:
+				[NEWLINE][ICON_BULLET]+2 [ICON_GOLD] Gold from all your Trade Routes
+				[NEWLINE][ICON_BULLET]The Palace generates +2 [ICON_GOLD] Gold
+			</Text>
+		</Row>
+		<!-- Construct the Dungur Palace -->
+		<Row Tag="TXT_KEY_DECISIONS_DMS_CONSTRUCT_THE_DUNGUR_PALACE">
+			<Text>Construct the Dungur Palace</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_DMS_CONSTRUCT_THE_DUNGUR_PALACE_DESC">
+			<Text>
+				The ancient ruins at Dungur 'Addi Kilte has been abandoned for decades. It is the place where the palace of Queen Makeda once stood, and we should strive to rebuild it, bringing it back to glory.[NEWLINE]
+				[NEWLINE]Requirement/Restrictions:
+				[NEWLINE][ICON_BULLET]Player must be Aksum
+				[NEWLINE][ICON_BULLET]Must have researched Engineering
+				[NEWLINE][ICON_BULLET]May only be enacted once per game
+				[NEWLINE]Costs:
+				[NEWLINE][ICON_BULLET]{1_Gold} [ICON_GOLD] Gold
+				[NEWLINE][ICON_BULLET]2 [ICON_MAGISTRATES] Magistrates
+				[NEWLINE]Rewards:
+				[NEWLINE][ICON_BULLET]+1 [ICON_PEACE] Faith from Walls, Castles and Arsenals
+				[NEWLINE][ICON_BULLET]+10% [ICON_PRODUCTION] Building Production in the Capital
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_DMS_CONSTRUCT_THE_DUNGUR_PALACE_ENACTED_DESC">
+			<Text>
+				The ancient ruins at Dungur 'Addi Kilte has been abandoned for decades. It is the place where the palace of Queen Makeda once stood, and we should strive to rebuild it, bringing it back to glory.[NEWLINE]
+				[NEWLINE]Rewards:
+				[NEWLINE][ICON_BULLET]+1 [ICON_PEACE] Faith from Walls, Castles and Arsenals
+				[NEWLINE][ICON_BULLET]+10% [ICON_PRODUCTION] Building Production in the Capital
+			</Text>
+		</Row>
+		<!-- SEMIEN -->
+		<!-- Chronicle of Eldad ha-Dani -->
+		<Row Tag="TXT_KEY_DECISIONS_DMS_CHRONICLE_OF_ELDAD_HA_DANI">
+			<Text>Chronicle of Eldad ha-Dani</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_DMS_CHRONICLE_OF_ELDAD_HA_DANI_DESC">
+			<Text>
+				The merchant and traveller Eldad ha-Dani has proposed that he leaves our kingdom to venture out on a great journey. His plans are to visit faraway places like Babylon, Kairouan and Iberia, spreading the word of our religion.[NEWLINE]
+				[NEWLINE]Requirement/Restrictions:
+				[NEWLINE][ICON_BULLET]Player must be Semien
+				[NEWLINE][ICON_BULLET]Must have researched Theology
+				[NEWLINE][ICON_BULLET]May only be enacted once per game
+				[NEWLINE]Costs:
+				[NEWLINE][ICON_BULLET]{1_Faith} [ICON_PEACE] Faith
+				[NEWLINE][ICON_BULLET]1 [ICON_MAGISTRATES] Magistrates
+				[NEWLINE]Rewards:
+				[NEWLINE][ICON_BULLET]Missionaries may spread religion an extra time
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_DMS_CHRONICLE_OF_ELDAD_HA_DANI_ENACTED_DESC">
+			<Text>
+				The merchant and traveller Eldad ha-Dani has proposed that he leaves our kingdom to venture out on a great journey. His plans are to visit faraway places like Babylon, Kairouan and Iberia, spreading the word of our religion.[NEWLINE]
+				[NEWLINE]Rewards:
+				[NEWLINE][ICON_BULLET]Missionaries may spread religion an extra time
+			</Text>
+		</Row>
+		<!-- Found the Zagwe Dynasty -->
+		<Row Tag="TXT_KEY_DECISIONS_DMS_FOUND_THE_ZAGWE_DYNASTY">
+			<Text>Found the Zagwe Dynasty</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_DMS_FOUND_THE_ZAGWE_DYNASTY_DESC">
+			<Text>
+				With the conquest of the Aksumites we have expanded our borders considerably. The alliance with the Agaw people has brought with it a great shift in power amoung the ruling classes. This new dynasty, 'Ze-Agaw' - Dynasty of the Agaw - will lead us to prosperity and glory for centuries.[NEWLINE]
+				[NEWLINE]Requirement/Restrictions:
+				[NEWLINE][ICON_BULLET]Player must be Semien
+				[NEWLINE][ICON_BULLET]Must have captured a foreign Capital
+				[NEWLINE][ICON_BULLET]May only be enacted once per game
+				[NEWLINE]Costs:
+				[NEWLINE][ICON_BULLET]{1_Culture} [ICON_CULTURE] Culture
+				[NEWLINE][ICON_BULLET]{2_Faith} [ICON_PEACE] Faith
+				[NEWLINE][ICON_BULLET]2 [ICON_MAGISTRATES] Magistrates
+				[NEWLINE]Rewards:
+				[NEWLINE][ICON_BULLET]Civilization will be renamed 'Ethiopia'
+				[NEWLINE][ICON_BULLET]Captured Cities will generate +10% [ICON_CULTURE] Culture
+				[NEWLINE][ICON_BULLET]Capturing a foreign Capital will start a 10 turn [ICON_GOLDEN_AGE] Golden Age
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_DMS_FOUND_THE_ZAGWE_DYNASTY_ENACTED_DESC">
+			<Text>
+				With the conquest of the Aksumites we have expanded our borders considerably. The alliance with the Agaw people has brought with it a great shift in power amoung the ruling classes. This new dynasty, 'Ze-Agaw' - Dynasty of the Agaw - will lead us to prosperity and glory for centuries.[NEWLINE]
+				[NEWLINE]Rewards:
+				[NEWLINE][ICON_BULLET]Civilization will be renamed 'Ethiopia'
+				[NEWLINE][ICON_BULLET]Captured Cities will generate +10% [ICON_CULTURE] Culture
+				[NEWLINE][ICON_BULLET]Capturing a foreign Capital will start a 10 turn Golden Age
+			</Text>
+		</Row>
+		<!-- ETHIOPIA (AMDA SEYON) -->
+		<!-- Restructure the Imperial Army -->
+		<Row Tag="TXT_KEY_DECISIONS_DMS_RESTRUCTURE_THE_IMPERIAL_ARMY">
+			<Text>Restructure the Imperial Army</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_DMS_RESTRUCTURE_THE_IMPERIAL_ARMY_DESC">
+			<Text>
+				Since the fall of the Aksumites, the Ethiopian Imperial Army has been disorganized and ineffective. It is time that you, the Pillar of Zion, Emperor Amda Seyon I, bring back the army to our old standards and beyond. Let the central army be divided into independent regiments - Qeste-Nihb, Hareb Gonda, Tekula and Axuarat Axuarai - and let these regiments compete for your favor![NEWLINE]
+				[NEWLINE]Requirement/Restrictions:
+				[NEWLINE][ICON_BULLET]Player must be Amda Seyon I's Ethiopia
+				[NEWLINE][ICON_BULLET]Must have researched Civil Service
+				[NEWLINE][ICON_BULLET]May not be enacted after the Industrial Era
+				[NEWLINE][ICON_BULLET]May only be enacted once per game
+				[NEWLINE]Costs:
+				[NEWLINE][ICON_BULLET]{1_Gold} [ICON_GOLD] Gold
+				[NEWLINE][ICON_BULLET]2 [ICON_MAGISTRATES] Magistrates
+				[NEWLINE]Rewards:
+				[NEWLINE][ICON_BULLET]All Units of the types below will be placed in one of four regiments. These regiments will provide bonuses of various kinds:
+				[NEWLINE][ICON_BULLET]Qeste-Nihb (Ranged): Receive +10 [ICON_PRODUCTION] Production in the nearest City whenever a Qeste-Nihb is promoted
+				[NEWLINE][ICON_BULLET]Hareb Gonda (Mounted): Receive +10 [ICON_GREAT_GENERAL] Great General Points whenever a Hareb Gonda Unit is promoted.
+				[NEWLINE][ICON_BULLET]Tekula (Recon): Receive +25 [ICON_GOLD] Gold whenever a Tekula Unit is promoted.
+				[NEWLINE][ICON_BULLET]Axuarat Axuarai (Melee): Receive +15 [ICON_CULTURE] Culture whenever a Axuarat Axuarai is promoted.
+				[NEWLINE][COLOR_NEGATIVE_TEXT]This effect is only active until the end of the Industrial Era[ENDCOLOR]
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_DMS_RESTRUCTURE_THE_IMPERIAL_ARMY_ENACTED_DESC">
+			<Text>
+				Since the fall of the Aksumites, the Ethiopian Imperial Army has been disorganized and ineffective. It is time that you, the Pillar of Zion, Emperor Amda Seyon I, bring back the army to our old standards and beyond. Let the central army be divided into independent regiments - Qeste-Nihb, Hareb Gonda, Tekula and Axuarat Axuarai - and let these regiments compete for your favor![NEWLINE]
+				[NEWLINE]Rewards:
+				[NEWLINE][ICON_BULLET]All Units of the types below will be placed in one of four regiments. These regiments will provide bonuses of various kinds:
+				[NEWLINE][ICON_BULLET]Qeste-Nihb (Ranged): Receive +5 [ICON_PRODUCTION] Production in the nearest City whenever a Qeste-Nihb is promoted
+				[NEWLINE][ICON_BULLET]Hareb Gonda (Mounted): Receive +5 [ICON_GREAT_GENERAL] Great General Points whenever a Hareb Gonda Unit is promoted.
+				[NEWLINE][ICON_BULLET]Tekula (Recon): Receive +25 [ICON_GOLD] Gold whenever a Tekula Unit is promoted.
+				[NEWLINE][ICON_BULLET]Axuarat Axuarai (Melee): Receive +10 [ICON_CULTURE] Culture whenever a Axuarat Axuarai is promoted.
+				[NEWLINE][COLOR_NEGATIVE_TEXT]NOTE: This effect is only active until the end of the Industrial Era[ENDCOLOR]
+			</Text>
+		</Row>
+		<!-- Formulate the Kebra Nagast -->
+		<Row Tag="TXT_KEY_DECISIONS_DMS_FORMULATE_THE_KEBRA_NAGAST">
+			<Text>Formulate the Kebra Nagast</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_DMS_FORMULATE_THE_KEBRA_NAGAST_DESC">
+			<Text>
+				It is time that the glory of the kings of Ethiopia is accounted in writing. Let this take form as the Kebra Nagast; an account of Ethiopia's earliest history to capture the people’s national and religious feelings.[NEWLINE]
+				[NEWLINE]Requirement/Restrictions:
+				[NEWLINE][ICON_BULLET]Player must be Amda Seyon I's Ethiopia
+				[NEWLINE][ICON_BULLET]Must have a Temple in the Capital
+				[NEWLINE][ICON_BULLET]May only be enacted once per game
+				[NEWLINE]Costs:
+				[NEWLINE][ICON_BULLET]{1_Culture} [ICON_CULTURE] Culture
+				[NEWLINE][ICON_BULLET]{2_Faith} [ICON_PEACE] Faith
+				[NEWLINE][ICON_BULLET]1 [ICON_MAGISTRATES] Magistrates
+				[NEWLINE]Rewards:
+				[NEWLINE][ICON_BULLET]The Temple in the Capital receives 2 slots for [ICON_GREAT_WORK] Great Works of Writing
+				[NEWLINE][ICON_BULLET]Great Writer Specialists generate +2 [ICON_PEACE] Faith
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_DMS_FORMULATE_THE_KEBRA_NAGAST_ENACTED_DESC">
+			<Text>
+				It is time that the glory of the kings of Ethiopia is accounted in writing. Let this take form as the Kebra Nagast; an account of Ethiopia's earliest history to capture the people’s national and religious feelings.[NEWLINE]
+				[NEWLINE]Rewards:
+				[NEWLINE][ICON_BULLET]The Temple in the Capital receives 2 slots for [ICON_GREAT_WORK] Great Works of Writing
+				[NEWLINE][ICON_BULLET]Great Writer Specialists generate +2 [ICON_PEACE] Faith
+			</Text>
+		</Row>
+		<!-- ETHIOPIA (ZARA YAQOB) -->
+		<!-- Author a theological work -->
+		<Row Tag="TXT_KEY_DECISIONS_DMS_AUTHOR_A_THEOLOGICAL_WORK">
+			<Text>Author a Theological Work</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_DMS_AUTHOR_A_THEOLOGICAL_WORK_DESC">
+			<Text>
+				The tradition of Ethiopian literature is prospering under you rule, Emperor! With your own reputation as an author of great renown, your contributions to religious writings would doubtlessly be celebrated throughout the empire![NEWLINE]
+				[NEWLINE]Requirement/Restrictions:
+				[NEWLINE][ICON_BULLET]Player must be Zara Yaqob's Ethiopia
+				[NEWLINE][ICON_BULLET]Must have constructed a Writer's Guild
+				[NEWLINE][ICON_BULLET]May be enacted three times per game
+				[NEWLINE]Costs:
+				[NEWLINE][ICON_BULLET]{1_Culture} [ICON_CULTURE] Culture
+				[NEWLINE][ICON_BULLET]{2_Faith} [ICON_PEACE] Faith
+				[NEWLINE][ICON_BULLET]1 [ICON_MAGISTRATES] Magistrates
+				[NEWLINE]Rewards:
+				[NEWLINE][ICON_BULLET]Receive one of the [ICON_GREAT_WORK] Great Works of Writing: the Mahsafa Berha ("The Book of Light"), the Mahsafa Milad ("The Book of Nativity") or the Mahsafa Selassie ("The Book of the Trinity")
+				[NEWLINE][ICON_BULLET]A random City celebrates a 'We Love The Kind Day'
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_DMS_AUTHOR_A_THEOLOGICAL_WORK_ENACTED_DESC">
+			<Text>
+				The tradition of Ethiopian literature is prospering under you rule, Emperor! With your own reputation as an author of great renown, your contributions to religious writings would doubtlessly be celebrated throughout the empire![NEWLINE]
+				[NEWLINE]Rewards:
+				[NEWLINE][ICON_BULLET]Receive one of the Great Works of Writing: the Mahsafa Berha ("The Book of Light"), the Mahsafa Milad ("The Book of Nativity") or the Mahsafa Selassie ("The Book of the Trinity")
+				[NEWLINE][ICON_BULLET]A random City celebrates a 'We Love The Kind Day'
+			</Text>
+		</Row>
+		<!-- Introduce Centralization Reforms -->
+		<Row Tag="TXT_KEY_DECISIONS_DMS_INTRODUCE_CENTRALIZATION_REFORMS">
+			<Text>Introduce Centralization Reforms</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_DMS_INTRODUCE_CENTRALIZATION_REFORMS_DESC">
+			<Text>
+				Under the care of the Solomonic dynasty Ethiopia has grown from a kingdom into a great empire. However the diverse regions under our rule lack a common language, religion or administrative system. Zara Yaqob, you are the most able ruler Ethiopia has seen in a long time, and with your reforms we might go a long way towards creating a more unified state.[NEWLINE]
+				[NEWLINE]Requirement/Restrictions:
+				[NEWLINE][ICON_BULLET]Player must be Zara Yaqob's Ethiopia
+				[NEWLINE][ICON_BULLET]Must have at least three Cities
+				[NEWLINE][ICON_BULLET]May only be enacted once per game
+				[NEWLINE]Costs:
+				[NEWLINE][ICON_BULLET]{1_Gold} [ICON_GOLD] Gold
+				[NEWLINE][ICON_BULLET]2 [ICON_MAGISTRATES] Magistrates
+				[NEWLINE]Rewards:
+				[NEWLINE][ICON_BULLET][ICON_GREAT_WORK] Great Works generate +2 [ICON_GOLD] Gold
+				[NEWLINE][ICON_BULLET]+4 [ICON_HAPPINESS_1] in City furthest away from the Capital
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_DMS_INTRODUCE_CENTRALIZATION_REFORMS_ENACTED_DESC">
+			<Text>
+				Under the care of the Solomonic dynasty Ethiopia has grown from a kingdom into a great empire. However the diverse regions under our rule lack a common language, religion or administrative system. Zara Yaqob, you are the most able ruler Ethiopia has seen in a long time, and with your reforms we might go a long way towards creating a more unified state.[NEWLINE]
+				[NEWLINE]Rewards:
+				[NEWLINE][ICON_BULLET][ICON_GREAT_WORK] Great Works generate +2 [ICON_GOLD] Gold
+				[NEWLINE][ICON_BULLET]+4 [ICON_HAPPINESS_1] in City furthest away from the Capital
+			</Text>
+		</Row>
+		<!-- ETHIOPIA (MENELIK II) -->
+		<!-- Found the Bank of Ethiopia -->
+		<Row Tag="TXT_KEY_DECISIONS_DMS_FOUND_THE_BANK_OF_ETHIOPIA">
+			<Text>Found the Bank of Ethiopia</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_DMS_FOUND_THE_BANK_OF_ETHIOPIA_DESC">
+			<Text>
+				Our position on the global stage is marked not only by our piety, or our military clout - but by our economic capabilities as well - or lack thereof. It is high time that we modernised our economic systems in order to better the wealth of our nation and our subjects - and ourselves, of course.[NEWLINE]
+				[NEWLINE]Requirement/Restrictions:
+				[NEWLINE][ICON_BULLET]Player must be Menelik II's Ethiopia
+				[NEWLINE][ICON_BULLET]Must have researched Banking
+				[NEWLINE][ICON_BULLET]May only be enacted once per game
+				[NEWLINE]Costs:
+				[NEWLINE][ICON_BULLET]{1_Gold} [ICON_GOLD] Gold
+				[NEWLINE][ICON_BULLET]2 [ICON_MAGISTRATES] Magistrates
+				[NEWLINE]Rewards:
+				[NEWLINE][ICON_BULLET]Receive a free Bank in the Capital
+				[NEWLINE][ICON_BULLET]Banks generate +10% [ICON_GOLD] for every Declaration of Friendship
+				[NEWLINE][COLOR_POSITIVE_TEXT]NOTE: If you already have a Bank in the Capital, a free Bank will be constructed in the next City without one[ENDCOLOR]
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_DMS_FOUND_THE_BANK_OF_ETHIOPIA_ENACTED_DESC">
+			<Text>
+				Our position on the global stage is marked not only by our piety, or our military clout - but by our economic capabilities as well - or lack thereof. It is high time that we modernised our economic systems in order to better the wealth of our nation and our subjects - and ourselves, of course.[NEWLINE]
+				[NEWLINE]Rewards:
+				[NEWLINE][ICON_BULLET]Receive a free Bank in the Capital
+				[NEWLINE][ICON_BULLET]Banks generate +10% [ICON_GOLD] for every Declaration of Friendship
+				[NEWLINE][COLOR_POSITIVE_TEXT]NOTE: If you already have a Bank in the Capital, a free Bank will be constructed in the next City without one[ENDCOLOR]
+			</Text>
+		</Row>
+		<!-- Construct War Monuments -->
+		<Row Tag="TXT_KEY_DECISIONS_DMS_CONSTRUCT_WAR_MONUMENTS">
+			<Text>Construct War Monuments</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_DMS_CONSTRUCT_WAR_MONUMENTS_DESC">
+			<Text>
+				Our people have a rich history of conflict, conquest and surviving against the odds. Is it not right then, that these tales and struggles be commemorated by our finest artisans - to ensure that nothing is forgotten?[NEWLINE]
+				[NEWLINE]Requirement/Restrictions:
+				[NEWLINE][ICON_BULLET]Player must be Menelik II's Ethiopia
+				[NEWLINE][ICON_BULLET]Must have reached the Industrial Era
+				[NEWLINE][ICON_BULLET]May only be enacted once per game
+				[NEWLINE]Costs:
+				[NEWLINE][ICON_BULLET]{1_Gold} [ICON_GOLD] Gold
+				[NEWLINE][ICON_BULLET]{2_Culture} [ICON_CULTURE] Culture
+				[NEWLINE][ICON_BULLET]1 [ICON_MAGISTRATES] Magistrates
+				[NEWLINE]Rewards:
+				[NEWLINE][ICON_BULLET]Receive an additional Monument building everytime a Sebastopol trained
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_DMS_CONSTRUCT_WAR_MONUMENTS_ENACTED_DESC">
+			<Text>
+				Our people have a rich history of conflict, conquest and surviving against the odds. Is it not right then, that these tales and struggles be commemorated by our finest artisans - to ensure that nothing is forgotten?[NEWLINE]
+				[NEWLINE]Rewards:
+				[NEWLINE][ICON_BULLET]Receive an additional Monument building everytime a Sebastopol trained
+			</Text>
+		</Row>
+		<!-- ETHIOPIA (HAILE SELASSIE) -->
+		<!-- Adopt the Arba Lijoch -->
+		<Row Tag="TXT_KEY_DECISIONS_DMS_ADOPT_THE_ARBA_LIJOCH">
+			<Text>Adopt the Arba Lijoch</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_DMS_ADOPT_THE_ARBA_LIJOCH_DESC">
+			<Text>
+				Once again the world is ravaged by war and once again the civilian population suffers the most. Arba Lijoch is a group of 40 orphans who, together with their bandleader, have only barely survived what most denote as genocide. We can give these children a new chance in life; Let's adopt them, bring them to Ethiopia and arrange for them to continue with their musical education.[NEWLINE]
+				[NEWLINE]Requirement/Restrictions:
+				[NEWLINE][ICON_BULLET]Player must be Haile Selassie's Ethiopia
+				[NEWLINE][ICON_BULLET]Must have reached the Industrial Era
+				[NEWLINE][ICON_BULLET]Must have a Declaration of Friendship with another Major Civilization
+				[NEWLINE][ICON_BULLET]May only be enacted once per game
+				[NEWLINE]Costs:
+				[NEWLINE][ICON_BULLET]{1_Gold} [ICON_GOLD] Gold
+				[NEWLINE][ICON_BULLET]1 [ICON_MAGISTRATES] Magistrates
+				[NEWLINE]Rewards:
+				[NEWLINE][ICON_BULLET]Receive a [ICON_GREAT_MUSICIAN] Great Musician
+				[NEWLINE][ICON_BULLET]Everytime another Major Civilization, with whom you have a Declaration of Friendship with, expends a [ICON_GREAT_MUSICIAN] Great Musician, receive Points toward one as well
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_DMS_ADOPT_THE_ARBA_LIJOCH_ENACTED_DESC">
+			<Text>
+				Once again the world is ravaged by war and once again the civilian population suffers the most. Arba Lijoch is a group of 40 orphans who, together with their bandleader, have only barely survived what most denote as genocide. We can give these children a new chance in life; Let's adopt them, bring them to Ethiopia and arrange for them to continue with their musical education.[NEWLINE]
+				[NEWLINE]Rewards:
+				[NEWLINE][ICON_BULLET]Receive a [ICON_GREAT_MUSICIAN] Great Musician
+				[NEWLINE][ICON_BULLET]Everytime another Major Civilization, with whom you have a Declaration of Friendship with, expends a [ICON_GREAT_MUSICIAN] Great Musician, receive Points toward one as well
+			</Text>
+		</Row>
+		<!-- Rewrite the Constitution -->
+		<Row Tag="TXT_KEY_DECISIONS_DMS_REWRITE_THE_CONSTITUTION">
+			<Text>Rewrite the Constitution</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_DMS_REWRITE_THE_CONSTITUTION_DESC">
+			<Text>
+				The time has come to rewrite the constitution to officially replace the old Fetha Nagast, which has been the supreme law since the Middle Ages.[NEWLINE]
+				[NEWLINE]Requirement/Restrictions:
+				[NEWLINE][ICON_BULLET]Player must be Haile Selassie's Ethiopia
+				[NEWLINE][ICON_BULLET]Must have reached the Modern Era
+				[NEWLINE][ICON_BULLET]May only be enacted once per game
+				[NEWLINE]Costs:
+				[NEWLINE][ICON_BULLET]{1_Culture} [ICON_CULTURE] Culture
+				[NEWLINE][ICON_BULLET]2 [ICON_MAGISTRATES] Magistrates
+				[NEWLINE]Rewards:
+				[NEWLINE][ICON_BULLET]+2 [ICON_HAPPINESS_1] Happiness in the Capital
+				[NEWLINE][ICON_BULLET]Universities yield +1 [ICON_RESEARCH] Science for every 4 [ICON_CITIZEN] Citizens
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_DMS_REWRITE_THE_CONSTITUTION_ENACTED_DESC">
+			<Text>
+				The time has come to rewrite the constitution to officially replace the old Fetha Nagast, which has been the supreme law since the Middle Ages.[NEWLINE]
+				[NEWLINE]Rewards:
+				[NEWLINE][ICON_BULLET]+2 [ICON_HAPPINESS_1] Happiness in the Capital
+				[NEWLINE][ICON_BULLET]Universities yield +1 [ICON_RESEARCH] Science for every 4 [ICON_CITIZEN] Citizens
+			</Text>
+		</Row>
+		<!-- Buildings, Units, Promotions, Policies -->
+		<Row Tag="TXT_KEY_UNIT_GREAT_WRITER_DMS_ZY">
+			<Text>Zara Yaqob</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POLICY_DECISIONS_DMS_AKSUM_COINAGE">
+			<Text>DMS: Aksumite Coinage</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POLICY_DECISIONS_DMS_DUNGUR_PALACE">
+			<Text>DMS: Dungur Palace</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POLICY_DECISIONS_DMS_CENTRALIZATION_REFORMS">
+			<Text>DMS: Centralization Reforms</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_DECISIONS_DMS_DUNGUR_PALACE">
+			<Text>DMS: Dungur Palace</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_DECISIONS_DMS_ZAGWE_DYNASTY">
+			<Text>DMS: Zagwe Dynasty</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_DECISIONS_DMS_ELDAD_HA_DANI">
+			<Text>DMS: Eldad ha-Dani</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_DECISIONS_DMS_KEBRA_NAGAST_WRITER">
+			<Text>DMS: Kebra Nagast</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_DECISIONS_DMS_THEOLOGICAL_WORK">
+			<Text>DMS: Theological Work</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_DECISIONS_DMS_CENTRALIZATION_REFORMS">
+			<Text>DMS: Centralization Reforms</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_DECISIONS_DMS_BANK_OF_ETHIOPIA">
+			<Text>DMS: Bank of Ethiopia</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_DECISIONS_DMS_REWRITE_THE_CONSTITUTION">
+			<Text>DMS: Rewrite the Constitution general building</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_DECISIONS_DMS_REWRITE_THE_CONSTITUTION_CAPITAL">
+			<Text>DMS: Rewrite the Constitution capital building</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_DECISIONS_DMS_QESTE_NIHB">
+			<Text>Qeste-Nihb</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_DECISIONS_DMS_QESTE_NIHB_HELP">
+			<Text>Receive +5 [ICON_PRODUCTION] Production in the nearest City whenever a Qeste-Nihb is promoted.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_DECISIONS_DMS_HAREB_GONDA">
+			<Text>Hareb Gonda</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_DECISIONS_DMS_HAREB_GONDA_HELP">
+			<Text>Receive +5 [ICON_GREAT_GENERAL] Great General Points whenever a Hareb Gonda Unit is promoted.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_DECISIONS_DMS_TEKULA">
+			<Text>Tekula</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_DECISIONS_DMS_TEKULA_HELP">
+			<Text>Receive +25 [ICON_GOLD] Gold whenever a Tekula Unit is promoted.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_DECISIONS_DMS_AXUARAT_AXUARAI">
+			<Text>Axuarat Axuarai</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_DECISIONS_DMS_AXUARAT_AXUARAI_HELP">
+			<Text>Receive +10 [ICON_CULTURE] Culture whenever a Axuarat Axuarai is promoted.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_DMS_MAHSAFA_BERHA">
+			<Text>Mahsafa Berha</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_QUOTE_DMS_MAHSAFA_BERHA">
+			<Text></Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_DMS_MAHSAFA_MILAD">
+			<Text>Mahsafa Milad</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_QUOTE_DMS_MAHSAFA_MILAD">
+			<Text></Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_DMS_MAHSAFA_SELASSIE">
+			<Text>Mahsafa Selassie</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_QUOTE_DMS_MAHSAFA_SELASSIE">
+			<Text></Text>
+		</Row>
+		<!--EVENTS (CP)-->
+		<!--Zemene Mesafint-->
+		<Row Tag="TXT_KEY_PLAYER_EVENT_DMS_ZEMENE_MESAFINT_DESCRIPTION">
+			<Text>Zemene Mesafint</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PLAYER_EVENT_DMS_ZEMENE_MESAFINT_HELP">
+			<Text>The Age of Princess is upon us. The most powerful lords throughout {1_sCivName} are claiming autonomy, seeking the downfall of each other and foremost the title of Negusa Nagast - King of Kings - for themselves. This will clearly result in the destruction of our glorious Empire. Already the country is divided into several regions and it is said that you, our noble Emperor, is no more than a figurehead confined to the capital. How shall we set about solving this crisis?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PLAYER_EVENT_DMS_ZEMENE_MESAFINT_CHOICE_1_DESCRIPTION">
+			<Text>Summon the lords of the empire to the capital on false pretenses and then kill them!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PLAYER_EVENT_DMS_ZEMENE_MESAFINT_CHOICE_2_DESCRIPTION">
+			<Text>Order the death of all these warlords!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PLAYER_EVENT_DMS_ZEMENE_MESAFINT_CHOICE_3_DESCRIPTION">
+			<Text>Make agreements with the Wara Seh lords when possible - even if it’s on their terms!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PLAYER_EVENT_DMS_ZEMENE_MESAFINT_CHOICE_1_HELP">
+			<Text>asd</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PLAYER_EVENT_DMS_ZEMENE_MESAFINT_CHOICE_2_HELP">
+			<Text>asd</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PLAYER_EVENT_DMS_ZEMENE_MESAFINT_CHOICE_3_HELP">
+			<Text>asd</Text>
+		</Row>
+		<!--Phallsification of Waga Sculptures-->
+		<Row Tag="TXT_KEY_PLAYER_EVENT_DMS_PHALLSIFICATION_OF_WAGA_SCULPTURES_DESCRIPTION">
+			<Text>Phallsification of Waga Sculptures</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PLAYER_EVENT_DMS_PHALLSIFICATION_OF_WAGA_SCULPTURES_HELP">
+			<Text>The traditional, ceremonial waga sculpture, has gained popularity amongst tourists. Apparently a mini variant is being produced specifically for sale to tourists, in which the rod-shaped kallaccas on their heads are often exaggerated into phallic shapes.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PLAYER_EVENT_DMS_PHALLSIFICATION_OF_WAGA_SCULPTURES_CHOICE_1_DESCRIPTION">
+			<Text>Outrageous! Forbid it at once!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PLAYER_EVENT_DMS_PHALLSIFICATION_OF_WAGA_SCULPTURES_CHOICE_2_DESCRIPTION">
+			<Text>Well, if it sells..</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PLAYER_EVENT_DMS_PHALLSIFICATION_OF_WAGA_SCULPTURES_CHOICE_1_HELP">
+			<Text>asd</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PLAYER_EVENT_DMS_PHALLSIFICATION_OF_WAGA_SCULPTURES_CHOICE_2_HELP">
+			<Text>asd</Text>
+		</Row>
+		<!--Pêro da Covilhã-->
+		<Row Tag="TXT_KEY_PLAYER_EVENT_DMS_PERO_DA_COVILHA_DESCRIPTION">
+			<Text>Pêro da Covilhã</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PLAYER_EVENT_DMS_PERO_DA_COVILHA_HELP">
+			<Text>A strange man has come onto our shores, but not by the Red Sea route by which foreigners usually travel to us. He claims he's part of a voyage from beyond the Cape, a voyage that, to our knowledge, has never been attempted before. He brings greetings from fellow Christian monarchs, though his prayer is unlike that which we have seen before. How should we treat this man?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PLAYER_EVENT_DMS_PERO_DA_COVILHA_CHOICE_1_DESCRIPTION">
+			<Text>Honor him!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PLAYER_EVENT_DMS_PERO_DA_COVILHA_CHOICE_2_DESCRIPTION">
+			<Text>Banish him!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PLAYER_EVENT_DMS_PERO_DA_COVILHA_CHOICE_3_DESCRIPTION">
+			<Text>Execute him!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PLAYER_EVENT_DMS_PERO_DA_COVILHA_CHOICE_1_HELP">
+			<Text>asd</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PLAYER_EVENT_DMS_PERO_DA_COVILHA_CHOICE_2_HELP">
+			<Text>asd</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PLAYER_EVENT_DMS_PERO_DA_COVILHA_CHOICE_3_HELP">
+			<Text>asd</Text>
+		</Row>
+		<!--An Embassy is Here-->
+		<Row Tag="TXT_KEY_PLAYER_EVENT_DMS_AN_EMBASSY_IS_HERE_DESCRIPTION">
+			<Text>An Embassy is Here</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PLAYER_EVENT_DMS_AN_EMBASSY_IS_HERE_HELP">
+			<Text>Francisco Álvares, representing the same country that sent the previous emissary, wishes to discuss what our two regimes can do together. He says he was looking for a 'Prester John', and we are apparently the country he seeks. Should we begin an exchange?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PLAYER_EVENT_DMS_AN_EMBASSY_IS_HERE_CHOICE_1_DESCRIPTION">
+			<Text>Ask for a cultural exchange?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PLAYER_EVENT_DMS_AN_EMBASSY_IS_HERE_CHOICE_2_DESCRIPTION">
+			<Text>Maybe a trade deal is in order?</Text>
+		</Row>
+		<!--Rebellion of Haqq ad-Din I-->
+		<Row Tag="TXT_KEY_CITY_EVENT_DMS_REBELLION_OF_HAQQ_AD_DIN_I_DESCRIPTION">
+			<Text>Rebellion of Haqq ad-Din I</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_EVENT_DMS_REBELLION_OF_HAQQ_AD_DIN_I_HELP">
+			<Text>One of our envoys has been seized and imprisoned by the governor of Ifat, Haqq ad-Din I, on his way back from {1_sMajorCiv}. In {2_sMinorCiv}, where Haqq ad-Din I is practically controlling the city, he has now killed our envoy after failing at converting him to {3_sMinorCivReligion}. We must act now at once noble Emperor!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PLAYER_EVENT_DMS_REBELLION_OF_HAQQ_AD_DIN_I_CHOICE_1_DESCRIPTION">
+			<Text>Send a group of our finest warriors to deal with this Haqq ad-Din I! Pillage his lands and kill his people!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PLAYER_EVENT_DMS_REBELLION_OF_HAQQ_AD_DIN_I_CHOICE_1_HELP">
+			<Text>asd</Text>
+		</Row>
+		<!--Prestor John-->
+		<Row Tag="TXT_KEY_PLAYER_EVENT_DMS_PRESTOR_JOHN_DESCRIPTION">
+			<Text>Prestor John</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PLAYER_EVENT_DMS_PRESTOR_JOHN_HELP">
+			<Text>The Negus of Ethiopia, who may or may not be the legendary Prester John, has apparently fallen on hard times and is pleading with us to help him restore his lands. He has sent an ambassador named Mateus. Mateus is a Christian, albeit of a kind we have never seen before, and begs us to restore his master's rightful dominions, but Mameluke power is still threatening and it seems to be a big risk for questionable gain. Should we aid Mateus?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PLAYER_EVENT_DMS_PRESTOR_JOHN_CHOICE_1_DESCRIPTION">
+			<Text>Deus Vult!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PLAYER_EVENT_DMS_PRESTOR_JOHN_CHOICE_2_DESCRIPTION">
+			<Text>I thought Prester John was supposed to help us, not the other way!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PLAYER_EVENT_DMS_PRESTOR_JOHN_CHOICE_1_HELP">
+			<Text>asd</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PLAYER_EVENT_DMS_PRESTOR_JOHN_CHOICE_2_HELP">
+			<Text>asd</Text>
+		</Row>
+		<!--King of Himyar-->
+		<Row Tag="TXT_KEY_PLAYER_EVENT_DMS_KING_OF_HIMYAR_DESCRIPTION">
+			<Text>King of Himyar</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PLAYER_EVENT_DMS_KING_OF_HIMYAR_HELP">
+			<Text>General Abraha al-Ashram was one of the most trusted and able commanders leading the Aksumite army against the city of {1_sCityName}. Since then, he has been withholding tribute and has most recently killed the man we sent to take over governorship of the city. How should we respond to this insolence?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PLAYER_EVENT_DMS_KING_OF_HIMYAR_CHOICE_1_DESCRIPTION">
+			<Text>Send an army to take the city!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PLAYER_EVENT_DMS_KING_OF_HIMYAR_CHOICE_2_DESCRIPTION">
+			<Text>Let him be - he’ll come around soon enough!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PLAYER_EVENT_DMS_KING_OF_HIMYAR_CHOICE_1_HELP">
+			<Text>asd</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PLAYER_EVENT_DMS_KING_OF_HIMYAR_CHOICE_2_HELP">
+			<Text>asd</Text>
+		</Row>
+		<!--Help from the West-->
+		<Row Tag="TXT_KEY_PLAYER_EVENT_DMS_HELP_FROM_THE_WEST_DESCRIPTION">
+			<Text>Help from the West</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PLAYER_EVENT_DMS_HELP_FROM_THE_WEST_HELP">
+			<Text>A small fleet, carrying weapons and troops, has arrived at our shores. The leader of these {1_sMinorCivAdj} soldiers bring a letter from their monarch, saying 'We are both Christian Monarchs, united in our struggles against the infidels.'.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PLAYER_EVENT_DMS_HELP_FROM_THE_WEST_CHOICE_1_DESCRIPTION">
+			<Text>God is good!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PLAYER_EVENT_DMS_HELP_FROM_THE_WEST_CHOICE_1_HELP">
+			<Text>asd</Text>
+		</Row>
+		<!--The Monastic Orders-->
+		<Row Tag="TXT_KEY_PLAYER_EVENT_DMS_THE_MONASTIC_ORDER_DESCRIPTION">
+			<Text>The Monastic Orders</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PLAYER_EVENT_DMS_THE_MONASTIC_ORDER_HELP">
+			<Text>The Monastic Orders</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PLAYER_EVENT_DMS_THE_MONASTIC_ORDER_CHOICE_1_DESCRIPTION">
+			<Text>Attempt to rein them in.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PLAYER_EVENT_DMS_THE_MONASTIC_ORDER_CHOICE_2_DESCRIPTION">
+			<Text>Safeguard the privileges of the orders.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PLAYER_EVENT_DMS_THE_MONASTIC_ORDER_CHOICE_1_HELP">
+			<Text>123ws</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PLAYER_EVENT_DMS_THE_MONASTIC_ORDER_CHOICE_2_HELP">
+			<Text>212s</Text>
+		</Row>
+		<!--Amba Geshen - The Mountain of Kings-->
+		<Row Tag="TXT_KEY_PLAYER_EVENT_DMS_AMDA_GESHEN_THE_MOUNTAIN_OF_KING_DESCRIPTION">
+			<Text>Amba Geshen - The Mountain of Kings</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PLAYER_EVENT_DMS_AMDA_GESHEN_THE_MOUNTAIN_OF_KING_HELP">
+			<Text>Once, our great kingdom was plagued by crisis and civil strife upon every succession. In order to deal with this problem one of the first of the Solomonic kings therefore set up the institution of Mount Geshen. Ever since that day all royal princes except the direct heir of the king are kept isolated from the outside world on the slopes of Mount Geshen. The state ensures that these potential kings lack for nothing and this time of isolation may be used for study and contemplation by the princes. In order to protect the princes from the outside world, and in order to protect the kingdom from the claims of the princes, the mountain is kept under close guard.[NEWLINE][NEWLINE]This custom has served us well over the years and the kingdom has become much more stable than it once was. Still some feel that keeping all of our royal heirs in one place is quite risky.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PLAYER_EVENT_DMS_AMDA_GESHEN_THE_MOUNTAIN_OF_KING_CHOICE_1_DESCRIPTION">
+			<Text>We are fortunate that our ancestors had such foresight.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PLAYER_EVENT_DMS_AMDA_GESHEN_THE_MOUNTAIN_OF_KING_CHOICE_2_DESCRIPTION">
+			<Text>We have no need for this gilded prison.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PLAYER_EVENT_DMS_AMDA_GESHEN_THE_MOUNTAIN_OF_KING_CHOICE_1_HELP">
+			<Text>asda</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PLAYER_EVENT_DMS_AMDA_GESHEN_THE_MOUNTAIN_OF_KING_CHOICE_2_HELP">
+			<Text>dsas</Text>
+		</Row>
+		<!--Disaster at the Mountain of Kings-->
+		<Row Tag="TXT_KEY_PLAYER_EVENT_DMS_DISASTER_AT_THE_MOUNTAIN_OF_KINGS_DESCRIPTION">
+			<Text>Disaster at the Mountain of Kings</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PLAYER_EVENT_DMS_DISASTER_AT_THE_MOUNTAIN_OF_KINGS_HELP">
+			<Text>Nobody knows exactly what happened but news reached us today that all of the princes on Mount Geshen are dead. It would appear that someone managed to surprise the guards to then proceed to slaughter the royal heirs. As the kingdom tries to recover from the shock it is clear that this particular tradition will no longer be part of our national heritage.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PLAYER_EVENT_DMS_DISASTER_AT_THE_MOUNTAIN_OF_KINGS_CHOICE_1_DESCRIPTION">
+			<Text>All is lost.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PLAYER_EVENT_DMS_DISASTER_AT_THE_MOUNTAIN_OF_KINGS_CHOICE_1_HELP">
+			<Text>12</Text>
+		</Row>
+		<!--Development of Tej-->
+		<Row Tag="TXT_KEY_CITY_EVENT_DMS_DEVELOPMENT_OF_TEJ_DESCRIPTION">
+			<Text>Development of Tej</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_EVENT_DMS_DEVELOPMENT_OF_TEJ_HELP">
+			<Text>The beverage of Tej has been developed in {1_sCity}. It is a mead or honey wine, flavored with the powdered leaves and twigs of gesho, a hops-like bittering agent that is a species of buckthorn. It is to be drunk from a rounded vase-shaped container called a berele, and it has a deceptively sweet taste that masks its high alcohol content.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_EVENT_DMS_DEVELOPMENT_OF_TEJ_CHOICE_1_DESCRIPTION">
+			<Text>Construct an official Tej House in {1_sCity} at once!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_EVENT_DMS_DEVELOPMENT_OF_TEJ_CHOICE_1_HELP">
+			<Text>asdas</Text>
+		</Row>
+		<!--The Oromo-->
+		<Row Tag="TXT_KEY_CITY_EVENT_DMS_THE_OROMO_DESCRIPTION">
+			<Text>The Oromo</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_EVENT_DMS_THE_OROMO_HELP">
+			<Text>A strange nomadic people have crossed our border from the African interior into our borderlands. Migrating in large numbers protected by very able warriors, their alien customs threaten to rip apart and reshape the very fabric of society here.[NEWLINE][NEWLINE]These disciples of Waaq are quickly displacing and converting the followers of the all faiths, especially in the area around {1_sCityName}, replacing old social structures with new ones of their own.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_EVENT_DMS_THE_OROMO_CHOICE_1_DESCRIPTION">
+			<Text>Uh, that doesn't sound too good.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_EVENT_DMS_THE_OROMO_CHOICE_1_HELP">
+			<Text>afg</Text>
+		</Row>
+		<!--Oromo Settlers-->
+		<Row Tag="TXT_KEY_CITY_EVENT_DMS_OROMO_SETTLERS_DESCRIPTION">
+			<Text>Oromo Settlers</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_EVENT_DMS_OROMO_SETTLERS_HELP">
+			<Text>Groups of nomadic settlers have entered the province of {1_sCityName}. The province population is being either displaced or assimilated by the Oromo.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_EVENT_DMS_OROMO_SETTLERS_CHOICE_1_DESCRIPTION">
+			<Text>This is still going on? Are we really not able to solve this issue?!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_EVENT_DMS_OROMO_SETTLERS_CHOICE_1_HELP">
+			<Text>dsaf</Text>
+		</Row>
+		<!--Integration of the Oromo-->
+		<Row Tag="TXT_KEY_PLAYER_EVENT_DMS_INTEGRATION_OF_THE_OROMO_DESCRIPTION">
+			<Text>Integration of the Oromo</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PLAYER_EVENT_DMS_INTEGRATION_OF_THE_OROMO_HELP">
+			<Text>It seems the waves of Oromo settlers moving into our lands have finally faltered. The immigrants themselves have also begun to settle down and while our society is changed in many ways the violent initial phase of integration of this new people seem to be over.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PLAYER_EVENT_DMS_INTEGRATION_OF_THE_OROMO_CHOICE_1_DESCRIPTION">
+			<Text>This is good news at last!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PLAYER_EVENT_DMS_INTEGRATION_OF_THE_OROMO_CHOICE_1_HELP">
+			<Text>dsaf</Text>
+		</Row>
+		<!--The Itinerant Capital-->
+		<Row Tag="TXT_KEY_PLAYER_EVENT_DMS_THE_ITINERANT_CAPITAL_DESCRIPTION">
+			<Text>The Itinerant Capital</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PLAYER_EVENT_DMS_THE_ITINERANT_CAPITAL_HELP">
+			<Text>In order to control the diverse Ethiopian empire the Solomonids have never established a permanent capital. Instead the royal court travels from chief to chief every few months.[NEWLINE][NEWLINE]While it is hard to establish an administrative continuity under such circumstances the traveling court does have its benefits. The frequent visits of the royal courts in all corners of the Empire are contributing to the growth of a common elite culture in our lands.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PLAYER_EVENT_DMS_THE_ITINERANT_CAPITAL_CHOICE_1_DESCRIPTION">
+			<Text>This is how it has always been.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PLAYER_EVENT_DMS_THE_ITINERANT_CAPITAL_CHOICE_2_DESCRIPTION">
+			<Text>Actively encourage the cultural conversion of the countryside.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PLAYER_EVENT_DMS_THE_ITINERANT_CAPITAL_CHOICE_1_HELP">
+			<Text>dsaf</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PLAYER_EVENT_DMS_THE_ITINERANT_CAPITAL_CHOICE_2_HELP">
+			<Text>dsaf</Text>
+		</Row>
+		<!--Debra Berhan - The Mountain of Light-->
+		<Row Tag="TXT_KEY_PLAYER_EVENT_DMS_DEBRA_BERHAN_THE_MOUNTAIN_OF_LIGHT_DESCRIPTION">
+			<Text>Debra Berhan - The Mountain of Light</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PLAYER_EVENT_DMS_DEBRA_BERHAN_THE_MOUNTAIN_OF_LIGHT_HELP">
+			<Text>You've had a vision in which you have been shown a shining mountain on which to build the new capital. A church has already been constructed at the site and now it is time to decide if we should permanently move our capital to this place.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PLAYER_EVENT_DMS_DEBRA_BERHAN_THE_MOUNTAIN_OF_LIGHT_CHOICE_1_DESCRIPTION">
+			<Text>The time has come for a permanent Capital.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PLAYER_EVENT_DMS_DEBRA_BERHAN_THE_MOUNTAIN_OF_LIGHT_CHOICE_2_DESCRIPTION">
+			<Text>Let us not break with Tradition.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PLAYER_EVENT_DMS_DEBRA_BERHAN_THE_MOUNTAIN_OF_LIGHT_CHOICE_1_HELP">
+			<Text>dsaf</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PLAYER_EVENT_DMS_DEBRA_BERHAN_THE_MOUNTAIN_OF_LIGHT_CHOICE_2_HELP">
+			<Text>dsaf</Text>
+		</Row>
+		<!--Debra Berhan Plundered-->
+		<Row Tag="TXT_KEY_PLAYER_EVENT_DMS_DEBRA_BERHAN_PLUNDERED_DESCRIPTION">
+			<Text>Debra Berhan Plundered</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PLAYER_EVENT_DMS_DEBRA_BERHAN_PLUNDERED_HELP">
+			<Text>Old traditions die hard and as the countryside of Debre Berhan is being plundered the new capital is being abandoned by everyone from our courtiers to the lowliest stable boy. We have no choice but to resume the custom of having an itinerant court.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PLAYER_EVENT_DMS_DEBRA_BERHAN_PLUNDERED_CHOICE_1_DESCRIPTION">
+			<Text>We must move to the provinces.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PLAYER_EVENT_DMS_DEBRA_BERHAN_PLUNDERED_CHOICE_1_HELP">
+			<Text>564</Text>
+		</Row>
+		<!--Gondar - A new Capital-->
+		<Row Tag="TXT_KEY_PLAYER_EVENT_DMS_GONDAR_A_NEW_CAPITAL_DESCRIPTION">
+			<Text>Gondar - A new Capital</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PLAYER_EVENT_DMS_GONDAR_A_NEW_CAPITAL_HELP">
+			<Text>Recently you have found yourself spending more and more time by the monasteries at lake Tana. Due to this continued patronage a small market town has begun to spring up in the area and some have started to name the city as a secondary capital of our kingdom.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PLAYER_EVENT_DMS_GONDAR_A_NEW_CAPITAL_CHOICE_1_DESCRIPTION">
+			<Text>Let us build our capital here.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PLAYER_EVENT_DMS_GONDAR_A_NEW_CAPITAL_CHOICE_2_DESCRIPTION">
+			<Text>We must not bind ourselves to one place.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PLAYER_EVENT_DMS_GONDAR_A_NEW_CAPITAL_CHOICE_1_HELP">
+			<Text>564</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PLAYER_EVENT_DMS_GONDAR_A_NEW_CAPITAL_CHOICE_2_HELP">
+			<Text>564</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

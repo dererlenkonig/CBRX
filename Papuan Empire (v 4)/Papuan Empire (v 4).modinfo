@@ -1,0 +1,139 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mod id="110360af-7f60-46f1-b4e0-16109f224ec2" version="4">
+  <Properties>
+    <Name>Papuan Empire</Name>
+    <Stability>Alpha</Stability>
+    <Teaser>Adds the [COLOR_POSITIVE_TEXT]Motu Empire of Papua[ENDCOLOR] as a civ for Brave New World.</Teaser>
+    <Description>Adds Motuan People of Papua as a civ for Brave New World.
+
+Credits:
+Music: Civilization II - Primeval World/Jurassic Jungle
+Call to Power 2 - 09 - Quiet Outback.mp3
+Leaderscene: David Donze's Tribal warchief - Fairytale Jungle by Plamen Stoianov
+
+Unit model: Sahul Scout by Zwei833</Description>
+    <Authors>Gedemo</Authors>
+    <SpecialThanks>COF &amp; Hiram</SpecialThanks>
+    <HideSetupGame>0</HideSetupGame>
+    <AffectsSavedGames>1</AffectsSavedGames>
+    <MinCompatibleSaveVersion>0</MinCompatibleSaveVersion>
+    <SupportsSinglePlayer>1</SupportsSinglePlayer>
+    <SupportsMultiplayer>1</SupportsMultiplayer>
+    <SupportsHotSeat>1</SupportsHotSeat>
+    <SupportsMac>1</SupportsMac>
+    <ReloadAudioSystem>1</ReloadAudioSystem>
+    <ReloadLandmarkSystem>0</ReloadLandmarkSystem>
+    <ReloadStrategicViewSystem>0</ReloadStrategicViewSystem>
+    <ReloadUnitSystem>1</ReloadUnitSystem>
+  </Properties>
+  <Dependencies>
+    <Dlc id="6DA07636-4123-4018-B643-6575B4EC336B" minversion="0" maxversion="999" />
+    <Dlc id="ECF7C605-BA11-4CAC-8D80-D71306AAC471" minversion="0" maxversion="999" />
+    <Dlc id="0E3751A1-F840-4e1b-9706-519BF484E59D" minversion="0" maxversion="999" />
+  </Dependencies>
+  <References>
+    <Mod id="36e88483-48fe-4545-b85f-bafc50dde315" minversion="0" maxversion="999" title="YnAEMP" />
+    <Mod id="31a31d1c-b9d7-45e1-842c-23232d66cd47" minversion="0" maxversion="999" title="JFD's Cultural Diversity (Core)" />
+    <Mod id="7fdd72a5-d4ae-441c-bc4e-2e3d2a26cff4" minversion="0" maxversion="999" title="Ethnic Units" />
+    <Mod id="6676902b-b907-45f1-8db5-32dcb2135eee" minversion="0" maxversion="999" title="JFD's Exploration Continued Expanded" />
+    <Mod id="eea66053-7579-481a-bb8d-2f3959b59974" minversion="0" maxversion="999" title="JFD's Piety and Sovereignty (Piety)" />
+    <Mod id="10e9728f-d61c-4317-be4f-7d52d6bae6f4" minversion="0" maxversion="999" title="JFD's Claims, Colonies, and Crimes" />
+    <Mod id="e576894a-ed2b-4033-be14-ed1c8ceb81d3" minversion="0" maxversion="999" title="Map Labels" />
+    <Mod id="6010e6f6-918e-48b8-9332-d60783bd8fb5" minversion="0" maxversion="999" title="Historical Religions Complete (BNW or GK)" />
+    <Mod id="a19351c5-c0b3-4b07-8695-4affaa199949" minversion="0" maxversion="999" title="JFD's AND POUAKAI's MERCENARIES" />
+  </References>
+  <Blocks />
+  <Files>
+    <File md5="1B9F84ED1ED57E9684247EF55A6FDE0B" import="1">ART/alphaPAPUA24.dds</File>
+    <File md5="1B9F84ED1ED57E9684247EF55A6FDE0B" import="1">ART/alphaPAPUA32.dds</File>
+    <File md5="260469C8A055B39DE6CD6801792D498C" import="1">ART/alphaPAPUA48.dds</File>
+    <File md5="260469C8A055B39DE6CD6801792D498C" import="1">ART/alphaPAPUA64.dds</File>
+    <File md5="57C2929E29ACA3661AC08BAC4EC0D01E" import="1">ART/Motuflag.dds</File>
+    <File md5="09413E193F0B25C04932D412B9551E9C" import="1">ART/Motuwarrior_128.dds</File>
+    <File md5="B03DE6BD0B325EC24EAE6CD81AF96C56" import="1">ART/Motuwarrior_256.dds</File>
+    <File md5="918B257656B313749940D966597F5130" import="1">ART/Motuwarrior_45.dds</File>
+    <File md5="C8321A772A483DFC49839F52F27DA381" import="1">ART/Motuwarrior_64.dds</File>
+    <File md5="71843C84AB66522ED635B388A7E323FE" import="1">ART/Motuwarrior_80.dds</File>
+    <File md5="C088187A3BF786F3A80CAD6B19C16AB0" import="1">ART/PapuaDOM.dds</File>
+    <File md5="974ABC41D2DA248C8FEE2261124FC815" import="1">ART/papuaicon128.dds</File>
+    <File md5="6449DD445FD074D162914A0E61A041B7" import="1">ART/papuaicon214.dds</File>
+    <File md5="1DEF62D9B60F7186451FE74B93FFCE70" import="1">ART/papuaicon256.dds</File>
+    <File md5="41D88C297A157FEE8205E8E7EFD5B7E4" import="1">ART/papuaicon32.dds</File>
+    <File md5="CFFD5C560F2F3A8476E54C914F49C55C" import="1">ART/papuaicon45.dds</File>
+    <File md5="CC6CEE711B63DE276993327146ABAE75" import="1">ART/papuaicon64.dds</File>
+    <File md5="C3EA2EF0C9DDF02FA6BEFD21A6F713B8" import="1">ART/papuaicon80.dds</File>
+    <File md5="6769571FF4A598B01997AF87AA17587B" import="1">ART/PapuaMap.dds</File>
+    <File md5="90E1CFD9EAF538CB9054948B4891F849" import="1">ART/RajapapuaScene.dds</File>
+    <File md5="BE6FE206B4FB3ECEB5E9E0634BA3D3E2" import="1">ART/rajapapua128.dds</File>
+    <File md5="74AF3602098325729D897F078B99895D" import="1">ART/rajapapua256.dds</File>
+    <File md5="92E3E6D75C17228FFDDF5319ADF2BC58" import="1">ART/rajapapua64.dds</File>
+    <File md5="8B6D179E06E5483469800225305FE880" import="1">ART/Rajapapua_scene.xml</File>
+    <File md5="B3871FE0806245CCD77818A32CF853BD" import="0">SQL/ArtDefineMotu.sql</File>
+    <File md5="15F17EC59C98C22D42676B5590453F56" import="0">SQL/Cultural Diversity.sql</File>
+    <File md5="544B517FBF9A787D3D5DA17B205681EF" import="0">SQL/Ethnic Units.sql</File>
+    <File md5="FC32BE8B66F68E9754E8DCC44EF7278C" import="0">SQL/JFD's and Pouakai's mercenaries.sql</File>
+    <File md5="01AADF5A1C5CF03B7C653947C2940337" import="0">SQL/JFD's Exploration Continued Expanded.sql</File>
+    <File md5="936381A35E19F989180157747ADB30EF" import="0">SQL/JFD's Piety and Prestige.sql</File>
+    <File md5="0BF0895F8923EB594642158CA4F97AFB" import="0">SQL/JFD's Claims and Colonies.sql</File>
+    <File md5="B3868414689A55D4A7CBD346E84AEBE2" import="0">SQL/MapLabels.sql</File>
+    <File md5="1C08043C58EDF94A8BC010B084BA8D0D" import="0">SQL/Ryoga's Unique Cultural Influence.xml</File>
+    <File md5="92FC1C4D232246BB31D514F63DE376A9" import="0">SQL/TAL.sql</File>
+    <File md5="3592D8BC826761B8172BD1C7690BCCAF" import="0">SQL/Tomatekh's Historical Religions.sql</File>
+    <File md5="EF42A3BE57124D6439969010C473D1BD" import="0">XML/Buildings/BuildingTrait.xml</File>
+    <File md5="39E086B303575EF8CDF570841A8E0734" import="0">XML/Civilizations/Papua.xml</File>
+    <File md5="E306FFA89D8A391625D3CC696070EE43" import="0">XML/Civilizations/Traits.xml</File>
+    <File md5="01B128EA70140C3ABCD28B176B056288" import="0">XML/GameInfo/MOTUIconTextureAtlases.xml</File>
+    <File md5="7707490317FA792C78BB4480726C50DE" import="0">XML/GameInfo/PAPUAIconTextureAtlases.xml</File>
+    <File md5="B0F023D62DFAEA66290E7B6947CDBCFD" import="1">XML/Leaders/RajapapuaWar.mp3</File>
+    <File md5="DE0C5C819CB361FD928C2A152D99DFA1" import="1">XML/Leaders/RajapapuaPeace.mp3</File>
+    <File md5="B305187E853944B479C8B339A0CA36F4" import="1">XML/Leaders/RajapapuaMusic.xml</File>
+    <File md5="3B6F697F918808416F8E523A2279A159" import="0">XML/Leaders/Leader_Rajapapua.xml</File>
+    <File md5="DDFF52705890F56469559A1BE7E1C7AA" import="0">XML/NewText/Dialog.xml</File>
+    <File md5="807F51D6816EFD3726351826D176A6A2" import="0">XML/NewText/GameText.xml</File>
+    <File md5="D4220A68DC0BB9C4573015A61C27AC79" import="0">XML/NewText/Response.xml</File>
+    <File md5="5D23FEBD3CFF002CDB63C39A2DB03E1C" import="0">XML/Terrain/Improvements_Sago.xml</File>
+    <File md5="C10E5950A6355633548C5DD98F9EBB18" import="0">XML/Units/Builds_Sago.xml</File>
+    <File md5="6EDBA1B48D9E89CD8C02EAE4FBDB96B2" import="1">XML/Units/Motu/Sahu_scout.fxsxml</File>
+    <File md5="2E9CF6A99ADA108DBF5EC6B905F02E41" import="1">XML/Units/Motu/Sahu_scout.gr2</File>
+    <File md5="231A6F8B92F207E4CE56C8E23B14543B" import="1">XML/Units/Motu/SAHU_scout_128.dds</File>
+    <File md5="D3D41EECCDD8D065BAAFBA54FB541E77" import="1">XML/Units/Motu/SAHU_scout_128_serf.dds</File>
+    <File md5="0682DF7D289F97FE02A7FC337B3797EE" import="1">XML/Units/Motu/Sahu_WARRIOR.fxsxml</File>
+    <File md5="88E0BC400FD5E94E6F0319EF61B9C344" import="1">XML/Units/Motu/Sahu_WARRIOR.gr2</File>
+    <File md5="95D539A5EFD2E146A5D19AA0A4F3A088" import="0">XML/Units/Motu_Warrior.xml</File>
+    <File md5="D80D7C1E8247E3F3EA83351D1015BD85" import="0">XML/YnAEMP.xml</File>
+  </Files>
+  <Actions>
+    <OnModActivated>
+      <UpdateDatabase>ART/Rajapapua_scene.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Buildings/BuildingTrait.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Civilizations/Papua.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Civilizations/Traits.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Leaders/Leader_Rajapapua.xml</UpdateDatabase>
+      <UpdateDatabase>XML/GameInfo/PAPUAIconTextureAtlases.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Terrain/Improvements_Sago.xml</UpdateDatabase>
+      <UpdateDatabase>XML/NewText/Dialog.xml</UpdateDatabase>
+      <UpdateDatabase>XML/NewText/GameText.xml</UpdateDatabase>
+      <UpdateDatabase>XML/NewText/Response.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Units/Builds_Sago.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Units/Motu_Warrior.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Leaders/RajapapuaMusic.xml</UpdateDatabase>
+      <UpdateDatabase>XML/YnAEMP.xml</UpdateDatabase>
+      <UpdateDatabase>SQL/Cultural Diversity.sql</UpdateDatabase>
+      <UpdateDatabase>SQL/Ethnic Units.sql</UpdateDatabase>
+      <UpdateDatabase>SQL/Tomatekh's Historical Religions.sql</UpdateDatabase>
+      <UpdateDatabase>SQL/JFD's Claims and Colonies.sql</UpdateDatabase>
+      <UpdateDatabase>SQL/JFD's and Pouakai's mercenaries.sql</UpdateDatabase>
+      <UpdateDatabase>SQL/JFD's Exploration Continued Expanded.sql</UpdateDatabase>
+      <UpdateDatabase>SQL/JFD's Piety and Prestige.sql</UpdateDatabase>
+      <UpdateDatabase>SQL/MapLabels.sql</UpdateDatabase>
+      <UpdateDatabase>SQL/Ryoga's Unique Cultural Influence.xml</UpdateDatabase>
+      <UpdateDatabase>SQL/TAL.sql</UpdateDatabase>
+      <UpdateDatabase>XML/GameInfo/MOTUIconTextureAtlases.xml</UpdateDatabase>
+      <UpdateDatabase>SQL/ArtDefineMotu.sql</UpdateDatabase>
+      <UpdateDatabase>XML/Units/Motu/Sahu_WARRIOR.gr2</UpdateDatabase>
+      <UpdateDatabase>XML/Units/Motu/Sahu_WARRIOR.fxsxml</UpdateDatabase>
+      <UpdateDatabase>XML/Units/Motu/Sahu_scout.fxsxml</UpdateDatabase>
+      <UpdateDatabase>XML/Units/Motu/Sahu_scout.gr2</UpdateDatabase>
+    </OnModActivated>
+  </Actions>
+</Mod>

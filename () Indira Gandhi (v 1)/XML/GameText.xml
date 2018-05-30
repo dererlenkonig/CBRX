@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 5/9/2018 8:08:31 PM -->
+<GameData>
+	<Language_en_US>
+		<Row Tag="TXT_KEY_TRAIT_THE_EMERGENCY">
+			<Text>The construction of buildings within the capital caused every city connected to the capital to enter resistance for 3 turns in exchange for all their outputs to be doubled for 5 turns after.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_THE_EMERGENCY_SHORT">
+			<Text>The Emergency</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_POKHRAN_LAB">
+			<Text>Pokhran Lab</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_BUILDINGS_POKHRAN_LAB_TEXT">
+			<Text>In order to get around the restrictions on buying Uranium, Indira Gandhi decided to establish laboratories at Pokhran to help gather Uranium discretely to build nukes.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_POKHRAN_LAB_STRATEGY">
+			<Text>The Pokhran Lab is a Modern-era building unique to India, replacing the Research Lab. In addition to +4 [ICON_RESEARCH] and a 50% [ICON_RESEARCH] production, the city it is built it in recieves 1 [RES_URANIUM] for each Desert Hill tile worked by the city and a 75% reduction in nuke production cost.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_HELP_POKHRAN_LAB">
+			<Text>The Pokhran Lab is a Modern-era building unique to India, replacing the Research Lab. In addition to +4 [ICON_RESEARCH] and a 50% [ICON_RESEARCH] production, the city it is built it in recieves 1 [RES_URANIUM] for each Desert Hill tile worked by the city and a 75% reduction in nuke production cost.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_SCISSOR_INDIRA">
+			<Text>INDIRA: Dummy Things</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_GARUDA_TROOPERS">
+			<Text>Garuda Troopers</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_UNITS_ATOMIC_GARUDA_TROOPERS_TEXT">
+			<Text>TEMPORARY Garuda Troopers PEDIA ENTRY</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_GARUDA_TROOPERS_STRATEGY">
+			<Text>Replaces Paratrooper. Slightly more expensive. When adjacent to another Garuda Trooper, each trooper regains 15 health per turn. When garrisoned in a city with a capital connection, that city provides 1 Uranium.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_HELP_GARUDA">
+			<Text>Replaces Paratrooper. Slightly more expensive. When adjacent to another Garuda Trooper, each trooper regains 15 health per turn. When garrisoned in a city with a capital connection, that city provides 1 Uranium.</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

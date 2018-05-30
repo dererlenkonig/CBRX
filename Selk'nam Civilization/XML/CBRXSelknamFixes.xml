@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 5/28/2018 6:12:55 PM -->
+<GameData>
+	<UnitPromotions>
+		<Row>
+			<Type>PROMOTION_CBRX_SELKNAM</Type>
+			<Description>TXT_KEY_PROMOTION_CBRX_SELKNAM</Description>
+			<Help>TXT_KEY_PROMOTION_CBRX_SELKNAM_HELP</Help>
+			<Sound>AS2D_IF_LEVELUP</Sound>
+			<TechPrereq>TECH_OPTICS</TechPrereq>
+			<HoveringUnit>True</HoveringUnit>
+			<OrderPriority>6</OrderPriority>
+			<PortraitIndex>3</PortraitIndex>
+			<IconAtlas>PROMOTION_ATLAS</IconAtlas>
+			<PediaType>PEDIA_MELEE</PediaType>
+			<PediaEntry>TXT_KEY_PROMOTION_CBRX_SELKNAM</PediaEntry>
+		</Row>
+	</UnitPromotions>
+  
+</GameData>

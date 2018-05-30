@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 2/18/2013 10:24:23 PM -->
+<GameData>
+	<PlayerColors>
+		<Row>
+			<Type>PLAYERCOLOR_DJSH_SELJUQ</Type>
+			<PrimaryColor>COLOR_PLAYER_DJSH_SELJUQ_ICON</PrimaryColor>
+			<SecondaryColor>COLOR_PLAYER_DJSH_SELJUQ_BACKGROUND</SecondaryColor>
+			<TextColor>COLOR_PLAYER_WHITE_TEXT</TextColor>
+		</Row>
+	</PlayerColors>
+</GameData>

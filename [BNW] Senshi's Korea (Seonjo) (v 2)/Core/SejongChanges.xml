@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 3/25/2016 4:49:15 PM -->
+<GameData>
+	<Traits>
+		<Row>
+			<Type>TRAIT_SENSHI_SCHOLARS</Type>
+			<Description>TXT_KEY_TRAIT_SENSHI_SCHOLARS</Description>
+			<ShortDescription>TXT_KEY_TRAIT_SCHOLARS_JADE_HALL_SHORT</ShortDescription>
+			<TechBoostFromCapitalScienceBuildings>1</TechBoostFromCapitalScienceBuildings>
+		</Row>
+	</Traits>
+	<Leader_Traits>
+		<Update>
+			<Where LeaderType="LEADER_SEJONG"/>
+			<Set TraitType="TRAIT_SENSHI_SCHOLARS"/>
+		</Update>
+	</Leader_Traits>
+	<Unit_YieldFromKills>
+		<Row>
+			<UnitType>UNIT_KOREAN_HWACHA</UnitType>
+			<YieldType>YIELD_SCIENCE</YieldType>
+			<Yield>100</Yield>
+		</Row>
+	</Unit_YieldFromKills>
+	<Units>
+		<Update>
+			<Where Type="UNIT_KOREAN_HWACHA"/>
+			<Set Help="TXT_KEY_UNIT_C15_HWACHA_HELP"/>
+		</Update>
+		<Update>
+			<Where Type="UNIT_KOREAN_HWACHA"/>
+			<Set Strategy="TXT_KEY_UNIT_C15_HWACHA_STRATEGY"/>
+		</Update>
+	</Units>
+	<Civilization_UnitClassOverrides>
+		<Delete CivilizationType="CIVILIZATION_KOREA" UnitType="UNIT_KOREAN_TURTLE_SHIP"/>
+	</Civilization_UnitClassOverrides>
+	<Buildings>
+		<Row>
+			<Type>BUILDING_SENSHI_SEOWON</Type>
+			<Description>TXT_KEY_BUILDING_SENSHI_SEOWON_DESC</Description>
+			<Civilopedia>TXT_KEY_BUILDING_SENSHI_SEOWON_PEDIA</Civilopedia>
+			<Strategy>TXT_KEY_BUILDING_SENSHI_SEOWON_STRATEGY</Strategy>
+			<Help>TXT_KEY_BUILDING_SENSHI_SEOWON_HELP</Help>
+			<GoldMaintenance>0</GoldMaintenance>
+			<MutuallyExclusiveGroup>-1</MutuallyExclusiveGroup>
+			<Cost>184</Cost>
+			<HurryCostModifier>15</HurryCostModifier>
+			<MinAreaSize>-1</MinAreaSize>
+			<ConquestProb>66</ConquestProb>
+			<BuildingClass>BUILDINGCLASS_UNIVERSITY</BuildingClass>
+			<ArtDefineTag>ART_DEF_BUILDING_PAPER_MAKER</ArtDefineTag>
+			<PrereqTech>TECH_EDUCATION</PrereqTech>
+			<SpecialistType>SPECIALIST_SCIENTIST</SpecialistType>
+			<SpecialistCount>3</SpecialistCount>
+			<PortraitIndex>3</PortraitIndex>
+			<IconAtlas>SENSHI_KOREA_ATLAS</IconAtlas>
+			<ArtInfoCulturalVariation>0</ArtInfoCulturalVariation>
+			<ArtInfoEraVariation>0</ArtInfoEraVariation>
+			<ArtInfoRandomVariation>0</ArtInfoRandomVariation>
+		</Row>
+	</Buildings>
+	<Building_ClassesNeededInCity>
+		<Row>
+			<BuildingType>BUILDING_SENSHI_SEOWON</BuildingType>
+			<BuildingClassType>BUILDINGCLASS_LIBRARY</BuildingClassType>
+		</Row>
+	</Building_ClassesNeededInCity>
+	<Building_Flavors>
+		<Row>
+			<BuildingType>BUILDING_SENSHI_SEOWON</BuildingType>
+			<FlavorType>FLAVOR_SCIENCE</FlavorType>
+			<Flavor>40</Flavor>
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_SENSHI_SEOWON</BuildingType>
+			<FlavorType>FLAVOR_GREAT_PEOPLE</FlavorType>
+			<Flavor>15</Flavor>
+		</Row>
+	</Building_Flavors>
+	<Building_FeatureYieldChanges>
+		<Row>
+			<BuildingType>BUILDING_SENSHI_SEOWON</BuildingType>
+			<FeatureType>FEATURE_JUNGLE</FeatureType>
+			<YieldType>YIELD_SCIENCE</YieldType>
+			<Yield>2</Yield>
+		</Row>
+	</Building_FeatureYieldChanges>
+	<Building_YieldModifiers>
+		<Row>
+			<BuildingType>BUILDING_SENSHI_SEOWON</BuildingType>
+			<YieldType>YIELD_SCIENCE</YieldType>
+			<Yield>33</Yield>
+		</Row>
+	</Building_YieldModifiers>
+	<Civilization_BuildingClassOverrides>
+		<Row>
+			<CivilizationType>CIVILIZATION_KOREA</CivilizationType>
+			<BuildingClassType>BUILDINGCLASS_UNIVERSITY</BuildingClassType>
+			<BuildingType>BUILDING_SENSHI_SEOWON</BuildingType>
+		</Row>
+	</Civilization_BuildingClassOverrides>
+</GameData>

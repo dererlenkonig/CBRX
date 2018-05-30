@@ -1,0 +1,128 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mod id="e4db49d7-3eb7-45c4-aa03-b1c7aa6e94b9" version="1">
+  <Properties>
+    <Name>Nenets Empire</Name>
+    <Stability>Alpha</Stability>
+    <Teaser>Adds the [COLOR_POSITIVE_TEXT]Nenets Tribes[ENDCOLOR] as a civilization for BNW.</Teaser>
+    <Description>Music: Brandon Fiechter - Arctic Outpost (Enchanted Lands album)
+ANNO 1701_ Soundtrack - Black Death
+Leader: Legend of Sarila
+DOM: white forest spitpaint by pheoniic
+Thanks: COF and Hiram from Civfanatics for the civ icon and atlases</Description>
+    <Authors>Gedemo</Authors>
+    <HideSetupGame>0</HideSetupGame>
+    <AffectsSavedGames>1</AffectsSavedGames>
+    <MinCompatibleSaveVersion>0</MinCompatibleSaveVersion>
+    <SupportsSinglePlayer>1</SupportsSinglePlayer>
+    <SupportsMultiplayer>1</SupportsMultiplayer>
+    <SupportsHotSeat>1</SupportsHotSeat>
+    <SupportsMac>1</SupportsMac>
+    <ReloadAudioSystem>1</ReloadAudioSystem>
+    <ReloadLandmarkSystem>1</ReloadLandmarkSystem>
+    <ReloadStrategicViewSystem>1</ReloadStrategicViewSystem>
+    <ReloadUnitSystem>1</ReloadUnitSystem>
+  </Properties>
+  <Dependencies>
+    <Dlc id="6DA07636-4123-4018-B643-6575B4EC336B" minversion="0" maxversion="999" />
+    <Dlc id="8871E748-29A4-4910-8C57-8C99E32D0167" minversion="0" maxversion="999" />
+    <Dlc id="0E3751A1-F840-4e1b-9706-519BF484E59D" minversion="0" maxversion="999" />
+  </Dependencies>
+  <References>
+    <Mod id="36e88483-48fe-4545-b85f-bafc50dde315" minversion="0" maxversion="999" title="YnAEMP" />
+    <Mod id="31a31d1c-b9d7-45e1-842c-23232d66cd47" minversion="0" maxversion="999" title="JFD's Cultural Diversity (Core)" />
+    <Mod id="7fdd72a5-d4ae-441c-bc4e-2e3d2a26cff4" minversion="0" maxversion="999" title="Ethnic Units" />
+    <Mod id="6676902b-b907-45f1-8db5-32dcb2135eee" minversion="0" maxversion="999" title="JFD's Exploration Continued Expanded" />
+    <Mod id="eea66053-7579-481a-bb8d-2f3959b59974" minversion="0" maxversion="999" title="JFD's Piety and Sovereignty (Piety)" />
+    <Mod id="10e9728f-d61c-4317-be4f-7d52d6bae6f4" minversion="0" maxversion="999" title="JFD's Claims, Colonies, and Crimes" />
+    <Mod id="e576894a-ed2b-4033-be14-ed1c8ceb81d3" minversion="0" maxversion="999" title="Map Labels" />
+    <Mod id="6010e6f6-918e-48b8-9332-d60783bd8fb5" minversion="0" maxversion="999" title="Historical Religions Complete (BNW or GK)" />
+    <Mod id="a19351c5-c0b3-4b07-8695-4affaa199949" minversion="0" maxversion="999" title="JFD's AND POUAKAI's MERCENARIES" />
+  </References>
+  <Blocks />
+  <Files>
+    <File md5="3CCDF3F0C734DB74C2BBE8944377651C" import="1">ART/CivComplete.Civ5Pkg</File>
+    <File md5="FDEB81888CB08020D4F168AF1FE7AAEE" import="1">ART/SamoyedDOM.dds</File>
+    <File md5="6752B343B510B3A2A388594F4E471094" import="1">ART/SamoyedMap.dds</File>
+    <File md5="A81AFC6538722E4D3EC6B0A16C64ABC7" import="1">ART/samoyedsalpha128.dds</File>
+    <File md5="2E1A9D457CF44547E8E0D9C63329318F" import="1">ART/samoyedsalpha16.dds</File>
+    <File md5="F36834EE46FE6B53EA4C3CE8198E394A" import="1">ART/samoyedsalpha24.dds</File>
+    <File md5="7B2738055F148FBD038262222F55FCDB" import="1">ART/samoyedsalpha32.dds</File>
+    <File md5="DF4F15CBC369126D325A297F2E515E4C" import="1">ART/samoyedsalpha48.dds</File>
+    <File md5="888C101F5312A1AEDFB5E2A238EDB3D2" import="1">ART/samoyedsalpha64.dds</File>
+    <File md5="CF0265128463CB3BB630F1F0A0F5DC5A" import="1">ART/samoyedsicon128.dds</File>
+    <File md5="DE4C71C98AAEDBCFCC5526CE0BA7264B" import="1">ART/samoyedsicon214.dds</File>
+    <File md5="741E3F126C281400998D57432535EA91" import="1">ART/samoyedsicon256.dds</File>
+    <File md5="1AE9BEA091EC91A9495E2F553ABD3703" import="1">ART/samoyedsicon32.dds</File>
+    <File md5="9057E7FEFD551129BDFF814E9F59C255" import="1">ART/samoyedsicon45.dds</File>
+    <File md5="0727CB6371F2ED6BBBEFAC7EFBFAFDB1" import="1">ART/samoyedsicon64.dds</File>
+    <File md5="830BBB18D421706A2E9FFFF69A8321C4" import="1">ART/samoyedsicon80.dds</File>
+    <File md5="D0F708D92E316E54B276678140B60802" import="1">ART/TadibyaFlag.dds</File>
+    <File md5="097816F61CDE4A2988F0E828897C72D1" import="1">ART/Tadibya_128.dds</File>
+    <File md5="35E697B206016E6DC604B9DC8A9214C7" import="1">ART/Tadibya_256.dds</File>
+    <File md5="6FC620595C7427E6D97B41DCFF123C48" import="1">ART/Tadibya_45.dds</File>
+    <File md5="6558EC74E76CF4AFC975709D978D027A" import="1">ART/Tadibya_64.dds</File>
+    <File md5="8B72A09C655F7CC2B74C4DCA7A096818" import="1">ART/Tadibya_80.dds</File>
+    <File md5="7A0D0F2BB0C02CA605266DD9C0CD8D09" import="1">ART/VauliScene.dds</File>
+    <File md5="44848537EC313B4F261753D3995A2E65" import="1">ART/Vauli_128.dds</File>
+    <File md5="554C63AE880FC722B56AC90250E9BE0C" import="1">ART/Vauli_256.dds</File>
+    <File md5="DB1F297B1143174B4F0A92A8F6E69FD8" import="1">ART/Vauli_64.dds</File>
+    <File md5="A3C6D8631C5276E1504BEF8EF643942B" import="1">ART/Vauli_scene.xml</File>
+    <File md5="F983664652FDA1D2057848E5193E8304" import="0">SQL/Cultural Diversity.sql</File>
+    <File md5="4781C22A220433EB5B4E6B302AD19519" import="0">SQL/Ethnic Units.sql</File>
+    <File md5="47115E311391D2BB997FE783752D9799" import="0">SQL/JFD's and Pouakai's mercenaries.sql</File>
+    <File md5="15FD942C38F851B5AE2888E6BE4EA25E" import="0">SQL/JFD's Claims and Colonies.sql</File>
+    <File md5="010AA1D4D6B4E5282E7E42B897FE17E1" import="0">SQL/JFD's Exploration Continued Expanded.sql</File>
+    <File md5="0264A79DB99C40EDECF86C83425696AA" import="0">SQL/JFD's Piety and Prestige.sql</File>
+    <File md5="0F3B2DAA5DFA15AB32BA90CA45F94AF2" import="0">SQL/MapLabels.sql</File>
+    <File md5="7CCDDD0AEEA8681FD7986E4710144C44" import="0">SQL/Tomatekh's Historical Religions.sql</File>
+    <File md5="2A265759496210D4F0F1A1774F40C967" import="0">XML/Buildings/BuildingTrait.xml</File>
+    <File md5="5847D63B33EDECFD6E0556BE20D358AF" import="0">XML/Civilizations/Samoyed.xml</File>
+    <File md5="511A3DAA3CCE9FCB62129ED11785BC9B" import="0">XML/Civilizations/Traits.xml</File>
+    <File md5="A0A677545656EF8F0F328870A1174995" import="0">XML/GameInfo/TADIBYA_IconTextureAtlases.xml</File>
+    <File md5="7D172B03DD8A5830D136EDEF09A9FC11" import="0">XML/GameInfo/SAMOYEDIconTextureAtlases.xml</File>
+    <File md5="18F89C5EBFFA96F72E868E3099884994" import="1">XML/Leaders/VauliWar.mp3</File>
+    <File md5="7E798F9771B7F590C970706C24DFCBEF" import="1">XML/Leaders/VauliPeace.mp3</File>
+    <File md5="965EE35A1278C7E557001527921C6DE2" import="0">XML/Leaders/Leader_Vauli.xml</File>
+    <File md5="6A63DCE3F9B230A50A680EA4BD199550" import="1">XML/Leaders/VauliMusic.xml</File>
+    <File md5="4F7BADC9F04687D1E5E155A63539DB77" import="0">XML/NewText/Dialog.xml</File>
+    <File md5="90711343F0F1DC7BAD42B7B8D035F2C5" import="0">XML/NewText/GameText.xml</File>
+    <File md5="12A457D519E4259F681F80F268B124F3" import="0">XML/NewText/JFD's Claims and Colonies.xml</File>
+    <File md5="31F07ACDBF4577B99E5EB25E355B6F07" import="0">XML/NewText/Response.xml</File>
+    <File md5="C7E947B82FDBF2F20D519310B92C507D" import="0">XML/NewText/Ryoga's Unique Cultural Influence.xml</File>
+    <File md5="E0FA12377F9890FD8F0AF891860884F1" import="0">XML/Terrain/Caribou.xml</File>
+    <File md5="1718BBE2CFC098572B78E8F32F62F451" import="0">XML/Terrain/Improvements_Samoyedic_Chum.xml</File>
+    <File md5="BB523A7A4FE60C89CFE274F0F1C6C967" import="0">XML/Units/Build_Samoyedic_Chum.xml</File>
+    <File md5="1AC8C286750EE76B39B51C0F3532E9EE" import="0">XML/Units/Tadibya.xml</File>
+    <File md5="43C1C1E8E8433C29D6D2FE4DB62150ED" import="0">XML/YnAEMP.xml</File>
+  </Files>
+  <Actions>
+    <OnModActivated>
+      <UpdateDatabase>ART/Vauli_scene.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Units/Tadibya.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Buildings/BuildingTrait.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Civilizations/Samoyed.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Civilizations/Traits.xml</UpdateDatabase>
+      <UpdateDatabase>XML/GameInfo/SAMOYEDIconTextureAtlases.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Leaders/Leader_Vauli.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Terrain/Improvements_Samoyedic_Chum.xml</UpdateDatabase>
+      <UpdateDatabase>XML/NewText/Dialog.xml</UpdateDatabase>
+      <UpdateDatabase>XML/NewText/GameText.xml</UpdateDatabase>
+      <UpdateDatabase>XML/NewText/Response.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Terrain/Caribou.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Units/Build_Samoyedic_Chum.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Leaders/VauliMusic.xml</UpdateDatabase>
+      <UpdateDatabase>XML/YnAEMP.xml</UpdateDatabase>
+      <UpdateDatabase>XML/NewText/JFD's Claims and Colonies.xml</UpdateDatabase>
+      <UpdateDatabase>SQL/MapLabels.sql</UpdateDatabase>
+      <UpdateDatabase>SQL/Cultural Diversity.sql</UpdateDatabase>
+      <UpdateDatabase>SQL/Ethnic Units.sql</UpdateDatabase>
+      <UpdateDatabase>SQL/JFD's Claims and Colonies.sql</UpdateDatabase>
+      <UpdateDatabase>SQL/JFD's Exploration Continued Expanded.sql</UpdateDatabase>
+      <UpdateDatabase>SQL/JFD's Piety and Prestige.sql</UpdateDatabase>
+      <UpdateDatabase>SQL/Tomatekh's Historical Religions.sql</UpdateDatabase>
+      <UpdateDatabase>XML/NewText/Ryoga's Unique Cultural Influence.xml</UpdateDatabase>
+      <UpdateDatabase>SQL/JFD's and Pouakai's mercenaries.sql</UpdateDatabase>
+      <UpdateDatabase>XML/GameInfo/TADIBYA_IconTextureAtlases.xml</UpdateDatabase>
+    </OnModActivated>
+  </Actions>
+</Mod>

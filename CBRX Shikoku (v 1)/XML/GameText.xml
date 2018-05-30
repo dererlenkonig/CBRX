@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 4/20/2018 6:54:36 PM -->
+<GameData>
+	<Language_en_US>
+		<!-- Game Texts -->
+		<Row Tag="TXT_KEY_TRAIT_BLACK_SHIPS_SHORT">
+			<Text>To Defy Sakoku</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_BLACK_SHIPS">
+			<Text>Units can embark on ocean from the start of the game. +1 [ICON_MOVEMENT] Movement for Naval Units.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_TOSA_DESC">
+			<Text>Sakamoto Domain</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_TOSA_SHORT_DESC">
+			<text>Shikoku</text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_TOSA_ADJECTIVE">
+			<text>Sakamoto</text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_DAWN_TOSA_TEXT">
+			<text>Tosa DOM text placeholder</text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_RYOMA">
+			<Text>Sakamoto Ryoma</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_RYOMA_FIRST_GREETING_1">
+			<Text>You... you are not from Tosa? And you know a way to get off of Shikoku? Please, take me with you! I am Sakamoto Ryoma, and I have a proposal that may interest you...</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_FARMER_MILITIA">
+			<Text>Jizamurai</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_KUROFUNE">
+			<Text>Kurofune</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

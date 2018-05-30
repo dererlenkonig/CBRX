@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 2/18/2013 11:12:00 PM -->
+<GameData>
+	<Units>
+		<Row>
+			<Class>UNITCLASS_GREAT_GENERAL</Class>
+			<Type>UNIT_DEY</Type>
+			<Cost>-1</Cost>
+			<Moves>2</Moves>
+			<CivilianAttackPriority>CIVILIAN_ATTACK_PRIORITY_HIGH</CivilianAttackPriority>
+			<Special>SPECIALUNIT_PEOPLE</Special>
+			<Domain>DOMAIN_LAND</Domain>
+			<DefaultUnitAI>UNITAI_GENERAL</DefaultUnitAI>
+			<Description>Dey</Description>
+			<Civilopedia>Dey was the title given to the rulers of the Regency of Algiers (Algeria) and Tripoli under the Ottoman Empire from 1671 onwards. Twenty-nine deys held office from the establishment of the deylicate in Algeria until the French conquest in 1830. The dey was chosen by local civilian, military, and religious leaders to govern for life and ruled with a high degree of autonomy from the Ottoman sultan. The main sources of his revenues were taxes on the agricultural population, religious tributes, and protection payments rendered by Corsairs, regarded as pirates who preyed on Mediterranean shipping. The dey was assisted in governing by a divan made up of the Chiefs of the Army and Navy, the Director of Shipping, the Treasurer-General and the Collector of Tributes. The rule of the deys of Alger came to an end on 5 July 1830, when Hussein Dey (1765–1838) surrendered to invading French forces.</Civilopedia>
+			<Strategy>The Dey replaces the Great General. The Dey may construct a Ksar instead of a Citadel. This improvement is the same as a Citadel (cultural borders expansion, defense bonus), except it may be constructed outside friendly borders. It also inflicts more damage to nearby units than a Citadel. Additionally, defensive buildings contribute to the generation of Deys.</Strategy>
+			<AdvancedStartCost>-1</AdvancedStartCost>
+			<WorkRate>1</WorkRate>
+			<CombatLimit>0</CombatLimit>
+			<DontShowYields>true</DontShowYields>
+			<UnitArtInfo>ART_DEF_UNIT_DEY</UnitArtInfo>
+			<UnitArtInfoEraVariation>false</UnitArtInfoEraVariation>
+			<UnitFlagAtlas>ALPHA_DJSH_ALGERIA</UnitFlagAtlas>
+			<UnitFlagIconOffset>0</UnitFlagIconOffset>
+			<IconAtlas>CIV_DJSH_ALGERIA_ATLAS</IconAtlas>
+			<PortraitIndex>3</PortraitIndex>
+			<MoveRate>GREAT_PERSON</MoveRate>
+		</Row>
+	</Units>
+	<Unit_AITypes>
+		<Row>
+			<UnitType>UNIT_DEY</UnitType>
+			<UnitAIType>UNITAI_GENERAL</UnitAIType>
+		</Row>
+	</Unit_AITypes>
+	<Unit_Builds>
+		<Row>
+			<UnitType>UNIT_DEY</UnitType>
+			<BuildType>BUILD_KSAR</BuildType>
+		</Row>
+	</Unit_Builds>
+	<Unit_Flavors>
+		<Row>
+			<UnitType>UNIT_DEY</UnitType>
+			<FlavorType>FLAVOR_OFFENSE</FlavorType>
+			<Flavor>1</Flavor>
+		</Row>
+		<Row>
+			<UnitType>UNIT_DEY</UnitType>
+			<FlavorType>FLAVOR_DEFENSE</FlavorType>
+			<Flavor>1</Flavor>
+		</Row>
+	</Unit_Flavors>
+	<Unit_FreePromotions>
+		<Row>
+			<UnitType>UNIT_DEY</UnitType>
+			<PromotionType>PROMOTION_GREAT_GENERAL</PromotionType>
+		</Row>
+	</Unit_FreePromotions>
+</GameData>

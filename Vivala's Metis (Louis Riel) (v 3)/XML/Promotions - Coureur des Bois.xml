@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<UnitPromotions>
+		<Row>
+			<Type>PROMOTION_VIVALA_COUREUR_OUTSIDE_FRIENDLY</Type>
+			<Description>TXT_KEY_PROMOTION_VIVALA_COUREUR_OUTSIDE_FRIENDLY</Description>
+			<Help>TXT_KEY_PROMOTION_VIVALA_COUREUR_OUTSIDE_FRIENDLY_HELP</Help>
+			<Sound>AS2D_IF_LEVELUP</Sound>
+			<PortraitIndex>59</PortraitIndex>
+			<IconAtlas>ABILITY_ATLAS</IconAtlas>
+			<PediaType>PEDIA_ATTRIBUTES</PediaType>
+			<PediaEntry>TXT_KEY_PROMOTION_VIVALA_COUREUR_OUTSIDE_FRIENDLY</PediaEntry>
+			<CannotBeChosen>true</CannotBeChosen>
+			<OutsideFriendlyLandsModifier>15</OutsideFriendlyLandsModifier>
+			<IgnoreTerrainCost>true</IgnoreTerrainCost>
+		</Row>
+		<Row>
+			<Type>PROMOTION_VIVALA_COUREUR_RIVERSIDE</Type>
+			<Description>TXT_KEY_PROMOTION_VIVALA_COUREUR_RIVERSIDE</Description>
+			<Help>TXT_KEY_PROMOTION_VIVALA_COUREUR_RIVERSIDE_HELP</Help>
+			<Sound>AS2D_IF_LEVELUP</Sound>
+			<PortraitIndex>59</PortraitIndex>
+			<IconAtlas>ABILITY_ATLAS</IconAtlas>
+			<PediaType>PEDIA_ATTRIBUTES</PediaType>
+			<PediaEntry>TXT_KEY_PROMOTION_VIVALA_COUREUR_RIVERSIDE</PediaEntry>
+			<CannotBeChosen>true</CannotBeChosen>
+			<DefenseMod>15</DefenseMod>
+		</Row>
+		<Row>
+			<Type>PROMOTION_VIVALA_COUREUR_RIVERSIDE_MOVE</Type>
+			<Description>TXT_KEY_PROMOTION_VIVALA_COUREUR_RIVERSIDE_MOVE</Description>
+			<Help>TXT_KEY_PROMOTION_VIVALA_COUREUR_RIVERSIDE_MOVE_HELP</Help>
+			<Sound>AS2D_IF_LEVELUP</Sound>
+			<PortraitIndex>59</PortraitIndex>
+			<IconAtlas>ABILITY_ATLAS</IconAtlas>
+			<PediaType>PEDIA_ATTRIBUTES</PediaType>
+			<PediaEntry>TXT_KEY_PROMOTION_VIVALA_COUREUR_RIVERSIDE_MOVE</PediaEntry>
+			<CannotBeChosen>true</CannotBeChosen>
+			<MovesChange>1</MovesChange>
+		</Row>
+	</UnitPromotions>
+	<UnitPromotions_UnitCombats>
+		<Row>
+			<PromotionType>PROMOTION_VIVALA_COUREUR_OUTSIDE_FRIENDLY</PromotionType>
+			<UnitCombatType>UNITCOMBAT_GUN</UnitCombatType>
+		</Row>
+		<Row>
+			<PromotionType>PROMOTION_VIVALA_COUREUR_RIVERSIDE</PromotionType>
+			<UnitCombatType>UNITCOMBAT_GUN</UnitCombatType>
+		</Row>
+		<Row>
+			<PromotionType>PROMOTION_VIVALA_COUREUR_RIVERSIDE_MOVE</PromotionType>
+			<UnitCombatType>UNITCOMBAT_GUN</UnitCombatType>
+		</Row>
+	</UnitPromotions_UnitCombats>
+	<Language_en_US>
+		<Row Tag="TXT_KEY_PROMOTION_VIVALA_COUREUR_OUTSIDE_FRIENDLY">
+			<Text>Runner of the Woods</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_VIVALA_COUREUR_OUTSIDE_FRIENDLY_HELP">
+			<Text>+15% [ICON_STRENGTH] Combat Strength while outside of friendly territory.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_VIVALA_COUREUR_RIVERSIDE">
+			<Text>Child of the Red River</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_VIVALA_COUREUR_RIVERSIDE_HELP">
+			<Text>+15% [ICON_STRENGTH] Combat Strength while defending.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_VIVALA_COUREUR_RIVERSIDE_MOVE">
+			<Text>Canoe</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_VIVALA_COUREUR_RIVERSIDE_MOVE_HELP">
+			<Text>+1 [ICON_MOVES] Movement.</Text>
+		</Row>
+	</Language_en_US>
+
+</GameData>

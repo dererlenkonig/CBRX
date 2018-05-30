@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 2/1/2014 12:39:54 PM -->
+<GameData>
+	<Audio_Sounds>
+		<!--Vauli Music-->
+		<Row>
+			<SoundID>SND_LEADER_MUSIC_VAULI_PEACE</SoundID>
+			<Filename>VauliPeace</Filename>
+			<LoadType>DynamicResident</LoadType>
+		</Row>
+		<Row>
+			<SoundID>SND_LEADER_MUSIC_VAULI_WAR</SoundID>
+			<Filename>VauliWar</Filename>
+			<LoadType>DynamicResident</LoadType>
+		</Row>
+		<!--Vauli Music-->
+	</Audio_Sounds>
+	<Audio_2DSounds>
+		<!--Vauli Music For Audio Scripts-->
+		<Row>
+			<ScriptID>AS2D_LEADER_MUSIC_VAULI_PEACE</ScriptID>
+			<SoundID>SND_LEADER_MUSIC_VAULI_PEACE</SoundID>
+			<SoundType>GAME_MUSIC</SoundType>
+			<MinVolume>60</MinVolume>
+			<MaxVolume>60</MaxVolume>
+			<IsMusic>true</IsMusic>
+		</Row>
+		<Row>
+			<ScriptID>AS2D_LEADER_MUSIC_VAULI_WAR</ScriptID>
+			<SoundID>SND_LEADER_MUSIC_VAULI_WAR</SoundID>
+			<SoundType>GAME_MUSIC</SoundType>
+			<MinVolume>60</MinVolume>
+			<MaxVolume>60</MaxVolume>
+			<IsMusic>true</IsMusic>
+		</Row>
+		<Row>
+			<ScriptID>AS2D_AMBIENCE_LEADER_VAULI_AMBIENCE</ScriptID>
+			<SoundID>SND_AMBIENCE_ALEXANDER_AMBIENCE</SoundID>
+			<SoundType>GAME_SFX</SoundType>
+			<Looping>true</Looping>
+			<MinVolume>90</MinVolume>
+			<MaxVolume>90</MaxVolume>
+		</Row>
+		<!--Vauli Music-->
+	</Audio_2DSounds>
+</GameData>
