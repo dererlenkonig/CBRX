@@ -1,0 +1,133 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mod id="4bd78158-67ce-4bd5-9b43-c7d4b1503a96" version="3">
+  <Properties>
+    <Name>MC and LITE's Nubia</Name>
+    <Teaser>Adds [COLOR_POSITIVE_TEXT]Nubia[ENDCOLOR] as a playable civilisation</Teaser>
+    <Description>Adds [COLOR_POSITIVE_TEXT]Nubia[ENDCOLOR] as a playable civilisation</Description>
+    <Authors>More Civilisations and LITE</Authors>
+    <HideSetupGame>0</HideSetupGame>
+    <AffectsSavedGames>1</AffectsSavedGames>
+    <MinCompatibleSaveVersion>0</MinCompatibleSaveVersion>
+    <SupportsSinglePlayer>1</SupportsSinglePlayer>
+    <SupportsMultiplayer>1</SupportsMultiplayer>
+    <SupportsHotSeat>1</SupportsHotSeat>
+    <SupportsMac>1</SupportsMac>
+    <ReloadAudioSystem>1</ReloadAudioSystem>
+    <ReloadLandmarkSystem>1</ReloadLandmarkSystem>
+    <ReloadStrategicViewSystem>1</ReloadStrategicViewSystem>
+    <ReloadUnitSystem>1</ReloadUnitSystem>
+  </Properties>
+  <Dependencies />
+  <References>
+    <Mod id="31a31d1c-b9d7-45e1-842c-23232d66cd47" minversion="0" maxversion="999" title="JFD's Cultural Diversity (Core)" />
+    <Mod id="eea66053-7579-481a-bb8d-2f3959b59974" minversion="0" maxversion="999" title="JFD's Piety" />
+    <Mod id="d99bf7aa-51ac-4bef-bd88-d765b28e260e" minversion="0" maxversion="999" title="JFD's Sovereignty" />
+    <Mod id="d99bf7aa-51ac-4bef-bd88-d765b28e260e" minversion="0" maxversion="999" title="Sukritact's Events &amp; Decisions" />
+    <Mod id="36e88483-48fe-4545-b85f-bafc50dde315" minversion="0" maxversion="999" title="Yet (not) Another Earth Map Pack" />
+    <Mod id="e576894a-ed2b-4033-be14-ed1c8ceb81d3" minversion="0" maxversion="999" title="Map Labels" />
+    <Mod id="7fdd72a5-d4ae-441c-bc4e-2e3d2a26cff4" minversion="0" maxversion="999" title="Ethnic Units" />
+    <Mod id="8670da15-d435-44ea-9758-7438cb321411" minversion="0" maxversion="999" title="RED Modpack" />
+    <Mod id="d1b6328c-ff44-4b0d-aad7-c657f83610cd" minversion="0" maxversion="999" title="Community Patch" />
+    <Mod id="8411a7a8-dad3-4622-a18e-fcc18324c799" minversion="0" maxversion="999" title="Community Balance Patch" />
+    <Mod id="1153b26a-69fd-4cd5-899c-a8ba8e0e5e5d" minversion="0" maxversion="999" title="Civ IV Traits" />
+    <Mod id="6676902b-b907-45f1-8db5-32dcb2135eee" minversion="0" maxversion="999" title="JFD's Exploration Continued Expanded" />
+    <Mod id="6010e6f6-918e-48b8-9332-d60783bd8fb5" minversion="0" maxversion="999" title="Historical Religions" />
+    <Mod id="a19351c5-c0b3-4b07-8695-4affaa199949" minversion="0" maxversion="999" title="JFD and Pouakai's Mercenaries" />
+  </References>
+  <Blocks />
+  <Files>
+    <File md5="5CAD65A6949995369CDDBE0DEA73684C" import="1">Art/Atlases/MC_LITE_ApedemakArcherUnitFlag_32.dds</File>
+    <File md5="EB1F714AFC7F9CF988618C92698C0D0F" import="1">Art/Atlases/MC_LITE_NubiaAlphaAtlas_128.dds</File>
+    <File md5="6A2CF4DDD6EFC6A8CE3FB545E02CD264" import="1">Art/Atlases/MC_LITE_NubiaAlphaAtlas_16.dds</File>
+    <File md5="B97F1A94AF1F155DA26D8DE2248B9A0E" import="1">Art/Atlases/MC_LITE_NubiaAlphaAtlas_22.dds</File>
+    <File md5="B6AF428AFD683C9FB6129272555891A2" import="1">Art/Atlases/MC_LITE_NubiaAlphaAtlas_24.dds</File>
+    <File md5="AF6B809233A7FCF5A5A99E3BA50CBD03" import="1">Art/Atlases/MC_LITE_NubiaAlphaAtlas_256.dds</File>
+    <File md5="BA61C8C5E441524986C84A4BDF801A69" import="1">Art/Atlases/MC_LITE_NubiaAlphaAtlas_32.dds</File>
+    <File md5="9A07974E963725E5BF6F59C40F389B23" import="1">Art/Atlases/MC_LITE_NubiaAlphaAtlas_45.dds</File>
+    <File md5="448FC6AF82A4AE33CCCF6F6816068A44" import="1">Art/Atlases/MC_LITE_NubiaAlphaAtlas_48.dds</File>
+    <File md5="6E8B3BC9182E5A8757DB567B342305EC" import="1">Art/Atlases/MC_LITE_NubiaAlphaAtlas_64.dds</File>
+    <File md5="75F749618E9EFBF7038F0CBDCF012BF6" import="1">Art/Atlases/MC_LITE_NubiaAlphaAtlas_80.dds</File>
+    <File md5="A584CFF6A1562E495E7B17CFB4C6D4CE" import="1">Art/Atlases/MC_LITE_NubiaAtlas_128.dds</File>
+    <File md5="8EAA6850207A3FF26FFBAF449F9FE308" import="1">Art/Atlases/MC_LITE_NubiaAtlas_256.dds</File>
+    <File md5="F8ACF39C94B65BE223B071B3418A3E0D" import="1">Art/Atlases/MC_LITE_NubiaAtlas_32.dds</File>
+    <File md5="2E52C4C295250827F5934C1E12625197" import="1">Art/Atlases/MC_LITE_NubiaAtlas_45.dds</File>
+    <File md5="9BB0D19B4657325037DB015AF35957CE" import="1">Art/Atlases/MC_LITE_NubiaAtlas_64.dds</File>
+    <File md5="C0B42BE0CC190936947D59B70DDCC37F" import="1">Art/Atlases/MC_LITE_NubiaAtlas_80.dds</File>
+    <File md5="EF8FB696493B61E0CC9454EC7C973ABC" import="1">Art/Models/UI/LITE_Pyramid_B.fxsxml</File>
+    <File md5="0D3B9A2E03CAF17DBB072016B6069B62" import="1">Art/Models/UI/LITE_Pyramid_B.gr2</File>
+    <File md5="D79964E7F8E864A8910CFD52593DE2E1" import="1">Art/Models/UI/LITE_Pyramid_B2.fxsxml</File>
+    <File md5="EB6A65A856B1C5AC1E86B9DAFF789C80" import="1">Art/Models/UI/LITE_Pyramid_B2.gr2</File>
+    <File md5="4A03794529ED6B986CD4C52FC5080AB1" import="1">Art/Models/UI/LITE_Pyramid_HB.fxsxml</File>
+    <File md5="5B4194D0ADF77762DE04585D2D114420" import="1">Art/Models/UI/LITE_Pyramid_HB.gr2</File>
+    <File md5="6610A81DE7D5E142ADB0C7D4C2468261" import="1">Art/Models/UI/LITE_Pyramid_PL.fxsxml</File>
+    <File md5="F75D9A68D2F469D825682AED962AB1B6" import="1">Art/Models/UI/LITE_Pyramid_PL.gr2</File>
+    <File md5="3D4C0F372FF7C803D2281D53DC310A90" import="1">Art/Models/UI/Pyramid_PL_Tex.dds</File>
+    <File md5="3A9E3AEDC7F5E15B0BEF89C180FA3BFC" import="1">Art/Models/UI/Pyramid_Tex.dds</File>
+    <File md5="46BBCCC178A8769FBB3B5B209C6C5F3C" import="1">Art/Models/UU/MCLNubiaArcher2.dds</File>
+    <File md5="7B0EF34F6016A3BBD4FC495CB340A21B" import="1">Art/Models/UU/MCLNubiaArcher2.fbx</File>
+    <File md5="3DB3C87BD961F3B70B30ADCD58731428" import="1">Art/Models/UU/MCLNubiaArcher2.fxsxml</File>
+    <File md5="08A814218321FDAE0DDB6CA3A97D3B7A" import="1">Art/Models/UU/MCLNubiaArcher2.gr2</File>
+    <File md5="1250685690F5AD9A91EAEEB61B7A289C" import="0">Art/Models/UU/MCLNubiaArcher2.indiedefs</File>
+    <File md5="219226AFBBCD68FD1BF4504A7F401C20" import="1">Art/Models/UU/MCLNubiaArcher2_sref.dds</File>
+    <File md5="4D659AB663CCF9F9FA9D6D3E12447A05" import="1">Art/Models/UU/MCLNubiaArcher2_Template.blend</File>
+    <File md5="6ED766D9EB04F14C4BE0000946BDE1D8" import="1">Art/Models/UU/sv_ApedemakArcher.dds</File>
+    <File md5="FE24DDA89AD475286D8C9C374151FCFC" import="1">Art/Scenes/MC_LITE_Nubia_Leaderhead.dds</File>
+    <File md5="C941BF790CA0CA3CC7F1DC87C4DAAC35" import="1">Art/Scenes/MC_LITE_Nubia_DoM.dds</File>
+    <File md5="68CB7308CDD66F16B4E144F3660941EF" import="1">Art/Scenes/MC_LITE_Nubia_Map.dds</File>
+    <File md5="EB33DA60F6C7AED187861157FE20EA6D" import="0">Core/Art/LITE_Pyramid_artdef.sql</File>
+    <File md5="667F8493DB0077ECED3669ED6E156C4D" import="0">Core/Art/MC_LITE_Apedemak.sql</File>
+    <File md5="3DC0477DC0C3748469327C0D3C32A313" import="1">Core/Art/MC_LITE_Nubia_Leaderhead.xml</File>
+    <File md5="B23AD5788020FB502EC6669BFA27CEE0" import="0">Core/Buildings/MC_LITE_Nubia_Buildings.xml</File>
+    <File md5="F825CC4AC80DFB07807A7157F7D78FE1" import="0">Core/Civilizations/MC_LITE_Nubia_Civilizations.xml</File>
+    <File md5="271DC017DA2C5325FF9653A30D220447" import="0">Core/GameInfo/MC_LITE_Nubia_IconTextureAtlases.xml</File>
+    <File md5="BA07227E7A74B9442E9B56213433978F" import="0">Core/GameInfo/MC_LITE_Nubia_Sounds.xml</File>
+    <File md5="F4617E939D64C6962E9AC2DDECDD75D1" import="0">Core/GameInfo/MC_LITE_Nubia_Traits.xml</File>
+    <File md5="43B5E681DF66D09DBCA628632D53EE7A" import="0">Core/Leaders/MC_LITE_Nubia_LeaderFlavors.sql</File>
+    <File md5="66FA02A181CF758E4FD13D813DFB8E79" import="0">Core/Leaders/MC_LITE_Nubia_Leader.xml</File>
+    <File md5="C06709DA3CC95967CE604F4BC82FED9D" import="0">Core/Terrain/MC_LITE_Nubia_Improvements.sql</File>
+    <File md5="CB46373BEBB86C09D586AC4EC0F0DD81" import="0">Core/Terrain/MC_LITE_Nubia_Improvements.xml</File>
+    <File md5="08A724D7183A994CA1599C187EA7DFA9" import="0">Core/Text/MC_LITE_Nubia_Text.xml</File>
+    <File md5="1F75A363EFC9957F343EBD25829F9CB1" import="0">Core/Units/MC_LITE_Nubia_Units.xml</File>
+    <File md5="9E9BE1DB39ABF6E46F3309DB471639F3" import="0">Core/Units/MC_LITE_Nubia_UnitPromotions.xml</File>
+    <File md5="67EDDDEFD875760EE28334EFC6E7D3A8" import="0">Lua/JFD_NubiaStuff.lua</File>
+    <File md5="8776A83D4B463FB0C121CD4BF4033A72" import="0">Lua/TomatekhRoyalPyramid.lua</File>
+    <File md5="B3053F4A1F0DCD1D9B657E8016A3ECE5" import="1">Sounds/MCLITEPiyePeace.mp3</File>
+    <File md5="7CF58BC1E044E4C00D0E51DD57AAC1AC" import="1">Sounds/MCLITEPiyeWar.mp3</File>
+    <File md5="E3C407D3F78CA906F9E93217340611D8" import="1">Sounds/MCLITENubiaDoM.mp3</File>
+    <File md5="F358DCA8A4F2B78AD4458292A317B336" import="0">Support/MC_LITE_Nubia_Decisions.lua</File>
+    <File md5="44810363292CED48069F35A26C436C37" import="0">Support/MC_LITE_Nubia_Decisions.sql</File>
+    <File md5="E909EDD8EA35B3F5B088C89E7665FF63" import="0">Support/MC_LITE_Nubia_ModSupport.sql</File>
+    <File md5="F36220ECAA2506DD2D74B4EAE222C42F" import="0">Support/MC_LITE_Nubia_ModSupport.xml</File>
+  </Files>
+  <Actions>
+    <OnModActivated>
+      <UpdateDatabase>Core/Art/LITE_Pyramid_artdef.sql</UpdateDatabase>
+      <UpdateDatabase>Core/Art/MC_LITE_Apedemak.sql</UpdateDatabase>
+      <UpdateDatabase>Core/Buildings/MC_LITE_Nubia_Buildings.xml</UpdateDatabase>
+      <UpdateDatabase>Core/Civilizations/MC_LITE_Nubia_Civilizations.xml</UpdateDatabase>
+      <UpdateDatabase>Core/GameInfo/MC_LITE_Nubia_Sounds.xml</UpdateDatabase>
+      <UpdateDatabase>Core/GameInfo/MC_LITE_Nubia_IconTextureAtlases.xml</UpdateDatabase>
+      <UpdateDatabase>Core/GameInfo/MC_LITE_Nubia_Traits.xml</UpdateDatabase>
+      <UpdateDatabase>Core/Leaders/MC_LITE_Nubia_Leader.xml</UpdateDatabase>
+      <UpdateDatabase>Core/Leaders/MC_LITE_Nubia_LeaderFlavors.sql</UpdateDatabase>
+      <UpdateDatabase>Core/Terrain/MC_LITE_Nubia_Improvements.xml</UpdateDatabase>
+      <UpdateDatabase>Core/Terrain/MC_LITE_Nubia_Improvements.sql</UpdateDatabase>
+      <UpdateDatabase>Core/Text/MC_LITE_Nubia_Text.xml</UpdateDatabase>
+      <UpdateDatabase>Core/Units/MC_LITE_Nubia_Units.xml</UpdateDatabase>
+      <UpdateDatabase>Core/Units/MC_LITE_Nubia_UnitPromotions.xml</UpdateDatabase>
+      <UpdateDatabase>Support/MC_LITE_Nubia_ModSupport.sql</UpdateDatabase>
+      <UpdateDatabase>Support/MC_LITE_Nubia_ModSupport.xml</UpdateDatabase>
+      <UpdateDatabase>Support/MC_LITE_Nubia_Decisions.sql</UpdateDatabase>
+    </OnModActivated>
+  </Actions>
+  <EntryPoints>
+    <EntryPoint type="InGameUIAddin" file="Lua/JFD_NubiaStuff.lua">
+      <Name>JFD_NubiaStuff</Name>
+      <Description>JFD stuff for Nubia</Description>
+    </EntryPoint>
+    <EntryPoint type="InGameUIAddin" file="Lua/TomatekhRoyalPyramid.lua">
+      <Name>TomatekhRoyalPyramid</Name>
+      <Description>Code for Royal Pyramid to switch upon era change</Description>
+    </EntryPoint>
+  </EntryPoints>
+</Mod>

@@ -1,0 +1,189 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mod id="cbc476bd-0865-468b-9a7a-48735ae2ddaa" version="40">
+  <Properties>
+    <Name>Poverty Point (Brave New World)</Name>
+    <Teaser>Adds Poverty Point to the base games. Requires the Brave New World expansion.</Teaser>
+    <Description>Adds Poverty Point to the base game. Requires the Brave New World expansion.
+[NEWLINE][NEWLINE]~~~
+[NEWLINE][NEWLINE]Note: 
+[NEWLINE]- Requires the Brave New World expansion.
+[NEWLINE]- Updates to the Mod will most likely break save games. Please do not update until you are ready to begin a new game.
+[NEWLINE][NEWLINE]~~~
+[NEWLINE][NEWLINE]Leader: Táhera
+[NEWLINE][NEWLINE]UA: Place of Origins
+[NEWLINE]UU: Fox-Man
+[NEWLINE]UI: Effigy Mound</Description>
+    <Authors>Tomatekh</Authors>
+    <SpecialThanks>Reedstilt, JFD, DJSHenninger, Sukritact</SpecialThanks>
+    <HideSetupGame>0</HideSetupGame>
+    <Homepage>http://forums.civfanatics.com/showthread.php?t=472751</Homepage>
+    <AffectsSavedGames>1</AffectsSavedGames>
+    <MinCompatibleSaveVersion>40</MinCompatibleSaveVersion>
+    <SupportsSinglePlayer>1</SupportsSinglePlayer>
+    <SupportsMultiplayer>1</SupportsMultiplayer>
+    <SupportsHotSeat>1</SupportsHotSeat>
+    <SupportsMac>1</SupportsMac>
+    <ReloadAudioSystem>1</ReloadAudioSystem>
+    <ReloadLandmarkSystem>1</ReloadLandmarkSystem>
+    <ReloadStrategicViewSystem>1</ReloadStrategicViewSystem>
+    <ReloadUnitSystem>1</ReloadUnitSystem>
+  </Properties>
+  <Dependencies>
+    <Dlc id="6DA07636-4123-4018-B643-6575B4EC336B" minversion="0" maxversion="999" />
+  </Dependencies>
+  <References>
+    <Dlc id="0E3751A1-F840-4e1b-9706-519BF484E59D" minversion="0" maxversion="999" />
+    <Mod id="36e88483-48fe-4545-b85f-bafc50dde315" minversion="0" maxversion="999" title="YnAEMP" />
+    <Mod id="1f941088-b185-4159-865c-472df81247b2" minversion="0" maxversion="999" title="Events ad Decisions" />
+    <Mod id="7fdd72a5-d4ae-441c-bc4e-2e3d2a26cff4" minversion="0" maxversion="999" title="Ethnic Units" />
+    <Mod id="e576894a-ed2b-4033-be14-ed1c8ceb81d3" minversion="0" maxversion="999" title="Map Labels" />
+    <Mod id="31a31d1c-b9d7-45e1-842c-23232d66cd47" minversion="0" maxversion="999" title="Cultural Diversity" />
+    <Mod id="43868e8d-de88-48a1-a8d9-ce144e07f5e0" minversion="0" maxversion="999" title="ExCE" />
+    <Mod id="01c131ef-2162-4a7b-b845-763a4e675940" minversion="0" maxversion="999" title="Cultural Influence" />
+    <Mod id="d1b6328c-ff44-4b0d-aad7-c657f83610cd" minversion="0" maxversion="999" title="C. Patch" />
+    <Mod id="8411a7a8-dad3-4622-a18e-fcc18324c799" minversion="0" maxversion="999" title="C. Balance Patch" />
+    <Mod id="8670da15-d435-44ea-9758-7438cb321411" minversion="0" maxversion="999" title="R.E.D." />
+    <Mod id="eea66053-7579-481a-bb8d-2f3959b59974" minversion="0" maxversion="999" title="Piety" />
+    <Mod id="ce8aa614-7ef7-4a45-a179-5329869e8d6d" minversion="0" maxversion="999" title="Enlightenment" />
+    <Mod id="d99bf7aa-51ac-4bef-bd88-d765b28e260e" minversion="0" maxversion="999" title="Soveriegnty" />
+    <Mod id="a19351c5-c0b3-4b07-8695-4affaa199949" minversion="0" maxversion="999" title="Mercenaries" />
+    <Mod id="10e9728f-d61c-4317-be4f-7d52d6bae6f4" minversion="0" maxversion="999" title="CiD" />
+    <Mod id="a61f61ab-f375-4928-bcf0-eb54f0b70c2b" minversion="0" maxversion="999" title="Cradle City-States" />
+    <Mod id="bc035f0c-81c1-4120-aa2a-148c7a6d3862" minversion="0" maxversion="999" title="Cradles Civ Pack" />
+    <Mod id="27744840-51d5-48b3-89d8-bc595ba27b7e" minversion="0" maxversion="999" title="PeC" />
+  </References>
+  <Blocks />
+  <Files>
+    <File md5="1103221C6DE190494BF8E66FBEB0691D" import="1">Art/Alpha/PovertyPointAlphaAtlas128.dds</File>
+    <File md5="8BC3FDB1A0491C24094AFED2C7F8ED28" import="1">Art/Alpha/PovertyPointAlphaAtlas16.dds</File>
+    <File md5="172511C173CB3FF43DF64AC18CDCA4B3" import="1">Art/Alpha/PovertyPointAlphaAtlas24.dds</File>
+    <File md5="253D6B5322479E79A851464CCB12E765" import="1">Art/Alpha/PovertyPointAlphaAtlas32.dds</File>
+    <File md5="284FBC764C4FC008417B0C2928C6ADE2" import="1">Art/Alpha/PovertyPointAlphaAtlas48.dds</File>
+    <File md5="62F569B1702CC7F28010F3728F8DE45F" import="1">Art/Alpha/PovertyPointAlphaAtlas64.dds</File>
+    <File md5="54D6E94312418D6D8B08FF406D520A72" import="1">Art/Atlas/PovertyPointAtlas128.dds</File>
+    <File md5="45EC19C1B8AD224CE7E60452CB0306F7" import="1">Art/Atlas/PovertyPointAtlas214.dds</File>
+    <File md5="C626802AD7B55DF4B39DF9666E8F623D" import="1">Art/Atlas/PovertyPointAtlas256.dds</File>
+    <File md5="EF3A2A10F62D77E8599CAB5C9DEE288C" import="1">Art/Atlas/PovertyPointAtlas32.dds</File>
+    <File md5="9AB3F4CDDFF7B7B7FD677B4529603E23" import="1">Art/Atlas/PovertyPointAtlas45.dds</File>
+    <File md5="E69929BE569637569F3418C818F00DB2" import="1">Art/Atlas/PovertyPointAtlas64.dds</File>
+    <File md5="EF50349316DC4C8F7EC13E0D8BA29BE4" import="1">Art/Atlas/PovertyPointAtlas80.dds</File>
+    <File md5="C6D89D32F8783B8088A18E4B89E88FF3" import="1">Art/Bonus/PovertySpiritAtlas128.dds</File>
+    <File md5="7F0D76D09F3C13CEA00C52A1A43267D6" import="1">Art/Bonus/PovertySpiritAtlas214.dds</File>
+    <File md5="7ABA927DE6D55A4C5CDAEA79E39B8804" import="1">Art/Bonus/PovertySpiritAtlas256.dds</File>
+    <File md5="18E8F28EB26489594C755CF2B0C31B51" import="1">Art/Bonus/PovertySpiritAtlas32.dds</File>
+    <File md5="1A02C948EA31D3E221FA4CEFF088C343" import="1">Art/Bonus/PovertySpiritAtlas45.dds</File>
+    <File md5="D08B5A5A002450B989225E8901FFF869" import="1">Art/Bonus/PovertySpiritAtlas64.dds</File>
+    <File md5="4ED270872A2D414754702FBBEDEEB1DD" import="1">Art/Bonus/PovertySpiritAtlas80.dds</File>
+    <File md5="8B0984F47EADC6A8ED53ED288D040239" import="1">Art/Improvement/Model/Serpent Mound Ex.gr2</File>
+    <File md5="F22FECA90BBD15B03D1AE68075A103A7" import="1">Art/Improvement/Model/Serpent Mound H.dds</File>
+    <File md5="8B3B21BC55CD68AD9CBBB605D2EEADCC" import="1">Art/Improvement/Model/Serpent Mound HBPL.gr2</File>
+    <File md5="C34F9DFCB18A6D2E3BD4AE0744636A4A" import="1">Art/Improvement/Model/Serpent Mound.dds</File>
+    <File md5="02E20C5601F581DE6A2F079B5D53C4AA" import="1">Art/Improvement/Model/Serpent Mound.gr2</File>
+    <File md5="E1E472A3227993FBD02CE29B291C53BB" import="1">Art/Improvement/Model/Serpent Mound.png</File>
+    <File md5="303CAF181C553278F54A2C2F7DFA2AAE" import="1">Art/Improvement/Model/Serpent Mound_B.fxsxml</File>
+    <File md5="0A1E1177F6077871B0AE6FB815BB9284" import="1">Art/Improvement/Model/Serpent Mound_B_Ex.fxsxml</File>
+    <File md5="65DC990EEBEAE3401EF916B605D2648C" import="1">Art/Improvement/Model/Serpent Mound_HB.fxsxml</File>
+    <File md5="0DC6572166B5B1B14421C5F7CA854D6D" import="1">Art/Improvement/Model/Serpent Mound_PL.fxsxml</File>
+    <File md5="7F0F6615BA8B3E99DC0B597FF40071C9" import="1">Art/Improvement/Model/stromouch.dds</File>
+    <File md5="68BFC8EBBDAA8F8E2C607B0F4CAB3EB0" import="1">Art/Improvement/Model/travka.dds</File>
+    <File md5="373160919C22D36A327C5E9735043A2F" import="1">Art/Improvement/PovertyPoint2Build45.dds</File>
+    <File md5="70593996C0D3E2F1D436A8EEC51B564E" import="1">Art/Improvement/PovertyPoint2Build64.dds</File>
+    <File md5="8B7EDB54B63FA0B1CC148D72BEA3FF9F" import="1">Art/Improvement/PovertyPoint2BuildGold45.dds</File>
+    <File md5="8AA7CA7DFF570DE81405914D2D679318" import="1">Art/Improvement/PovertyPoint2BuildGold64.dds</File>
+    <File md5="65734ABA99A54144398A5A74D79E7CBF" import="1">Art/Improvement/PovertyPointBuild45.dds</File>
+    <File md5="CE76ACCE2D37FA8559E7B34D8CC8A445" import="1">Art/Improvement/PovertyPointBuild64.dds</File>
+    <File md5="919DBB909CB8F00C8CCAC74DA9F99356" import="1">Art/Improvement/PovertyPointBuildGold45.dds</File>
+    <File md5="7CC2EE775CC5B952D56C7301F35D475F" import="1">Art/Improvement/PovertyPointBuildGold64.dds</File>
+    <File md5="DAFECAAFF8EF376330725167D98E27B3" import="1">Art/Improvement/sv_CeremonialMound.dds</File>
+    <File md5="200781D1E7E44348329D2B75CE716DAD" import="1">Art/PovertyPointDiplo.dds</File>
+    <File md5="0CE611CCEB1D80FB02D58CDB85FC76F5" import="1">Art/PovertyPointDoM.dds</File>
+    <File md5="F27577D98ED83E971B25067E601AAE0A" import="1">Art/PovertyPointMap.dds</File>
+    <File md5="D9ACB983E655AEC2738A069244550056" import="1">Art/Unit/Model/black_4x4.dds</File>
+    <File md5="5F8F92B1A93B1E4A1E153AA7109E47A8" import="1">Art/Unit/Model/NativeGreatProphet.fxsxml</File>
+    <File md5="08C98C6810C9D43285FADDC2E5780F2D" import="1">Art/Unit/Model/NativeGreatProphet.gr2</File>
+    <File md5="5D0344213B91A7E37F96A8E4E6B21FED" import="1">Art/Unit/Model/NativeGreatProphet_diff.dds</File>
+    <File md5="17965D434EA06CD3C1DC510C11B0E3BF" import="1">Art/Unit/PovertyPointPromotion256.dds</File>
+    <File md5="FE4E0229E196870078EC35923708F662" import="1">Art/Unit/PovertyPointPromotion32.dds</File>
+    <File md5="B792F4A9CD96CDB3B1B445C4C80BC7F5" import="1">Art/Unit/PovertyPointPromotion45.dds</File>
+    <File md5="89D8ACBD83C28D2F0CA4A404FB2C76D3" import="1">Art/Unit/PovertyPointPromotion64.dds</File>
+    <File md5="11EB1D4C23E2989B04933FD29F212F45" import="1">Art/Unit/PovertyPointUnitAlpha.dds</File>
+    <File md5="FE674EC3B4B0C610240F64CE32A1ED57" import="1">Art/Unit/sv_PovertyPoint.dds</File>
+    <File md5="DE726FAA20DAA2E73C8624CF1B966109" import="1">Audio/PovertyBuild.mp3</File>
+    <File md5="52E10C95A769EFBA99F89F3A25B1E5C4" import="1">Audio/PovertyPeace.mp3</File>
+    <File md5="1FF748E78DE9333629A3FBE480DE9975" import="1">Audio/PovertyWar.mp3</File>
+    <File md5="103CD6046FFE1AEBA82530FCB4A9AB1C" import="1">City State/MinorCiv_Ouagadougou.mp3</File>
+    <File md5="5D4D634A94043DE039559BEEF8C5CD8C" import="0">City State/PP City State Update.sql</File>
+    <File md5="CD06CCF3AB1035ACCB9A1771EDF3A2AD" import="1">Decisions/TomatekhPovertyDecisions.lua</File>
+    <File md5="28D56D32FF3D516345D641AAE6643C55" import="0">Decisions/TomatekhPovertyDecisions.xml</File>
+    <File md5="0EBBE23BFF4CF2A952668CA23CDB13A7" import="0">Lua/Bonus/PP Extra.lua</File>
+    <File md5="0F1F3C4D1993D22491848134457DEE8E" import="1">Lua/Bonus/PP Extra.xml</File>
+    <File md5="3D847CF06B3957239D2772149F14CB79" import="1">Lua/Bonus/PP Extra Scripts.lua</File>
+    <File md5="149C29B8B059E3651AB25251726F7761" import="0">Lua/Interface/QoL_PP.lua</File>
+    <File md5="C6450714CB4AB7DF26779987088F674B" import="1">Lua/Interface/QoL_PP.xml</File>
+    <File md5="A2A8FC6F6A9F82EFD05704E01A07CE1F" import="0">Lua/Popup/Poverty Popup.lua</File>
+    <File md5="1E89EF702E821DC465553D17A129C010" import="1">Lua/Popup/Poverty Popup.xml</File>
+    <File md5="A1729B78AB522C6F740798EA84E698B8" import="0">Lua/Poverty Point Check.lua</File>
+    <File md5="A23C276E413C8A05C4CA67A55D8BD671" import="1">Lua/Poverty Point Check.xml</File>
+    <File md5="AA09CBC811F1E461BB5B20FB3D574402" import="1">Lua/Poverty Point Scripts.lua</File>
+    <File md5="5754B1BE6E37A2F9D04D9D4149E5CDDF" import="1">Lua/SaveUtils.lua</File>
+    <File md5="7538AF1849D99A263D924FB8A3DCBC91" import="0">SQL/PP Art Defines.sql</File>
+    <File md5="0DD7C6F601A10C8FA5C3193B4D5570F7" import="0">SQL/PP Civ Leader.sql</File>
+    <File md5="565B7D9D276AFA4181C37654B7409DFF" import="0">SQL/PP Game Info.sql</File>
+    <File md5="E4651D160214AF133CA153555F51C5FD" import="0">SQL/PP Mods.sql</File>
+    <File md5="BC95133E8A2BD878A4C1B0BB26A9B48D" import="0">SQL/PP Units Promotions.sql</File>
+    <File md5="ED2E7551B62DFAF35DD29B44FE3A0DF5" import="0">SQL/PP YnAEMP.sql</File>
+    <File md5="A11E497477BBC5EFEBAF8A3172392D46" import="1">XML/Art/Poverty_Scene_Mod.xml</File>
+    <File md5="D0C91D727D370B65A8429C68DAAECE38" import="0">XML/Buildings/Poverty Building Overlap.xml</File>
+    <File md5="66019C1FD7CE170C7A9F95C6A968984A" import="0">XML/Non English XML Tags/Poverty Point Text DE_DE.xml</File>
+    <File md5="69B62DA79ECA52D28E0D84FA62226057" import="0">XML/Non English XML Tags/Poverty Point Text ES_ES.xml</File>
+    <File md5="316562B9A4D07D3F46609943A444F09E" import="0">XML/Non English XML Tags/Poverty Point Text FR_FR.xml</File>
+    <File md5="CAB5C28DAAC1A445C2CB8ED60C38B2CE" import="0">XML/Non English XML Tags/Poverty Point Text IT_IT.xml</File>
+    <File md5="DF2D6A6B8AF5E5A90C94606890468F79" import="0">XML/Non English XML Tags/Poverty Point Text JA_JP.xml</File>
+    <File md5="BB6C78F55218F43DB2E11F08480A5E8C" import="0">XML/Non English XML Tags/Poverty Point Text KO_KR.xml</File>
+    <File md5="E3BA20BF2664C64DD5AF853DB0B265EB" import="0">XML/Non English XML Tags/Poverty Point Text PL_PL.xml</File>
+    <File md5="0A870A0D2BFD4ED4C6898F10C8DE66AA" import="0">XML/Non English XML Tags/Poverty Point Text RU_RU.xml</File>
+    <File md5="4C9B5894E4065B70D91A57A4C33356E6" import="0">XML/PP Game Text.xml</File>
+    <File md5="CD6BEBCCA2905450BA1A52E1F5C5AB03" import="0">XML/Terrain/PP Improvement.xml</File>
+  </Files>
+  <Actions>
+    <OnModActivated>
+      <UpdateDatabase>SQL/PP Civ Leader.sql</UpdateDatabase>
+      <UpdateDatabase>SQL/PP Game Info.sql</UpdateDatabase>
+      <UpdateDatabase>XML/Terrain/PP Improvement.xml</UpdateDatabase>
+      <UpdateDatabase>SQL/PP Units Promotions.sql</UpdateDatabase>
+      <UpdateDatabase>SQL/PP Art Defines.sql</UpdateDatabase>
+      <UpdateDatabase>City State/PP City State Update.sql</UpdateDatabase>
+      <UpdateDatabase>SQL/PP YnAEMP.sql</UpdateDatabase>
+      <UpdateDatabase>XML/Buildings/Poverty Building Overlap.xml</UpdateDatabase>
+      <UpdateDatabase>XML/PP Game Text.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Non English XML Tags/Poverty Point Text DE_DE.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Non English XML Tags/Poverty Point Text ES_ES.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Non English XML Tags/Poverty Point Text FR_FR.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Non English XML Tags/Poverty Point Text IT_IT.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Non English XML Tags/Poverty Point Text JA_JP.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Non English XML Tags/Poverty Point Text KO_KR.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Non English XML Tags/Poverty Point Text PL_PL.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Non English XML Tags/Poverty Point Text RU_RU.xml</UpdateDatabase>
+      <UpdateDatabase>Decisions/TomatekhPovertyDecisions.xml</UpdateDatabase>
+      <UpdateDatabase>SQL/PP Mods.sql</UpdateDatabase>
+    </OnModActivated>
+  </Actions>
+  <EntryPoints>
+    <EntryPoint type="InGameUIAddin" file="Lua/Poverty Point Check.lua">
+      <Name>Poverty Point</Name>
+      <Description>Poverty Point</Description>
+    </EntryPoint>
+    <EntryPoint type="InGameUIAddin" file="Lua/Bonus/PP Extra.lua">
+      <Name>Poverty Extra</Name>
+      <Description>Poverty Extra</Description>
+    </EntryPoint>
+    <EntryPoint type="InGameUIAddin" file="Lua/Popup/Poverty Popup.lua">
+      <Name>Poverty Popup</Name>
+      <Description>Poverty Popup</Description>
+    </EntryPoint>
+    <EntryPoint type="InGameUIAddin" file="Lua/Interface/QoL_PP.lua">
+      <Name>Poverty Interface</Name>
+      <Description>Poverty Interface</Description>
+    </EntryPoint>
+  </EntryPoints>
+</Mod>

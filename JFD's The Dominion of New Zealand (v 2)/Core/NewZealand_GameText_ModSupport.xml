@@ -1,0 +1,318 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 11/23/2013 1:27:25 PM -->
+<GameData>
+	<Language_en_US>
+		<!--JFD CITIES IN DEVELOPMENT-->
+		<!--JFD COLONIES-->
+		<Row Tag="TXT_KEY_COLONY_NAME_JFD_NEW_ZEALAND_01">
+			<Text>Avarua</Text>
+		</Row>
+		<Row Tag="TXT_KEY_COLONY_NAME_JFD_NEW_ZEALAND_02">
+			<Text>Alofi</Text>
+		</Row>
+		<Row Tag="TXT_KEY_COLONY_NAME_JFD_NEW_ZEALAND_03">
+			<Text>Waitangi</Text>
+		</Row>
+		<Row Tag="TXT_KEY_COLONY_NAME_JFD_NEW_ZEALAND_04">
+			<Text>Raoul Island Station</Text>
+		</Row>
+		<Row Tag="TXT_KEY_COLONY_NAME_JFD_NEW_ZEALAND_05">
+			<Text>Scott Base</Text>
+		</Row>
+		<Row Tag="TXT_KEY_COLONY_NAME_JFD_NEW_ZEALAND_06">
+			<Text>McMurdo Station</Text>
+		</Row>
+		<!--JFD RISE TO POWER-->
+		<!--JFD SOVEREIGNTY-->
+		<!--Heads of Govt.-->
+		<Row Tag="TXT_KEY_JFD_HEAD_OF_GOVERNMENT_TITLE_CIVILIZATION_JFD_NEW_ZEALAND_1">
+			<Text>Henry Sewell</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_HEAD_OF_GOVERNMENT_TITLE_CIVILIZATION_JFD_NEW_ZEALAND_2">
+			<Text>William Fox</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_HEAD_OF_GOVERNMENT_TITLE_CIVILIZATION_JFD_NEW_ZEALAND_3">
+			<Text>Edward Stafford</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_HEAD_OF_GOVERNMENT_TITLE_CIVILIZATION_JFD_NEW_ZEALAND_4">
+			<Text>Alfred Domett</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_HEAD_OF_GOVERNMENT_TITLE_CIVILIZATION_JFD_NEW_ZEALAND_5">
+			<Text>Frederick Whitaker</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_HEAD_OF_GOVERNMENT_TITLE_CIVILIZATION_JFD_NEW_ZEALAND_6">
+			<Text>Frederick Weld</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_HEAD_OF_GOVERNMENT_TITLE_CIVILIZATION_JFD_NEW_ZEALAND_7">
+			<Text>Edward Stafford</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_HEAD_OF_GOVERNMENT_TITLE_CIVILIZATION_JFD_NEW_ZEALAND_8">
+			<Text>George Waterhouse</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_HEAD_OF_GOVERNMENT_TITLE_CIVILIZATION_JFD_NEW_ZEALAND_9">
+			<Text>Julius Vogel</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_HEAD_OF_GOVERNMENT_TITLE_CIVILIZATION_JFD_NEW_ZEALAND_10">
+			<Text>Daniel Pollen</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_HEAD_OF_GOVERNMENT_TITLE_CIVILIZATION_JFD_NEW_ZEALAND_11">
+			<Text>Harry Atkinson</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_HEAD_OF_GOVERNMENT_TITLE_CIVILIZATION_JFD_NEW_ZEALAND_12">
+			<Text>George Grey</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_HEAD_OF_GOVERNMENT_TITLE_CIVILIZATION_JFD_NEW_ZEALAND_13">
+			<Text>John Hall</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_HEAD_OF_GOVERNMENT_TITLE_CIVILIZATION_JFD_NEW_ZEALAND_14">
+			<Text>Robert Stout</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_HEAD_OF_GOVERNMENT_TITLE_CIVILIZATION_JFD_NEW_ZEALAND_15">
+			<Text>Harry Atkinson</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_HEAD_OF_GOVERNMENT_TITLE_CIVILIZATION_JFD_NEW_ZEALAND_16">
+			<Text>John Ballance</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_HEAD_OF_GOVERNMENT_TITLE_CIVILIZATION_JFD_NEW_ZEALAND_17">
+			<Text>William Hall-Jones</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_HEAD_OF_GOVERNMENT_TITLE_CIVILIZATION_JFD_NEW_ZEALAND_18">
+			<Text>Joseph Ward</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_HEAD_OF_GOVERNMENT_TITLE_CIVILIZATION_JFD_NEW_ZEALAND_19">
+			<Text>Thomas Mackenzie</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_HEAD_OF_GOVERNMENT_TITLE_CIVILIZATION_JFD_NEW_ZEALAND_20">
+			<Text>William Massey</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_HEAD_OF_GOVERNMENT_TITLE_CIVILIZATION_JFD_NEW_ZEALAND_21">
+			<Text>Francis Bell</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_HEAD_OF_GOVERNMENT_TITLE_CIVILIZATION_JFD_NEW_ZEALAND_22">
+			<Text>Gordon Coates</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_HEAD_OF_GOVERNMENT_TITLE_CIVILIZATION_JFD_NEW_ZEALAND_23">
+			<Text>George Forbes</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_HEAD_OF_GOVERNMENT_TITLE_CIVILIZATION_JFD_NEW_ZEALAND_24">
+			<Text>Wizard of New Zealand</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_HEAD_OF_GOVERNMENT_TITLE_CIVILIZATION_JFD_NEW_ZEALAND_25">
+			<Text>Peter Fraser</Text>
+		</Row>
+		<!--Political Parties-->
+		<Row Tag="TXT_KEY_JFD_ASSEMBLY_JFD_MILITARY_JFD_NEW_ZEALAND">
+			<Text>NZ Defense Council</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_FACTION_JFD_NATIONALIST_JFD_NEW_ZEALAND">
+			<Text>National Front</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_FACTION_JFD_POPULARIST_JFD_NEW_ZEALAND">
+			<Text>New Zealand First</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_PARTY_JFD_BURGHERS_JFD_NEW_ZEALAND">
+			<Text>Middle Class</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_PARTY_JFD_CLERGY_JFD_NEW_ZEALAND">
+			<Text>Church of New Zealand</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_PARTY_JFD_COMMUNIST_JFD_NEW_ZEALAND">
+			<Text>Communist League</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_PARTY_JFD_CONSERVATIVE_JFD_NEW_ZEALAND">
+			<Text>National Party</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_PARTY_JFD_FASCIST_JFD_NEW_ZEALAND">
+			<Text>National Front</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_PARTY_JFD_LIBERAL_JFD_NEW_ZEALAND">
+			<Text>ACT</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_PARTY_JFD_LIBERTARIAN_JFD_NEW_ZEALAND">
+			<Text>Libertarianz</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_PARTY_JFD_NOBILITY_JFD_NEW_ZEALAND">
+			<Text>Aristocrats</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_PARTY_JFD_REACTIONARY_JFD_NEW_ZEALAND">
+			<Text>Heritage NZ</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_PARTY_JFD_REVOLUTIONARY_JFD_NEW_ZEALAND">
+			<Text>Pirate Party</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_PARTY_JFD_SOCIALIST_JFD_NEW_ZEALAND">
+			<Text>Labour Party</Text>
+		</Row>
+		<!--Titles-->
+		<!--City-State-->
+		<Row Tag="TXT_KEY_GOVERNMENT_JFD_TITLE_GOVERNMENT_JFD_PORT_VILLA">
+			<Text>Republic of Port Villa</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GOVERNMENT_JFD_TITLE_LEADER_JFD_PORT_VILLA">
+			<Text>President</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GOVERNMENT_JFD_TITLE_LEADER_JFD_PORT_VILLA_FEMININE">
+			<Text>President</Text>
+		</Row>
+		<!--Privy Councillors-->
+		<Row Tag="TXT_KEY_COUNCILLOR_JFD_CHANCELLOR_DESC_JFD_NEW_ZEALAND">
+			<Text>Deputy Prime Minister</Text>
+		</Row>
+		<Row Tag="TXT_KEY_COUNCILLOR_JFD_HERALD_DESC_JFD_NEW_ZEALAND">
+			<Text>Herald Extraordinary</Text>
+		</Row>
+		<Row Tag="TXT_KEY_COUNCILLOR_JFD_MARSHAL_DESC_JFD_NEW_ZEALAND">
+			<Text>Minister of Defence</Text>
+		</Row>
+		<Row Tag="TXT_KEY_COUNCILLOR_JFD_STEWARD_DESC_JFD_NEW_ZEALAND">
+			<Text>Minister of Finance</Text>
+		</Row>
+		<!--SUKRITACT DECISIONS -->
+		<!--Commemorate the ANZACS-->
+		<Row Tag="TXT_KEY_DECISIONS_JFD_NEW_ZEALAND_ANZACS">
+			<Text>Commemorate the ANZACS</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_JFD_NEW_ZEALAND_ANZACS_DESC">
+			<Text>
+				In honour of our brave soldiers, the Australian and New Zealand Army Corps, we commemorate their service to this nation and her allies by signing into law a national holiday marking a day upon which we pay respect to their sacrifices.
+				[NEWLINE]-------------------------
+				[NEWLINE][COLOR_POSITIVE_TEXT]Requirements:[ENDCOLOR]
+				[NEWLINE]-------------------------
+				[NEWLINE][ICON_BULLET]Player must be New Zealand.
+				[NEWLINE][ICON_BULLET]May only be enacted from the beginning of the Modern Era.
+				[NEWLINE][ICON_BULLET]May only be enacted once per game.
+				[NEWLINE]-------------------------
+				[NEWLINE][COLOR_POSITIVE_TEXT]Costs:[ENDCOLOR]
+				[NEWLINE]-------------------------
+				[NEWLINE][ICON_BULLET]2 {1_ResourceDesc}.
+				[NEWLINE]-------------------------
+				[NEWLINE][COLOR_POSITIVE_TEXT]Rewards:[ENDCOLOR]
+				[NEWLINE]-------------------------
+				[NEWLINE][ICON_BULLET]+10 XP for ANZAC units.
+				[NEWLINE][ICON_BULLET]Cities with a Military Garrison gain +1 [ICON_HAPPINESS_1] Local Happiness.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_JFD_NEW_ZEALAND_ANZACS_ENACTED_DESC">
+			<Text>
+				In honour of our brave soldiers, the Australian and New Zealand Army Corps, we commemorate their service to this nation and her allies by signing into law a national holiday marking a day upon which we pay respect to their sacrifices.
+				[NEWLINE]-------------------------
+				[NEWLINE][COLOR_POSITIVE_TEXT]Rewards:[ENDCOLOR]
+				[NEWLINE]-------------------------
+				[NEWLINE][ICON_BULLET]+10 XP for ANZAC units.
+				[NEWLINE][ICON_BULLET]Cities with a Military Garrison gain +1 [ICON_HAPPINESS_1] Local Happiness.
+			</Text>
+		</Row>
+		<!--Promulgate Imperial Ambitions-->
+		<Row Tag="TXT_KEY_DECISIONS_JFD_NEW_ZEALAND_IMPERIUM">
+			<Text>Promulgate Imperial Plans</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_JFD_NEW_ZEALAND_IMPERIUM_DESC">
+			<Text>It is in our blood to rule; our forefathers were imperialists, and so we should be, too. Let us then establish an imperial realm with which to carve a place of strength for us on the international stage.
+				[NEWLINE]-------------------------
+				[NEWLINE][COLOR_POSITIVE_TEXT]Requirements:[ENDCOLOR]
+				[NEWLINE]-------------------------
+				[NEWLINE][ICON_BULLET]Player must be New Zealand.
+				[NEWLINE][ICON_BULLET]May only be enacted from the beginning of the Industrial Era.
+				[NEWLINE][ICON_BULLET]May only be enacted once per game.
+				[NEWLINE]-------------------------
+				[NEWLINE][COLOR_POSITIVE_TEXT]Costs:[ENDCOLOR]
+				[NEWLINE]-------------------------
+				[NEWLINE][ICON_BULLET]{1_Num} [ICON_CULTURE] Culture.
+				[NEWLINE][ICON_BULLET]1 [ICON_MAGISTRATES] Magistrates.
+				[NEWLINE]-------------------------
+				[NEWLINE][COLOR_POSITIVE_TEXT]Rewards:[ENDCOLOR]
+				[NEWLINE]-------------------------
+				[NEWLINE][ICON_BULLET]Naval Units gain a 33% bonus vs cities.
+				[NEWLINE][NEWLINE][COLOR_NEGATIVE_TEXT]Note: The [ICON_CULTURE] Culture cost is equal to the cost of your next Social Policy.[ENDCOLOR]
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_JFD_NEW_ZEALAND_IMPERIUM_ENACTED_DESC">
+			<Text>It is in our blood to rule; our forefathers were imperialists, and so we should be, too. Let us then establish an imperial realm with which to carve a place of strength for us on the international stage.[NEWLINE]
+				[NEWLINE]-------------------------
+				[NEWLINE][COLOR_POSITIVE_TEXT]Rewards:[ENDCOLOR]
+				[NEWLINE]-------------------------
+				[NEWLINE][ICON_BULLET]Naval Units gain a 33% bonus vs cities.
+				[NEWLINE][NEWLINE][COLOR_NEGATIVE_TEXT]Note: The [ICON_CULTURE] Culture cost is equal to the cost of your next Social Policy.[ENDCOLOR]
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_WORLD_EVENT_JFD_NEW_ZEALAND_EMPIRE">
+			<Text>{1_LeaderDesc} of {2_CivName} has promulgated plans to expand his territory into an empire.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_DECISIONS_JFD_NEW_ZEALAND_EMPIRE">
+			<Text>Imperial Ambitions</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_DECISIONS_JFD_NEW_ZEALAND_EMPIRE_HELP">
+			<Text>+33% Bonus vs. Cities</Text>
+		</Row>
+		<!--SUKRITACT EVENTS-->
+		<!--World Heritage Site-->
+		<Row Tag="TXT_KEY_EVENT_JFD_NEW_ZEALAND_WORLD_HERITAGE_SITE">
+			<Text>World Heritage Site</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_JFD_NEW_ZEALAND_WORLD_HERITAGE_SITE_DESC">
+			<Text>An international committee has recently voted to declare {1_CityName} a world heritage site because of its environmental significance. Such a status will surely bring in many new tourists to visit our country.[NEWLINE]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_JFD_NEW_ZEALAND_WORLD_HERITAGE_SITE_OUTCOME_1">
+			<Text>Excellent. Charge them exorbitant rates to see it!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_JFD_NEW_ZEALAND_WORLD_HERITAGE_SITE_OUTCOME_RESULT_1">
+			<Text>[ICON_BULLET][COLOR_POSITIVE_TEXT]{1_CityName} yields +2 [ICON_TOURISM] Tourism and +3 [ICON_GOLD] Gold[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_JFD_NEW_ZEALAND_WORLD_HERITAGE_SITE_OUTCOME_RESULT_1_NOTIFICATION">
+			<Text>We have decided to monetize the World Heritage status bestown upon one of our cities.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_JFD_NEW_ZEALAND_WORLD_HERITAGE_SITE_OUTCOME_2">
+			<Text>Wonderful. We must cherish this site for future generations.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_JFD_NEW_ZEALAND_WORLD_HERITAGE_SITE_OUTCOME_RESULT_2">
+			<Text>[ICON_BULLET][COLOR_POSITIVE_TEXT]{1_CityName} yields +2 [ICON_TOURISM] Tourism and +2 [ICON_CULTURE] Culture[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_JFD_NEW_ZEALAND_WORLD_HERITAGE_SITE_OUTCOME_RESULT_2_NOTIFICATION">
+			<Text>We have decided to protect the World Heritage status bestown upon one of our cities.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_WORLD_EVENT_JFD_NEW_ZEALAND_WORLD_HERITAGE_SITE">
+			<Text>An international committee has declared the New Zealand city of {1_CityName} to be a World Heritage Site.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_EVENTS_JFD_WORLD_HERITAGE_GOLD">
+			<Text>World Heritage Site</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_EVENTS_JFD_WORLD_HERITAGE_CULTURE">
+			<Text>World Heritage Site</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_EVENTS_JFD_WORLD_HERITAGE_GOLD_HELP">
+			<Text>+2 [ICON_TOURISM] Tourism</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_EVENTS_JFD_WORLD_HERITAGE_CULTURE_HELP">
+			<Text>+2 [ICON_TOURISM] Tourism</Text>
+		</Row>
+		<!--Naval Invasion-->
+		<Row Tag="TXT_KEY_EVENT_JFD_NEW_ZEALAND_NAVAL_INVASION">
+			<Text>Naval Invasion</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_JFD_NEW_ZEALAND_NAVAL_INVASION_DESC">
+			<Text>The independent paper 'Southern Cross' has reported of the sudden declaration of war between the {2_CivName} and the {1_CivName}. With {3_CivName} a stern ally of ours, the paper has reported that it can only be too long before {4_CivName} seeks an invasion by sea of New Zealand.[NEWLINE]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_JFD_NEW_ZEALAND_NAVAL_INVASION_OUTCOME_1">
+			<Text>We must bolster the defense of our coasts!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_JFD_NEW_ZEALAND_NAVAL_INVASION_OUTCOME_RESULT_1">
+			<Text>[ICON_BULLET][COLOR_NEGATIVE_TEXT]Lose {1_Num} [ICON_GOLD] Gold[ENDCOLOR][NEWLINE][ICON_BULLET][COLOR_POSITIVE_TEXT]Receive a free {2_UnitName} for each coastal city in the empire[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_JFD_NEW_ZEALAND_NAVAL_INVASION_OUTCOME_RESULT_1_NOTIFICATION">
+			<Text>We have dismissed the claim of an impending naval invasion as a hoax.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_JFD_NEW_ZEALAND_NAVAL_INVASION_OUTCOME_2">
+			<Text>This is clearly a hoax. What nonsense.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_JFD_NEW_ZEALAND_NAVAL_INVASION_OUTCOME_RESULT_2">
+			<Text>[ICON_BULLET][COLOR_NEGATIVE_TEXT]Nothing[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_JFD_NEW_ZEALAND_NAVAL_INVASION_OUTCOME_RESULT_2_NOTIFICATION">
+			<Text>In light of news of an impending invasion by sea, we have paid to bolster the coastal defenses of New Zealand.</Text>
+		</Row>
+		<!--VICEVIRTUOSO WISH FOR THE WORLD-->
+		<Row Tag="TXT_KEY_PMMM_LEADER_MG_NAME_JFD_NEW_ZEALAND">
+			<Text>Louisa Jane Spotswood</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

@@ -1,0 +1,233 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<Language_en_US>
+		<Row Tag="TXT_KEY_PROMOTION_LS_BENIN_IYA_1">
+			<Text>Iya I</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_LS_BENIN_IYA_1_HELP">
+			<Text>+5% Defense Bonus</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_LS_BENIN_IYA_2">
+			<Text>Iya II</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_LS_BENIN_IYA_2_HELP">
+			<Text>+8% Defense Bonus</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_LS_BENIN_IYA_3">
+			<Text>Iya III</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_LS_BENIN_IYA_3_HELP">
+			<Text>+11% Defense Bonus</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_LS_BENIN_IYA_4">
+			<Text>Iya IV</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_LS_BENIN_IYA_4_HELP">
+			<Text>+14% Defense Bonus</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_LS_BENIN_IYA_5">
+			<Text>Iya V</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_LS_BENIN_IYA_5_HELP">
+			<Text>+17% Defense Bonus</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_LS_BENIN_IYA_6">
+			<Text>Iya VI</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_LS_BENIN_IYA_6_HELP">
+			<Text>+20% Defense Bonus</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_PROMOTION_LS_BENIN_1">
+			<Text> </Text>
+		</Row>
+		<Row Tag="TXT_KEY_IMPROVEMENT_LS_BENIN">
+			<Text>Iya</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_IMPROVEMENT_LS_BENIN_TEXT">
+			<Text>The Walls of Benin were a combination of ramparts and moats, called Iya in the local language, used as a defense of the defunct Kingdom of Benin, which is present-day Benin City, the capital of present-day Edo, Nigeria. It was considered the largest man-made structure lengthwise and was hailed as the largest earthwork in the world. It is larger than Sungbo's Eredo.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_IMPROVEMENT_LS_BENIN_HELP">
+			<Text>Unique Beninese construction. Can be created between the plots after Construction is discovered. Iya grants defensive bonus to units (+5/8/11/14/17/20%) and increases hitpoints of cities (+10/16/22/28/34/40 HP). In addition, any enemy land unit crossing the Iya will have its whole movement removed, but may destroy an Iya in the process.</Text>
+		</Row>
+
+
+		<Row Tag="TXT_KEY_UNIT_LS_BENIN">
+			<Text>Ekaiwe</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_UNITS_LS_BENIN_TEXT">
+			<Text>The semblance of a standing army was the royal regiment divided into two units, namely the Ekaiwe (royal troops) and the Isienmwenro (royal guards) which had the appellation of Asaka no s’Okhionba, meaning the ‘soldier ants that stings the king’s enemies.’ Finally, the army high command was constituted by four officers: the Oba as Supreme Military Commander, Iyase as General Commander, Ezomo as Senior War Commander, and Edogun as a war chief and commander of the royal troops.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_LS_BENIN_STRATEGY">
+			<Text>The Ekaiwe are the Beninese unique unit, replacing the Longswordsman. Ekaiwe's main role is standing next to rival city as a tank by gaining extra combat strength.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_HELP_LS_BENIN">
+			<Text>Powerful Medieval infantry Unit. Only Benin may build it. More powerful, when adjacent to rival city with less Building Defense than one of your cities (up to +10 [ICON_STRENTGTH]).</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILD_LS_BENIN">
+			<Text>Construct an Iya</Text>
+		</Row>
+		
+
+		<Row Tag="TXT_KEY_BENIN_LS_MOD_DESC">
+			<Text>Kingdom of Benin</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BENIN_LS_MOD_SHORT_DESC">
+			<Text>Benin</Text>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_BENIN_LS_MOD_ADJECTIVE">
+			<Text>Beninese</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BENIN_LS_MOD">
+			<Text>Kingdom of Benin</Text>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_DAWN_OF_MAN_BENIN_LS_MOD_TEXT">
+			<Text>May the blessings of all the Gods be upon you Ewuare, leader of the Edo people! For many years your kingdom was one of the minor states of West Africa, until the middle of the 15th century, when you secured the sources of Iron and crashed your neighbours, which created empire of Benin, the most developed kingdom of region. At its maximum extent, the empire extended from the western Ibo tribes on the shores of the Niger river, through parts of the southwestern region of Nigeria. The state developed an advanced artistic culture, especially in its famous artifacts of bronze, iron and ivory. Beninese legacy vanished after the British invasion in 1897.[NEWLINE][NEWLINE]Oba Ewaure, your people doesn't deserve your leadership. Shall you make them powerful and fearful, by crashing weaklings and securing borders. Can you save them from failure and despair? Can you build a civilization that will stand the test of time?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_BENIN_LS_MOD_DESC">
+			<Text>Ewuare I</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_BENIN_LS_MOD_PEDIA_LIVED">
+			<Text>???-1473</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_BENIN_LS_MOD_PEDIA_NAME">
+			<Text>Ewuare I</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_BENIN_LS_MOD_PEDIA_SUBTITLE">
+			<Text>Leader of the Benin</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_BENIN_LS_MOD_NAME">
+			<Text>Ewuare I</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_BENIN_LS_MOD_SUBTITLE">
+			<Text>King</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_BENIN_LS_MOD_TITLES_1">
+			<Text>Emperor</Text>
+		</Row>
+
+
+		<Row Tag="TXT_KEY_TRAIT_BENIN_LS_MOD_SHORT">
+			<Text>Igodomigodo</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_BENIN_LS_MOD">
+			<Text>Citadels may perform ranged strikes. Cities that haven't been able to use normal ranged strike for a long time, can perfom special ranged strike against near cities.</Text>
+		</Row>
+
+
+		<Row Tag="TXT_KEY_CITY_NAME_BENIN_LS_MOD_1">
+			<Text>Edo</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_BENIN_LS_MOD_2">
+			<Text>Ife</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_BENIN_LS_MOD_3">
+			<Text>Oyo</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_BENIN_LS_MOD_4">
+			<Text>Lagos</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_BENIN_LS_MOD_5">
+			<Text>Idaban</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_BENIN_LS_MOD_6">
+			<Text>Abeokuta</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_BENIN_LS_MOD_7">
+			<Text>Akure</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_BENIN_LS_MOD_8">
+			<Text>Ilorin</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_BENIN_LS_MOD_9">
+			<Text>Ijebu Odi</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_BENIN_LS_MOD_10">
+			<Text>Ogbomoso</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_BENIN_LS_MOD_11">
+			<Text>Ondo</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_BENIN_LS_MOD_12">
+			<Text>Ota</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_BENIN_LS_MOD_13">
+			<Text>Shagamu</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_BENIN_LS_MOD_14">
+			<Text>Iseyin</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_BENIN_LS_MOD_15">
+			<Text>Osogbo</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_BENIN_LS_MOD_16">
+			<Text>Ilesha</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_BENIN_LS_MOD_17">
+			<Text>Cotonou</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_BENIN_LS_MOD_18">
+			<Text>Ouidah</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_BENIN_LS_MOD_19">
+			<Text>Lokossa</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_BENIN_LS_MOD_20">
+			<Text>Abomey</Text>
+		</Row>
+
+
+
+		<Row Tag="TXT_KEY_SPY_NAME_BENIN_LS_MOD_0">
+			<Text>Eweka</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_BENIN_LS_MOD_1">
+			<Text>Ewedo</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_BENIN_LS_MOD_2">
+			<Text>Orobiru</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_BENIN_LS_MOD_3">
+			<Text>Henmihen</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_BENIN_LS_MOD_4">
+			<Text>Ohen</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_BENIN_LS_MOD_5">
+			<Text>Efe</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_BENIN_LS_MOD_6">
+			<Text>Esohe</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_BENIN_LS_MOD_7">
+			<Text>Osayemwenre</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_BENIN_LS_MOD_8">
+			<Text>Osarobo</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_BENIN_LS_MOD_9">
+			<Text>Nekpen</Text>
+			<Gender>feminine</Gender>
+		</Row>
+
+
+		<Row Tag="TXT_KEY_LEADER_BENIN_LS_MOD_FIRST_GREETING_1">
+			<Text>I hope you don't feel inferior due to the greatness of my empire. We shall together lead your nation to better future.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_BENIN_LS_MOD_FIRST_GREETING_2">
+			<Text>The Oba of Benin greets you. The rules are simple, respect for respect, blood for blood.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_BENIN_LS_MOD_DEFEATED_1">
+			<Text>The greater the wall, the greater the invader.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_BENIN_LS_MOD_DEFEATED_2">
+			<Text>Seems like your defensive structure are unparalleled.</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

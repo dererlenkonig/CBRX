@@ -1,0 +1,98 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mod id="9bafcef2-e829-4e11-978e-592fd9bb16bd" version="11">
+  <Properties>
+    <Name>Qin Empire</Name>
+    <Teaser>[COLOR_YELLOW]Add a Civilization: Qin, led by Ying Zheng, the first Emperor of China.[ENDCOLOR]</Teaser>
+    <Description>Add a Civilization: Qin, led by Ying Zheng, the first Emperor of China.</Description>
+    <Authors>CaptainCWB</Authors>
+    <SpecialThanks>William Howard(UnitPanel.lua); MMC [Ygdi](French)</SpecialThanks>
+    <HideSetupGame>0</HideSetupGame>
+    <AffectsSavedGames>1</AffectsSavedGames>
+    <MinCompatibleSaveVersion>0</MinCompatibleSaveVersion>
+    <SupportsSinglePlayer>1</SupportsSinglePlayer>
+    <SupportsMultiplayer>1</SupportsMultiplayer>
+    <SupportsHotSeat>1</SupportsHotSeat>
+    <SupportsMac>1</SupportsMac>
+    <ReloadAudioSystem>1</ReloadAudioSystem>
+    <ReloadLandmarkSystem>1</ReloadLandmarkSystem>
+    <ReloadStrategicViewSystem>1</ReloadStrategicViewSystem>
+    <ReloadUnitSystem>1</ReloadUnitSystem>
+  </Properties>
+  <Dependencies />
+  <References>
+    <Mod id="9f4a5a16-fe57-49b1-9ead-e3dc5ccaa30c" minversion="0" maxversion="999" title="GPR WORLD SP" />
+    <Mod id="0e3482c6-f74a-4fca-ab3c-fb97036b08af" minversion="0" maxversion="999" title="SuperPower Complete Edition" />
+    <Mod id="d08be507-23c0-4c15-af11-31b8ee567387" minversion="0" maxversion="999" title="Super Power: Clash of Civilizations" />
+  </References>
+  <Blocks />
+  <Files>
+    <File md5="53182426F39E281FB396D0D0BF15D7C6" import="1">ART/Icons/QinSymbolAtlas16.dds</File>
+    <File md5="0C3B8B69A1FEE185431E26D366A0B909" import="1">ART/Icons/QinSymbolAtlas24.dds</File>
+    <File md5="C2048B7E48B923B6D343D7E389EEA174" import="1">ART/Icons/QinSymbolAtlas32.dds</File>
+    <File md5="B0FF9C8ED3FE9E735F795D357B36E1EE" import="1">ART/Icons/QinSymbolAtlas48.dds</File>
+    <File md5="CB01E2B53E3039282FEC7E4589CA3B3A" import="1">ART/Icons/QinSymbolAtlas64.dds</File>
+    <File md5="70D78C6D3E07D99E435C31CB53D297B8" import="1">ART/Icons/QinSymbolAtlas128.dds</File>
+    <File md5="050C875BEBA0BD26BA817D53535BC09E" import="1">ART/Icons/QinSymbolColor32.dds</File>
+    <File md5="13117A30A9F1CDB29312FE0969DEDAA0" import="1">ART/Icons/QinSymbolColor45.dds</File>
+    <File md5="AA38220929167FC8B8708E7A47924882" import="1">ART/Icons/QinSymbolColor64.dds</File>
+    <File md5="682A5A265AE5A9A1F34D15793D4B7063" import="1">ART/Icons/QinSymbolColor80.dds</File>
+    <File md5="DC756A5C51C46F01FDC22187FADB9BDB" import="1">ART/Icons/QinSymbolColor128.dds</File>
+    <File md5="FF32430CF632A388B21035DC452DD746" import="1">ART/Icons/QinSymbolColor256.dds</File>
+    <File md5="F3729C6B60F1C3E8B418638943E439F5" import="1">ART/Icons/UnitFlagAtlas32_X.dds</File>
+    <File md5="63F48BDBF88FAFDC6F3B78F6E254134F" import="1">ART/Icons/UnitPortraits45_X.dds</File>
+    <File md5="E9BB9368922D12FE5DB410C96FA5E22B" import="1">ART/Icons/UnitPortraits64_X.dds</File>
+    <File md5="33172255643D8B860A197F1AE934D46B" import="1">ART/Icons/UnitPortraits80_X.dds</File>
+    <File md5="B25D9952E63CA6585CA55ED5498E1A0A" import="1">ART/Icons/UnitPortraits128_X.dds</File>
+    <File md5="4185991CF51AB48E06180FBF39F599BB" import="1">ART/Icons/UnitPortraits256_X.dds</File>
+    <File md5="8FC87487BE35D8D3F08D37881297886E" import="1">ART/Icons/YZPortraits_64.dds</File>
+    <File md5="2CEBE0CF23116B3A2F684A9926B9D5C0" import="1">ART/Icons/YZPortraits_128.dds</File>
+    <File md5="ED1D1A8D8BDC117DEDC0000D8695BD38" import="1">ART/Icons/YZPortraits_256.dds</File>
+    <File md5="35896C07B61E01A06815FD0E2BDD38C0" import="1">ART/Models/QinNu/Crossbowman_China.gr2</File>
+    <File md5="6F812209C11DE8277EC5DC581E70840D" import="1">ART/Models/QinNu/Crossbowman_China.fxsxml</File>
+    <File md5="9BD72CC4F7454A5CFEF5F9F9A323F56C" import="1">ART/Models/QinNu/Crossbowman_China.blend</File>
+    <File md5="83836DCBAD67484DA56E5F9F0CA33951" import="1">ART/Models/QinNu/Crossbowman_China.dds</File>
+    <File md5="DA42E5C1C7EAC07D9C0AEEC93DB97174" import="1">ART/Models/QinNu/Crossbowman_China_gloss.dds</File>
+    <File md5="3CDFAA21B18A367236C65345CBC74386" import="1">ART/Models/RuiShi/Horseman_China.blend</File>
+    <File md5="5593F84EB093F99A928DCBF7264C3D79" import="1">ART/Models/RuiShi/Horseman_China.dds</File>
+    <File md5="9A29DE76ECA77BAE3605321970891B0A" import="1">ART/Models/RuiShi/Horseman_China.fxsxml</File>
+    <File md5="D39FADEA7CC5F1CAA163BBF0A67CA379" import="1">ART/Models/RuiShi/Horseman_China.gr2</File>
+    <File md5="3A7A06F4F73960C0ABE9F88B58734892" import="1">ART/Models/RuiShi/Horseman_China_gloss.dds</File>
+    <File md5="651AD041BBB81FA07E533C347AB2382D" import="1">ART/Models/RuiShi/Horseman_China_Horse.dds</File>
+    <File md5="AC41C06BA721315512F26433220FEDF7" import="1">ART/Models/RuiShi/no_gloss.dds</File>
+    <File md5="BFFFC6ADA2A0E59FB440D8BE36F31AF5" import="1">ART/StrategicView/SV_QinNu.dds</File>
+    <File md5="34212621802D0D79E5CA41C98E186C60" import="1">ART/StrategicView/SV_RuiShi.dds</File>
+    <File md5="B97D5F3AFB909881A651D3CDE0A55331" import="1">ART/DOM_QIN.dds</File>
+    <File md5="7E8FD3F9E5182751D1728AB6AF465F71" import="1">ART/MAP_QIN.dds</File>
+    <File md5="B08007C7D1BEBC26FF71635D1A213734" import="1">ART/YZ_X_Scene.dds</File>
+    <File md5="06BA1731E2253E2B32FF02589D7C224F" import="1">ART/YZ_X_Scene.xml</File>
+    <File md5="4675E45E56D3B7770C99A86586B80522" import="1">AUDIO/Qin.mp3</File>
+    <File md5="D082A410DCE9A7790BBC914C5AF0D07B" import="1">AUDIO/YingZheng_Peace.ogg</File>
+    <File md5="94F41CFE4703F87B4B6EFD87293181FA" import="1">AUDIO/YingZheng_War.ogg</File>
+    <File md5="21F52C87E5549D9D9CC4922F84AF653C" import="1">CODE/UnitPanel/UnitPanel.lua</File>
+    <File md5="92D1698361ACA07595902C9E705A6D87" import="1">CODE/UnitPanel/UnitPanel.xml</File>
+    <File md5="093A99F12266C132D11AFCFFA9BCBCD5" import="1">CODE/UnitPanel/UnitPanel_small.xml</File>
+    <File md5="F12AE7BDC16889BB2DB3CAC0CA0D2BA4" import="0">CODE/TextInfos/Text_en_US.xml</File>
+    <File md5="C578A67E81DB5B85E064A56E7A095F45" import="0">CODE/TextInfos/Text_fr_FR.xml</File>
+    <File md5="4DCF8D5F7DFFC6ABB6BCD9E55BD029B3" import="0">CODE/TextInfos/Text_zh_CN.xml</File>
+    <File md5="9C62D68D79156B2C0A2D59DEFB4B2CE4" import="0">CODE/TextInfos/Text_zh_Hant_HK.xml</File>
+    <File md5="CF712E783D2B906BDC0125BCDF9E400C" import="0">CODE/QinCompatibility.sql</File>
+    <File md5="F6D743954CB90B3DC10F2530809CE11B" import="0">CODE/QinDefines.xml</File>
+    <File md5="53DCC8F563FFB1F6077CFC1C62A5F72B" import="0">CODE/QinTrait.lua</File>
+  </Files>
+  <Actions>
+    <OnModActivated>
+      <UpdateDatabase>CODE/TextInfos/Text_en_US.xml</UpdateDatabase>
+      <UpdateDatabase>CODE/TextInfos/Text_fr_FR.xml</UpdateDatabase>
+      <UpdateDatabase>CODE/TextInfos/Text_zh_CN.xml</UpdateDatabase>
+      <UpdateDatabase>CODE/TextInfos/Text_zh_Hant_HK.xml</UpdateDatabase>
+      <UpdateDatabase>CODE/QinCompatibility.sql</UpdateDatabase>
+      <UpdateDatabase>CODE/QinDefines.xml</UpdateDatabase>
+    </OnModActivated>
+  </Actions>
+  <EntryPoints>
+    <EntryPoint type="InGameUIAddin" file="CODE/QinTrait.lua">
+      <Name>Qin Trait</Name>
+      <Description />
+    </EntryPoint>
+  </EntryPoints>
+</Mod>

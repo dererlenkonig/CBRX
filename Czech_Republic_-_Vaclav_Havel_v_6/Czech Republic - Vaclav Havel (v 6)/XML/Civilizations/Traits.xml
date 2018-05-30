@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<Traits>
+		<Row>
+			<Type>TRAIT_TRUTH_PREVAILS</Type>
+			<Description>TXT_KEY_TRAIT_TRUTH_PREVAILS</Description>
+			<ShortDescription>TXT_KEY_TRAIT_TRUTH_PREVAILS_SHORT</ShortDescription>	
+		</Row>
+	</Traits>
+	
+	<Trait_ImprovementYieldChanges>
+		<Row>
+			<TraitType>TRAIT_TRUTH_PREVAILS</TraitType>
+			<ImprovementType>IMPROVEMENT_ACADEMY</ImprovementType>
+			<YieldType>YIELD_PRODUCTION</YieldType>
+			<Yield>2</Yield>
+		</Row>
+		<Row>
+			<TraitType>TRAIT_TRUTH_PREVAILS</TraitType>
+			<ImprovementType>IMPROVEMENT_MANUFACTORY</ImprovementType>
+			<YieldType>YIELD_SCIENCE</YieldType>
+			<Yield>2</Yield>
+		</Row>
+	</Trait_ImprovementYieldChanges>
+	<Trait_SpecialistYieldChanges>
+		<Row>
+			<TraitType>TRAIT_TRUTH_PREVAILS</TraitType>
+			<SpecialistType>SPECIALIST_SCIENTIST</SpecialistType>
+			<YieldType>YIELD_PRODUCTION</YieldType>
+			<Yield>2</Yield>
+		</Row>
+		<Row>
+			<TraitType>TRAIT_TRUTH_PREVAILS</TraitType>
+			<SpecialistType>SPECIALIST_ENGINEER</SpecialistType>
+			<YieldType>YIELD_SCIENCE</YieldType>
+			<Yield>2</Yield>
+		</Row>
+	</Trait_SpecialistYieldChanges>
+
+	
+	
+</GameData>

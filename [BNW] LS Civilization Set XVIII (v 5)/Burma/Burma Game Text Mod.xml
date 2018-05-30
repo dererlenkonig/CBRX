@@ -1,0 +1,204 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<Language_en_US>
+		<Row Tag="TXT_KEY_UNIT_LS_BURMA">
+			<Text>Sagaing Htaungthin</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_HELP_LS_BURMA">
+			<Text>Fast and powerful early game Mounted Unit. Weak to Spearmen. Only Burma may build it. This Unit may become stronger with each combat (+2% [ICON_STRENTGH] and +2 Heal Rate) up to +20%. Upon achieving maximal bonus, unit is granted also a leadership bonus.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_LS_BURMA_STRATEGY">
+			<Text>Fast and powerful early game Mounted Unit. Weak to Spearmen. Only Burma may build it. This Unit becomes stronger and stronger with each combat.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_LS_BURMA_TEXT">
+			<Text>Sagaing Htaungthin are Burmese unique units, replacing the Horseman. They can move after attacking. Sagaing Htaungthin are mounted, and still vulnerable to Spearmen and Pikemen attack.</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_PROMOTION_LS_BURMA_UNIT_X">
+			<Text> </Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_LS_BURMA_UNIT_X_HELP">
+			<Text>With every combat has a chance to become stronger.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_LS_BURMA_UNIT_X_PEDIA">
+			<Text>Noble Training</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_IMPROVEMENT_LS_BURMA">
+			<Text>Stupa</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_IMPROVEMENT_LS_BURMA_TEXT">
+			<Text>Burmese pagodas are stupas that typically house Buddhist relics, including relics associated with Buddha. Pagodas feature prominently in Myanmar's landscape, earning the country the moniker "land of pagodas." Several cities in the country, including Mandalay and Bagan, are known for their abundance of pagodas. Pagodas are the site of seasonal pagoda festivals.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_IMPROVEMENT_LS_BURMA_HELP">
+			<Text>Unique Burmese construction. Can be created on Improvements or in city after Theology is discovered. Rerolls the base yields of a tile. If plot with Stupa is not worked for 15 turns, the yields are rerolled again.</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_BUILD_LS_BURMA">
+			<Text>Construct a Stupa</Text>
+		</Row>
+
+
+		
+		<Row Tag="TXT_KEY_BURMA_LS_MOD_DESC">
+			<Text>Burmese Empire</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BURMA_LS_MOD_SHORT_DESC">
+			<Text>Burma</Text>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_BURMA_LS_MOD_ADJECTIVE">
+			<Text>Burmese</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BURMA_LS_MOD">
+			<Text>Burmese Empire</Text>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_DAWN_OF_MAN_BURMA_LS_MOD_TEXT">
+			<Text>The Blessings of Heaven be upon you. Emperor Anawrahta, most glorious and wise leader of Burma! Oh great Emperor, the founder of the Pagan Empire and the father of the Burmese nation! You are the leader of the Myanmar, the ancient and magnificent civilization of the east. Burmese history stretches back to the Pyu city-states in Upper Burma and the Mon kingdoms in Lower Burma. You have unified the entire Irrawaddy valley for the first time in history, and placed peripheral regions such as the Shan States and Arakan under your suzerainty. You successfully stopped the advance of Khmer Empire into Tenasserim coastline and into Upper Menam valley, making Burma one of two main kingdoms in mainland Southeast Asia.[NEWLINE][NEWLINE]You, great King, who, with wisdom and grace, build a first Burmese Empire - your people call out to you to lead them! Myanmar is once again beset on all sides by filthy invaders. Can you defeat all your many foes and return your country to greatness? Can you build a civilization to stand the test of time?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_BURMA_LS_MOD_DESC">
+			<Text>Anawrahta</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_BURMA_LS_MOD_PEDIA_LIVED">
+			<Text>1044-1077</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_BURMA_LS_MOD_PEDIA_NAME">
+			<Text>Anawrahta</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_BURMA_LS_MOD_PEDIA_SUBTITLE">
+			<Text>Leader of the Burma</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_BURMA_LS_MOD_NAME">
+			<Text>Anawrahta</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_BURMA_LS_MOD_SUBTITLE">
+			<Text>King</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_BURMA_LS_MOD_TITLES_1">
+			<Text>Emperor</Text>
+		</Row>
+
+
+		<Row Tag="TXT_KEY_TRAIT_BURMA_LS_MOD_SHORT">
+			<Text>Bagan plains</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_BURMA_LS_MOD">
+			<Text>Cities' [ICON_HAPPINESS_1] Happiness is increased by working tiles with [ICON_PEACE] Faith output.</Text>
+		</Row>
+
+
+		<Row Tag="TXT_KEY_CITY_NAME_BURMA_LS_MOD_1">
+			<Text>Bagan</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_BURMA_LS_MOD_2">
+			<Text>Minbu</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_BURMA_LS_MOD_3">
+			<Text>Bassein</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_BURMA_LS_MOD_4">
+			<Text>Prome</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_BURMA_LS_MOD_5">
+			<Text>Kyaukse</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_BURMA_LS_MOD_6">
+			<Text>Tagaung</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_BURMA_LS_MOD_7">
+			<Text>Bhamo</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_BURMA_LS_MOD_8">
+			<Text>Arakan</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_BURMA_LS_MOD_9">
+			<Text>Thaton</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_BURMA_LS_MOD_10">
+			<Text>Halin</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_BURMA_LS_MOD_11">
+			<Text>Maingmaw</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_BURMA_LS_MOD_12">
+			<Text>Binnaka</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_BURMA_LS_MOD_13">
+			<Text>Beikthano</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_BURMA_LS_MOD_14">
+			<Text>Sri Ksetra</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_BURMA_LS_MOD_15">
+			<Text>Ava</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_BURMA_LS_MOD_16">
+			<Text>Mohnyin</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_BURMA_LS_MOD_17">
+			<Text>Pegu</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_BURMA_LS_MOD_18">
+			<Text>Mone</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_BURMA_LS_MOD_19">
+			<Text>Thibaw</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_BURMA_LS_MOD_20">
+			<Text>Dala</Text>
+		</Row>
+
+
+
+		<Row Tag="TXT_KEY_SPY_NAME_BURMA_LS_MOD_0">
+			<Text>Htet</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_BURMA_LS_MOD_1">
+			<Text>Kyaw</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_BURMA_LS_MOD_2">
+			<Text>Min</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_BURMA_LS_MOD_3">
+			<Text>Lin</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_BURMA_LS_MOD_4">
+			<Text>Phyo</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_BURMA_LS_MOD_5">
+			<Text>Thiri</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_BURMA_LS_MOD_6">
+			<Text>Zaw</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_BURMA_LS_MOD_7">
+			<Text>Kay</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_BURMA_LS_MOD_8">
+			<Text>Nandar</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_BURMA_LS_MOD_9">
+			<Text>Thandar</Text>
+			<Gender>feminine</Gender>
+		</Row>
+
+
+		<Row Tag="TXT_KEY_LEADER_BURMA_LS_MOD_FIRST_GREETING_1">
+			<Text>Wonderful. There is only one thing worse than solitude... meeting a rival.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_BURMA_LS_MOD_FIRST_GREETING_2">
+			<Text>Experience says that you are next invader, but hope believes you are friend.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_BURMA_LS_MOD_DEFEATED_1">
+			<Text>Ha! What could possibly achieve by conquering my kingdom? Definitely not glory.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_BURMA_LS_MOD_DEFEATED_2">
+			<Text>What a savagery! I bet people were burning books in your country not so long ago!</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

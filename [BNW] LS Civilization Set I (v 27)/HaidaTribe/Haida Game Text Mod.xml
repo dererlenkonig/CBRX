@@ -1,0 +1,469 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<Language_en_US>
+		<Row Tag="TXT_KEY_HAIDA_MOD_LS_ADJECTIVE">
+			<Text>Haida</Text>
+		</Row>
+		<Row Tag="TXT_KEY_HAIDA_MOD_LS_DESC">
+			<Text>Haida Tribe</Text>
+		</Row>
+		<Row Tag="TXT_KEY_HAIDA_MOD_LS_SHORT_DESC">
+			<Text>Haida</Text>
+			<Plurality>2</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_HAIDA_MOD_LS_HEADING_1">
+			<Text>The Haida People</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_HAIDA_MOD_LS_TEXT_1">
+			<Text>One of the many indiginous tribes of North America, the Haida stand apart as an island people. Realted to the Tlingit and Tsimshian peoples, Haida society was organised around a clan system with stratified ranks of noble, commoner and slave. There were two mjor clans, determined through the maternal line. These clans were then subdivided into lineages. The Haida are especially talented woodworkers, weavers and sailors; they have been credited with the first use of the totem pole. While their maritime behaviour lead them to establish many peaceful trade routes with the colonialists, locally they were feared warriors who practised slavery. For this reason they have often been called 'the Vikings of North America'. Today the Haida reserves on the main island of Haida Gawaii have banded together to create the Council of the Haida Nation. They are experiencing a cultural resurgence.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_HAIDA_MOD_LS_HEADING_2">
+			<Text>History of the Haida</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_HAIDA_MOD_LS_TEXT_2">
+			<Text>Oral histories and archaeological evidence indicate that the Haida have occupied Haida Gwaii for over 17,000 years. In that time Haidas established an intimate connection with the lands and oceans of Haida Gwaii, established highly structured societies, and constructed many villages.The Haida have occupied southern Alaska for over the last 200 years, the modern group having emigrated from Haida Gwaii in the 18th Century.[NEWLINE][NEWLINE]The Haida were important trading partners with Russian, Spanish, British, and American fur traders and whalers. According to sailing records they diligently maintained strong trade relationships with westerners, coastal people, and among themselves.Haidas were particularly well known for their large red-cedar canoes.[NEWLINE][NEWLINE]Between 1780 and 1830, the Haida turned their aggression towards European and American traders. Among the half-dozen ships the tribe captured were the Eleanor and the Susan Sturgis. The tribe made use of the weapons they so acquired, utilizing cannons and canoe-mounted swivel guns.[NEWLINE][NEWLINE]The introduction of small pox among the Haida at Victoria in March 1862 significantly reduced their sovereignty over their traditional territories, and opened the doorway to colonial power.As many as 9 in 10 Haidas died of smallpox.[NEWLINE][NEWLINE]In 1885 the Haida potlatch (Haida: waahlgahl) was illegalized under the Potlatch Ban. The elimination of the potlatch system eliminated financial relationships and seriously interrupted the cultural heritage of coastal people.[NEWLINE][NEWLINE]Missionaries regarded Haida totem poles as graven images rather than intimate representations of the family histories that wove Haida society together. As the islands were Christianized many such cultural works were destroyed or taken to museums around the world. This significantly undermined Haida self-knowledge and further diminished morale.[NEWLINE][NEWLINE]In 1856, an expedition in search of a route across Vancouver Island was at the mouth of the Qualicum River when they observed a large fleet of Haida canoes approaching and hid in the forest. They observed these attackers holding human heads. When they came to the mouth of the river, they came upon the charred remains of the village of the Qualicum people and the mutilated bodies of its inhabitants, with only one survivor, an elderly woman, hiding terrified inside a tree stump. Also in 1856, the USS Massachusetts was sent from Seattle to nearby Port Gamble, where indigenous raiding parties made up of Haida (from territory claimed by the British) and Tongass (from territory claimed by the Russians) had been attacking and enslaving the Coast Salish people there. When the Haida and Tongass (sea lion tribe Tlingit) warriors refused to acknowledge American jurisdiction and to hand over those among them who had attacked the Puget Sound communities, a battle ensued in which 26 natives and one government soldier were killed. In the aftermath of this, Colonel Isaac Ebey, a US military officer and the first settler on Whidbey Island, was shot and beheaded on 11 August 1857 by a small Haida fleet, in retaliation for the killing of a respected Haida citizen during similar raids the year before. British authorities demurred to pursue or confront any northern indigenous nations as they passed northward through waters over which the British nevertheless claimed sovereignty and Ebey's killers were never caught.[NEWLINE][NEWLINE]The government began forcibly sending Haida children to residential schools as early as 1920. Haida children were sent as far away as Alberta to live among English-speaking families where they were to be assimilated into the dominant culture.</Text>
+		</Row>
+		<!-- City Names -->
+		<Row Tag="TXT_KEY_CITY_NAME_HAIDA_MOD_LS_KIUSTA">
+			<Text>Kiusta</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_HAIDA_MOD_LS_KUNG">
+			<Text>Kung</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_HAIDA_MOD_LS_YAN">
+			<Text>Yan</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_HAIDA_MOD_LS_HIELLAN">
+			<Text>Hiellan</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_HAIDA_MOD_LS_SKIDEGATE">
+			<Text>Skidegate</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_HAIDA_MOD_LS_CHAATL">
+			<Text>Cha'atl</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_HAIDA_MOD_LS_HAINA">
+			<Text>Haina</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_HAIDA_MOD_LS_KAISUN">
+			<Text>Kaisun</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_HAIDA_MOD_LS_CUMSHEWA">
+			<Text>Cumshewa</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_HAIDA_MOD_LS_SKEDANS">
+			<Text>Skedans</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_HAIDA_MOD_LS_TANU">
+			<Text>Tanu</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_HAIDA_MOD_LS_NINSTINTS">
+			<Text>Ninstints</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_HAIDA_MOD_LS_MASSET">
+			<Text>Masset</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_HAIDA_MOD_LS_ATEWAAS">
+			<Text>Atewaas</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_HAIDA_MOD_LS_JAAHGUHL">
+			<Text>Jaahguhl</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_HAIDA_MOD_LS_KAYUNG">
+			<Text>Kayung</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_HAIDA_MOD_LS_HLKYAH_GAAWGA">
+			<Text>Hlk'yah GaawGa</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_HAIDA_MOD_LS_KLINKWAN">
+			<Text>Klinkwan</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_HAIDA_MOD_LS_SUKKWAN">
+			<Text>Sukkwan</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_HAIDA_MOD_LS_HOWKAN">
+			<Text>Howkan</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_HAIDA_MOD_LS_KASAAN">
+			<Text>Kasaan</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_HAIDA_MOD_LS_TLELL">
+			<Text>Tlell</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_HAIDA_MOD_LS_DADENS">
+			<Text>Dadens</Text>
+		</Row>
+		<!-- Spy Names -->
+		<Row Tag="TXT_KEY_SPY_NAME_HAIDA_MOD_LS_0">
+			<Text>Skaay</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_HAIDA_MOD_LS_1">
+			<Text>Cumshewa</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_HAIDA_MOD_LS_2">
+			<Text>Guujaaw</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_HAIDA_MOD_LS_3">
+			<Text>Tlajung</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_HAIDA_MOD_LS_4">
+			<Text>Yahgulanaas</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_HAIDA_MOD_LS_5">
+			<Text>Kingaas</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_HAIDA_MOD_LS_6">
+			<Text>Cuneah</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_HAIDA_MOD_LS_7">
+			<Text>Farach</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_HAIDA_MOD_LS_8">
+			<Text>Goagaah</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_HAIDA_MOD_LS_9">
+			<Text>MeeGawa</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_LS_KOYAH_DESC">
+			<Text>Koyah</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_LS_KOYAH_NAME">
+			<Text>Koyah</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_LS_KOYAH_SUBTITLE">
+			<Text>Chieftain</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_LS_KOYAH_TITLES_1">
+			<Text>Chief</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_LS_KOYAH_HEADING_1">
+			<Text>History</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_LS_KOYAH_TEXT_1">
+			<Text>What little is known of Koyah's life comes from the journals of a few New England seamen, which provide a fragmentary and biased account. Yet it is apparent that Koyah, a ''little diminutive savage looking fellow,'' was embroiled in more clashes with trading vessels than any other northwest coast chief, and his life throws some light on the origins of the violence that often marred the Pacific fur trade.[NEWLINE][NEWLINE]As elsewhere on the northwest coast of Canada, the fur trade at Red-Cod-Island-Town (Ninstints, Anthony Island, B.C.), the principal village of Koyah’s people, began on peaceful terms. The settlement, called Koyah's by the traders, who followed the practice of naming each village after its chief, had been visited in 1787 by George Dixon and in 1788 by Charles Duncan. In June 1789 the Lady Washington, commanded by Robert Gray, arrived. As Robert Haswell recorded in the ship’s log, ''A brisk trade was soon set on foot by Coya the Chief, who bartered for all his Subjects, and a number of Sea Otter skins were purchased before night.” Business was conducted with “the strictest friendship.”[NEWLINE][NEWLINE]In July Gray exchanged vessels with his partner, John Kendrick, and sailed to China. Kendrick, who lacked Gray’s experience in the trade, returned to Koyah’s. He permitted too many Indians on board and became angered when some minor items, including his personal linens, were pilfered. Seizing Koyah and another chief, Skulkinanse, Kendrick bolted one leg of each chief to a gun-carriage and threatened them with death until all the stolen items were returned and all the furs in the village were traded to him. As the Indians later reported to Gray, Kendrick “took Coyah, tied a rope round his neck, whipt him, painted his face, cut off his hair, took away from him a great many skins, and turned him ashore.”[NEWLINE][NEWLINE]Although Koyah could always count on the loyalty of his kin, his ability to command the other villagers depended on his prestige. The treatment he had received at the hands of Kendrick was in Haida terms a shocking violation of a noble person. For this reason Koyah was driven to seek revenge when Kendrick returned to the village on 16 June 1791. The episode is known in unusual detail, from several second-hand accounts in journals and one first-hand account which survived as a song, “The ballad of the bold northwestman.” Trade was brisk and Kendrick, “in liquour” that day, again permitted too many Indians on board. They overran and seized his ship. Koyah is reported to have pointed to his leg and gloated, “Now put me into your gun carriage.” After a brief scuffle with the captain, however, Koyah and his followers were driven overboard with a loss of about 40. Among the dead were his wife and two of his children; he himself was wounded. To Koyah’s previous humiliation had been added defeat in battle, personal injury, and bereavement.[NEWLINE][NEWLINE]This second encounter with Kendrick must have had a disastrous effect on Koyah’s standing. Gray visited the village on 8 July (he was told of Kendrick’s first visit but not of his second) and reported that Koyah “appeared to be much frightened, being in a constant tremor the whole time.” Moreover, as the Indians explained to him, “Coyah was now no longer a Chief, but an ‘Ahliko,’ or one of the lower class; they have now no head Chief, but many inferior Chiefs.”[NEWLINE][NEWLINE]The next events show Koyah engaged in activities that would regain for him some of his prestige. On 27 August Captain Joseph Ingraham, at anchor in Cumshewa Inlet (Moresby Island, B.C.), saw Koyah and Skulkinanse leading 12 large canoes to war against a traditional enemy, Chief Skidegate. The outcome of that raid is not known. In the summer of 1794 Koyah, along with the chiefs Cumshewa and Scorch Eye, captured at Cumshewa an American brig manned by 11 men and put to death all but one, who was held in slavery for a year. During the winter of 1794–95 he captured a large British vessel which had anchored nearby to replace broken masts. The entire crew was killed.[NEWLINE][NEWLINE]On 21 June 1795 the Boston sloop Union, commanded by John Boit, dropped anchor off Koyah’s village. Forty canoes containing 300 men surrounded the vessel, and eight of the chiefs, including Koyah, came aboard. In Boit’s words, “Scorch Eye the head chief began the attack by seizing Mr. Hudson, the 2nd officer. At the same time the Indians along side attempted to board, with the most hideous yells. . . . I killed their first chief, Scorch Eye, in the 2nd mates arms, while they was struggling together. The rest of the Chiefs on board was knock’d down and wounded and we kill’d from the Nettings and in the Canoes along side above 40 more. . . . Suppose in this fracas we kill’d and wounded about 50 but the Indians said we killed 70.” Next day the Indians ransomed back the captured chiefs, who had been held in irons. Boit’s identification of Scorch Eye as the head chief, together with the report of this incident made by Captain Charles Bishop*, who wrote that “Koyer . . . attacked Captain Boyds vessel,” has led historians to conclude that it was Koyah, rather than Scorch Eye, who was killed in the attack. At all events, this is the last time that Koyah is mentioned in contemporary accounts.[NEWLINE][NEWLINE]The Kunghit-Haidas survived for a time, but Koyah’s dynasty did not; in the following decade the Eagle chief, Ninstints, took ascendancy. Reduced by the encounters with Kendrick and Boit and by the smallpox epidemic of 1862, the remnants of the tribe abandoned their village about 1885, moved to Skidegate (B.C.), and became Christians.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_LS_KOYAH_LIVED">
+			<Text>???? - 1795</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_DOM_LS_KOYAH_TEXT">
+			<Text>May the world tremble in fear of your might, Chief Koyah of the ferocious Haida tribe. Plundering and raiding the coasts of modern-day Oregon and Washington, your people came into conflict with trappers and captains from afar, and showed them naval opposition the likes of which had never been seen in the New World. Just as the Vikings had terrorized old Europe, the Haida struck fear into the hearts of lesser men. Yet as valiant as your warriors were, the art and culture of your tribe were just as dominant, and the totem poles your people crafted became icons of the creative soul of native American peoples. The generous soul of your traditions and complex social lifestyle made your people one of the mightiest and memorable of all in the continent, and lives on in many places today, even though encroaching settlers broke the power of your people.[NEWLINE][NEWLINE]Son of the Eagle and Raven, the time has come once again for you to assert your strength, to inspire fear and awe into those who would think less of you. Can you show the world the potential of the Haida people? Will the stories of your conquest and dominance be carved all over the world? Can you build a civilization that will stand the test of time?</Text>
+		</Row>
+		<!--First Greeting messages from AI leaders-->
+		<Row Tag="TXT_KEY_LEADER_LS_KOYAH_FIRSTGREETING_1">
+			<Text>Greetings outsider! Tonight we shall have a mighty potlash! Enjoy my possessions, you will not be keeping them for long...</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_LS_KOYAH_FIRSTGREETING_2">
+			<Text>I am Koyah, the chief of Haida people. My name means Raven: he who created this land, he who freed the sun from its tiny box and created the stars and the moon! Who are you? </Text>
+		</Row>
+		<!--Defeated messages from AI leaders-->
+		<Row Tag="TXT_KEY_LEADER_LS_KOYAH_DEFEATED_1">
+			<Text> I always knew Ta'xet would claim me. The embrace of Tia was never my destiny.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_LS_KOYAH_DEFEATED_2">
+			<Text>I did well if my lands were worthy conquering. Like the Raven, to have something of your own you must steal. This is no sin.</Text>
+		</Row>
+		<!-- Human repeats an action too much, gets the following responses -->
+		<Row Tag="TXT_KEY_LEADER_LS_KOYAH_REPEAT_TOO_MUCH_1">
+			<Text>What now? You want your own totem pole?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_LS_KOYAH_REPEAT_TRADE_TOO_MUCH_1">
+			<Text>Fair exchange. Is that so much to ask?</Text>
+		</Row>
+		<!-- Greetings -->
+		<Row Tag="TXT_KEY_LEADER_LS_KOYAH_GREETING_HOSTILE_HELLO_1">
+			<Text>Come to sell me your children?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_LS_KOYAH_GREETING_POLITE_HELLO_1">
+			<Text>Hello friend! Soon I will add you to my totem pole.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_LS_KOYAH_GREETING_HOSTILE_HUMAN_AT_WAR_1">
+			<Text>Ta'xet comes for you, warrior.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_LS_KOYAH_GREETING_HUMAN_AT_WAR_1">
+			<Text>May you evade Ta'xet for many years, friend.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_LS_KOYAH_HOSTILE_AGGRESSIVE_MILITARY_WARNING_1">
+			<Text>My warriors are only invigorated by your actions.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_LS_KOYAH_GREETING_HOSTILE_AGGRESSIVE_PLOT_BUYING_1">
+			<Text>Take land with the axe, not with coin. Coward.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_LS_KOYAH_GREETING_AGGRESSIVE_PLOT_BUYING_1">
+			<Text>Take land with the axe, not with coin. Coward.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_LS_KOYAH_GREETING_HOSTILE_AGGRESSIVE_EXPANSION_1">
+			<Text>Yes, yes. Spread yourself thinner. It makes you easier to raid.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_LS_KOYAH_GREETING_AGGRESSIVE_EXPANSION_1">
+			<Text>If you keep expanding I may not be able to ensure my warriors do not raid your lands.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_LS_KOYAH_GREETING_FRIENDLY_STRONG_MILITARY_1">
+			<Text>Your warriors are brave and strong. Blessings of Lagua be upon them.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_LS_KOYAH_GREETING_FRIENDLY_STRONG_ECONOMY_1">
+			<Text>You have much coin. We have many baskets. I think you know what to do.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_LS_KOYAH_GREETING_HOSTILE_HUMAN_FEW_CITIES_1">
+			<Text>How can my warriors build totem poles when you are so puny?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_LS_KOYAH_GREETING_HOSTILE_HUMAN_SMALL_ARMY_1">
+			<Text>Your scalpes aren't worth the heads they're attached to.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_LS_KOYAH_GREETING_HOSTILE_HUMAN_IS_WARMONGER_1">
+			<Text>Keep fighting. Ta'xet hungers.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_LS_KOYAH_TOO_SOON_FOR_DOF_1">
+			<Text>I am not yet convinced of your bravery.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_LS_KOYAH_DENOUNCE_1">
+			<Text>I have had a vision! Sin, the Sky God, has informed me that you are not to be trusted. Now all shall know.[NEWLINE][NEWLINE]([COLOR_WARNING_TEXT]They have publicly denounced us! NOTE: You are not at war.[ENDCOLOR])</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_LS_KOYAH_DENOUNCE_2">
+			<Text>You have no honour.[NEWLINE][NEWLINE]([COLOR_WARNING_TEXT]They have publicly denounced us! NOTE: You are not at war.[ENDCOLOR])</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_LS_KOYAH_RESPONSE_TO_BEING_DENOUNCED_1">
+			<Text>The Raven is never deterred.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_LS_KOYAH_RESPONSE_TO_BEING_DENOUNCED_2">
+			<Text>May you know Tia. Only joking! I will hack the flesh from your bones...</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_LS_KOYAH_HUMAN_DOFED_FRIEND_1">
+			<Text>So you believe that {1_CivName} is honourable. I do also.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_LS_KOYAH_HUMAN_DOFED_ENEMY_1">
+			<Text>{1_CivName} mock the rites. They cannot be trusted. Perhaps neither can you.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_LS_KOYAH_HUMAN_DENOUNCED_FRIEND_1">
+			<Text>How has {1_CivName} wronged you? They have always dealt fairly with Haida.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_LS_KOYAH_HUMAN_DENOUNCED_ENEMY_1">
+			<Text>I too wish to see the blood of {1_CivName} water the land. It is the will of Ta'xet.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_LS_KOYAH_HUMAN_DOF_SO_AI_DOF_1">
+			<Text>You trust {1_CivName}? Then so shall I.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_LS_KOYAH_HUMAN_DOF_SO_AI_DENOUNCE_1">
+			<Text>You would lie with dishonourable {1_CivName}? You are not worthy of my friendship, so you shall have my ire.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_LS_KOYAH_HUMAN_DENOUNCE_SO_AI_DENOUNCE_1">
+			<Text>I share your convictions that {1_CivName} only causes problems for the civilized empires of the world. Perhaps the combination of our denouncements will teach them a lesson.</Text>
+		</Row>
+		<!-- General Diplo Text -->
+		<Row Tag="TXT_KEY_LEADER_LS_KOYAH_COOP_WAR_REQUEST_1">
+			<Text>{1_PlayerName:textkey} believes that they should keep their scalps. Help me show them none are above Ta'xet?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_LS_KOYAH_COOP_WAR_REQUEST_2">
+			<Text>{1_PlayerName:textkey} do not like my baskets. Will you join me in enslaving their women and children?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_LS_KOYAH_COOP_WAR_TIME_1">
+			<Text>{1_PlayerName:textkey} has seen too many sun rises. The time is now.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_LS_KOYAH_DEC_FRIENDSHIP_1">
+			<Text>Give me your word and there will ever be peace between us.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_LS_KOYAH_DEC_FRIENDSHIP_2">
+			<Text>I find you honourable. Shall we deal in friendship?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_LS_KOYAH_AGGRESSIVE_MILITARY_WARNING_1">
+			<Text>It's come to my attention that you have a large number of Units near my borders. It would be a shame if they should...lose their scalps.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_LS_KOYAH_PLOT_BUYING_WARNING_1">
+			<Text>Take land with the axe, not with coin. Coward.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_LS_KOYAH_PLOT_BUYING_SERIOUS_WARNING_1">
+			<Text>Take land with the axe, not with coin. Coward.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_LS_KOYAH_EXPANSION_SERIOUS_WARNING_1">
+			<Text>Cease your expansion now! For I have received a vision of doom should you continue.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_LS_KOYAH_EXPANSION_WARNING">
+			<Text>One more city and you shall not found another!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_LS_KOYAH_RETURNED_CIVILIAN_1">
+			<Text>This is an act of honour. Blessings upon you.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_LS_KOYAH_RETURNED_CIVILIAN_2">
+			<Text>This day will be remembered in many totem poles.</Text>
+		</Row>
+		<!--Insults-->
+		<Row Tag="TXT_KEY_LEADER_LS_KOYAH_INSULT_LS_KOYAH_1">
+			<Text>I bet your people can't even weave baskets!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_LS_KOYAH_INSULT_LS_KOYAH_2">
+			<Text>You come to my house?!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_LS_KOYAH_INSULT_LS_KOYAH_3">
+			<Text>Come to sell me your wife? I don't want her, she's ugly.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_LS_KOYAH_INSULT_LS_KOYAH_4">
+			<Text>Come to sell me your mother? No, she is too fat.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_LS_KOYAH_INSULT_MILITARY_1">
+			<Text>I was wondering, and you don't have to answer but... where are your warriors?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_LS_KOYAH_INSULT_MILITARY_2">
+			<Text>My friend you need to build military units... so I may improve my totem poles!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_LS_KOYAH_INSULT_BULLY_1">
+			<Text>The Raven cannot be bullied.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_LS_KOYAH_INSULT_UNHAPPINESS_1">
+			<Text>Sadness reigns in your kingdom. I advise starting a war, maybe with me? I have many totem poles to improve.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_LS_KOYAH_INSULT_UNHAPPINESS_2">
+			<Text>Sadness reigns in your kingdom. I advise starting a war, maybe with me? I have many totem poles to improve.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_LS_KOYAH_INSULT_CITIES_1">
+			<Text>I need many cities to build many totem poles. Are you trying to thwart? No, of course not. You are just pathetic.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_LS_KOYAH_INSULT_POPULATION_1">
+			<Text>Not many scalps in your empire. Nevertheless, there's only one I'm interested in.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_LS_KOYAH_INSULT_CULTURE_1">
+			<Text>I heard you do not build totem poles. Shame.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_LS_KOYAH_INSULT_CULTURE_2">
+			<Text>Are you useless because of your low culture output, or is your culture output low because you are useless?</Text>
+		</Row>
+		<!--Public Declarations-->
+		<Row Tag="TXT_KEY_LEADER_LS_KOYAH_DECLARATION_PROTECT_CITY_STATE_1">
+			<Text>{2_MajorCivName:textkey} announces to the world that it is now protecting {1_MinorCivName:textkey}. Attacking the City-State will greatly damage relations and may lead to war.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_LS_KOYAH_DECLARATION_ABANDON_CITY_STATE_1">
+			<Text>{2_MajorCivName:textkey} has taken back its guarantee of protecting {1_MinorCivName:textkey}.</Text>
+		</Row>
+		<!-- Human is asking the AI for something -->
+		<Row Tag="TXT_KEY_LEADER_LS_KOYAH_DONT_SETTLE_NO_1">
+			<Text>If you mean that, say it again on the battlefield.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_LS_KOYAH_DONT_SETTLE_YES_1">
+			<Text>You are right. Settlers are getting in the way of building a bigger military!</Text>
+		</Row>
+		<!--Deal Offers and related-->
+		<Row Tag="TXT_KEY_LEADER_LS_KOYAH_LUXURY_TRADE_1">
+			<Text>Fair exchange.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_LS_KOYAH_OPEN_BORDERS_EXCHANGE_1">
+			<Text>Open your borders to my warriors, they need to go kill some people a little further away today.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_LS_KOYAH_RESPONSE_REQUEST_1">
+			<Text>I need this to stop my warriors from raiding you.</Text>
+		</Row>
+		<!--AI Attacked by Human - Strong and Weak also include the default response sets-->
+		<Row Tag="TXT_KEY_LEADER_LS_KOYAH_ATTACKED_HOSTILE_1">
+			<Text>Yes, yes... I can taste the blood that shall be spilt.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_LS_KOYAH_ATTACKED_EXCITED_1">
+			<Text>Oh I see, you want to help me win. Thank you, your scalp shall have pride of place in my collection.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_LS_KOYAH_ATTACKED_SAD_1">
+			<Text>I was planning scalping someone else. You sadden me.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_LS_KOYAH_ATTACKED_BETRAYED_1">
+			<Text>I prefered you as a friend to a trophy.</Text>
+		</Row>
+		<!--AI Declaring War on Human - Strong and Weak also include the default response sets-->
+		<Row Tag="TXT_KEY_LEADER_LS_KOYAH_DOW_GENERIC_1">
+			<Text>This is our destiny. I have forseen it.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_LS_KOYAH_DOW_LAND_1">
+			<Text>My warriors need bigger totem poles. It is as simple as that.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_LS_KOYAH_DOW_LAND_2">
+			<Text>My warriors need bigger totem poles. It is as simple as that.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_LS_KOYAH_DOW_WORLD_CONQUEST_1">
+			<Text>I have been sent a vision, it was of my people in every land, totem poles as far as the eye could see. This must come to pass.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_LS_KOYAH_DOW_WORLD_CONQUEST_2">
+			<Text>More cities mean more totem poles. You understand.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_LS_KOYAH_DOW_OPPORTUNITY_1">
+			<Text>Sorry, but I need to win the game.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_LS_KOYAH_DOW_OPPORTUNITY_2">
+			<Text>The weak are meat.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_LS_KOYAH_DOW_DESPERATE_1">
+			<Text>No, no, no! My totem poles cannot be stopped!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_LS_KOYAH_DOW_DESPERATE_2">
+			<Text>No, no, no! My totem poles cannot be stopped!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_LS_KOYAH_DOW_BETRAYAL_1">
+			<Text>How long before you wanted a totem pole for yourself?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_LS_KOYAH_DOW_BETRAYAL_2">
+			<Text>What can I say? The Raven was a trickster.</Text>
+		</Row>
+		<!--AI Responses to a human peace offer-->
+		<Row Tag="TXT_KEY_LEADER_LS_KOYAH_TOO_SOON_NO_PEACE_1">
+			<Text>I haven't reached my scalp quota.</Text>
+		</Row>
+		<!--AI Responses to a discussion mode topics-->
+		<Row Tag="TXT_KEY_LEADER_LS_KOYAH_BAD_1">
+			<Text>Why take the path of dishonour?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_LS_KOYAH_BAD_2">
+			<Text>Sin, the Sky God, sees this. He does not forget.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_LS_KOYAH_BAD_3">
+			<Text>Frogs and volcanoes take you.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_LS_KOYAH_GOOD_1">
+			<Text>Good. Now I must get back to organising my scalps.</Text>
+		</Row>
+		
+		
+		
+		
+		<!--Traits-->
+		<Row Tag="TXT_KEY_TRAIT_LS_SCALPING_SHORT">
+			<Text>Eagle and Raven</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_LS_SCALPING">
+			<Text>Naval melee units can perform devastating attacks on land. Embarked units can perform non-ranged attacks on naval targets.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_HAIDA_LS_UA">
+			<Text>Eagle and Raven II</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_HAIDA_LS_UA_HELP">
+			<Text>Can move on land now.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_HAIDA_LS_UA_II">
+			<Text>Eagle and Raven I</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_HAIDA_LS_UA_II_HELP">
+			<Text>+33% [ICON_STRENGTH] Combat Strength against Land Units.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_LS_WAR_CANOE">
+			<Text>War Canoe</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_LS_WAR_CANOE_HELP">
+			<Text>Can move after attacking. Heals up 10 damage if ends turn next to Forest. Only the Haida may build it.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_LS_WAR_CANOE_TEXT">
+			<Text>The Haida took to water in large ocean-going canoes, large enough to accommodate as many as 60 paddlers, each created from a single Western red cedar tree. They also developed effective weapons for boat-based battle, including a special system of stone rings weighing 18 to 23 kilograms (40 to 51 lb) which could destroy an enemy's dugout canoe and be reused after the Haida pulled it back with the attached cedar bark rope.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_LS_WAR_CANOE_STRATEGY">
+			<Text>The War Canoe is the Haida replacement for the Trireme. Unlike the regular Trireme, the War Canoe can move after attacking, allowing it to raid cities without remaining in range for the retaliatory ranged attack. Further more it can heal (even while moving) by ending its turn next to forested tiles, and as a Haida naval unit it can attack coastal tiles. This makes it extremely versatile; worth building in the place of melee units for controlling the coast and attacking cities.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_LS_TOTEM_POLE">
+			<Text>Totem Pole</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_LS_TOTEM_POLE_HELP">
+			<Text>The Totem Pole is an Ancient-era building unique to Haida, replacing the Monument. Receives extra bonus based on last acquired great person (for example +2 [ICON_PEACE] Faith for Great Prophet).</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_LS_TOTEM_POLE_TEXT">
+			<Text>Totem Poles are typically carved from the trunks of Thuja plicata trees (popularly called "giant cedar" or "western red cedar"), which decay eventually in the rainforest environment of the Northwest Coast. The meanings of the designs on totem poles are as varied as the cultures that make them. Totem Poles may recount familiar legends, clan lineages, or notable events. Some poles celebrate cultural beliefs while others are mostly artistic. Certain types of totem poles are part of mortuary structures, and incorporate grave boxes with carved supporting poles, or recessed backs for grave boxes. Poles illustrate stories that commemorate historic persons, represent shamanic powers, or provide objects of public ridicule.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_LS_TOTEM_POLE_STRATEGY">
+			<Text>Intially the Totem Pole has no maintenance cost in opposite to the monument, which it replaces.</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

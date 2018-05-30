@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 3/10/2018 7:02:39 AM -->
+<GameData>
+	<Audio_Sounds>
+		<Row>
+			<SoundID>SND_DOM_LEADER_SIAOSI</SoundID>
+			<Filename>DawnOfManTonga.mp3</Filename>
+			<LoadType>DynamicResident</LoadType>
+		</Row>
+	</Audio_Sounds>
+	<Audio_2DSounds>
+		<Row>
+			<ScriptID>AS2D_DOM_SPEECH_TONGA</ScriptID>
+			<SoundID>SND_DOM_LEADER_SIAOSI</SoundID>
+			<SoundType>GAME_SPEECH</SoundType>
+			<MinVolume>120</MinVolume>
+			<MaxVolume>120</MaxVolume>
+		</Row>
+	</Audio_2DSounds>
+</GameData>

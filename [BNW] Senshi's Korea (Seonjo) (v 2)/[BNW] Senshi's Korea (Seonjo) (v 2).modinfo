@@ -1,0 +1,134 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mod id="74fe6156-a0b1-4651-9616-2e1805ee61bd" version="2">
+  <Properties>
+    <Name>[BNW] Senshi's Korea (Seonjo)</Name>
+    <Stability>Beta</Stability>
+    <Teaser>Adds an alternate Korea, led by Emperor Seonjo! Requires the Korea DLC.</Teaser>
+    <Description>Adds an alternate Korea, led by Emperor Seonjo! Requires the Korea DLC.
+
+CREDITS:
+Concept - senshidenshi, GPuzzle
+Code - Chrisy15, senshidenshi, GPuzzle
+Art - Firebug, Klisz, Wolfdog, Keniisu, senshidenshi
+Text - Groucho Marx, senshidenshi, Ajsieg
+Special Thanks from Chrisy: LeeS, Sukritact</Description>
+    <Authors>senshidenshi, Chrisy15, GPuzzle</Authors>
+    <SpecialThanks>Firebug, Klisz, Keniisu, Groucho Marx, Ajsieg, Wolfdog, LeeS, Sukritact</SpecialThanks>
+    <HideSetupGame>0</HideSetupGame>
+    <AffectsSavedGames>1</AffectsSavedGames>
+    <MinCompatibleSaveVersion>0</MinCompatibleSaveVersion>
+    <SupportsSinglePlayer>1</SupportsSinglePlayer>
+    <SupportsMultiplayer>1</SupportsMultiplayer>
+    <SupportsHotSeat>1</SupportsHotSeat>
+    <SupportsMac>1</SupportsMac>
+    <ReloadAudioSystem>0</ReloadAudioSystem>
+    <ReloadLandmarkSystem>0</ReloadLandmarkSystem>
+    <ReloadStrategicViewSystem>0</ReloadStrategicViewSystem>
+    <ReloadUnitSystem>0</ReloadUnitSystem>
+  </Properties>
+  <Dependencies>
+    <Dlc id="112C22B2-5308-42b6-B734-171CCAB3037B" minversion="0" maxversion="999" />
+  </Dependencies>
+  <References>
+    <Mod id="31a31d1c-b9d7-45e1-842c-23232d66cd47" minversion="0" maxversion="999" title="JFD's Cultural Diversity (Core)" />
+    <Mod id="eea66053-7579-481a-bb8d-2f3959b59974" minversion="0" maxversion="999" title="JFD’s Piety" />
+    <Mod id="d99bf7aa-51ac-4bef-bd88-d765b28e260e" minversion="0" maxversion="999" title="JFD’s Sovereignty" />
+    <Mod id="1f941088-b185-4159-865c-472df81247b2" minversion="0" maxversion="999" title="Sukritact’s Events &amp; Decisions" />
+    <Mod id="36e88483-48fe-4545-b85f-bafc50dde315" minversion="0" maxversion="999" title="Yet (not) Another Earth Map Pack" />
+    <Mod id="e576894a-ed2b-4033-be14-ed1c8ceb81d3" minversion="0" maxversion="999" title="Map Labels" />
+    <Mod id="7fdd72a5-d4ae-441c-bc4e-2e3d2a26cff4" minversion="0" maxversion="999" title="Ethnic Units" />
+    <Mod id="8670da15-d435-44ea-9758-7438cb321411" minversion="0" maxversion="999" title="R.E.D. Modpack" />
+    <Mod id="1153b26a-69fd-4cd5-899c-a8ba8e0e5e5d" minversion="0" maxversion="999" title="Civ IV Leader Traits in Civ V" />
+    <Mod id="6676902b-b907-45f1-8db5-32dcb2135eee" minversion="0" maxversion="999" title="JFD's Exploration Continued Expanded" />
+    <Mod id="ce8aa614-7ef7-4a45-a179-5329869e8d6d" minversion="0" maxversion="999" title="Enlightenment Era" />
+    <Mod id="a19351c5-c0b3-4b07-8695-4affaa199949" minversion="0" maxversion="999" title="JFD’s and Pouakai’s Mercenaries" />
+    <Mod id="10e9728f-d61c-4317-be4f-7d52d6bae6f4" minversion="0" maxversion="999" title="JFD’s Claims, Colonies, and Crimes" />
+  </References>
+  <Blocks />
+  <Files>
+    <File md5="2FA929B232E6334F8EFAFAEF40E5BC32" import="1">Art/Chongtong/bombardTurk.fxsxml</File>
+    <File md5="7B387150F62D712DB916A74B9044187D" import="1">Art/Chongtong/bombardTurk.gr2</File>
+    <File md5="7BC37AE7B8A8F969ED467490C2903ADD" import="1">Art/Chongtong/BombardTurk_diff.dds</File>
+    <File md5="B9B7C2441CB1B491466C47C4A4B5DEAF" import="1">Art/Chongtong/BombardTurk_sref.dds</File>
+    <File md5="AE2011AA2E979F0FE57ACB7B8B02FBF3" import="0">Art/Chongtong/ChongtongArt.xml</File>
+    <File md5="FD03DEC64E2F89C50CBEF2FAC46DDB1F" import="1">Art/Chongtong/musketman_diff.dds</File>
+    <File md5="9A394373B38692C543E8C8D6353A9C52" import="1">Art/Chongtong/musketman_sref.dds</File>
+    <File md5="055A0D2B0725ABB4836CAAE71E7422C6" import="1">Art/Icons/Chongtong128.dds</File>
+    <File md5="D1E2520D6575893A9E6D858D5A89C4B0" import="1">Art/Icons/Chongtong32.dds</File>
+    <File md5="42E3833F5514C1C1F1287BDDB13D0EC1" import="0">Art/Icons/IconAtlas.xml</File>
+    <File md5="B7EC9E73C590E5F2254B5A521E4D083E" import="1">Art/Icons/SeonjoAlpha128.dds</File>
+    <File md5="8DCDDA23B460278DD7E3CC0654122989" import="1">Art/Icons/SeonjoAlpha16.dds</File>
+    <File md5="745EB0810772E989BB7037BAC0B9A089" import="1">Art/Icons/SeonjoAlpha24.dds</File>
+    <File md5="64B65004A9E0CC4207A9AF904F7E2424" import="1">Art/Icons/SeonjoAlpha256.dds</File>
+    <File md5="135F0285612282309AFEA70BEEFB0281" import="1">Art/Icons/SeonjoAlpha32.dds</File>
+    <File md5="60D0CB4C5E95EA92A8DF33B6A74DD65F" import="1">Art/Icons/SeonjoAlpha48.dds</File>
+    <File md5="E800C1F5EDCCAC027174E87A4F2F2973" import="1">Art/Icons/SeonjoAlpha64.dds</File>
+    <File md5="D844216D5BFA13699EF8FF9188850B07" import="1">Art/Icons/SeonjoAlpha80.dds</File>
+    <File md5="59BBB5A6548EF14DC382C7443E06B919" import="1">Art/Icons/SeonjoIcons128.dds</File>
+    <File md5="6244353D7AFAC87094D896037A9CCF27" import="1">Art/Icons/SeonjoIcons256.dds</File>
+    <File md5="8121FF588ABD87FC2E6A0E38BF9D792E" import="1">Art/Icons/SeonjoIcons32.dds</File>
+    <File md5="FE2046BEAE8BE0959FFE3B694A73B4DD" import="1">Art/Icons/SeonjoIcons45.dds</File>
+    <File md5="A18FE86F06AFFBE0A49D840EBB6274C5" import="1">Art/Icons/SeonjoIcons48.dds</File>
+    <File md5="81851ADD0BE85F67915DFCFCA1D17E6A" import="1">Art/Icons/SeonjoIcons64.dds</File>
+    <File md5="682E23F36F5DF48B45829E372EAB5E55" import="1">Art/Icons/SeonjoIcons80.dds</File>
+    <File md5="CFB85AF816D8F7A5F7404E5AEF0053BF" import="1">Art/Misc/SeonjoDOM.dds</File>
+    <File md5="DF75B779FC36DD56DE4011BB0567B950" import="1">Art/Misc/SeonjoLeaderscreen.dds</File>
+    <File md5="9B13FDF887F4BB1529540D93332379D4" import="1">Art/Misc/SeonjoMap.dds</File>
+    <File md5="6004F1D962F99E9DC69B1B91F6E39E6D" import="0">Core/Civilizations.sql</File>
+    <File md5="E4232507B19351D9DE53EA3BFBE460F9" import="0">Core/DiplomacyResponses.xml</File>
+    <File md5="1C828F4D9272A831CCE8E8D933E06E42" import="0">Core/GameText.xml</File>
+    <File md5="962B47EFBCFB86D9EA1087DB527633A7" import="0">Core/Leaderhead.sql</File>
+    <File md5="0EBA964D29703F20B693DDA272EA4B3B" import="0">Core/LuaDummies.sql</File>
+    <File md5="D63DC8BB6AA0F310DD55B264DB49C7E2" import="1">Core/PlotIterators.lua</File>
+    <File md5="2BF649C76A1685527B9EC6BC56A3EB1D" import="0">Core/Promotion_Created.xml</File>
+    <File md5="C68C31920F7CB74DF63349ED239DB277" import="0">Core/SeonjoLua.lua</File>
+    <File md5="AC36A16351F3D7667E74B5FC0D6FDAE3" import="1">Core/Seonjo_Scene.xml</File>
+    <File md5="3650F003408491AF844E665DA65F584E" import="0">Core/PlayerColours.sql</File>
+    <File md5="100452232E771955DF1C7D5BC5B01F95" import="0">Core/ChongtongPromotion.xml</File>
+    <File md5="CB31D99ECE4B707BCDC808C2E12C3ED1" import="0">Core/SejongChanges.xml</File>
+    <File md5="E3AB73844886B35F4B78A604FA2D13D2" import="0">Core/SerialEventUnitCreatedGood.lua</File>
+    <File md5="3255674CE82B0B63F517DB06AC059B4F" import="0">Core/Traits.sql</File>
+    <File md5="38C1CA6BEC4492E95B59C13DB6A77CB3" import="0">Core/Chongtong.sql</File>
+    <File md5="7ED60520389B7A5EFF0BDBF679211170" import="0">ModSupport/DummyPromotionBecauseISuckAtSQL.xml</File>
+    <File md5="5ABEC51374E3F65F7E5C07262A6AE7AA" import="0">ModSupport/GameText_ModSupport.xml</File>
+    <File md5="31F8DEC9324F96F207541F7E66DFE6DB" import="0">ModSupport/DecisionsFix.sql</File>
+    <File md5="03298BBED4A4FD495444A350E137EBE8" import="0">ModSupport/ModSupport.sql</File>
+    <File md5="2B89173BBB1D34660356E35AB811D493" import="1">ModSupport/SeonjoDecisions.lua</File>
+    <File md5="552F911C3E9877BD637C47D2333F8CBE" import="1">Sound/SeonjoPeace.mp3</File>
+    <File md5="A4F659786DD89620978C37B57990C79A" import="1">Sound/SeonjoWar.mp3</File>
+    <File md5="7BA32975B2F0E856789E83E9375F6C7C" import="0">Sound/SoundRig.xml</File>
+  </Files>
+  <Actions>
+    <OnModActivated>
+      <UpdateDatabase>Art/Icons/IconAtlas.xml</UpdateDatabase>
+      <UpdateDatabase>Core/LuaDummies.sql</UpdateDatabase>
+      <UpdateDatabase>Core/SejongChanges.xml</UpdateDatabase>
+      <UpdateDatabase>Art/Chongtong/ChongtongArt.xml</UpdateDatabase>
+      <UpdateDatabase>Core/ChongtongPromotion.xml</UpdateDatabase>
+      <UpdateDatabase>Core/Chongtong.sql</UpdateDatabase>
+      <UpdateDatabase>Core/Traits.sql</UpdateDatabase>
+      <UpdateDatabase>Core/PlayerColours.sql</UpdateDatabase>
+      <UpdateDatabase>Core/Leaderhead.sql</UpdateDatabase>
+      <UpdateDatabase>Core/Civilizations.sql</UpdateDatabase>
+      <UpdateDatabase>Core/GameText.xml</UpdateDatabase>
+      <UpdateDatabase>Sound/SoundRig.xml</UpdateDatabase>
+      <UpdateDatabase>Core/DiplomacyResponses.xml</UpdateDatabase>
+      <UpdateDatabase>ModSupport/ModSupport.sql</UpdateDatabase>
+      <UpdateDatabase>ModSupport/GameText_ModSupport.xml</UpdateDatabase>
+      <UpdateDatabase>ModSupport/DecisionsFix.sql</UpdateDatabase>
+      <UpdateDatabase>ModSupport/DummyPromotionBecauseISuckAtSQL.xml</UpdateDatabase>
+      <UpdateDatabase>Core/Promotion_Created.xml</UpdateDatabase>
+    </OnModActivated>
+  </Actions>
+  <EntryPoints>
+    <EntryPoint type="InGameUIAddin" file="Core/SeonjoLua.lua">
+      <Name>SeonjoLua</Name>
+      <Description>Functions for Sejong and Seonjo</Description>
+    </EntryPoint>
+    <EntryPoint type="InGameUIAddin" file="Core/SerialEventUnitCreatedGood.lua">
+      <Name>SerialEventUnitCreatedGood</Name>
+      <Description>
+      </Description>
+    </EntryPoint>
+  </EntryPoints>
+</Mod>

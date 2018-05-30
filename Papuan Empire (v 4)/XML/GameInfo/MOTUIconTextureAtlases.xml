@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 12/13/2015 6:10:17 PM -->
+<GameData>
+	<IconTextureAtlases>
+		<Row>
+			<Atlas>BW_ATLAS_MOTU</Atlas>
+			<IconSize>256</IconSize>
+			<Filename>Motuwarrior_256.dds</Filename>
+			<IconsPerRow>1</IconsPerRow>
+			<IconsPerColumn>1</IconsPerColumn>
+		</Row>
+		<Row>
+			<Atlas>BW_ATLAS_MOTU</Atlas>
+			<IconSize>128</IconSize>
+			<Filename>Motuwarrior_128.dds</Filename>
+			<IconsPerRow>1</IconsPerRow>
+			<IconsPerColumn>1</IconsPerColumn>
+		</Row>
+		<Row>
+			<Atlas>BW_ATLAS_MOTU</Atlas>
+			<IconSize>64</IconSize>
+			<Filename>Motuwarrior_64.dds</Filename>
+			<IconsPerRow>1</IconsPerRow>
+			<IconsPerColumn>1</IconsPerColumn>
+		</Row>
+		<Row>
+			<Atlas>BW_ATLAS_MOTU</Atlas>
+			<IconSize>80</IconSize>
+			<Filename>Motuwarrior_80.dds</Filename>
+			<IconsPerRow>1</IconsPerRow>
+			<IconsPerColumn>1</IconsPerColumn>
+		</Row>
+		<Row>
+			<Atlas>BW_ATLAS_MOTU</Atlas>
+			<IconSize>45</IconSize>
+			<Filename>Motuwarrior_45.dds</Filename>
+			<IconsPerRow>1</IconsPerRow>
+			<IconsPerColumn>1</IconsPerColumn>
+		</Row>
+		<Row>
+			<Atlas>MOTU_FLAG</Atlas>
+			<IconSize>32</IconSize>
+			<Filename>Motuflag.dds</Filename>
+			<IconsPerRow>1</IconsPerRow>
+			<IconsPerColumn>1</IconsPerColumn>
+		</Row>
+	</IconTextureAtlases>
+  
+</GameData>

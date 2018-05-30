@@ -1,0 +1,325 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by Tomatekh-->
+<GameData>
+	<Language_PL_PL>
+		<!-- -->
+		<Row Tag="TXT_KEY_TRAIT_GARDEN_CITIES_SHORT">
+			<Text>Garden Cities</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_GARDEN_CITIES">
+			<Text>Workers may build Improvements without removing Jungle or Forest from tiles.</Text>
+		</Row>
+		<!--
+		<Row Tag="TXT_KEY_TRAIT_GARDEN_CITIES_EXCE">
+			<Text>Workers may build Improvements without removing Jungle or Forest from tiles and do not suffer Attrition on Jungle tiles.</Text>
+		</Row>
+		-->
+		<Row Tag="TXT_KEY_TRAIT_GARDEN_CITIES_EXCE">
+			<Text>Workers may build Improvements without removing Jungle or Forest from tiles.</Text>
+		</Row>
+		<!-- -->
+		<Row Tag="TXT_KEY_BUILDING_XINGU">
+			<Text>House Garden</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_BUILDINGS_XINGU_TEXT">
+			<Text>One of the most pervasive features of Amazonian architecture is the presence of personal subsistence gardens, associated with individual residences and separate from larger agricultural endeavors. These gardens would often use farming techniques integrated into the local landscape and exhibit a rich degree of biodiversity; cultivating a large number of medicinal plants in addition to food and utilitarian crops. Certain tribes would also plant separate gardens alongside roads and away from major settlements to be used as an emergency reserve in times of war. The long term cultivation of house gardens also contributed to the development of terra preta and terra mulata, formed by continual human habitation in an area.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_XINGU_STRATEGY">
+			<Text>Unlike the standard Granary, which it replaces, the House Garden provides a resource based [ICON_PRODUCTION] Production bonus. The affected resources are also changed to benefit Cities settled near Jungle tiles. Additionally, any civilian Unit trained in a City with a House Garden will start with the Woodsman promotion. It may be worth waiting to train the bulk of your Workers until after you have constructed a House Garden in order to make the most of the Kuikuro unique ability; Garden Cities.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_XINGU_HELP">
+			<Text>Each source of [ICON_RES_BANANA] Bananas [ICON_RES_COCOA] Cocoa and [ICON_RES_SPICES] Spices worked by this City produce +1 [ICON_PRODUCTION] Production.[NEWLINE][NEWLINE]Civilian Units trained in this City receive the [COLOR_POSITIVE_TEXT]Woodsman[ENDCOLOR] Promotion.[NEWLINE][NEWLINE]Allows [ICON_FOOD] Food to be moved from this city along trade routes inside your civilization.</Text>
+		</Row>
+		<!-- -->
+		<Row Tag="TXT_KEY_UNIT_XINGU">
+			<Text>Huka-Huka Warrior</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_UNIT_XINGU_TEXT">
+			<Text>Huka-Huka is a Brazilian folk wrestling style of the indigenous people of the Xingu, in the state of Mato Grosso. Today, it is most notably performed as a ritual fight during the ceremony of Kuarup. Huka-huka starts with the athletes on their knees. It begins when the owner of the fight, a male chief, walks to the center of the arena and calls his opponents by name. The fighters kneel rotating clockwise in a circle facing the opponent, until they look at each other and cling, trying to lift the opponent and knock him to the ground. Traditionally, the style may be practiced by men and women.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_XINGU_STRATEGY">
+			<Text>The Huka-Huka Warrior is the Kuikuro unique Unit. Unlike the standard Warrior, it gains a significant combat boost when near a friendly City celebrating a 'We Love the King Day'. This bonus carries on upgrade and the Huka-Huka Warrior will also receive bonus XP every time it upgrades. Although fairly weak initially, the combination of these abilities allows dedicated units to continue to grow and support your army throughout the game. Try to build a few early on and settle wide to increase the number of City resource requests.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_XINGU_HELP">
+			<Text>Traditional Unit. Only the Kuikuro may build it.</Text>
+		</Row>
+		<!-- -->
+		<Row Tag="TXT_KEY_PROMOTION_XINGU">
+			<Text>Kuarup</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_XINGU_HELP">
+			<Text>+30% [ICON_STRENGTH] Combat Strength if within 5 tiles of a friendly City celebrating a 'We Love the King Day'.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_XINGU_UPGRADE">
+			<Text>Xinuguano Tradition</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_XINGU_UPGRADE_HELP">
+			<Text>Earns +10 XP whenever this Unit is Upgraded.</Text>
+		</Row>
+		<!-- -->
+		<Row Tag="TXT_KEY_XINGU_MOD_DESC">
+			<Text>Kuikuro Empire</Text>
+		</Row>
+		<Row Tag="TXT_KEY_XINGU_MOD_SHORT_DESC">
+			<Text>The Kuikuro</Text>
+			<Plurality>2</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_XINGU_MOD_ADJECTIVE">
+			<Text>Kuikuro</Text>
+		</Row>
+		<Row Tag="TXT_KEY_XINGU_MOD">
+			<Text>The Kuikuro</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_XINGU_MOD_TITLE">
+			<Text>The Kuikuro</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_XINGU_MOD_HEADING_1">
+			<Text>History</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_XINGU_MOD_TEXT_1">
+			<Text>An indigenous tribe of the Upper Xingu region of Brazil, the Kuikuro represent one of the great lost civilizations of the Amazon jungle. Approximately 1,500 years ago they built a sophisticated complex of cities centered near lake Kuhikugu. Hosting a potential population of over 10,000, these settlements exhibited a complex network of roads, palisades, and plazas and featured extensive agricultural efforts integrated into the local landscape. Much like most of pre-Columbian America, their population was devastated by the introduction of European borne diseases and slavers. Today, only about 500 members of the tribe remain with most of their history either forgotten or regarded as legend.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_XINGU_MOD_HEADING_2">
+			<Text>Climate and Terrain</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_XINGU_MOD_TEXT_2">
+			<Text>There is growing evidence to suggest that the Amazon was not always pristine, untouched jungle. Conservative estimates place about 15% of the nonflooded Amazon to be of anthropogenic origin; directly or indirectly created by human beings. Rather than subsisting on foraging, native inhabitants instead practiced extensive agricultural efforts including the cultivation of trees for fruits and nuts. Much of the 'natural' jungle landscape we see today is actually the result of depopulation due to the arrival of Europeans, preventing indigenous populations from continuing to manage the land.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_XINGU_MOD_HEADING_3">
+			<Text>Kuhikugu</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_XINGU_MOD_TEXT_3">
+			<Text>Kuhikugu was likely inhabited from a period of time around 1,500 years ago to a time as recently as 400 years ago, when the people living there were likely killed by diseases brought over by Europeans. The current archaeological complex includes about twenty towns and villages, spread out over an area of around 7,700 square miles and it is estimated to have reached an upper population of close to 10,000 (with a total indigenous population of near 50,000 in the Xingu region).[NEWLINE][NEWLINE]Large defensive ditches and palisades were built around some of the communities at Kuhikugu. Large plazas also exist at some of the towns throughout the region, some around 490 feet across. Many of the communities at Kuhikugu were linked, with roads which bridged some rivers along their paths, and with canoe canals running alongside some of the roads. Fields of manioc existed around these communities, suggesting that the people there were farmers. Dams and ponds which appear to have been constructed in the area also suggest that the inhabitants of Kuhikugu may have been involved with fish farming.[NEWLINE][NEWLINE]Satellite imagery reveals that even today the forest differs from surrounding pristine areas, and ground-based exploration reveals this to be an effect of the anthrosol, terra preta, known to the Kuikuro as egepe.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_XINGU_MOD_HEADING_4">
+			<Text>Garden Cities</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_XINGU_MOD_TEXT_4">
+			<Text>In Amazonia, there is little evidence for the type of large, singular centers considered cities in other world areas. Substantial variability characterized this vast region, including cycling between more centralized and more diffuse settlement patterns in certain areas, but the largest settlements rarely exceed 50 hectares. The Upper Xingu region makes the case to move beyond narrow typological approaches, which conflate early urban societies with full-blown cities or the state, and to focus instead on degrees and kinds of urbanism, including dispersed, multi-centric urban settlements.[NEWLINE][NEWLINE]Ancient civilizations in broadly forested regions, such as temperate Europe, eastern North America, and the Amazon basin, are generally more dispersed and less centralized than classical oasis civilizations in Egypt, Mesopotamia, and Indus River areas or, in the South American case, coastal desert or arid highland river valleys. "Garden Cities" refers to a proposed model for lower-density urban development, designed to promote sustainable growth. The model proposes networks of small and well planned towns, a "green belt" of agricultural and forest land, and a subtle gradient between urban and rural areas.[NEWLINE][NEWLINE]The pre-Columbian polities of the Upper Xingu developed such a system, uniquely adapted to the forested environments of the southern Amazon. The Upper Xingu is one of the largest contiguous tracts of transitional forest in the southern Amazon. Understanding long-term change in human-natural systems has critical implications for questions of biodiversity, ecological resilience, and sustainability. Local semi-intensive land use provides strategies of resource management that could help with modern efforts to restore tropical forest areas, particularly important in areas still inhabited by indigenous populations.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_XINGU_MOD_HEADING_5">
+			<Text>The Kuikuro</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_XINGU_MOD_TEXT_5">
+			<Text>The modern Kuikuro are understood to be descendants of the original inhabitants of Kuhikugu, and a great deal of cultural continuity still exists between the two. Plaza centered towns, social and gender structure, agricultural and aquacultural farming techniques, indigenous tools, and items such as dress and diet match similar findings in the archaeological record. The Kuhikugu archeological complex was rediscovered thanks, in part, to the help of Kuikuro oral history and cooperation with local members of the Kuikuro tribe.[NEWLINE][NEWLINE]Kuikuro oral history says European slavers arrived in the Xingu region around 1750. Xinuguano population was estimated in the tens of thousands but was dramatically reduced by diseases and slavery by Europeans. In the centuries since the penetration of the Europeans into South America, the Xingu fled from different regions to escape modernization and cultural assimilation. Nonetheless settlers made it up as far as the upper run of the Xingu. By the mid twentieth century the indigenous population had been further reduced by foreign epidemic diseases such as flu, measles, smallpox and malaria to less than 1,000. Only an estimated 500 Xingu peoples were alive in the 1950s.[NEWLINE][NEWLINE]The first Indian Park in Brazil was created in the Xingu river basin by the Brazilian government in the early 1960s. This park marks the first indigenous territory recognized by the Brazilian government and it was the world's largest indigenous reserve on the date of its creation. Currently, fourteen tribes live on the reserve surviving with natural resources and extracting from the river most of what they need for food and water.[NEWLINE][NEWLINE]The forced concentration of a number of different ethnologies into an increasingly small area has created a number of cultural similarities across the various Xingu peoples and shared by the Kuikuro. These range from similar habits and social systems to shared belief systems and rituals. One of the most prominent surviving Xinuguano traditions is the Kuarup Festival, representing the principal funeral ritual of the Xingu. One of its central events is the presentation of all young girls who have experienced menarche since the last Kuarup and whose time has come to choose a partner.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_XINGU_MOD_FACTOID_HEADING">
+			<Text>Kuikuro Factoids</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_XINGU_MOD_FACTOID_TEXT">
+			<Text>There is a possibility that legends regarding the archaeological complex at Kuhikugu may have influenced the British explorer Colonel Percy Fawcett to go on his ill-fated last expedition in 1925, searching the Amazon rainforest for what he called "City Z".</Text>
+		</Row>
+		<!-- -->
+		<Row Tag="TXT_KEY_CIVLOPEDIA_XINGU_MOD_STATBOX">
+			<Text>[NEWLINE]        Leader: Anetü[NEWLINE]        Unique Unit: Huka-Huka Warrior[NEWLINE]        Unique Building: House Garden[NEWLINE][NEWLINE]</Text>
+		</Row>
+		<!-- -->
+		<Row Tag="TXT_KEY_DAWN_OF_MAN_XINGU_MOD_TEXT">
+			<Text>Noble Anetü, Chief of Kuhikugu, who taught the birds how to sing, who cleared the manioc swidden place, long have your people told your story. One of the great lost civilizations of the Amazon, the Kuikuro built a sophisticated complex of cities near Lake Kuhikugu in the Upper Xingu region of what is today Brazil. For close to a thousand years these centres thrived, uniquely adapted to the demands of their environment and forever shaping the Amazonian landscape. Yet, the arrival of Europeans would prove disastrous for the Americas. In just a few short years the indigenous population would be decimated by disease and the Kuikuro, now a shadow of themselves, forced ever deeper onto government reserves.[NEWLINE][NEWLINE]Hagito Anetügü, time has not been kind to your people. Their forests burned and ancient cities forgotten, the Kuikuro now pray to the itseke for guidance. Will you return to lead them and reclaim the unknown jungle? Can you build a civilization that will stand the test of time?</Text>
+		</Row>
+		<!-- -->
+		<Row Tag="TXT_KEY_LEADER_XINGU_MOD_DESC">
+			<Text>Anetü</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_XINGU_MOD_PEDIA_LIVED">
+			<Text>c. AD 500 ?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_XINGU_MOD_PEDIA_NAME">
+			<Text>Anetü</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_XINGU_MOD_PEDIA_SUBTITLE">
+			<Text>Leader of the Kuikuro</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_XINGU_MOD_PEDIA_TITLES_1">
+			<Text>Chief of Kuhikugu</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_XINGU_MOD_PEDIA_HEADING_1">
+			<Text>History</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_XINGU_MOD_PEDIA_TEXT_1">
+			<Text>As a pre-Colombian civilization lacking writing, little is known about Kuhikugu government. Additionally, the depopulation of indigenous tribes due to the arrival of Europeans in the Americas significantly impacted the archeological record, allowing the Amazon jungle to reclaim previously settled and cultivated sites. However, much can be learned by studying leadership models and settlement patterns among the modern Kuikuro. "Anetü" does not refer to a specific individual but is rather the Kuikuro term for chief. Surviving oral histories usually describe ancient leaders in mythological terms, often conflating them with itseke, or hyper-beings.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_XINGU_MOD_PEDIA_HEADING_2">
+			<Text>Kuhikugu Polities</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_XINGU_MOD_PEDIA_TEXT_2">
+			<Text>Rather than ancient cities, complex settlement patterns in the Upper Xingu were characterized by a network of permanent plaza communities integrated in territorial polities. This dispersed, multi-centric pattern of plaza towns and villages was organized in a nested hierarchy, which gravitated toward an exemplary political ritual center. These "galactic clusters" existed within a regional peer polity composed of geographically and socially articulated but independent polities that shared basic features of techno-economy, sociopolitical organization, and ideology.[NEWLINE][NEWLINE]Each cluster had an exemplary plaza center, although all permanent settlements had a central plaza which, like today, served as the political ritual center and probably the cemetery of the local group. This underscores the importance of public ritual as a major integrating feature of the prehistoric polities. In addition to their larger size and structural elaboration, including gates, roads, and secondary plazas, walled towns are distinguished by their position in relation to the cluster center: The largest residential centers are located roughly equidistant from the exemplary center to the northwest and southeast and medium-sized centers to the northeast and southwest. The area enclosed by the primary satellites represents the core area of each polity, with smaller non-walled settlements situated in a hinterland area. The southern Kuhikugu cluster was the principal political ritual center and largest residential center.[NEWLINE][NEWLINE]The clusters of walled towns and non-walled villages were maintained by semi-intensive resource management systems. Similar to Kuikuro villages today, these were probably focused on manioc agriculture, with diverse lesser crops (including arboriculture), as suggested by continuity in land use and utilitarian technology, and extensive wetland management (such as fish farming), as indicated by the presence of earthen dams and artificial ponds. Contemporary land use can be roughly divided into three concentric zones: village agricultural countryside, a more remote but active resource use zone, and deep forest.[NEWLINE][NEWLINE]The density of prehistoric settlements created overlapping zones with far more extensive and intensive land use. Mosaic landscapes alternated between areas or islands of acute human influence (in settlements, along roads, and in agricultural countryside) and less affected areas between settlements, between cluster cores and satellites, and particularly between clusters in the regional peer polity, characterized by large tracts of high forest. Intra-settlement production included large compost areas, characterized by anthropogenic dark earth and large open areas (devoid of domestic refuse), probably used for manioc cultivation.[NEWLINE][NEWLINE]Land-use planning and modification of local and regional ecology were no less remarkable or sophisticated than in other areas of early urban societies worldwide. As elsewhere, urbanism resulted in a landscape compositionally more heterogeneous, geometrically more complex, and ecologically more fragmented than those associated with small-scale societies traditionally viewed as typical of Amazonia. Regardless of scale, such areas of semi-intensive land-use have very different ecological parameters than those characteristic of small-scale indigenous groups in recent times.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_XINGU_MOD_PEDIA_HEADING_3">
+			<Text>Kuikuro Leadership</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_XINGU_MOD_PEDIA_TEXT_3">
+			<Text>The status of chief is closely tied to ritual for the Kuikuro. Every ritual marks a public status, mediating between the community, and this status often falls to the chief and nobles of the village. The condition of chief must be inherited, but at the same time must also be ritually confirmed. Chiefs can be descendants on either their maternal or paternal side, a condition which often creates several individuals who meet the criteria and are acknowledges as half chiefs. Only those individuals who can claim some degree of ancestry may be publicly recognized through rituals. The primary form of gaining such recognition involves becoming the "hagito anetügü", or chief of guests, during intertribal rituals.[NEWLINE][NEWLINE]Each village invited to take part in intertribal rituals must select three chiefs who will conduct the guests to the host village. This set possesses an internal hierarchy, typical of the Xinguanos preoccupation with ordering. Situations in which individuals (or things) hold equal status are rare; their world is not made of equals, but of people ordered according to specific principles.[NEWLINE][NEWLINE]The condition of chief of guests involves being formally received by the chiefs of the host village and remaining seated on stools throughout the entire ritual. The preeminent chief of a village is one who not only has ancestry but has also acted as the chief of guests on a number of occasions. As chief of guests, they are responsible for the well-being of the invitees and their own community, serving as mediator. Technically, the chief of guests has no privileges, but instead take care of their people and by doing so become respected in the eyes of the community.[NEWLINE][NEWLINE]Currently, almost all houses circling a single Kuikuro village plaza have at least one person, either male or female and normally the owner of the house, who is understood to be chief (or more accurately, half chief). However, some households have always been considered non-chiefly and others, directly related to a particularly famous chief, may have all of their individuals regarded as half chiefs. The famous chiefs of the past and present are those who effectively decided the destines of the community and who are normally owners of the communal structures.[NEWLINE][NEWLINE]Aside from being owners of rituals, therefore, the chiefs can be owners of the main path, via which guess arrive; the men's house in the centre of the village where the sacred flutes are kept, the chief's house covered in decorations, the plaza where the adult men meet at sundown, and finally the village itself. The main acting chief is not necessarily the owner of the village, however, but the one who recives the messengers from other villages by proffering, in the plaza, the "etinhü itagimbakitoho", or chiefly discourse for the reception of messengers.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_XINGU_MOD_PEDIA_HEADING_4">
+			<Text>Judgment of History</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_XINGU_MOD_PEDIA_TEXT_4">
+			<Text>Lacking any historical records, it is not possible to judge Kuhikugu leadership. However, the sophisticated polities that arose following population and settlement models uniquely adapted to the Amazonian landscape speaks to the strength of their political centres. The modern Kuikuro population has also seen an increase in population (up from ~450 in 2002 to a little over ~600 in 2010) as well as the preservation of cultural traditions thanks to renewed efforts to protect indigenous rights and land.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_XINGU_MOD_PEDIA_HEADING_5">
+			<Text>Factoid</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_XINGU_MOD_PEDIA_TEXT_5">
+			<Text>A Kuikuro village may have many individuals regarded as chief, with the acting chief primarily determined by hosting rituals with other villages.</Text>
+		</Row>
+		<!-- -->
+		<Row Tag="TXT_KEY_LEADER_XINGU_MOD_FIRST_GREETING_1">
+			<Text>Welcome, stranger! I am Anetü, Chief of Kuhikugu. Let us trade in peace and friendship.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_XINGU_MOD_FIRST_GREETING_2">
+			<Text>Welcome! I offer to help guide your people through these ancient forests.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_XINGU_MOD_DEFEATED_1">
+			<Text>Your arrival in these lands has brought nothing but disease and destruction to my people.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_XINGU_MOD_DEFEATED_2">
+			<Text>I'm sure someone will find my capital again... someday. It can't stay lost forever!</Text>
+		</Row>
+		<!-- -->
+		<Row Tag="TXT_KEY_CITY_NAME_XINGU_MOD_1">
+			<Text>Kuhikugu</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_XINGU_MOD_2">
+			<Text>Heulugihïtï</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_XINGU_MOD_3">
+			<Text>Nokugu</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_XINGU_MOD_4">
+			<Text>Kuhugupe</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_XINGU_MOD_5">
+			<Text>Hatsikugi</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_XINGU_MOD_6">
+			<Text>Itsagahïtï</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_XINGU_MOD_7">
+			<Text>Secú</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_XINGU_MOD_8">
+			<Text>Meijeinei</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_XINGU_MOD_9">
+			<Text>Agikuangaku</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_XINGU_MOD_10">
+			<Text>Séhu</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_XINGU_MOD_11">
+			<Text>Intagu</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_XINGU_MOD_12">
+			<Text>Morená</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_XINGU_MOD_13">
+			<Text>Tuatuari</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_XINGU_MOD_14">
+			<Text>Yakaré</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_XINGU_MOD_15">
+			<Text>Tehukugu</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_XINGU_MOD_16">
+			<Text>Akagahïtï</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_XINGU_MOD_17">
+			<Text>Kamakuaka</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_XINGU_MOD_18">
+			<Text>Ahasukugu</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_XINGU_MOD_19">
+			<Text>Ipatse</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_XINGU_MOD_20">
+			<Text>Atï</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_XINGU_MOD_21">
+			<Text>Waura</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_XINGU_MOD_22">
+			<Text>Ahanitahagu</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_XINGU_MOD_23">
+			<Text>Lahatua</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_XINGU_MOD_24">
+			<Text>Atïka</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_XINGU_MOD_25">
+			<Text>Lamakuka</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_XINGU_MOD_26">
+			<Text>Z</Text>
+		</Row>
+		<!-- -->
+		<Row Tag="TXT_KEY_SPY_NAME_XINGU_MOD_0">
+			<Text>Hikutaha</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_XINGU_MOD_1">
+			<Text>Afukaka</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_XINGU_MOD_2">
+			<Text>Giti</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_XINGU_MOD_3">
+			<Text>Aulukuma</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_XINGU_MOD_4">
+			<Text>Kalusi</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_XINGU_MOD_5">
+			<Text>Kanu</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_XINGU_MOD_6">
+			<Text>Ipi</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_XINGU_MOD_7">
+			<Text>Sesuaka</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_XINGU_MOD_8">
+			<Text>Mapulu</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_XINGU_MOD_9">
+			<Text>Tua</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<!-- -->
+		<Row Tag="TXT_KEY_GOVERNMENT_JFD_XINGU_PRINCE">
+			<Text>Cacique</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GOVERNMENT_JFD_XINGU_KING">
+			<Text>Ótomo</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GOVERNMENT_JFD_XINGU_EMPEROR">
+			<Text>Kuhikugu Ótomo</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_PARTY_XINGU_CLERGY">
+			<Text>Kehegé Oto</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_PARTY_XINGU_NOBILITY">
+			<Text>Andagü</Text>
+		</Row>
+		<!-- -->
+		<Row Tag="TXT_KEY_PMMM_LEADER_MG_NAME_XINGU_MOD">
+			<Text>Tapualu</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<!-- -->
+		<Row Tag="TXT_KEY_EVENT_CULDEV_TOMATEKH_XINGU_01">
+			<Text>A method of enriching the fertility of soil to create egepe, terra preta, has been developed in {1_City}.</Text>
+		</Row>
+		<!-- -->
+		<Row Tag="TXT_KEY_GENERIC_XINGU_MOD_INFLUENTIAL_ON_AI_1">
+			<Text>My people are planting integrated gardens and practicing Huka-Huka wrestling matches. I worry the rest of the world will also succumb to the influence of your culture.</Text>
+		</Row>
+		<!-- -->
+	</Language_PL_PL>
+</GameData>

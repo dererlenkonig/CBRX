@@ -1,0 +1,453 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 11/23/2013 1:27:25 PM -->
+<GameData>
+	<Language_en_US>
+		<Row Tag="TXT_KEY_CIV_LEUGI_HAITI_OCCUPIED_ALERT">
+			<Text>Because of your religious influence the city of {1_City} acts as [ICON_OCCUPIED] Occupied and grants you {2_GApoints} [ICON_GOLDEN_AGE] Golden Age Points!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_LEUGI_HAITI_OCCUPIED_OTHERS_ALERT">
+			<Text>Because of Haiti's religious influence the city of {1_City} now acts as [ICON_OCCUPIED] Occupied!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_DUTTY_BOUKMAN">
+			<Text>Dutty Boukman</Text>
+		</Row>
+		
+		<!-- 
+						Haiti
+		-->
+		<Row Tag="TXT_KEY_CIV_LEUGI_HAITI_ADJECTIVE">
+			<Text>Haitian</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_LEUGI_HAITI_DESC">
+			<Text>Haitian Empire</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_LEUGI_HAITI_SHORT_DESC">
+			<Text>Haiti</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_LEUGI_HAITI_HEADING_1">
+			<Text>History</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_LEUGI_HAITI_TEXT_1">
+			<Text>The present-day Republic of Haiti occupies the western third of the island of Hispaniola, the remaining two-thirds taken up by the Dominican Republic. Though the smaller part of the island today, Haiti once dominated the entirety of it during its independence period - one of the most remarkable in the Americas. Though small in number, the Haitians had no lack of morale - in the late 18th century, they overthrew the far larger French Empire from their shores, liberating the island in the process - Haiti was only the second country in the Americas to become independent from the European colonialists, a mighty feat for any nation. Sadly, Haiti’s economy soon collapsed as a result of incompetent governance, and several brutal and dictatorial regimes took command of Haiti for much of its history, leaving it in a poor and deprived state. To this day, Haiti is among the poorest countries in the world, as a result of high illiteracy rates and a corrupt government - however, it can still pride itself in its defiance to colonialism.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_LEUGI_HAITI_HEADING_2">
+			<Text>Colonisation</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_LEUGI_HAITI_TEXT_2">
+			<Text>During his first voyage to the New World, one of the last places that Christopher Columbus landed on was the island of Hispaniola. Leaving 19 men behind on this island, they founded the settlement of Mole Saint-Nicolas, and in doing so claimed the island for Spain. The Spanish named this land Santo Domingo, after St Dominic, the patron saint of the island. Endorsing conversion to Catholicism, the Spanish went around this island - as with the rest of the Caribbean - converting everything they could find to Catholicism. However, outwith the best interests of the natives, other nations were competing for land in the New World - and in the case of Haiti, France was a major player. In a dispute over Hispaniola's sovereignty, France received the western third, which they named ‘Saint Dominique’, now the entirety of Haiti’s territory, while Spain kept the eastern parts, the present-day Dominican Republic.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_LEUGI_HAITI_HEADING_3">
+			<Text>The French in Haiti</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_LEUGI_HAITI_TEXT_3">
+			<Text>Owing to Haiti’s position as a potential economic goldmine, it was no surprise that the French wanted to get as much as possible out of Haiti’s lucrative sugar trade. Taking slaves from West Africa over to help work the plantations in Haiti, the French economy grew massively, and this small piece of land soon became one of France’s most valuable colonies. However, this came at a cost. By taking so many slaves in to work the plantations, the majority of Haiti’s population were of African descent, oppressed by a French minority; though the overall situation was far more complex than this. Not only were the Africans and Europeans pitted against each other, but these classes within themselves had massive divides. Firstly, the ruling class were known as the ‘blancs’, or ‘whites’, the landowners and politicians, effectively the law. A step down from them was a class known as the ‘petit-blancs’, or ‘little whites’, who were poorer than the elites, but were still regarded as better than the slaves by the tyrannic colonialist systems. The ‘gens de couleur libre’, ‘free people of colour’, was a term used to describe any slave who had been freed, and was more or less accepted by society. At the very bottom of this brutal class system were the slaves, the overwhelming majority in the country. Trouble was brewing in the colony of Haiti.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_LEUGI_HAITI_HEADING_4">
+			<Text>The Haitian Revolution</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_LEUGI_HAITI_TEXT_4">
+			<Text>One of the most remarkable revolts in all of human history, the Haitian Revolution saw a small island with an oppressed majority of people overthrow the ruling class, and its far larger empire. Though several other revolts and revolutions in the Americas had their own spectacular points, Haiti’s uniqueness comes in the fact that the French were more than prepared to take down the Haitians, but failed to do so. The French Revolution in mainland Europe had helped show the Haitians the principles on which they’d like their country to be run - however, the minority landowners were highly reluctant to allow such a thing. Inevitably, conflict would happen, made easier by the fact that France was in turmoil after her revolution. Beginning in 1794, Haiti was able to cast off the French colonists in just a few years, assisted by the Haitian Voodoo priests, who were able to bring morale into the revolt. Former slaves who had hidden in the mountains of Haiti, known as ‘Maroons’, also joined the fight, absolutely crushing the French regime in Haiti.</Text>
+		</Row>
+		
+	
+		<!-- Spy Names -->
+		<Row Tag="TXT_KEY_SPY_NAME_9">
+			<Text>Ayizan</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_8">
+			<Text>Samedi</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_7">
+			<Text>Brigitte</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_6">
+			<Text>Damballah</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_5">
+			<Text>Weddo</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_4">
+			<Text>Legba</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_3">
+			<Text>Ogoun</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_2">
+			<Text>Erzulie</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_1">
+			<Text>Cimetiere</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_0">
+			<Text>Bois</Text>
+		</Row>
+		<!--
+						Touissant Louverture
+		-->
+		<Row Tag="TXT_KEY_LEADER_LEUGI_LOUVERTURE_DESC">
+			<Text>Toussaint-Louverture</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_DOM_LEUGI_LOUVERTURE_TEXT">
+			<Text>Hail, François Dominique Toussaint-Louverture, founder of the Haitian Revolution. [NEWLINE][NEWLINE]As a former slave who went on to become the first black general of the French Army, you would be one of the most important advocates for the abolition of slavery in the French Empire. Leading a slave rebellion against the French colonial government in Saint-Domingue, your reputation as a disciplined commander and a shrewd diplomat would earn you the title of the Black Napoleon, and would see you come to power over the entire colony.  In achieving victory over the French troops sent by Napoleon Bonaparte to oust you and your government, you would thus pave the way for Haitian independence, to be continued and achieved by your loyal Lieutenant, Jean-Jacques Dessalines.[NEWLINE][NEWLINE]O’ great commander, leader of the maroons and the free gens de couleur, your people call for a leader as one with the strength and determination as you. Will you listen to their cries for freedom and sovereignty? Can you build a civilization that will stand the test of time?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_LEUGI_LOUVERTURE_HEADING_1">
+			<Text>History</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_LEUGI_LOUVERTURE_TEXT_1">
+			<Text>Known as ‘the Black Napoleon,’ François-Dominique Toussaint Louverture was the military and political genius who led a slave rebellion against the French colonial government of Saint-Domingue, which would culminate into the Haitian Revolution and the subsequent creation of an independent and sovereign Haitian republic. Lauded for his capability as both a commander and a diplomat, the success of Louverture’s rebellion would put to question the very institution of slavery, and to this day, Louverture’s military triumph remains a dear testimony to the freedom and resolve of those put to slavery.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_LEUGI_LOUVERTURE_HEADING_2">
+			<Text>Early Life</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_LEUGI_LOUVERTURE_TEXT_2">
+			<Text>Louverture was born sometime between 1739 and 1749 on the Bréda at Haut de Cap plantation in the French colony of Saint-Domingue. His father was likely the younger son of the king of Arrada in modern day Benin, and his mother his father’s second wife. Though little is known of Louverture’s early life, evidence suggests that he was well educated and deeply devoted to his Catholic faith. In his letters and speeches, he shows a sophisticated degree of influence from the Florentine philosopher Machiavelli, as well as a number of prominent thinkers on anti-slavery. He also may have received some education from Jesuit Missionaries. At the age of 33, it is known that Louverture became a free man, and he subsequently married in 1782; six years later. In his lifetime, he would father 16 children; 11 of whom he would outlive.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_LEUGI_LOUVERTURE_HEADING_3">
+			<Text>The Rebellion</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_LEUGI_LOUVERTURE_TEXT_3">
+			<Text>
+				The revolution in France which saw the declaration of the rights of men had a deep, reverberating impact upon the freed slaves of Haiti. In the early stages of the rebellion, Louverture did not take part, but he was amongst those that sympathised with its plight. Eventually, he joined the forces of Georges Biassou as a doctor, and negotiated for support for the rebellion from the neighbouring Spanish colonial government of Santo Domingo. He continued this diplomatic role in December of 1971, when he negotiated for a series of reprieves for the slaves in exchange for the release of several white prisoners. Despite his success at this negotiation, which would see the banning of the use of the whip and the introduction of an extra non-working day, it did not lead to further concessions to the rebellion’s demands as he had hoped.[NEWLINE][NEWLINE]Throughout 1792, Louverture became increasingly involved in the rebellion, and he continued to formalise an alliance with the Spanish in order to seek victory. By 1793, he had gained his reputation as a military leader of note; reputed for the orderly and exceptional manner in which he commanded his soldiers in the art of guerrilla warfare. It was around this time that he adopted the name Louverture, which means “opening” in French. Although it is uncertain as to why he adopted this name, historians suggest that it means to refer to his ability to create openings in battles.[NEWLINE][NEWLINE]By 1794, Louverture had declared his intention to pursue the complete abolition of slavery in French Saint-Domingue. Although a royalist, Louverture nonetheless had begun to use the language of the French Revolution in his speeches in order to stir support for his cause. In February, the French revolutionary government finally declared the abolition of slavery throughout her empire, and Louverture, now in command of much territory, decided to switch his allegiance from Spain to France.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_LEUGI_LOUVERTURE_HEADING_4">
+			<Text>Allegiance with the French</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_LEUGI_LOUVERTURE_TEXT_4">
+			<Text>During the 1794-1796 period, Louverture faced many foes as an ally to the French. He now fought against his former colleagues who had battled alongside him for the Spanish, whilst also facing a British attack. Although he was able to overcome these obstacles, his greatest challenge would be in securing his own dominance. Since 1974, Jean-Louis Villatte, a racist mulatto commander, had competed with Louverture for control over troops and territory, and used rhetoric and propaganda to slander the French authorities. In March, Villatte captured the French Governor and appointed himself to the position. Louverture, however, was able to dispatch this coup, and was subsequently proclaimed Lieutenant Governor.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_LEUGI_LOUVERTURE_HEADING_5">
+			<Text>Command of Saint-Domingue</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_LEUGI_LOUVERTURE_TEXT_5">
+			<Text>Following Villate’s insurrection, French representatives of the third commission arrived on Saint-Domingue. Amongst them was a commissioner named Sonthonax, who had shared Louverture’s desire to see slavery abolished. The initially positive relationship between Sonthonax and Louverture resulted in the latter’s promotion to General.[NEWLINE][NEWLINE]In 1796, the former French Governor, Lavaux, was elected to the French national assembly, removing him as a rival to Louverture’s power in Saint-Domingue. Sonthonax, who had gradually become disfavoured toward Louverture, remained his only source of contention. This came to a head when Sonthonax, returning to France, accused Louverture before the French government of seeking independence and of being a royalist. Louverture, however, was able to assure the French government of his loyalty toward the colony, leaving him in near sole command of Saint-Domingue.[NEWLINE][NEWLINE]Over the course of 1798, Louverture would sign a number of treaties with both the British and the United States. With the British, he would arrange for the withdrawal of British troops from the west of the island in exchange for an amnesty for the French counter-revolutionaries in those areas. This would result in the return of Port-au-Prince to French rule in May. With the United States, Louverture would successfully negotiate with the government of John Adams to temper the heated relationship between France and the United States which had suspended trade with Saint-Domingue, so that vital trade with the colony could resume.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_LEUGI_LOUVERTURE_HEADING_6">
+			<Text>Civil War and the Constitution of 1801</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_LEUGI_LOUVERTURE_TEXT_6">
+			<Text>
+				In the south of the colony remained the near autonomous state ruled by the mulatto general, Andre Rigaud, who had rejected the authority of both the French third commission and Louverture. In 1799, tensions between Louverture and Rigaud would culminate into an open conflict between the two. During this time, the future Haitian Emperor, Jean-Jacques Dessaline, would be placed in charge of the campaign against Rigaud in his capacity as Louverture’s lieutenant. Rigaud would be defeated in little over year after the civil war had begun, and Louverture would be left as the undisputed governor of the colony.[NEWLINE][NEWLINE]During the civil war, however, Napoleon Bonaparte would come to power in France. Although Napoleon assured Louverture of his position, and of the continued abolition of slavery, Louverture would disobey his orders against invading Spanish Santo Domingo. Louverture would proceed successfully with this invasion, and he would consequentially become commander of the whole island of Haiti.[NEWLINE][NEWLINE]In 1801, Louverture appointed a constitutional assembly to draft a constitution for Saint-Domingue, which would officially establish him as ruler of the entire island. In this constitution would be guarantees of the freedom and equality of all Frenchmen, of which he loyally considered himself to be. Napoleon, however, was not convinced by this constitution, and would send an expedition of 20,000 men to the colony in order to restore French authority.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_LEUGI_LOUVERTURE_HEADING_7">
+			<Text>Leclerc’s Campaign and Capture</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_LEUGI_LOUVERTURE_TEXT_7">
+			<Text>Now well on the road to war, Louverture realized that he would need to defend the island incredibly well against the French forces aiming to retake it, initiating the start of Haiti’s conflict with the French. One of Napoleon’s best generals, Charles Emmanuel Leclerc, was sent over to the island with the aim of securing a diplomatic end to the uprising; however, all hopes of this were soon crushed when the Haitian forces attacked Leclerc’s forces as soon as they attempted to land in Haiti. However, not all of the island was sided with Louverture, making the efforts to stop the French forces getting in harder.[NEWLINE][NEWLINE]Louverture’s strategy was to try and destroy any potential landing sites for the French as much as possible, sticking to the mountainous interior of the island. The continental forces, Louverture believed, would soon succumb to disease if they continued to fight the Haitians. He was later proved to be right, making this an incredibly successful guerrilla war. After several months of war without end, both Louverture and Leclerc had had enough; after finally sitting together at the negotiating table, it was decided that Louverture could retire to his plantation, and his generals would be granted an amnesty after the war.[NEWLINE][NEWLINE]Though a diplomatic breakthrough may have been possible at this stage, it was turned to dust after Louverture was captured by Napoleon’s forces in 1802. He died in prison the next year, well away from Haiti; however, Louverture’s premature capture meant that the remaining Haitian generals knew that a French plot was afoot, giving them an instinct to keep fighting until no more could be done. In the same year, Haiti achieved independence, but not without loosing the hero of the fighting, Louverture.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_LEUGI_LOUVERTURE_HEADING_8">
+			<Text>Judgment of History</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_LEUGI_LOUVERTURE_TEXT_8">
+			<Text>On August 29, 1954, the Haitian ambassador to France, Léon Thébaud, inaugurated a stone cross memorial for Toussaint Louverture at the foot of the fort. Years afterward, the French government ceremoniously presented a shovelful of soil from the grounds of Fort-de-Joux to the Haitian government as a symbolic transfer of Toussaint Louverture's remains. Remembered as the combatant for liberty and artisan of the abolition of slavery, Touissaint is also one of the main heros of Haiti alongside Jean-Jacques Dessalines.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_LEUGI_LOUVERTURE_LIVED">
+			<Text>1743 - 1803 AD</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_LEUGI_LOUVERTURE_NAME">
+			<Text>François Dominique Toussaint-Louverture</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_LEUGI_LOUVERTURE_SUBTITLE">
+			<Text>The Black Napoleon - Leader of the Haitian Revolution</Text>
+		</Row>
+		<!--
+						Diplomacy
+		-->
+		<!--First Greeting messages from AI leaders-->
+		<Row Tag="TXT_KEY_LEADER_LEUGI_LOUVERTURE_FIRSTGREETING_1">
+			<Text>I was born a slave, but nature gave me the soul of a free man... I'm Toussaint-Louverture, and you're in the free land of Haiti</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_LEUGI_LOUVERTURE_FIRSTGREETING_2">
+			<Text>I'm François Dominique Toussaint-Louverture, and I have led these fine people to freedom. I hope you can aid our revolution, or else</Text>
+		</Row>
+		<!--Defeated messages from AI leaders-->
+		<Row Tag="TXT_KEY_LEADER_LEUGI_LOUVERTURE_DEFEATED_1">
+			<Text>You have brought slavery back to Haiti, but the Mawon will rise again, we always do, we always survive</Text>
+		</Row>
+		<!-- Human repeats an action too much, gets the following responses -->
+		<Row Tag="TXT_KEY_LEADER_LEUGI_LOUVERTURE_REPEAT_TOO_MUCH_1">
+			<Text>Never thought freedom could be so repetitive...</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_LEUGI_LOUVERTURE_REPEAT_TRADE_TOO_MUCH_1">
+			<Text>Enough of this, your unjust trade isn't for us</Text>
+		</Row>
+		<!-- Greetings -->
+		<Row Tag="TXT_KEY_LEADER_LEUGI_LOUVERTURE_GREETING_HOSTILE_HELLO_1">
+			<Text>Greetings, oppressor</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_LEUGI_LOUVERTURE_GREETING_POLITE_HELLO_1">
+			<Text>Hello, my friend and friend of the maroons, what do you need?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_LEUGI_LOUVERTURE_GREETING_HOSTILE_HUMAN_AT_WAR_1">
+			<Text>I defeated all of my enemies, but it seems this isn't your luck... Well, good for your opponent</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_LEUGI_LOUVERTURE_GREETING_HUMAN_AT_WAR_1">
+			<Text>Remember to let your people stand united, that way you will win your war, I trust you will</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_LEUGI_LOUVERTURE_HOSTILE_AGGRESSIVE_MILITARY_WARNING_1">
+			<Text>You think I don't see your troops moving here? Many tried to surprise the people of Haiti, you're no different than them</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEUGI_LOUVERTURE_GREETING_HOSTILE_AGGRESSIVE_PLOT_BUYING_1">
+			<Text>These are the lands of the maroons, not yours... Stop your oppressive expansion!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_LEUGI_LOUVERTURE_GREETING_AGGRESSIVE_PLOT_BUYING">
+			<Text>It seems to me you're getting to near the land of my free people, stop please.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_LEUGI_LOUVERTURE_GREETING_HOSTILE_AGGRESSIVE_EXPANSION_1">
+			<Text>You're stepping in the lands rightfully taken by my people, stop this now!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_LEUGI_LOUVERTURE_GREETING_AGGRESSIVE_EXPANSION_1">
+			<Text>If I may say something, the Haitian people fear you're getting too near, putting their lives at risk, do stop please.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_LEUGI_LOUVERTURE_GREETING_FRIENDLY_STRONG_MILITARY_1">
+			<Text>A man as strong as you can only be so with freedom and trust from your people, I applaud that.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_LEUGI_LOUVERTURE_GREETING_FRIENDLY_STRONG_ECONOMY_1">
+			<Text>I must say, your economic fortunes are indeed a blessing for your people, I can only hope Haiti to become as plenty.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_LEUGI_LOUVERTURE_GREETING_HOSTILE_HUMAN_FEW_CITIES_1">
+			<Text>The small and insignificant one wishes to destroy freedom? Pathetic!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_LEUGI_LOUVERTURE_GREETING_HOSTILE_HUMAN_SMALL_ARMY_1">
+			<Text>My people are strong and united, and can defeat the biggest armies... It seems you can't say the same</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_LEUGI_LOUVERTURE_GREETING_HOSTILE_HUMAN_IS_WARMONGER_1">
+			<Text>The oppressor is here, I better leave soon</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_LEUGI_LOUVERTURE_TOO_SOON_FOR_DOF_1">
+			<Text>My life has taught me that trust requires time. I don't trust you yet, and I must wait for the good of my people</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_LEUGI_LOUVERTURE_DENOUNCE_1">
+			<Text>The world must know your real face. A face of oppression and slavery. Maybe then will they understand why my people must fight.[NEWLINE][NEWLINE]([COLOR_WARNING_TEXT]They have publicly denounced us! NOTE: You are not at war.[ENDCOLOR])</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_LEUGI_LOUVERTURE_DENOUNCE_2">
+			<Text>You may think I have no power, but I got my words. I can denounce your unjustice, and so I will![NEWLINE][NEWLINE]([COLOR_WARNING_TEXT]They have publicly denounced us! NOTE: You are not at war.[ENDCOLOR])</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_LEUGI_LOUVERTURE_RESPONSE_TO_BEING_DENOUNCED_1">
+			<Text>Denounce the one who fights for freedom, that makes you the oppressor.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_LEUGI_LOUVERTURE_RESPONSE_TO_BEING_DENOUNCED_2">
+			<Text>So... you denounce my fight for freedom? You fool, you'll now feel the wrath of the maroons.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_LEUGI_LOUVERTURE_HUMAN_DOF_SO_AI_DENOUNCE_1">
+			<Text>First {1_CivName}, now you. My war against slavery has gone bigger.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_LEUGI_LOUVERTURE_HUMAN_DENOUNCE_SO_AI_DENOUNCE_1">
+			<Text>I share your convictions that {1_CivName} only causes problems for the free people of the world. Perhaps the combination of our denouncements will teach them a lesson.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_LEUGI_LOUVERTURE_HUMAN_DOFED_FRIEND_1">
+			<Text>You, me and {1_CivName} all fight against oppression. There's hope in the world yet.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_LEUGI_LOUVERTURE_HUMAN_DOFED_ENEMY_1">
+			<Text>I used to think you wise, but your dealings with {1_CivName} are troubling against freedom.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_LEUGI_LOUVERTURE_HUMAN_DENOUNCED_FRIEND_1">
+			<Text>{1_CivName} is on the same side as I am, the side of freedom. You have just taken another step far from justice.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_LEUGI_LOUVERTURE_HUMAN_DENOUNCED_ENEMY_1">
+			<Text>{1_CivName} is an oppressor and you denounced them to the world. You have won a friend in me</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_LEUGI_LOUVERTURE_HUMAN_DOF_SO_AI_DOF_1">
+			<Text>I shall find your attitude towards {1_CivName} as a suggestion. I have sent a letter to join them against oppression.</Text>
+		</Row>
+		<!-- General Diplo Text -->
+		<Row Tag="TXT_KEY_LEADER_LEUGI_LOUVERTURE_COOP_WAR_REQUEST_1">
+			<Text>It aches my heart that there are villains in this world such as {1_PlayerName:textkey} that can only be dealt with by cannon fire. But so it must be, and I ask you to bear with me this burden, for the sake of all that is good.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_LEUGI_LOUVERTURE_COOP_WAR_REQUEST_2">
+			<Text>{1_PlayerName:textkey} has long been given the opportunity to accept harmony with our two nations. They have refused, and the time has come for war. Can I call you my ally, as I would you my friend?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_LEUGI_LOUVERTURE_COOP_WAR_TIME_1">
+			<Text>It is a grave time that has befallen us, but it is a necessary one. Do not dishonour yourself, and join me in war against {1_PlayerName:textkey}.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_LEUGI_LOUVERTURE_DEC_FRIENDSHIP_1">
+			<Text>Let us join together and declare friendship against this oppressive world!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_LEUGI_LOUVERTURE_DEC_FRIENDSHIP_2">
+			<Text>Are you a friend of freedom?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_LEUGI_LOUVERTURE_AGGRESSIVE_MILITARY_WARNING_1">
+			<Text>It's come to my attention that you have a large number of Units near my borders. I request that you move them elsewhere to avoid causing undue distress to my citizens.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_LEUGI_LOUVERTURE_PLOT_BUYING_WARNING_1">
+			<Text>Your purchase of land is getting out of hand. I will not be afraid to put a stop to it if you cannot control yourself.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_LEUGI_LOUVERTURE_PLOT_BUYING_SERIOUS_WARNING_1">
+			<Text>Your purchase of land near to my borders has caused some alarm amongst my troops. Please be careful; I would not wish it to come between us.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_LEUGI_LOUVERTURE_EXPANSION_SERIOUS_WARNING_1">
+			<Text>Your rapid expansion is causing some serious concern in my court and I must protest it to you. I appeal to your better sense to cease at once or you will suffer the consequences of your actions.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_LEUGI_LOUVERTURE_EXPANSION_WARNING">
+			<Text>Your expansion efforts just show your oppression. Know that there will be consequences for this.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_LEUGI_LOUVERTURE_RETURNED_CIVILIAN_1">
+			<Text>Thank you for liberating my people, your deeds shall be remembered forever</Text>
+		</Row>
+		<!--Insults-->	
+		<Row Tag="TXT_KEY_LEADER_LEUGI_LOUVERTURE_INSULT_LEUGI_LOUVERTURE_1">
+			<Text>I see the oppressor is still around...</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_LEUGI_LOUVERTURE_INSULT_LEUGI_LOUVERTURE_2">
+			<Text>Some day, this world will be filled with justice... and you will not be around</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_LEUGI_LOUVERTURE_INSULT_LEUGI_LOUVERTURE_3">
+			<Text>I can't believe I still have to read about your people, truly the world has punished me enough</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_LEUGI_LOUVERTURE_INSULT_LEUGI_LOUVERTURE_4">
+			<Text>So, you're still around? My houngans made some rituals to have you killed, seems they failed. Sadly</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_LEUGI_LOUVERTURE_INSULT_MILITARY_1">
+			<Text>What? Your people are so fat from their oppression that they can't even raise arms anymore?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_LEUGI_LOUVERTURE_INSULT_MILITARY_2">
+			<Text>I see your army, I see mine. It seems freedom is quite a powerful weapon, for your troops seem fragile indeed.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_LEUGI_LOUVERTURE_INSULT_BULLY_1">
+			<Text>You are unfit to serve as ruler of your people, for such a poor show of diplomatic skills you have displayed with your bullying.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_LEUGI_LOUVERTURE_INSULT_UNHAPPINESS_1">
+			<Text>I can hear your people wailing in sorrow all the way over in my empire. If you don't do something soon they might just pack up and find a real free land to live in.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_LEUGI_LOUVERTURE_INSULT_UNHAPPINESS_2">
+			<Text>It's obvious my lands are in better shape. Your lands needs some more freedom.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_LEUGI_LOUVERTURE_INSULT_CITIES_1">
+			<Text>I'm so glad your so small that my people can crush your fake belief in oppression</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_LEUGI_LOUVERTURE_INSULT_POPULATION_1">
+			<Text>Travelers have told us that your empire's economy is in pretty sad shape. If you beg a little I might give you a hand. Okay, actually I won't.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_LEUGI_LOUVERTURE_INSULT_CULTURE_1">
+			<Text>Your people think themselves superior. But mine are far superior because we at least walk in freedom</Text>
+		</Row>
+		<!--Public Declarations-->
+		<Row Tag="TXT_KEY_LEADER_LEUGI_LOUVERTURE_DECLARATION_PROTECT_CITY_STATE_1">
+			<Text>{2_MajorCivName:textkey} announces to the world that it is now protecting {1_MinorCivName:textkey}. Attacking the City-State will greatly damage relations and may lead to war.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_LEUGI_LOUVERTURE_DECLARATION_ABANDON_CITY_STATE_1">
+			<Text>{2_MajorCivName:textkey} has taken back its guarantee of protecting {1_MinorCivName:textkey}.</Text>
+		</Row>
+		<!-- Human is asking the AI for something -->
+		<Row Tag="TXT_KEY_LEADER_LEUGI_LOUVERTURE_DONT_SETTLE_NO_1">
+			<Text>Absolutely not. The land that I settle belongs to those who can defend it greatest.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_LEUGI_LOUVERTURE_DONT_SETTLE_YES_1">
+			<Text>Yes. I would prefer to honour our friendship.</Text>
+		</Row>
+		<!--Deal Offers and related-->
+		<Row Tag="TXT_KEY_LEADER_LEUGI_LOUVERTURE_LUXURY_TRADE_1">
+			<Text>There would be a far greater benefit to our two nations should you accept this deal, beyond the economic, I assure you.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_LEUGI_LOUVERTURE_OPEN_BORDERS_EXCHANGE_1">
+			<Text>I believe there is much to be achieved for our people should we allow them to cross freely between our two nations.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_LEUGI_LOUVERTURE_RESPONSE_REQUEST_1">
+			<Text>I ask of you this one thing; for I know that you are my friend, and that you will deliver.</Text>
+		</Row>
+		<!--AI Attacked by Human - Strong and Weak also include the default response sets-->
+		<Row Tag="TXT_KEY_LEADER_LEUGI_LOUVERTURE_ATTACKED_HOSTILE_1">
+			<Text>Why have you made such a foolish error?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_LEUGI_LOUVERTURE_ATTACKED_EXCITED_1">
+			<Text>I will revel in this opportunity to put my knowledge to the test against a foe of such ill character as you.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_LEUGI_LOUVERTURE_ATTACKED_SAD_1">
+			<Text>Why have you made such a foolish error?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_LEUGI_LOUVERTURE_ATTACKED_BETRAYED_1">
+			<Text>Why have you made such a foolish error?</Text>
+		</Row>
+		<!--AI Declaring War on Human - Strong and Weak also include the default response sets-->
+		<Row Tag="TXT_KEY_LEADER_LEUGI_LOUVERTURE_DOW_GENERIC_1">
+			<Text>Gravely, war must be done upon you.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_LEUGI_LOUVERTURE_DOW_LAND_1">
+			<Text>The land that you thought was yours indeed belongs to my people. This is my time to take it back.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_LEUGI_LOUVERTURE_DOW_WORLD_CONQUEST_1">
+			<Text>The land that you thought was yours indeed belongs to my people. This is my time to take it back.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_LEUGI_LOUVERTURE_DOW_OPPORTUNITY_1">
+			<Text>The land that you thought was yours indeed belongs to my people. This is my time to take it back.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_LEUGI_LOUVERTURE_DOW_DESPERATE_1">
+			<Text>I regret that peace has failed us. And now we are left with only greatest of pain; the knowledge of our duties to do battle.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_LEUGI_LOUVERTURE_DOW_BETRAYAL_1">
+			<Text>I regret that peace has failed us. And now we are left with only greatest of pain; the knowledge of our duties to do battle.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_LEUGI_LOUVERTURE_DOW_REGRET_1">
+			<Text>I regret that peace has failed us. And now we are left with only greatest of pain; the knowledge of our duties to do battle.</Text>
+		</Row>
+		<!--AI Responses to a human peace offer-->
+		<Row Tag="TXT_KEY_LEADER_LEUGI_LOUVERTURE_TOO_SOON_NO_PEACE_1">
+			<Text>You have done wrong by my people, and there shall be no peace until justice is wrought.</Text>
+		</Row>
+		<!--AI Responses to a discussion mode topics-->
+		<Row Tag="TXT_KEY_LEADER_LEUGI_LOUVERTURE_BAD_1">
+			<Text>It is a pity that it has come to this. It it is a pity that you cannot be reasoned with.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_LEUGI_LOUVERTURE_BAD_2">
+			<Text>I am disappointed in you.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_LEUGI_LOUVERTURE_GOOD_1">
+			<Text>Thank you. It took courage to stand down to me.</Text>
+		</Row>
+		<!--
+						Trait
+		-->
+		<Row Tag="TXT_KEY_TRAIT_LEUGI_HAITI_SHORT">
+			<Text>Mother of Revolutions</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_LEUGI_HAITI">
+			<Text>+1 [ICON_PEACE] Faith from plantations. Enemy cities that follow your religion are set as [ICON_OCCUPIED] Occupied and grant you [ICON_GOLDEN_AGE] Golden Age Points. Adopting new Social Policies during [ICON_GOLDEN_AGE] Golden Ages requires less [ICON_CULTURE] Culture.</Text>
+		</Row>
+	
+		
+		<!--
+						Maroon
+		-->
+		<Row Tag="TXT_KEY_UNIT_LEUGI_MAWON">
+			<Text>Mawon</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_LEUGI_MAWON_TEXT">
+			<Text>Mawon is the Kreyole word to name fugitive slaves. It is used to describe those slaves from Africa who escaped their servitude and went on to found independent settlements in the Americas. In English, they are commonly known as “maroons.” These maroons often banded together to form new communities or sought to integrate themselves into indigenous populations. By the 1700s, however, the already precarious task of sustaining an independent and native settlement had caused most maroon communities to disappear, as a result of the ever-encroaching threat from white plantation owners and the difficulty of growing their own crops.
+
+				[NEWLINE][NEWLINE]The maroon communities which lived on the island of Haiti can be considered amongst the most influential and remarkable of their kind. In the mid-1700s, the Haitian maroons were led to rebel against the island’s French colonisers by the houngan François Mackandal, a practiser of black magic and voodoo Priest. This six-year long rebellion would ultimately culminate into the Haitian Revolution; successfully granting Haiti its sovereignty under the Emperor Jean-Jacques Dessalines.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_LEUGI_MAWON_STRATEGY">
+			<Text>Replacement for Musketman. Receive a combat bonus against cities when next to enemy Occupied cities. After defeating an enemy unit, the enemy has a chance of joining your side.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_HELP_LEUGI_MAWON">
+			<Text>Replacement for Musketman. Receive a combat bonus against cities when next to enemy Occupied cities. After defeating an enemy unit, the enemy has a chance of joining your side.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_LEUGI_FREEDOM_CRY">
+			<Text>Fredom Cry</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_LEUGI_FREEDOM_CRY_ACTIVE">
+			<Text>Fredom Cry [COLOR_POSITIVE_TEXT](Active)[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_LEUGI_FREEDOM_CRY_HELP">
+			<Text>+15% [ICON_STRENGTH] Combat Strength against cities for this unit when it is adjacent to an Occupied City. The unit may capture defeated enemy units</Text>
+		</Row>
+		<!--
+						Houngan
+		-->
+		<Row Tag="TXT_KEY_UNIT_LEUGI_HOUNGAN">
+			<Text>Houngan</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_LEUGI_HOUNGAN_TEXT">
+			<Text>A Houngan is a male priest (the female equivalent is called a mambo) who practices the Haitian Voodou (Voodoo) religion. Voodouists believe in the existence of an unknowable creator God called Bondye, whose servant spirits, or loa, inhabit various aspects of daily life. It is the charge of the houngan to preserve the rituals, songs, and ceremonies which connect voodouists to these spirits. Some houngan may also be sorcerers, or bokor, who are able to use these spirits for themselves in order to cast black magic, such as in the creation of zombies or enchanted talismans.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_LEUGI_HOUNGAN_STRATEGY">
+			<Text>The Houngan can be used both to expand your religion as to defend or attack foreign cities thanks to the fact it doesn't suffer from attrition. Its also an important part of Haiti's troops because of the Medic promotion which help adjacent units heal faster.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_HELP_LEUGI_HOUNGAN">
+			<Text>Replacement for Missionary, receives the Medic promotion and suffers no effects from attrition.</Text>
+		</Row>	
+	</Language_en_US>
+</GameData>

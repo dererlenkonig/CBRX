@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<Leaders>
+		<Row>
+			<Type>LEADER_RYOMA</Type>
+			<Description>TXT_KEY_LEADER_RYOMA</Description>
+			<Civilopedia>TXT_KEY_LEADER_ODA_NOBUNAGA_PEDIA</Civilopedia>
+			<CivilopediaTag>TXT_KEY_CIVILOPEDIA_LEADERS_ODA</CivilopediaTag>
+			<ArtDefineTag>newryoma_Scene.xml</ArtDefineTag>
+			<VictoryCompetitiveness>7</VictoryCompetitiveness>
+			<WonderCompetitiveness>4</WonderCompetitiveness>
+			<MinorCivCompetitiveness>5</MinorCivCompetitiveness>
+			<Boldness>6</Boldness>
+			<DiploBalance>7</DiploBalance>
+			<WarmongerHate>5</WarmongerHate>
+			<DenounceWillingness>6</DenounceWillingness>
+			<DoFWillingness>7</DoFWillingness>
+			<Loyalty>5</Loyalty>
+			<Neediness>6</Neediness>
+			<Forgiveness>7</Forgiveness>
+			<Chattiness>8</Chattiness>
+			<Meanness>3</Meanness>
+			<PortraitIndex>0</PortraitIndex>
+			<IconAtlas>JAPAN_NEW_LEADER_ATLAS</IconAtlas>
+		</Row>
+	</Leaders>
+	<Leader_Traits>
+		<Row>
+			<LeaderType>LEADER_RYOMA</LeaderType>
+			<TraitType>TRAIT_BLACK_SHIPS</TraitType>
+		</Row>
+	</Leader_Traits>
+</GameData>

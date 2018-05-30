@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 2/24/2016 8:32:52 PM -->
+<GameData>
+	<UnitPromotions>
+		<Row>
+			<Type>PROMOTION_SENSHI_CHONGTONG</Type>
+			<Description>TXT_KEY_UNIT_SENSHI_CHONGTONG</Description>
+			<Help>TXT_KEY_PROMOTION_SENSHI_CHONGTONG_HELP</Help>
+			<Sound>AS2D_IF_LEVELUP</Sound>
+			<PortraitIndex>59</PortraitIndex>
+			<IconAtlas>ABILITY_ATLAS</IconAtlas>
+			<CannotBeChosen>true</CannotBeChosen>
+			<ExtraNavalMovement>2</ExtraNavalMovement>
+			<PediaType>PEDIA_ATTRIBUTES</PediaType>
+			<PediaEntry>TXT_KEY_PROMOTION_SENSHI_CHONGTONG_HELP</PediaEntry>
+		</Row>
+	</UnitPromotions>
+	<UnitPromotions_UnitCombats>
+		<Row>
+			<PromotionType>PROMOTION_SENSHI_CHONGTONG</PromotionType>
+			<UnitCombatType>UNITCOMBAT_SIEGE</UnitCombatType>
+		</Row>
+	</UnitPromotions_UnitCombats>
+	<UnitPromotions_UnitCombatMods>
+		<Row>
+			<PromotionType>PROMOTION_SENSHI_CHONGTONG</PromotionType>
+			<UnitCombatType>UNITCOMBAT_NAVALMELEE</UnitCombatType>
+			<Modifier>50</Modifier>
+		</Row>
+		<Row>
+			<PromotionType>PROMOTION_SENSHI_CHONGTONG</PromotionType>
+			<UnitCombatType>UNITCOMBAT_NAVALRANGED</UnitCombatType>
+			<Modifier>50</Modifier>
+		</Row>
+	</UnitPromotions_UnitCombatMods>
+</GameData>

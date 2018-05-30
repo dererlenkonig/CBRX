@@ -1,0 +1,154 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mod id="ce279f9f-8cad-466a-a40a-e4a1fac86ab8" version="1">
+  <Properties>
+    <Name>(BNW) Leugi's Haiti Civilization</Name>
+    <Teaser>Adds the [COLOR_POSITIVE_TEXT]Haitian Civilization[ENDCOLOR] to Brave New World with Touissaint Louverture as its leader!</Teaser>
+    <Description>Adds the [COLOR_POSITIVE_TEXT]Haitian Civilization[ENDCOLOR] to Brave New World with Touissaint Louverture as its leader!</Description>
+    <Authors>Leugi, JanBoruta, JFD, regalman</Authors>
+    <SpecialThanks>JFD</SpecialThanks>
+    <HideSetupGame>0</HideSetupGame>
+    <AffectsSavedGames>1</AffectsSavedGames>
+    <MinCompatibleSaveVersion>0</MinCompatibleSaveVersion>
+    <SupportsSinglePlayer>1</SupportsSinglePlayer>
+    <SupportsMultiplayer>1</SupportsMultiplayer>
+    <SupportsHotSeat>1</SupportsHotSeat>
+    <SupportsMac>1</SupportsMac>
+    <ReloadAudioSystem>1</ReloadAudioSystem>
+    <ReloadLandmarkSystem>0</ReloadLandmarkSystem>
+    <ReloadStrategicViewSystem>1</ReloadStrategicViewSystem>
+    <ReloadUnitSystem>1</ReloadUnitSystem>
+  </Properties>
+  <Dependencies>
+    <Dlc id="6DA07636-4123-4018-B643-6575B4EC336B" minversion="0" maxversion="999" />
+  </Dependencies>
+  <References>
+    <Mod id="36e88483-48fe-4545-b85f-bafc50dde315" minversion="0" maxversion="999" title="Yet (not) Another Earth Map Packs" />
+    <Mod id="1f941088-b185-4159-865c-472df81247b2" minversion="0" maxversion="999" title="Events and Decisions" />
+    <Mod id="eea66053-7579-481a-bb8d-2f3959b59974" minversion="0" maxversion="999" title="JFD's Piety and Prestige" />
+    <Mod id="d1b6328c-ff44-4b0d-aad7-c657f83610cd" minversion="0" maxversion="999" title="DLL - Various Mod Components" />
+    <Mod id="cae0781c-556f-4c97-8fba-4d6eb612533f" minversion="0" maxversion="999" title="JFD's Cultural Diversity (Soundtrack)" />
+  </References>
+  <Blocks />
+  <Files>
+    <File md5="C537F8D9B571CE85F43ED5F085AD5442" import="1">Art/houngan/early/houngan_early.gr2</File>
+    <File md5="0CA58C1E46BC89ECF466AB49711EC78C" import="1">Art/houngan/early/houngan_early_diff.dds</File>
+    <File md5="4BF92D9F6CF8373B6EFFF1F3A1D83652" import="1">Art/houngan/early/houngan_early.fxsxml</File>
+    <File md5="3CF85602184E5DF2F77B944D04D8AAF0" import="1">Art/houngan/flag_houngan.dds</File>
+    <File md5="523251ADFB5ACC653C31C1FE716149C7" import="1">Art/houngan/follower/houngan_follower.fxsxml</File>
+    <File md5="EB5384EF7B342D5EBE22C010C51BEDE9" import="1">Art/houngan/follower/houngan_follower.gr2</File>
+    <File md5="679041FF118E342E87D9EBE365E51CA5" import="1">Art/houngan/follower/houngan_follower_diff.dds</File>
+    <File md5="2378F73071309CB5F53A578EA6E93515" import="1">Art/houngan/fx_triggers_houngan.ftsxml</File>
+    <File md5="91A7073997190110F5F4127C6818DE20" import="1">Art/houngan/houngan_activate.mp3</File>
+    <File md5="D23D7A91867A5635F943B8A5766E3DCC" import="1">Art/houngan/late/houngan_late.gr2</File>
+    <File md5="CA1AC04E4299DE7318C8CD77590F41D7" import="1">Art/houngan/late/houngan_late_diff.dds</File>
+    <File md5="0C5B7577633E6356A2569B88D3EF3428" import="1">Art/houngan/late/houngan_late.fxsxml</File>
+    <File md5="B4FF57C4D35F677BDAA064E759D52273" import="1">Art/houngan/sv_houngan.dds</File>
+    <File md5="C041D0847BC6561830E6EE9D3602871D" import="1">Art/Icons/HaitiIcons128.dds</File>
+    <File md5="FADA04A88241B7B21765B7342165711D" import="1">Art/Icons/HaitiIcons16.dds</File>
+    <File md5="F06AF8D27F00FCC1BDD9963B4DF8E197" import="1">Art/Icons/HaitiIcons24.dds</File>
+    <File md5="3F2131B16F7F4058A1DB83C4CB81AE59" import="1">Art/Icons/HaitiIcons256.dds</File>
+    <File md5="DB7B958F3AF6AA46D6A14FFEDFD939D4" import="1">Art/Icons/HaitiIcons32.dds</File>
+    <File md5="D1C55DCDF70A3A024208BC19C4822876" import="1">Art/Icons/HaitiIcons45.dds</File>
+    <File md5="C25CBE5098FEF942EFAF6F129F917895" import="1">Art/Icons/HaitiIcons48.dds</File>
+    <File md5="F386C7490F1B65862CA3A176699E6E08" import="1">Art/Icons/HaitiIcons64.dds</File>
+    <File md5="CD839AB4DA775C66E51243A0D9582472" import="1">Art/Icons/HaitiIcons80.dds</File>
+    <File md5="82E4DE72CB34C3949EADC8BF5E8E4B1A" import="1">Art/Leader/HaitiDOM.dds</File>
+    <File md5="F25DE2B063B333597C706E066826AEDD" import="1">Art/Leader/HaitiMap.dds</File>
+    <File md5="15A8CEB93CFD6C74FA09F8FA70EB4888" import="1">Art/Leader/Louverture.dds</File>
+    <File md5="A517C252B256AA49C346ABFC574A60CE" import="1">Art/Leader/Louverture_Scene.xml</File>
+    <File md5="1DA2DAC49B793BF029CEF9D2980634E0" import="1">Art/maroon/black32.dds</File>
+    <File md5="30D746316AEFFFD3072FB1B2A0C704E7" import="1">Art/maroon/cimarron.gr2</File>
+    <File md5="6D6E4998C14C414C77A680ADDEB31D60" import="1">Art/maroon/cimarron_diff.dds</File>
+    <File md5="67CFB6A9D0411D482C7E36B789E9261A" import="1">Art/maroon/cimarron.fxsxml</File>
+    <File md5="8663D1782278CA8EFD2DD4B3B9BC5E3D" import="1">Art/maroon/flag_cimarron.dds</File>
+    <File md5="76198A07CC9476E4CFEDADB00B8F1278" import="1">Art/maroon/sv_cimarron.dds</File>
+    <File md5="FD18432A775716B899C075EFF0067AEB" import="1">Art/Music/HaitiPeace.mp3</File>
+    <File md5="1960D4DA935D2B580BD4F6B9156F5083" import="1">Art/Music/HaitiWar.mp3</File>
+    <File md5="5A5A8F37740B5DF0CA0514C3239BDDD9" import="0">Compatibility/CulDiv/Civilization_JFD_CultureTypes.sql</File>
+    <File md5="98B944622F7B4B7A0A87C6FC037BD97F" import="0">Compatibility/Decisions/AddHaitiDecisions.sql</File>
+    <File md5="609F18C6BF11F7910D680182351E6DB7" import="0">Compatibility/Decisions/HaitiDecisions.xml</File>
+    <File md5="DFCCCC635019BDD7E328CC502DDB15F9" import="1">Compatibility/Decisions/HaitiDecisionScriptsLeugi.lua</File>
+    <File md5="10E3C9676F3139A4CD16125B74333F46" import="0">Compatibility/Events/AddLeugiHaitiEvents.sql</File>
+    <File md5="58E6A948ED2279B9CA725C9CEFA01954" import="1">Compatibility/Events/HaitiEventScriptsLeugi.lua</File>
+    <File md5="2D7FE6DEEAB368AFFA38160000AFF865" import="0">Compatibility/Events/LeugiHaitiEvents.xml</File>
+    <File md5="4ED9FF6F8FF83732A254926E78F46178" import="0">Compatibility/LatinAmericanEvent/AddLatinAmericanEvent.sql</File>
+    <File md5="6A6A711D7F0410A5E06ADB2042D9C65F" import="1">Compatibility/LatinAmericanEvent/IndependenceEventScriptsHAITI.lua</File>
+    <File md5="AA0671E8D9448A780DDB3C1565521C05" import="0">Compatibility/LatinAmericanEvent/IndependenceEventText.xml</File>
+    <File md5="0EA76873C3173488D5249B8565557C32" import="0">Compatibility/LatinAmericanEvent/LatinAmericanIndependencePolicies.xml</File>
+    <File md5="5754B1BE6E37A2F9D04D9D4149E5CDDF" import="1">Compatibility/LatinAmericanEvent/SaveUtils.lua</File>
+    <File md5="4F29E8753B0882870603F885665CD3F8" import="0">Compatibility/Piety/Flavours.sql</File>
+    <File md5="62432540937F6AA1DAFFD137EF680F0F" import="0">Compatibility/TSL/CivilizationStartPos.sql</File>
+    <File md5="FF31A232B599952B62FD3477B773F5C0" import="0">Compatibility/UniqueInfluence/GameText.xml</File>
+    <File md5="709884192975D36EA290416684F42C8F" import="0">Core/Art/ArtDefines.sql</File>
+    <File md5="8359474859294F880A64E576B01BAFEF" import="0">Core/Art/Audio.sql</File>
+    <File md5="E80592F28BCBFFF159BCB83EC5A718F8" import="0">Core/Art/IconAtlas.sql</File>
+    <File md5="9B9DD318E445679294D8BAF5E4F60BB3" import="0">Core/Buildings/Buildings.sql</File>
+    <File md5="E51624E7A57B6543FAEFB31562601502" import="0">Core/Civilization/Cities.sql</File>
+    <File md5="FA35D4B4BBB12B688A0ECF680B1FA5F2" import="0">Core/Civilization/Civilizations.sql</File>
+    <File md5="EE5E4DD24B06BABC88B50FDDC793661B" import="0">Core/Civilization/PlayerColours.sql</File>
+    <File md5="5145679BB01E3DF8F225BAB519709FFF" import="0">Core/Civilization/Traits.sql</File>
+    <File md5="9DE0AB455A85905F00E50C2F34EAD007" import="0">Core/Leader/Diplomacy.sql</File>
+    <File md5="27BF6F051AEA98AF35941FF70F995DDE" import="0">Core/Leader/Leader.sql</File>
+    <File md5="2238983C1C969F53F8B0C2CCC7320F34" import="0">Core/Text/CitiesText.xml</File>
+    <File md5="C8B00AAEAEFA6ED9B57B6CADAB34917B" import="0">Core/Text/GameText.xml</File>
+    <File md5="3262AA6DC584A0D2260A00E35B034ECE" import="0">Core/Units/Promotions.sql</File>
+    <File md5="9EB80895A725FBB8072BAA000D7EEA85" import="0">Core/Units/Units.sql</File>
+    <File md5="D41D8CD98F00B204E9800998ECF8427E" import="0">Incompatibility/DELETE IF INCOMPATIBLE</File>
+    <File md5="3C815F624BB06695C74288B10E650274" import="1">Incompatibility/ProductionPopup.lua</File>
+    <File md5="3EEFE186E68B0E2454CCF77FF2CFF1A6" import="0">Lua/HaitiGoldenAgeCostsScript.lua</File>
+    <File md5="41C899F27BC3D7AF4FAAAD6EF75A7826" import="0">Lua/HaitiOccupiedScripts.lua</File>
+    <File md5="97E2A75BEB929402E4AA5BFDBCE47D5B" import="0">Lua/HolyOverride.lua</File>
+    <File md5="7BC10A23D225595DAD80A3E42A0E4AE9" import="0">Lua/MaroonScripts.lua</File>
+  </Files>
+  <Actions>
+    <OnModActivated>
+      <UpdateDatabase>Compatibility/Decisions/AddHaitiDecisions.sql</UpdateDatabase>
+      <UpdateDatabase>Compatibility/Decisions/HaitiDecisions.xml</UpdateDatabase>
+      <UpdateDatabase>Compatibility/Events/AddLeugiHaitiEvents.sql</UpdateDatabase>
+      <UpdateDatabase>Compatibility/Events/LeugiHaitiEvents.xml</UpdateDatabase>
+      <UpdateDatabase>Compatibility/LatinAmericanEvent/AddLatinAmericanEvent.sql</UpdateDatabase>
+      <UpdateDatabase>Compatibility/LatinAmericanEvent/IndependenceEventText.xml</UpdateDatabase>
+      <UpdateDatabase>Compatibility/LatinAmericanEvent/LatinAmericanIndependencePolicies.xml</UpdateDatabase>
+      <UpdateDatabase>Compatibility/Piety/Flavours.sql</UpdateDatabase>
+      <UpdateDatabase>Compatibility/TSL/CivilizationStartPos.sql</UpdateDatabase>
+      <UpdateDatabase>Compatibility/UniqueInfluence/GameText.xml</UpdateDatabase>
+      <UpdateDatabase>Core/Art/ArtDefines.sql</UpdateDatabase>
+      <UpdateDatabase>Core/Art/Audio.sql</UpdateDatabase>
+      <UpdateDatabase>Core/Art/IconAtlas.sql</UpdateDatabase>
+      <UpdateDatabase>Core/Civilization/Cities.sql</UpdateDatabase>
+      <UpdateDatabase>Core/Civilization/Civilizations.sql</UpdateDatabase>
+      <UpdateDatabase>Core/Civilization/PlayerColours.sql</UpdateDatabase>
+      <UpdateDatabase>Core/Civilization/Traits.sql</UpdateDatabase>
+      <UpdateDatabase>Core/Leader/Diplomacy.sql</UpdateDatabase>
+      <UpdateDatabase>Core/Leader/Leader.sql</UpdateDatabase>
+      <UpdateDatabase>Core/Text/CitiesText.xml</UpdateDatabase>
+      <UpdateDatabase>Core/Text/GameText.xml</UpdateDatabase>
+      <UpdateDatabase>Core/Units/Promotions.sql</UpdateDatabase>
+      <UpdateDatabase>Core/Units/Units.sql</UpdateDatabase>
+      <UpdateDatabase>Compatibility/CulDiv/Civilization_JFD_CultureTypes.sql</UpdateDatabase>
+      <UpdateDatabase>Core/Buildings/Buildings.sql</UpdateDatabase>
+    </OnModActivated>
+  </Actions>
+  <EntryPoints>
+    <EntryPoint type="InGameUIAddin" file="Lua/HaitiGoldenAgeCostsScript.lua">
+      <Name>Haiti Golden Age Reduced Policy Costs</Name>
+      <Description>
+      </Description>
+    </EntryPoint>
+    <EntryPoint type="InGameUIAddin" file="Lua/HaitiOccupiedScripts.lua">
+      <Name>Haiti Occupied Scripts</Name>
+      <Description>
+      </Description>
+    </EntryPoint>
+    <EntryPoint type="InGameUIAddin" file="Lua/HolyOverride.lua">
+      <Name>Haity Missionary Override</Name>
+      <Description>
+      </Description>
+    </EntryPoint>
+    <EntryPoint type="InGameUIAddin" file="Lua/MaroonScripts.lua">
+      <Name>Haiti Maroon Scripts</Name>
+      <Description>
+      </Description>
+    </EntryPoint>
+  </EntryPoints>
+</Mod>

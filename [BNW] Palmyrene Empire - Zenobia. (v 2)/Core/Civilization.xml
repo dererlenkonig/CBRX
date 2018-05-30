@@ -1,0 +1,526 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+  <Civilizations>
+    <Row>
+      <Type>CIVILIZATION_FB_PALMYRA</Type>
+      <Description>TXT_KEY_CIV_FB_PALMYRA_DESC</Description>
+      <Civilopedia></Civilopedia>
+      <CivilopediaTag>TXT_KEY_CIV5_FB_PALMYRA</CivilopediaTag>
+      <Strategy></Strategy>
+      <Playable>1</Playable>
+      <AIPlayable>1</AIPlayable>
+      <ShortDescription>TXT_KEY_CIV_FB_PALMYRA_SHORT_DESC</ShortDescription>
+      <Adjective>TXT_KEY_CIV_FB_PALMYRA_ADJECTIVE</Adjective>
+      <DefaultPlayerColor>PLAYERCOLOR_FB_PALMYRA</DefaultPlayerColor>
+      <ArtDefineTag>ART_DEF_CIVILIZATION_ROME</ArtDefineTag>
+      <ArtStyleType>ARTSTYLE_GRECO_ROMAN</ArtStyleType>
+      <ArtStyleSuffix>_MED</ArtStyleSuffix>
+      <ArtStylePrefix>MEDITERRANEAN</ArtStylePrefix>
+      <PortraitIndex>0</PortraitIndex>
+      <IconAtlas>PALMYRA_ATLAS</IconAtlas>
+      <AlphaIconAtlas>PALMYRA_ALPHA</AlphaIconAtlas>
+      <MapImage>PalmyraMap.dds</MapImage>
+      <DawnOfManQuote>TXT_KEY_CIV5_DAWN_FB_PALMYRA_TEXT</DawnOfManQuote>
+      <DawnOfManImage>ZenobiaDOM.dds</DawnOfManImage>
+		<SoundtrackTag>Rome</SoundtrackTag>
+    </Row>
+  </Civilizations>
+
+  <!-- Civilization_BuildingClassOverrides -->
+  <Civilization_CityNames>
+    <Row>
+      <CivilizationType>CIVILIZATION_FB_PALMYRA</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_FB_PALMYRA_0</CityName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_FB_PALMYRA</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_FB_PALMYRA_1</CityName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_FB_PALMYRA</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_FB_PALMYRA_2</CityName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_FB_PALMYRA</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_FB_PALMYRA_3</CityName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_FB_PALMYRA</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_FB_PALMYRA_4</CityName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_FB_PALMYRA</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_FB_PALMYRA_5</CityName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_FB_PALMYRA</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_FB_PALMYRA_6</CityName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_FB_PALMYRA</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_FB_PALMYRA_7</CityName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_FB_PALMYRA</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_FB_PALMYRA_8</CityName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_FB_PALMYRA</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_FB_PALMYRA_9</CityName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_FB_PALMYRA</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_FB_PALMYRA_10</CityName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_FB_PALMYRA</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_FB_PALMYRA_11</CityName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_FB_PALMYRA</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_FB_PALMYRA_12</CityName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_FB_PALMYRA</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_FB_PALMYRA_13</CityName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_FB_PALMYRA</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_FB_PALMYRA_14</CityName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_FB_PALMYRA</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_FB_PALMYRA_15</CityName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_FB_PALMYRA</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_FB_PALMYRA_16</CityName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_FB_PALMYRA</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_FB_PALMYRA_17</CityName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_FB_PALMYRA</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_FB_PALMYRA_18</CityName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_FB_PALMYRA</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_FB_PALMYRA_19</CityName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_FB_PALMYRA</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_FB_PALMYRA_20</CityName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_FB_PALMYRA</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_FB_PALMYRA_21</CityName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_FB_PALMYRA</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_FB_PALMYRA_22</CityName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_FB_PALMYRA</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_FB_PALMYRA_23</CityName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_FB_PALMYRA</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_FB_PALMYRA_24</CityName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_FB_PALMYRA</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_FB_PALMYRA_25</CityName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_FB_PALMYRA</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_FB_PALMYRA_26</CityName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_FB_PALMYRA</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_FB_PALMYRA_27</CityName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_FB_PALMYRA</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_FB_PALMYRA_28</CityName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_FB_PALMYRA</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_FB_PALMYRA_29</CityName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_FB_PALMYRA</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_FB_PALMYRA_30</CityName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_FB_PALMYRA</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_FB_PALMYRA_31</CityName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_FB_PALMYRA</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_FB_PALMYRA_32</CityName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_FB_PALMYRA</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_FB_PALMYRA_33</CityName>
+    </Row>
+  </Civilization_CityNames>
+  <!-- Civilization_DisableTechs -->
+  <Civilization_FreeBuildingClasses>
+    <Row>
+      <CivilizationType>CIVILIZATION_FB_PALMYRA</CivilizationType>
+      <BuildingClassType>BUILDINGCLASS_PALACE</BuildingClassType>
+    </Row>
+  </Civilization_FreeBuildingClasses>
+  <Civilization_FreeTechs>
+    <Row>
+      <CivilizationType>CIVILIZATION_FB_PALMYRA</CivilizationType>
+      <TechType>TECH_AGRICULTURE</TechType>
+    </Row>
+  </Civilization_FreeTechs>
+  <Civilization_FreeUnits>
+    <Row>
+      <CivilizationType>CIVILIZATION_FB_PALMYRA</CivilizationType>
+      <UnitClassType>UNITCLASS_SETTLER</UnitClassType>
+      <UnitAIType>UNITAI_SETTLE</UnitAIType>
+      <Count>1</Count>
+    </Row>
+  </Civilization_FreeUnits>
+  <Civilization_Leaders>
+    <Row>
+      <CivilizationType>CIVILIZATION_FB_PALMYRA</CivilizationType>
+      <LeaderheadType>LEADER_FB_ZENOBIA</LeaderheadType>
+    </Row>
+  </Civilization_Leaders>
+  <Civilization_Religions>
+    <Row>
+      <CivilizationType>CIVILIZATION_FB_PALMYRA</CivilizationType>
+      <ReligionType>RELIGION_ORTHODOXY</ReligionType>
+    </Row>
+  </Civilization_Religions>
+  <Civilization_SpyNames>
+    <Row>
+      <CivilizationType>CIVILIZATION_FB_PALMYRA</CivilizationType>
+      <SpyName>TXT_KEY_SPY_NAME_FB_PALMYRA_0</SpyName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_FB_PALMYRA</CivilizationType>
+      <SpyName>TXT_KEY_SPY_NAME_FB_PALMYRA_1</SpyName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_FB_PALMYRA</CivilizationType>
+      <SpyName>TXT_KEY_SPY_NAME_FB_PALMYRA_2</SpyName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_FB_PALMYRA</CivilizationType>
+      <SpyName>TXT_KEY_SPY_NAME_FB_PALMYRA_3</SpyName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_FB_PALMYRA</CivilizationType>
+      <SpyName>TXT_KEY_SPY_NAME_FB_PALMYRA_4</SpyName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_FB_PALMYRA</CivilizationType>
+      <SpyName>TXT_KEY_SPY_NAME_FB_PALMYRA_5</SpyName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_FB_PALMYRA</CivilizationType>
+      <SpyName>TXT_KEY_SPY_NAME_FB_PALMYRA_6</SpyName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_FB_PALMYRA</CivilizationType>
+      <SpyName>TXT_KEY_SPY_NAME_FB_PALMYRA_7</SpyName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_FB_PALMYRA</CivilizationType>
+      <SpyName>TXT_KEY_SPY_NAME_FB_PALMYRA_8</SpyName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_FB_PALMYRA</CivilizationType>
+      <SpyName>TXT_KEY_SPY_NAME_FB_PALMYRA_9</SpyName>
+    </Row>
+  </Civilization_SpyNames>
+  <Civilization_UnitClassOverrides>
+    <Row>
+      <CivilizationType>CIVILIZATION_FB_PALMYRA</CivilizationType>
+      <UnitClassType>UNITCLASS_HORSEMAN</UnitClassType>
+      <UnitType>UNIT_FB_CLIBANARII</UnitType>
+    </Row>
+  </Civilization_UnitClassOverrides>
+	<Civilization_Start_Region_Priority>
+		<Row>
+			<CivilizationType>CIVILIZATION_FB_PALMYRA</CivilizationType>
+			<RegionType>REGION_DESERT</RegionType>
+		</Row>
+	</Civilization_Start_Region_Priority>
+	<Civilization_Start_Region_Avoid>
+		<Row>
+			<CivilizationType>CIVILIZATION_FB_PALMYRA</CivilizationType>
+			<RegionType>REGION_JUNGLE</RegionType>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_FB_PALMYRA</CivilizationType>
+			<RegionType>REGION_FOREST</RegionType>
+		</Row>
+	</Civilization_Start_Region_Avoid>
+  <!-- Civilization_Start_Along_River -->
+  <!-- Civilization_Start_Region_Priority -->
+  <!-- Civilization_Start_Region_Avoid -->
+  <!-- Civilization_Start_Place_First_Along_Ocean -->
+
+  <PlayerColors>
+    <Row>
+      <Type>PLAYERCOLOR_FB_PALMYRA</Type>
+      <PrimaryColor>COLOR_PLAYER_FB_PALMYRA_ICON</PrimaryColor>
+      <SecondaryColor>COLOR_PLAYER_FB_PALMYRA_BACKGROUND</SecondaryColor>
+      <TextColor>COLOR_PLAYER_WHITE_TEXT</TextColor>
+    </Row>
+  </PlayerColors>
+  <Colors>
+    <Row>
+      <Type>COLOR_PLAYER_FB_PALMYRA_ICON</Type>
+      <Red>0.898</Red>
+      <Green>0.737</Green>
+      <Blue>0.349</Blue>
+      <Alpha>1.0</Alpha>
+    </Row>
+  </Colors>
+  <Colors>
+    <Row>
+      <Type>COLOR_PLAYER_FB_PALMYRA_BACKGROUND</Type>
+      <Red>0.180</Red>
+      <Green>0.121</Green>
+      <Blue>0.176</Blue>
+      <Alpha>1.0</Alpha>
+    </Row>
+  </Colors>
+
+  <Language_en_US>
+    <Row Tag="TXT_KEY_CIV_FB_PALMYRA_DESC">
+      <Text>Palmyrene Empire</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CIV5_FB_PALMYRA_FACTOID_HEADING">
+      <Text>Factoids</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CIV5_FB_PALMYRA_FACTOID_TEXT">
+      <Text><!-- Add Civilopedia text here --></Text>
+    </Row>
+    <Row Tag="TXT_KEY_CIV5_FB_PALMYRA_HEADING_1">
+      <Text>History</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CIV5_FB_PALMYRA_HEADING_10">
+      <Text>Exile and Recovery</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CIV5_FB_PALMYRA_HEADING_11">
+      <Text>Decline of the Empire</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CIV5_FB_PALMYRA_HEADING_2">
+      <Text>Geography and Climate</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CIV5_FB_PALMYRA_HEADING_3">
+      <Text>Relations with the Roman Empire</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CIV5_FB_PALMYRA_HEADING_4">
+      <Text>Crisis of the Roman Empire</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CIV5_FB_PALMYRA_HEADING_5">
+      <Text>Palmyrene Military</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CIV5_FB_PALMYRA_HEADING_6">
+      <Text>Palmyrene Trade</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CIV5_FB_PALMYRA_HEADING_7">
+      <Text>Destruction by ISIL</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CIV5_FB_PALMYRA_HEADING_8">
+      <Text>
+		  <!-- Add Civilopedia text here -->
+	  </Text>
+    </Row>
+    <Row Tag="TXT_KEY_CIV5_FB_PALMYRA_HEADING_9">
+      <Text>
+		  <!-- Add Civilopedia text here -->
+	  </Text>
+    </Row>
+    <Row Tag="TXT_KEY_CIV5_FB_PALMYRA_TEXT_1">
+      <Text>An ancient Semitic city in present-day Homs Governorate, Syria, Palmyra grew from a small stop-off point for traders into a large, if short-lived, Empire. The city itself has changed hands between multiple Empires, before becoming subject to the Roman Empire. It first grew wealthy from trade caravans. Renowned merchants that established colonies along the silk road. It's wealth allowed for great construction projects, such as the Great Collonade and the Temple of Bel. Distinctive Tower Tombs littered the hills around the roads to Palmyra. The Palmyrene people would speak the Palmyrene, except for in trade and diplomacy where they would use Greek. The city iself was heavily influenced by Greco-Roman culture, as seen in its architecture and politics.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CIV5_FB_PALMYRA_TEXT_10">
+      <Text><!-- Add Civilopedia text here --></Text>
+    </Row>
+    <Row Tag="TXT_KEY_CIV5_FB_PALMYRA_TEXT_11">
+      <Text><!-- Add Civilopedia text here --></Text>
+    </Row>
+    <Row Tag="TXT_KEY_CIV5_FB_PALMYRA_TEXT_2">
+      <Text>Palmyra is located 215 km (134 mi) northeast of the Syrian capital, Damascus, in an oasis surrounded by palms. Two Mountain ranges overlook the city. In the South and the East, Palmyra is exposed to the syrian desert. A Wali (valley) crosses the area, flowing from the western hills past the city before disappearing in the eastern gardens of the oasis, with a spring to the south. Its rich soil allowed for herding and agriculture.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CIV5_FB_PALMYRA_TEXT_3">
+      <Text>Palmyra became part of the Roman Empire when it was annexed and paid tribute early in the reign of Tiberius, around 14 AD. The Roman imperial period brought great prosperity to the city, which enjoyed a privileged status under the empire—retaining much of its internal autonomy, being ruled by a council, and incorporating many Greek city-state (polis) institutions into its government.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CIV5_FB_PALMYRA_TEXT_4">
+      <Text>Throughout the early centuries of the new millennium, the Roman Empire continued its conquest of Europe and the Mediterranean unabated, consuming new territories faster than the Romans could properly administer them. Particularly on the eastern front. This is where Zenobia and the Palmyrene Kingdom took advantage. Using deception and military force, against a weakened and spread out foe, Zenobia led a revolt against their Roman Rulers, leading to the establishment of the Roman Empire. </Text>
+    </Row>
+    <Row Tag="TXT_KEY_CIV5_FB_PALMYRA_TEXT_5">
+      <Text>Due to its military character and efficiency in battle, Palmyra was described as the "Sparta among the cities of the Orient, Arab and other, and even its gods were represented dressed in military uniforms." Palmyra's army protected the city and its economy, helping extend Palmyrene authority beyond the city walls and protecting the countryside's desert trade routes. They used infantry while a heavily armored cavalry (clibanarii) constituted the main attacking force.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CIV5_FB_PALMYRA_TEXT_6">
+      <Text>During the first centuries AD, Palmyra's main trade route ran east to the Euphrates, where it connected to the Silk Road. The caravan trade depended on patrons and merchants. Patrons owned the land on which the caravan animals were raised, providing animals and guards for the merchants.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CIV5_FB_PALMYRA_TEXT_7">
+      <Text>The main reason behind the creation of this mod. ISIL militants took control of the ruins of Palmyra in late May 2015. Throughout 2015, eyewitnesses reported the descruction of multiple statues, monuments and ruins such as the Lion of Al-lāt, the Temple of Bel, Arch of Triumph and the Tower of Elahbel along with a series of other Funerary Towers.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CIV5_FB_PALMYRA_TEXT_8">
+      <Text><!-- Add Civilopedia text here --></Text>
+    </Row>
+    <Row Tag="TXT_KEY_CIV5_FB_PALMYRA_TEXT_9">
+      <Text>
+		  <!-- Add Civilopedia text here --> </Text>
+    </Row>
+    <Row Tag="TXT_KEY_CIV5_FB_PALMYRA_TITLE">
+      <Text>Palmyra</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CIV_FB_PALMYRA_SHORT_DESC">
+      <Text>Palmyra</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CIV_FB_PALMYRA_ADJECTIVE">
+      <Text>Palmyrene</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CIV5_DAWN_FB_PALMYRA_TEXT">
+      <Text>
+		  Dearest Empress Zenobia, your armies await your orders. You are the ruler of magnificent Palmyra, an ancient city that lies in the harsh Syrian desert. Since the dawn of civilization, Palmyra has stood as a gateway from east to west, a meeting place of cultures old and new, giving it the title of "Venice of the Sands". You were by far its most famous and competent ruler, when in 269 CE you threw off the yoke of Roman rule and established a vast empire stretching from Ankara in Anatolia to Judea in the south. Through cunning war tactics and unmatched courage you singlehandedly posed one of the greatest threats to Roman supremacy in history.[NEWLINE][NEWLINE]Most graceful queen Zenobia, your empire may be lost, but you are not forgotten. The people of the Syrian desert need a hero to restore their former glory and deliver them from evil. Will Palmyra come to master the desert under your rule? Or will the city become the eye of the world once more? Can you build a civilization to stand the test of time?
+	  </Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_FB_PALMYRA_0">
+      <Text>Palmyra</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_FB_PALMYRA_1">
+      <Text>Damascus</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_FB_PALMYRA_2">
+      <Text>Aleppo</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_FB_PALMYRA_3">
+      <Text>Baalbek</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_FB_PALMYRA_4">
+      <Text>Cyyrhus</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_FB_PALMYRA_5">
+      <Text>Berytus</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_FB_PALMYRA_6">
+      <Text>Tarsus</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_FB_PALMYRA_7">
+      <Text>Caesarea</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_FB_PALMYRA_8">
+      <Text>Antioch</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_FB_PALMYRA_9">
+      <Text>Zeugma</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_FB_PALMYRA_10">
+      <Text>Alexandria</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_FB_PALMYRA_11">
+      <Text>Jerusalem</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_FB_PALMYRA_12">
+      <Text>Bosra</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_FB_PALMYRA_13">
+      <Text>Edessa</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_FB_PALMYRA_14">
+      <Text>Ankara</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_FB_PALMYRA_15">
+      <Text>Aelia Capitolina</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_FB_PALMYRA_16">
+      <Text>Tyre</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_FB_PALMYRA_17">
+      <Text>Sidon</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_FB_PALMYRA_18">
+      <Text>Memphis</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_FB_PALMYRA_19">
+      <Text>Tyana</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_FB_PALMYRA_20">
+      <Text>Iconium</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_FB_PALMYRA_21">
+      <Text>Emessa</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_FB_PALMYRA_22">
+      <Text>Gaza</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_FB_PALMYRA_23">
+      <Text>Nisibis</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_FB_PALMYRA_24">
+      <Text>Apamea</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_FB_PALMYRA_25">
+      <Text>Tripoli</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_FB_PALMYRA_26">
+      <Text>Dura-Europos</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_FB_PALMYRA_27">
+      <Text>Sillyon</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_FB_PALMYRA_28">
+      <Text>Aila</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_FB_PALMYRA_29">
+      <Text>Petra</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_FB_PALMYRA_30">
+      <Text>Hegra</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_FB_PALMYRA_31">
+      <Text>Ptolemais</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_FB_PALMYRA_32">
+      <Text>Berenice</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_FB_PALMYRA_33">
+      <Text>Adummatu</Text>
+    </Row>
+    <Row Tag="TXT_KEY_SPY_NAME_FB_PALMYRA_0">
+      <Text>Septimius</Text>
+    </Row>
+    <Row Tag="TXT_KEY_SPY_NAME_FB_PALMYRA_1">
+      <Text>Oedanathus</Text>
+    </Row>
+    <Row Tag="TXT_KEY_SPY_NAME_FB_PALMYRA_2">
+      <Text>Zabdas</Text>
+    </Row>
+    <Row Tag="TXT_KEY_SPY_NAME_FB_PALMYRA_3">
+      <Text>Vaballathus</Text>
+    </Row>
+    <Row Tag="TXT_KEY_SPY_NAME_FB_PALMYRA_4">
+      <Text>Zabdibel</Text>
+    </Row>
+    <Row Tag="TXT_KEY_SPY_NAME_FB_PALMYRA_5">
+      <Text>Elahbelus</Text>
+    </Row>
+    <Row Tag="TXT_KEY_SPY_NAME_FB_PALMYRA_6">
+      <Text>Marcus</Text>
+    </Row>
+    <Row Tag="TXT_KEY_SPY_NAME_FB_PALMYRA_7">
+      <Text>Ulpius</Text>
+    </Row>
+    <Row Tag="TXT_KEY_SPY_NAME_FB_PALMYRA_8">
+      <Text>Manai</Text>
+    </Row>
+    <Row Tag="TXT_KEY_SPY_NAME_FB_PALMYRA_9">
+      <Text>Malku</Text>
+    </Row>
+  </Language_en_US>
+</GameData>

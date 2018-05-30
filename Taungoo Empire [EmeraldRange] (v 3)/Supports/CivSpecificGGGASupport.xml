@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 5/24/2017 1:26:12 PM -->
+<GameData>
+	<Unit_UniqueNames>
+		<Row UnitType="UNIT_GREAT_GENERAL" UniqueName="TXT_KEY_GREAT_PERSON_BINNYA_DALA" CivilizationType="CIVILIZATION_TAUNGOO" />
+		<Row UnitType="UNIT_GREAT_GENERAL" UniqueName="TXT_KEY_GREAT_PERSON_NANDA" CivilizationType="CIVILIZATION_TAUNGOO" />
+		<Row UnitType="UNIT_GREAT_ADMIRAL" UniqueName="TXT_KEY_GREAT_PERSON_THADO_DHAMMA_YAZA" CivilizationType="CIVILIZATION_TAUNGOO" />
+		<Row UnitType="UNIT_GREAT_GENERAL" UniqueName="TXT_KEY_GREAT_PERSON_NYAUNGYAN" CivilizationType="CIVILIZATION_TAUNGOO" />
+		<Row UnitType="UNIT_GREAT_GENERAL" UniqueName="TXT_KEY_GREAT_PERSON_TABINSHWEHTI" CivilizationType="CIVILIZATION_TAUNGOO" />
+		<Row UnitType="UNIT_GREAT_GENERAL" UniqueName="TXT_KEY_GREAT_PERSON_YE_HTUT" CivilizationType="CIVILIZATION_TAUNGOO" />
+		<Row UnitType="UNIT_GREAT_GENERAL" UniqueName="TXT_KEY_GREAT_PERSON_MINGYI_NYO" CivilizationType="CIVILIZATION_TAUNGOO" />
+		<Row UnitType="UNIT_GREAT_GENERAL" UniqueName="TXT_KEY_GREAT_PERSON_ANAUKPETLUN" CivilizationType="CIVILIZATION_TAUNGOO" />
+	</Unit_UniqueNames>
+	<Language_en_US>
+		<Row Tag="TXT_KEY_GREAT_PERSON_BINNYA_DALA">
+			<Text>Binnya Dala</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_NANDA">
+			<Text>Nanda</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_THADO_DHAMMA_YAZA">
+			<Text>Thado Dhamma Yaza</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_NYAUNGYAN">
+			<Text>Nyaungyan</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_TABINSHWEHTI">
+			<Text>Tabinshwehti</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_YE_HTUT">
+			<Text>Ye Htut</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_MINGYI_NYO">
+			<Text>Mingyi Nyo</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_ANAUKPETLUN">
+			<Text>Anaukpetlun</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

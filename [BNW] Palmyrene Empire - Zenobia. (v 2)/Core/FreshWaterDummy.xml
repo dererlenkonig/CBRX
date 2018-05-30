@@ -1,0 +1,24 @@
+<GameData>
+
+	<Features>
+		<Row>
+			<Type>FEATURE_PALMYRA_CITADEL_DUMMY</Type>
+			<Description>TXT_KEY_FEATURE_PALMYRA_CITADEL_DUMMY</Description>
+			<Civilopedia>TXT_KEY_FEATURE_PALMYRA_CITADEL_DUMMY_TEXT</Civilopedia>
+			<Movement>1</Movement>
+			<AddsFreshWater>true</AddsFreshWater>
+			<PortraitIndex>0</PortraitIndex>
+			<IconAtlas>NEW_TERRAIN_ATLAS_DLC</IconAtlas>
+		</Row>
+	</Features>
+
+	<Language_en_US>
+		<Row Tag="TXT_KEY_FEATURE_PALMYRA_CITADEL_DUMMY">
+			<Text>Fresh Water</Text>
+		</Row>
+		<Row Tag="TXT_KEY_FEATURE_PALMYRA_CITADEL_DUMMY_TEXT">
+			<Text>This Citadel provides Fresh Water.</Text>
+		</Row>
+	</Language_en_US>
+
+</GameData>

@@ -1,0 +1,279 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 11/23/2013 1:27:25 PM -->
+<GameData>
+	<Language_en_US>
+		<!--Names-->
+		<Row Tag="TXT_KEY_CIVILIZATION_CBR_GOLDEN_HORDE_ADJECTIVE">
+			<Text>Altanese</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILIZATION_CBR_GOLDEN_HORDE_SHORT_DESC">
+			<Text>Golden Horde</Text>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILIZATION_CBR_GOLDEN_HORDE_DESC">
+			<Text>The Golden Horde</Text>
+		</Row>
+		<!--Pedia-->
+		<Row Tag="TXT_KEY_CIV5_CBR_GOLDEN_HORDE_HEADING_1">
+			<Text>The Golden Horde</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_CBR_GOLDEN_HORDE">
+			<Text>The Golden Horde</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_CBR_GOLDEN_HORDE_TEXT_1">
+			<Text>The Golden Horde was a Mongol and later Turkicized khanate, established in the 13th century, which comprised the northwestern sector of the Mongol Empire. The khanate is also known as the Kipchak Khanate or as the Ulus of Jochi. After the death of Batu Khan in 1255, the prosperity of his dynasty lasted for a full century, until 1359, though the intrigues of Nogai did instigate a partial civil war in the late 1290s. The Horde's military power peaked during the reign of Uzbeg (1312–41), who adopted Islam. The territory of the Golden Horde at its peak included most of Eastern Europe from the Urals to the bank of the Danube River, extending east deep into Siberia. In the south, the Golden Horde's lands bordered on the Black Sea, the Caucasus Mountains, and the territories of the Mongol dynasty known as the Ilkhanate. [NEWLINE] [NEWLINE] The khanate experienced violent internal political disorder beginning in 1359, before it was briefly reunited under Tokhtamysh in 1381. However, soon after the 1396 invasion of Tamerlane, it broke into smaller Tatar khanates that declined steadily in power. At the start of the 15th century the Horde began to fall apart. By 1433 it was being referred to simply as the Great Horde. Within its territories there emerged numerous, predominantly Turkic-speaking, khanates. These internal struggles allowed the northern vassal state of Muscovy to rid itself of the "Tatar Yoke" at the Great stand on the Ugra river in 1480. The Crimean Khanate and the Kazakh Khanate, the last remnants of the Golden Horde, persisted until 1783 and 1847, respectively.</Text>
+		</Row>
+		<!--Cities-->
+		<Row Tag="TXT_KEY_CITY_NAME_CBR_GOLDEN_HORDE_1">
+			<Text>Sarai Batu</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CBR_GOLDEN_HORDE_2">
+			<Text>Sarai Berke</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CBR_GOLDEN_HORDE_3">
+			<Text>Sighnaq</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CBR_GOLDEN_HORDE_4">
+			<Text>Atil</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CBR_GOLDEN_HORDE_5">
+			<Text>Bulgar</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CBR_GOLDEN_HORDE_6">
+			<Text>Suzak</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CBR_GOLDEN_HORDE_7">
+			<Text>Majar</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CBR_GOLDEN_HORDE_8">
+			<Text>Ukek</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CBR_GOLDEN_HORDE_9">
+			<Text>Azov</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CBR_GOLDEN_HORDE_10">
+			<Text>Mukhsha</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CBR_GOLDEN_HORDE_11">
+			<Text>Qashan</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CBR_GOLDEN_HORDE_12">
+			<Text>Mohi</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CBR_GOLDEN_HORDE_13">
+			<Text>Yasi</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CBR_GOLDEN_HORDE_14">
+			<Text>Jand</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CBR_GOLDEN_HORDE_15">
+			<Text>Bilär</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CBR_GOLDEN_HORDE_16">
+			<Text>Xacitarxan</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CBR_GOLDEN_HORDE_17">
+			<Text>Sarai</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CBR_GOLDEN_HORDE_18">
+			<Text>Gurganj</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CBR_GOLDEN_HORDE_19">
+			<Text>Suar</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CBR_GOLDEN_HORDE_20">
+			<Text>Poltava</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CBR_GOLDEN_HORDE_21">
+			<Text>Tiflis</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CBR_GOLDEN_HORDE_22">
+			<Text>Kath</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CBR_GOLDEN_HORDE_23">
+			<Text>Darband</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CBR_GOLDEN_HORDE_24">
+			<Text>Turla</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CBR_GOLDEN_HORDE_25">
+			<Text>Khiva</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CBR_GOLDEN_HORDE_26">
+			<Text>Pyana</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CBR_GOLDEN_HORDE_27">
+			<Text>Legnica</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CBR_GOLDEN_HORDE_28">
+			<Text>Vozha</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CBR_GOLDEN_HORDE_29">
+			<Text>Kiev</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CBR_GOLDEN_HORDE_30">
+			<Text>Sandomierz</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CBR_GOLDEN_HORDE_31">
+			<Text>Vorskla</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CBR_GOLDEN_HORDE_32">
+			<Text>Vidin</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CBR_GOLDEN_HORDE_33">
+			<Text>Farab</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CBR_GOLDEN_HORDE_34">
+			<Text>Kalka</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CBR_GOLDEN_HORDE_35">
+			<Text>Yanjikand</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CBR_GOLDEN_HORDE_36">
+			<Text>Eski Qirim</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CBR_GOLDEN_HORDE_37">
+			<Text>Kulikovo</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CBR_GOLDEN_HORDE_38">
+			<Text>Maghas</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CBR_GOLDEN_HORDE_39">
+			<Text>Ordubazar</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CBR_GOLDEN_HORDE_40">
+			<Text>Bağçasaray</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CBR_GOLDEN_HORDE_41">
+			<Text>Shamakhi</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CBR_GOLDEN_HORDE_42">
+			<Text>Mishar Yurt</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CBR_GOLDEN_HORDE_43">
+			<Text>Kondurcha</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CBR_GOLDEN_HORDE_44">
+			<Text>Baku</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CBR_GOLDEN_HORDE_45">
+			<Text>Terek</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CBR_GOLDEN_HORDE_46">
+			<Text>Ganja</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CBR_GOLDEN_HORDE_47">
+			<Text>Tarnovgrad</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CBR_GOLDEN_HORDE_48">
+			<Text>Urga</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CBR_GOLDEN_HORDE_49">
+			<Text>Tashkent</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CBR_GOLDEN_HORDE_50">
+			<Text>Shed</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CBR_GOLDEN_HORDE_51">
+			<Text>Andijan</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CBR_GOLDEN_HORDE_52">
+			<Text>Fergana</Text>
+		</Row>
+		<!--Spies-->
+		<Row Tag="TXT_KEY_SPY_NAME_CIVILIZATION_CBR_GOLDEN_HORDE_1">
+			<Text>Bayan</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_CIVILIZATION_CBR_GOLDEN_HORDE_2">
+			<Text>Qadan</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_CIVILIZATION_CBR_GOLDEN_HORDE_3">
+			<Text>Batu</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_CIVILIZATION_CBR_GOLDEN_HORDE_4">
+			<Text>Qutugh</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_CIVILIZATION_CBR_GOLDEN_HORDE_5">
+			<Text>Temur</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_CIVILIZATION_CBR_GOLDEN_HORDE_6">
+			<Text>Arigh</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_CIVILIZATION_CBR_GOLDEN_HORDE_7">
+			<Text>Boke</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_CIVILIZATION_CBR_GOLDEN_HORDE_8">
+			<Text>Nasan</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_CIVILIZATION_CBR_GOLDEN_HORDE_9">
+			<Text>Ulagan</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_CIVILIZATION_CBR_GOLDEN_HORDE_10">
+			<Text>Shria</Text>
+		</Row>
+		<!--TOKHTAMYSH-->
+		<Row Tag="TXT_KEY_LEADER_CBR_TOKHTAMYSH">
+			<Text>Tokhtamysh</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CBR_TOKHTAMYSH_PEDIA">
+			<Text>Tokhtamysh Pedia</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_CBR_TOKHTAMYSH">
+			<Text>Tokhtamysh Pedia Tag</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_DAWN_CBR_TOKHTAMYSH_TEXT">
+			<Text>Legendary Tokhtamysh, descendant of Tuqa-Timur and the mighty Genghis Khan, the people of the Golden Horde look to you above all else. You rule the vast lands of the Golden Horde, a remnant of the once united Mongol Empire, but now shattered and broken. However, your people need not despair, for they know that under your mighty leadership you will lead them to victory. [NEWLINE] [NEWLINE] Oh, wonderous Tokhtamysh, the time for Mongol dominance has come again. Will you reunite the Mongol Empire, and take the mantle of the Great Khan? Will you build a civilization that stands the test of time?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_CBR_GOLDEN_HORDE">
+			<Text>Leader Trait Dummy</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_CBR_GOLDEN_HORDE_SHORT">
+			<Text>Leader Trait Dummy</Text>
+		</Row>
+		<!--KHAMGAALAGCH-->
+		<Row Tag="TXT_KEY_UNIT_CBR_KHAMGAALAGCH">
+			<Text>Khamgaalagch</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_CBR_KHAMGAALAGCH_HELP">
+			<Text>Replaces the Lancer, appears at Physics. Pillaging costs no movement. Only the Golden Horde may build it.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_CBR_KHAMGAALAGCH_STRATEGY">
+			<Text>Khamgaalagchs are fairly similar to the Mongolian Keshiks, but with a few differences; they are a Lancer, not Knight replacement. They're also stronger, ignore zone of control, and pillage for free.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_CBR_KHAMGAALAGCH_TEXT">
+			<Text>Mounted archery first developed during the Iron Age, gradually replacing the Bronze Age chariot. The earliest depictions of mounted archers are found in artwork of the Neo-Assyrian Empire of about the 9th century BC and reflects the incursions of the early Iranian peoples. Early horse archery, depicted on the Assyrian carvings, involved two riders, one controlling both horses while the second shot. Heavy horse archers first appeared in the Assyrian army in the 7th century BC after abandoning chariot warfare and formed a link between light skirmishing cavalrymen and heavy cataphract cavalry. The heavy horse archers usually had mail or lamellar armour and helmets, and sometimes even their horses were armoured. Heavy horse archers, instead of skirmishing and hit-and-run tactics, formed in disciplined formations and units, sometimes intermixed with lancers as in Byzantine and Turkish armies, and shot as volleys instead of shooting as individuals. The usual tactic was to first shoot five or six volleys at the enemy to weaken him and to disorganise them, and then charge. Heavy horse archers often carried spears or lances for close combat, or formed mixed units with lancers. The Mongol armies and others included both heavy and light horse archers. Heavy horse archers could usually outshoot their light counterparts, and wearing armour, could stand their shooting. The Russian druzhina cavalry developed as a countermeasure to the Tatar light troops. Likewise, the Turkish timariots and qapikulu were often as heavily armoured as Western knights, and could stand the Hungarian, Albanian and Mongol horse archers.</Text>
+		</Row>
+		<!--KHUARAN-->
+		<Row Tag="TXT_KEY_CIV5_CBR_KHUARAN">
+			<Text>Khuaran</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_CBR_KHUARAN_HELP">
+			<Text>May be built from the start, costs no [ICON_GOLD] Gold Maintenance, and provides +1 Faith from Horse resources in addition to regular bonuses. Replaces the Barracks. Only the Golden Horde may build it.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_CBR_KHUARAN_STRATEGY">
+			<Text>Khuarans are super helpful for building an early professional army, as they can be built from the start. Additionally, they help you train effective mounted units and boost religion by granting faith from Horse resources.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_CBR_KHUARAN_PEDIA">
+			<Text>A barrack or barracks is a building or group of buildings that houses soldiers. Early barracks such as those of the Roman Praetorian Guard were built to maintain elite forces. There are a number of remains of Roman army barracks in frontier forts such as Vercovicium and Vindolanda. From these and from contemporary Roman sources we can see that the basics of life in a military camp have remained constant for thousands of years. In the Early Modern Period, they formed part of the Military Revolution that scholars believe contributed decisively to the formation of the nation state[5] by increasing the expense of maintaining standing armies. Large, permanent barracks were developed in the 18th century by the two dominant states of the period, France the "caserne" and Spain the "cuartel". The English term ‘barrack’, on the other hand, derives from the Spanish word for a temporary shelter erected by soldiers on campaign, barraca; (because of fears that a standing army in barracks would be a threat to the constitution, barracks were not generally built in Great Britain until 1790, on the eve of the Napoleonic Wars).</Text>
+		</Row>
+		<!--PROMOTIONS-->
+		<Row Tag="TXT_KEY_PROMOTION_CBR_GH_TATARYOKE">
+			<Text>Khamgaalagch Dummy</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_CBR_GH_TATARYOKE_HELP">
+			<Text>Khamgaalagch Dummy</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_CBR_GH_ZOC">
+			<Text>UA Dummy</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_CBR_GH_ZOC_HELP">
+			<Text>UA Dummy</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_CBR_GH_CITY_COMBAT">
+			<Text>UA Dummy</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_CBR_GH_CITY_COMBAT_HELP">
+			<Text>UA Dummy</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

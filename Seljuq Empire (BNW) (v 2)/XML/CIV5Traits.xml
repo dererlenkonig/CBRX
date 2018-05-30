@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 2/18/2013 10:25:28 PM -->
+<GameData>
+	<Traits>
+		<Row>
+			<Type>TRAIT_KHORASAN_FIEFDOM</Type>
+			<Description>TXT_KEY_TRAIT_KHORASAN_FIEFDOM</Description>
+			<ShortDescription>TXT_KEY_TRAIT_KHORASAN_FIEFDOM_SHORT</ShortDescription>
+			<UnresearchedTechBonusFromKills>25</UnresearchedTechBonusFromKills>
+		</Row>
+	</Traits>
+	<Trait_FreePromotionUnitCombats>
+		<Row>
+			<TraitType>TRAIT_KHORASAN_FIEFDOM</TraitType>
+			<UnitCombatType>UNITCOMBAT_ARCHER</UnitCombatType>
+			<PromotionType>PROMOTION_DJSH_SELJUQ_ARCHER_EXPERTISE</PromotionType>
+		</Row>
+	</Trait_FreePromotionUnitCombats>
+</GameData>

@@ -1,0 +1,503 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+  <Civilizations>
+    <Row>
+      <Type>CIVILIZATION_INDIRA_GANDHI</Type>
+      <Description>TXT_KEY_CIV_INDIRA_GANDHI_DESC</Description>
+      <Civilopedia></Civilopedia>
+      <CivilopediaTag>TXT_KEY_CIV5_INDIRA_GANDHI</CivilopediaTag>
+      <Strategy></Strategy>
+      <Playable>1</Playable>
+      <AIPlayable>1</AIPlayable>
+      <ShortDescription>TXT_KEY_CIV_INDIRA_GANDHI_SHORT_DESC</ShortDescription>
+      <Adjective>TXT_KEY_CIV_INDIRA_GANDHI_ADJECTIVE</Adjective>
+      <DefaultPlayerColor>PLAYERCOLOR_INDIRA_GANDHI</DefaultPlayerColor>
+      <ArtDefineTag>ART_DEF_CIVILIZATION_INDIRA_GANDHI</ArtDefineTag>
+      <ArtStyleType>ARTSTYLE_ASIAN</ArtStyleType>
+      <ArtStyleSuffix>_ASIA</ArtStyleSuffix>
+      <ArtStylePrefix>ASIAN</ArtStylePrefix>
+      <DerivativeCiv></DerivativeCiv>
+      <PortraitIndex>0</PortraitIndex>
+      <IconAtlas>INDIRA_ICON_ATLAS</IconAtlas>
+      <AlphaIconAtlas>INDIRA_ALPHA_ATLAS</AlphaIconAtlas>
+      <MapImage>MapIndira.dds</MapImage>
+      <DawnOfManQuote>TXT_KEY_CIV5_DAWN_INDIRA_GANDHI_TEXT</DawnOfManQuote>
+      <DawnOfManImage>Indira_DOM.dds</DawnOfManImage>
+      <DawnOfManAudio></DawnOfManAudio>
+      <SoundtrackTag></SoundtrackTag>
+    </Row>
+  </Civilizations>
+  <Civilization_BuildingClassOverrides>
+	<Row>
+	  <CivilizationType>CIVILIZATION_INDIRA_GANDHI</CivilizationType>
+   	  <BuildingClassType>BUILDINGCLASS_LABORATORY</BuildingClassType>
+	  <BuildingType>BUILDING_POKHRAN_LAB</BuildingType>
+	</Row>
+  </Civilization_BuildingClassOverrides>
+  <Civilization_CityNames>
+    <Row>
+      <CivilizationType>CIVILIZATION_INDIRA_GANDHI</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_INDIRA_GANDHI_0</CityName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_INDIRA_GANDHI</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_INDIRA_GANDHI_1</CityName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_INDIRA_GANDHI</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_INDIRA_GANDHI_2</CityName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_INDIRA_GANDHI</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_INDIRA_GANDHI_3</CityName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_INDIRA_GANDHI</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_INDIRA_GANDHI_4</CityName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_INDIRA_GANDHI</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_INDIRA_GANDHI_5</CityName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_INDIRA_GANDHI</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_INDIRA_GANDHI_6</CityName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_INDIRA_GANDHI</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_INDIRA_GANDHI_7</CityName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_INDIRA_GANDHI</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_INDIRA_GANDHI_8</CityName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_INDIRA_GANDHI</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_INDIRA_GANDHI_9</CityName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_INDIRA_GANDHI</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_INDIRA_GANDHI_10</CityName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_INDIRA_GANDHI</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_INDIRA_GANDHI_11</CityName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_INDIRA_GANDHI</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_INDIRA_GANDHI_12</CityName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_INDIRA_GANDHI</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_INDIRA_GANDHI_13</CityName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_INDIRA_GANDHI</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_INDIRA_GANDHI_14</CityName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_INDIRA_GANDHI</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_INDIRA_GANDHI_15</CityName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_INDIRA_GANDHI</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_INDIRA_GANDHI_16</CityName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_INDIRA_GANDHI</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_INDIRA_GANDHI_17</CityName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_INDIRA_GANDHI</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_INDIRA_GANDHI_18</CityName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_INDIRA_GANDHI</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_INDIRA_GANDHI_19</CityName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_INDIRA_GANDHI</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_INDIRA_GANDHI_20</CityName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_INDIRA_GANDHI</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_INDIRA_GANDHI_21</CityName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_INDIRA_GANDHI</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_INDIRA_GANDHI_22</CityName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_INDIRA_GANDHI</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_INDIRA_GANDHI_23</CityName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_INDIRA_GANDHI</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_INDIRA_GANDHI_24</CityName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_INDIRA_GANDHI</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_INDIRA_GANDHI_25</CityName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_INDIRA_GANDHI</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_INDIRA_GANDHI_26</CityName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_INDIRA_GANDHI</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_INDIRA_GANDHI_27</CityName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_INDIRA_GANDHI</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_INDIRA_GANDHI_28</CityName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_INDIRA_GANDHI</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_INDIRA_GANDHI_29</CityName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_INDIRA_GANDHI</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_INDIRA_GANDHI_30</CityName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_INDIRA_GANDHI</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_INDIRA_GANDHI_31</CityName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_INDIRA_GANDHI</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_INDIRA_GANDHI_32</CityName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_INDIRA_GANDHI</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_INDIRA_GANDHI_33</CityName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_INDIRA_GANDHI</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_INDIRA_GANDHI_34</CityName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_INDIRA_GANDHI</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_INDIRA_GANDHI_35</CityName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_INDIRA_GANDHI</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_INDIRA_GANDHI_36</CityName>
+    </Row>
+  </Civilization_CityNames>
+  <Civilization_FreeBuildingClasses>
+    <Row>
+      <CivilizationType>CIVILIZATION_INDIRA_GANDHI</CivilizationType>
+      <BuildingClassType>BUILDINGCLASS_PALACE</BuildingClassType>
+    </Row>
+  </Civilization_FreeBuildingClasses>
+  <Civilization_FreeTechs>
+    <Row>
+      <CivilizationType>CIVILIZATION_INDIRA_GANDHI</CivilizationType>
+      <TechType>TECH_AGRICULTURE</TechType>
+    </Row>
+  </Civilization_FreeTechs>
+  <Civilization_FreeUnits>
+    <Row>
+      <CivilizationType>CIVILIZATION_INDIRA_GANDHI</CivilizationType>
+      <UnitClassType>UNITCLASS_SETTLER</UnitClassType>
+      <UnitAIType>UNITAI_SETTLE</UnitAIType>
+      <Count>1</Count>
+    </Row>
+  </Civilization_FreeUnits>
+  <Civilization_Leaders>
+    <Row>
+      <CivilizationType>CIVILIZATION_INDIRA_GANDHI</CivilizationType>
+      <LeaderheadType>LEADER_INDIRA_GANDHI</LeaderheadType>
+    </Row>
+  </Civilization_Leaders>
+  <Civilization_Religions>
+    <Row>
+      <CivilizationType>CIVILIZATION_INDIRA_GANDHI</CivilizationType>
+      <ReligionType>RELIGION_HINDUISM</ReligionType>
+    </Row>
+  </Civilization_Religions>
+  <Civilization_SpyNames>
+    <Row>
+      <CivilizationType>CIVILIZATION_INDIRA_GANDHI</CivilizationType>
+      <SpyName>TXT_KEY_SPY_NAME_INDIRA_GANDHI_0</SpyName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_INDIRA_GANDHI</CivilizationType>
+      <SpyName>TXT_KEY_SPY_NAME_INDIRA_GANDHI_1</SpyName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_INDIRA_GANDHI</CivilizationType>
+      <SpyName>TXT_KEY_SPY_NAME_INDIRA_GANDHI_2</SpyName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_INDIRA_GANDHI</CivilizationType>
+      <SpyName>TXT_KEY_SPY_NAME_INDIRA_GANDHI_3</SpyName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_INDIRA_GANDHI</CivilizationType>
+      <SpyName>TXT_KEY_SPY_NAME_INDIRA_GANDHI_4</SpyName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_INDIRA_GANDHI</CivilizationType>
+      <SpyName>TXT_KEY_SPY_NAME_INDIRA_GANDHI_5</SpyName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_INDIRA_GANDHI</CivilizationType>
+      <SpyName>TXT_KEY_SPY_NAME_INDIRA_GANDHI_6</SpyName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_INDIRA_GANDHI</CivilizationType>
+      <SpyName>TXT_KEY_SPY_NAME_INDIRA_GANDHI_7</SpyName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_INDIRA_GANDHI</CivilizationType>
+      <SpyName>TXT_KEY_SPY_NAME_INDIRA_GANDHI_8</SpyName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_INDIRA_GANDHI</CivilizationType>
+      <SpyName>TXT_KEY_SPY_NAME_INDIRA_GANDHI_9</SpyName>
+    </Row>
+  </Civilization_SpyNames>
+  <Civilization_UnitClassOverrides>
+    <Row>
+      <CivilizationType>CIVILIZATION_INDIRA_GANDHI</CivilizationType>
+      <UnitClassType>UNITCLASS_PARATROOPER</UnitClassType>
+      <UnitType>UNIT_GARUDA_TROOPERS</UnitType>
+    </Row>
+  </Civilization_UnitClassOverrides>
+  <Civilization_Start_Along_Ocean>
+    <Row>
+      <CivilizationType>CIVILIZATION_INDIRA_GANDHI</CivilizationType>
+      <StartAlongOcean>1</StartAlongOcean>
+    </Row>
+  </Civilization_Start_Along_Ocean>
+  <PlayerColors>
+    <Row>
+      <Type>PLAYERCOLOR_INDIRA_GANDHI</Type>
+      <PrimaryColor>COLOR_PLAYER_INDIRA_GANDHI_ICON</PrimaryColor>
+      <SecondaryColor>COLOR_PLAYER_INDIRA_GANDHI_BACKGROUND</SecondaryColor>
+      <TextColor>COLOR_PLAYER_WHITE_TEXT</TextColor>
+    </Row>
+  </PlayerColors>
+  <Colors>
+    <Row>
+      <Type>COLOR_PLAYER_INDIRA_GANDHI_ICON</Type>
+      <Red>0.545</Red>
+      <Green>0.694</Green>
+      <Blue>0..843</Blue>
+      <Alpha>1.0</Alpha>
+    </Row>
+  </Colors>
+  <Colors>
+    <Row>
+      <Type>COLOR_PLAYER_INDIRA_GANDHI_BACKGROUND</Type>
+      <Red>0.267</Red>
+      <Green>0.067</Green>
+      <Blue>0.318</Blue>
+      <Alpha>1.0</Alpha>
+    </Row>
+  </Colors>
+
+  <Language_en_US>
+    <Row Tag="TXT_KEY_CIV_INDIRA_GANDHI_DESC">
+      <Text>The Republic of India</Text>
+      <Gender>neuter:an</Gender>
+    </Row>
+    <Row Tag="TXT_KEY_CIV5_INDIRA_GANDHI_FACTOID_HEADING">
+      <Text>Factoids</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CIV5_INDIRA_GANDHI_FACTOID_TEXT">
+      <Text>Was the first female Prime Minister of India and kickstarted India's nuclear program</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CIV5_INDIRA_GANDHI_HEADING_1">
+      <Text>History</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CIV5_INDIRA_GANDHI_HEADING_10">
+      <Text>The rise of the Indian hegemon in South Asia</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CIV5_INDIRA_GANDHI_HEADING_11">
+      <Text>The Emergency</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CIV5_INDIRA_GANDHI_HEADING_12">
+      <Text>The 1971 War and Sikh Riots</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CIV5_INDIRA_GANDHI_HEADING_13">
+      <Text>Assasination</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CIV5_INDIRA_GANDHI_TEXT_1">
+      <Text><!-- Add Civilopedia text here --></Text>
+    </Row>
+    <Row Tag="TXT_KEY_CIV5_INDIRA_GANDHI_TEXT_10">
+      <Text><!-- Add Civilopedia text here --></Text>
+    </Row>
+    <Row Tag="TXT_KEY_CIV5_INDIRA_GANDHI_TEXT_11">
+      <Text><!-- Add Civilopedia text here --></Text>
+    </Row>
+    <Row Tag="TXT_KEY_CIV5_INDIRA_GANDHI_TEXT_12">
+      <Text><!-- Add Civilopedia text here --></Text>
+    </Row>
+    <Row Tag="TXT_KEY_CIV5_INDIRA_GANDHI_TEXT_13">
+      <Text><!-- Add Civilopedia text here --></Text>
+    </Row>
+    <Row Tag="TXT_KEY_CIV5_INDIRA_GANDHI_TITLE">
+      <Text>The Republic of India</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CIV_INDIRA_GANDHI_SHORT_DESC">
+      <Text>The Republic of India</Text>
+      <Gender>neuter:an</Gender>
+		<Plurality>2</Plurality>
+    </Row>
+    <Row Tag="TXT_KEY_CIV_INDIRA_GANDHI_ADJECTIVE">
+      <Text>Indian</Text>
+      <Gender>neuter:an</Gender>
+    </Row>
+    <Row Tag="TXT_KEY_CIV5_DAWN_INDIRA_GANDHI_TEXT">
+      <Text>As the first female  Prime Minister of India, Indira Gandhi was known for her political ruthlessness and unprecedented centralisation of power. She went to war with Pakistan in support of the independence movement and war of independence in East Pakistan, which resulted in an Indian victory and the creation of Bangladesh, as well as increasing India's influence to the point where it became the regional hegemon of South Asia. Citing fissiparous tendencies and in response to a call for revolution, Gandhi instituted a state of emergency from 1975 to 1977 where basic civil liberties were suspended and press was censored. Widespread atrocities were carried out during the emergency. In 1980, she returned to power after free and fair elections.[NEWLINE][NEWLINE]Prime Minister Indira Gandhi, will you bring about a new golden age India? It is up to you to raise this most ancient civilization to new heights.  Will you take up the mantle of greatness? Can you build a civilization that will stand the test of time?</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_INDIRA_GANDHI_0">
+      <Text>Delhi</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_INDIRA_GANDHI_1">
+      <Text>Bombay</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_INDIRA_GANDHI_2">
+      <Text>Bangalore</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_INDIRA_GANDHI_3">
+      <Text>Hyderabad</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_INDIRA_GANDHI_4">
+      <Text>Calcutta</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_INDIRA_GANDHI_5">
+      <Text>Madras</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_INDIRA_GANDHI_6">
+      <Text>Ahmedabad</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_INDIRA_GANDHI_7">
+      <Text>Mysore</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_INDIRA_GANDHI_8">
+      <Text>Allahabad</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_INDIRA_GANDHI_9">
+      <Text>Surat</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_INDIRA_GANDHI_10">
+      <Text>Jaipur</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_INDIRA_GANDHI_11">
+      <Text>Raipur</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_INDIRA_GANDHI_12">
+      <Text>Srinagar</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_INDIRA_GANDHI_13">
+      <Text>Amritsar</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_INDIRA_GANDHI_14">
+      <Text>Indore</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_INDIRA_GANDHI_15">
+      <Text>Varanasi</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_INDIRA_GANDHI_16">
+      <Text>Pune</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_INDIRA_GANDHI_17">
+      <Text>Bhopal</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_INDIRA_GANDHI_18">
+      <Text>Agra</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_INDIRA_GANDHI_19">
+      <Text>Madhurai</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_INDIRA_GANDHI_20">
+      <Text>Vizag</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_INDIRA_GANDHI_21">
+      <Text>Cochin</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_INDIRA_GANDHI_22">
+      <Text>Trivandrum</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_INDIRA_GANDHI_23">
+      <Text>Lucknow</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_INDIRA_GANDHI_24">
+      <Text>Patna</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_INDIRA_GANDHI_25">
+      <Text>Secunderabad</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_INDIRA_GANDHI_26">
+      <Text>Vadodara</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_INDIRA_GANDHI_27">
+      <Text>Pondicherry</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_INDIRA_GANDHI_28">
+      <Text>Shimla</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_INDIRA_GANDHI_29">
+      <Text>Dwarika</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_INDIRA_GANDHI_30">
+      <Text>Hastinapur</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_INDIRA_GANDHI_31">
+      <Text>Indraprastha</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_INDIRA_GANDHI_32">
+      <Text>Jambudvipa</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_INDIRA_GANDHI_33">
+      <Text>Ayodhya</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_INDIRA_GANDHI_34">
+      <Text>Somnath</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_INDIRA_GANDHI_35">
+      <Text>Dwhajasthamba</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_INDIRA_GANDHI_36">
+      <Text>Amaravathi</Text>
+    </Row>
+    <Row Tag="TXT_KEY_SPY_NAME_INDIRA_GANDHI_0">
+      <Text>Shah Rukh Khan</Text>
+    </Row>
+    <Row Tag="TXT_KEY_SPY_NAME_INDIRA_GANDHI_1">
+      <Text>Jhansi Rani</Text>
+      <Gender>feminine</Gender>
+    </Row>
+    <Row Tag="TXT_KEY_SPY_NAME_INDIRA_GANDHI_2">
+      <Text>Aamir Khan</Text>
+    </Row>
+    <Row Tag="TXT_KEY_SPY_NAME_INDIRA_GANDHI_3">
+      <Text>Sridevi</Text>
+      <Gender>feminine</Gender>
+    </Row>
+    <Row Tag="TXT_KEY_SPY_NAME_INDIRA_GANDHI_4">
+      <Text>Radha</Text>
+      <Gender>feminine</Gender>
+    </Row>
+    <Row Tag="TXT_KEY_SPY_NAME_INDIRA_GANDHI_5">
+      <Text>Bhagat Singh</Text>
+    </Row>
+    <Row Tag="TXT_KEY_SPY_NAME_INDIRA_GANDHI_6">
+      <Text>Maheshwara</Text>
+    </Row>
+    <Row Tag="TXT_KEY_SPY_NAME_INDIRA_GANDHI_7">
+      <Text>Apu Nahasapeemapetilon</Text>
+    </Row>
+    <Row Tag="TXT_KEY_SPY_NAME_INDIRA_GANDHI_8">
+      <Text>Madhuri Dixit</Text>
+		<Gender>feminine</Gender>
+    </Row>
+    <Row Tag="TXT_KEY_SPY_NAME_INDIRA_GANDHI_9">
+      <Text>Veerappan</Text>
+    </Row>
+  </Language_en_US>
+</GameData>

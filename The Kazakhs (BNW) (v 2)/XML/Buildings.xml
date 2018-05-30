@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 2/18/2013 11:05:06 PM -->
+<GameData>
+	<Buildings>
+		<Row>
+			<Type>BUILDING_KIIZ_UY</Type>
+			<BuildingClass>BUILDINGCLASS_CIRCUS</BuildingClass>
+			<Cost>75</Cost>
+			<PrereqTech>TECH_TRAPPING</PrereqTech>
+			<Description>Kïiz Üy</Description>
+			<Civilopedia>Most of the population of Kazakhstan, whose occupation was nomadic and semi-nomadic herding, lived in movable dwellings of various shapes, sizes and designs. In warm weather the herdsmen and their families lived in light portable dwellings, while in cold weather they lived for the most part (nomads excepted) in warm, permanent housing – dug-outs and dwellings above ground, the names for which were zheru, qara-tam and shoshala. The summer dwellings of the Kazakhs were of two types: the felt tent or yurt, and the covered wagon or kuyme (kheyma). The most usual form was the yurt, which is an easily assembled dwelling. It was circular in shape, outwardly resembling a rotunda. The base of the yurt was formed by the wall (kerege), over which a dome-shaped vault of radially arranged poles was erected, with their lower ends fastened to the wall and their upper ends held by a circle of wood (shaniraq) forming the uppermost point of the dome. The yurts of wealthy people and nobles were noteworthy for their elegance and costly furnishings; their frames were often decorated with bone inlay, and the interior was hung with many-coloured carpets and expensive textiles.</Civilopedia>
+			<Strategy>The Kïiz Üy replaces the Circus. Unlike the Circus, it does not require nearby [ICON_RES_HORSE] Horses or [ICON_RES_IVORY] Ivory. It provides a free Stable in the city. Mounted units trained in this City gain open terrain bonuses (+15% [ICON_STRENGTH]).</Strategy>
+			<Help>Provides a free stable in this City. Mounted units trained in this City gain open terrain bonuses (+15% [ICON_STRENGTH]).</Help>
+			<ArtDefineTag>ART_DEF_BUILDING_CIRCUS</ArtDefineTag>
+			<FreeBuildingThisCity>BUILDINGCLASS_STABLE</FreeBuildingThisCity>
+			<TrainedFreePromotion>PROMOTION_TULGAMA</TrainedFreePromotion>
+			<MinAreaSize>-1</MinAreaSize>
+			<ConquestProb>66</ConquestProb>
+			<Happiness>2</Happiness>
+			<HurryCostModifier>25</HurryCostModifier>
+			<IconAtlas>CIV_DJSH_KAZAKH_ATLAS</IconAtlas>
+			<PortraitIndex>2</PortraitIndex>
+		</Row>
+    </Buildings>
+	<Building_Flavors>
+		<Row>
+			<BuildingType>BUILDING_KIIZ_UY</BuildingType>
+			<FlavorType>FLAVOR_EXPANSION</FlavorType>
+			<Flavor>6</Flavor>
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_KIIZ_UY</BuildingType>
+			<FlavorType>FLAVOR_GROWTH</FlavorType>
+			<Flavor>6</Flavor>
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_KIIZ_UY</BuildingType>
+			<FlavorType>FLAVOR_HAPPINESS</FlavorType>
+			<Flavor>50</Flavor>
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_KIIZ_UY</BuildingType>
+			<FlavorType>FLAVOR_CULTURE</FlavorType>
+			<Flavor>12</Flavor>
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_KIIZ_UY</BuildingType>
+			<FlavorType>FLAVOR_MILITARY_TRAINING</FlavorType>
+			<Flavor>8</Flavor>
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_KIIZ_UY</BuildingType>
+			<FlavorType>FLAVOR_PRODUCTION</FlavorType>
+			<Flavor>5</Flavor>
+		</Row>
+	</Building_Flavors>
+</GameData>

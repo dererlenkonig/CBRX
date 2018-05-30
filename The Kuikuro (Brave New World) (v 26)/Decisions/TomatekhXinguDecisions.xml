@@ -1,0 +1,215 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by Tomatekh-->
+<GameData>
+	<Language_en_US>
+		<!--Lost City of Z-->
+		<Row Tag="TXT_KEY_DECISIONS_TOMATEKH_LOST_CITY">
+			<Text>Find the Lost City of Z</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_TOMATEKH_LOST_CITY_DESC">
+			<Text>Our capital has inspired rumors of a lost civilization located deep within the jungle, attracting the attention of foreign bandeirantes. Although we know these rumors to be false, there is still much we can learn of our own history if we help these explorers map the continent.[NEWLINE]
+				[NEWLINE]Requirement/Restrictions:
+				[NEWLINE][ICON_BULLET]Player must be the Kuikuro
+				[NEWLINE][ICON_BULLET]Must have at least 2 Recon Units
+				[NEWLINE][ICON_BULLET]Must have at least 2 Archeologists
+				[NEWLINE][ICON_BULLET]Must have reached the Industrial Era
+				[NEWLINE][ICON_BULLET]May only be enacted once per game
+				[NEWLINE]Costs:
+				[NEWLINE][ICON_BULLET]{1_Gold} [ICON_GOLD] Gold
+				[NEWLINE][ICON_BULLET]{2_Magi} [ICON_MAGISTRATES] Magistrates
+				[NEWLINE]Rewards:
+				[NEWLINE][ICON_BULLET]Hidden Antiquity Sites will be revealed
+				[NEWLINE][ICON_BULLET]If you complete the Exploration Social Policy tree, City Ruins and Antiquity Sites will also provide +4 [ICON_CULTURE] Culture and +2 [ICON_GOLD] Gold
+				[NEWLINE][COLOR_POSITIVE_TEXT]Note: The decision costs will be reduced if you have completed the Exploration Social Policy tree.[ENDCOLOR]
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_TOMATEKH_LOST_CITY_ENACTED_DESC">
+			<Text>Our capital has inspired rumors of a lost civilization located deep within the jungle, attracting the attention of foreign bandeirantes. Although we know these rumors to be false, there is still much we can learn of our own history if we help these explorers map the continent.[NEWLINE]
+				[NEWLINE]Rewards:
+				[NEWLINE][ICON_BULLET]Hidden Antiquity Sites will be revealed
+				[NEWLINE][ICON_BULLET]If you complete the Exploration Social Policy tree, City Ruins and Antiquity Sites will also provide +4 [ICON_CULTURE] Culture and +2 [ICON_GOLD] Gold
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POLICY_XINGU_LOST_CITY">
+			<Text>Xingu Dummy</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POLICY_XINGU_LOST_CITY_TEXT">
+			<Text>Xingu Dummy</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POLICY_XINGU_LOST_CITY_HELP">
+			<Text>City Ruins and Antiquity Sites provide +4 [ICON_CULTURE] Culture and +2 [ICON_GOLD] Gold.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_XINGU_POLICY_DUMMY_DESC">
+			<Text>Xingu Dummy</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_XINGU_POLICY_DUMMY_HELP">
+			<Text>City Ruins and Antiquity Sites provide +4 [ICON_CULTURE] Culture and +2 [ICON_GOLD] Gold.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_XINGU_POLICY_DUMMY_STRATEGY">
+			<Text>This building cannot be constructed but rather facilitates the Xingu's unique abilities.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_XINGU_POLICY_DUMMY_TEXT">
+			<Text>The Lost City of Z is the name given by Col. Percy Harrison Fawcett, a British surveyor, to a city that he thought existed in the jungle of the Mato Grosso region of Brazil. This mysterious city is referenced in a document known as Manuscript 512 written by Portuguese bandeirante Joao da Silva Guimaraes who wrote that he'd visited the city in 1753. The city is described in great detail without providing a specific location. Fawcett allegedly heard about this city in the early 1900s and went to Rio de Janeiro to learn more, and came across the earlier report. He was about to go in search of the city when World War I intervened. In 1925, Fawcett, his son Jack, and Raleigh Rimell disappeared in the Mato Grosso while searching for Z.</Text>
+		</Row>
+		<!--Quarup-->
+		<Row Tag="TXT_KEY_DECISIONS_TOMATEKH_QUARUP">
+			<Text>Hold the Kuarup Festival</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_TOMATEKH_QUARUP_DESC">
+			<Text>The Kuarup ceremony is a ritual feast during which we honour the dead and remember our greatest leaders and warriors. It is a gathering of all neighboring tribes in celebration of life, death, and rebirth.[NEWLINE]
+				[NEWLINE]Requirement/Restrictions:
+				[NEWLINE][ICON_BULLET]Player must be the Kuikuro
+				[NEWLINE][ICON_BULLET]Must have at least 4 Military Units
+				[NEWLINE][ICON_BULLET]One of your Cities must be celebrating a 'We Love the King Day'
+				[NEWLINE][ICON_BULLET]May only be enacted once per game
+				[NEWLINE]Costs:
+				[NEWLINE][ICON_BULLET]{1_Culture} [ICON_CULTURE] Culture
+				[NEWLINE][ICON_BULLET]1 [ICON_MAGISTRATES] Magistrate
+				[NEWLINE]Rewards:
+				[NEWLINE][ICON_BULLET]The length of 'We Love the King Days' will be increased by 50%
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_TOMATEKH_QUARUP_ENACTED_DESC">
+			<Text>The Kuarup ceremony is a ritual feast during which we honour the dead and remember our greatest leaders and warriors. It is a gathering of all neighboring tribes to celebrate life, death, and rebirth.[NEWLINE]
+				[NEWLINE]Rewards:
+				[NEWLINE][ICON_BULLET]The length of 'We Love the King Days' will be increased by 50%
+			</Text>
+		</Row>
+
+		<!-- Deforestation Event -->
+		<Row Tag="TXT_KEY_EVENT_TOMATEKH_XINGU_DEFORESTATION">
+			<Text>Deforestation</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_TOMATEKH_XINGU_DEFORESTATION_DESC">
+			<Text>Overzealous citizens have taken it upon themselves to clear forest and jungle from their lands in order to expand their farms and sell the lumber.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_TOMATEKH_XINGU_DEFORESTATION_OUTCOME_1">
+			<Text>We should have prevented this...</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_TOMATEKH_XINGU_DEFORESTATION_OUTCOME_1_DESC">
+			<Text>[ICON_BULLET][COLOR_NEGATIVE_TEXT]Forest and Jungle tiles will be lost in your territory[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_TOMATEKH_XINGU_DEFORESTATION_OUTCOME_1_NOTIFICATION">
+			<Text>Your territory is suffering from deforestation!</Text>
+		</Row>				
+	</Language_en_US>
+	<Policies>
+		<Row>
+			<Type>POLICY_XINGU_LOST_CITY</Type>
+			<Description>TXT_KEY_POLICY_XINGU_LOST_CITY</Description>
+			<Civilopedia>TXT_KEY_POLICY_XINGU_LOST_CITY_TEXT</Civilopedia>
+			<Help>TXT_KEY_POLICY_XINGU_LOST_CITY_HELP</Help>
+			<GridX>1000</GridX>
+			<GridY>1000</GridY>
+			<PortraitIndex>47</PortraitIndex>
+			<IconAtlas>POLICY_ATLAS</IconAtlas>
+			<IconAtlasAchieved>POLICY_A_ATLAS</IconAtlasAchieved>
+		</Row>
+	</Policies>
+	<Policy_ImprovementCultureChanges>
+		<Row>
+			<PolicyType>POLICY_XINGU_LOST_CITY</PolicyType>
+			<ImprovementType>IMPROVEMENT_CITY_RUINS</ImprovementType>
+			<CultureChange>4</CultureChange>
+		</Row>
+	</Policy_ImprovementCultureChanges>	
+	<Policy_ImprovementYieldChanges>
+		<Row>
+			<PolicyType>POLICY_XINGU_LOST_CITY</PolicyType>
+			<ImprovementType>IMPROVEMENT_CITY_RUINS</ImprovementType>
+			<YieldType>YIELD_GOLD</YieldType>
+			<Yield>2</Yield>
+		</Row>				
+	</Policy_ImprovementYieldChanges>
+	<BuildingClasses>
+		<Row>
+			<Type>BUILDINGCLASS_XINGU_POLICY_DUMMY</Type>
+			<DefaultBuilding>BUILDING_XINGU_POLICY_DUMMY</DefaultBuilding>
+			<Description>TXT_KEY_BUILDING_XINGU_POLICY_DUMMY_DESC</Description>
+		</Row>
+	</BuildingClasses>
+	<Civilization_BuildingClassOverrides>
+		<Row>
+			<CivilizationType>CIVILIZATION_BARBARIAN</CivilizationType>
+			<BuildingClassType>BUILDINGCLASS_XINGU_POLICY_DUMMY</BuildingClassType>
+			<BuildingType/>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_MINOR</CivilizationType>
+			<BuildingClassType>BUILDINGCLASS_XINGU_POLICY_DUMMY</BuildingClassType>
+			<BuildingType/>
+		</Row>
+	</Civilization_BuildingClassOverrides>
+	<Buildings>
+		<Row>
+			<Type>BUILDING_XINGU_POLICY_DUMMY</Type>
+			<BuildingClass>BUILDINGCLASS_XINGU_POLICY_DUMMY</BuildingClass>
+			<Cost>-1</Cost>
+			<FaithCost>-1</FaithCost>
+			<PrereqTech>NULL</PrereqTech>
+			<GreatWorkCount>-1</GreatWorkCount>
+			<Description>TXT_KEY_BUILDING_XINGU_POLICY_DUMMY_DESC</Description>
+			<Civilopedia>TXT_KEY_CIVLOPEDIA_XINGU_POLICY_DUMMY_TEXT</Civilopedia>
+			<Strategy>TXT_KEY_BUILDING_XINGU_POLICY_DUMMY_STRATEGY</Strategy>
+			<Help>TXT_KEY_BUILDING_XINGU_POLICY_DUMMY_HELP</Help>
+			<ArtDefineTag>ART_DEF_BUILDING_UNIVERSITY</ArtDefineTag>
+			<MinAreaSize>-1</MinAreaSize>
+			<HurryCostModifier>25</HurryCostModifier>
+			<NeverCapture>true</NeverCapture>
+			<NukeImmune>true</NukeImmune>
+			<IconAtlas>BW_ATLAS_1</IconAtlas>
+			<PortraitIndex>13</PortraitIndex>
+		</Row>
+	</Buildings>
+	<Building_ResourceYieldChanges>
+		<Row>
+			<BuildingType>BUILDING_XINGU_POLICY_DUMMY</BuildingType>
+			<ResourceType>RESOURCE_ARTIFACTS</ResourceType>
+			<YieldType>YIELD_CULTURE</YieldType>
+			<Yield>4</Yield>
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_XINGU_POLICY_DUMMY</BuildingType>
+			<ResourceType>RESOURCE_ARTIFACTS</ResourceType>
+			<YieldType>YIELD_GOLD</YieldType>
+			<Yield>2</Yield>
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_XINGU_POLICY_DUMMY</BuildingType>
+			<ResourceType>RESOURCE_HIDDEN_ARTIFACTS</ResourceType>
+			<YieldType>YIELD_CULTURE</YieldType>
+			<Yield>4</Yield>
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_XINGU_POLICY_DUMMY</BuildingType>
+			<ResourceType>RESOURCE_HIDDEN_ARTIFACTS</ResourceType>
+			<YieldType>YIELD_GOLD</YieldType>
+			<Yield>2</Yield>
+		</Row>		
+	</Building_ResourceYieldChanges>
+	<!-- Extra -->
+	<Policies>
+		<InsertOrAbort>
+			<Type>POLICY_EXPLORATION_FINISHER_DUMMY</Type>
+			<Description>TXT_KEY_POLICY_EXPLORATION_FINISHER_DUMMY_XINGU</Description>
+			<Civilopedia>TXT_KEY_POLICY_EXPLORATION_FINISHER_DUMMY_XINGU_TEXT</Civilopedia>
+			<Help>TXT_KEY_POLICY_EXPLORATION_FINISHER_DUMMY_XINGU_HELP</Help>
+			<GridX>1000</GridX>
+			<GridY>1000</GridY>
+			<PortraitIndex>47</PortraitIndex>
+			<IconAtlas>POLICY_ATLAS</IconAtlas>
+			<IconAtlasAchieved>POLICY_A_ATLAS</IconAtlasAchieved>
+		</InsertOrAbort>
+	</Policies>
+	<Language_en_US>
+		<Row Tag="TXT_KEY_POLICY_EXPLORATION_FINISHER_DUMMY_XINGU">
+			<Text>Exploration Dummy</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POLICY_EXPLORATION_FINISHER_DUMMY_XINGU_TEXT">
+			<Text>Exploration Dummy</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POLICY_EXPLORATION_FINISHER_DUMMY_XINGU_HELP">
+			<Text>Reveals Hidden Antiquity Sites.</Text>
+		</Row>
+	</Language_en_US>	
+</GameData>

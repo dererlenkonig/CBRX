@@ -1,0 +1,130 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mod id="894bbf27-8d44-48da-a015-b03942ad6333" version="2">
+  <Properties>
+    <Name>Algeria (BNW)</Name>
+    <Teaser>This mod adds Algeria to the game as a playable civilization. This mod requires Brave New World.</Teaser>
+    <Description>This mod adds Algeria to the game as a playable civilization. This mod requires Brave New World.[NEWLINE][NEWLINE]
+Leader: Abdelkader El Djezeiri[NEWLINE][NEWLINE]
+UA: Saint Among the Princes - Cities gain extra [ICON_STRENGTH] Defensive Combat Strength based on total [ICON_PEACE] Faith output. Strategic Resources on Desert provide double quantity.[NEWLINE][NEWLINE]
+UB: Zawiya. Replaces the University. For every different terrain type adjacent to the first City it is built in, it provides +1 [ICON_PEACE] Faith and +5% [ICON_GREAT_PEOPLE] Great People generation.[NEWLINE][NEWLINE]
+UU: Dey. Replaces the Great General. The Dey may construct a Ksar instead of a Citadel. This improvement is the same as a Citadel (cultural borders expansion, defense bonus), except it may be constructed outside friendly borders. It also inflicts more damage to nearby units than a Citadel. Additionally, defensive buildings contribute to the generation of Deys.</Description>
+    <Authors>DJSHenninger</Authors>
+    <HideSetupGame>0</HideSetupGame>
+    <AffectsSavedGames>1</AffectsSavedGames>
+    <MinCompatibleSaveVersion>0</MinCompatibleSaveVersion>
+    <SupportsSinglePlayer>1</SupportsSinglePlayer>
+    <SupportsMultiplayer>0</SupportsMultiplayer>
+    <SupportsHotSeat>1</SupportsHotSeat>
+    <SupportsMac>1</SupportsMac>
+    <ReloadAudioSystem>1</ReloadAudioSystem>
+    <ReloadLandmarkSystem>1</ReloadLandmarkSystem>
+    <ReloadStrategicViewSystem>1</ReloadStrategicViewSystem>
+    <ReloadUnitSystem>1</ReloadUnitSystem>
+  </Properties>
+  <Dependencies />
+  <References>
+    <Mod id="7fdd72a5-d4ae-441c-bc4e-2e3d2a26cff4" minversion="0" maxversion="999" title="Ethnic Units" />
+    <Mod id="36e88483-48fe-4545-b85f-bafc50dde315" minversion="0" maxversion="999" title="Yet (not) Another Earth Maps Pack" />
+    <Mod id="1153b26a-69fd-4cd5-899c-a8ba8e0e5e5d" minversion="0" maxversion="999" title="Civ IV Leader Traits in Civ V" />
+    <Mod id="01c131ef-2162-4a7b-b845-763a4e675940" minversion="0" maxversion="999" title="Unique Cultural Influence" />
+    <Mod id="e576894a-ed2b-4033-be14-ed1c8ceb81d3" minversion="0" maxversion="999" title="Map Labels" />
+    <Mod id="eea66053-7579-481a-bb8d-2f3959b59974" minversion="0" maxversion="999" title="Piety and Prestige" />
+    <Mod id="31a31d1c-b9d7-45e1-842c-23232d66cd47" minversion="0" maxversion="999" title="JFD's Cultural Diversity (Core)" />
+  </References>
+  <Blocks />
+  <Files>
+    <File md5="4D7CBACBD220D109C04FA81D2BE9E02B" import="1">Art/Algeria_diplo.dds</File>
+    <File md5="A5D2B5686691413FA4855DE5979D70C1" import="1">Art/Algeria_DOM.dds</File>
+    <File md5="F89DA38DD0F764CEEDDE2E2EA0A95645" import="1">Art/Algeria_Icons128.dds</File>
+    <File md5="EE4A5D9E89F4236E98036CE448FB3DFF" import="1">Art/Algeria_Icons256.dds</File>
+    <File md5="D010E81D472E05BDD39A00AE2683B062" import="1">Art/Algeria_Icons32.dds</File>
+    <File md5="C8D496B7183D7EFFB619ACB0170CF98A" import="1">Art/Algeria_Icons45.dds</File>
+    <File md5="EA1EC4974D2E483D6207B45500C76558" import="1">Art/Algeria_Icons64.dds</File>
+    <File md5="9F8257EC6317E409F83A6CB79223421C" import="1">Art/Algeria_Icons80.dds</File>
+    <File md5="C449DA6FF3B997EEEA70EE2777308B94" import="1">Art/Algeria_Scene.xml</File>
+    <File md5="15DD8CDAB61E72D33823CC1E6E9D507F" import="1">Art/AlphaAlgeria128.dds</File>
+    <File md5="7C19891BEA64CA791F0EACD4984C45EB" import="1">Art/AlphaAlgeria16.dds</File>
+    <File md5="7BA18BBCCF55D83C26571AAD9E2B8FD5" import="1">Art/AlphaAlgeria24.dds</File>
+    <File md5="EC081AED829F9D9093C31847C3F000FB" import="1">Art/AlphaAlgeria256.dds</File>
+    <File md5="E7D27565CECC3581EC59A8C1F1D35476" import="1">Art/AlphaAlgeria32.dds</File>
+    <File md5="81221381564F475212F69113847E71FD" import="1">Art/AlphaAlgeria45.dds</File>
+    <File md5="B89E81C26350AF5DC7E6CA8D7406829B" import="1">Art/AlphaAlgeria48.dds</File>
+    <File md5="15A4EBC43713D8597F7A04FD28779110" import="1">Art/AlphaAlgeria64.dds</File>
+    <File md5="D3899337430D94060CFB7B1043C19334" import="1">Art/AlphaAlgeria80.dds</File>
+    <File md5="9853331DFBA9E263CA64CF0FC16FCD57" import="1">Art/Ksar128.dds</File>
+    <File md5="5064DADAD4AA75FD6E2DB4FB91BAC12B" import="1">Art/Ksar256.dds</File>
+    <File md5="E6EA544398AB0453583D16FF20B8B3E8" import="1">Art/Ksar32.dds</File>
+    <File md5="04122DEE69FB33B3CE389D3BBAAED6E8" import="1">Art/Ksar45.dds</File>
+    <File md5="7682E8153874ADD2530FC1CFE011CEEA" import="1">Art/Ksar64.dds</File>
+    <File md5="DDFFFE772CF1CE76BB5F9C2183DA528F" import="1">Art/Ksar80.dds</File>
+    <File md5="4663DF1D4EDBF871700B299C806A282F" import="1">Art/MapAlgeria512.dds</File>
+    <File md5="ED148E6ED8BE29A423F221D6E21E9E65" import="1">Art/redfortTI_B.fxsxml</File>
+    <File md5="C14A8082CBBE19C1D862BE1DE9E789A1" import="1">Art/redfortTI_B.gr2</File>
+    <File md5="7821A22AD0B0B3962EFEF5566BDA1ACA" import="1">Art/redfortTI_HB.fxsxml</File>
+    <File md5="708E3A625DDAF70B9532931FD60ACF4B" import="1">Art/redfortTI_HB.gr2</File>
+    <File md5="9213146A3E511760F5D26945C2694652" import="1">Art/SV_Ksar.dds</File>
+    <File md5="976C29F37CA05B5409B0EB17D73F19A7" import="1">Art/Wonder_grnd_diff.dds</File>
+    <File md5="3E72CE4C071592D55FB4C08E3D4FCE87" import="1">Art/wonder_grnd_h.dds</File>
+    <File md5="C4089962F18D8E73929965C380301DEB" import="1">Art/WONDER_TI_PL.gr2</File>
+    <File md5="FC16ECFB00081CEAFC433C860E0E326D" import="1">Art/WTI_PL.fxsxml</File>
+    <File md5="D8EF071C833DE7F72B685BFDAEAAA4A0" import="0">Lua/AlgeriaTrait.lua</File>
+    <File md5="8A82DA6D1C1EF7926B4DF2878ACA1799" import="0">Mod Support for Algeria/Barathor's YnAEMP.sql</File>
+    <File md5="166C9430E64C875CE6F12C9132131E57" import="0">Mod Support for Algeria/Bingles' Civ IV Traits.sql</File>
+    <File md5="33A808F9A2CD10AC1E4120B0C627906F" import="0">Mod Support for Algeria/Cultural Diversity.sql</File>
+    <File md5="21877E3FD2015BACED0A498570C7A852" import="0">Mod Support for Algeria/Ethnic Units.sql</File>
+    <File md5="3B1047018A1C4D5C5DE5BEA234B04C6A" import="0">Mod Support for Algeria/hazel16's Map Labels.sql</File>
+    <File md5="D5CB2DE6923CCEFC25B5A0D5129F3FA3" import="0">Mod Support for Algeria/JFD's Piety and Prestige.sql</File>
+    <File md5="073AA8C5F11CF53E3DCDC4EC2B2EE2F2" import="0">Mod Support for Algeria/Ryoga's Unique Cultural Influence.xml</File>
+    <File md5="8E258F8C98827E2358F8E9E525508EB1" import="1">Music/DJSHAlgeriaPeace.mp3</File>
+    <File md5="E6468CF65B628E6B99A50205B6B9AA14" import="1">Music/DJSHAlgeriaWar.mp3</File>
+    <File md5="EDA39C5BEBB4B8D08C22E6C7599616E1" import="0">SQL/UI_Ksar.sql</File>
+    <File md5="63C4C213E04EA25672075619C5E36BEE" import="0">XML/Algeria_Diplomacy.xml</File>
+    <File md5="69ED7DBFF4B49E3761A27C3593F571D4" import="0">XML/Buildings.xml</File>
+    <File md5="A64D309087CF929960090EC6172E56BE" import="0">XML/CIV5colors.xml</File>
+    <File md5="6232BDC95B0CAC5C64ADA7BD6BBD8B4E" import="0">XML/CIV5IconTextureAtlases.xml</File>
+    <File md5="260FACEAE54600AC6521BEE61ECC8B9B" import="0">XML/CIV5Leader_Abdelkader.xml</File>
+    <File md5="183CFFD2DC304B8CCABED461666B349C" import="0">XML/CIV5playercolors.xml</File>
+    <File md5="228AA69913DC6E73C689891285DD6678" import="0">XML/CIV5Specialists.xml</File>
+    <File md5="A21BAF8ADE0B6B855E8636505E52B6C4" import="0">XML/CIV5Traits.xml</File>
+    <File md5="70F133BE5E7F682E51611D1727E0AE5E" import="0">XML/CIV5Units.xml</File>
+    <File md5="F09B7292F03FD1E694E9E622B9C61A99" import="0">XML/Civ_Algeria.xml</File>
+    <File md5="EE6801454076BFEB98BDD88654AEF14B" import="0">XML/Dey.xml</File>
+    <File md5="4B3AC57100A2091656EC89F8F9DC1AB3" import="0">XML/GameText.xml</File>
+    <File md5="3D2BA4C6EC4EB592CDDF514EFA8557DD" import="0">XML/Ksar.xml</File>
+    <File md5="CE8F054CE08228E698C95F2B6F0FC14C" import="0">XML/Music.xml</File>
+  </Files>
+  <Actions>
+    <OnModActivated>
+      <UpdateDatabase>Art/Algeria_Scene.xml</UpdateDatabase>
+      <UpdateDatabase>SQL/UI_Ksar.sql</UpdateDatabase>
+      <UpdateDatabase>XML/Buildings.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Algeria_Diplomacy.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Civ_Algeria.xml</UpdateDatabase>
+      <UpdateDatabase>XML/CIV5colors.xml</UpdateDatabase>
+      <UpdateDatabase>XML/CIV5IconTextureAtlases.xml</UpdateDatabase>
+      <UpdateDatabase>XML/CIV5Leader_Abdelkader.xml</UpdateDatabase>
+      <UpdateDatabase>XML/CIV5playercolors.xml</UpdateDatabase>
+      <UpdateDatabase>XML/CIV5Specialists.xml</UpdateDatabase>
+      <UpdateDatabase>XML/CIV5Traits.xml</UpdateDatabase>
+      <UpdateDatabase>XML/CIV5Units.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Dey.xml</UpdateDatabase>
+      <UpdateDatabase>XML/GameText.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Ksar.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Music.xml</UpdateDatabase>
+      <UpdateDatabase>Mod Support for Algeria/hazel16's Map Labels.sql</UpdateDatabase>
+      <UpdateDatabase>Mod Support for Algeria/JFD's Piety and Prestige.sql</UpdateDatabase>
+      <UpdateDatabase>Mod Support for Algeria/Barathor's YnAEMP.sql</UpdateDatabase>
+      <UpdateDatabase>Mod Support for Algeria/Bingles' Civ IV Traits.sql</UpdateDatabase>
+      <UpdateDatabase>Mod Support for Algeria/Ethnic Units.sql</UpdateDatabase>
+      <UpdateDatabase>Mod Support for Algeria/Ryoga's Unique Cultural Influence.xml</UpdateDatabase>
+      <UpdateDatabase>Mod Support for Algeria/Cultural Diversity.sql</UpdateDatabase>
+    </OnModActivated>
+  </Actions>
+  <EntryPoints>
+    <EntryPoint type="InGameUIAddin" file="Lua/AlgeriaTrait.lua">
+      <Name>AlgeriaTrait</Name>
+      <Description>
+      </Description>
+    </EntryPoint>
+  </EntryPoints>
+</Mod>

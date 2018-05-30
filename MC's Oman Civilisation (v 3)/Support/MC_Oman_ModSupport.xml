@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by Tomatekh -->
+<GameData>
+	<Language_en_US>
+		<!--Enlightenment Era-->
+		<Row Tag="TXT_KEY_UNIT_MC_OMANI_BAGHLAH_STRATEGY_EE">
+			<Text>Only Oman may build this unit. It is faster and has additional sight to the Galleon that it replaces, and begins with additional experience for every 3 gold produced in the empire. The Baghlah may earn up to 30XP in this way.</Text>
+		</Row>
+		<!--Events and Decisions-->
+		<!--Enlist the Balochi-->
+		<Row Tag="TXT_KEY_DECISIONS_MC_OMANBALOCHI">
+			<Text>Enlist the help of the Balochi people</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_MC_OMANBALOCHI_DESC">
+			<Text>
+				[NEWLINE]For centuries, the Balochi people have been renowned for their prowess upon the field of battle and their experience in rough lands. We should enlist their aid in defence of our empire, so that our foes do not do the same!
+				[NEWLINE]Requirement/Restrictions:
+				[NEWLINE][ICON_BULLET]Player must be Oman.
+				[NEWLINE][ICON_BULLET]Must have researched Gunpowder.
+				[NEWLINE][ICON_BULLET]May only be enacted once per game.
+				[NEWLINE]Costs:
+				[NEWLINE][ICON_BULLET]{1_Num} [ICON_GOLD] Gold.
+				[NEWLINE][ICON_BULLET]1 [ICON_MAGISTRATES] Magistrate.
+				[NEWLINE]Rewards:
+				[NEWLINE][ICON_BULLET]Receive three Musketmen from the Balochi people.
+				[NEWLINE][ICON_BULLET]The Musketmen start with 30XP and fight better in rough terrain.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_MC_OMANBALOCHI_ENACTED_DESC">
+			<Text>
+				[NEWLINE]For centuries, the Balochi people have been renowned for their prowess upon the field of battle and their experience in rough lands. We should enlist their aid in defence of our empire, so that our foes do not do the same!
+				[NEWLINE]Rewards:
+				[NEWLINE][ICON_BULLET]Receive three Musketmen from the Balochi people.
+				[NEWLINE][ICON_BULLET]The Musketmen start with additional experience and fight better in hill terrain.
+			</Text>
+		</Row>
+		<!--Impose Omani Governors-->
+		<Row Tag="TXT_KEY_DECISIONS_MC_OMANGOVERNORS">
+			<Text>Impose Omani Governors</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_MC_OMANGOVERNORS_DESC">
+			<Text>
+				[NEWLINE]In recent years our empire has expanded greatly. Placing members of the court as governors of our new territories would ensure their stability and consolidation into our trade networks. 
+				[NEWLINE]Requirement/Restrictions:
+				[NEWLINE][ICON_BULLET]Player must be Oman.
+				[NEWLINE][ICON_BULLET]Must have researched Compass.
+				[NEWLINE][ICON_BULLET]Must have conquered at least one coastal city.
+				[NEWLINE][ICON_BULLET]May only be enacted once per game.
+				[NEWLINE]Costs:
+				[NEWLINE][ICON_BULLET]3 [ICON_MAGISTRATES] Magistrates.
+				[NEWLINE]Rewards:
+				[NEWLINE][ICON_BULLET]Harbors act as courthouses in [ICON_OCCUPIED] occupied cities. 
+				[NEWLINE][ICON_BULLET]Harbors are constructed +20% faster. 
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_MC_OMAN_PEACE_KEEPING_ENACTED_DESC">
+			<Text>
+				[NEWLINE]In recent years our empire has expanded greatly. Placing members of the court as governors of our new territories would ensure their stability and consolidation into our trade networks.
+				[NEWLINE]Rewards:
+				[NEWLINE][ICON_BULLET]Harbors act as courthouses in [ICON_OCCUPIED] occupied cities.
+				[NEWLINE][ICON_BULLET]Harbors are constructed +20% faster.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PMMM_LEADER_MG_NAME_MC_SAVAGE">
+			<Text>Mazoon</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<!--Unique Cultural Influence-->
+		<Row Tag="TXT_KEY_GENERIC_MC_OMAN_INFLUENTIAL_ON_AI_1">
+			<Text>Our people are now all weilding khanjar and wearing dishdasha! I worry the rest of the world will also succumb to the influence of your culture.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POLICY_DECISIONS_MC_OMANGOVERNORS">
+			<Text>Omani Governors policy</Text>
+		</Row>
+		<!--CiD Colony names-->
+		<Row Tag="TXT_KEY_COLONY_NAME_MC_OMAN_01">
+			<Text>Zanzibar</Text>
+		</Row>
+		<Row Tag="TXT_KEY_COLONY_NAME_MC_OMAN_02">
+			<Text>Mogadishu</Text>
+		</Row>
+		<Row Tag="TXT_KEY_COLONY_NAME_MC_OMAN_03">
+			<Text>Mombasa</Text>
+		</Row>
+		<Row Tag="TXT_KEY_COLONY_NAME_MC_OMAN_04">
+			<Text>Dar Es Salaam</Text>
+		</Row>
+		<Row Tag="TXT_KEY_COLONY_NAME_MC_OMAN_05">
+			<Text>Bagamoyo</Text>
+		</Row>
+		<Row Tag="TXT_KEY_COLONY_NAME_MC_OMAN_06">
+			<Text>Pangani</Text>
+		</Row>
+	</Language_en_US>
+	<Policies>
+		<Row>
+			<Type>POLICY_DECISIONS_MC_OMANGOVERNORS</Type>
+			<Description>TXT_KEY_POLICY_DECISIONS_MC_OMANGOVERNORS</Description>
+			<Civilopedia>TXT_KEY_POLICY_DECISIONS_MC_OMANGOVERNORS</Civilopedia>
+			<Help>TXT_KEY_POLICY_FREE_RELIGION_HELP</Help>
+			<GridX>1000</GridX>
+			<GridY>1000</GridY>
+			<PortraitIndex>47</PortraitIndex>
+			<IconAtlas>POLICY_ATLAS</IconAtlas>
+			<IconAtlasAchieved>POLICY_A_ATLAS</IconAtlasAchieved>
+		</Row>
+	</Policies>
+	<Policy_BuildingClassProductionModifiers>
+		<Row>
+			<PolicyType>POLICY_DECISIONS_MC_OMANGOVERNORS</PolicyType>
+			<BuildingClassType>BUILDINGCLASS_HARBOR</BuildingClassType>
+			<ProductionModifier>20</ProductionModifier>
+		</Row>
+	</Policy_BuildingClassProductionModifiers>
+	<Buildings>
+		<Row>
+			<Type>BUILDING_BUILDING_DECISIONS_MC_OMANGOVERNORS</Type>
+			<BuildingClass>BUILDINGCLASS_BUILDING_DECISIONS_MC_OMANGOVERNORS</BuildingClass>
+			<Description>TXT_KEY_BUILDING_BUILDING_DECISIONS_MC_OMANGOVERNORS</Description>
+			<Cost>-1</Cost>
+			<PrereqTech>NULL</PrereqTech>
+			<NoOccupiedUnhappiness>true</NoOccupiedUnhappiness>
+			<GreatWorkCount>-1</GreatWorkCount>
+			<FaithCost>-1</FaithCost>
+		</Row>
+	</Buildings>
+	<BuildingClasses>
+		<Row>
+			<Type>BUILDINGCLASS_BUILDING_DECISIONS_MC_OMANGOVERNORS</Type>
+			<DefaultBuilding>BUILDING_BUILDING_DECISIONS_MC_OMANGOVERNORS</DefaultBuilding>
+		</Row>
+	</BuildingClasses>
+</GameData>

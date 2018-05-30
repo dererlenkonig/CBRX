@@ -1,0 +1,135 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<Language_en_US>
+		<!-- Révolution française -->
+		<Row Tag="TXT_KEY_EVENT_HAITI_FRENCH_REVOLUTION">
+			<Text>Révolution française</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_HAITI_FRENCH_REVOLUTION_DESC">
+			<Text>The revolution has succeeded in France! The ideals of Liberty Equality ,and Fraternity have succeeded in the far lands of Paris. This has inspired the people of Port-au-Prince, but it has generated an ideological divide. For one thing the Gránds Blancs, the white people, see it as an opportunity for independence, and are willing to fight against the former royal armies. On the other side, the Gens de Colour, the maroons and slaves, see it as a chane for their own freedom, to finally find themselves free from any other power. Who should we side with?
+				[NEWLINE]
+			</Text>
+		</Row>
+		<!-- French_Revolution: Outcome 1 -->
+		<Row Tag="TXT_KEY_EVENT_HAITI_FRENCH_REVOLUTION_OUTCOME_1">
+			<Text>Side with the Grands Blancs</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_HAITI_FRENCH_REVOLUTION_OUTCOME_RESULT_1">
+			<Text>[ICON_BULLET][COLOR_NEGATIVE_TEXT]Lose all your [ICON_PEACE] Faith[ENDCOLOR]
+			[NEWLINE][ICON_BULLET][COLOR_POSITIVE_TEXT]Receive a free Social Policy[ENDCOLOR]
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_HAITI_FRENCH_REVOLUTION_OUTCOME_RESULT_1_NOTIFICATION">
+			<Text>You have sided with the Grands Blancs after the French Revolution!</Text>
+		</Row>
+		<!-- French_Revolution: Outcome 2 -->
+		<Row Tag="TXT_KEY_EVENT_HAITI_FRENCH_REVOLUTION_OUTCOME_2">
+			<Text>Side with the Gens de Colour</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_HAITI_FRENCH_REVOLUTION_OUTCOME_RESULT_2">
+			<Text>[ICON_BULLET][COLOR_NEGATIVE_TEXT]Lose all your [ICON_GOLD] Gold[ENDCOLOR]
+				[NEWLINE][ICON_BULLET][COLOR_POSITIVE_TEXT]Receive 4 free Mawon Units[ENDCOLOR]
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_HAITI_FRENCH_REVOLUTION_OUTCOME_RESULT_2_NOTIFICATION">
+			<Text>You have sided with the Gens de Colour after the French Revolution!</Text>
+		</Row>
+		<!-- French_Revolution: TEXTS -->
+		<Row Tag="TXT_KEY_EVENT_HAITI_FRENCH_REVOLUTION_OTHERS_ALERT">
+			<Text>The French Revolution has inspired the people of [COLOR_POSITIVE_TEXT]Haiti[ENDCOLOR]!</Text>
+		</Row>
+
+
+		
+		<!-- ============================================================================================== -->
+
+		<!-- Dutty Boukman -->
+		<Row Tag="TXT_KEY_EVENT_HAITI_DUTTY_BOUKMAN">
+			<Text>Dutty Boukman</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_HAITI_DUTTY_BOUKMAN_DESC">
+			<Text>A man named Boukman, a houngan of our lands, organized a meeting with the slaves in the mountains of the North. This meeting took the form of a Voodoo ceremony in the Bois Caiman in the northern mountains of the island. It was raining and the sky was raging with clouds; the slaves then started confessing their resentment of their condition. A woman started dancing languorously in the crowd, taken by the spirits of the loas. With a knife in her hand, she cut the throat of a pig and distributed the blood to all the participants of the meeting who swore to kill all the whites on the island. A revolution has started!</Text>
+		</Row>
+		<!-- DuttyBoukman: Outcome 1 -->
+		<Row Tag="TXT_KEY_EVENT_HAITI_DUTTY_BOUKMAN_OUTCOME_1">
+			<Text>Liberté ou la mort!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_HAITI_DUTTY_BOUKMAN_OUTCOME_RESULT_1">
+			<Text>[ICON_BULLET][COLOR_POSITIVE_TEXT]Dutty Boukman joins your troops, a Houngan unit with enhanced promotions[ENDCOLOR]
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_HAITI_DUTTY_BOUKMAN_OUTCOME_RESULT_1_NOTIFICATION">
+			<Text>Dutty Boukman has started a revolt!</Text>
+		</Row>
+		
+		
+
+
+		<!-- DuttyBoukman: TEXTS -->
+		<Row Tag="TXT_KEY_EVENT_HAITI_DUTTY_BOUKMAN_OTHERS_ALERT">
+			<Text>Dutty Boukman organized a Voodoo ritual in the lands of [COLOR_POSITIVE_TEXT]Haiti[ENDCOLOR]!</Text>
+		</Row>
+
+
+		<!-- ============================================================================================== -->
+		<!-- ============================================================================================== -->
+
+		<!-- ClairviusNarcisse Problems -->
+		<Row Tag="TXT_KEY_EVENT_HAITI_CLAIRVIUS_NARCISSE">
+			<Text>Clairvius Narcisse</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_HAITI_CLAIRVIUS_NARCISSE_DESC">
+			<Text>A most troubling report has reached our offices, great leader. A man called Clairvius Narcisse has been reported to have became a living zombie! According to some researchers, it was a combination of drugs and special chemical concoctions, but your people are fearful as they believe it a result of dark voodoo magic, since the man was assumed to be dead for 18 years. What should we do?[NEWLINE]
+			</Text>
+		</Row>
+		<!-- ClairviusNarcisse: Outcome 1 -->
+		<Row Tag="TXT_KEY_EVENT_HAITI_CLAIRVIUS_NARCISSE_OUTCOME_1">
+			<Text>Make a legislation to prevent zombification processes</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_HAITI_CLAIRVIUS_NARCISSE_OUTCOME_RESULT_1">
+			<Text>[ICON_BULLET][COLOR_NEGATIVE_TEXT]Lose {1_NumFaith} [ICON_PEACE] Faith[ENDCOLOR]
+				[NEWLINE][ICON_BULLET][COLOR_POSITIVE_TEXT]Receive {2_NumCulture} [ICON_CULTURE] Culture[ENDCOLOR]
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_HAITI_CLAIRVIUS_NARCISSE_OUTCOME_RESULT_1_NOTIFICATION">
+			<Text>A legislation to prevent Zombies has been created in Haiti!</Text>
+		</Row>
+		<!-- ClairviusNarcisse: Outcome 2 -->
+		<Row Tag="TXT_KEY_EVENT_HAITI_CLAIRVIUS_NARCISSE_OUTCOME_2">
+			<Text>This is movies material!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_HAITI_CLAIRVIUS_NARCISSE_OUTCOME_RESULT_2">
+			<Text>[ICON_BULLET][COLOR_NEGATIVE_TEXT]Lose {1_NumCulture} [ICON_CULTURE] Culture[ENDCOLOR]
+				[NEWLINE][ICON_BULLET][COLOR_POSITIVE_TEXT]Receive +4 [ICON_TOURISM] Tourism per turn in the Capital[ENDCOLOR]
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_HAITI_CLAIRVIUS_NARCISSE_OUTCOME_RESULT_2_NOTIFICATION">
+			<Text>You have decided to make a movie from Clairvius Narcisse's tale!</Text>
+		</Row>
+		<!-- ClairviusNarcisse: Outcome 3 -->
+		<Row Tag="TXT_KEY_EVENT_HAITI_CLAIRVIUS_NARCISSE_OUTCOME_3">
+			<Text>We must investigate more</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_HAITI_CLAIRVIUS_NARCISSE_OUTCOME_RESULT_3">
+			<Text>	[ICON_BULLET][COLOR_NEGATIVE_TEXT]Lose {1_NumCulture} [ICON_CULTURE] Culture[ENDCOLOR]
+				[ICON_BULLET][COLOR_NEGATIVE_TEXT]Lose {2_NumFaith} [ICON_PEACE] Peace[ENDCOLOR]
+				[NEWLINE][ICON_BULLET][COLOR_POSITIVE_TEXT]Receive a free Great Scientist[ENDCOLOR]
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_HAITI_CLAIRVIUS_NARCISSE_OUTCOME_RESULT_3_NOTIFICATION">
+			<Text>You have decided to study Clairvius Narcisse's tale!</Text>
+		</Row>
+		
+
+
+		<!-- ClairviusNarcisse: TEXTS -->
+		<Row Tag="TXT_KEY_EVENT_HAITI_CLAIRVIUS_NARCISSE_OTHERS_ALERT">
+			<Text>Tales of the zombification of Clairvius Narcisse come from the lands of [COLOR_POSITIVE_TEXT]Haiti[ENDCOLOR]!</Text>
+		</Row>
+
+
+		<!-- ============================================================================================== -->
+		<!-- ============================================================================================== -->
+
+		</Language_en_US>
+</GameData>

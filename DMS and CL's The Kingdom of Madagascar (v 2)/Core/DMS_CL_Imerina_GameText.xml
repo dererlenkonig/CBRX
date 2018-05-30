@@ -1,0 +1,398 @@
+<GameData>
+	<Language_en_US>
+		<!-- IMERINA -->
+		<!-- CITIES -->
+		<Row Tag="TXT_KEY_CITY_NAME_CIVILIZATION_DMS_CL_IMERINA_1">
+			<Text>Antananarivo</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CIVILIZATION_DMS_CL_IMERINA_2">
+			<Text>Toliara</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CIVILIZATION_DMS_CL_IMERINA_3">
+			<Text>Mahajanga</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CIVILIZATION_DMS_CL_IMERINA_4">
+			<Text>Faradofay</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CIVILIZATION_DMS_CL_IMERINA_5">
+			<Text>Ramavo</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CIVILIZATION_DMS_CL_IMERINA_6">
+			<Text>Mantasoa</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CIVILIZATION_DMS_CL_IMERINA_7">
+			<Text>Fianaranisoa</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CIVILIZATION_DMS_CL_IMERINA_8">
+			<Text>Toamasina</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CIVILIZATION_DMS_CL_IMERINA_9">
+			<Text>Ambodifotatra</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CIVILIZATION_DMS_CL_IMERINA_10">
+			<Text>Sambava</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CIVILIZATION_DMS_CL_IMERINA_11">
+			<Text>Antsiranana</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CIVILIZATION_DMS_CL_IMERINA_12">
+			<Text>Morondava</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CIVILIZATION_DMS_CL_IMERINA_13">
+			<Text>Tuléar</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CIVILIZATION_DMS_CL_IMERINA_14">
+			<Text>Androka</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CIVILIZATION_DMS_CL_IMERINA_15">
+			<Text>Taolagnaro</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CIVILIZATION_DMS_CL_IMERINA_16">
+			<Text>Vangaindrano</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CIVILIZATION_DMS_CL_IMERINA_17">
+			<Text>Moheli</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CIVILIZATION_DMS_CL_IMERINA_18">
+			<Text>Nosy Mitsio</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CIVILIZATION_DMS_CL_IMERINA_19">
+			<Text>IIle</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CIVILIZATION_DMS_CL_IMERINA_20">
+			<Text>Mayotte</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CIVILIZATION_DMS_CL_IMERINA_21">
+			<Text>Moroni</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CIVILIZATION_DMS_CL_IMERINA_22">
+			<Text>Moramanga</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CIVILIZATION_DMS_CL_IMERINA_23">
+			<Text>Anjouan</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CIVILIZATION_DMS_CL_IMERINA_24">
+			<Text>Farafanga</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CIVILIZATION_DMS_CL_IMERINA_25">
+			<Text>Ihosy</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CIVILIZATION_DMS_CL_IMERINA_26">
+			<Text>Tsiroanomandidy</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CIVILIZATION_DMS_CL_IMERINA_27">
+			<Text>Nosy Varika</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CIVILIZATION_DMS_CL_IMERINA_28">
+			<Text>Fenoarivo Atsinanana</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CIVILIZATION_DMS_CL_IMERINA_29">
+			<Text>Antsirabe</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CIVILIZATION_DMS_CL_IMERINA_30">
+			<Text>Fianarantsoa</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CIVILIZATION_DMS_CL_IMERINA_31">
+			<Text>Ambovombe</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CIVILIZATION_DMS_CL_IMERINA_32">
+			<Text>Nosy Be</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CIVILIZATION_DMS_CL_IMERINA_33">
+			<Text>Vatomandry</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CIVILIZATION_DMS_CL_IMERINA_34">
+			<Text>Antanifotsy</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CIVILIZATION_DMS_CL_IMERINA_35">
+			<Text>Tôlan̈aro</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CIVILIZATION_DMS_CL_IMERINA_36">
+			<Text>Ambatondrazaka</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CIVILIZATION_DMS_CL_IMERINA_37">
+			<Text>Amparafaravola</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CIVILIZATION_DMS_CL_IMERINA_38">
+			<Text>Soavinandriana</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CIVILIZATION_DMS_CL_IMERINA_39">
+			<Text>Mananara Avaratra</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CIVILIZATION_DMS_CL_IMERINA_40">
+			<Text>Mahanoro</Text>
+		</Row>
+		<!-- SPY NAMES -->
+		<Row Tag="TXT_KEY_SPY_NAME_DMS_CL_IMERINA_0">
+			<Text>Skipper</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_DMS_CL_IMERINA_1">
+			<Text>Kowalski</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_DMS_CL_IMERINA_2">
+			<Text>Rico</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_DMS_CL_IMERINA_3">
+			<Text>Private</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_DMS_CL_IMERINA_4">
+			<Text>Mason</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_DMS_CL_IMERINA_5">
+			<Text>Phil</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_DMS_CL_IMERINA_6">
+			<Text>Julien XIII</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_DMS_CL_IMERINA_7">
+			<Text>Maurice</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_DMS_CL_IMERINA_8">
+			<Text>Mort</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_DMS_CL_IMERINA_9">
+			<Text>Uncle Nigel</Text>
+		</Row>
+		<!-- MERINA EMPIRE -->
+		<Row Tag="TXT_KEY_CIVILIZATION_DMS_CL_IMERINA">
+			<Text>Merina Empire</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILIZATION_DMS_CL_IMERINA_SHORT">
+			<Text>Imerina</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILIZATION_DMS_CL_IMERINA_ADJECTIVE">
+			<Text>Malagasy</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_CIVILIZATIONS_DMS_CL_IMERINA_HEADING_1">
+			<Text>History</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_CIVILIZATIONS_DMS_CL_IMERINA_TEXT_1">
+			<Text>The Merina Kingdom, officially the Kingdom of Imerina, was a pre-colonial state off the coast of Southeast Africa that, by the 19th century, dominated most of what is now Madagascar. It spread outward from Imerina, the Central Highlands region primarily inhabited by the Merina ethnic group with a spiritual capital at Ambohimanga and a political capital at Antananarivo, currently the seat of government for the modern democratic state of Madagascar. The Merina kings and queens who ruled over greater Madagascar in the 19th century were the descendants of a long line of hereditary Merina royalty originating with Andriamanelo, who is traditionally credited with founding Imerina in 1540.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_CIVILIZATIONS_DMS_CL_IMERINA_HEADING_2">
+			<Text>Geography and Climate</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_CIVILIZATIONS_DMS_CL_IMERINA_TEXT_2">
+			<Text>Madagascar is the world's 47th largest country and the fourth-largest island.[NEWLINE][NEWLINE]The combination of southeastern trade winds and northwestern monsoons produces a hot rainy season with frequently destructive cyclones, and a relatively cooler dry season. Rain clouds originating over the Indian Ocean discharge much of their moisture over the island's eastern coast; the heavy precipitation supports the area's rain forest ecosystem. The central highlands are both drier and cooler while the west is drier still, and a semi-arid climate prevails in the southwest and southern interior of the island.[NEWLINE][NEWLINE]Tropical cyclones annually cause damage to infrastructure and local economies as well as loss of life.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_CIVILIZATIONS_DMS_CL_IMERINA_HEADING_3">
+			<Text>Ecology</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_CIVILIZATIONS_DMS_CL_IMERINA_TEXT_3">
+			<Text>As a result of the island's long isolation from neighboring continents, Madagascar is home to an abundance of plants and animals found nowhere else on Earth. Approximately 90% of all plant and animal species found in Madagascar are endemic, including the lemurs, the carnivorous fossa and many birds. This distinctive ecology has led some ecologists to refer to Madagascar as the "eighth continent",[26] and the island has been classified by Conservation International as a biodiversity hotspot. More than 80 percent of Madagascar's 14,883 plant species are found nowhere else in the world, including five plant families. The "traveler's palm", known locally as ravinala, is endemic to the eastern rain forests, is highly iconic of Madagascar and is featured in the national emblem as well as the Air Madagascar logo.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_CIVILIZATIONS_DMS_CL_IMERINA_HEADING_4">
+			<Text>Early period</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_CIVILIZATIONS_DMS_CL_IMERINA_TEXT_4">
+			<Text>The settlement of Madagascar is a subject of ongoing research and debate. Archaeological finds such as cut marks on bones found in the northwest and stone tools in the northeast indicate that Madagascar was visited by foragers around 2000 BC. Traditionally, archaeologists have estimated that the earliest settlers arrived in successive waves throughout the period between 350 BC and 550 AD, while others are cautious about dates earlier than 250 AD. In either case, these dates make Madagascar one of the last major landmasses on Earth to be settled by humans.[NEWLINE][NEWLINE]Early settlers arrived in outrigger canoes from southern Borneo. Upon arrival, early settlers practiced slash-and-burn agriculture to clear the coastal rainforests for cultivation. The first settlers encountered Madagascar's abundance of megafauna, including giant lemurs, elephant birds, giant fossa and the Malagasy hippopotamus, which have since become extinct due to hunting and habitat destruction. By 600 AD groups of these early settlers had begun clearing the forests of the central highlands. Arab traders first reached the island between the seventh and ninth centuries. A wave of Bantu-speaking migrants from southeastern Africa arrived around 1000 AD. They introduced the zebu, a type of long-horned humped cattle, which they kept in large herds.[NEWLINE][NEWLINE]By 1600, irrigated paddy fields were developed in the central highland Betsileo Kingdom, and were extended with terraced paddies throughout the neighboring Kingdom of Imerina a century later. The rising intensity of land cultivation and the ever-increasing demand for zebu pasturage had largely transformed the central highlands from a forest ecosystem to grassland by the 17th century. The oral histories of the Merina people, who may have arrived in the central highlands between 600 and 1000 years ago, describe encountering an established population they called the Vazimba. Probably the descendants of an earlier and less technologically advanced Austronesian settlement wave, the Vazimba were assimilated or expelled from the highlands by the Merina kings Andriamanelo, Ralambo and Andrianjaka in the 16th and early 17th centuries. Today, the spirits of the Vazimba are revered as tompontany (ancestral masters of the land) by many traditional Malagasy communities.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_CIVILIZATIONS_DMS_CL_IMERINA_HEADING_5">
+			<Text>Arab and European contacts</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_CIVILIZATIONS_DMS_CL_IMERINA_TEXT_5">
+			<Text>Madagascar was an important transoceanic trading hub connecting ports of the Indian Ocean in the early centuries following human settlement. The written history of Madagascar began with the Arabs, who established trading posts along the northwest coast by at least the 10th century and introduced Islam, the Arabic script (used to transcribe the Malagasy language in a form of writing known as sorabe), Arab astrology, and other cultural elements. European contact began in 1500, when the Portuguese sea captain Diogo Dias sighted the island. The French established trading posts along the east coast in the late 17th century.[NEWLINE][NEWLINE]From about 1774 to 1824, Madagascar gained prominence among pirates and European traders, particularly those involved in the trans-Atlantic slave trade. The small island of Nosy Boroha off the northeastern coast of Madagascar has been proposed by some historians as the site of the legendary pirate utopia of Libertalia. Many European sailors were shipwrecked on the coasts of the island, among them Robert Drury, whose journal is one of the few written depictions of life in southern Madagascar during the 18th century. The wealth generated by maritime trade spurred the rise of organized kingdoms on the island, some of which had grown quite powerful by the 17th century. Among these were the Betsimisaraka alliance of the eastern coast and the Sakalava chiefdoms of Menabe and Boina on the west coast. The Kingdom of Imerina, located in the central highlands with its capital at the royal palace of Antananarivo, emerged at around the same time under the leadership of King Andriamanelo.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_CIVILIZATIONS_DMS_CL_IMERINA_HEADING_6">
+			<Text>Merina Kingdom</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_CIVILIZATIONS_DMS_CL_IMERINA_TEXT_6">
+			<Text>Upon its emergence in the early 17th century, the highland kingdom of Imerina was initially a minor power relative to the larger coastal kingdoms and grew even weaker in the early 18th century when King Andriamasinavalona divided it among his four sons. Following almost a century of warring and famine, Imerina was reunited in 1793 by King Andrianampoinimerina (1787–1810). From his initial capital Ambohimanga, and later from the Rova of Antananarivo, this Merina king rapidly expanded his rule over neighboring principalities. His ambition to bring the entire island under his control was largely achieved by his son and successor, King Radama I (1810–28), who was recognized by the British government as King of Madagascar. Radama concluded a treaty in 1817 with the British governor of Mauritius to abolish the lucrative slave trade in return for British military and financial assistance.[NEWLINE][NEWLINE]Radama's successor, Queen Ranavalona I (1828–61), responded to increasing political and cultural encroachment on the part of Britain and France by issuing a royal edict prohibiting the practice of Christianity in Madagascar and pressuring most foreigners to leave the territory. Residents of Madagascar could accuse one another of various crimes, including theft, Christianity and especially witchcraft, for which the ordeal of tangena was routinely obligatory. Between 1828 and 1861, the tangena ordeal caused about 3,000 deaths annually. Among those who continued to reside in Imerina were Jean Laborde, an entrepreneur who developed munitions and other industries on behalf of the monarchy, and Joseph-François Lambert, a French adventurer and slave trader, with whom then-Prince Radama II signed a controversial trade agreement termed the Lambert Charter. Succeeding his mother, Radama II (1861–63) attempted to relax the queen's stringent policies, but was overthrown two years later by Prime Minister Rainivoninahitriniony (1852–1865) and an alliance of Andriana (noble) and Hova (commoner) courtiers, who sought to end the absolute power of the monarch.[NEWLINE][NEWLINE]Following the coup, the courtiers offered Radama's queen Rasoherina (1863–68) the opportunity to rule, if she would accept a power sharing arrangement with the Prime Minister—a new social contract that would be sealed by a political marriage between them. Queen Rasoherina accepted, first wedding Rainivoninahitriniony, then later deposing him and wedding his brother, Prime Minister Rainilaiarivony (1864–95), who would go on to marry Queen Ranavalona II (1868–83) and Queen Ranavalona III (1883–97) in succession.[NEWLINE][NEWLINE]Over the course of Rainilaiarivony's 31-year tenure as prime minister, numerous policies were adopted to modernize and consolidate the power of the central government. Schools were constructed throughout the island and attendance was made mandatory. Army organization was improved, and British consultants were employed to train and professionalize soldiers. Polygamy was outlawed and Christianity, declared the official religion of the court in 1869, was adopted alongside traditional beliefs among a growing portion of the populace. Legal codes were reformed on the basis of British common law and three European-style courts were established in the capital city. In his joint role as Commander-in-Chief, Rainilaiarivony also successfully ensured the defense of Madagascar against several French colonial incursions.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_CIVILIZATIONS_DMS_CL_IMERINA_HEADING_7">
+			<Text>French colonization</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_CIVILIZATIONS_DMS_CL_IMERINA_TEXT_7">
+			<Text>Primarily on the basis that the Lambert Charter had not been respected, France invaded Madagascar in 1883 in what became known as the first Franco-Hova War. At the end of the war, Madagascar ceded the northern port town of Antsiranana (Diego Suarez) to France and paid 560,000 francs to Lambert's heirs. In 1890, the British accepted the full formal imposition of a French protectorate on the island, but French authority was not acknowledged by the government of Madagascar. To force capitulation, the French bombarded and occupied the harbor of Toamasina on the east coast, and Mahajanga on the west coast, in December 1894 and January 1895 respectively.[NEWLINE][NEWLINE]A French military flying column then marched toward Antananarivo, losing many men to malaria and other diseases. Reinforcements came from Algeria and Sub-Saharan Africa. Upon reaching the city in September 1895, the column bombarded the royal palace with heavy artillery, causing heavy casualties and leading Queen Ranavalona III to surrender. France annexed Madagascar in 1896 and declared the island a colony the following year, dissolving the Merina monarchy and sending the royal family into exile on Réunion Island and to Algeria.[NEWLINE][NEWLINE]Under colonial rule, plantations were established for the production of a variety of export crops. Slavery was abolished in 1896 and approximately 500,000 slaves were freed; many remained in their former masters' homes as servants or as sharecroppers; in many parts of the island strong discriminatory views against slave descendants are still held today.[NEWLINE][NEWLINE]The Merina royal tradition of taxes paid in the form of labor was continued under the French and used to construct a railway and roads linking key coastal cities to Antananarivo.[NEWLINE][NEWLINE]The occupation of France during the Second World War tarnished the prestige of the colonial administration in Madagascar and galvanized the growing independence movement, leading to the Malagasy Uprising of 1947. This movement led the French to establish reformed institutions in 1956, and Madagascar moved peacefully towards independence. The Malagasy Republic was proclaimed on 14 October 1958, as an autonomous state within the French Community. A period of provisional government ended with the adoption of a constitution in 1959 and full independence on 26 June 1960.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_CIVILIZATIONS_DMS_CL_IMERINA_HEADING_8">
+			<Text>Independent state</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_CIVILIZATIONS_DMS_CL_IMERINA_TEXT_8">
+			<Text>Since regaining independence, Madagascar has transitioned through four republics with corresponding revisions to its constitution. The First Republic (1960–72), under the leadership of French-appointed President Philibert Tsiranana, was characterized by a continuation of strong economic and political ties to France. Many high-level technical positions were filled by French expatriates, and French teachers, textbooks and curricula continued to be used in schools around the country. Popular resentment over Tsiranana's tolerance for this "neo-colonial" arrangement inspired a series of farmer and student protests that overturned his administration in 1972.[NEWLINE][NEWLINE]Gabriel Ramanantsoa, a major general in the army, was appointed interim president and prime minister that same year, but low public approval forced him to step down in 1975. Colonel Richard Ratsimandrava, appointed to succeed him, was assassinated six days into his tenure. General Gilles Andriamahazo ruled after Ratsimandrava for four months before being replaced by another military appointee: Vice Admiral Didier Ratsiraka, who ushered in the socialist-Marxist Second Republic that ran under his tenure from 1975 to 1993.[NEWLINE][NEWLINE]This period saw a political alignment with the Eastern Bloc countries and a shift toward economic insularity. These policies, coupled with economic pressures stemming from the 1973 oil crisis, resulted in the rapid collapse of Madagascar's economy and a sharp decline in living standards, and the country had become completely bankrupt by 1979. The Ratsiraka administration accepted the conditions of transparency, anti-corruption measures and free market policies imposed by the International Monetary Fund, World Bank and various bilateral donors in exchange for their bailout of the nation's broken economy.[NEWLINE][NEWLINE]Ratsiraka's dwindling popularity in the late 1980s reached a critical point in 1991 when presidential guards opened fire on unarmed protesters during a rally. Within two months, a transitional government had been established under the leadership of Albert Zafy (1993–96), who went on to win the 1992 presidential elections and inaugurate the Third Republic (1992–2010). The new Madagascar constitution established a multi-party democracy and a separation of powers that placed significant control in the hands of the National Assembly. The new constitution also emphasized human rights, social and political freedoms, and free trade. Zafy's term, however, was marred by economic decline, allegations of corruption, and his introduction of legislation to give himself greater powers. He was consequently impeached in 1996, and an interim president, Norbert Ratsirahonana, was appointed for the three months prior to the next presidential election. Ratsiraka was then voted back into power on a platform of decentralization and economic reforms for a second term which lasted from 1996 to 2001.[NEWLINE][NEWLINE]The contested 2001 presidential elections in which then-mayor of Antananarivo, Marc Ravalomanana, eventually emerged victorious, caused a seven-month standoff in 2002 between supporters of Ravalomanana and Ratsiraka. The negative economic impact of the political crisis was gradually overcome by Ravalomanana's progressive economic and political policies, which encouraged investments in education and ecotourism, facilitated foreign direct investment, and cultivated trading partnerships both regionally and internationally. National GDP grew at an average rate of 7 percent per year under his administration. In the later half of his second term, Ravalomanana was criticised by domestic and international observers who accused him of increasing authoritarianism and corruption.[NEWLINE][NEWLINE]Opposition leader and then-mayor of Antananarivo, Andry Rajoelina, led a movement in early 2009 in which Ravalomanana was pushed from power in an unconstitutional process widely condemned as a coup d'état. In March 2009, Rajoelina was declared by the Supreme Court as the President of the High Transitional Authority, an interim governing body responsible for moving the country toward presidential elections. In 2010, a new constitution was adopted by referendum, establishing a Fourth Republic, which sustained the democratic, multi-party structure established in the previous constitution. Hery Rajaonarimampianina was declared the winner of the 2013 presidential election, which the international community deemed fair and transparent.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_CIVILIZATIONS_DMS_CL_IMERINA_HEADING_10">
+			<Text>Malagasy factoids</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_CIVILIZATIONS_DMS_CL_IMERINA_TEXT_10">
+			<Text>Almost one in 10 Malagasies smoke weed, according to the United Nations Office on Drugs and Crime – that’s a higher percentage than do so in The Netherlands. The countries ahead of it include France, Australia, the US and - top of the tree - Iceland.[NEWLINE][NEWLINE]Lamba is the traditional garment worn by islanders – both men and women. It is a rectangular length of cloth wrapped around the body, and  different designs are worn for different occasions.[NEWLINE][NEWLINE]Moraingy is a form of bare-fisted combat sport, and it’s very popular throughout the island, as well as in Reunion, 300 miles to the east.</Text>
+		</Row>
+		<!-- RANAVALONA I -->
+		<Row Tag="TXT_KEY_LEADER_DMS_CL_RANAVALONA_I">
+			<Text>Ranavalona I</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_DMS_CL_RANAVALONA_I_HEADING_1">
+			<Text>Background</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_DMS_CL_RANAVALONA_I_TEXT_1">
+			<Text>...</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_DMS_CL_RANAVALONA_I_HEADING_2">
+			<Text>Early life</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_DMS_CL_RANAVALONA_I_TEXT_2">
+			<Text>Princess Ramavo was born in 1778 at the royal residence at Ambatomanoina, to Prince Andriantsalamanjaka and Princess Rabodonandriantompo. When Ramavo was still a young girl, her father alerted King Andrianampoinimerina (1787–1810) to an assassination plot planned by Andrianjafy, the king's uncle, whom Andrianampoinimerina had forced from the throne at the royal city of Ambohimanga. In return for saving his life, Andrianampoinimerina betrothed Ramavo to his son, Prince Radama, whom the king designated as his heir. He furthermore declared that any child from this union would be first in the line of succession after Radama.[NEWLINE][NEWLINE]Despite her elevated rank among the royal wives, Ramavo was not the preferred wife of Radama and did not bear him any children. Upon Andrianampoinimerina's death in 1810, Radama succeeded his father as king and followed royal custom by executing a number of potential opponents among Ramavo's relatives, an act that may have strained their relationship. Unable to find satisfaction in her loveless marriage, the neglected Ramavo and other court ladies spent most days socializing and drinking rum with the missonary David Griffiths and his fellow missionaries in Griffiths' home. These visits established a deep friendship between Ramavo and Griffiths that would endure for three decades.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_DMS_CL_RANAVALONA_I_HEADING_3">
+			<Text>Accession to the throne</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_DMS_CL_RANAVALONA_I_TEXT_3">
+			<Text>When Radama died without leaving any descendants on July 27, 1828, according to local custom, the rightful heir was Rakotobe, the eldest son of Radama's eldest sister. An intelligent and amiable young man, Rakotobe was the first pupil to have studied at the first school established by the London Missionary Society in Antananarivo on the grounds of the royal palace. Radama died in the company of two trusted courtiers who were favorable to the succession of Rakotobe. However, they hesitated to report the news of Radama's death for several days, fearing possible reprisals against them for having been involved in denouncing one of the king's rivals, whose family had a stake in the succession after Radama. During this time, another courtier, a high-ranking military officer named Andriamamba, discovered the truth and collaborated with other powerful officers – Andriamihaja, Rainijohary and Ravalontsalama – to support Ramavo's claim to the throne.[NELWINE][NEWLINE]These officers hid Ramavo and one of her friends in a safe location, then secured the support of several influential power brokers, including judges and the keepers of the sampy (royal idols). The officers then rallied the army behind Ramavo, such that on August 11, 1828, when she declared herself the successor to Radama on the pretense that he himself had decreed it, there could be no immediate resistance. Ramavo took the throne name Ranavalona ("folded", "kept aside"), then followed royal custom by systematically capturing and putting to death her political rivals, including Rakotobe, his family and other members of Radama's family, much as Radama had done to the queen's own family upon his succession to the throne. Her coronation ceremony took place on June 12, 1829.[NEWLINE][NEWLINE]By succeeding her husband, Ranavalona became the first female sovereign of the Kingdom of Imerina since its founding in 1540. Her rise to power occurred in a cultural milieu that favored men over women in the political sphere. In the traditional culture of Imerina, rulers were specially endowed with the power to innovate in circumvention of established norms and customs. Sovereigns often mobilized innovation through the creation of new forms of kinship, the traditional basis of the political order. Women, however, were associated with the household, a rigid kinship unit in opposition to the innovating role and power of the sovereign, and so were not viewed as suited to rule. Although female rulers had once been common among the Vazimba, described in oral histories as the original inhabitants of Madagascar, this tradition ended in the central highlands with the reign of Andriamanelo (1540–1575), founder of the Kingdom of Imerina and successor to his Vazimba mother, Queen Rafohy (1530–1540).</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_DMS_CL_RANAVALONA_I_HEADING_4">
+			<Text>Reign</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_DMS_CL_RANAVALONA_I_TEXT_4">
+			<Text>Ranavalona's 33-year reign was characterized by her effort to strengthen the domestic authority of the Kingdom of Imerina over subjugated provinces and preserve the political and cultural sovereignty of Madagascar. These policies were enacted in a context of increasing European influence within her kingdom and competing French and English bids for domination over the island. Early in her reign, the queen took incremental steps to distance Madagascar from the purview of European powers, first putting an end to a friendship treaty with Britain, then placing increasing restrictions on the activities of the missionaries of the London Missionary Society, who operated schools where basic education and trade skills were taught in addition to the Christian religion. In 1835 she forbade the practice of Christianity among the Malagasy population, and within a year nearly all foreigners had left her territory.[NEWLINE][NEWLINE]Putting an end to most foreign trade relationships, the queen pursued a policy of self-reliance, made possible through frequent use of the long-standing tradition of fanompoana—forced labor in lieu of tax payments in money or goods. Ranavalona continued the wars of expansion conducted by her predecessor, Radama I, in an effort to extend her realm over the entire island, and imposed strict punishments on those who were judged as having acted in opposition to her will. Due in large part to loss of life throughout the years of military campaigns, high death rates among fanompoana workers, and harsh traditions of justice under her rule, the population of Madagascar is estimated to have declined from around 5 million to 2.5 million between 1833 and 1839, and from 750,000 to 130,000 between 1829 and 1842 in Imerina. These statistics have contributed to a strongly unfavorable view of Ranavalona's rule in historical accounts.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_DMS_CL_RANAVALONA_I_HEADING_5">
+			<Text>Preservation and expansion of realm</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_DMS_CL_RANAVALONA_I_TEXT_5">
+			<Text>Queen Ranavalona continued the military incursions initiated under Radama I to pacify neighboring kingdoms and maintain their submission to Merina rule. These policies had a strongly negative effect on economic and population growth during her reign. Fanompoana labor among the population of Imerina could include conscription into the military, enabling the queen to raise a standing army that was estimated at 20,000 to 30,000 soldiers. This army, which was sent on repeated expeditions into neighboring provinces, exacted harsh penalties against communities resistant to Merina domination. Mass executions were common, and those who were spared their lives were commonly brought back to Imerina as slaves (andevo) and their valuables seized as booty to increase the wealth of the Crown. Approximately one million slaves entered Imerina from coastal areas between 1820 and 1853, constituting one-third of the total population in the central highlands and two-thirds of all residents in Antananarivo.[NEWLINE][NEWLINE]According to Madagascar historian Gwyn Campbell, the number of non-Merina who died in violent conflict during the military campaigns of Ranavalona and her predecessor Radama from 1816 to 1853 was estimated at about 60,000. Additionally, a considerable proportion of the population not killed in battle in the subjugated provinces eventually died from famine as a consequence of scorched earth policies. Deaths among the Merina soldiers engaged in military actions were also high, estimated at about 160,000 for the period 1820–1853. A further 25–50% of the queen's soldiers stationed in lowland areas were estimated to have died each year due to diseases such as malaria. Although prevalent in the coastal parts of the island, malaria was uncommon in the high-altitude zone around Antananarivo, and Merina soldiers possessed little natural resistance against it. An average of 4,500 soldiers died each year for the greater part of Ranavalona's reign, contributing to severe depopulation in Imerina.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_DMS_CL_RANAVALONA_I_HEADING_6">
+			<Text>Tangena ordeal</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_DMS_CL_RANAVALONA_I_TEXT_6">
+			<Text>One of the chief measures by which Ranavalona maintained order within her realm was through the traditional practice of trial by the ordeal of tangena. A poison was extracted from the nut of the native tangena (Tanghinia venenifera) shrub and ingested, with the outcome determining innocence or guilt. If nobles or freemen were compelled to undergo the ordeal, the poison was typically administered to the accused only after dog and rooster stand-ins had already died from the poison's effects, while among members of the slave class (andevo), the ordeal required them to immediately ingest the poison themselves. The accused would be fed the poison along with three pieces of chicken skin: if all three pieces of skin were vomited up then innocence was declared, but death or a failure to regurgitate all three pieces of skin indicated guilt. According to 19th-century Malagasy historian Raombana, in the eyes of the greater populace, the tangena ordeal was believed to represent a sort of celestial justice in which the public placed their unquestioning faith, even to the point of accepting a verdict of guilt in a case of innocence as a just but unknowable divine mystery.[NEWLINE][NEWLINE]Residents of Madagascar could accuse one another of various crimes, including theft, Christianity and especially witchcraft, for which the ordeal of tangena was routinely obligatory. On average, an estimated 20 to 50 percent of those who underwent the ordeal died. In the 1820s, the tangena ordeal caused about 1,000 deaths annually. This average rose to around 3,000 annual deaths between 1828 and 1861. In 1838, it was estimated that as many as 100,000 people in Imerina died as a result of the tangena ordeal, constituting roughly 20 percent of the population. Although outlawed in 1863, the ordeal continued to be practiced secretly in Imerina and openly in other parts of the island.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_DMS_CL_RANAVALONA_I_HEADING_7">
+			<Text>Repression of Christianity</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_DMS_CL_RANAVALONA_I_TEXT_7">
+			<Text>Following a visit by Radama I to Madagascar's first formal school, established in Toamasina in 1818 by members of the London Missionary Society (LMS), the king invited the first Christian artisan missionaries to the capital city to share their knowledge. Beginning in December 1820, LMS missionaries established workshops in Antananarivo to teach brick-making, European carpentry and other practical skills, and developed a network of public schools where numeracy and English were taught alongside literacy using portions of the Malagasy language Bible. Despite high attendance at the schools, the LMS were initially unsuccessful in converting pupils to Christianity. Near the end of Radama's reign, the king came to regard the few Malagasy who had been converted as irreverent toward royal authority. He forbade Malagasy people from being baptized or attending Christian services.[NEWLINE][NEWLINE]Ranavalona's succession initially resulted in a relaxation of state control over Christianity. A printing press, which was imported by LMS missionaries at the end of Radama's reign, was only effectively put into operation in 1828. The press was in heaviest use during the first several years of Ranavalona's reign, when thousands of hymnals and other materials were transcribed and printed. From the beginning of her reign, Ranavalona forbade the distribution of books within the military to prevent subversion and preserve discipline. She allowed missionaries free rein in operating the printing press, however, and exempted from military service all Malagasy personnel trained to operate the press. The freedom allowed to LMS and Malagasy Christians to print religious materials and teach religion in the state schools during the first six years of Ranavalona's reign allowed the religion to become firmly established among a small but growing group of converts in and around the capital. In 1831 Ranavalona authorized Malagasy attendance at church services, administration of the sacrament, and baptism of her subjects. Within a year, the first 100 Malagasy were baptized out of an estimated 200 practicing Christians total; these converts were drawn from all social classes, including slaves, commoners, respected elders, court officials and even sampy guardians, who were considered the bulwarks of traditional culture.[NEWLINE][NEWLINE]The conversion of major religious, political and social leaders sparked a backlash that led Ranavalona to become increasingly wary of the political and cultural effects of Christianity, which she saw as leading the Malagasy to forsake the ancestors and their traditions. In October and November 1831 the queen enacted a ban on Christian marriages, church services and baptisms for soldiers and members of government studying in the Missionary schools, and in December extended the ban on church service attendance to all Malagasy. From 1832 to 1834, baptisms and church services continued, increasingly in secret. During this time, several Christians each year were charged with witchcraft and exiled or made to undergo the tangena ordeal, and Ranavalona requested the departure of three missionaries, retaining only those whose particular technical skills she viewed as valuable to the state. In 1835, the queen attempted to shut down the press without directly targeting the LMS by banning Malagasy personnel from working at the printing house. The LMS missionaries, capitalizing on the absence of legal decrees against their own work at the press, managed to continue independently printing and distributing materials.[NEWLINE][NEWLINE]In a kabary speech on February 26, 1835, Queen Ranavalona formally forbade the practice of Christianity among her subjects. In her discourse, she was careful to differentiate between her own people, for whom the new religion was forbidden and its practice a capital offense, and foreigners, to whom she permitted freedom of religion and conscience. She furthermore acknowledged the valuable intellectual and technological contributions that European missionaries had made to the advancement of her country, and invited them to continue working to that end on the condition that their proselytizing would cease. The majority of the London Missionary Society missionaries, whose primary activity was teaching Christian theology and literacy at their newly established schools using the Bible as the principal Malagasy-language text, departed the island. James Cameron and other key missionaries preferred to leave rather than remain on the island without authorization to proselytize. The last two remaining missionaries chose to continue teaching practical skills in the hope that the restrictions might loosen, but one year later, after receiving indirect information that the government desired their departure, they shuttered the LMS mission and left Madagascar.[NEWLINE][NEWLINE]Pursuant to the February 26 decree, those who possessed a Bible, worshiped in congregation or continued to profess adherence to Christianity were fined, jailed, manacled, subjected to trial by ordeal, or executed. Lurid accounts of the execution and torture of Christians were reported by missionaries with informants on the island who placed emphasis on what they perceived as the savagery of the Queen's actions. For instance, they reported the public execution of fifteen Christian leaders near the Queen's palace who were dangled on ropes 150 feet above a rock-filled ravine before the ropes were cut upon their refusal to renounce Christianity. The Andohalo cathedral was constructed on this outcropping to commemorate early Malagasy Christians martyred at the site. The precise number of Malagasy citizens put to death for religious reasons during Ranavalona's reign is difficult to state with certainty. British missionary to Madagascar W.E. Cummins (1878) places the number executed at between sixty and eighty. Far more were required to undergo the tangena ordeal, condemned to hard labor or stripped of their land and property, and many of these died. Persecution of Christians intensified in 1840, 1849 and 1857; in 1849, deemed the worst of these years by Cummins, 1,900 people were fined, jailed or otherwise punished for their Christian faith, of whom 18 were executed.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_DMS_CL_RANAVALONA_I_HEADING_8">
+			<Text>Protection of sovereignty</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_DMS_CL_RANAVALONA_I_TEXT_8">
+			<Text>...</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_DMS_CL_RANAVALONA_I_HEADING_9">
+			<Text>Succession and death</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_DMS_CL_RANAVALONA_I_TEXT_9">
+			<Text>...</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_DMS_CL_RANAVALONA_I_HEADING_10">
+			<Text>Judgement of History</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_DMS_CL_RANAVALONA_I_TEXT_10">
+			<Text>The queen's foreign contemporaries strongly condemned her policies and viewed them as the actions of a tyrant or even a madwoman, a characterization that persisted in Western historical literature until the 1970s. Although Ranavalona has traditionally been depicted as a cruel and xenophobic tyrant, in more recent historical analyses she is commonly viewed as an astute politician who effectively protected the political and cultural sovereignty of her nation from European encroachment. In Madagascar today, the Malagasy of the central highlands hold complex and diverse views ranging across this spectrum. Most condemn her reign, in line with negative depictions of Ranavalona in current Malagasy history textbooks; this view is most common among Malagasy Christians. Others admire her effort to preserve Malagasy traditions and independence. The majority, regardless of their feelings toward her domestic policies, consider her a remarkable figure in Malagasy history and commend her strength as a ruler in a period of tension with European powers.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_DMS_CL_RANAVALONA_I_NAME">
+			<Text>Rabodoandrianampoinimerina</Text>
+			<Gender>feminine</Gender>
+		</Row>	
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_DMS_CL_RANAVALONA_I_SUBTITLE">
+			<Text>Queen of Madagascar</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_DMS_CL_RANAVALONA_I_TITLES_1">
+			<Text>Ramavo</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_DMS_CL_RANAVALONA_I_TITLES_2">
+			<Text>Ranavalo-Manjaka I</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_DMS_CL_RANAVALONA_I_LIVED">
+			<Text>1778 – 1861 AD</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_DAWN_DMS_CL_IMERINA_TEXT">
+			<Text>Sovereign Ranavalona I, first Queen of the Kingdom of Madagascar! You rule with an unwavering hand in a time of crisis! Foreign powers overshadowed your people, the Malagasy, with tales of their great faith that hid avaricious intent. As Queen of Madagascar, you threw off the deceitful influence of these grasping nations and recommitted your people to their own path, securing the Malagasy identity for all time.[NEWLINE]You revitalized your people's traditional beliefs and stymied both the British, with their so-called treaties that sought to control your people, and fought off the French armies who looked to take the riches of great Madagascar for themselves.[NEWLINE][NEWLINE]Now, O Queen, is the hour of your awakening! Throw aside the schemes of other nations, crush their wishes beneath our feet, and build, on the backs of our enemies, a civilization that will stand the test of time!</Text>
+		</Row>
+		<!-- TANGUENA ORDEAL -->
+		<Row Tag="TXT_KEY_TRAIT_DMS_CL_TANGUENA_ORDEAL_SHORT">
+			<Text>Tanguena Ordeal</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_DMS_CL_TANGUENA_ORDEAL">
+			<Text>Units born in Cities under foreign Religious pressure receive additional Experience for every [ICON_CITIZEN] Citizen not succumbing to foreign Religions. Gain a free Social Policy for every 12 Units expended on Rova Improvements.</Text>
+		</Row>
+		<!-- ROVA -->
+		<Row Tag="TXT_KEY_BUILD_DMS_CL_ROVA">
+			<Text>Construct a [LINK=IMPROVEMENT_DMS_CL_ROVA]Rova[\LINK]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILD_DMS_CL_ROVA_REC">
+			<Text>Yields +2 [ICON_CULTURE] Culture and +1 [ICON_PRODUCTION] Production. +1 [ICON_PRODUCTION] Production upon entering the Industrial Era. Units with 3 Promotions or more may be expended on Rovas to remove Heresy in Cities up to four tiles away. Expending a Unit refunds the [ICON_PRODUCTION] Production cost of that Unit to the nearest City and provides [ICON_PEACE] Faith based on the Unit's level.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILD_DMS_CL_ROVA_HELP">
+			<Text>Can only be built on Hill tiles and cannot have another Rova in an adjacent tile. Yields +2 [ICON_CULTURE] Culture and +1 [ICON_PRODUCTION] Production. +1 [ICON_PRODUCTION] Production upon entering the Industrial Era. Units with at least to 3 different types of Promotions may be expended on Rovas to remove Heresy (foreign religions) in Cities up to four tiles away. Expending a Unit refunds the [ICON_PRODUCTION] Production cost of that Unit to the nearest City and provides [ICON_PEACE] Faith based on the Unit's level.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_IMPROVEMENT_DMS_CL_ROVA">
+			<Text>Rova</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_IMPROVEMENT_DMS_CL_ROVA_TEXT">
+			<Text>Can only be built on Hill tiles and cannot have another Rova in an adjacent tile. Yields +2 [ICON_CULTURE] Culture and +1 [ICON_PRODUCTION] Production. +1 [ICON_PRODUCTION] Production upon entering the Industrial Era. Units with at least to 3 different types of Promotions may be expended on Rovas to remove Heresy (foreign religions) in Cities up to four tiles away. Expending a Unit refunds the [ICON_PRODUCTION] Production cost of that Unit to the nearest City and provides [ICON_PEACE] Faith based on the Unit's level.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_DMS_ROVA_EXPEND_COUNTER">
+			<Text>DMS: Rova counter building</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_DMS_ROVA_EXPEND_COUNTER_HELP">
+			<Text>DMS: Rova counter building</Text>
+		</Row>
+		<!-- TAFIKA -->
+		<Row Tag="TXT_KEY_UNIT_DMS_CL_TAFIKA">
+			<Text>Voromahery</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_DMS_CL_TAFIKA_TEXT">
+			<Text>...</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_DMS_CL_TAFIKA_STRATEGY">
+			<Text>The Voromahery is the Merina unique Unit, replacing the Pikeman. It is cheaper and has a slightly lower [ICON_STRENGTH] Combat Strength than the Pikeman. Upon attacking, the Voromahery will siphon Experience from enemy Units, and may gain their Promotions as well, if their Experience and Hit Points are reduced enough. Upgrades to Musketman.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_DMS_CL_TAFIKA_HELP">
+			<Text>Specialized in defeating Knights and other mounted units. Only Imerina may build it. This Unit is slightly weaker and cheaper than the Pikeman, which it replaces, but will siphon Experience from and gain the Promotions of enemy Units upon attacking them.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_DMS_TAFIKA">
+			<Text>Tafika</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_DMS_TAFIKA_HELP">
+			<Text>Will siphon Experience from enemy Units upon attacking them, and may gain their Promotions as well, if their Experience and Hit Points is reduced enough.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_DMS_IMERINA_AFTERRANDOM">
+			<Text></Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_DMS_IMERINA_AFTERRANDOM_HELP">
+			<Text></Text>
+		</Row>
+		<!-- UI -->
+		<Row Tag="TXT_KEY_UNIT_DMS_CL_ROVA_EXPEND">
+			<Text>Expend Unit</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_DMS_CL_ROVA_EXPEND_TT_ENABLED">
+			<Text>You need to expend [COLOR_POSITIVE_TEXT]{1_iNumUnits}[ENDCOLOR] more Unit(s) to receive a free Social Policy.[NEWLINE]Only Units with 3 or more Promotions can be expended[NEWLINE][NEWLINE]Expending this Unit will refund the Unit's [ICON_PRODUCTION] Production Cost to the nearest City ({2_sNearestCity}).[NEWLINE][NEWLINE]Since this Unit has {3_iNumPromotions} Promotions you will receive [COLOR_POSITIVE_TEXT]{4_iBonus} [ICON_PEACE] Faith[ENDCOLOR] upon expending it.[NEWLINE][NEWLINE][COLOR_NEGATIVE_TEXT]Note: Free Unit Promotions do not count towards the number of required Promotions.[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_DMS_CL_ROVA_EXPEND_TT_DISABLED">
+			<Text>[COLOR_NEGATIVE_TEXT]This Unit does not have the required amount of Promotions to be expended.[ENDCOLOR][NEWLINE][NEWLINE]You need to expend [COLOR_POSITIVE_TEXT]{1_iNumUnits}[ENDCOLOR] more Unit(s) to receive a free Social Policy.[NEWLINE]Only Units with 3 or more Promotions can be expended</Text>
+		</Row>
+		<!-- MINOR CIV -->
+		<Row Tag="TXT_KEY_CITYSTATE_DMS_CL_GEDI_DESC">
+			<Text>Gedi</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_DMS_GEDI_SHORT_DESC">
+			<Text>Gedi</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_DMS_GEDI_ADJECTIVE">
+			<Text>Gedi</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_DMS_GEDI_TEXT_1">
+			<Text>Gedi is one of many medieval Swahili-Arab coastal settlements that stretch from Mogadishu, Somalia to the Zambezi River in Mozambique. Since the rediscovery of the Gedi ruins by colonialists the 1920s, Gedi has been one of the most intensely excavated and studied of those sites, along with Shanga, Manda, Ungwana, Kilwa, and the Comoros.[NEWLINE][NEWLINE]The site of Gedi includes a walled town and its outlying area. All of the standing buildings at Gedi, which include mosques, a palace, and numerous houses, are made from stone, are one-story, and are distributed unevenly in the town. There are also large open areas in the settlement which contained earth and thatch houses. Stone "pillar tombs" are a distinctive type of Swahili Coast architecture found at Gedi as well. Gedi's location along the coast and association with similar sites along the Swahili Coast made it an important trade center. Although there are few historical documents specifically associating Gedi with Indian Ocean trade, the site is thought to have been one of the most important sites along the coast. Gedi's architecture and an abundance of imported material culture including pottery, beads, and coins provide evidence of the city's rising prosperity over the course of its occupation from as early as the eleventh century to its abandonment in the early seventeenth century.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_DMS_GEDI_CITY_NAME_01">
+			<Text>Gedi</Text>
+		</Row>
+		<!-- SUKRITACT'S MCIS -->
+		<Row Tag="TXT_KEY_DMS_CL_TANGUENA_ORDEAL_CITY_VIEW">
+			<Text>[COLOR_POSITIVE_TEXT]TANGUENA ORDEAL[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DMS_CL_TANGUENA_ORDEAL_CITY_VIEW_HELP">
+			<Text>[NEWLINE]This City is under [COLOR_POSITIVE_TEXT]{1_iReligiousPressure} Religious Pressure[ENDCOLOR] from foreign Religions.[NEWLINE]This City has [COLOR_POSITIVE_TEXT]{2_iForeignFollowers} [ICON_CITIZEN] followers[ENDCOLOR] of foreign Religions out of a Population of {3_iPop}.[NEWLINE][NEWLINE]Any Unit trained in the City will receive [COLOR_POSITIVE_TEXT]+{4_iXP} Experience[ENDCOLOR] in addition to any Experience provided by other means.[NEWLINE][NEWLINE][COLOR_NEGATIVE_TEXT]Note: The amount of Experience granted is increased by the number of [ICON_CITIZEN] Citizens not succumbing to foreign Religions and by the Religious Pressure from those Religions.[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DMS_CL_ROVA_POLICY_CITY_VIEW">
+			<Text>[COLOR_POSITIVE_TEXT]12 SACRED HILLS[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DMS_CL_ROVA_POLICY_CITY_VIEW_HELP">
+			<Text>[NEWLINE]Currently [COLOR_POSITIVE_TEXT]{1_iNumExpended}[ENDCOLOR] Military Unit(s) have been expended on Rova Improvements.[NEWLINE][NEWLINE]In order to receive a free Social Policy, [COLOR_POSITIVE_TEXT]{2_iNumExpended}[ENDCOLOR] more Military Unit(s) must be expended.[NEWLINE][NEWLINE][COLOR_NEGATIVE_TEXT]Note: Only Military Units with at least three earned Promotions can be expended on Rova Improvements. Upon doing so, their [ICON_PRODUCTION] Production cost will be refunded to the nearest City and [ICON_PEACE] Faith granted for every Promotion.[NEWLINE][NEWLINE]After 12 Units have been expended, the counter will be resat.[ENDCOLOR]</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

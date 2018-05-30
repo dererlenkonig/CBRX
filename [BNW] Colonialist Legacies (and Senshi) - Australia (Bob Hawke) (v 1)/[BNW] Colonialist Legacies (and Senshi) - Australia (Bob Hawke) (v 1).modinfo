@@ -1,0 +1,130 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mod id="e9429c9f-267c-4d7a-8e2e-13b906661130" version="1">
+  <Properties>
+    <Name>[BNW] Colonialist Legacies (and Senshi) - Australia (Bob Hawke)</Name>
+    <Stability>Alpha</Stability>
+    <Teaser>Adds a more modern Australia, led by Bob Hawke, into the game! Happy Australia Day!</Teaser>
+    <Description>Adds a more modern Australia, led by Bob Hawke, into the game! Happy Australia Day!</Description>
+    <Authors>senshidenshi, TPangolin</Authors>
+    <SpecialThanks>Typhlomence, LeeS</SpecialThanks>
+    <HideSetupGame>0</HideSetupGame>
+    <AffectsSavedGames>1</AffectsSavedGames>
+    <MinCompatibleSaveVersion>0</MinCompatibleSaveVersion>
+    <SupportsSinglePlayer>1</SupportsSinglePlayer>
+    <SupportsMultiplayer>1</SupportsMultiplayer>
+    <SupportsHotSeat>1</SupportsHotSeat>
+    <SupportsMac>1</SupportsMac>
+    <ReloadAudioSystem>1</ReloadAudioSystem>
+    <ReloadLandmarkSystem>0</ReloadLandmarkSystem>
+    <ReloadStrategicViewSystem>1</ReloadStrategicViewSystem>
+    <ReloadUnitSystem>1</ReloadUnitSystem>
+  </Properties>
+  <Dependencies />
+  <References>
+    <Mod id="1f941088-b185-4159-865c-472df81247b2" minversion="0" maxversion="999" title="Events &amp; Decisions" />
+    <Mod id="31a31d1c-b9d7-45e1-842c-23232d66cd47" minversion="0" maxversion="999" title="Cultural Diversity" />
+    <Mod id="e576894a-ed2b-4033-be14-ed1c8ceb81d3" minversion="0" maxversion="999" title="Map Labels" />
+    <Mod id="1153b26a-69fd-4cd5-899c-a8ba8e0e5e5d" minversion="0" maxversion="999" title="Civ IV Traits" />
+  </References>
+  <Blocks />
+  <Files>
+    <File md5="EE30B3205EAAA0ACAD30954211434BC0" import="0">Art/Atlas/AtlasDefines.xml</File>
+    <File md5="111859D12A0A439945F8E23AAB69C3F1" import="1">Art/Atlas/HawkeAlpha128.dds</File>
+    <File md5="FFD998A3BC478CC509677DCDE00D30DD" import="1">Art/Atlas/HawkeAlpha16.dds</File>
+    <File md5="1D4C46C1826EA1458929948147F07721" import="1">Art/Atlas/HawkeAlpha24.dds</File>
+    <File md5="73A54EA58432E6692BEE0C2D83CE4DA0" import="1">Art/Atlas/HawkeAlpha32.dds</File>
+    <File md5="976D015436BBD54F3D918C74785F7E1E" import="1">Art/Atlas/HawkeAlpha48.dds</File>
+    <File md5="FB50B1E49EE42A8199EE6A560E2B64AD" import="1">Art/Atlas/HawkeAlpha64.dds</File>
+    <File md5="1BE19C867BDCD7740AEE6C5A416AF4AD" import="1">Art/Atlas/HawkeAlpha80.dds</File>
+    <File md5="20E76887F47C2DDF36077D6605EA60D1" import="1">Art/Atlas/HawkeAtlas128.dds</File>
+    <File md5="609E8E1603A1D47FC7F9CD2E8B2EE608" import="1">Art/Atlas/HawkeAtlas256.dds</File>
+    <File md5="BA22AE1B65137C030231A11B5B38722D" import="1">Art/Atlas/HawkeAtlas32.dds</File>
+    <File md5="A2679B8ED0F4D5D6EDBEE851B9FA216A" import="1">Art/Atlas/HawkeAtlas45.dds</File>
+    <File md5="7461C7F13EC54945F6065C2CDCC2351C" import="1">Art/Atlas/HawkeAtlas48.dds</File>
+    <File md5="44034D042192D1EADB560260AABCBA50" import="1">Art/Atlas/HawkeAtlas64.dds</File>
+    <File md5="FF672AF1ED061FE79B80CAEF2D42FEBF" import="1">Art/Atlas/HawkeAtlas80.dds</File>
+    <File md5="08E3BAC7D55198F34EEF7519E95E57BA" import="1">Art/Atlas/SASR128.dds</File>
+    <File md5="6E34D715E32211B43774212E24D0BC48" import="1">Art/Atlas/SASR32.dds</File>
+    <File md5="07FF702B81AF9D5CCD5B5A53EEC919BB" import="1">Art/BobHawkeLS.dds</File>
+    <File md5="C54AACCE9D0A1914A49258B748F55D15" import="1">Art/BobHawke_Scene.xml</File>
+    <File md5="74124DBCF5E294FD8A209BE2DAE00443" import="1">Art/HawkeDOM.dds</File>
+    <File md5="E183EDBA537AC9AE8827D5D524D527B5" import="1">Art/HawkeMap.dds</File>
+    <File md5="2B1FDA0A3F259D59DA4B03DBF334720D" import="1">Art/HawkePeace.mp3</File>
+    <File md5="B6D14C98B63EDA8EDA74272E18BAA0F7" import="1">Art/HawkeWar.mp3</File>
+    <File md5="5B8FBDD532486EB60ECB727286CA7706" import="1">Art/SASR/fx_triggers_modernmarine.ftsxml</File>
+    <File md5="70C0A693F8329D8CE855E88F00394DE5" import="0">Art/SASR/Define.xml</File>
+    <File md5="10FBE81A38F4D40FBB262AA7848681E8" import="1">Art/SASR/ModernMarine_Attack.gr2</File>
+    <File md5="82C1973B3CED9ACEFFFE2C2003A603D4" import="1">Art/SASR/ModernMarine_Bombard_Defense.gr2</File>
+    <File md5="4E5C1205401B54CBE76140F440D3200D" import="1">Art/SASR/ModernMarine_DeathA.gr2</File>
+    <File md5="5D434BEDA164FA4674D624BBD5D5D2A1" import="1">Art/SASR/ModernMarine_DeathA_Idle.gr2</File>
+    <File md5="90EEA8E512E8E0B848BD323FE8A99780" import="1">Art/SASR/ModernMarine_DeathB.gr2</File>
+    <File md5="0208C41187615F90A266AB8AF44EFF0A" import="1">Art/SASR/ModernMarine_DeathB_Idle.gr2</File>
+    <File md5="17FA15D5AF19204D2FBDDBDF0BCD6313" import="1">Art/SASR/ModernMarine_Fidget.gr2</File>
+    <File md5="B63A001D59F2A07B413BB02898D2E656" import="1">Art/SASR/ModernMarine_Fortify.gr2</File>
+    <File md5="4DB8C1D2B17255833878519BA8CF4568" import="1">Art/SASR/ModernMarine_Fortify_Idle.gr2</File>
+    <File md5="A6DDF301AB9DFC99838E77EC71416A0C" import="1">Art/SASR/ModernMarine_Idle.gr2</File>
+    <File md5="DCB52786F02DF0FE8C8C64A68733041A" import="1">Art/SASR/ModernMarine_Run.gr2</File>
+    <File md5="A00426E9B80661C49CCBC5D4E10991C5" import="1">Art/SASR/Unit1/AfricanSF_diff.dds</File>
+    <File md5="3219C7F0764A15773AB89FBF10433929" import="1">Art/SASR/Unit1/AfricanSF_sref.dds</File>
+    <File md5="3F5B1931056EFB8FD48197ED5CBF3EE6" import="1">Art/SASR/Unit1/Civ5_AfricanSF_v2.fxsxml</File>
+    <File md5="A2458B61E895BA29881AB655175ABA4A" import="1">Art/SASR/Unit1/Civ5_AfricanSF_v2.gr2</File>
+    <File md5="8D169EE0641467BC594929FA3667C49D" import="1">Art/SASR/Unit1/marine_modern_diff.dds</File>
+    <File md5="B1A588F639A766680D09A0B9E7283482" import="1">Art/SASR/Unit1/marine_modern_sref.dds</File>
+    <File md5="77CAE4A6E27312CFBD3966AE5CB636F8" import="1">Art/SASR/Unit2/EuropeanSF.fxsxml</File>
+    <File md5="9AC9363FB093E103904708D0E8B7E8A3" import="1">Art/SASR/Unit2/EuropeanSF.gr2</File>
+    <File md5="FDC22CA237F80D3B75E7062A38DB6AAA" import="1">Art/SASR/Unit2/EuropeanSF_diff.dds</File>
+    <File md5="D070D9F37350EBA9B05A89948D1D2522" import="1">Art/SASR/Unit2/EuropeanSF_sref.dds</File>
+    <File md5="6362ECD6AAB65B8645972EAB3465C1C9" import="1">Art/SASR/Unit2/G36_diff.dds</File>
+    <File md5="C03073EA60FFA14DF9314BBE01F15739" import="1">Art/SASR/Unit2/G36_sref.dds</File>
+    <File md5="A531D8101286E41116CDAA9611B1E3BD" import="0">Code/Buildings.sql</File>
+    <File md5="C36E7CAA89FB7FAE3291B0D61EEC1480" import="0">Code/DiplomacyResponses.xml</File>
+    <File md5="49837A521FDCA3E7BAABC02A6180C1B5" import="0">Code/DummyFarm.sql</File>
+    <File md5="1AB7601152D4A96943085DCA975C7796" import="0">Code/Promotions.xml</File>
+    <File md5="C3E279421FCD7F350ED1111D5B50F8C4" import="0">Code/Civilizations.sql</File>
+    <File md5="9D71053C99E67CCB1BEDEAAF9D2B9A48" import="0">Code/GameText.xml</File>
+    <File md5="DCFCB193CEEC303D85583A6CE5768FC6" import="0">Code/Leaderhead.sql</File>
+    <File md5="C42BB3AFCA6C884CAF2EBF40343D1C02" import="0">Code/PlayerColours.sql</File>
+    <File md5="89034FB91941451A54A7C09BB74C78F5" import="0">Code/SoundRig.xml</File>
+    <File md5="4838842CFD2D48FF933169291E3842B9" import="0">Code/Traits.sql</File>
+    <File md5="7702C3113590E2C1D064D5D1B012C120" import="0">Code/Units.sql</File>
+    <File md5="26243C49FDF732C6E27B83211A77C7EA" import="0">Lua/AddPromotionIfNoOtherPlayerHasTech_V2.lua</File>
+    <File md5="C7AF71BFEFD1B19B9A67886CBEFE6977" import="0">Lua/Hawke_Functions.lua</File>
+    <File md5="D63DC8BB6AA0F310DD55B264DB49C7E2" import="1">Lua/PlotIterators.lua</File>
+    <File md5="0E221A221B7095717CC2323948DBB4AE" import="1">ModSupport/HawkeDecisions.lua</File>
+    <File md5="C5A53421473D0849CF2BD465CB26DD36" import="0">ModSupport/DecisionsHook.sql</File>
+    <File md5="853C813941383B33C424A1FF73F7A9C2" import="0">ModSupport/GameText_ModSupport.xml</File>
+    <File md5="BFA93FEB57F360A9AEF4EA5D6B3F4583" import="0">ModSupport/ModSupport.sql</File>
+  </Files>
+  <Actions>
+    <OnModActivated>
+      <UpdateDatabase>Art/Atlas/AtlasDefines.xml</UpdateDatabase>
+      <UpdateDatabase>Art/SASR/Define.xml</UpdateDatabase>
+      <UpdateDatabase>Code/GameText.xml</UpdateDatabase>
+      <UpdateDatabase>Code/Buildings.sql</UpdateDatabase>
+      <UpdateDatabase>Code/Civilizations.sql</UpdateDatabase>
+      <UpdateDatabase>Code/DummyFarm.sql</UpdateDatabase>
+      <UpdateDatabase>Code/Leaderhead.sql</UpdateDatabase>
+      <UpdateDatabase>Code/PlayerColours.sql</UpdateDatabase>
+      <UpdateDatabase>Code/Promotions.xml</UpdateDatabase>
+      <UpdateDatabase>Code/Traits.sql</UpdateDatabase>
+      <UpdateDatabase>Code/Units.sql</UpdateDatabase>
+      <UpdateDatabase>Code/SoundRig.xml</UpdateDatabase>
+      <UpdateDatabase>Code/DiplomacyResponses.xml</UpdateDatabase>
+      <UpdateDatabase>ModSupport/ModSupport.sql</UpdateDatabase>
+      <UpdateDatabase>ModSupport/GameText_ModSupport.xml</UpdateDatabase>
+      <UpdateDatabase>ModSupport/DecisionsHook.sql</UpdateDatabase>
+    </OnModActivated>
+  </Actions>
+  <EntryPoints>
+    <EntryPoint type="InGameUIAddin" file="Lua/AddPromotionIfNoOtherPlayerHasTech_V2.lua">
+      <Name>AddPromotionIfNoOtherPlayerHasTech_V2</Name>
+      <Description>
+      </Description>
+    </EntryPoint>
+    <EntryPoint type="InGameUIAddin" file="Lua/Hawke_Functions.lua">
+      <Name>Hawke Functions</Name>
+      <Description>
+      </Description>
+    </EntryPoint>
+  </EntryPoints>
+</Mod>

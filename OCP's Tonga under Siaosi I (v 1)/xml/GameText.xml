@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 3/12/2018 1:58:46 PM -->
+<GameData>
+	<Language_en_US>
+		<Row Tag="TXT_KEY_LEADER_SIAOSI_FIRST_GREETING_1">
+			<Text>I am, by all known laws of this land, ruler of Tonga, King Siaosi Tupou I. I beg of you, make valuable use of my time.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_SIAOSI_FIRST_GREETING_2">
+			<Text>Hello there. Welcome to the islands of Tonga. I am King Siaosi Tupou I, defender of the isles and unifier of the kingdoms.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_SIAOSI_DEFEATED">
+			<Text>I could not protect these islands. I pray that you find success where I have not. Please, just let me have one last swim in these waters.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_EW_DUMMY_FOOD">
+			<Text>TONGA: Dummy Food Building</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_EW_DUMMY_FOOD_HELP">
+			<Text>TONGA: Dummy Food Building</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

@@ -1,0 +1,501 @@
+﻿<GameData>
+	<Language_en_US>
+		<!----------------------------------------------------------------
+						State
+		------------------------------------------------------------------>
+		<Row Tag="TXT_KEY_ZIMBABWE_LS_MOD_DESC">
+			<Text>Kingdom of Zimbabwe</Text>
+		</Row>
+		<Row Tag="TXT_KEY_ZIMBABWE_LS_MOD_SHORT_DESC">
+			<Text>Zimbabwe</Text>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_ZIMBABWE_LS_MOD_ADJECTIVE">
+			<Text>Zimbabwe</Text>
+		</Row>
+		<Row Tag="TXT_KEY_ZIMBABWE_LS_MOD">
+			<Text>Zimbabwe</Text>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_ZIMBABWE_LS_MOD_TITLE">
+			<Text>Zimbabwe</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_ZIMBABWE_LS_MOD_HEADING_1">
+			<Text>The Shona</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_ZIMBABWE_LS_MOD_TEXT_1">
+			<Text>Proto-Shona speaking societies first emerged in the middle Limpopo valley in the 9th century before moving on to the Zimbabwean highlands. The Zimbabwean plateau eventually became the centre of subsequent Shona states, beginning around the 10th century. Around the early 10th century, trade developed with Arab merchants on the Indian Ocean coast, helping to develop the Kingdom of Mapungubwe in the 11th century. This was the precursor to the more impressive Shona civilisations that would dominate the region during the 13th to 15th centuries. Having been invaded multiple times, experiencing mass migration from the southern Zululands, and finally British Annexation, the Zimbabwe of today is far detached from that in antiquity. If anything has survived, it is the traditional arts. Shona sculpture has become world famous in recent years having first emerged in the 1940s. Most subjects of carved figures of stylised birds and human figures among others are made with sedimentary rocks such as soapstone, as well as harder igneous rocks such as serpentine and the rare stone verdite. Some of these Zimbabwean artefacts are being found in countries like Singapore, China and Canada, indicating the true extent of the ancient trade links.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_ZIMBABWE_LS_MOD_HEADING_2">
+			<Text>History of the Kingdom of Zimbabwe</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_ZIMBABWE_LS_MOD_TEXT_2">
+			<Text>The ruins of Great Zimbabwe are all that remains of what was once a great trading civilization, which sprang up in the interior of southern Africa. Although the civilization had some contact with outside groups, modern historians have agreed that Great Zimbabwe was built and managed by Africans living in the interior. It was a center of gold and ivory trade. Towards the latter part of the history of Great Zimbabwe, evidence suggests that the people living there were trading with regions as far as China, Persia, and Syria.[NEWLINE][NEWLINE]People living at Great Zimbabwe also practiced agriculture and cattle herding, although historians believe that this became a problem after awhile. Too many people living and farming one small area led to environmental degradation. Eventually the land was no longer able to sustain such a large number of people.[NEWLINE][NEWLINE]Great Zimbabwe was an early example of a state in this region of southern Africa with much political, economic, and military power. With its formation, social and political organization became more hierarchical. This involved a move from village level organization to a larger, broader social and political organization resulting in the Kingdom of Great Zimbabwe.[NEWLINE][NEWLINE]Around 1430, a prince from Zimbabwe travelled north in search of salt among the Shona-Tavara. The prince was Nyatsimba Mutota, and the land he conquered would become the Kingdom of Mutapa. Within a generation, Mutapa eclipsed Zimbabwe as the economic and political power in Zimbabwe. By 1450, the capital and most of the kingdom had been abandoned.[NEWLINE][NEWLINE]The end of the kingdom resulted in a fragmenting of proto-Shona power. Two bases emerged along a north-south axis. In the north, the kingdom of Mutapa carried on and even improved upon Zimbabwe's administrative structure. It did not carry on the stonemasonry tradition to the extent of its predecessor. In the south, the Kingdom of Butua was established as a smaller but nearly identical version of Zimbabwe. Both states were eventually absorbed into the largest and most powerful of the Kalanga states, the Rozwi Empire.[NEWLINE][NEWLINE]The empire had another indirect side effect on the history of southern Africa. Gold from the empire inspired in Europeans a belief that Mwenemutapa held the legendary mines of King Solomon, referred to in the Bible as Ophir.[NEWLINE][NEWLINE]The belief that the mines were inside the Mwenemutapa kingdom in southern Africa was one of the factors that led to the Portuguese exploration of the hinterland of Sofala in the 16th century, and this contributed to early development of Mozambique, as the legend was widely used among the less educated populace to recruit colonists. Some documents suggest that most of the early colonists dreamed of finding the legendary city of gold in southern Africa, a belief mirroring the early South American colonial search for El Dorado and quite possibly inspired by it. Early trade in gold came to an end as the mines ran out, and the deterioration of the Mutapa state eliminated the financial and political support for further developing sources of gold.</Text>
+		</Row>
+		<!-- City Names -->
+		<Row Tag="TXT_KEY_CITY_NAME_ZIMBABWE_LS_MOD_1">
+			<Text>Great Zimbabwe</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_ZIMBABWE_LS_MOD_2">
+			<Text>Harare</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_ZIMBABWE_LS_MOD_3">
+			<Text>Bulawayo</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_ZIMBABWE_LS_MOD_4">
+			<Text>Zvongombe</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_ZIMBABWE_LS_MOD_5">
+			<Text>Mutare</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_ZIMBABWE_LS_MOD_6">
+			<Text>Gweru</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_ZIMBABWE_LS_MOD_7">
+			<Text>Kwekwe</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_ZIMBABWE_LS_MOD_8">
+			<Text>Kadoma</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_ZIMBABWE_LS_MOD_9">
+			<Text>Masvingo</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_ZIMBABWE_LS_MOD_10">
+			<Text>Chinhoyi</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_ZIMBABWE_LS_MOD_11">
+			<Text>Marondera</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_ZIMBABWE_LS_MOD_12">
+			<Text>Buhera</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_ZIMBABWE_LS_MOD_13">
+			<Text>Cashel</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_ZIMBABWE_LS_MOD_14">
+			<Text>Tizvione</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_ZIMBABWE_LS_MOD_15">
+			<Text>Chipinge</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_ZIMBABWE_LS_MOD_16">
+			<Text>Hauna</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_ZIMBABWE_LS_MOD_17">
+			<Text>Mutare</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_ZIMBABWE_LS_MOD_18">
+			<Text>Nyazura</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_ZIMBABWE_LS_MOD_19">
+			<Text>Rusape</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_ZIMBABWE_LS_MOD_20">
+			<Text>Bindura</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_ZIMBABWE_LS_MOD_21">
+			<Text>Glendale</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_ZIMBABWE_LS_MOD_22">
+			<Text>Guruve</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_ZIMBABWE_LS_MOD_23">
+			<Text>Mvurwi</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_ZIMBABWE_LS_MOD_24">
+			<Text>Shamva</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_ZIMBABWE_LS_MOD_25">
+			<Text>Matepatepa</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_ZIMBABWE_LS_MOD_26">
+			<Text>Mazowe</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_ZIMBABWE_LS_MOD_27">
+			<Text>Ruwa</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_ZIMBABWE_LS_MOD_28">
+			<Text>Mutoko</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_ZIMBABWE_LS_MOD_29">
+			<Text>Wedza</Text>
+		</Row>
+		<!-- Spy Names -->
+		<Row Tag="TXT_KEY_SPY_NAME_ZIMBABWE_LS_MOD_0">
+			<Text>Amahle</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_ZIMBABWE_LS_MOD_1">
+			<Text>Bonginkosi</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_ZIMBABWE_LS_MOD_2">
+			<Text>Dakarai</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_ZIMBABWE_LS_MOD_3">
+			<Text>Hamadziripi</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_ZIMBABWE_LS_MOD_4">
+			<Text>Kutenda</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_ZIMBABWE_LS_MOD_5">
+			<Text>Makanyara</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_ZIMBABWE_LS_MOD_6">
+			<Text>Jekesai</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_ZIMBABWE_LS_MOD_7">
+			<Text>Chidochangu</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_ZIMBABWE_LS_MOD_8">
+			<Text>Anogonashe</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_ZIMBABWE_LS_MOD_9">
+			<Text>Akudzwe</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<!----------------------------------------------------------------
+						Leader
+		------------------------------------------------------------------>
+		<Row Tag="TXT_KEY_LEADER_ZIMBABWE_LS_MOD_NYATSIMBA_MUTOTA_DESC">
+			<Text>Nyatsimba Mutota</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ZIMBABWE_LS_MOD_NYATSIMBA_MUTOTA_LIVED">
+			<Text>c. 1400 – c. 1450</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ZIMBABWE_LS_MOD_NYATSIMBA_MUTOTA_NAME">
+			<Text>Nyatsimba Mutota</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ZIMBABWE_LS_MOD_NYATSIMBA_MUTOTA_SUBTITLE">
+			<Text>Emperor</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ZIMBABWE_LS_MOD_NYATSIMBA_MUTOTA_TITLES_1">
+			<Text>Prince</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ZIMBABWE_LS_MOD_NYATSIMBA_MUTOTA_HEADING_1">
+			<Text>History</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ZIMBABWE_LS_MOD_NYATSIMBA_MUTOTA_TEXT_1">
+			<Text>The only information we have about Nyatsimba Mutota comes from oral tradition. It is recorded that the warrior prince named Nyatsimba Mutota from the Kingdom of Zimbabwe was sent to find new sources of salt in the north. Prince Mutota found his salt among the Tavara, a Shona subdivision, who were prominent elephant hunters. They were conquered and a capital was established 350 km north of Great Zimbabwe at Zvongombe by the Zambezi. With Mutota as ruler, the Kingdom outgrew its parent state and became the dominant force in the region, mainting nominal independence from the powerful Portugese colonialist in Mozambique. Mutota's empire remained until, in the 17th century, rivalry between the Portugese and the Rozwi Empire (heralding from the Zimbabwe Plateau where Mutota was born) ripped it apart. </Text>
+		</Row>
+		<Row Tag="TXT_KEY_DAWN_OF_MAN_ZIMBABWE_LS_MOD_TEXT">
+			<Text>Young prince, Nyatsimba Mutota, founder of Kingdom of Mutapa, your lands have always been a prominent harbour of civilization. The Great Zimbabwe, created in thirteen century, was the largest stone structure in southern Africa until modern times! It was these traditions of art and engineering that were taken from even older kingdom, the Mapungubwe with its famous hill. With resourceful abundance, Zimbabwe controlled the ivory and gold trade from the interior to the southeastern coast of Africa; linking up with the trade routes of the Arabs and the Chinese. Your Mutapa Empire fell due to the  Portugese quest for the lost mines of King Soloman. But the your ancestral tribes would not be held down for long, and another great civilization was born in Zimbabwean land, the Rozwi Empire.[NEWLINE][NEWLINE]Nyatsimba Mutota! You have been called, once again, to defend the trade routes from those who would take from the Shona. Can you assue the prosperity and security to your people? Can you plump the depths Ophir, that have remained hidden for so long? Can you build a civilization that will stand the test of time?</Text>
+		</Row>
+		<!----------------------------------------------------------------
+						Diplomacy
+		------------------------------------------------------------------>
+		<!--First Greeting messages from AI leaders-->
+		<Row Tag="TXT_KEY_LEADER_ZIMBABWE_LS_MOD_NYATSIMBA_MUTOTA_FIRSTGREETING_1">
+			<Text>Welcome! I am Nyatsimba Mutota, the prodigal Prince. How did you hear about Zimbabwe?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ZIMBABWE_LS_MOD_NYATSIMBA_MUTOTA_FIRSTGREETING_2">
+			<Text>Nyatsimba Mutota is honoured to meet you and your enormous wealth. Why don't we mark this occassion with a feast! Some dancing! And perhaps later...a trade route!</Text>
+		</Row>
+		<!--Defeated messages from AI leaders-->
+		<Row Tag="TXT_KEY_LEADER_ZIMBABWE_LS_MOD_NYATSIMBA_MUTOTA_DEFEATED_1">
+			<Text>Ophir has crumbled. The Zimbabwe birds have all left their roost. When you kill me, you will have destroyed all that remains of my people.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ZIMBABWE_LS_MOD_NYATSIMBA_MUTOTA_DEFEATED_2">
+			<Text>Nyatsimba Mutota will let you in on a secret! I have traded everything away! My lands are worthless to you!</Text>
+		</Row>
+		<!-- Human repeats an action too much, gets the following responses -->
+		<Row Tag="TXT_KEY_LEADER_ZIMBABWE_LS_MOD_NYATSIMBA_MUTOTA_REPEAT_TOO_MUCH_1">
+			<Text>The next word needs to be either trade or route..</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ZIMBABWE_LS_MOD_NYATSIMBA_MUTOTA_REPEAT_TRADE_TOO_MUCH_1">
+			<Text>You think you can trick the trade masters?</Text>
+		</Row>
+		<!-- Greetings -->
+		<Row Tag="TXT_KEY_LEADER_ZIMBABWE_LS_MOD_NYATSIMBA_MUTOTA_GREETING_HOSTILE_HELLO_1">
+			<Text>You better have arrived at the head of a caravan or we have nothing else to discuss.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ZIMBABWE_LS_MOD_NYATSIMBA_MUTOTA_GREETING_POLITE_HELLO_1">
+			<Text>What a beautiful day to trade!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ZIMBABWE_LS_MOD_NYATSIMBA_MUTOTA_GREETING_HOSTILE_HUMAN_AT_WAR_1">
+			<Text>Careful not to plunder any trade routes to Zimbabwe. That would make me very angry indeed.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ZIMBABWE_LS_MOD_NYATSIMBA_MUTOTA_GREETING_HUMAN_AT_WAR_1">
+			<Text>Greetings friend. On the battlefield, spare the traders, would you?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ZIMBABWE_LS_MOD_NYATSIMBA_MUTOTA_HOSTILE_AGGRESSIVE_MILITARY_WARNING_1">
+			<Text>By now, my men know every inch of your lands. Keep this in mind.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ZIMBABWE_LS_MOD_NYATSIMBA_MUTOTA_GREETING_HOSTILE_AGGRESSIVE_PLOT_BUYING_1">
+			<Text>If you put your money in land, the only way I can trade with you is in a peace treaty.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ZIMBABWE_LS_MOD_NYATSIMBA_MUTOTA_GREETING_AGGRESSIVE_PLOT_BUYING_1">
+			<Text>You can't trade land, why buy it?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ZIMBABWE_LS_MOD_NYATSIMBA_MUTOTA_GREETING_HOSTILE_AGGRESSIVE_EXPANSION_1">
+			<Text>NO! That land was to be mine!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ZIMBABWE_LS_MOD_NYATSIMBA_MUTOTA_GREETING_AGGRESSIVE_EXPANSION_1">
+			<Text>I thought we agreed that land belonged to me.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ZIMBABWE_LS_MOD_NYATSIMBA_MUTOTA_GREETING_FRIENDLY_STRONG_MILITARY_1">
+			<Text>Your military are mighty. I rest easy knowing my trade routes are safe.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ZIMBABWE_LS_MOD_NYATSIMBA_MUTOTA_GREETING_FRIENDLY_STRONG_ECONOMY_1">
+			<Text>You are known for your wealth; I hope to see much trade with you in the future.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ZIMBABWE_LS_MOD_NYATSIMBA_MUTOTA_GREETING_HOSTILE_HUMAN_FEW_CITIES_1">
+			<Text>Not got many cities, have you?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ZIMBABWE_LS_MOD_NYATSIMBA_MUTOTA_GREETING_HOSTILE_HUMAN_SMALL_ARMY_1">
+			<Text>Even a peaceful trader like me needs a large army... to put down mongrels like you.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ZIMBABWE_LS_MOD_NYATSIMBA_MUTOTA_GREETING_HOSTILE_HUMAN_IS_WARMONGER_1">
+			<Text>Keep fighting, supplying armaments to your enemies is proving profitable.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ZIMBABWE_LS_MOD_NYATSIMBA_MUTOTA_TOO_SOON_FOR_DOF_1">
+			<Text>I haven't got your credit rating through yet.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ZIMBABWE_LS_MOD_NYATSIMBA_MUTOTA_DENOUNCE_1">
+			<Text>We shall no longer be trading with you. Nor will anyone else after we pass an embargo resolution.[NEWLINE][NEWLINE]([COLOR_WARNING_TEXT]They have publicly denounced us! NOTE: You are not at war.[ENDCOLOR])</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ZIMBABWE_LS_MOD_NYATSIMBA_MUTOTA_DENOUNCE_2">
+			<Text>With no one to trade with, your empire shall fall.[NEWLINE][NEWLINE]([COLOR_WARNING_TEXT]They have publicly denounced us! NOTE: You are not at war.[ENDCOLOR])</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ZIMBABWE_LS_MOD_NYATSIMBA_MUTOTA_RESPONSE_TO_BEING_DENOUNCED_1">
+			<Text>No one will listen to you. The words of ivory and gold are so much sweeter.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ZIMBABWE_LS_MOD_NYATSIMBA_MUTOTA_RESPONSE_TO_BEING_DENOUNCED_2">
+			<Text>Nyatsimba Mutota's reputation is golden. You cannot tarnish it.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ZIMBABWE_LS_MOD_NYATSIMBA_MUTOTA_HUMAN_DOFED_FRIEND_1">
+			<Text>{1_CivName} is already a trade partner. Let us all propser together.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ZIMBABWE_LS_MOD_NYATSIMBA_MUTOTA_HUMAN_DOFED_ENEMY_1">
+			<Text>{1_CivName} is under embargo, and we can't risk our goods accidentally getting to him through you...</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ZIMBABWE_LS_MOD_NYATSIMBA_MUTOTA_HUMAN_DENOUNCED_FRIEND_1">
+			<Text>{1_CivName} does much trade with me. If he asks me to embargo you, I will have no choice buy to agree.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ZIMBABWE_LS_MOD_NYATSIMBA_MUTOTA_HUMAN_DENOUNCED_ENEMY_1">
+			<Text>{1_CivName} is surely running out of gold as we speak!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ZIMBABWE_LS_MOD_NYATSIMBA_MUTOTA_HUMAN_DOF_SO_AI_DOF_1">
+			<Text>If we both trade with {1_CivName}, we shall be better allies with each other!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ZIMBABWE_LS_MOD_NYATSIMBA_MUTOTA_HUMAN_DOF_SO_AI_DENOUNCE_1">
+			<Text>{1_CivName} has certain deals with me. Your actions have forced me into this.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ZIMBABWE_LS_MOD_NYATSIMBA_MUTOTA_HUMAN_DENOUNCE_SO_AI_DENOUNCE_1">
+			<Text>I share your convictions that {1_CivName} only causes problems for the civilized empires of the world. Perhaps the combination of our denouncements will teach them a lesson.</Text>
+		</Row>
+		<!-- General Diplo Text -->
+		<Row Tag="TXT_KEY_LEADER_ZIMBABWE_LS_MOD_NYATSIMBA_MUTOTA_COOP_WAR_REQUEST_1">
+			<Text>{1_PlayerName:textkey} won't trade with me! Nyatsimba Mutota is willing to give her empire to someone who will...</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ZIMBABWE_LS_MOD_NYATSIMBA_MUTOTA_COOP_WAR_REQUEST_2">
+			<Text>I'm here about {1_PlayerName:textkey}. Let's make a deal...</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ZIMBABWE_LS_MOD_NYATSIMBA_MUTOTA_COOP_WAR_TIME_1">
+			<Text>Our deal concerning {1_PlayerName:textkey} comes to fruition today.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ZIMBABWE_LS_MOD_NYATSIMBA_MUTOTA_DEC_FRIENDSHIP_1">
+			<Text>Let all the world know that you and Nyatsimba Mutota are friends.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ZIMBABWE_LS_MOD_NYATSIMBA_MUTOTA_DEC_FRIENDSHIP_2">
+			<Text>With my connections, what will stand in our way?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ZIMBABWE_LS_MOD_NYATSIMBA_MUTOTA_AGGRESSIVE_MILITARY_WARNING_1">
+			<Text>It's come to my attention that you have a large number of Units near my borders. Make sure they're on the next caravan out of here.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ZIMBABWE_LS_MOD_NYATSIMBA_MUTOTA_PLOT_BUYING_WARNING_1">
+			<Text>Stop buying land! You make Nyatsimba Mutota angry!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ZIMBABWE_LS_MOD_NYATSIMBA_MUTOTA_PLOT_BUYING_SERIOUS_WARNING_1">
+			<Text>Nyatsimba Mutota will not stand for this breach of trade agreements!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ZIMBABWE_LS_MOD_NYATSIMBA_MUTOTA_EXPANSION_SERIOUS_WARNING_1">
+			<Text>Nyatsimba Mutota will not stand for this breach of trade agreements!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ZIMBABWE_LS_MOD_NYATSIMBA_MUTOTA_EXPANSION_WARNING">
+			<Text>Your expansionism is too much! Too much I say!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ZIMBABWE_LS_MOD_NYATSIMBA_MUTOTA_RETURNED_CIVILIAN_1">
+			<Text>I had not thought to trade civilians like this before. Clever</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ZIMBABWE_LS_MOD_NYATSIMBA_MUTOTA_RETURNED_CIVILIAN_2">
+			<Text>Thank you for these men. What do you want in return?</Text>
+		</Row>
+		<!--Insults-->
+		<Row Tag="TXT_KEY_LEADER_ZIMBABWE_LS_MOD_NYATSIMBA_MUTOTA_INSULT_1">
+			<Text>Don't get me wrong Nyatsimba Mutota loves his caravans, but rumour has it you have been going... too far.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ZIMBABWE_LS_MOD_NYATSIMBA_MUTOTA_INSULT_2">
+			<Text>Nyatsimba Mutota wants to see you dance. How much must he pay?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ZIMBABWE_LS_MOD_NYATSIMBA_MUTOTA_INSULT_3">
+			<Text>May a thousand Zimbabwe birds shit on your head!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ZIMBABWE_LS_MOD_NYATSIMBA_MUTOTA_INSULT_4">
+			<Text>When you are inevitably killed, Nyatsimba Mutota shall purchase your bones and have a windchime made from them. That way you can be together with your best friend. Breeze!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ZIMBABWE_LS_MOD_NYATSIMBA_MUTOTA_INSULT_MILITARY_1">
+			<Text>Nyatsimba Mutota is surprised you can afford an army. Even a small one.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ZIMBABWE_LS_MOD_NYATSIMBA_MUTOTA_INSULT_MILITARY_2">
+			<Text>Nyatsimba Mutota is surprised you can afford an army. Even a small one.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ZIMBABWE_LS_MOD_NYATSIMBA_MUTOTA_INSULT_BULLY_1">
+			<Text>Nyatsimba Mutota won't be bullied by you!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ZIMBABWE_LS_MOD_NYATSIMBA_MUTOTA_INSULT_UNHAPPINESS_1">
+			<Text>Your people are so sad. Buy them some luxuries, if you can afford it.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ZIMBABWE_LS_MOD_NYATSIMBA_MUTOTA_INSULT_UNHAPPINESS_2">
+			<Text>My valleys are filled with your people's wailing. I'm going to have to ask you to do something about that.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ZIMBABWE_LS_MOD_NYATSIMBA_MUTOTA_INSULT_CITIES_1">
+			<Text>Nyatsimba Mutota can't trade with you if you have no decent cities.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ZIMBABWE_LS_MOD_NYATSIMBA_MUTOTA_INSULT_POPULATION_1">
+			<Text>Perhaps you should trade some of your excess uselessness for some more population?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ZIMBABWE_LS_MOD_NYATSIMBA_MUTOTA_INSULT_CULTURE_1">
+			<Text>I'm afraid you can't even trade for culture. Unless you're Morocco.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ZIMBABWE_LS_MOD_NYATSIMBA_MUTOTA_INSULT_CULTURE_2">
+			<Text>I'm afraid you can't even trade for culture. Unless you're Morocco.</Text>
+		</Row>
+		<!--Public Declarations-->
+		<Row Tag="TXT_KEY_LEADER_ZIMBABWE_LS_MOD_NYATSIMBA_MUTOTA_DECLARATION_PROTECT_CITY_STATE_1">
+			<Text>{2_MajorCivName:textkey} announces to the world that it is now protecting {1_MinorCivName:textkey}. Attacking the City-State will greatly damage relations and may lead to war.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ZIMBABWE_LS_MOD_NYATSIMBA_MUTOTA_DECLARATION_ABANDON_CITY_STATE_1">
+			<Text>{2_MajorCivName:textkey} has taken back its guarantee of protecting {1_MinorCivName:textkey}.</Text>
+		</Row>
+		<!-- Human is asking the AI for something -->
+		<Row Tag="TXT_KEY_LEADER_ZIMBABWE_LS_MOD_NYATSIMBA_MUTOTA_DONT_SETTLE_NO_1">
+			<Text>Nyatsimba Mutota is not persuaded.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ZIMBABWE_LS_MOD_NYATSIMBA_MUTOTA_DONT_SETTLE_YES_1">
+			<Text>Nyatsimba Mutota is persuaded.</Text>
+		</Row>
+		<!--Deal Offers and related-->
+		<Row Tag="TXT_KEY_LEADER_ZIMBABWE_LS_MOD_NYATSIMBA_MUTOTA_LUXURY_TRADE_1">
+			<Text>Trade? Trade.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ZIMBABWE_LS_MOD_NYATSIMBA_MUTOTA_OPEN_BORDERS_EXCHANGE_1">
+			<Text>Open borders is another form of trading, really.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ZIMBABWE_LS_MOD_NYATSIMBA_MUTOTA_RESPONSE_REQUEST_1">
+			<Text>It's a new kind of trade I've invented.</Text>
+		</Row>
+		<!--AI Attacked by Human - Strong and Weak also include the default response sets-->
+		<Row Tag="TXT_KEY_LEADER_ZIMBABWE_LS_MOD_NYATSIMBA_MUTOTA_ATTACKED_HOSTILE_1">
+			<Text>It seems I must now trade in death.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ZIMBABWE_LS_MOD_NYATSIMBA_MUTOTA_ATTACKED_EXCITED_1">
+			<Text>Looks like this shipment of weapons was just in time!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ZIMBABWE_LS_MOD_NYATSIMBA_MUTOTA_ATTACKED_SAD_1">
+			<Text>It seems I must deal with the devil.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ZIMBABWE_LS_MOD_NYATSIMBA_MUTOTA_ATTACKED_BETRAYED_1">
+			<Text>This wasn't part of the deal!</Text>
+		</Row>
+		<!--AI Declaring War on Human - Strong and Weak also include the default response sets-->
+		<Row Tag="TXT_KEY_LEADER_ZIMBABWE_LS_MOD_NYATSIMBA_MUTOTA_DOW_GENERIC_1">
+			<Text>I'm going to make you an offer you cannot refuse.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ZIMBABWE_LS_MOD_NYATSIMBA_MUTOTA_DOW_LAND_1">
+			<Text>Let's make a deal: I get all your land, and you get nothing!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ZIMBABWE_LS_MOD_NYATSIMBA_MUTOTA_DOW_LAND_2">
+			<Text>Trade you some of my soldiers for all of your land?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ZIMBABWE_LS_MOD_NYATSIMBA_MUTOTA_DOW_WORLD_CONQUEST_1">
+			<Text>He finds trading with himself to be even more fun than trading with others. It is for this reason Nyatsimba Mutota will take over the world.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ZIMBABWE_LS_MOD_NYATSIMBA_MUTOTA_DOW_WORLD_CONQUEST_2">
+			<Text>When Nyatsimba Mutota rules the world, people will beg to trade with him!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ZIMBABWE_LS_MOD_NYATSIMBA_MUTOTA_DOW_OPPORTUNITY_1">
+			<Text>Nyatsimba Mutota knows a good opportunity when he sees one.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ZIMBABWE_LS_MOD_NYATSIMBA_MUTOTA_DOW_OPPORTUNITY_2">
+			<Text>Nyatsimba Mutota knows a good opportunity when he sees one.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ZIMBABWE_LS_MOD_NYATSIMBA_MUTOTA_DOW_DESPERATE_1">
+			<Text>My people have proved themselves warriors in times of great need. This is one of those times.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ZIMBABWE_LS_MOD_NYATSIMBA_MUTOTA_DOW_DESPERATE_2">
+			<Text>With you dead, the Zimbabwe birds will return, and gems will once more flow from Ophir!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ZIMBABWE_LS_MOD_NYATSIMBA_MUTOTA_DOW_BETRAYAL_1">
+			<Text>Someone made me a better offer.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ZIMBABWE_LS_MOD_NYATSIMBA_MUTOTA_DOW_BETRAYAL_2">
+			<Text>Someone made me a better offer.</Text>
+		</Row>
+		<!--AI Responses to a human peace offer-->
+		<Row Tag="TXT_KEY_LEADER_ZIMBABWE_LS_MOD_NYATSIMBA_MUTOTA_TOO_SOON_NO_PEACE_1">
+			<Text>Nyatsimba Mutota is not yet satisfied.</Text>
+		</Row>
+		<!--AI Responses to a discussion mode topics-->
+		<Row Tag="TXT_KEY_LEADER_ZIMBABWE_LS_MOD_NYATSIMBA_MUTOTA_BAD_1">
+			<Text>Trade or leave.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ZIMBABWE_LS_MOD_NYATSIMBA_MUTOTA_BAD_2">
+			<Text>You deal dangerously.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ZIMBABWE_LS_MOD_NYATSIMBA_MUTOTA_BAD_3">
+			<Text>A Zimbabwe has a dungeon, do not fear.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ZIMBABWE_LS_MOD_NYATSIMBA_MUTOTA_GOOD_1">
+			<Text>Nyatsimba Mutota finds this deal to his liking.</Text>
+		</Row>
+		<!----------------------------------------------------------------
+						UA
+		------------------------------------------------------------------>
+		<Row Tag="TXT_KEY_TRAIT_ZIMBABWE_TRAIT_SHORT">
+			<Text>Trade Link</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_ZIMBABWE_TRAIT">
+			<Text>Can meet other civilizations through Trade-Routes links. Cities have increased [ICON_PRODUCTION] Production and [ICON_GOLD] Gold from Trade-Routes links.</Text>
+		</Row>
+		<!----------------------------------------------------------------
+						U1
+		------------------------------------------------------------------>
+		<Row Tag="TXT_KEY_UNIT_LS_ROZWI_WARRIOR">
+			<Text>Rozvi Warrior</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_HELP_LS_ROZWI_WARRIOR">
+			<Text>Ignores terrain cost and has +5% [ICON_STRENGTH] Combat Strength for every Trade Route you own (up to +25%).</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_LS_ROZWI_WARRIOR_TEXT">
+			<Text>The Rozvi were led by Changamire Dombo, whose power was based in Butua in the southwest of sub-Saharan Africa. The Rozwi were formed from several Shona states that dominated the plateau of present-day Zimbabwe at the time. Records from the Portuguese have shown that the Rozwi were expert military strategists. They were noted as using the cow-horn formation years before the great Zulu leader Shaka did in the 19th century. With spears, bows, and arrows, the aggressive Rozwi took over the plateau.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_LS_ROZWI_WARRIOR_STRATEGY">
+			<Text>More mobile than the pikeman, which it replaces, the Rozwi Warrior can gain a significant strength boost. However, in war, trade routes can be difficult to protect, and it is therefore essential that Zimbabwe keep a close eye on all their caravans and cargo ships.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_ZIMMERUSED_MOD">
+			<Text>Trade Keeper</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_ZIMMERUSED_MOD_HELP">
+			<Text>+5% Combat bonus per Trade Route owned.</Text>
+		</Row>
+		<!----------------------------------------------------------------
+						U2
+		------------------------------------------------------------------>
+		<Row Tag="TXT_KEY_BUILDING_LS_ZIMBABWE">
+			<Text>Zimbabwe</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_LS_ZIMBABWE_HELP">
+			<Text>50% of [ICON_GOLD] Gold output contributes towards border's expansion. Acquire new plot instantly upon establishing Trade Route from this city.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_LS_ZIMBABWE_TEXT">
+			<Text>As far as we know, the occupants of the Zimbabwe plateau were unique among early Southern African nations insofar as they built large structures from stone (without mortar). The name Zimbabwe contains dzimba, the Shona term for "houses". Archaeological evidence suggests that Great Zimbabwe became a centre for trading, both internationally and internally, with large cattle herds that supplied the city being managed by the court.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_LS_ZIMBABWE_STRATEGY">
+			<Text>The Zimbabwe allows you to rapidly expand your borders via trade.</Text>
+		</Row>
+
+	</Language_en_US>
+</GameData>

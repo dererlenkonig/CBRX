@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<UnitPromotions>
+		<!--cannot be chosen-->
+		<Row>
+			<Type>PROMOTION_MC_APEDEMAK_RIVER</Type>
+			<Description>TXT_KEY_PROMOTION_MC_APEDEMAK_RIVER</Description>
+			<Help>TXT_KEY_PROMOTION_MC_APEDEMAK_RIVER_HELP</Help>
+			<Sound>AS2D_IF_LEVELUP</Sound>
+			<CannotBeChosen>true</CannotBeChosen>
+			<MovesChange>1</MovesChange>
+			<PortraitIndex>59</PortraitIndex>
+			<IconAtlas>ABILITY_ATLAS</IconAtlas>
+			<PediaType>PEDIA_SHARED</PediaType>
+			<PediaEntry>TXT_KEY_PROMOTION_MC_APEDEMAK_RIVER</PediaEntry>
+		</Row>
+	</UnitPromotions>
+	<UnitPromotions_UnitCombats>
+		<Row>
+			<PromotionType>PROMOTION_MC_APEDEMAK_RIVER</PromotionType>
+			<UnitCombatType>UNITCOMBAT_ARCHER</UnitCombatType>
+		</Row>
+	</UnitPromotions_UnitCombats>
+</GameData>

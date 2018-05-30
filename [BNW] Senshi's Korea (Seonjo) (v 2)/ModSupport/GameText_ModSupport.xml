@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 11/23/2013 1:27:25 PM -->
+<GameData>
+	<Language_en_US>
+		<!--RYOGA UNIQUE CULTURAL INFLUENCE-->
+		<Row Tag="TXT_KEY_GENERIC_SENSHI_KOREA_INFLUENTIAL_ON_AI_1">
+			<Text>Our people are now cruising on armoured boats and beating war drums all day, every day. I worry the rest of the world will succumb to the influence of your culture. Oh, incidentally, do you have anywhere I could stay for a little bit? I haven't slept in days.</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_DECISIONS_KOREA_CIVIL_EXAMINATION_REFORMS">
+			<Text>Reform the Civil Examination System</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_KOREA_CIVIL_EXAMINATION_REFORMS_DESC">
+			<Text>
+				Our predecessors were corrupt, and our Civil Examination System is incredibly flawed as a result! My lord, I suggest we implement grand reforms of the system to improve the lifes of everyone! Well, everyone except the corrupt officials, that is.
+				[NEWLINE]Requirement/Restrictions:
+				[NEWLINE][ICON_BULLET]Player must be Seonjo
+				[NEWLINE][ICON_BULLET]Player must have researched Civil Service
+				[NEWLINE][ICON_BULLET]May only be enacted once per game
+				[NEWLINE]Costs:
+				[NEWLINE][ICON_BULLET]{1_Gold} [ICON_GOLD] Gold
+				[NEWLINE][ICON_BULLET]2 [ICON_MAGISTRATES] Magistrates
+				[NEWLINE]Rewards:
+				[NEWLINE][ICON_BULLET]Social Policies cost 15% less [ICON_CULTURE] Culture.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_KOREA_CIVIL_EXAMINATION_REFORMS_ENACTED_DESC">
+			<Text>
+				Our predecessors were corrupt, and our Civil Examination System is incredibly flawed as a result! My lord, I suggest we implement grand reforms of the system to improve the lifes of everyone! Well, everyone except the corrupt officials, that is.
+				[NEWLINE]Rewards:
+				[NEWLINE][ICON_BULLET]Social Policies cost 15% less [ICON_CULTURE] Culture.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_KOREA_FORT_CONSTRUCTION">
+			<Text>Rush Fort Construction</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_KOREA_FORT_CONSTRUCTION_HELP">
+			<Text>+20% Combat strength when within 2 tiles of a Fort or Citadel</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_KOREA_FORT_CONSTRUCTION_DESC">
+			<Text>
+				Our coastlines lay undefended, at deadly risk of an invasion! If we rush the construction of forts in the area, our soldiers should be better equipped to deal with any approaching menace!
+				[NEWLINE]Requirement/Restrictions:
+				[NEWLINE][ICON_BULLET]Player must be Seonjo
+				[NEWLINE][ICON_BULLET]Must be enacted after entering the Renaissance era
+				[NEWLINE][ICON_BULLET]May only be enacted once per game
+				[NEWLINE]Costs:
+				[NEWLINE][ICON_BULLET]{1_Gold} [ICON_GOLD] Gold
+				[NEWLINE][ICON_BULLET]1 [ICON_MAGISTRATES] Magistrate
+				[NEWLINE]Rewards:
+				[NEWLINE][ICON_BULLET]Naval units within two tiles of a Fort receive a +20% Combat Bonus.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_KOREA_FORT_CONSTRUCTION_ENACTED_DESC">
+			<Text>
+				Our coastlines lay undefended, at deadly risk of an invasion! If we rush the construction of forts in the area, our soldiers should be better equipped to deal with any approaching menace!
+				[NEWLINE]Rewards:
+				[NEWLINE][ICON_BULLET]Naval units within two tiles of a Fort receive a +20% Combat Bonus.
+			</Text>
+		</Row>
+
+	</Language_en_US>
+</GameData>

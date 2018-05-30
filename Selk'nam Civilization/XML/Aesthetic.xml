@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 4/12/2018 11:52:01 AM -->
+<GameData>
+	<PolicyBranchTypes>
+		<Update>
+			<Where Type="POLICY_BRANCH_AESTHETICS" />
+			<Set EraPrereq="NULL"/>
+		</Update>
+	</PolicyBranchTypes>
+</GameData>

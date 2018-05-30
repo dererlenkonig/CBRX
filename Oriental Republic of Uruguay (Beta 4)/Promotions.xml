@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 2/25/2017 12:55:05 PM -->
+<GameData>
+	<UnitPromotions>
+		<!--Earnable Promotions-->
+		<Row>
+			<Type>PROMOTION_CASCOS_AZULES</Type>
+			<Description>TXT_KEY_PROMOTION_CASCOS_AZULES</Description>
+			<Help>TXT_KEY_PROMOTION_CASCOS_AZULES_HELP</Help>
+			<Sound>AS2D_IF_LEVELUP</Sound>
+			<PortraitIndex>0</PortraitIndex>
+			<IconAtlas>EXPANSION2_PROMOTION_ATLAS</IconAtlas>
+			<CannotBeChosen>true</CannotBeChosen>
+			<RivalTerritory>true</RivalTerritory>
+			<PediaType>PEDIA_ATTRIBUTES</PediaType>
+			<PediaEntry>TXT_KEY_PROMOTION_CASCOS_AZULES</PediaEntry>
+			<OutsideFriendlyLandsModifier>15</OutsideFriendlyLandsModifier>
+			
+		</Row>
+		<Row>
+			<Type>PROMOTION_ORIENTALES</Type>
+			<Description>TXT_KEY_PROMOTION_ORIENTALES</Description>
+			<Help>TXT_KEY_PROMOTION_ORIENTALES</Help>
+			<Sound>AS2D_IF_LEVELUP</Sound>
+			<PortraitIndex>57</PortraitIndex>
+			<IconAtlas>ABILITY_ATLAS</IconAtlas>
+			<CannotBeChosen>true</CannotBeChosen>
+			<PediaType>PEDIA_ATTRIBUTES</PediaType>
+			<PediaEntry>TXT_KEY_PROMOTION_ORIENTALES</PediaEntry>
+			<CombatPercent>20</CombatPercent>
+			<CityAttack>20</CityAttack>
+			<MovesChange>1</MovesChange>
+			<IgnoreTerrainCost>true</IgnoreTerrainCost>
+		</Row>
+		<Row>
+			<Type>PROMOTION_ORIENTALES_BASE</Type>
+			<Description>TXT_KEY_PROMOTION_ORIENTALES_BASE</Description>
+			<Help>TXT_KEY_PROMOTION_ORIENTALES_BASE</Help>
+			<Sound>AS2D_IF_LEVELUP</Sound>
+			<PortraitIndex>57</PortraitIndex>
+			<IconAtlas>ABILITY_ATLAS</IconAtlas>
+			<CannotBeChosen>true</CannotBeChosen>
+			<PediaType>PEDIA_ATTRIBUTES</PediaType>
+			<PediaEntry>TXT_KEY_PROMOTION_ORIENTALES_BASE</PediaEntry>
+		</Row>
+	</UnitPromotions>
+</GameData>

@@ -1,0 +1,169 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mod id="4481702e-758e-4fd3-9760-308f8efafa74" version="27">
+  <Properties>
+    <Name>[BNW] LS Civilization Set I</Name>
+    <Teaser>Adds Haida Tribe, Hetmanate and Khmer Empire civilizations.</Teaser>
+    <Description>Mod is created for and tested on GK + BNW.
+Mod adds three playable civilizations to the game.</Description>
+    <Authors>LastSword</Authors>
+    <SpecialThanks>hokath, Kujarim Wuniver</SpecialThanks>
+    <HideSetupGame>0</HideSetupGame>
+    <AffectsSavedGames>1</AffectsSavedGames>
+    <MinCompatibleSaveVersion>0</MinCompatibleSaveVersion>
+    <SupportsSinglePlayer>1</SupportsSinglePlayer>
+    <SupportsMultiplayer>1</SupportsMultiplayer>
+    <SupportsHotSeat>1</SupportsHotSeat>
+    <SupportsMac>1</SupportsMac>
+    <ReloadAudioSystem>1</ReloadAudioSystem>
+    <ReloadLandmarkSystem>0</ReloadLandmarkSystem>
+    <ReloadStrategicViewSystem>1</ReloadStrategicViewSystem>
+    <ReloadUnitSystem>1</ReloadUnitSystem>
+  </Properties>
+  <Dependencies />
+  <References />
+  <Blocks />
+  <Files>
+    <File md5="019E6C76943913C865D5D069C41FEE0F" import="1">Common/AlphaLS1Atlas24.dds</File>
+    <File md5="3296F3E938049788C123662926A1FF4C" import="1">Common/AlphaLS1Atlas32.dds</File>
+    <File md5="2812B9767F3FBE8FBE645DA21969A8E3" import="1">Common/AlphaLS1Atlas48.dds</File>
+    <File md5="63B592F96CB43CDFD651920CB276EEE7" import="1">Common/AlphaLS1Atlas64.dds</File>
+    <File md5="26B07CC94BAD0C0321BC6965649C8D66" import="1">Common/BuildingLS1Atlas128.dds</File>
+    <File md5="38FA0672B49D4D564354A10AD3EDE06D" import="1">Common/BuildingLS1Atlas256.dds</File>
+    <File md5="42F75224124476498CFABC583036CF3A" import="1">Common/BuildingLS1Atlas45.dds</File>
+    <File md5="BF47D781E46E29888B729E1B7EBF0C63" import="1">Common/BuildingLS1Atlas64.dds</File>
+    <File md5="5ED85ADB5234925BDA57F23520EAF1FF" import="1">Common/CivLS1Atlas128.dds</File>
+    <File md5="853A30954B5D6AC89CEE533C5E621002" import="1">Common/CivLS1Atlas256.dds</File>
+    <File md5="41C6A7C8D5DBE8E49227CE4A027BBCE7" import="1">Common/CivLS1Atlas32.dds</File>
+    <File md5="0BF7F983D16955FF654B553AD2B77D5C" import="1">Common/CivLS1Atlas45.dds</File>
+    <File md5="593B549D4876F1D8358B019879CFB48E" import="1">Common/CivLS1Atlas64.dds</File>
+    <File md5="2504BA52E80C7877575FE0A3788B3760" import="1">Common/CivLS1Atlas80.dds</File>
+    <File md5="48AD877827603FA134571FD305CBDC79" import="1">Common/LeaderLS1Atlas128.dds</File>
+    <File md5="29F83F061279E33D7CF05928606419B5" import="1">Common/LeaderLS1Atlas256.dds</File>
+    <File md5="31BEA9C06B1D4BC79215A5C713066867" import="1">Common/LeaderLS1Atlas64.dds</File>
+    <File md5="EF5537F2F677D031FE9E4E71E3504945" import="0">Common/LS1 Atlas Mod.xml</File>
+    <File md5="C80BFDF690CA9B9C002BDE214628BF32" import="1">Common/UnitLS1Atlas128.dds</File>
+    <File md5="488F1A25674A3EFF14E0E628BB76542F" import="1">Common/UnitLS1Atlas256.dds</File>
+    <File md5="7CB560C4B4562F5AAC480796D80602E3" import="1">Common/UnitLS1Atlas45.dds</File>
+    <File md5="9B5C63ABDE127E64AC109A6E61BD9620" import="1">Common/UnitLS1Atlas64.dds</File>
+    <File md5="5CD89FE002D883B4996B7FEDA9AF222D" import="1">Common/UnitLS1Atlas80.dds</File>
+    <File md5="40125E48D8BEC12CA67679621C742E70" import="1">HaidaTribe/DiploHaidaLSMod.dds</File>
+    <File md5="D421A4F816BE4EBEEC7815CB3609780D" import="0">HaidaTribe/Diplomacy.sql</File>
+    <File md5="BB33EFA55B5EE9AE3FFB6BF7AC3446B1" import="1">HaidaTribe/DoMHaidaLSMod.dds</File>
+    <File md5="1F7A720099AB7EE666ED0DE77975F83B" import="0">HaidaTribe/Haida Building Mod.xml</File>
+    <File md5="0A81B4501F15F2170E2DB185D11E93AD" import="0">HaidaTribe/Haida Civ Mod.xml</File>
+    <File md5="A3F5C6858A524CAF6D6C0955E78B1FE4" import="1">HaidaTribe/HaidaLSBuildingCode.lua</File>
+    <File md5="F35E4DFBE752DC023C6CB07B65A83EF0" import="0">HaidaTribe/Haida Game Text Mod.xml</File>
+    <File md5="08609630924FA2E5108D8145A50B34A0" import="0">HaidaTribe/Haida Leader Mod.xml</File>
+    <File md5="3029EE84BA29DC699A912B0F22FE0798" import="0">HaidaTribe/HaidaLSUnitCode.lua</File>
+    <File md5="C9CE257F005CA627C3AB88F01227AD0B" import="0">HaidaTribe/Haida Units Mod.xml</File>
+    <File md5="19CB5309326995B4B4C21965350D0ACB" import="1">HaidaTribe/HaidaPeaceLS.mp3</File>
+    <File md5="CE90B7729AC3B101A09CC16E6BCB0F2A" import="1">HaidaTribe/HaidaUnitAlphaAtlas.dds</File>
+    <File md5="FFDD754EAC689CC889ACCB40B25E12FE" import="1">HaidaTribe/HaidaWarLS.mp3</File>
+    <File md5="56A4485E16FFAE2F0C86A85C23B08D96" import="1">HaidaTribe/Haida_Leader_Scene_LS_Mod.xml</File>
+    <File md5="DB05AED3827753A4CA408121D2588534" import="1">HaidaTribe/HaidaLSTraitCode.lua</File>
+    <File md5="CC87ADFB5BA4A24ECDAE1BB383FC0313" import="0">HaidaTribe/HaidaLSArtDefine.sql</File>
+    <File md5="C2E8C12730BC6415258EC5EC899AEB54" import="1">HaidaTribe/LSSaveUtils.lua</File>
+    <File md5="34228984CCA6C3B1C737C10955710458" import="1">HaidaTribe/MapHaidaLSMod.dds</File>
+    <File md5="BC410AC84323DC3526D6E454E875826C" import="0">HaidaTribe/HaidaLSUnitCode.xml</File>
+    <File md5="FBFE23CFEB47CEC134AE159486BEC91B" import="1">HaidaTribe/HaidaActionLSAtlas45.dds</File>
+    <File md5="3FA21079D0F65A851E9F59E209B11474" import="1">HaidaTribe/HaidaActionLSAtlas64.dds</File>
+    <File md5="02CF097D7ECFBB6F16072905E292F6FF" import="1">HaidaTribe/SV_HaidaLS.dds</File>
+    <File md5="B0728BDA45C37CE174117D9741077555" import="1">Hetmanate/DiploHetmanLSMod.dds</File>
+    <File md5="71E968C2D8DA12C03B9964D4E6EF11F8" import="0">Hetmanate/Diplomacy.sql</File>
+    <File md5="7359562468AD4F8CCF28B8AE3B1106DD" import="1">Hetmanate/DoMHetmanateLSMod.dds</File>
+    <File md5="2BBFA62885F2E18CD4F05FBF698D290D" import="0">Hetmanate/Hetmanate Leader Mod.xml</File>
+    <File md5="6C01CB66A46CBC685F040A4162B0A71A" import="0">Hetmanate/Hetmanate Game Text Mod.xml</File>
+    <File md5="81F03AE3E3F55FA8704C8D435E5BA536" import="0">Hetmanate/Hetmanate Units Mod.xml</File>
+    <File md5="C6050164F95C5C956B83DA5F7D7EF48A" import="1">Hetmanate/HetmanateActionLSAtlas45.dds</File>
+    <File md5="B8FDE76D64DE1B0A2A54BA2F7A0E03D1" import="1">Hetmanate/HetmanateActionLSAtlas64.dds</File>
+    <File md5="B061F702689612598A2A83A72AEFB9A2" import="1">Hetmanate/HetmanatePeaceLS.mp3</File>
+    <File md5="5E0DAE77005BEA54A4D07FA21A1E4528" import="1">Hetmanate/HetmanateWarLS.mp3</File>
+    <File md5="BEDBD176E6A7F12EA55B0D718D854538" import="1">Hetmanate/Hetman_Leader_Scene_LS_Mod.xml</File>
+    <File md5="21F5F94458844462BF4959CB284B46EE" import="0">Hetmanate/Hetmanate Civ Mod.xml</File>
+    <File md5="4BC9F475B2D0F0FF1E9861606E9410B2" import="0">Hetmanate/HetmanateLSUnitCode.lua</File>
+    <File md5="A36082402B240AEC9940F07A7E08BE05" import="1">Hetmanate/HetmanateLSTraitCode.lua</File>
+    <File md5="0A5D86EB7211EE6A9A28F278DE867020" import="0">Hetmanate/HetmanateArtDefine.sql</File>
+    <File md5="BBBEBDF5825FD0380FAA917806B818AB" import="1">Hetmanate/MapHetmanateLSMod.dds</File>
+    <File md5="E783367BA86A18FD13F74476F64BD1BA" import="1">Hetmanate/HorsemanSaveUtils.lua</File>
+    <File md5="C7F7EB1AC022FD78BE961964E1DEA8C4" import="1">Hetmanate/Model/Streltsy_Black_Cap.fxsxml</File>
+    <File md5="2EA40BFD7AF7627BA793049E3B0664EF" import="1">Hetmanate/Model/Streltsy_Black_Cap.gr2</File>
+    <File md5="2A0C026D48E7B55EF93400E820392D8C" import="1">Hetmanate/Model/Streltsy_Black_Cap_diff.dds</File>
+    <File md5="B2041FDFB299244D9DD31124F3F1701C" import="1">Hetmanate/Model/Streltsy_Black_Coat.fxsxml</File>
+    <File md5="F31464953C3AD2EB192D4BF60435029F" import="1">Hetmanate/Model/Streltsy_Black_Coat.gr2</File>
+    <File md5="2B14CAE9265AACD4759DEB6AA1CB4467" import="1">Hetmanate/Model/Streltsy_black_coat_diff.dds</File>
+    <File md5="AFA7199461B4CD914AC53EA437E199B5" import="1">Hetmanate/Model/Streltsy_blue_cap.fxsxml</File>
+    <File md5="9D3EA09EE5F6BA57C68D0C52FFC47523" import="1">Hetmanate/Model/Streltsy_blue_cap.gr2</File>
+    <File md5="B7A044DA451A610B2814768D64E3C377" import="1">Hetmanate/Model/Streltsy_blue_cap_diff.dds</File>
+    <File md5="416295D24E7C6B9F0415BC44F9679628" import="1">Hetmanate/Model/Streltsy_sref.dds</File>
+    <File md5="3C26848A806DA6A94159AB91E72B8780" import="1">Hetmanate/SV_HetmanateCosLS.dds</File>
+    <File md5="94794A9E0B8C9959243F7729F728A4C6" import="1">Hetmanate/SV_HetmanateHetLS.dds</File>
+    <File md5="05A5F6088DABC417E4EC360592B2A9C0" import="1">Hetmanate/HetmanateUnitAlphaAtlas.dds</File>
+    <File md5="09A93DF0C7DFF0CF048D42EE8B1B1286" import="1">Hetmanate/HetmanateUnitAlphaAtlas2.dds</File>
+    <File md5="A4F4CCCC704F6D407764491D2F38ABE3" import="1">KhmerEmpire/DiploKhmerLSMod.dds</File>
+    <File md5="6E3975BC721E5168C9F07427E8B0268B" import="0">KhmerEmpire/Diplomacy.sql</File>
+    <File md5="9F9001BA83B2FC8B9E836185E49481B1" import="1">KhmerEmpire/DoMKhmerLSMod.dds</File>
+    <File md5="BC410AC84323DC3526D6E454E875826C" import="0">KhmerEmpire/KhmerLSUnitCode.xml</File>
+    <File md5="2B42073C6FBE59BD8C7847D76F1838AF" import="1">KhmerEmpire/KhmerLSBuildingCode.lua</File>
+    <File md5="D40E342A1E3197F642C8BDF9BB4D6B67" import="1">KhmerEmpire/KhmerLSTraitCode.lua</File>
+    <File md5="50CCD06759A2412A453385F5605C8453" import="0">KhmerEmpire/Khmer Building Mod.xml</File>
+    <File md5="8B9258775A1134873B0BAC8DA449F62F" import="0">KhmerEmpire/Khmer Civ Mod.xml</File>
+    <File md5="BA0E0525968CC71F827C1203604F6090" import="0">KhmerEmpire/Khmer Game Text Mod.xml</File>
+    <File md5="007F59452517F19791F6B7B425BE79B2" import="0">KhmerEmpire/Khmer Leader Mod.xml</File>
+    <File md5="29B639C28DDFD62A8BC4BEF80F40DC80" import="0">KhmerEmpire/KhmerLSUnitCode.lua</File>
+    <File md5="53CB6D8D2609DAA631010FF477C04201" import="0">KhmerEmpire/Khmer Units Mod.xml</File>
+    <File md5="C69FD24800FEAD167DF018A85A2E10FD" import="1">KhmerEmpire/KhmerPeaceLS.mp3</File>
+    <File md5="4EBF4F30B8D56B3859F49E614B4A2EF9" import="1">KhmerEmpire/KhmerUnitAlphaAtlas.dds</File>
+    <File md5="59A1F92262E50875089B96B2163D9292" import="1">KhmerEmpire/KhmerWarLS.mp3</File>
+    <File md5="92B8502F4BCE49F47394B7B92CC182BA" import="1">KhmerEmpire/Khmer_Leader_Scene_LS_Mod.xml</File>
+    <File md5="B82911809A8336365D8FFA48C0CB65B5" import="1">KhmerEmpire/MapKhmerLSMod.dds</File>
+    <File md5="E1DF56CBD8DDDF32A2BB1706F602E44C" import="0">KhmerEmpire/Model/KhmerMilitiaArtDefine.sql</File>
+    <File md5="AC41C06BA721315512F26433220FEDF7" import="1">KhmerEmpire/Model/no_gloss.dds</File>
+    <File md5="4B6165B8F8AC86B8BAF6A5278F4DBF5C" import="1">KhmerEmpire/Model/Scout_India.blend</File>
+    <File md5="8C60EDBD5ECA296589D18E122B7407A2" import="1">KhmerEmpire/Model/Scout_India.dds</File>
+    <File md5="9652078420105ADAFD8E3204D8E3F832" import="1">KhmerEmpire/Model/Scout_India.fxsxml</File>
+    <File md5="2002D65D9924DAF3D31CA6CD4D3E21D9" import="1">KhmerEmpire/Model/Scout_India.gr2</File>
+    <File md5="BD3251C69924EC2E3D330C2C301946D4" import="1">KhmerEmpire/SV_KhmerLS.dds</File>
+  </Files>
+  <Actions>
+    <OnModActivated>
+      <UpdateDatabase>Common/LS1 Atlas Mod.xml</UpdateDatabase>
+      <UpdateDatabase>KhmerEmpire/Khmer Building Mod.xml</UpdateDatabase>
+      <UpdateDatabase>KhmerEmpire/Khmer Civ Mod.xml</UpdateDatabase>
+      <UpdateDatabase>KhmerEmpire/Khmer Game Text Mod.xml</UpdateDatabase>
+      <UpdateDatabase>KhmerEmpire/Khmer Leader Mod.xml</UpdateDatabase>
+      <UpdateDatabase>KhmerEmpire/Khmer Units Mod.xml</UpdateDatabase>
+      <UpdateDatabase>HaidaTribe/Haida Building Mod.xml</UpdateDatabase>
+      <UpdateDatabase>HaidaTribe/Haida Civ Mod.xml</UpdateDatabase>
+      <UpdateDatabase>HaidaTribe/Haida Game Text Mod.xml</UpdateDatabase>
+      <UpdateDatabase>HaidaTribe/Haida Leader Mod.xml</UpdateDatabase>
+      <UpdateDatabase>HaidaTribe/Haida Units Mod.xml</UpdateDatabase>
+      <UpdateDatabase>Hetmanate/Hetmanate Civ Mod.xml</UpdateDatabase>
+      <UpdateDatabase>Hetmanate/Hetmanate Game Text Mod.xml</UpdateDatabase>
+      <UpdateDatabase>Hetmanate/Hetmanate Leader Mod.xml</UpdateDatabase>
+      <UpdateDatabase>Hetmanate/Hetmanate Units Mod.xml</UpdateDatabase>
+      <UpdateDatabase>KhmerEmpire/Model/KhmerMilitiaArtDefine.sql</UpdateDatabase>
+      <UpdateDatabase>Hetmanate/HetmanateArtDefine.sql</UpdateDatabase>
+      <UpdateDatabase>HaidaTribe/HaidaLSArtDefine.sql</UpdateDatabase>
+      <UpdateDatabase>HaidaTribe/Diplomacy.sql</UpdateDatabase>
+      <UpdateDatabase>Hetmanate/Diplomacy.sql</UpdateDatabase>
+      <UpdateDatabase>KhmerEmpire/Diplomacy.sql</UpdateDatabase>
+    </OnModActivated>
+  </Actions>
+  <EntryPoints>
+    <EntryPoint type="InGameUIAddin" file="HaidaTribe/HaidaLSUnitCode.lua">
+      <Name>Haida Trait</Name>
+      <Description>
+      </Description>
+    </EntryPoint>
+    <EntryPoint type="InGameUIAddin" file="KhmerEmpire/KhmerLSUnitCode.lua">
+      <Name>Khmer Trait</Name>
+      <Description>
+      </Description>
+    </EntryPoint>
+    <EntryPoint type="InGameUIAddin" file="Hetmanate/HetmanateLSUnitCode.lua">
+      <Name>Hetmanate Trait</Name>
+      <Description>
+      </Description>
+    </EntryPoint>
+  </EntryPoints>
+</Mod>

@@ -1,0 +1,130 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mod id="da8df993-1a8a-4696-88fb-f5414013275e" version="1">
+  <Properties>
+    <Name>[BNW] Colonialist Legacies - The Murri</Name>
+    <Stability>Alpha</Stability>
+    <Teaser>Adds the Murri peoples, led by the cunning Gambu Ganuurru, into the game!</Teaser>
+    <Description>Adds the Murri peoples, led by the cunning Gambu Ganuurru, into the game!</Description>
+    <Authors>senshidenshi, TPangolin</Authors>
+    <SpecialThanks>Neirai, calcul8or, Klisz, Slippery Snake</SpecialThanks>
+    <HideSetupGame>0</HideSetupGame>
+    <AffectsSavedGames>1</AffectsSavedGames>
+    <MinCompatibleSaveVersion>0</MinCompatibleSaveVersion>
+    <SupportsSinglePlayer>1</SupportsSinglePlayer>
+    <SupportsMultiplayer>1</SupportsMultiplayer>
+    <SupportsHotSeat>1</SupportsHotSeat>
+    <SupportsMac>1</SupportsMac>
+    <ReloadAudioSystem>1</ReloadAudioSystem>
+    <ReloadLandmarkSystem>0</ReloadLandmarkSystem>
+    <ReloadStrategicViewSystem>1</ReloadStrategicViewSystem>
+    <ReloadUnitSystem>1</ReloadUnitSystem>
+  </Properties>
+  <Dependencies />
+  <References>
+    <Mod id="31a31d1c-b9d7-45e1-842c-23232d66cd47" minversion="0" maxversion="999" title="JFD's Cultural Diversity (Core)" />
+    <Mod id="eea66053-7579-481a-bb8d-2f3959b59974" minversion="0" maxversion="999" title="JFD’s Piety" />
+    <Mod id="d99bf7aa-51ac-4bef-bd88-d765b28e260e" minversion="0" maxversion="999" title="JFD’s Sovereignty" />
+    <Mod id="1f941088-b185-4159-865c-472df81247b2" minversion="0" maxversion="999" title="Sukritact’s Events &amp; Decisions" />
+    <Mod id="36e88483-48fe-4545-b85f-bafc50dde315" minversion="0" maxversion="999" title="Yet (not) Another Earth Map Pack" />
+    <Mod id="e576894a-ed2b-4033-be14-ed1c8ceb81d3" minversion="0" maxversion="999" title="Map Labels" />
+    <Mod id="7fdd72a5-d4ae-441c-bc4e-2e3d2a26cff4" minversion="0" maxversion="999" title="Ethnic Units" />
+    <Mod id="8670da15-d435-44ea-9758-7438cb321411" minversion="0" maxversion="999" title="R.E.D. Modpack" />
+    <Mod id="1153b26a-69fd-4cd5-899c-a8ba8e0e5e5d" minversion="0" maxversion="999" title="Civ IV Leader Traits in Civ V" />
+    <Mod id="6676902b-b907-45f1-8db5-32dcb2135eee" minversion="0" maxversion="999" title="JFD's Exploration Continued Expanded" />
+    <Mod id="a19351c5-c0b3-4b07-8695-4affaa199949" minversion="0" maxversion="999" title="JFD’s and Pouakai’s Mercenaries" />
+    <Mod id="10e9728f-d61c-4317-be4f-7d52d6bae6f4" minversion="0" maxversion="999" title="JFD’s Claims, Colonies, and Crimes" />
+  </References>
+  <Blocks />
+  <Files>
+    <File md5="677EBFF291E5205CB98977BC73567510" import="1">Art/MurriDoM.dds</File>
+    <File md5="85BF713F4C5BDF74C2A3993D2BF52411" import="1">Art/Icons/AlphaCLMurriIcon128.dds</File>
+    <File md5="0F45EBC65052D214288C43568D1E30D7" import="1">Art/Icons/AlphaCLMurriIcon16.dds</File>
+    <File md5="1E28DD4ED86B7CC11412C7504A0988BD" import="1">Art/Icons/AlphaCLMurriIcon24.dds</File>
+    <File md5="57CEBB43FB0B74D78D2650AF56FC07F8" import="1">Art/Icons/AlphaCLMurriIcon32.dds</File>
+    <File md5="4E916EE3604F926FE525AAA86C5A17E8" import="1">Art/Icons/AlphaCLMurriIcon45.dds</File>
+    <File md5="10C19AD8A2DB020ECCED59540CE67AA0" import="1">Art/Icons/AlphaCLMurriIcon48.dds</File>
+    <File md5="D72F27F09D846A360EDD9C8949389825" import="1">Art/Icons/AlphaCLMurriIcon64.dds</File>
+    <File md5="DEE8B69C9E07CD34150E312F22115DAC" import="1">Art/Icons/AlphaCLMurriIcon80.dds</File>
+    <File md5="E5CFAD9D73D45F2459E9811FABB911EC" import="1">Art/Icons/CLMarbullFlag.dds</File>
+    <File md5="4F0639BBE4F255F00530847275E2F253" import="1">Art/Icons/CLMurriIcons128.dds</File>
+    <File md5="C6968EA7858AAD8410785D16A3FDBCA5" import="1">Art/Icons/CLMurriIcons256.dds</File>
+    <File md5="840ED9F9718D3A712A27A9F3B27DCD12" import="1">Art/Icons/CLMurriIcons32.dds</File>
+    <File md5="A848CBC2B0AE87B341B95C2F89131557" import="1">Art/Icons/CLMurriIcons45.dds</File>
+    <File md5="1C200A501ABDF9EC6B705E674C68F944" import="1">Art/Icons/CLMurriIcons64.dds</File>
+    <File md5="D8DC75A95BEC4B9C67D48C74492B4899" import="1">Art/Icons/CLMurriIcons80.dds</File>
+    <File md5="26A20353D1546B7C1264C64ACB18C592" import="1">Art/Icons/SV_CLMarbull.dds</File>
+    <File md5="A6766399FC6291C6FA1A7D5C1A9242B7" import="1">Art/MurriLeaderscreen.dds</File>
+    <File md5="6EDBA1B48D9E89CD8C02EAE4FBDB96B2" import="1">Art/Marbull/Sahu_scout.fxsxml</File>
+    <File md5="2E9CF6A99ADA108DBF5EC6B905F02E41" import="1">Art/Marbull/Sahu_scout.gr2</File>
+    <File md5="231A6F8B92F207E4CE56C8E23B14543B" import="1">Art/Marbull/SAHU_scout_128.dds</File>
+    <File md5="D3D41EECCDD8D065BAAFBA54FB541E77" import="1">Art/Marbull/SAHU_scout_128_serf.dds</File>
+    <File md5="0682DF7D289F97FE02A7FC337B3797EE" import="1">Art/Marbull/Sahu_WARRIOR.fxsxml</File>
+    <File md5="88E0BC400FD5E94E6F0319EF61B9C344" import="1">Art/Marbull/Sahu_WARRIOR.gr2</File>
+    <File md5="39762ADB120F72952CE3825DBB4BE2DD" import="0">Art/Marbull/SahulScout.xml</File>
+    <File md5="B5D83A7929960D95DD0381C07C119376" import="1">Art/MURRIMAP.dds</File>
+    <File md5="19C8C4BECAA2EC2E33DDE178AB3CDF50" import="1">Art/Sound/MurriPeace.mp3</File>
+    <File md5="E8C8276BE4B8D3A3E06933B68BC77CE8" import="1">Art/Sound/MurriWar.mp3</File>
+    <File md5="691B63A476A9F463AEB307DE143506BC" import="0">Art/Sound/SoundRig.xml</File>
+    <File md5="6E815D91F8E276A87BCC9DADAD456E0F" import="0">Core/DiplomacyResponses.xml</File>
+    <File md5="5B47F450BB6556F99F9B06334FA375F4" import="1">Core/Ganuurru_Scene.xml</File>
+    <File md5="3853C577E526E1EDCB78F877781151D4" import="0">Core/Civilizations.sql</File>
+    <File md5="7C2C9292EF69DAB84D4EC077ED358FEE" import="0">Core/GameText.xml</File>
+    <File md5="C5DA9185B5BA0D833A4C20C51AA0A313" import="0">Core/IconAtlas.sql</File>
+    <File md5="ED8ABF76B721E0AD74A031F731A5A3AA" import="0">Core/Leaderhead.sql</File>
+    <File md5="4887361ED5A752F43F44B4C659F8CCE2" import="0">Core/Humpy.sql</File>
+    <File md5="3C76CDFB47EE6F70D41F290B9E231935" import="0">Core/PlayerColours.sql</File>
+    <File md5="B11D0684E8CA47A4BB560281BF0286BE" import="0">Core/Promotions.xml</File>
+    <File md5="C65AAA0C7131A002CA12AEEED9441AA0" import="0">Core/Traits.sql</File>
+    <File md5="E0B1C14545CF29E5CBF9EF32ACB2901F" import="0">Core/Marbull.sql</File>
+    <File md5="482BCDAF13B7C8A0B9FDF5B8F6F77767" import="0">Lua/BonYi.lua</File>
+    <File md5="0684F83ED058691A6AE38BE3F2C27408" import="0">Lua/BonYiBldg.xml</File>
+    <File md5="8A5FC22EB73A2C2106DE16D1A3E98AF2" import="1">Lua/BonYi_SaveUtils.lua</File>
+    <File md5="A352FC7410DBCC757430FA60942C2642" import="0">Lua/Humpy.lua</File>
+    <File md5="77FBE8B51DA810D8CAFEE8996CE5AE9C" import="0">Lua/LastMinuteMarbull.lua</File>
+    <File md5="B196BD85BCCCE7D0E890B3FEE1DF596F" import="0">Lua/LuaDummies.xml</File>
+    <File md5="CE4D98D0AC76E74A5897A736BB5907B5" import="0">Lua/Marbull.lua</File>
+    <File md5="1A84374C905D3FD5281D77C06C571815" import="0">Support/Decisions.sql</File>
+    <File md5="66588C3840E22E261E8A744B8474F36B" import="0">Support/GameText_ModSupport.xml</File>
+    <File md5="ABC822EF6CBB9C278C60E3D423374B51" import="0">Support/ModSupport.sql</File>
+    <File md5="FC1258E9D22D24E33155DEC16DD39A66" import="1">Support/MurriDecisions.lua</File>
+  </Files>
+  <Actions>
+    <OnModActivated>
+      <UpdateDatabase>Art/Marbull/SahulScout.xml</UpdateDatabase>
+      <UpdateDatabase>Core/IconAtlas.sql</UpdateDatabase>
+      <UpdateDatabase>Core/PlayerColours.sql</UpdateDatabase>
+      <UpdateDatabase>Lua/LuaDummies.xml</UpdateDatabase>
+      <UpdateDatabase>Lua/BonYiBldg.xml</UpdateDatabase>
+      <UpdateDatabase>Core/Promotions.xml</UpdateDatabase>
+      <UpdateDatabase>Core/GameText.xml</UpdateDatabase>
+      <UpdateDatabase>Core/Humpy.sql</UpdateDatabase>
+      <UpdateDatabase>Core/Marbull.sql</UpdateDatabase>
+      <UpdateDatabase>Core/Traits.sql</UpdateDatabase>
+      <UpdateDatabase>Core/Leaderhead.sql</UpdateDatabase>
+      <UpdateDatabase>Core/Civilizations.sql</UpdateDatabase>
+      <UpdateDatabase>Support/ModSupport.sql</UpdateDatabase>
+      <UpdateDatabase>Support/GameText_ModSupport.xml</UpdateDatabase>
+      <UpdateDatabase>Core/DiplomacyResponses.xml</UpdateDatabase>
+      <UpdateDatabase>Art/Sound/SoundRig.xml</UpdateDatabase>
+      <UpdateDatabase>Support/Decisions.sql</UpdateDatabase>
+    </OnModActivated>
+  </Actions>
+  <EntryPoints>
+    <EntryPoint type="InGameUIAddin" file="Lua/Humpy.lua">
+      <Name>Humpy Lua</Name>
+      <Description>Get your mind out of the gutter</Description>
+    </EntryPoint>
+    <EntryPoint type="InGameUIAddin" file="Lua/Marbull.lua">
+      <Name>Marbull Lua</Name>
+      <Description>Gives you wings... assuming you're on a road tile.</Description>
+    </EntryPoint>
+    <EntryPoint type="InGameUIAddin" file="Lua/BonYi.lua">
+      <Name>Bon Yi Lua</Name>
+      <Description>No relation to Admiral Yi. NO I'M NOT CHANGING SEONJO</Description>
+    </EntryPoint>
+    <EntryPoint type="InGameUIAddin" file="Lua/LastMinuteMarbull.lua">
+      <Name>Last Minute Marbull Addition</Name>
+      <Description>Name says it all, baby! ;)</Description>
+    </EntryPoint>
+  </EntryPoints>
+</Mod>

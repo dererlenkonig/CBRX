@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 2/18/2013 10:25:28 PM -->
+<GameData>
+	<Traits>
+		<Row>
+			<Type>TRAIT_NOMADIC_PASTORALISTS</Type>
+			<Description>TXT_KEY_TRAIT_NOMADIC_PASTORALISTS</Description>
+			<ShortDescription>TXT_KEY_TRAIT_NOMADIC_PASTORALISTS_SHORT</ShortDescription>
+		</Row>
+	</Traits>
+</GameData>

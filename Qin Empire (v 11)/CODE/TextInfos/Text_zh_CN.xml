@@ -1,0 +1,279 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<Language_zh_CN>
+	<!-- QIN tags -->
+		<Row Tag="TXT_KEY_X_TRAIT_UNITY_SHORT">
+			<Text>扫六合</Text>
+		</Row>
+		<Row Tag="TXT_KEY_X_TRAIT_UNITY">
+			<Text>占领一国[ICON_CAPITAL]首都之后，建有对应默认建筑的城市将获得该文明特色建筑，对应的默认单位可转变为该文明特色单位。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_X_CIV5_DAWN_QIN_TEXT">
+			<Text>二十八年 皇帝作始 端平法度 万物之纪[NEWLINE]以明人事 合同父子 圣智仁义 显白道理[NEWLINE]东抚东土 以省卒士 事已大毕 乃临于海[NEWLINE]皇帝之功 勤劳本事 上农除末 黔首是富[NEWLINE]普天之下 抟心揖志 器械一量 同书文字[NEWLINE]日月所照 舟舆所载 皆终其命 莫不得意[NEWLINE]应时动事 是维皇帝 匡饬异俗 陵水经地[NEWLINE]忧恤黔首 朝夕不懈 除疑定法 咸知所辟[NEWLINE]方伯分职 诸治经易 举错必当 莫不如画[NEWLINE]皇帝之明 临察四方 尊卑贵贱 不逾次行[NEWLINE]奸邪不容 皆务贞良 细大尽力 莫敢怠荒[NEWLINE]远迩辟隐 专务肃庄 端直敦忠 事业有常[NEWLINE]皇帝之德 存定四极 诛乱除害 兴利致福[NEWLINE]节事以时 诸产繁殖 黔首安宁 不用兵革[NEWLINE]六亲相保 终无寇贼 驩欣奉教 尽知法式[NEWLINE]六合之内 皇帝之土 西涉流沙 南尽北户[NEWLINE]东有东海 北过大夏 人迹所至 无不臣者[NEWLINE]功盖五帝 泽及牛马 莫不受德 各安其宇[NEWLINE]世世永昌 千秋万岁 世世永昌 千秋万岁</Text>
+		</Row>
+		
+	<!-- QIN Civilization tags -->
+		<Row Tag="TXT_KEY_CIV_QIN_DESC">
+			<Text>大秦帝国</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_QIN_SHORT_DESC">
+			<Text>大秦</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_QIN_ADJECTIVE">
+			<Text>秦</Text>
+		</Row>
+		
+	<!-- Ying Zheng tags -->
+		<Row Tag="TXT_KEY_X_LEADER_YINGZHENG">
+			<Text>嬴政</Text>
+		</Row>
+		<Row Tag="TXT_KEY_X_CIVILOPEDIA_LEADER_YINGZHENG">
+			<Text>秦皇</Text>
+		</Row>
+		<Row Tag="TXT_KEY_X_LEADER_YINGZHENG_PEDIA">
+			<Text>秦始皇（前259年—前210年），嬴姓，赵氏，名政。秦庄襄王之子。出生于赵国都城邯郸，十三岁继承王位，三十九岁称皇帝，在位三十七年。中国历史上著名的政治家、战略家、改革家，首位完成华夏大一统的铁腕政治人物。建立首个多民族的中央集权国家，曾采用三皇之“皇”、五帝之“帝”构成“皇帝”的称号，是古今中外第一个称皇帝的封建王朝君主。[NEWLINE][NEWLINE]秦始皇在中央创建皇帝制度，实行三公九卿，管理国家大事。地方上废除分封制，代以郡县制，同时书同文，车同轨，统一度量衡。对外北击匈奴，南征百越，修筑万里长城，修筑灵渠，沟通水系。还把中国推向大一统时代，为建立专制主义中央集权制度开创新局面。对中国和世界历史产生深远影响，奠定中国两千余年政治制度基本格局，他被明代思想家李贽誉为“千古一帝”。</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_X_CIVILOPEDIA_LEADER_YINGZHENG_NAME">
+			<Text>嬴政</Text>
+		</Row>
+		<Row Tag="TXT_KEY_X_CIVILOPEDIA_LEADER_YINGZHENG_TITLES_1">
+			<Text>始皇帝</Text>
+		</Row>
+		<Row Tag="TXT_KEY_X_CIVILOPEDIA_LEADER_YINGZHENG_SUBTITLE">
+			<Text>秦始皇</Text>
+		</Row>
+		<Row Tag="TXT_KEY_X_CIVILOPEDIA_LEADER_YINGZHENG_LIVED">
+			<Text>公元前 260 - 210</Text>
+		</Row>
+		<Row Tag="TXT_KEY_X_CIVILOPEDIA_LEADER_YINGZHENG_TEXT_1">
+			<Text>秦始皇帝，讳政，庄襄王子也，母赵姬，昭襄王四十八年生。传為吕不韦子，盖《太史公书》载赵姬本不韦姬，庄襄取时已有身。[NEWLINE][NEWLINE]庄襄王三年，王卒，政立，时年十三。王少，相国吕不韦专国政，与太后乱后宫，见王渐长，恐遭祸，故以嫪毐假宦者献太后，生二子。毐以王父自居，封长信侯，领山阳、太原诸地，自敛党羽，营雍，势日彊。[NEWLINE][NEWLINE]九年，王冠於蔪年宫，嫪毐畔，攻蔪年宫。王早陈精兵三千败之。復攻咸阳宫，亦北，自亡走，為王所擒，车裂而死，曝尸示万里。禁太后於雍萯阳宫。放吕不韦巴蜀。[NEWLINE][NEWLINE]十七年，使内史腾将十万军渡河攻韩，陷新郑，虏韩王安，置潁川郡，韩亡。[NEWLINE][NEWLINE]十九年，王翦拔赵，放赵幽繆王河南房陵，子嘉自立為代王。翌年，燕太子丹以赵既没，燕见危，遣荆軻入秦刺王，不果。[NEWLINE][NEWLINE]廿二年，使翦子賁攻魏，引河灌大梁，城隳，魏王假降，魏亡。[NEWLINE][NEWLINE]廿三年，王翦将兵六十万大破楚，逐至蔪南，杀项燕。廿四年復击楚，虏楚王负芻。楚王弟昌平君立於兰陵，蒙武攻之，昌平君中流箭死，楚亡。[NEWLINE][NEWLINE]廿五年，使王賁伐燕，陷蓟，逐燕王喜至辽东，虏之，燕亡。转而攻代，虏代王嘉，赵祀亦终。[NEWLINE][NEWLINE]廿六年，使賁南下攻齐，虏齐王建，齐亡，一统天下。[NEWLINE][NEWLINE]王以為功高三皇，德高五帝，乃上尊号為皇帝，自号始皇帝。废諡法，传之称二世、三世，乃至万世。废封建、行郡县、收兵器、夷险阻、筑道路。詔废六国文字，专用秦篆，使书同文，壹法度衡石丈尺，车同轨。开华夏一统之局。[NEWLINE][NEWLINE]卅三年，蒙恬北击匈奴七百里，收河南，屯上郡。连秦燕赵长城，东竟海。南收百越，置四郡。[NEWLINE][NEWLINE]始皇帝尝遣徐福并童男童女三千东入海求仙，不归。[NEWLINE][NEWLINE]卅四年，俶燔儒典、坑术士。[NEWLINE][NEWLINE]卅七年，东巡至沙丘崩，葬丽山。胡亥矫詔自立，赐死扶苏及诸兄弟。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_X_CIVILOPEDIA_LEADER_YINGZHENG_HEADING_1">
+			<Text>生平总结</Text>
+		</Row>
+		
+	<!-- Qin CityNames tags -->
+		<Row Tag="TXT_KEY_CITY_NAME_X_XIANYANG">
+			<Text>咸阳</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_X_JIANGZHOU">
+			<Text>江州</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_X_NANZHENG">
+			<Text>南郑</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_X_CHENGDU">
+			<Text>成都</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_X_ANYI">
+			<Text>安邑</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_X_DIDAO">
+			<Text>狄道</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_X_YIQU">
+			<Text>义渠</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_X_JIANGLING">
+			<Text>江陵</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_X_WANXIAN">
+			<Text>宛县</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_X_CHANGZI">
+			<Text>长子</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_X_LUOYANG">
+			<Text>洛阳</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_X_JINYANG">
+			<Text>晋阳</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_X_PUYANG">
+			<Text>濮阳</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_X_YUNZHONG">
+			<Text>云中</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_X_SHANWU">
+			<Text>善无</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_X_YANGDI">
+			<Text>阳翟</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_X_HANDAN">
+			<Text>邯郸</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_X_JULU">
+			<Text>巨鹿</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_X_JUYANG">
+			<Text>沮阳</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_X_YUYANG">
+			<Text>渔阳</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_X_WUZHONG">
+			<Text>无终</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_X_YANGYUE">
+			<Text>阳乐</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_X_SUIYANG">
+			<Text>睢阳</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_X_XIANGXIAN">
+			<Text>相县</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_X_LUXIAN">
+			<Text>鲁县</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_X_SHOUCHUN">
+			<Text>寿春</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_X_XIANGPING">
+			<Text>襄平</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_X_DAIXIAN">
+			<Text>代县</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_X_WUXIAN">
+			<Text>吴县</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_X_LINXIANG">
+			<Text>湘县</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_X_LINZI">
+			<Text>临淄</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_X_LANGYA">
+			<Text>琅琊</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_X_LINYUAN">
+			<Text>临沅</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_X_JIXIAN">
+			<Text>蓟县</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_X_CHENXIAN">
+			<Text>陈县</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_X_DONGYE">
+			<Text>东冶</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_X_PANYU">
+			<Text>番禹</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_X_GUILIN">
+			<Text>桂林</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_X_LINCHEN">
+			<Text>临尘</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_X_JIUYUAN">
+			<Text>九原</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_X_TANXIAN">
+			<Text>郯县</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_X_DONGYUAN">
+			<Text>东垣</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_X_BOYANG">
+			<Text>博阳</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_X_JIMO">
+			<Text>即墨</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_X_HUAIXIAN">
+			<Text>怀县</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_X_ZHUXIAN">
+			<Text>邾县</Text>
+		</Row>
+		
+	<!-- Unit tags -->
+		<Row Tag="TXT_KEY_X_UNIT_QINNU">
+			<Text>秦弩</Text>
+		</Row>
+		<Row Tag="TXT_KEY_X_UNIT_QINNU_HELP">
+			<Text>秦弩替代复合弓，其声势威响如怒，所发箭矢速度数倍于弓。附带后勤补给晋升且对城市进行攻击时有加成，但是在攻击前需要准备。只有大秦能够建造。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_X_CIV5_QINNU_HEADING">
+			<Text>秦弩</Text>
+		</Row>
+		<Row Tag="TXT_KEY_X_CIV5_QINNU_TEXT">
+			<Text>中国秦朝的弩兵，其声势威响如怒，飞行速度数倍于弓，战力非常强大!弩是一种源于弓而不同于弓的远射武器。考古发现的青铜弩机晚至战国时期，显然把弩的发明权归于黄帝是不可靠的。弩大约在春秋战国之际开始逐渐登上战争舞台。秦弩基本上都是蹶张弓，也就是脚踏弓于，臂拉腰拽，以全身之力上弦，所以号的发射速度远不如弓。但发射出的箭族威力极大。飞行速度几倍于弓。所以弩机发射时，箭镞刺破空气，弓弦回弹与空气剧烈的摩擦，发出尖锐的呼啸声。著名的文物考古专家孙机先生指出：世界上最早将弩装备正规军，并使之在战场上发挥重要作用的国家是中国。史记记载，历史上著名的齐魏马陵之战，首次显示了弩这一新式武器的巨大威力，同时也反映了齐军中广泛使用弩的事实。中原地区的韩国则是制造名弩的国家。天下强弓劲弩皆自韩出。还有魏国的军队，虽说经常吃败仗，但步兵的装备并不差。操十二石之弩，负矢五十个(荀子 议兵)。地处西部的秦军也是强弩在前，锬戈在后。足见战国时期各诸侯国的军队都装备了强弩。秦代弩的种类得到了长足的发展，秦俑坑发现的弩弓遗迹多达数百处。从完整的弩弓遗迹判断至少应有三种不同形制的弩，弩弓为木质均已腐朽，朽木残长130至140厘米，弩臂也已腐朽，末端安有青铜弩机，弩机通高16。5厘米，望山高5。5厘米。这是秦俑坑发现数量较多的一种弩。同时在一号俑坑还发现一种形制特殊的弩，它是在残长64厘米的弩臂上重叠了一根木条，在弩臂上还夹有铜饰件。显然这些装置都是为了增强弩臂的承受强度，说明它是一种张力更强，射程更远的劲弩。在二号俑坑还发现一处特大型号的铜镞，每支重量达100克。较其它铜镞一倍。这不仅是秦俑坑也是兵器史上发现型号最大的铜镞。使用这种铜镞的必然是一种张力更大，杀伤力更强的弩。弩出土时装在用麻布制作的弩衣内，木质部分虽已腐朽，但青铜弩机出土后仍然活动自如，表明秦代弩机的制作工艺达到相当高的水平。汉代的弩发展到了一个新的水平，可谓弓弩发展史上的鼎盛时期。著名大将军李广以汉大黄参连弩，射匈奴左贤王数人(史记。李广传)。大黄参连弩乃西汉最最著名的劲弩，它可能是在秦朝连弩的基础上制成的，而军中只有像李广这样的大将军才有资格使用，表明这种弩在当时并不多见。大黄弩，大黄具弩，大黄力十石弩均见于居延汉简。这几种弩也是仅次于大黄参连弩的强弩。军种常见的弩则有具弩二石具弩，三石具弩，五石具弩，六石具弩，八石具弩和十石具弩，足见汉弩种类多达十余种。据孙机先生考证石作为计算强度的单位，引满一石之弩，需相当于1石(约30公斤)重物之力。三石弩约射189米，四石弩射252米，以此类推十石弩的射程可达600米以上。那么大黄参连弩的射程就会更远。也正是由于汉弩射程的增大，在射击技术上又发明了用脚踏弩而张之的蹶张技术。汉代弩机的望山又发明了刻度，它的作用如同近代步枪上的标尺，射者可据此控制镞端的高低，找出适宜的发射角，以便准确命中目标。这样以来便大大提出了弩的命中率与杀伤力。到宋朝时中国弩达到了巅峰，以后至明代便逐渐地退出战争舞台。中国的弩与西方弩的构造上有所区别，据孙机先生的考证：欧洲弩与中国弩的主要区别有二：一，自14世纪开始，欧洲用铜片制作弩弓，而中国不曾用金属制作弩弓。二，14世纪末，欧洲又出现了张弦用的曲柄卷绕器，以后还采用杠杆和齿轮等装置开弓的，但欧洲强弩的射程一般只有360米左右，仅相当于汉代的六石弩。单弓床弩在古希腊时已经发明，12世纪时又得到应用。16世纪时的三弓床弩，弓弦分为两段系在活塞状发射栓的两侧，由1至2人绞轴张弦，可发射弹丸和长箭。从绞轴人数看，其威力无疑比宋代以百人绞轴的床弩为小。至于连弩，西方在中世纪不曾有过这种兵器。足见中国弩的结构和射程都显示了它的特点。</Text>
+		</Row>
+		
+		<Row Tag="TXT_KEY_X_UNIT_RUISHI">
+			<Text>锐士</Text>
+		</Row>
+		<Row Tag="TXT_KEY_X_UNIT_RUISHI_HELP">
+			<Text>锐士是大秦自商鞅变法以后采取的军事制度。秦军的士兵实施耕战方式，在某些情况下可代替工人进行设施改造。替代骑手。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_X_CIV5_RUISHI_HEADING">
+			<Text>秦锐士</Text>
+		</Row>
+		<Row Tag="TXT_KEY_X_CIV5_RUISHI_TEXT">
+			<Text>秦锐士是大秦从战国中后期直至建立统一王朝时期所采取的军事制度。该项军制是由战国时期著名的政治家商鞅在进行变法过程中所创立的。秦也依靠商鞅变法由弱转强，历经多次战争而击败各国，完成中国统一。[NEWLINE][NEWLINE]秦朝的军事制度是在秦国商鞅变法的基础上发展起来的。秦始皇兼任太尉以掌控军权。平时太尉掌握全国兵事，战时则另置将军，作为军队的最高统帅。将军有上、前、后、左、右将军之分，其下有裨将、都尉与司马等。还有监军以监督出征军队。战争结束后，军队交还国家。[NEWLINE][NEWLINE]秦朝采取征兵制，主要是全国男丁，一半务农，一半当兵。自二十三岁开始服役。先在所属郡县服役一月，即“更卒”；再赴首都任戍卫一年，即“正卒”；最后屯边一年，即“戍卒”。秦朝建立前夕，约有军队五十万人。然而统一后兵力反而扩充，例如北驻五原与南戍南越即调动九十万，修筑阿房宫与骊山秦始皇陵又动员七十万人。因兵员滥用而不足，又动员商人、罪犯、赘婿与闾左（贫弱的人）为兵，战斗力也大为稀释。到秦末农民战争就有兵力不足与素质不齐的问题。[NEWLINE][NEWLINE]秦朝的军队组织，可分为正卒（京师兵）、更卒（地方兵）和戍卒（边兵）三部分。京师兵由郎官、卫士和正卒组成。郎官由郎中令统领，卫士由卫尉统领，负责宫廷内外的警卫。负责守卫京城的屯兵由中尉统领。地方兵置于郡、县，一般由郡尉、县尉协助郡守或县令统率，平时维持地方治安，战时听需以皇帝“虎符”为凭才能征调。边兵主要负责边郡戍守，由边郡郡守统领，下辖都尉和部都尉。军种分为轻车（车兵）、材官（步兵）、骑士（骑兵）、楼船（水兵）四个基本兵种。大抵平原诸郡多编练骑土、轻车，山地诸郡多编练材官，沿江、海诸郡多编练楼船。秦军以步兵为主，骑兵、车兵为辅。车兵虽已不是军队的主体，战斗时远则以弩箭射击，近则以矛钺格斗。步兵是秦代军队构成中的主体，分有重装步兵和轻装步兵两种。骑兵方面，用于北击匈奴和镇压农民起义的战争。楼船士主要分布在巴蜀地区，而后扩展到江南，在南征南越时被用于支援步兵。[NEWLINE][NEWLINE]秦朝军制的一个特色是商鞅制定的二十等爵制度，共二十等。军士要凭斩杀敌人首级而升爵，但这应该限于低阶爵位。升爵一等者，有罪可以减免，五十六岁退役。无爵者称为“士伍”，六十岁才能退役。最高为彻侯，可有食邑，大者食县、小者食乡、亭。由于这个制度，使得秦人善战，被称为“首功之国”。[NEWLINE][NEWLINE]秦军的武器装备大多采用铜器，直到秦朝建立后，获得六国大量铁兵器，以及中原冶铁技术，才完全以铁器为主。秦军的远射武器十分先进，不论步兵、骑兵或车兵，都装备有大量的弓、弩、箭。其箭大多采用飞行稳定、准度高的三出刃簇。还有一种特大的簇，专门用于强弩。秦军的近战武器大多以铜器为主，有长柄的戈、矛、戟、铍，短柄的弯刀和剑，还有某些过了时的镖、殳、钺等等。秦式铜剑不仅长，而且很锋利。一些剑出土时毫无锈蚀，光洁如新，锋刃锐利。经试验，一次尚能划透18层纸。秦剑多数为双手使用，少数剑茎较短者可能是单手剑。秦军的铠甲己经制式化，均用金属制成，式样因兵种及职位不同而有所区别。</Text>
+		</Row>
+		
+	<!-- UnitPromotion - Compatibility - tags -->
+		<Row Tag="TXT_KEY_PROMOTION_QINNU_SP">
+			<Text>秦弩（*）</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_QINNU_SP_HELP">
+			<Text>如果你加载了《真实世界 - SP 核心整合版》组模，由于兼容性秦弩将会获得该晋升！</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_RUISHI_SP">
+			<Text>锐士（*）</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_RUISHI_SP_HELP">
+			<Text>如果你加载了《真实世界 - SP 核心整合版》组模，由于兼容性锐士将会获得该晋升！</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_KNIGHT_COMBAT_QIN">
+			<Text>锐士（兼容）</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_KNIGHT_COMBAT_QIN_HELP">
+			<Text>该晋升仅为兼容性存在，无实际效果!</Text>
+		</Row>
+		
+	<!-- QinUCC Notification -->
+		<Row Tag="TXT_KEY_NOTIFICATION_QIN_SEIZED_CIVILIZATION">
+			<Text>夺取[COLOR_POSITIVE_TEXT]{1_CivName}[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NOTIFICATION_QIN_LOST_CIVILIZATION">
+			<Text>失去[COLOR_POSITIVE_TEXT]{1_CivName}[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NOTIFICATION_QIN_CONQUEROR_CIVILIZATION_TEXT">
+			<Text>[NEWLINE][NEWLINE]一旦控制该地区或者与控制该地区的城邦结盟，首都建有相应建筑后将可获得该文明的特色建筑，所训练的相应单位将可转变为该文明特色单位，工人可在有效地块上将区域设施改造为该文明的特有设施！</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NOTIFICATION_QIN_SEIZED_CIVILIZATION_TEXT">
+			<Text>[COLOR_POSITIVE_TEXT]{2_LeaderName}[ENDCOLOR]夺取了对[COLOR_POSITIVE_TEXT]{1_CivName}[ENDCOLOR]的控制权！</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NOTIFICATION_QIN_LOST_CIVILIZATION_TEXT">
+			<Text>[COLOR_NEGATIVE_TEXT]{2_LeaderName}[ENDCOLOR]失去了对[COLOR_NEGATIVE_TEXT]{1_CivName}[ENDCOLOR]的控制权！</Text>
+		</Row>
+		
+	<!-- QinTrait - DU can Convert into UU -->
+		<Row Tag="TXT_KEY_QIN_UNIT_CONVERT">
+			<Text>转化为{1_Unit}</Text>
+		</Row>
+		<Row Tag="TXT_KEY_QIN_UNIT_CONVERT_TT">
+			<Text>将该单位转化为{1_Unit}。[NEWLINE]你只有在[COLOR_POSITIVE_TEXT]友方区域[ENDCOLOR]才能执行该命令。[NEWLINE][NEWLINE]注意：[NEWLINE]完成转化后，该单位将失去所有已获得的[COLOR_NEGATIVE_TEXT]经验、晋升以及移动力[ENDCOLOR]。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_QIN_UNIT_CONVERT_RELIGION_TT">
+			<Text>将该单位转化为{1_Unit}。[NEWLINE]你只有在[COLOR_POSITIVE_TEXT]友方区域（属于有主流宗教的城市）并且尚未传教[ENDCOLOR]才能执行该命令。[NEWLINE][NEWLINE]注意：[NEWLINE]完成转化后，该单位将失去所有[COLOR_NEGATIVE_TEXT]移动力[ENDCOLOR]。</Text>
+		</Row>
+		
+	<!-- QinTrait - DI Converted into UI TT -->
+		<Row Tag="TXT_KEY_QIN_UI_TT">
+			<Text>工人会将该地块上的区域设施转变为[COLOR_POSITIVE_TEXT]{1_Improvement}[ENDCOLOR]。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_QIN_UI_DISABLED_TT">
+			<Text>[COLOR_NEGATIVE_TEXT]该地块必须先有一个区域设施！[ENDCOLOR]工人需要有区域设施才能将其转变为[COLOR_POSITIVE_TEXT]{1_Improvement}[ENDCOLOR]。</Text>
+		</Row>
+	</Language_zh_CN>
+</GameData>

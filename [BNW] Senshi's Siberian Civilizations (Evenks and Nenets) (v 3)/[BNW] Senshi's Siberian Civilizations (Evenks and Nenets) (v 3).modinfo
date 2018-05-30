@@ -1,0 +1,254 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mod id="198cb451-71cc-419f-a3e0-f521cb579755" version="3">
+  <Properties>
+    <Name>[BNW] Senshi's Siberian Civilizations (Evenks and Nenets)</Name>
+    <Stability>Alpha</Stability>
+    <Teaser>Adds two native Siberian peoples into the game: The Evenks and Nenets, ruled by Bombogor and Vavlyo, respectively!</Teaser>
+    <Description>Adds two native Siberian peoples into the game: The Evenks and Nenets, ruled by Bombogor and Vavlyo, respectively!</Description>
+    <Authors>senshidenshi, Klisz,</Authors>
+    <SpecialThanks>Chrisy15, LeeS, Killer_the_Cat, DarthStarkiller, DJSHenninger, Killer_the_Cat, TPangolin, Guandao, Someone1214</SpecialThanks>
+    <HideSetupGame>0</HideSetupGame>
+    <AffectsSavedGames>1</AffectsSavedGames>
+    <MinCompatibleSaveVersion>0</MinCompatibleSaveVersion>
+    <SupportsSinglePlayer>1</SupportsSinglePlayer>
+    <SupportsMultiplayer>1</SupportsMultiplayer>
+    <SupportsHotSeat>1</SupportsHotSeat>
+    <SupportsMac>1</SupportsMac>
+    <ReloadAudioSystem>1</ReloadAudioSystem>
+    <ReloadLandmarkSystem>1</ReloadLandmarkSystem>
+    <ReloadStrategicViewSystem>1</ReloadStrategicViewSystem>
+    <ReloadUnitSystem>1</ReloadUnitSystem>
+  </Properties>
+  <Dependencies />
+  <References>
+    <Mod id="31a31d1c-b9d7-45e1-842c-23232d66cd47" minversion="0" maxversion="999" title="JFD's Cultural Diversity (Core)" />
+    <Mod id="eea66053-7579-481a-bb8d-2f3959b59974" minversion="0" maxversion="999" title="JFD’s Piety" />
+    <Mod id="d99bf7aa-51ac-4bef-bd88-d765b28e260e" minversion="0" maxversion="999" title="JFD's Rise To Power: Piety, Prosperity &amp; Sovereignty" />
+    <Mod id="1f941088-b185-4159-865c-472df81247b2" minversion="0" maxversion="999" title="Sukritact’s Events &amp; Decisions" />
+    <Mod id="36e88483-48fe-4545-b85f-bafc50dde315" minversion="0" maxversion="999" title="Yet (not) Another Earth Map Pack" />
+    <Mod id="e576894a-ed2b-4033-be14-ed1c8ceb81d3" minversion="0" maxversion="999" title="Map Labels" />
+    <Mod id="7fdd72a5-d4ae-441c-bc4e-2e3d2a26cff4" minversion="0" maxversion="999" title="Ethnic Units" />
+    <Mod id="8670da15-d435-44ea-9758-7438cb321411" minversion="0" maxversion="999" title="R.E.D. Modpack" />
+    <Mod id="6676902b-b907-45f1-8db5-32dcb2135eee" minversion="0" maxversion="999" title="JFD's Exploration Continued Expanded" />
+    <Mod id="6010e6f6-918e-48b8-9332-d60783bd8fb5" minversion="0" maxversion="999" title="Historical Religions Complete" />
+    <Mod id="ce8aa614-7ef7-4a45-a179-5329869e8d6d" minversion="0" maxversion="999" title="Enlightenment Era" />
+    <Mod id="a19351c5-c0b3-4b07-8695-4affaa199949" minversion="0" maxversion="999" title="JFD’s and Pouakai’s Mercenaries" />
+    <Mod id="10e9728f-d61c-4317-be4f-7d52d6bae6f4" minversion="0" maxversion="999" title="JFD’s Cities in Development" />
+    <Mod id="01c131ef-2162-4a7b-b845-763a4e675940" minversion="0" maxversion="999" title="Unique Cultural Influence" />
+    <Mod id="1153b26a-69fd-4cd5-899c-a8ba8e0e5e5d" minversion="0" maxversion="999" title="Civ IV Leader Traits in Civ V" />
+  </References>
+  <Blocks />
+  <Files>
+    <File md5="B298352E436605B514A85323643BE3FE" import="0">Evenks/Art/Atlas/AtlasDefines.xml</File>
+    <File md5="C06CBB7622AAF3CEEDA85763D49D636F" import="1">Evenks/Art/Atlas/EvenkAlpha128.dds</File>
+    <File md5="62B586B092D771D1B976F1BAB834E8F5" import="1">Evenks/Art/Atlas/EvenkAlpha16.dds</File>
+    <File md5="9DBEA57F836096D75EE10A0B30672D27" import="1">Evenks/Art/Atlas/EvenkAlpha24.dds</File>
+    <File md5="3C3EFA21B4D86B74E4968DFEA7A147C8" import="1">Evenks/Art/Atlas/EvenkAlpha256.dds</File>
+    <File md5="1AB7E0A31559150D7BD7183CBCFD3B4D" import="1">Evenks/Art/Atlas/EvenkAlpha32.dds</File>
+    <File md5="C419C50ADA77A33B18C82770EF2529EE" import="1">Evenks/Art/Atlas/EvenkAlpha48.dds</File>
+    <File md5="A1A2E4B205BE38CEA6755C8FAC6531E6" import="1">Evenks/Art/Atlas/EvenkAlpha64.dds</File>
+    <File md5="A4B6F62A9E212B792B2ECC730A3748CA" import="1">Evenks/Art/Atlas/EvenkAlpha80.dds</File>
+    <File md5="710C314759EFAA9B0059B2D2F83475A0" import="1">Evenks/Art/Atlas/EvenkAtlas128.dds</File>
+    <File md5="7FF7C13EF56D5B5BD6A47DFDE3FB86D1" import="1">Evenks/Art/Atlas/EvenkAtlas256.dds</File>
+    <File md5="0AC393509099CF0D034FD2553C1E8FBA" import="1">Evenks/Art/Atlas/EvenkAtlas32.dds</File>
+    <File md5="A934427977945DCB69DB80D04A0D07C3" import="1">Evenks/Art/Atlas/EvenkAtlas45.dds</File>
+    <File md5="98AB5B11C28B279D66F48F749FD00237" import="1">Evenks/Art/Atlas/EvenkAtlas48.dds</File>
+    <File md5="650ED068728524752D2C3BBFAFCF1842" import="1">Evenks/Art/Atlas/EvenkAtlas64.dds</File>
+    <File md5="12D2D7DFC321BEC9058A39874D7CC027" import="1">Evenks/Art/Atlas/EvenkAtlas80.dds</File>
+    <File md5="D4C73FA6303560459C4642812E6590FA" import="1">Evenks/Art/Atlas/Reindeer128.dds</File>
+    <File md5="BE1736FB2A1AAA59C33490D550543F8C" import="1">Evenks/Art/Atlas/Reindeer32.dds</File>
+    <File md5="56018722075D7A10BE3AF1757BE8047B" import="1">Evenks/Art/BombogorLS.dds</File>
+    <File md5="DC66FF2121E54229EFBEC58CAFCD39C9" import="1">Evenks/Art/EvenkMap.dds</File>
+    <File md5="45AB4F98995FF8EA42FC7DD403828BA2" import="1">Evenks/Art/EvenksDOM.dds</File>
+    <File md5="5A7D52ADA6C500CA3FFA46AC756D39E7" import="1">Evenks/Art/Reindeer/bow_diff.dds</File>
+    <File md5="9513F81DE4E5E0C30DE6BC8011E29A0A" import="1">Evenks/Art/Reindeer/bow_sref.dds</File>
+    <File md5="4C3DF680D5B660D6501DC7C7509799BD" import="1">Evenks/Art/Reindeer/deer_diff.dds</File>
+    <File md5="9274BD21B9EC1D53F4D1BB56CF0A3FE1" import="1">Evenks/Art/Reindeer/deer_sref.dds</File>
+    <File md5="16F72806E134EAA73BF08FA442EBF3B4" import="1">Evenks/Art/Reindeer/fyrdwell.fxsxml</File>
+    <File md5="535E68F44D560D9B18057E053DFCB550" import="1">Evenks/Art/Reindeer/Fyrdwell.gr2</File>
+    <File md5="EEE2C2C021925A9CDF5E8BD20D659135" import="1">Evenks/Art/Reindeer/fyrdwell_body_diff.dds</File>
+    <File md5="CA1F601176EF418019BE638045B19566" import="1">Evenks/Art/Reindeer/fyrdwell_body_sref.dds</File>
+    <File md5="0E6DA52B11B4CF604FED32442685E6E1" import="1">Evenks/Art/Reindeer/Fyrdwell_diff.dds</File>
+    <File md5="E961BA909DD7E00A3559E086E679689A" import="1">Evenks/Art/Reindeer/Fyrdwell_sref.dds</File>
+    <File md5="A3C0C1E6A657C6DC092A66120F30B17C" import="0">Evenks/Art/Reindeer/ReindeerDefines.xml</File>
+    <File md5="8D5CB0FAE09EDEF88426537478C692F2" import="0">Evenks/Art/Shevenchedek/ArtDefines.sql</File>
+    <File md5="C7D85AF0C1AA90F45AD75CB908A937C9" import="1">Evenks/Art/Shevenchedek/fx_triggers_woodententSD.ftsxml</File>
+    <File md5="9D74329F2DDCC8B1AF698C632227CC1C" import="1">Evenks/Art/Shevenchedek/iroqueseWorkshop_cm.dds</File>
+    <File md5="C78370460F6DB271756A87C89A2AA243" import="1">Evenks/Art/Shevenchedek/WoodenTent Ground H.dds</File>
+    <File md5="79BB2DB28F2C5AD258C2BBDD71B1B4AB" import="1">Evenks/Art/Shevenchedek/WoodenTent Ground.dds</File>
+    <File md5="4A373FC68D0280C9BE963881B406D92E" import="1">Evenks/Art/Shevenchedek/WoodenTent_B.fxsxml</File>
+    <File md5="DF1A99848DC9AA49BD13E645A1ECCF1B" import="1">Evenks/Art/Shevenchedek/WoodenTent_diff.dds</File>
+    <File md5="AF27AE8398384796F9B43A6008D2BC1C" import="1">Evenks/Art/Shevenchedek/WoodenTent_HB.fxsxml</File>
+    <File md5="FAD1CA51546935B396073225D3074560" import="1">Evenks/Art/Shevenchedek/WoodenTent_PL.fxsxml</File>
+    <File md5="1F2DDF5AEF6A3E654BCB182E2F85F8D8" import="1">Evenks/Art/Shevenchedek/WoodenTent_SD HBPL.gr2</File>
+    <File md5="E05A6B86455B16C8AFE88A72DA48CDBD" import="1">Evenks/Art/Shevenchedek/WoodenTent_SD.gr2</File>
+    <File md5="B7E3457D1BE2F55A7D2EB8627EFB5CA3" import="1">Evenks/Art/Shevenchedek/WoodenTotem_diff.dds</File>
+    <File md5="5982F1E803AF5957E97CAC603D4D25AD" import="0">Evenks/Core/Civilizations.sql</File>
+    <File md5="100C9B66F729BA48ED9FE33C7106AA02" import="0">Evenks/Core/DiplomacyResponses.xml</File>
+    <File md5="E1FED9983371E5D98E7DF93459D2E3AD" import="1">Evenks/Core/EvenksPeace.mp3</File>
+    <File md5="A34F714E0A333603D31DAD191F01443D" import="1">Evenks/Core/EvenksWar.mp3</File>
+    <File md5="B5BC078EFF44E33DCD7885D122DC4269" import="0">Evenks/Core/GameText.xml</File>
+    <File md5="1AF7CC63F71A072767F62F35B3D87181" import="0">Evenks/Core/Improvements.sql</File>
+    <File md5="83BF5916ECCBB8BF1B4DF5A796900B22" import="0">Evenks/Core/Leaderhead.sql</File>
+    <File md5="05BC44576699605E9473FBE0F52F9063" import="0">Evenks/Core/PlayerColours.sql</File>
+    <File md5="C052F2FCA0973CAB4B6B36F219154812" import="0">Evenks/Core/Promotions.xml</File>
+    <File md5="837721026DEA8EDB9A062A923DBFD4F4" import="0">Evenks/Core/SoundRig.xml</File>
+    <File md5="72C544830E7EE29E213699C0A2E9D906" import="0">Evenks/Core/Traits.sql</File>
+    <File md5="1E190C454E721AD8A2E3D4DC31DFD4EA" import="0">Evenks/Core/Units.sql</File>
+    <File md5="FE25218651C82FF212F966EE9983E404" import="1">Evenks/Core/Bombogor_Scene.xml</File>
+    <File md5="F02308201524EA443CBDE45C475BB245" import="0">Evenks/Lua/Bugadyl.lua</File>
+    <File md5="FDFA89330FBC3215D404433FEE0E978B" import="0">Evenks/Lua/Nimat.lua</File>
+    <File md5="17753790FC4FF0E06DDE89546B816BC5" import="0">Evenks/Lua/ReindeerWoodsman.lua</File>
+    <File md5="E7CDAD2DEA6A987487799760E24D08B9" import="0">Evenks/Lua/Shevenchedek.lua</File>
+    <File md5="7B5AE9A4281504F9BFAE26C88F0ED8B0" import="1">Evenks/ModSupport/C15_Eveneks_Decisions.lua</File>
+    <File md5="2FEA13381B914BD93C486C8C5060B921" import="0">Evenks/ModSupport/C15_Eveneks_Decisions_Text.xml</File>
+    <File md5="82477AF10A98117DD11837EF0F2C2F71" import="0">Evenks/ModSupport/C15_Evenek_Decisions.sql</File>
+    <File md5="D44095F9F6F3727EC2B807FB91256E45" import="0">Evenks/ModSupport/GameText_ModSupport.xml</File>
+    <File md5="E64832385CABC40FB41B8E275F42BF6A" import="0">Evenks/ModSupport/ModSupport.sql</File>
+    <File md5="0C99DEA58137AB522B6C0A665E17B59B" import="0">Nenets/Art/Atlas/AtlasDefines.xml</File>
+    <File md5="16A1C94D55A10BC061540C26D826ED48" import="1">Nenets/Art/Atlas/NenetsAlpha128.dds</File>
+    <File md5="C37803E6FBE00E38E13622CCB7B652B0" import="1">Nenets/Art/Atlas/NenetsAlpha16.dds</File>
+    <File md5="D3A2C409FCA58BD721F6D38741ECB90D" import="1">Nenets/Art/Atlas/NenetsAlpha24.dds</File>
+    <File md5="74AC1293461AFC6170CF65F6ECD5F55B" import="1">Nenets/Art/Atlas/NenetsAlpha256.dds</File>
+    <File md5="BC4A98377DDA3832E9B83D241F3BC201" import="1">Nenets/Art/Atlas/NenetsAlpha32.dds</File>
+    <File md5="7CF81280FDD98C6516D244F71D86579D" import="1">Nenets/Art/Atlas/NenetsAlpha48.dds</File>
+    <File md5="92CA426B2816EE311F249EDAF52D83A8" import="1">Nenets/Art/Atlas/NenetsAlpha64.dds</File>
+    <File md5="C8A85AFFB08EB7BE2A03644D72F940BF" import="1">Nenets/Art/Atlas/NenetsAlpha80.dds</File>
+    <File md5="6558D9FBF0408E34C5C80D1B3B5C7713" import="1">Nenets/Art/Atlas/NenetsAtlas128.dds</File>
+    <File md5="BD15D4B63501942FDA98CDD1C674C62D" import="1">Nenets/Art/Atlas/NenetsAtlas256.dds</File>
+    <File md5="D83BD56399AAFDA59221FDA1657A5009" import="1">Nenets/Art/Atlas/NenetsAtlas32.dds</File>
+    <File md5="7240DCD9497761F2906A2B8E86718FE1" import="1">Nenets/Art/Atlas/NenetsAtlas45.dds</File>
+    <File md5="A37A188CB229EBC945B94C015796C973" import="1">Nenets/Art/Atlas/NenetsAtlas48.dds</File>
+    <File md5="57546176A37C9DA618502AE74F9582BF" import="1">Nenets/Art/Atlas/NenetsAtlas64.dds</File>
+    <File md5="0A1856502CEED71130786B082EEDA72F" import="1">Nenets/Art/Atlas/NenetsAtlas80.dds</File>
+    <File md5="73AE08A6C32C2504EF44B667AAB62DD9" import="1">Nenets/Art/Atlas/Samoyed128.dds</File>
+    <File md5="EC7A9708C3DCAE48CDAE45F1BF1E027E" import="1">Nenets/Art/Atlas/Samoyed32.dds</File>
+    <File md5="7BCD634FFC5AFDD84B6C24F0D6C43C50" import="1">Nenets/Art/Atlas/Tadibya128.dds</File>
+    <File md5="9D12EC368DE06C23A4484775B6B88FB3" import="1">Nenets/Art/Atlas/Tadibya32.dds</File>
+    <File md5="883501563FEF79D09978419C5BE48BAE" import="1">Nenets/Art/NenetsDOM.dds</File>
+    <File md5="0801A9F3AA48315A66D10E9DA82227D9" import="1">Nenets/Art/NenetsMap.dds</File>
+    <File md5="5706BF34E2C4E028663AE1AD53339227" import="1">Nenets/Art/Samoyed/Dog/black_4x4.dds</File>
+    <File md5="BAABB1F12FEA5F2E0CCE382888541B99" import="1">Nenets/Art/Samoyed/Dog/wolf.fxsxml</File>
+    <File md5="E7C3F0AC03FF4E4357472E45906B4287" import="1">Nenets/Art/Samoyed/Dog/wolf.gr2</File>
+    <File md5="7F2A72648CD744CB88164F378CF1545B" import="1">Nenets/Art/Samoyed/Dog/wolf_attacka.gr2</File>
+    <File md5="738E15DD61F8833D5D4082D85BF196A6" import="1">Nenets/Art/Samoyed/Dog/wolf_attackb.gr2</File>
+    <File md5="9720E6326AB17B57DD11FF56B10B9F96" import="1">Nenets/Art/Samoyed/Dog/wolf_death.gr2</File>
+    <File md5="E70E2352B5E9287754247D01FB0BE367" import="1">Nenets/Art/Samoyed/Dog/wolf_death_fade.gr2</File>
+    <File md5="418C78091F5EFB4F4C53F7E78CE75713" import="1">Nenets/Art/Samoyed/Dog/wolf_diff.dds</File>
+    <File md5="A66440048474617C3EA415628F4CC396" import="1">Nenets/Art/Samoyed/Dog/wolf_fidget.gr2</File>
+    <File md5="B6F2800FDC4928B8E27784FD699D8C2C" import="1">Nenets/Art/Samoyed/Dog/wolf_fortify.gr2</File>
+    <File md5="B7CA16BC2CD73527127ED2F93362C643" import="1">Nenets/Art/Samoyed/Dog/wolf_fortify_idle.gr2</File>
+    <File md5="D9868CD124E33643BC4FB8629A6011F6" import="1">Nenets/Art/Samoyed/Dog/wolf_idle.gr2</File>
+    <File md5="9A822A9DBFF4F36E20720B59F1968BC9" import="1">Nenets/Art/Samoyed/Dog/wolf_run.gr2</File>
+    <File md5="AC41C06BA721315512F26433220FEDF7" import="1">Nenets/Art/Samoyed/Guy/no_gloss.dds</File>
+    <File md5="7ADA4CDB30251B68BB80F2813D41D179" import="1">Nenets/Art/Samoyed/Guy/Scout_Mongol.blend</File>
+    <File md5="853A0D7D26B9EAEFABC05E3F91C78CC7" import="1">Nenets/Art/Samoyed/Guy/Scout_Mongol.dds</File>
+    <File md5="C5FDAA44797E1655083FD5F7BFC74D7E" import="1">Nenets/Art/Samoyed/Guy/Scout_Mongol.fxsxml</File>
+    <File md5="E2D55483B9E3EB1DC325F61E6E06A507" import="1">Nenets/Art/Samoyed/Guy/Scout_Mongol.gr2</File>
+    <File md5="8074BFB0E103CE7791961BCB3C3C3E09" import="0">Nenets/Art/Samoyed/SamoyedDefines.xml</File>
+    <File md5="AC41C06BA721315512F26433220FEDF7" import="1">Nenets/Art/Tadibya/no_gloss.dds</File>
+    <File md5="EFF270D21242AD543276CBC096EC0EB6" import="1">Nenets/Art/Tadibya/SacredDrummer.dds</File>
+    <File md5="A5BFD5C7CD0D2F3B2EA7DBADC0752F2C" import="1">Nenets/Art/Tadibya/SacredDrummer.fxsxml</File>
+    <File md5="DF31486671571972460502381D766D50" import="1">Nenets/Art/Tadibya/SacredDrummer.gr2</File>
+    <File md5="FA77A7C507135FDAC4DDBB98898FD641" import="0">Nenets/Art/Tadibya/TadibyaDefines.xml</File>
+    <File md5="672D11EF76E37A607D5FB0EB1E1401AC" import="1">Nenets/Art/VavlyoLS.dds</File>
+    <File md5="37F96501119839E6A91D53DF0DF51C41" import="0">Nenets/Core/Civilizations.sql</File>
+    <File md5="4777A79F3B2F73FE0CE9ABC863BA3362" import="0">Nenets/Core/DiplomacyResponses.xml</File>
+    <File md5="2026068E3BBF948B5817C116935BDE60" import="0">Nenets/Core/GameText.xml</File>
+    <File md5="8DC4B3535ED7C0A502842F203F3D4A3B" import="0">Nenets/Core/Leaderhead.sql</File>
+    <File md5="867E0D83875DAE95478292A2F6C1F435" import="1">Nenets/Core/NenetsPeace.mp3</File>
+    <File md5="1C8980132AF0759EF9921FDE5490B5A9" import="1">Nenets/Core/NenetsWar.mp3</File>
+    <File md5="D4816530BD06DE903A6743AA1C87592E" import="0">Nenets/Core/PlayerColours.sql</File>
+    <File md5="5AEB154926A9BDD5A689D3EC3CB4AB41" import="0">Nenets/Core/SoundRig.xml</File>
+    <File md5="52778470B6846AE11775A39E1FE1053B" import="0">Nenets/Core/Traits.sql</File>
+    <File md5="ED28BF95C018EF7E06055E82DA659A03" import="0">Nenets/Core/UnitSamoyed.sql</File>
+    <File md5="6CDF48C11BA247A9FCFB4043B9C2789B" import="0">Nenets/Core/UnitTadibya.sql</File>
+    <File md5="9EC432349B23D6B8C10BFEDA4CFC398D" import="1">Nenets/Core/Vavlyo_Scene.xml</File>
+    <File md5="83C68E903BB413946D0AD87F4182F467" import="1">Nenets/Lua/CityNearbyMapDatas.lua</File>
+    <File md5="D505A3B9E6E602A7323C2B3C2B3E469E" import="0">Nenets/Lua/DeerAndMusicSlots.lua</File>
+    <File md5="3CC70BCE6D8C433B640D24320ECB9494" import="0">Nenets/Lua/DeerSpawn.lua</File>
+    <File md5="FCBC6F9DCE06C4592C394D891BE7FFB7" import="0">Nenets/Lua/FaithFromDeer.lua</File>
+    <File md5="1CD9541ABA9443D6122A506E6B3952B0" import="0">Nenets/Lua/LuaDummies.xml</File>
+    <File md5="5244308719C5B41D37E35BCE6F354D41" import="1">Nenets/Lua/PlotIterators.lua</File>
+    <File md5="211671210AC886E3ED95D1A5F3B300E5" import="0">Nenets/Lua/TadibyaDeerSpawn.lua</File>
+    <File md5="F2C6F86361B762058C64FC515D185F72" import="1">Nenets/ModSupport/C15_Nenets_Decisions.lua</File>
+    <File md5="AFB7F6110312D951ADEA9E0E3B060CB3" import="0">Nenets/ModSupport/C15_Nenets_Decisions_Text.xml</File>
+    <File md5="84B90149A4394E35FFCF42DB56E3ADC1" import="0">Nenets/ModSupport/DecisionAddin.sql</File>
+    <File md5="1FD1BA458AF87EEC27254C495D14E13F" import="0">Nenets/ModSupport/GameText_ModSupport.xml</File>
+    <File md5="BCF9E7E25C1FCA621517BD073BC24718" import="0">Nenets/ModSupport/ModSupport.sql</File>
+  </Files>
+  <Actions>
+    <OnModActivated>
+      <UpdateDatabase>Nenets/Art/Atlas/AtlasDefines.xml</UpdateDatabase>
+      <UpdateDatabase>Nenets/Art/Tadibya/TadibyaDefines.xml</UpdateDatabase>
+      <UpdateDatabase>Nenets/Art/Samoyed/SamoyedDefines.xml</UpdateDatabase>
+      <UpdateDatabase>Nenets/Core/Civilizations.sql</UpdateDatabase>
+      <UpdateDatabase>Nenets/Core/DiplomacyResponses.xml</UpdateDatabase>
+      <UpdateDatabase>Nenets/Core/GameText.xml</UpdateDatabase>
+      <UpdateDatabase>Nenets/Core/Leaderhead.sql</UpdateDatabase>
+      <UpdateDatabase>Nenets/Core/PlayerColours.sql</UpdateDatabase>
+      <UpdateDatabase>Nenets/Core/SoundRig.xml</UpdateDatabase>
+      <UpdateDatabase>Nenets/Core/Traits.sql</UpdateDatabase>
+      <UpdateDatabase>Nenets/Core/UnitSamoyed.sql</UpdateDatabase>
+      <UpdateDatabase>Nenets/Core/UnitTadibya.sql</UpdateDatabase>
+      <UpdateDatabase>Nenets/Lua/LuaDummies.xml</UpdateDatabase>
+      <UpdateDatabase>Evenks/Art/Shevenchedek/ArtDefines.sql</UpdateDatabase>
+      <UpdateDatabase>Evenks/Art/Reindeer/ReindeerDefines.xml</UpdateDatabase>
+      <UpdateDatabase>Evenks/Art/Atlas/AtlasDefines.xml</UpdateDatabase>
+      <UpdateDatabase>Evenks/Core/Civilizations.sql</UpdateDatabase>
+      <UpdateDatabase>Evenks/Core/DiplomacyResponses.xml</UpdateDatabase>
+      <UpdateDatabase>Evenks/Core/GameText.xml</UpdateDatabase>
+      <UpdateDatabase>Evenks/Core/Improvements.sql</UpdateDatabase>
+      <UpdateDatabase>Evenks/Core/Leaderhead.sql</UpdateDatabase>
+      <UpdateDatabase>Evenks/Core/PlayerColours.sql</UpdateDatabase>
+      <UpdateDatabase>Evenks/Core/Promotions.xml</UpdateDatabase>
+      <UpdateDatabase>Evenks/Core/Traits.sql</UpdateDatabase>
+      <UpdateDatabase>Evenks/Core/Units.sql</UpdateDatabase>
+      <UpdateDatabase>Nenets/ModSupport/ModSupport.sql</UpdateDatabase>
+      <UpdateDatabase>Nenets/ModSupport/GameText_ModSupport.xml</UpdateDatabase>
+      <UpdateDatabase>Evenks/ModSupport/ModSupport.sql</UpdateDatabase>
+      <UpdateDatabase>Evenks/ModSupport/GameText_ModSupport.xml</UpdateDatabase>
+      <UpdateDatabase>Nenets/ModSupport/DecisionAddin.sql</UpdateDatabase>
+      <UpdateDatabase>Evenks/ModSupport/C15_Evenek_Decisions.sql</UpdateDatabase>
+      <UpdateDatabase>Evenks/ModSupport/C15_Eveneks_Decisions_Text.xml</UpdateDatabase>
+      <UpdateDatabase>Nenets/ModSupport/C15_Nenets_Decisions_Text.xml</UpdateDatabase>
+    </OnModActivated>
+  </Actions>
+  <EntryPoints>
+    <EntryPoint type="InGameUIAddin" file="Nenets/Lua/DeerAndMusicSlots.lua">
+      <Name>Nenets DeerAndMusicSlots</Name>
+      <Description>
+      </Description>
+    </EntryPoint>
+    <EntryPoint type="InGameUIAddin" file="Nenets/Lua/DeerSpawn.lua">
+      <Name>Nenets DeerSpawn</Name>
+      <Description>
+      </Description>
+    </EntryPoint>
+    <EntryPoint type="InGameUIAddin" file="Nenets/Lua/FaithFromDeer.lua">
+      <Name>Nenets FaithFromDeer</Name>
+      <Description>
+      </Description>
+    </EntryPoint>
+    <EntryPoint type="InGameUIAddin" file="Nenets/Lua/TadibyaDeerSpawn.lua">
+      <Name>Nenets TadibyaDeerSpawn</Name>
+      <Description>
+      </Description>
+    </EntryPoint>
+    <EntryPoint type="InGameUIAddin" file="Evenks/Lua/Bugadyl.lua">
+      <Name>Evenks Bugadyl</Name>
+      <Description>
+      </Description>
+    </EntryPoint>
+    <EntryPoint type="InGameUIAddin" file="Evenks/Lua/ReindeerWoodsman.lua">
+      <Name>Evenks ReindeerWoodsman</Name>
+      <Description>
+      </Description>
+    </EntryPoint>
+    <EntryPoint type="InGameUIAddin" file="Evenks/Lua/Shevenchedek.lua">
+      <Name>Evenks Shevenchedek</Name>
+      <Description>
+      </Description>
+    </EntryPoint>
+  </EntryPoints>
+</Mod>

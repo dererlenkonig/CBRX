@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 3/23/2018 12:30:56 AM -->
+<GameData>
+	<!--=======================================================================-->
+	<!--Unique Unit-->
+	<!--=======================================================================-->
+
+	<!--Assigns unique unit(s) to Civilization-->
+	<Civilization_UnitClassOverrides>
+		<Row>
+			<CivilizationType>CIVILIZATION_LN_KINGCANADA</CivilizationType>
+			<UnitClassType>UNITCLASS_TANK</UnitClassType>
+			<UnitType>UNIT_LNKC_RAMTANK</UnitType>
+		</Row>
+	</Civilization_UnitClassOverrides>
+
+	<Units>
+		<Row>
+			<Class>UNITCLASS_TANK</Class>
+			<Type>UNIT_LNKC_RAMTANK</Type>
+			<PrereqTech>TECH_COMBINED_ARMS</PrereqTech>
+			<Combat>68</Combat>
+			<Cost>360</Cost>
+			<Moves>5</Moves>
+			<CombatClass>UNITCOMBAT_ARMOR</CombatClass>
+			<Domain>DOMAIN_LAND</Domain>
+			<DefaultUnitAI>UNITAI_FAST_ATTACK</DefaultUnitAI>
+			<Description>TXT_KEY_UNIT_LNKC_RAMTANK</Description>
+			<Civilopedia>TXT_KEY_UNIT_LNKC_RAMTANK_PEDIA</Civilopedia>
+			<Strategy>TXT_KEY_UNIT_LNKC_RAMTANK_STRATEGY</Strategy>
+			<Help>TXT_KEY_UNIT_LNKC_RAMTANK_HELP</Help>
+			<MilitarySupport>true</MilitarySupport>
+			<MilitaryProduction>true</MilitaryProduction>
+			<Pillage>true</Pillage>
+			<Mechanized>true</Mechanized>
+			<AdvancedStartCost>20</AdvancedStartCost>
+			<MinAreaSize>-1</MinAreaSize>
+			<XPValueAttack>3</XPValueAttack>
+			<XPValueDefense>3</XPValueDefense>
+			<UnitArtInfo>ART_DEF_UNIT_U_GERMAN_PANZER</UnitArtInfo>
+			<!--AWAITS GRAPHICS-->
+			<UnitFlagAtlas>UNIT_FLAG_ATLAS</UnitFlagAtlas>
+			<!--AWAITS GRAPHICS-->
+			<UnitFlagIconOffset>58</UnitFlagIconOffset>
+			<!--AWAITS GRAPHICS-->
+			<IconAtlas>UNIT_ATLAS_2</IconAtlas>
+			<!--AWAITS GRAPHICS-->
+			<PortraitIndex>39</PortraitIndex>
+			<!--AWAITS GRAPHICS-->
+			<MoveRate>WHEELED</MoveRate>
+		</Row>
+	</Units>
+
+	<Unit_AITypes>
+		<Row>
+			<UnitType>UNIT_LNKC_RAMTANK</UnitType>
+			<UnitAIType>UNITAI_DEFENSE</UnitAIType>
+		</Row>
+		<Row>
+			<UnitType>UNIT_LNKC_RAMTANK</UnitType>
+			<UnitAIType>UNITAI_FAST_ATTACK</UnitAIType>
+		</Row>
+	</Unit_AITypes>
+
+	<Unit_ClassUpgrades>
+		<Row>
+			<UnitType>UNIT_LNKC_RAMTANK</UnitType>
+			<UnitClassType>UNITCLASS_MODERN_ARMOR</UnitClassType>
+		</Row>
+	</Unit_ClassUpgrades>
+
+	<Unit_FreePromotions>
+		<Row>
+			<UnitType>UNIT_LNKC_RAMTANK</UnitType>
+			<PromotionType>PROMOTION_NO_DEFENSIVE_BONUSES</PromotionType>
+		</Row>
+		<Row>
+			<UnitType>UNIT_LNKC_RAMTANK</UnitType>
+			<PromotionType>PROMOTION_CAN_MOVE_AFTER_ATTACKING</PromotionType>
+		</Row>
+	</Unit_FreePromotions>
+
+	<Unit_Flavors>
+		<Row>
+			<UnitType>UNIT_LNKC_RAMTANK</UnitType>
+			<FlavorType>FLAVOR_OFFENSE</FlavorType>
+			<Flavor>16</Flavor>
+		</Row>
+		<Row>
+			<UnitType>UNIT_LNKC_RAMTANK</UnitType>
+			<FlavorType>FLAVOR_DEFENSE</FlavorType>
+			<Flavor>18</Flavor>
+		</Row>
+		<Row>
+			<UnitType>UNIT_LNKC_RAMTANK</UnitType>
+			<FlavorType>FLAVOR_MOBILE</FlavorType>
+			<Flavor>14</Flavor>
+		</Row>
+	</Unit_Flavors>
+
+	<Unit_ResourceQuantityRequirements>
+		<Row>
+			<UnitType>UNIT_LNKC_RAMTANK</UnitType>
+			<ResourceType>RESOURCE_OIL</ResourceType>
+			<Cost>1</Cost>
+		</Row>
+	</Unit_ResourceQuantityRequirements>
+
+	<UnitGameplay2DScripts>
+		<Row>
+			<UnitType>UNIT_LNKC_RAMTANK</UnitType>
+			<SelectionSound>AS2D_SELECT_TANK</SelectionSound>
+			<FirstSelectionSound>AS2D_BIRTH_TANK</FirstSelectionSound>
+		</Row>
+	</UnitGameplay2DScripts>
+
+	<Language_en_US>
+		<Row Tag="TXT_KEY_UNIT_LNKC_RAMTANK">
+			<Text>Ram Tank</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_LNKC_RAMTANK_PEDIA">
+			<Text>WOW</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_LNKC_RAMTANK_STRATEGY">
+			<Text>WOWWW</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_LNKC_RAMTANK_HELP">
+			<Text>WOWWWW</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

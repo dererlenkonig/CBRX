@@ -1,0 +1,488 @@
+﻿<GameData>
+	<Language_en_US>
+		<!----------------------------------------------------------------
+						State
+		------------------------------------------------------------------>
+		<Row Tag="TXT_KEY_NEPAL_LS_MOD_DESC">
+			<Text>Kingdom of Nepal</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEPAL_LS_MOD_SHORT_DESC">
+			<Text>Nepal</Text>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_NEPAL_LS_MOD_ADJECTIVE">
+			<Text>Nepalese</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEPAL_LS_MOD">
+			<Text>Nepal</Text>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_NEPAL_LS_MOD_TITLE">
+			<Text>Nepal</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_NEPAL_LS_MOD_HEADING_1">
+			<Text>The Nepalese</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_NEPAL_LS_MOD_TEXT_1">
+			<Text>According to Gopal Vansawali, the genealogy of Nepalese monarchy, the earliest settlers in Nepal were Gopalas, followed by Mahispala, followed by Kirata. Tibeto-Burman people probably lived in Nepal 2,500 years ago. Home to the sources of many of the great rivers, such as the Ganges and Indus, the cultural lands of Nepal stretch from the 8,848 metre (29,029 ft) heights of Mount Everest (Sagarmatha in Nepali) to the monsoon marshlands of North India, at a mere 1600ft. A country rich in folklore and religion, Nepal's ancient capital, Kathmandu and its sister cities of Lalitpur Patan and Bhaktapur are UNESCO World Heritage sites.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_NEPAL_LS_MOD_HEADING_2">
+			<Text>History of the Nepalese</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_NEPAL_LS_MOD_TEXT_2">
+			<Text>In the mid-18th century, Prithvi Narayan Shah, a Gorkha king, set out to put together what would become present-day Nepal. He embarked on his mission after seeking arms and aid from India and buying the neutrality of bordering Indian kingdoms. After several bloody battles and sieges, notably the Battle of Kirtipur, he managed to conquer the Kathmandu Valley in 1769. A detailed account of Prithvi Narayan Shah's victory was written by Father Giuseppe who was an eyewitness to the war.[NEWLINE][NEWLINE]The Gorkha dominion reached its height when the northern India territories of Kumaon and Garhwal in the west to Sikkim in the east became under Nepal rule. At its maximum extent, Greater Nepal extended from the Tista River in the east, to Kangara, across the Sutlej River in the west as well as further south into the Terai plains and north of the Himalayas than at present. A dispute with Tibet over the control of mountain passes and inner Tingri valleys of Tibet forced the Chinese Qing Emperor in Peking (now Beijing) to start the Sino-Nepalese War compelling the Nepalese to retreat and pay heavy reparations to Peking.[NEWLINE][NEWLINE]Rivalry between Nepal and the British East India Company over the annexation of minor states bordering Nepal eventually led to the Anglo-Nepalese War (1815–16). At first the British underestimated the Nepalese and were soundly defeated until committing more military resources than they had anticipated needing. They were greatly impressed by the valour and competence of their adversaries. Thus began the reputation of "Gurkhas" as fierce and ruthless soldiers. The war ended in the Treaty of Sugauli, under which Nepal ceded recently captured portions of Sikkim and lands in Terai as well as the right to recruit soldiers. Madheshis, though having supported the British East India Company during the war, had their lands gifted to Nepalese.[NEWLINE][NEWLINE]Factionalism inside the royal family led to a period of instability. In 1846 a plot was discovered revealing that the reigning queen had planned to overthrow Jung Bahadur Kunwar, a fast-rising military leader. This led to the Kot Massacre; armed clashes between military personnel and administrators loyal to the queen led to the execution of several hundred princes and chieftains around the country. Jung Bahadur Kunwar emerged victorious and founded the Rana Lineage and was later known as Jung Bahadur Rana.[NEWLINE][NEWLINE]The king was made a titular figure, and the post of Prime Minister was made powerful and hereditary. The Ranas were staunchly pro-British and assisted them during the Indian Sepoy Rebellion in 1857 (and later in both World Wars). Some parts of the Terai Region populated with non-Nepalese peoples were gifted to Nepal by the British as a friendly gesture, because of her military help to sustain British control in India during the Sepoy Rebellion. In 1923, the United Kingdom and Nepal formally signed an agreement of friendship, which superseded the Sugauli Treaty signed in 1816.[NEWLINE][NEWLINE]Slavery was abolished in Nepal in 1924. Nevertheless debt bondage even involving debtors' children has been a persistent social problem in the Terai. Rana rule was marked by tyranny, debauchery, economic exploitation and religious persecution.[NEWLINE][NEWLINE]In the late 1940s, newly emerging pro-democracy movements and political parties in Nepal were critical of the Rana autocracy. Meanwhile, with the invasion of Tibet by China in the 1950s, India sought to counterbalance the perceived military threat from its northern neighbour by taking pre-emptive steps to assert more influence in Nepal. India sponsored both King Tribhuvan (ruled 1911–55) as Nepal's new ruler in 1951 and a new government, mostly comprising the Nepali Congress Party, thus terminating Rana hegemony in the kingdom.[NEWLINE][NEWLINE]After years of power wrangling between the king and the government, King Mahendra (ruled 1955–72) scrapped the democratic experiment in 1959, and a "partyless" Panchayat system was made to govern Nepal until 1989, when the "Jan Andolan" (People's Movement) forced King Birendra (ruled 1972–2001) to accept constitutional reforms and to establish a multiparty parliament that took seat in May 1991. In 1991–92, Bhutan expelled roughly 100,000 Bhutanese citizens of Nepali descent, most of whom have been living in seven refugee camps in eastern Nepal ever since.[NEWLINE][NEWLINE]In 1996, the Communist Party of Nepal (Maoist) started a bid to replace the royal parliamentary system with a people's republic by violent means. This led to the long Nepal Civil War and more than 12,000 deaths. On 1 June 2001, there was a massacre in the royal palace. King Birendra, Queen Aiswarya, and seven other members of the royal family were killed. The perpetrator was Crown Prince Dipendra, who committed suicide (he died three days later) shortly thereafter. This outburst was alleged to have been Dipendra's response to his parents' refusal to accept his choice of wife. Nevertheless there are speculation and doubts among Nepalese citizens about who was responsible.[NEWLINE][NEWLINE]Following the carnage, King Birendra's brother Gyanendra inherited the throne. On 1 February 2005, King Gyanendra dismissed the entire government and assumed full executive powers to quash the violent Maoist movement, but this initiative was unsuccessful because a stalemate had developed where the Maoists were firmly entrenched in large expanses of countryside yet could not dislodge the military from numerous towns and the largest cities. In September 2005, the Maoists declared a three-month unilateral ceasefire to negotiate.[NEWLINE][NEWLINE]In response to the 2006 democracy movement King Gyanendra agreed to relinquish sovereign power to the people. On 24 April 2006 the dissolved House of Representatives was reinstated. Using its newly acquired sovereign authority, on 18 May 2006 the House of Representatives unanimously voted to curtail the power of the king and declared Nepal a secular state, ending its time-honoured official status as a Hindu Kingdom. On 28 December 2007, a bill was passed in parliament to amend Article 159 of the constitution – replacing "Provisions regarding the King" by "Provisions of the Head of the State" – declaring Nepal a federal republic, and thereby abolishing the monarchy.. The bill came into force on 28 May 2008.</Text>
+		</Row>
+		<!-- City Names -->
+		<Row Tag="TXT_KEY_CITY_NAME_NEPAL_LS_MOD_KATHMANDU">
+			<Text>Kathmandu</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_NEPAL_LS_MOD_POKHARA">
+			<Text>Pokhara</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_NEPAL_LS_MOD_LALITPUR">
+			<Text>Lalitpur</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_NEPAL_LS_MOD_BIRATNAGAR">
+			<Text>Biratnagar</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_NEPAL_LS_MOD_BHARATPUR">
+			<Text>Bharatpur</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_NEPAL_LS_MOD_BIRGANJ">
+			<Text>Birganj</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_NEPAL_LS_MOD_BUTWAL">
+			<Text>Butwal</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_NEPAL_LS_MOD_DHARAN">
+			<Text>Dharan</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_NEPAL_LS_MOD_BHIM_DATTA">
+			<Text>Bhim Datta</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_NEPAL_LS_MOD_DHANGADHI">
+			<Text>Dhangadhi</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_NEPAL_LS_MOD_JANAKPUR">
+			<Text>Janakpur</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_NEPAL_LS_MOD_HETAUDA">
+			<Text>Hetauda</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_NEPAL_LS_MOD_MADHYAPUR_THIMI">
+			<Text>Madhyapur Thimi</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_NEPAL_LS_MOD_BHAKTAPUR">
+			<Text>Bhaktapur</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_NEPAL_LS_MOD_DAMAK">
+			<Text>Damak</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_NEPAL_LS_MOD_ITAHARAI">
+			<Text>Itahari</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_NEPAL_LS_MOD_NEPALGANJ">
+			<Text>Nepalganj</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_NEPAL_LS_MOD_TRIYUGA">
+			<Text>Triyuga</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_NEPAL_LS_MOD_KIRTIPUR">
+			<Text>Kirtipur</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_NEPAL_LS_MOD_SIDDHARTHANAGAR">
+			<Text>Siddharthanagar</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_NEPAL_LS_MOD_GHORAHI">
+			<Text>Ghorahi</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_NEPAL_LS_MOD_LEKHNATH">
+			<Text>Lekhnath</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_NEPAL_LS_MOD_MECHINAGAR">
+			<Text>Mechinagar</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_NEPAL_LS_MOD_TIKAPUR">
+			<Text>Tikapur</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_NEPAL_LS_MOD_GULARIYA">
+			<Text>Gulariya</Text>
+		</Row>
+		<!-- Spy Names -->
+		<Row Tag="TXT_KEY_SPY_NAME_NEPAL_LS_MOD_0">
+			<Text>Amar</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_NEPAL_LS_MOD_1">
+			<Text>Bibhu</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_NEPAL_LS_MOD_2">
+			<Text>Gopesh</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_NEPAL_LS_MOD_3">
+			<Text>Nandan</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_NEPAL_LS_MOD_4">
+			<Text>Sajiv</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_NEPAL_LS_MOD_5">
+			<Text>Ayati</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_NEPAL_LS_MOD_6">
+			<Text>Chhaya</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_NEPAL_LS_MOD_7">
+			<Text>Hem</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_NEPAL_LS_MOD_8">
+			<Text>Maya</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_NEPAL_LS_MOD_9">
+			<Text>Rambha</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<!----------------------------------------------------------------
+						Leader
+		------------------------------------------------------------------>
+		<Row Tag="TXT_KEY_LEADER_NEPAL_LS_MOD_PRITHVI_NARAYAN_DESC">
+			<Text>Prithvi Narayan</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_NEPAL_LS_MOD_PRITHVI_NARAYAN_LIVED">
+			<Text>King Prithvi Narayan Shah (1723-1775) was born in the Shah dynasty of Gorkha on 11 January 1723 (27 Poush 1779 B.S.) After the death of Narabhupal shah on 25th chaitra he became the king of Gorkha. he ascended to the throne of Gorkha kingdom on 3 April 1743. He was interested in politics and diplomacy and had interests in both visiting and conquering other countries since his days as prince. He decided to enlarge his kingdom that was confined to the small Gorkha region of present day Nepal and had an area of just 2,500 square km (approx. 50 km x 50 km). He defeated major principalities in wars and unified them under his rule starting from 1740s ending with shifting of his Gorkha Kingdom’s capital from Gorkha region to Kathmandu in 1769. While he was successful at conquering the Kathmandu valley and the Sen kingdoms further east of the Kathmandu valley, his efforts were limited to the west of his homeland. He then attacked and absorbed dozens of other small principalities and gave a new name "Nepal" to his Gorkha kingdom. He was able to conquer some of the 22 principalities or kingdoms, know as the baisi raj-ya, and some of the 24 kingdoms (the chaubasi raj-ya), which were two sets of allies west of the King's homeland of Gorkha, in what is now called western Nepal.[NEWLINE][NEWLINE]Soon after he ascended the throne of Gorkha Kingdom, Shah tricked his way into the royal household of Bhaktapur for a number of months. He wanted the rich agricultural soil of the valley, and the strategic point of the Kathmandu valley as a transit point for expanding trade with both Tibet and India. Then he planned the conquest of the valley. To this end, he decided to first capture Nuwakot, which belonged to the state of Kantipur, as a strategic point. He also foresaw that taking over Nuwakot would significantly strengthen the position of his Gorkha nation and weaken the states occupying the Kathmandu Valley. Nuwakot held strategic importance, as there was already a fort there, and it had remained as a connecting pass the valley and Tibet.[NEWLINE][NEWLINE]Prithivi Narayan was a very ambitious king. Along with the invasion of the Gorkha he wanted it to protect it from the Gorkha troops, so he started to unify the small kingdoms to be a single nation . One year after becoming King, in 1744 AD, Prithvi Narayan Shah attacked Nuwakot but was repelled because the Gorkha army was not well equipped. In addition, conflicts of interest between the Pandeys and Basnets - two important warrior clans in the Gorkha palace - arose to add domestic political tension. Shah then made Kalu Pandey "Mul Kaji (equivalent to Prime Minister)" of his state and thus strengthened his domestic political position. Almost a year later, on 2 October 1744, he attacked Nuwakot again and won, thus expanding the bounds of his Gorkha state.[NEWLINE][NEWLINE]Kalu Pandey employed a strategy involving a blockade of the Kathmandu Valley, and subsequently took over the surrounding settlements and strategic positions around the valley. In the next two years (during 1745-46) he captured Mahadevpokhari, Pharping, Chitlang, Dharmasthali, Naldrum, Siranchok and Shivapuri. He then focused his attention on Kirtipur and Makawanpur, two palaces which were also strategic military targets. Kirtipur was in an elevated position with a fort surrounded by walls and jungles, an ideal place to make inroads into the valley. Shah thought that if he could take over Kirtipur, occupying the rest of the valley would be much easier. On 4 December 1757 he made his first attack on Kirtipur. In this war he lost his strong general Kalu pandey which was a great loss for gorkha. Kalu Pandey had told him that it was not the right time to attack Kritpur. His body was buried in Kirtipur. Prithvi Narayan Shah himself was nearly killed in the battle. As a result, the Gorkha army, having lost a great deal of morale, was defeated. It is said that as revenge for his two earlier defeats, The Gorkha army was repelled again in August 1765.[NEWLINE][NEWLINE]After two defeats, the Gorkha army changed its strategy again and surrounded Kirtipur during the harvest season, effectively laying siege to the stronghold. The Gorkha army also took over the nearby Balaju fort. After several months of this blockade, the people of Kirtipur could not even get water to drink and were forced to surrender to the Gorkha army on 17 March 1766. This time the Gorkha army took over Kirtipur without a fight. Prithvi Narayan Shah had his army cut off the noses and lips of all the people of Kirtipur.[NEWLINE][NEWLINE]As Nuwakot was a key point for Kathmandu’s trade with Tibet, Makawanpur in the south was equally important for trade with India. While the battle to surround Kathmandu was going on in the north, the Gorkha army, captured Sindhulikot, Timilakot and Hariharpur in the south and southeast of modern-day Nepal before it entered into the Makawanpurgadhi territories. Makawanpur was captured after only 10 hours of battle in August 1762. In 1763 AD, the Gorkha army conquered seven other villages, including Dhulikhel and Banepa, and expanded the Gorkha state's border line further north. With this, the Kathmandu Valley was completely surrounded and blockaded. After all the four passes (Sanga, Baad, pati and Chandragiri Bhanjyang, also known as Char Bhanjyang) of the Kathmandu Valley were controlled by Prithvi Narayan Shah, the eventual lack of salt, oil, spices, and even clothes led to turmoil in the valley and disaster struck Kathmandu. When the local government failed to pay its soldiers, the morale or its military dwindled.[NEWLINE][NEWLINE]The king of Kathmandu at the time, Jaya Prakash Malla, then asked for military aid from the British in British India. In August 1767, when the forces of the British India arrived in Sindhuligadhi, the Gorkha military conducted guerrilla attacks against them. Many of the British Indian forces were killed and the rest eventually fled, leaving behind a huge amount of weapons and ammunitions, which were seized by the Gorkha army.[NEWLINE][NEWLINE]This boosted the morale of the forces of Prithvi Narayan Shah and further demoralized the kings of the Kathmandu Valley, among which was the king of Kantipur. In addition to this, the political situation of the valley, political wrangling inside the palace, and personal enmity had rendered the people of Kantipur very weak because Jaya Prakash Malla, the king of Kantipur, was of a paranoid nature, and his own brother and courtiers became dissatisfied with him. The state of Lalitpur had also faced chaos after the death of its king Yogendra Malla. Six pradhans (courtiers) then took power into their own hands, and put Tej Narsingh Malla on the throne; but the actual power in Lalitpur remained with the pradhans. In Bhaktapur as well, the palace of King Ranjeet Malla was in disarray due to domestic political wrangling. When Ranjeet Malla wanted to declare his two year-old son as his heir, a queen (not through marriage) opposed it. This forced the king to declare his older illegitimate son as his heir to the throne. This only fueled conflict in the palace, as a result of which the palace was weakened further.[NEWLINE][NEWLINE]While the three kingdoms of the Kathmandu Valley were engaged in clashes and enmity, Prithvi Narayan Shah used this opportunity to impose an economic blockade against the entire valley region. He closed the trade route to Tibet, which passed through Nuwakot. The Gorkha army, marched into the valley. On 25 September 1768, when the people of Kathmandu were celebrating the Festival of Indrajatra, Prithvi Narayan Shah won an easy victory over Kantipur.[NEWLINE][NEWLINE]Some historians doubt this version of the history written by the conquerors. They say that the valley was overtaken not on September but on cold December. The official version of overwhelmingly large force that captured Kathmandu is considered historically inaccurate. The truth, however, is that the powerful Pradhan courtiers of Kathmandu were promised lucrative position in the new Kingdom in lieu for their help in killing the beleaguered king. The king realized that he had enemies galore and fled to the neighboring Bhaktapur leaving the throne empty in Kathmandu. Upon easing his way to the throne of the Kathmandu, the very next day, he ordered the beheading of all of the Pradhan courtiers and their extended family.[NEWLINE][NEWLINE]Eleven days later (6 October 1768), he conquered Lalitpur. On 14 April 1769, he gained the town of Thimi and seven months later (17 November 1769), he took over Bhaktapur. In this way, the whole Kathmandu Valley came under the control of Prithvi Narayan Shah.[NEWLINE][NEWLINE]After his conquest of the Kathmandu Valley, Prithvi Narayan Shah conquered other smaller countries south of the valley to keep other smaller fiefdoms near his Gurkha state out of the influence and control of the British rule. After his kingdom spread out from north to south, he made Kantipur the capital of expanded country, and renamed it Nepal from its original name of Gorkha.[citation needed] After this he turned his attention towards the east. The Sena kingdom of Choudandi was conquered by 1773 A.D. and Vijaypur, another Sena kingdom, was annexed shortly thereafter. Prithvi Narayan Shah formally established Nepal as a country and the Kingdom of Nepal was officially born in 1769 AD.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_NEPAL_LS_MOD_PRITHVI_NARAYAN_NAME">
+			<Text>Prithvi Narayan</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_NEPAL_LS_MOD_PRITHVI_NARAYAN_SUBTITLE">
+			<Text>King of the Nepal</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_NEPAL_LS_MOD_PRITHVI_NARAYAN_TITLES_1">
+			<Text>Emperor of the Nepal</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_NEPAL_LS_MOD_PRITHVI_NARAYAN_HEADING_1">
+			<Text>History</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_NEPAL_LS_MOD_PRITHVI_NARAYAN_TEXT_1">
+			<Text>1723 - 1775</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DAWN_OF_MAN_NEPAL_LS_MOD_TEXT">
+			<Text>Great Prithvi Narayan Shah, the first king of the unified Nepal, we are impressed by the magnitude of your achievements! Your Highness began your rule of the lands of Gorkha by signing a strategic union with Nuwakot, which lay between Kathmandu and Gorkha. From this position of strength you took possession of important passes in the hills surrounding the Kathmandu Valley, cutting off  communication with the outside world. But this was only the beggining of your of your military campaign. Ignoring two failures, Your Greatness conquered Kirtipur on the third attempt, giving you entrance into the valley which held Kathmandu. Conquest followed with Patan and, even further, with Bhaktapur, giving you full control of the region. Officially founding the Kingdom of Nepal, with her capital in Kathmandu, you turned your attention towards the east. In but a short time, you conquered two Sen Kingdoms, Choudandi and Vijaypur. Now unified, Nepal was ready to stand against British colonial forces and maintain her newly won sovreignty.[NEWLINE][NEWLINE]Prithvi Narayan Shah, Great Unifier of Nepal, in the last life you were but an aging King of a small King. Now you have the chance to show the potential of a Gorkha King! Can your people once again master the mountains and valleys? Can you seize the glory that is rightfully yours? Can you build a civilization that will stand the test of time?</Text>
+		</Row>
+		<!----------------------------------------------------------------
+						Diplomacy
+		------------------------------------------------------------------>
+		<!--First Greeting messages from AI leaders-->
+		<Row Tag="TXT_KEY_LEADER_NEPAL_LS_MOD_PRITHVI_NARAYAN_FIRSTGREETING_1">
+			<Text>Welcome to my kingdom! My name is Prithvi Narayan Shah, the emperor of Nepal. I hope you wouldn't mind if I look down on you.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_NEPAL_LS_MOD_PRITHVI_NARAYAN_FIRSTGREETING_2">
+			<Text>Welcome to Nepal. They call me His Highness, for obvious reasons.</Text>
+		</Row>
+		<!--Defeated messages from AI leaders-->
+		<Row Tag="TXT_KEY_LEADER_NEPAL_LS_MOD_PRITHVI_NARAYAN_DEFEATED_1">
+			<Text>Never was there a time when I did not exist, nor you, nor all these kings; nor in the future shall any of us cease to be. I'll win the next round, I promise.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_NEPAL_LS_MOD_PRITHVI_NARAYAN_DEFEATED_2">
+			<Text>You cannot kill me! For I shall simply be born again. You cannot hold me! For my warriors will set me free. No matter what you do, you will never be rid of me.</Text>
+		</Row>
+		<!-- Human repeats an action too much, gets the following responses -->
+		<Row Tag="TXT_KEY_LEADER_NEPAL_LS_MOD_PRITHVI_NARAYAN_REPEAT_TOO_MUCH_1">
+			<Text>Save your breath, the air is thin here.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_NEPAL_LS_MOD_PRITHVI_NARAYAN_REPEAT_TRADE_TOO_MUCH_1">
+			<Text>You ask too much.</Text>
+		</Row>
+		<!-- Greetings -->
+		<Row Tag="TXT_KEY_LEADER_NEPAL_LS_MOD_PRITHVI_NARAYAN_GREETING_HOSTILE_HELLO_1">
+			<Text>You have come far to hear me tell you of your shortcomings.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_NEPAL_LS_MOD_PRITHVI_NARAYAN_GREETING_POLITE_HELLO_1">
+			<Text>Ah, tell me you have come to engage in more diplomacy!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_NEPAL_LS_MOD_PRITHVI_NARAYAN_GREETING_HOSTILE_HUMAN_AT_WAR_1">
+			<Text>You do well to practise war now, for my Gurkha never stop finding new ways to kill you.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_NEPAL_LS_MOD_PRITHVI_NARAYAN_GREETING_HUMAN_AT_WAR_1">
+			<Text>Block every pass, stop every caravan. Grow while your enemies shrivel. This is my advice to you.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_NEPAL_LS_MOD_PRITHVI_NARAYAN_HOSTILE_AGGRESSIVE_MILITARY_WARNING_1">
+			<Text>You are becoming an enemy worthy of my Gurkha.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_NEPAL_LS_MOD_PRITHVI_NARAYAN_GREETING_HOSTILE_AGGRESSIVE_PLOT_BUYING_1">
+			<Text>You buy land as if this were a game.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_NEPAL_LS_MOD_PRITHVI_NARAYAN_GREETING_AGGRESSIVE_PLOT_BUYING_1">
+			<Text>You buy land as if this were a game.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_NEPAL_LS_MOD_PRITHVI_NARAYAN_GREETING_HOSTILE_AGGRESSIVE_EXPANSION_1">
+			<Text>Your cities now. My cities later.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_NEPAL_LS_MOD_PRITHVI_NARAYAN_GREETING_AGGRESSIVE_EXPANSION_1">
+			<Text>You plant cities when you should plant crops.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_NEPAL_LS_MOD_PRITHVI_NARAYAN_GREETING_FRIENDLY_STRONG_MILITARY_1">
+			<Text>There is wisdom in surrounding yourself with mighty warriors. We are of similar mind, you and I.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_NEPAL_LS_MOD_PRITHVI_NARAYAN_GREETING_FRIENDLY_STRONG_ECONOMY_1">
+			<Text>You are known for your expansive; I hope to see much trade with you in the future.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_NEPAL_LS_MOD_PRITHVI_NARAYAN_GREETING_HOSTILE_HUMAN_FEW_CITIES_1">
+			<Text>You must be hiding your cities somewhere, all the known ones from this mountain!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_NEPAL_LS_MOD_PRITHVI_NARAYAN_GREETING_HOSTILE_HUMAN_SMALL_ARMY_1">
+			<Text>It's ok to have a small army if it is elite. But you are no Gurkha.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_NEPAL_LS_MOD_PRITHVI_NARAYAN_GREETING_HOSTILE_HUMAN_IS_WARMONGER_1">
+			<Text>Your wars mark you as my rival.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_NEPAL_LS_MOD_PRITHVI_NARAYAN_TOO_SOON_FOR_DOF_1">
+			<Text>I have only recently returned from the field, I need time to discuss this matter with my council.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_NEPAL_LS_MOD_PRITHVI_NARAYAN_DENOUNCE_1">
+			<Text>Kali will feast on your soul.[NEWLINE][NEWLINE]([COLOR_WARNING_TEXT]They have publicly denounced us! NOTE: You are not at war.[ENDCOLOR])</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_NEPAL_LS_MOD_PRITHVI_NARAYAN_DENOUNCE_2">
+			<Text>Time is the Great Destroyer. But I will not wait for Time to destroy you.[NEWLINE][NEWLINE]([COLOR_WARNING_TEXT]They have publicly denounced us! NOTE: You are not at war.[ENDCOLOR])</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_NEPAL_LS_MOD_PRITHVI_NARAYAN_RESPONSE_TO_BEING_DENOUNCED_1">
+			<Text>Words are the weapon of a coward.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_NEPAL_LS_MOD_PRITHVI_NARAYAN_RESPONSE_TO_BEING_DENOUNCED_2">
+			<Text>Many have thought the same as you. Already I have killed these enemies, and soon I will kill the rest.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_NEPAL_LS_MOD_PRITHVI_NARAYAN_HUMAN_DOFED_FRIEND_1">
+			<Text>{1_CivName} has dealings we me also, let our alliance prove fruitful.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_NEPAL_LS_MOD_PRITHVI_NARAYAN_HUMAN_DOFED_ENEMY_1">
+			<Text>{1_CivName} is my enemy. I hope you simply forgot to check.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_NEPAL_LS_MOD_PRITHVI_NARAYAN_HUMAN_DENOUNCED_FRIEND_1">
+			<Text>{1_CivName} and I have certain agreements. You ought to have known that.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_NEPAL_LS_MOD_PRITHVI_NARAYAN_HUMAN_DENOUNCED_ENEMY_1">
+			<Text>{1_CivName} needs to know the world are against him. You have done well.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_NEPAL_LS_MOD_PRITHVI_NARAYAN_HUMAN_DOF_SO_AI_DOF_1">
+			<Text>If we are both allies with {1_CivName}, we shall be better allies with each other!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_NEPAL_LS_MOD_PRITHVI_NARAYAN_HUMAN_DOF_SO_AI_DENOUNCE_1">
+			<Text>{1_CivName} has certain assurances from me. Your actions have forced me into this.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_NEPAL_LS_MOD_PRITHVI_NARAYAN_HUMAN_DENOUNCE_SO_AI_DENOUNCE_1">
+			<Text>I share your convictions that {1_CivName} only causes problems for the civilized empires of the world. Perhaps the combination of our denouncements will teach them a lesson.</Text>
+		</Row>
+		<!-- General Diplo Text -->
+		<Row Tag="TXT_KEY_LEADER_NEPAL_LS_MOD_PRITHVI_NARAYAN_COOP_WAR_REQUEST_1">
+			<Text>The wise grieve neither for the living nor for the dead. Let us give {1_PlayerName:textkey} a chance to start over.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_NEPAL_LS_MOD_PRITHVI_NARAYAN_COOP_WAR_REQUEST_2">
+			<Text>{1_PlayerName:textkey}'s reincarnation is overdue.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_NEPAL_LS_MOD_PRITHVI_NARAYAN_COOP_WAR_TIME_1">
+			<Text>{1_PlayerName:textkey}'s time is over.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_NEPAL_LS_MOD_PRITHVI_NARAYAN_DEC_FRIENDSHIP_1">
+			<Text>Allies?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_NEPAL_LS_MOD_PRITHVI_NARAYAN_DEC_FRIENDSHIP_2">
+			<Text>I would sleep tonight, knowing I had an ally in you.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_NEPAL_LS_MOD_PRITHVI_NARAYAN_AGGRESSIVE_MILITARY_WARNING_1">
+			<Text>It's come to my attention that you have a large number of Units near my borders. I would also add that they are missing their shoelaces.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_NEPAL_LS_MOD_PRITHVI_NARAYAN_PLOT_BUYING_WARNING_1">
+			<Text>Stop buying land. This is a warning.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_NEPAL_LS_MOD_PRITHVI_NARAYAN_PLOT_BUYING_SERIOUS_WARNING_1">
+			<Text>Little did you know that as you signed that lease, you also signed your death warrant.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_NEPAL_LS_MOD_PRITHVI_NARAYAN_EXPANSION_SERIOUS_WARNING_1">
+			<Text>Your expansionism will lead to war. You must know this.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_NEPAL_LS_MOD_PRITHVI_NARAYAN_EXPANSION_WARNING">
+			<Text>Your expansionism is an outrage!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_NEPAL_LS_MOD_PRITHVI_NARAYAN_RETURNED_CIVILIAN_1">
+			<Text>You have proved yourself to me.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_NEPAL_LS_MOD_PRITHVI_NARAYAN_RETURNED_CIVILIAN_2">
+			<Text>Our power over life and death is troubling, is it not?</Text>
+		</Row>
+		<!--Insults-->
+		<Row Tag="TXT_KEY_LEADER_NEPAL_LS_MOD_PRITHVI_NARAYAN_INSULT_1">
+			<Text>My moustache is the DESTROYER OF WORLDS!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_NEPAL_LS_MOD_PRITHVI_NARAYAN_INSULT_2">
+			<Text>Maybe it's the altitude, but I feel I am more like a God than you are.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_NEPAL_LS_MOD_PRITHVI_NARAYAN_INSULT_3">
+			<Text>Those clouds up there spell 'gullible'.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_NEPAL_LS_MOD_PRITHVI_NARAYAN_INSULT_4">
+			<Text>I have decided you must be the reincarnation of a small rodent.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_NEPAL_LS_MOD_PRITHVI_NARAYAN_INSULT_MILITARY_1">
+			<Text>Your pathetic military is so... so... pathetic!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_NEPAL_LS_MOD_PRITHVI_NARAYAN_INSULT_MILITARY_2">
+			<Text>I suppose it is understandable that you have given up building a military. If I were against me, I would give up too!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_NEPAL_LS_MOD_PRITHVI_NARAYAN_INSULT_BULLY_1">
+			<Text>Keep on bullying lesser leaders while I pull ahead!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_NEPAL_LS_MOD_PRITHVI_NARAYAN_INSULT_UNHAPPINESS_1">
+			<Text>My valleys are filled with your people's wailing. I'm going to have to ask you to do something about that.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_NEPAL_LS_MOD_PRITHVI_NARAYAN_INSULT_UNHAPPINESS_2">
+			<Text>My valleys are filled with your people's wailing. I'm going to have to ask you to do something about that.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_NEPAL_LS_MOD_PRITHVI_NARAYAN_INSULT_CITIES_1">
+			<Text>You cities are puny. Just like you.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_NEPAL_LS_MOD_PRITHVI_NARAYAN_INSULT_POPULATION_1">
+			<Text>It is a mercy so few are subjected to your rule.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_NEPAL_LS_MOD_PRITHVI_NARAYAN_INSULT_CULTURE_1">
+			<Text>Your culture is low. Work more mountain tiles. Oh wait... you can't!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_NEPAL_LS_MOD_PRITHVI_NARAYAN_INSULT_CULTURE_2">
+			<Text>Your culture is low. Work more mountain tiles. Oh wait... you can't!</Text>
+		</Row>
+		<!--Public Declarations-->
+		<Row Tag="TXT_KEY_LEADER_NEPAL_LS_MOD_PRITHVI_NARAYAN_DECLARATION_PROTECT_CITY_STATE_1">
+			<Text>{2_MajorCivName:textkey} announces to the world that it is now protecting {1_MinorCivName:textkey}. Attacking the City-State will greatly damage relations and may lead to war.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_NEPAL_LS_MOD_PRITHVI_NARAYAN_DECLARATION_ABANDON_CITY_STATE_1">
+			<Text>{2_MajorCivName:textkey} has taken back its guarantee of protecting {1_MinorCivName:textkey}.</Text>
+		</Row>
+		<!-- Human is asking the AI for something -->
+		<Row Tag="TXT_KEY_LEADER_NEPAL_LS_MOD_PRITHVI_NARAYAN_DONT_SETTLE_NO_1">
+			<Text>If you wanted where I'm settling then you should have settled there first.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_NEPAL_LS_MOD_PRITHVI_NARAYAN_DONT_SETTLE_YES_1">
+			<Text>Ok, but I expect something in return, later.</Text>
+		</Row>
+		<!--Deal Offers and related-->
+		<Row Tag="TXT_KEY_LEADER_NEPAL_LS_MOD_PRITHVI_NARAYAN_LUXURY_TRADE_1">
+			<Text>Trade brings allies closer, don't you agree?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_NEPAL_LS_MOD_PRITHVI_NARAYAN_OPEN_BORDERS_EXCHANGE_1">
+			<Text>Let me march through your valley, friend.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_NEPAL_LS_MOD_PRITHVI_NARAYAN_RESPONSE_REQUEST_1">
+			<Text>Give me this and I will promise to keep you safe... from minor tribes and things like that.</Text>
+		</Row>
+		<!--AI Attacked by Human - Strong and Weak also include the default response sets-->
+		<Row Tag="TXT_KEY_LEADER_NEPAL_LS_MOD_PRITHVI_NARAYAN_ATTACKED_HOSTILE_1">
+			<Text>This is not even my final form!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_NEPAL_LS_MOD_PRITHVI_NARAYAN_ATTACKED_EXCITED_1">
+			<Text>This is Dharma.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_NEPAL_LS_MOD_PRITHVI_NARAYAN_ATTACKED_SAD_1">
+			<Text>I didn't plan on this. Your destruction will delay my plans greatly.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_NEPAL_LS_MOD_PRITHVI_NARAYAN_ATTACKED_BETRAYED_1">
+			<Text>This was always a risk. Now you must be destroyed.</Text>
+		</Row>
+		<!--AI Declaring War on Human - Strong and Weak also include the default response sets-->
+		<Row Tag="TXT_KEY_LEADER_NEPAL_LS_MOD_PRITHVI_NARAYAN_DOW_GENERIC_1">
+			<Text>In a past life our peoples were one. We can be one once again.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_NEPAL_LS_MOD_PRITHVI_NARAYAN_DOW_LAND_1">
+			<Text>You land will add to my own.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_NEPAL_LS_MOD_PRITHVI_NARAYAN_DOW_LAND_2">
+			<Text>If I come out of this war with more than I had, then surely it was right for me to do so.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_NEPAL_LS_MOD_PRITHVI_NARAYAN_DOW_WORLD_CONQUEST_1">
+			<Text>I am become Death, Destroyer of Worlds.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_NEPAL_LS_MOD_PRITHVI_NARAYAN_DOW_WORLD_CONQUEST_2">
+			<Text>I will strike down every man, woman and child until all are reincarnated subjects of my empire!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_NEPAL_LS_MOD_PRITHVI_NARAYAN_DOW_OPPORTUNITY_1">
+			<Text>Performing the duty prescribed by one's own nature, one incurreth no sin.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_NEPAL_LS_MOD_PRITHVI_NARAYAN_DOW_OPPORTUNITY_2">
+			<Text>How can I call myself King if I do not make things better for my own people?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_NEPAL_LS_MOD_PRITHVI_NARAYAN_DOW_DESPERATE_1">
+			<Text>If I strike you down, surely support will flood to me from every world of creation!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_NEPAL_LS_MOD_PRITHVI_NARAYAN_DOW_DESPERATE_2">
+			<Text>This is the only choice I have. Never before have I seen so clearly my destiny!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_NEPAL_LS_MOD_PRITHVI_NARAYAN_DOW_BETRAYAL_1">
+			<Text>None will live to remember that we were once friends.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_NEPAL_LS_MOD_PRITHVI_NARAYAN_DOW_BETRAYAL_2">
+			<Text>It will not seem like betrayal when you are reborn as my subject.</Text>
+		</Row>
+		<!--AI Responses to a human peace offer-->
+		<Row Tag="TXT_KEY_LEADER_NEPAL_LS_MOD_PRITHVI_NARAYAN_TOO_SOON_NO_PEACE_1">
+			<Text>You have not even begun to suffer!</Text>
+		</Row>
+		<!--AI Responses to a discussion mode topics-->
+		<Row Tag="TXT_KEY_LEADER_NEPAL_LS_MOD_PRITHVI_NARAYAN_BAD_1">
+			<Text>This is not dharma.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_NEPAL_LS_MOD_PRITHVI_NARAYAN_BAD_2">
+			<Text>You try me.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_NEPAL_LS_MOD_PRITHVI_NARAYAN_BAD_3">
+			<Text>Have faith that I destroy those who disrespect me.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_NEPAL_LS_MOD_PRITHVI_NARAYAN_GOOD_1">
+			<Text>Shanti.</Text>
+		</Row>
+		<!----------------------------------------------------------------
+						UA
+		------------------------------------------------------------------>
+		<Row Tag="TXT_KEY_TRAIT_LS_ROOF_OF_THE_WORLD_SHORT">
+			<Text>Roof of the World</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_LS_ROOF_OF_THE_WORLD">
+			<Text>Mountains provide +2 [ICON_FOOD] Food, +1 [ICON_PRODUCTION] Production (and +1 [ICON_CULTURE] Culture after discovery of Guilds). Founded cities claim nearby neutral mountains.</Text>
+		</Row>
+		<!----------------------------------------------------------------
+						U1
+		------------------------------------------------------------------>
+		<Row Tag="TXT_KEY_UNIT_LS_GURKHA">
+			<Text>Gurkha</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_LS_GURKHA_HELP">
+			<Text>The Gurkha gains a small amount of experience each turn and earns +50% experience from combat.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_LS_GURKHA_TEXT">
+			<Text>The Gurkhas are the soldiers of Nepal. Historically, the terms "Gurkha" and "Gorkhali" were synonymous with "Nepali," and derived from the hill town and district of Gorkha from which the Kingdom of Nepal expanded. Gurkhas are traditionally recruited from various Nepali hill ethnicities, but do not come from a single group or region in the multi-ethnic country. Closely associated with the Khukuri, a forward-curving Nepalese knife, the Gurkhas have a reputation for their fearless military prowess.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_LS_GURKHA_STRATEGY">
+			<Text>Unlike the Rifleman, which they replace, the Gurkha have two promotions which improve their ability to gain XP: a flat % boost and a turnly increase. As a result, a well looked after Gurkha should be able to achieve a level of veterancy unlike any other unit.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_GURKHA_MOD">
+			<Text>Gurkha Training</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_GURKHA_MOD_HELP">
+			<Text>+50% experience gain in combat.[NEWLINE]Experience increases every turn.</Text>
+		</Row>
+		<!----------------------------------------------------------------
+						U2
+		------------------------------------------------------------------>
+		<Row Tag="TXT_KEY_BUILDING_LS_RICE_TERRACE">
+			<Text>Rice Terrace</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_LS_RICE_TERRACE_HELP">
+			<Text>City must be built within 2 tiles of a Mountain or border a river.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_LS_RICE_TERRACE_TEXT">
+			<Text>Paddy fields are the typical feature of rice farming in east, south and southeast Asia. Paddies can be built into steep hillsides as terraces and adjacent to depressed or steeply sloped features such as rivers or marshes. They can require a great deal of labor and materials to create, and need large quantities of water for irrigation. Oxen and water buffalo, adapted for life in wetlands, are important working animals used extensively in paddy field farming.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_LS_RICE_TERRACE_STRATEGY">
+			<Text>Coming in both earlier and cheaper to build than the watermill, which it replaces, the Rice Terrace can be also build nearby mountain. With the UA, this increases the value of the mountain tile even further, making mountain starts for Nepal unique in their early high growth potential.</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

@@ -1,0 +1,692 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 4/25/2017 8:32:05 AM -->
+<GameData>
+	<Language_en_US>
+		<!--General-->
+		<Row Tag="TXT_KEY_ER_CIV_TAUNGOO_ADJECTIVE">
+			<Text>Taungoo</Text>
+		</Row>
+		<Row Tag="TXT_KEY_ER_CIV_TAUNGOO_DESC">
+			<Text>Taungoo Empire</Text>
+		</Row>
+		<Row Tag="TXT_KEY_ER_CIV_TAUNGOO_SHORT_DESC">
+			<Text>Taungoo</Text>
+		</Row>
+		<Row Tag="TXT_KEY_ER_CIV5_DAWN_TAUNGOO_TEXT">
+			<Text>Bayinnaung Kyawhtin Nawratha, your legacy in Indochina is unparalleled. After your brother-in-law's death, you restored the lands of the Taungoo Empire within 2 years, and then continued on your historic conquest of Siam, Lan Na, Lan Xang and much more in the 12 years that followed. Your leadership brought into existence the largest contiguous empire in the history of Southeast Asia. No other man could have caused this explosion of human energy. Your military prowess brought forth the majesty of Burma and the respect for your person to the rest of Indochina for centuries to come. Your reign saw the establishment of a mutli-ethnic polity, standardised orthodox Theravada Buddhism,  and the adoption of the Burmese calendar and Burmese law throughout Indochina. The lasting political and cultural impacts of the Taungoo Dynasty can never be forgotten.[NEWLINE][NEWLINE]     O Great Royal King of Burma, the people of your lands long for your return. Will you once again bring forth prosperity through order? Will you incite another explosion of military might? Will you build a civilization that can stand the test of time?</Text>
+		</Row>
+		<!--Unique Ability-->
+		<Row Tag="TXT_KEY_ER_TRAIT_AHMUDAN">
+			<Text>During [ICON_GOLDEN_AGE] Golden Ages, [ICON_PUPPET] Puppetted cities produce a free melee unit every 5 turns on Standard Speed. Gain [ICON_GOLDEN_AGE] Golden Age Points for conquering cities.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_ER_TRAIT_AHMUDAN_SHORT">
+			<Text>Ahmudan Conscription</Text>
+		</Row>
+		<Row Tag="TXT_KEY_ER_TAUNGOO_CONSCRIPTION_TEXT">
+			<Text>The Ahmudan has gained {1_Count} Units from your [ICON_PUPPET] Puppet Cities.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_ER_TAUNGOO_CONSCRIPTION_HEAD">
+			<Text>Units have been conscripted into the Ahmudan</Text>
+		</Row>
+		<Row Tag="TXT_KEY_ER_TAUNGOO_GA_BONUS_HEAD">
+			<Text>Gained [ICON_GOLDEN_AGE] Golden Age Points for your conquest</Text>
+		</Row>
+		<!--Unique Unit-->
+		<Row Tag="TXT_KEY_ER_UNIT_WHITE_WAR_ELEPHANT">
+			<Text>White War Elephant</Text>
+		</Row>
+		<Row Tag="TXT_KEY_ER_CIVILOPEDIA_UNITS_WHITE_WAR_ELEPHANT_TEXT">
+			<Text>The White Elephant has always been a symbol of royalty and status amongst Indochina. Several epics written about the conquests of Bayinnaung feature the desire to retake white elephants captured from Burma in previous wars by other countries like Siam. In his plan to attack Siam, Bayinnaung demanded tribute in the form of four white elephants from Siam, who promptly refused. Bayinnaung used this excuse to fight a war with Siam, in which he stormed through much of Siam before eventually conquering Ayutthaya, the capital. The elephants were brought back to Bago and have since been as much a symbol of royalty in Lower Burma as the peacock in Upper Burma. In a sense, these animals metaphorically differentiate the much more militaristic mindset of the monarchs of Lower Burma from the culturally minded Upper Burmese kings. 
+			[NEWLINE][NEWLINE]Albino Elephants are a rarity and their status as royal symbols delegated them only to ceremonial roles and stable life in the palace compounds. The capture of a White elephants, has retained its connotation with a successful conquest since the days of Bayinnaung. A more global connotation of a white elephant is in a "white elephant project" indicating that a task is ultimately useless and wasteful. Nonetheless, the Lower Burmese maintain their affection for white elephants, with a few stables dedicated solely to elephants open to this day. 
+			[NEWLINE][NEWLINE]Bayinnaung and the other Taungoo Kings regularly used elephants as a frontline unit to clear a path through the jungles of Indochina and as a backline unit to charge in on escaping enemy units. To have an elephant in war is at once both an advantage and a disadvantage as they are hard to maintain, but possessing bulky strength and are natural to the terrain, unlike horses.
+			[NEWLINE][NEWLINE]Today, elephants are utilised within Burma largely for logging companies and forestry-related services. A few elephants are used for entertainment or as a fun ride at zoos. The military has since forgone elephant cavalry for tanks.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_ER_UNIT_WHITE_WAR_ELEPHANT_STRATEGY">
+			<Text>The White War Elephant costs more than a normal knight to build. It produces [ICON_CULTURE] culture equivalent to half the opponent unit's strength and [ICON_GOLDEN_AGE] Golden Age Points equivalent to 1.5 times the opponent unit strength per unit killed. Gains a free Woodsman Promotion. Only Taungoo may build it.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_ER_UNIT_HELP_WHITE_WAR_ELEPHANT">
+			<Text>Powerful Medieval Mounted Unit, weak to Pikemen.[NEWLINE][NEWLINE]Produces [ICON_CULTURE] Culture and [ICON_GOLDEN_AGE] Golden Age points on kills. Free Woodsman Promotion.</Text>
+		</Row>
+		<!--Unique Building-->
+		<Row Tag="TXT_KEY_ER_BUILDING_MARTIAL_SCHOOL_HELP">
+			<Text>Provides 2XP to all units trained in this city and 1 [ICON_RESEARCH] Science per 2 [ICON_CITIZEN] citizens. Only Taungoo may build it.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_ER_BUILDING_MARTIAL_SCHOOL">
+			<Text>Martial School</Text>
+		</Row>
+		<Row Tag="TXT_KEY_ER_BUILDING_MARTIAL_SCHOOL_PEDIA">
+			<Text>One of the main attributes that let such a small region in size and population produce many of Burma's military leaders and the largest empire in the history of Southeast Asia was the militaristic culture of the citizenry in Taungoo. Taungoo, the town, was a product of Upper Burma's unending wars in the centuries leading up the Taungoo Period and its early days were marred by 12 assassinations in two centuries. 7 out of 16 of Taungoo's kings took to the battlefield before their 20th birthday.
+			[NEWLINE][NEWLINE]This martial culture allowed the vassal state to turn its mainland into a vassal state through its education system. The senior princes of Taungoo, and in fact, many of the citizens, received a military-style education since childhood. The princes were, of course, trained much more militaristically than the average citizen. Later when Bayinnaung had conquered much of Indochina, he would set up a system where the princes of his vassal states would go to Bago to be educated in the same manner at these Martial Schools both to introduce Burmese court culture and to keep the princes as hostages should the rebellions arise.
+			[NEWLINE][NEWLINE]The Martial Schools were neither about martial arts, which were underdeveloped at this point in Burmese history, nor were they Military Schools. The students were not taught primarily being taught military strategy; they were only learning everything else through a militaristic or martial lens. This system of education continued in part until the Socialist coup in 1962 where the militaristic lens was simply replaced with a socialist one.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_ER_BUILDING_MARTIAL_SCHOOL_STRATEGY">
+			<Text>Unique Library available to Taungoo. Besides the normal library benefits, it provides 2 XP per 2 [ICON_CITIZEN] Citizen to all units built in the city. Only Taungoo may build it.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_BASIC_DUMMY">
+			<Text>Emerald Dummy Buildingclass</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_MARTIAL_DUMMY">
+			<Text>Emerald Dummy Building</Text>
+		</Row>
+		<!--City Names-->
+		<Row Tag="TXT_KEY_CITY_NAME_ER_TAUNGOO_BAGO">
+			<Text>Bago</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_ER_TAUNGOO_TAUNGOO">
+			<Text>Taungoo</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_ER_TAUNGOO_HANTHAWADDY">
+			<Text>Hanthawaddy</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_ER_TAUNGOO_PYAYMYO">
+			<Text>Pyaymyo</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_ER_TAUNGOO_SAGAING">
+			<Text>Sagaing</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_ER_TAUNGOO_INWA">
+			<Text>Inwa</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_ER_TAUNGOO_PATHEIN">
+			<Text>Pathein</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_ER_TAUNGOO_MARTABAN">
+			<Text>Mottama</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_ER_TAUNGOO_DALA">
+			<Text>Dala</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_ER_TAUNGOO_BHAMO">
+			<Text>Bhamo</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_ER_TAUNGOO_MEGUI">
+			<Text>Megui</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_ER_TAUNGOO_DAWEI">
+			<Text>Dawei</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_ER_TAUNGOO_DAGON">
+			<Text>Dagon</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_ER_TAUNGOO_SALIN">
+			<Text>Salin</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_ER_TAUNGOO_KYAIKHTO">
+			<Text>Kyaikhto</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_ER_TAUNGOO_NAUNGYO">
+			<Text>Naungyo</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_ER_TAUNGOO_DANUBYU">
+			<Text>Danubyu</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_ER_TAUNGOO_MYEDE">
+			<Text>Myede</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_ER_TAUNGOO_MONYWA">
+			<Text>Monywa</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_ER_TAUNGOO_KYAUKSE">
+			<Text>Kyaukse</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_ER_TAUNGOO_MOMEIK">
+			<Text>Momeik</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_ER_TAUNGOO_MOHNYIN">
+			<Text>Mohnyin</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_ER_TAUNGOO_MOGAUNG">
+			<Text>Mogaung</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_ER_TAUNGOO_KALEI">
+			<Text>Kalei</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_ER_TAUNGOO_MONE">
+			<Text>Mo'ne</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_ER_TAUNGOO_NYAUNGSHWE">
+			<Text>Nyaungshwe</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_ER_TAUNGOO_THARRAWADDY">
+			<Text>Tharrawaddy</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_ER_TAUNGOO_THEINNI">
+			<Text>Theinni</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_ER_TAUNGOO_AYUTTHAYA">
+			<Text>Ayutthaya</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_ER_TAUNGOO_TANINTHARI">
+			<Text>Taninthari</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_ER_TAUNGOO_PAKHAN">
+			<Text>Pakhan</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_ER_TAUNGOO_CHIANG_MAI">
+			<Text>Chiang Mai</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_ER_TAUNGOO_VIENTIANE">
+			<Text>Vientiane</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_ER_TAUNGOO_KENG_TUNG">
+			<Text>Keng Tung</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_ER_TAUNGOO_THATON">
+			<Text>Thaton</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_ER_TAUNGOO_THOBAL">
+			<Text>Thobal</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_ER_TAUNGOO_MAWLAMYINE">
+			<Text>Mawlamyine</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_ER_TAUNGOO_PHITSANULOK">
+			<Text>Phitsanulok</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_ER_TAUNGOO_TAIKKYI">
+			<Text>Taikkyi</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_ER_TAUNGOO_HLEGU">
+			<Text>Hlegu</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_KHINE">
+			<Text>Khine</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_AUNG">
+			<Text>Aung</Text>
+		</Row>
+		<Row Tag ="TXT_KEY_SPY_NAME_MYAT">
+			<Text>Myat</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_KAUNG">
+			<Text>Kaung</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_CHO">
+			<Text>Cho</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_TAUNGOO_SHWE">
+			<Text>Shwe</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_TAUNGOO_LIN">
+			<Text>Lin</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_NWE">
+			<Text>Nwe</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_LWIN">
+			<Text>Lwin</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_MYA">
+			<Text>Mya</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<!--Civilopedia-->
+		<Row Tag="TXT_KEY_CIVLOPEDIA_TAUNGOO_TITLE">
+			<Text>Taungoo</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_TAUNGOO_HEADING_1">
+			<Text>Background</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_TAUNGOO_TEXT_1">
+			<Text>
+				The Taungoo Empire was the second dynasty of Burma and seated its power primarily in lower Burma Proper at first in the town of Taungoo, but later in the city of Bago. It was a very militaristic dynasty: extending the reach and influence of Burma to all of the Indochinese peninsula and left a strong impact on the legal and social systems of Indochina. It is also known as the First Taungoo Dynasty, the Taungoo-Hanthawaddy Period, or the Taungoo Period
+				[NEWLINE][NEWLINE] Historically, the Burmese people identify Anawratha Minsaw of the Bagan Period as the founder of the "First Myanmar" and the first dynasty of Myanmar. However, an advanced civilisation of Pyu people existed along the Irrawaddy before the Bagan. After the reign of the Bagan monarchs, most of the Pyu people had largely assimilated to Burmese culture.  The Pyu were a group of people established in Upper Burma speaking Tibeto-Burman languages that would come to dominate Burma. However Lower Burma was populated by the Mon, who spoke an Austro-Asiatic language and lived along the Thanlyin (Salween) river. A small kingdom in the north grew into the Bagan Kingdom in the 9th century by a people group who called themselves the Mranma and slowly absorbed neighbouring regions.
+				[NEWLINE][NEWLINE] Bagan and the subsequent Burmese dynasties evolved along the Ayeyarwaddy(Irrawaddy) River, where the ancient city of Bagan is located. Anawratha was the first to unite a large portion of modern Burma proper under the same empire. Although several short periods of turmoil and collapse occurred, Bagan lasted from 826 to 1287 leaving behind the temples of Bagan and the foundations for Burma. It ultimately fell from Mongol attacks, who either never successfully conquered Upper Burma or never intended to do more than keep Southeast Asia disintegrated. two centuries of a warring period that is all too common in Asia occurred before the arrival of the next re-unification.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_TAUNGOO_HEADING_2">
+			<Text>Principality of Taungoo</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_TAUNGOO_TEXT_2">
+			<Text>
+				The town of Taungoo itself was founded in the late Bagan Period and the earliest record of the town go back to 1191 and is recorded to have 370 households. The name Taungoo, literally translates to "Mountain/Hill Ridge" as the town is located in a hilly region to the southeast of Bagan and northeast of Bago. It's location in a narrow valley at the edge of a dry zone made it very hard to access, except from the Sittaung River. This town eventually became the primary city of this frontier region in the Bagan Kingdom eventually.
+				[NEWLINE][NEWLINE]The Bagan Kingdom eventually collapsed and the city and the region came under the control of Pinya. However, control was limited due to the city's geography and the governor of the region was routinely assassinated.  In 1358, Taungoo revolted and Inwa (Ava), Pinya's successor, quickly regained control. Until 1399, the  assassinations continued until Inwa imposed tighter control in 1399.
+				[NEWLINE][NEWLINE]The Forty Year's War broke out between Inwa and Bago to the south. Beginning in between the two, the war exhausted Inwa. From 1425 to the 1470s, waves of rebellions broke out in Inwa after every king's death, often led by a relentlessly ambitious military leader from Taungoo. Taungoo became known for its militaristic generals: foreshadowing what was to come. In 1470, Sithu Kyawhtin, from whom Bayinnaung Kyawhtin Nawrahta gets his middle name from, was appointed governor of Taungoo. He was once again assassinated  and his son Min Sithu took the office of Taungoo's governor. However, in 1485 he was assassinated by his nephew Mingyi Nyo.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_TAUNGOO_HEADING_3">
+			<Text>The Taungoo Dynasty</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_TAUNGOO_TEXT_3">
+			<Text>
+				Mingyi Nyo was different from the other rebellions in that he had the support of the new king of Inwa: Minkhaung II. He was a practical and efficient leader, bringing law and order to the region. Refugees from the other parts of Burma flowed to this new centre for the Burmese people after centuries of the warring states. He established irrigation structures to negate the poor agriculture in the region. He increased his power boldly by building a palace and had royal pretentions. He raided the southern province of Hanthawaddy without Inwa's permission, knowing that the king of Inwa needed his help against a rebellion that was set to happen soon with the growing tensions in Inwa. 
+				[NEWLINE][NEWLINE]After Minkhaung II's death, Mingyi Nyo broke away from Inwa, despite the new Inwa king's attempts to placate him with Kyaukse's granary. Inwa could not and did not do anything when Taungoo seceded as a raid from the Shan states to the northeast were threatening Inwa's very existence. Mingyi Nyo had successfully established Taungoo as an independent regional power. The former vassal was then on a track to take over Inwa. 
+				[NEWLINE][NEWLINE]His son Tabinshwehti consolidated power as Shan powers drove out the Burmese from the recently conquered Inwa. Between Bagan's fall and the rise of Taungoo, there were several smaller competing city states in Upper Burma from whom many fleeing migrants empowered Taungoo. Tabinshwehti was able to push forth militaristically south conquering Hanthawaddy, the capital of the relatively stable small kingdom in Bago.
+				[NEWLINE][NEWLINE]By then the geopolitics were beginning to change in Southeast Asia with a stronger Shan kingdom to the northeast and a Siamese kingdom to the southeast. Portuguese merchants, after conquering Malacca, were also eager to trade and/or conquer. As such, Tabinshwehti was crowned in the ancient capital of Bagan as the king of Burma before moving the capital to the more merchantilistically advantageous city of Bago. Unlike the smaller town of Taungoo, Bago provided direct access to the ocean through the Bago River.
+				[NEWLINE][NEWLINE]After his assassination by some rebellions, his brother-in-law Kyawhtin Nawrahta ascended to the throne. For his unusual relation to Tabinshwehti, the Burmese people refer to him as Bayinnaung, literally King's brother in law. Bayinnaung was able to reclaim the kingdom as a "king without a kingdom" after the turmoil following the assassination.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_TAUNGOO_HEADING_4">
+			<Text>Bayinnaung</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_TAUNGOO_TEXT_4">
+			<Text>
+				Bayinnaung began to expand his kingdom into an empire through an energetic command of a large conscription force. He conquered, Inwa, the Shan states to the northeast, Manipur, Lanna, Siam and Lan Xang. He maintained this large empire not by conquering the lands and establishing a power structure, but by conquering the rulers of the land through Thitsa and Kyaezu (Allegiance and Gratitude). Bayinnaung consolidated himself as the Sekyawaddy (Universal Ruler). Although several of these vassal kings revolted several times, by 1576, Bayinnaung had been able to stabilise the massive empire stretching across Indochina. 
+				[NEWLINE][NEWLINE]He introduced some reforms, but by the nature of his empire consisting of puppet states, could only do so marginally. Perhaps his greatest legacies are the standardising the legal code across Southeast Asia and the establishment of a system where the vassal kings were to send their son for education in Taungoo. The latter bringing an end to the constant Shan raids that plagued so many kings of Burma in the past and serving as a system for spreading Burmese court culture throughout Indochina in the future.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_TAUNGOO_HEADING_5">	
+			<Text>The fall of the First Taungoo Empire</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_TAUNGOO_TEXT_5">
+			<Text>Bayinnaung eventually died of a long illness whilst attempting to keep the Mughal Empire at bay by attempting to conquer Arakan. His successor Nanda never got the support of the dozens of vassal kings and the administrative model that Bayinnaung utilised meant that every new king had to re-establish his authority with all the vassals again. It was difficult enough for Bayinnaung to control and maintain the support of so many vassals from so many places. Nanda was able to keep the rebellions from the northern Chinese-Shan states and Inwa under control for two years before the elephant in the empire, Siam, revolted. Nanda spent the remaining 13 years of his reign trying to re-consolidate Siam, whilst more and more of the Taungoo Empire rebelled and collapse. Each of Nanda' attacks on Siam failed disastrously and each attempt gathered more confidence for all the other Taungoo vassals. 
+			[NEWLINE[NEWLINE]In 1595, Siam seized Taninthari (Tenasserim) and also all the vassals east of the Thanlyin (Salween) river had broken away. Taungoo, the town, eventually tried to break away at the dawn of the 17th century with the help of the Arakan Kingdom the west. The populace of Lower Burma fled and former military generals fled into monkhood. They captured Bago and thoroughly looted and burned the imperial capital, described by the Portuguese as one of the wonders of Asia, down. The fall of Bago marked the end of the shortest-lived but most explosive dynasty in Burmese history. 
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_TAUNGOO_HEADING_6">	
+			<Text>The Interregnum</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_TAUNGOO_TEXT_6">
+			<Text>Even before the official fall of the First Taungoo Empire, the vassals and breakaway states had already begun many many-sided wars. Pyay (Prome), Taungoo and Inwa fought for control of central Burma. Siam and the new Chiang Rai attacked Lanna in Chiang Mai and Lanna was eventually split into three. Siam, after their conquest of Tanninthari, they attempted to take Taungoo (not the empire, but the small city-state), but were driven out by Taungoo's Arakan allies. Portugal had set up a small colony in Thanlyin (Syriam), opposite Dagon (modern-day Yangon) and were taking sides in many of the wars firing off left and right. Siam prepared to invade Lanna, but called it off after Naresuan, their king, died suddenly. 
+			[NEWLINE][NEWLINE]The 15-ish years of the Interregnum Period  was ten times shorter than the warring Interregnum between Bagan and Taungoo and was taken over by the Nyaungyan Dynasty led a branch of the descendants of Bayinnaung in the small state of Taungoo. King Nyaungyan was the son of Bayinnaung and took control over the small state of Taungoo in 1599, providing an unbroken line of succession from his brother Nanda. He broke away from the Taungoo Empire and allied with Arakan, staying out of the many wars in the Interregnum. He re-established social and military standards in Taungoo and paved the way for the Restored Taungoo Empire. 
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_TAUNGOO_HEADING_7">	
+			<Text>The Nyaungyan Restoration</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_TAUNGOO_TEXT_7">
+			<Text>Competing with the Inwa conquests in the 1610s, the Nyaungyan Restoration was the re-establishment of the Taungoo Empire after the Interregnum. This period is also known as the Restored Taungoo Kingdom, the Second Taungoo Empire, the Inwa Period or just simply as the second half of the Taungoo-Hanthawaddy Period. Nyaungyan began the process himself by conquering Inwa and moved the capital to Inwa. Because of this, many scholars regard the Nyaungyan Restoration to have begun in 1599, immediately after Nanda's defeat and the fall of the First Taungoo Empire. 
+			[NEWLINE][NEWLINE]Nyaungyan managed to re-gain central authority over some of Upper Burma and the Southern Shan states in 1606 and his successor, Anaukpetlun carried forth without another Interregnum. Anaukpetlun recovered Taninthari, Dawei and Lanna back from the Siamese incursions during the Interregnum by 1614. He then captured the other Shan States. The next king Thalun rebuilt the infrastructure and conducted the first census of the empire. By 1650, the three kings had established a much more manageable and reasonable Empire. As its capital had moved to Inwa, many Burmese people today know of this period both as the Inwa Period and the second half of the Taungoo period. 
+			[NEWLINE][NEWLINE]The Nyaungyan Dynasty continued on the legacy of the Taungoo Empire in consolidating legal standards a reforming the governance systems. Building on Bayinnaung's Saopha Incorporation, the crown of Burma eventually replaced the chieftainships of many of the small vassal states and the powers of the Shan Saophas. Secular reforms were made in contrast with Bayinnaung's Orthodox Theravada Buddhism and the empire grew economically. The new Taungoo Empire enjoyed lasting peace for the rest of the 17th century well into the 18th. However, by 1724, the empire was starting its slow and gradual decline. Chin groups from Meitei raided from the west, replacing the Shan raids that plagued Bagan. In 1740, Bago began a rebellion and by 1745, had created a Restored Hanthawaddy Kingdom. Siam also succeeded in conquering the Taninthari coast in 1752. The Taungoo Empire, both of them, fell on the 23rd of March 1752 when Hanthawaddy successfully captured Inwa, ending the 266 year long dual dynasty. </Text>
+		</Row>
+		<!--Bayinnaung-->
+		<Row Tag="TXT_KEY_LEADER_BAYINNAUNG_DESC">
+			<Text>Bayinnaung</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_BAYINNAUNG_PEDIA">
+			<Text>Bayinnaung</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_BAYINNAUNG_HEADING_1">
+			<Text>Introduction</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_BAYINNAUNG_HEADING_2">
+			<Text>The Conquests of Bayinnaung: Burma</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_BAYINNAUNG_HEADING_3">
+			<Text>The Conquests of Bayinnaung: Indochina</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_BAYINNAUNG_HEADING_4">
+			<Text>Stablisation of the Empire</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_BAYINNAUNG_HEADING_5">
+			<Text>Sekyawaddy Bayinnaung</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_BAYINNAUNG_HEADING_6">
+			<Text>The Protector of Theravada Buddhism</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_BAYINNAUNG_HEADING_7">
+			<Text>Death and Legacy</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_BAYINNAUNG_TEXT_1">
+			<Text>Bayinnaung Kyawhtin Nawratha was the second king of the Taungoo Dynasty and succeeded his brother-in-law Tabinshwehti after Tabinshwehti had been assassinated. He found himself a king without a kingdom as the coup had undermined Tabinshwehti's re-unification of Burma.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_BAYINNAUNG_TEXT_2">
+			<Text>Bayinnaung led his few loyal troops through the Bago-controlled capital region back to Taungoo where he garnered enough support. Within 6 months, he garnered over 9600 men, 200 horses, 20 elephants and 20 war boats operated by people of various ethnic identities in Taungoo. Bayinnaung conquered Taungoo back from his younger brother, whom he forgave before taking Pyaymyo, Bagan, Inwa, Sagaing and the rest of upper Burma. He then turned to the inevitable retaking of Bago with his army now comprising of 11,000 men, 500 horses and 40 elephants. The king controlling Bago, Htaw challenged Bayinnaung to single combat on elephants, to which Bayinnaung agreed and won when Htaw fled the scene unceremoniously. Bayinnaung, took Bago and followed in pursuit of Htaw's men down to Dala and Dagon then west to Pathein (Bassein) before finally capturing Htaw and his entire family. By 1552, Bayinnaung had taken all of the Mon-speaking regions of Tabinshwehti's reign. 	[NEWLINE][NEWLINE]After regaining the former empire of his brother-in-law, Bayinnaung looked  to the east and demanded the tribute that Siam had given to Tabinshwehti. Siam refused on the grounds that he was not the heir apparent. Although, Bayinnaung wished to invade Siam, his advisers sent the now 14,000 strong army with his heir Nanda to attack Inwa in the north. Inwa had made numerous preparations, including aid from 5 Shan states and Inwa's vassals. Overwhelmed by the defences, Nanda called off the invasion. Instead, Bayinnaung consolidated the gains he already made in a new palace: the Kanbawzathadi Palace in Bago taking on the formal name of Thiri Thudhamma Yaza.	[NEWLINE]NEWLINE]His newly regained lands in Bago and Mottama (Martaban) gave Bayinnaung the ability to trade with Portuguese merchants for firearms. In two years of preparation since his coronation, Bayinnaung gathered an army of over 18,000 soldiers partially equipped with firearms. To counter the similarly large confederation of troops defending Inwa, Bayinnaung split his armies into two to lead a pronged-attack through two valleys into Inwa. In late January of 1555, the capital city of Inwa, fell to Taungoo forces.	[NEWLINE][NEWLINE]Although Bayinnaung now held Upper Burma and had a secured passage to the rice bowl of the Irrawaddy Delta, the Shan states continued to periodically ride Upper Burma as they had since the Bagan period. Bayinnaung launched a campaign to bring the unruly Shan states down in one attack, recognising that they may need to attack the growing Lanna Kingdom. After 3 years of preparations, an army of over 37,000 men marched from Inwa into the Shan mountains. The large army subdued city-state after city-state, most submitting under minimal resistance. In 3 months, the single march gave Bayinnaung the lands between the Irrawaddy and the Thanlyin. But as the army left, the order quickly fell apart with a rebellion funded by Lanna. In the November of the same year, Bayinnaung himself led over 33,000 men back into the Shan highlands and conquered the rebellious states, leaving only Chinese vassals alone. </Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_BAYINNAUNG_TEXT_3">
+			<Text>Lanna at this particular time was struggling within internal issues amongst its dynasty. When Bayinnaung and his thirty thousand plus men marched up to Chiang Mai in 1558, the king of Lanna, Mekuti surrendered immediately. Bayinnaung did some shopping, bringing back lacquer ware, before the troops retreating leaving only 1000 men as garrisons. Although the contender for the Lanna throne attempted to invade, Chiang Mai was able to drive out Lan Xang's forces restoring the puppet state. Taungoo cemented itself as the primary political influence on the Shan countries from then on.		[NEWLINE][NEWLINE]Bayinnaung immediately used the newly conquered Shan lands to grow his army and ordered an invasion to the Northwest with his new army. Bayinnaung led 10,000 conscripts from the Shan states into Manipur, where the raja surrendered within 2 months. Bayinnaung would then conscript more soldiers from the Manipuri to fund future wars. One of which were wars into modern day China to establish suzerainty onto Chinese-Shan states.	[NEWLINE][NEWLINE]Bayinnaung did not forget about the Siamese Kingdom's refusal to pay tribute to Taungoo and spent the next two years preparing for war against them. He set up his base of operations in Dawei (Tavoy). The wars for the Chinese-Shan states were largely to gain even more conscripts into the Royal Burmese army. With almost everything west and north of Siam under his control, he was ready, but knew he need an overwhelming advantage should he have a definitive victory as Siam was a strong power with firearms, frigates and ships. Bayinnaung demanded 4 white elephants as tribute from Siam, who refused as expected. 	[NEWLINE][NEWLINE]In the winter of 1563, Five separate armies totalling over 60,000 men with 360 elephants invaded Siam via Central Siam. A sixth army from Lanna did not come as planned as Lanna had suddenly revolted. Nonetheless, Bayinnaung's army had taken a key town: Kamphaeng Phet within a month. The five armies spread in a large fanning movement to attack Sukhothai, Phitsanulok and Sawankhalok. The Taungoo forces faced minimal opposition and conquered all three cities within 5 days. All were reappointed as kings and Bayinnaung as the Sekyawaddy: Universal Ruler of Kings. Bayinnaung then marched on to Ayutthaya, where they face opposition from artillery and warships. By February of 1564, the armies had managed to capture the Portuguese ships and within two weeks took over Ayutthaya. The King surrendered on the 18th of February. Bayinnaung took the four elephants, a lot of other loot and the king back to Bago. He left Mahinthrathirat, a son of the captured king as a vassal king. A garrison of over 3000 was left in Siam. 	[NEWLINE][NEWLINE]Having conquered Siam, Bayinnaung focused on Lanna, where the vassal king had allied himself with Lan Xang to rebel. In October of the same year as his Siamese conquest, Bayinnaung led an ever larger army of over 64,000 men, consisting of conscripts from across the empire, including Siam, into Lanna. When the crazy large army approached Chiang Mai, the defending commanders simply fled the city. The vassal king Mekuti surrendered immediately and asked for forgiveness. Bayinnaung spared the king's life and sent him back to Bago. Bayinnaung remained in Lanna for four months to administer the country that had rebelled thrice before leaving a vassal queen in charge. He then sent the heir Nanda to conquer Lan Xang, which was done with minimal resistance. However, the king Setthathirath fled the city and the army spent several months chasing the king across Laos. Eventually they gave up and withdrew from Laos, leaving a vassal king in Vientiane. Although Lan Xang had technically fallen, the vassal king's power did not extend much beyond Vientiane. </Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_BAYINNAUNG_TEXT_4">
+			<Text>Bayinnaung had created the largest empire in the history of Southeast Asia and had returned to Bago to deal with a rebellion stirred up by resettled Shan people in Bago. The palace had been burnt down in the process but the return of the more than 50000 men quickly put down the rebellion. The palace was rebuilt, better than ever and a city plan for Bago was made. 20 gates in and out of the city were built, each being built by one of his vassal states. From northwest, clockwise the gates were built by Ayutthaya, Taninthari (Tenasserim), Mottama(Martaban), Pakhan, Pathein, Pyay, Inwa, Taungoo (East and main gate), Dala, Lan Xang, Chiang Mai (Lanna), Momeik, Mohnyin, Mogaung, Dawei (Tavoy), Kale, Mone, Nyaungshwe, Tharrawaddy and Theinni. All the rulers of these vassal states were present at the opening ceremony where Bayinnaung firmly established their status as vassals to Taungoo. 	[NEWLINE][NEWLINE]After Bayinnaung's new consolidation of the massive Taungoo Empire, he crowned himself as the Sekyawaddy, or Universal Ruler. Very quickly the large empire began to fall apart with Vientiane falling to Setthathirath, the king from Lan Xang who escaped earlier. Siam also revolted after Bayinnaung had allowed the old king Maha Chakkraphat to return as a monk on pilgrimage. A shocked Bayinnaung mustered up 6000 troops in a hurry and sent them to Phitsanulok where he could re-enforce the last remaining loyal Siamese vassal. The Siamese and Laotian forces siege Phitsanulok in the monsoon weather, but failed to do so before the dry season arrived with 60000 men from the Royal Burmese Army. 	[NEWLINE][NEWLINE] Bayinnaung reinforced Phitsanulok and the combined army of 70000 marched to Ayutthaya where they began a siege in December. Lan Xang tried to help the Siamese, but Bayinnaung intercepted the Laotian armies and decisively defeated them northeast of Ayutthaya. The old Siamese king died the following year as the siege continued. The successor Mahinthrathirat offered conditional surrender, but was refused. Bayinnaung, instead sent one of the old Siamese nobles in his army to the city, pretending to be a deserter. The noble got promoted and in a move of treachery to Siam, opened one of the gates. Before the night was over, Ayutthaya had fallen again. 	[NEWLINE][NEWLINE] With the defeat of Siam, Bayinnaung face little opposition from any large-scale kingdom as the vassals were strongly under his grip. The biggest problems were that of the guerrilla troops from small rebel armies in remote mountainous regions. The biggest problem of which being Lan Xang. The rebellious old king Setthathirath was still on the loose and after two more months of searching the countryside, they could not find him. Many troops once again died of starvation from the unsustainable supply chains. In 1570, the search was called off after many losses. Similar issues were faced with Shan Saophas in Upper Burma, who were only nominally under Bayinnaung's control. 	[NEWLINE][NEWLINE]Setthathirath once again attacked Vientiane and won, although fortunately for Bayinnaung, Setthathirath was killed in battle. 6000 troops were sent with a general Binnya Dala to retake Vientiane, but Lan Xang's strength was stronger under the new leadership and the smaller Burmese army failed. Bayinnaung, in fury, exiled the general, who he had been his favourite and partner in many battles, to central Siam. A year later, conscripts and levies were raised and Bayinnaung prepared to invade Lan Xang again, but his vassals had been exhausted of men for many years and Bayinnaung ultimately managed to place a vassal king seen as legitimate in Vientiane a few years later. </Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_BAYINNAUNG_TEXT_5">
+				<Text> The year was 1576 and the states Bayinnaung had conquered had all quieted down and stabilised. Many rival kingdoms in the area were eager to have his support. Bayinnaung saw himself as the protector of Theravada Buddhism and had assembled the largest empire in Indochinese history spanning from Manipur to Cambodian and Yunnan. It was entirely possible that he had also been continuously receiving homage from Vietnam and Cambodia. Bayinnaung started his reign as a king without a kingdom, and ruled as an emperor without an empire. He did not annex lands, but simply conquered their kings. The empire was held together not by any formal institution of power, but by personal relationships with the vassal kings and queens. He presented himself as the Sekyawaddy, the Universal Ruler and ruled the empire on the basis of Thitsa and Kyaezu: Allegiance and Gratitude. Bayinnaung personally only ever ruled Bago directly. 	[NEWLINE][NEWLINE]This decentralised system meant that Bayinnaung only introduced reforms at the margins and let the local rulers rule as they had before. From the sheer size of the empire, this was the only way Bayinnaung could retain power. Perhaps the most important reform that Bayinnaung introduced was that of administering the Shan Saophas. He regularly removed the Saopha (king) for gross misconducts and chose a successor from the Saopha's family. He also required that the sons of all his vassal rulers be taught and trained in Bago. This served both to create a hostage situation should a rebellion occur, but also to introduce Burmese court culture to their vassal states in the future. Although the empire would quickly fall apart after his death, the system continued with the Shan states so much so that it brought an end to the constant Shan raids that had plagued prior kings. 	[NEWLINE][NEWLINE]Bayinnaung also standardised the legal code in much of his empire by prescribing an official collection of law books: the Dhammathat Kyaw and Kothaungchok. The new legal system was adopted and modified to be compatible with local practices, but was ultimately a large standardisation in law. Bayinnaung also promoted a standardised set of measurements: using the Burmese customary units across the empire. To this day, Burma still uses a lot of Bayinnaung's units. The Burmese Calendar was also adopted in Siam and some regions of other parts of Southeast Asia until the 19th century.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_BAYINNAUNG_TEXT_6">
+				<Text>Theravada Buddhism had been a staple of Burmese culture since the temples of the Bagan Dynasty, but Anawratha himself had imported Theravada Buddhism from Lower Burma. As such the Taungoo Dynasty, which was based in Lower Burma pushed for a more Orthodox Theravada Buddhism in his empire. He built many pagodas at every conquered state and distributed copies of the scriptures and fed monks. The second war with Siam had indeed been caused by allow the old king of Siam to return to Ayutthaya for a pilgrimage.  [NEWLINE][NEWLINE] Bayinnaung's lasting impact on the religion of Burma was the banning of human and animal sacrifice. He forbade the Shan practice of killing slave and animals that belonged to a Saopha after his death at his funeral and he forbade the Muslim practice of animal sacrifice on Enid al-Adha. Perhaps the biggest example of Bayinnaung's perception of himself as the protector of Theravada Buddhism was his interference in Ceylon (modern day Sri Lanka) as Portuguese Goa had begun to invade them. [NEWLINE][NEWLINE]Bayinnaung had sent the Tooth of Kandy, a Buddhist relic, to Ceylon back in 1555, and heard news that Goa had seized the relic. Bayinnaung sent 800,000 kyats (~$50,000) as a ransom for the tooth. However, the Portuguese refused and destroyed the relic. The Ceylonese later told the horrified Burmese envoys in secrecy that the true Tooth had remained secured in Ceylon. In 1570, King Dharmapala of the Kingdom of Kotte, who was Catholic, sent back the Tooth with military escorts so that the Tooth would remain under the protection of Bayinnaung. Although Bayinnaung was sceptical of the authenticity of the Tooth, he sent the military help Dharmapala had asked in return. The king of nearby Kandy then sent a daughter and another Tooth, which he claimed was the real tooth. Even more sceptical, Bayinnaung decided not start another argument with sceptics and dismissed the offer with thanks. Today, the "relic" remains in Kandy.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_BAYINNAUNG_TEXT_7">
+			<Text>The map of the Taungoo Empire was missing a large patch in the form of the Arakan kingdom, which had historically been subdued by the Bagan Dynasty. The tall mountain range in between Arakan and the rest of Burma had left to both Bayinnaung and Tabinshwehti's failed attempts to conquer it. After a decade of peace and prosperity in the empire, Bayinnaung sent over 200 naval ships to invade from the other side of the mountains. He had planned to lead it himself, but could not due to his failing health. The troops occupied Thandwe, and sent up for a land invasion to the capital in Myauk-U. However, Bayinnaung died six weeks later in October 1581 after a long illness and the invasion forces withdrew from Thandwe. 	[NEWLINE][NEWLINE]His heir Nanda took the throne without a problem, but the empire, which had been built on personal relations with vassal rulers crumbled very quickly. The Chinese Shan states in the north rebelled the year after the succession and were put down in 1583. Inwa, which was relatively close to Taungoo, revolted in October of 1583 and the rebellion was crushed by the end of the dry season. Siam revolted the following year and Nanda, Bayinnaung's successor would never finish fighting this rebellion. By 1599, the Empire had collapsed.	[NEWLINE][NEWLINE]Bayinnaung remains one of the three fathers of Burma and is considered the founder of the Second Myanmar, although Tabinshwehti was the one to solidify the dynasty that Mingyi Nyo established. He is remembered for is energetic military conquests and the face of Burmese military might. He is respected in the dominions he conquered, relative to other Burmese kings. His empire building is the most memorable legacy, but the greatest impact he has were the political and legal standardisations he introduced and the integration of the Shan Saophas.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_BAYINNAUNG_LIVED">
+			<Text>1516-1581 AD</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_BAYINNAUNG_NAME">
+			<Text>Bayinnaung</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_BAYINNAUNG_SUBTITLE">
+			<Text>Universal Ruler of the Taungoo Empire</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_BAYINNAUNG_TITLES_1">
+			<Text>Universal Ruler of the Taungoo-Hanthawaddy Empire</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_BAYINNAUNG_TITLES_2">
+			<Text>King of Burma</Text>
+		</Row>
+		<!--Dialogue-->
+		<Row Tag="TXT_KEY_LEADER_BAYINNAUNG_FIRSTGREETING_1">
+			<Text>Gaze your awe on this empire and its founder; I am Bayinnaung Kyawhtin Nawratha.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_BAYINNAUNG_FIRSTGREETING_2">
+			<Text>Welcome to the Burmese Empire. I am Bayinnaung Kyawhtin Nawratha, what do you bring to the Universal Ruler?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_BAYINNAUNG_DEFEATED_1">
+			<Text>Impossible! This cannot be! I will have myself exiled to Siam!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_BAYINNAUNG_DEFEATED_2">
+			<Text>Alas, my vassals did not sustain my levies. Fear the Interregnum and the day Burma rises again!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_BAYINNAUNG_AGREE_SHORT_1">
+			<Text>You may.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_BAYINNAUNG_AGREE_SHORT_2">
+			<Text>We shall.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_BAYINNAUNG_AGREE_SHORT_3">
+			<Text>It shall happen.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_BAYINNAUNG_AGREE_SHORT_4">
+			<Text>The deed shall be done.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_BAYINNAUNG_AGREE_SHORT_5">
+			<Text>Alright.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_BAYINNAUNG_AGREE_SHORT_6">
+			<Text>We must do so.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_BAYINNAUNG_AGREE_SHORT_7">
+			<Text>Perfect.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_BAYINNAUNG_ATTACKED_1">
+			<Text>Haha, your pesky rebellion stands no chance!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_BAYINNAUNG_ATTACKED_2">
+			<Text>I guess you wish to meet your doom!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_BAYINNAUNG_DECLAREWAR_1">
+			<Text>You've neglected our demands for tribute, prepare for us to take it by force!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_BAYINNAUNG_DECLAREWAR_2">
+			<Text>Provide us unconditional surrender or prepare for your annihilation!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_BAYINNAUNG_DECLAREWAR_3">
+			<Text>Your empire stands too arrogant, you shall learn a lesson!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_BAYINNAUNG_DEMANDTRIBUTE_ANGRY">
+			<Text>Give us the following or be annihilated!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_BAYINNAUNG_DEMANDTRIBUTE_HAPPY">
+			<Text>My friend in faith, could you lend a hand?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_BAYINNAUNG_DEMANDTRIBUTE_NEUTRAL">
+			<Text>Your empire might do well to please us.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_BAYINNAUNG_DISAGREE_SHORT_1">
+			<Text>No.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_BAYINNAUNG_DISAGREE_SHORT_2">
+			<Text>Impossible.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_BAYINNAUNG_DISAGREE_SHORT_3">
+			<Text>I can't be done.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_BAYINNAUNG_DISAGREE_SHORT_4">
+			<Text>Of course not.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_BAYINNAUNG_DISAGREE_SHORT_5">
+			<Text>It can't happen.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_BAYINNAUNG_DISAGREE_SHORT_6">
+			<Text>You cannot be serious!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_BAYINNAUNG_DISAGREE_SHORT_7">
+			<Text>I can't happen in any of our future lives!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_BAYINNAUNG_FIRSTGREETING_4">
+			<Text>Welcome to Burma, before you is Bago and your eventual home.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_BAYINNAUNG_GOODBYE_1">
+			<Text>See you at a later time.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_BAYINNAUNG_GOODBYE_2">
+			<Text>Peace be with you until we meet again.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_BAYINNAUNG_GOODBYE_3">
+			<Text>Let us leave.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_BAYINNAUNG_GOODBYE_4">
+			<Text>Please leave.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_BAYINNAUNG_GOODBYE_5">
+			<Text>Our business is finished.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_BAYINNAUNG_GOODBYE_6">
+			<Text>Please go away now.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_BAYINNAUNG_GOODBYE_7">
+			<Text>Now begone!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_BAYINNAUNG_GREETING_POLITE_1">
+			<Text>Welcome to Bago!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_BAYINNAUNG_GREETING_POLITE_2">
+			<Text>Prosperity for your visit.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_BAYINNAUNG_GREETING_NEUTRAL_1">
+			<Text>Greetings from Taungoo.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_BAYINNAUNG_GREETING_NEUTRAL_2">
+			<Text>I see you're back.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_BAYINNAUNG_GREETING_HOSTILE_1">
+			<Text>Must I deal with you, again?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_BAYINNAUNG_GREETING_HOSTILE_2">
+			<Text>Well, what do you want to see me for?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_BAYINNAUNG_GREETING_HOSTILE_3">
+			<Text>What do you want?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_BAYINNAUNG_LETSHEARIT_1">
+			<Text>What do you propose?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_BAYINNAUNG_LETSHEARIT_2">
+			<Text>Talk..</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_BAYINNAUNG_LETSHEARIT_3">
+			<Text>Proceed.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_BAYINNAUNG_LETSHEARIT_4">
+			<Text>I shall listen.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_BAYINNAUNG_LETSHEARIT_5">
+			<Text>Yes, what is it?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_BAYINNAUNG_LETSHEARIT_6">
+			<Text>Get to the point.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_BAYINNAUNG_LETSHEARIT_7">
+			<Text>And what else?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_BAYINNAUNG_LETSHEARIT_8">
+			<Text>What do you want?.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_BAYINNAUNG_LOSEWAR_1">
+			<Text>You have proven your strength, but do not stay complacent. I will be back.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_BAYINNAUNG_TRADE_NEEDMORE_4">
+			<Text>That isn't enough in the lowest hells!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_BAYINNAUNG_TRADE_NEEDMORE_2">
+			<Text>You have to give me more than that.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_BAYINNAUNG_TRADE_NEEDMORE_1">
+			<Text>My friend, you know trade must go both ways!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_BAYINNAUNG_TRADE_NEEDMORE_3">
+			<Text>Surely you can provide more.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_BAYINNAUNG_TRADE_NEEDMORE_5">
+			<Text>Almost…</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_BAYINNAUNG_TRADE_NO_ANGRY">
+			<Text>Do you take me for an idiot?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_BAYINNAUNG_TRADE_NO_HAPPY">
+			<Text>Unfortunately, my advisors would have my head for this. It cannot be agreed.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_BAYINNAUNG_TRADE_NO_NEUTRAL">
+			<Text>Please provide a fair deal, I know you can.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_BAYINNAUNG_TRADE_YES_1">
+			<Text>It shall be done.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_BAYINNAUNG_TRADEREQUEST_ANGRY">
+			<Text>Before your demise, would this help your citizenry?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_BAYINNAUNG_TRADEREQUEST_HAPPY">
+			<Text>I present to you our best deal.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_BAYINNAUNG_TRADEREQUEST_NEUTRAL">
+			<Text>Trade is the basis for our military prowess!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_BAYINNAUNG_TRIBUTE_NO_ANGRY">
+			<Text>What idiot do you think of me? You will pay for this!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_BAYINNAUNG_TRIBUTE_NO_HAPPY">
+			<Text>Unfortunately, my friend, I cannot offer aid in these times.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_BAYINNAUNG_TRIBUTE_NO_NEUTRAL">
+			<Text>What arrogance, of course not.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_BAYINNAUNG_TRIBUTE_YES_ANGRY">
+			<Text>...</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_BAYINNAUNG_TRIBUTE_YES_HAPPY">
+			<Text>In gratitude I accept, perhaps you shall retribute with allegaince?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_BAYINNAUNG_TRIBUTE_YES_NEUTRAL">
+			<Text>....Have it your way</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_BAYINNAUNG_WARBLUFF_1">
+			<Text>I expected no less of traitorous scum like you.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_BAYINNAUNG_WARBLUFF_2">
+			<Text>I thought for once you might have some sense of integrity</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_BAYINNAUNG_WARBLUFF_3">
+			<Text>Oh, is that so! How stupid of you.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_BAYINNAUNG_WARBLUFF_4">
+			<Text>How dare you challenge my authority!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_BAYINNAUNG_WARBLUFF_5">
+			<Text>Your sense of loyalty is miniscule.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_BAYINNAUNG_WARBLUFF_6">
+			<Text>You shall pay for your disloyalty!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_BAYINNAUNG_WINWAR_1">
+			<Text>I promised Bago would be your home, now it shall be. It should teach you well to question the Universal Ruler.</Text>
+		</Row>
+		<!--Unique Cultural Influence-->
+		<Row Tag="TXT_KEY_GENERIC_TAUNGOO_INFLUENTIAL_ON_AI_1">
+			<Text>Our people are now wearing lightning bolt hats and eating tea salads. I worry the rest of the world will also succumb to the influence of your culture.</Text>
+		</Row>
+		<!--MC's Burma-->
+		<Row Tag="TXT_KEY_ER_T_BAGAN">
+			<Text>Bagan Empire</Text>
+		</Row>
+		<Row Tag="TXT_KEY_ER_T_BAGAN_SHORT">
+			<Text>Bagan</Text>
+		</Row>
+		<Row Tag="TXT_KEY_ER_T_BAGAN_ADJ">
+			<Text>Bagan</Text>
+		</Row>
+		<Row Tag="TXT_KEY_ER_T_BUILDING_PAYA_HELP">
+			<Text>Bagan's unique Amphitheater replacement. Contains 1 slot for a Great Work of Writing which, when filled, provides +3 [ICON_GOLD] Gold.[NEWLINE][NEWLINE]+1 [ICON_GREAT_PEOPLE] Great Person Points towards a Great Writer in the [ICON_CAPITAL] Capital or the city which contains the Writer's Guild.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_ER_T_BUILDING_PAYA_STRATEGY">
+			<Text>In addition to the regular abilities of the Amphitheater, the Paya provides 1 [ICON_GREAT_PEOPLE] Great Person Points towards a Great Writer in the [ICON_CAPITAL] Capital or the city which contains the Writer's Guild. Its Great Work of Writing slot also provides +3 [ICON_GOLD] Gold when filled: enough to negate its maintenance cost and provide an extra 2 [ICON_GOLD] Gold. The Paya does not require Monuments to be built. Only Bagan may build it.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_ER_T_UNIT_KYUNDAW_HELP">
+			<Text>Classical Era Melee unit which receives extra [ICON_STRENGTH] Combat Strength and heals itself while inside or adjacent to cities. Only Bagan may build it.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_ER_T_UNIT_KYUNDAW_STRATEGY">
+			<Text>The Kyundaw Conscript is Bagan's unique unit, replacing the Swordsman. Kyundaw Conscripts gain extra [ICON_STRENGTH] Combat Strength and heal themselves while stationed inside or adjacent to cities. These bonuses are increased adjacent to enemy cities, making Kyundaw Conscripts extremely useful on the offensive.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_ER_T_YAMA_ZATDAW">
+			<Text>Receive [ICON_GREAT_PEOPLE] Great Writer Points (GWP) when a city that Bagan has never owned is conquered. Conquered cities provide +1 [ICON_GREAT_PEOPLE] GWP in the Capital or the City which contains the Writer's Guild and produce +2 [ICON_CULTURE] Culture.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_ER_BAGAN_T_BAGAN">
+			<Text>Bagan</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_ER_BAGAN_T_MINBU">
+			<Text>Minbu</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_ER_BAGAN_T_KYAUKSE">
+			<Text>Kyaukse</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_ER_BAGAN_T_TAGAUNG">
+			<Text>Tagaung</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_ER_BAGAN_T_THATON">
+			<Text>Thaton</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_ER_BAGAN_T_BHAMO">
+			<Text>Bhamo</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_ER_BAGAN_T_THIRI_PYITSAYA">
+			<Text>Thiri Pyitsaya</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_ER_BAGAN_T_PYAYMYO">
+			<Text>Pyaymyo</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_ER_BAGAN_T_NYAUNG_OO">
+			<Text>Nyaung Oo</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_ER_BAGAN_T_MYINSAING">
+			<Text>Myinsaing</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_ER_BAGAN_T_MOGAUNG">
+			<Text>Mogaung</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_ER_BAGAN_T_MOTTAMA">
+			<Text>Mottama</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_ER_BAGAN_T_LEYA">
+			<Text>Leya</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_ER_BAGAN_T_TAUNGBI">
+			<Text>Taungbi</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_ER_BAGAN_T_BAGO">
+			<Text>Bago</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_ER_BAGAN_T_MYINKABA">
+			<Text>Myinkaba</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_ER_BAGAN_T_PATHEIN">
+			<Text>Pathein</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_ER_BAGAN_T_PYINSA">
+			<Text>Pyinsa</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_ER_BAGAN_T_PWASAW">
+			<Text>Pwasaw</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_ER_BAGAN_T_HANLIN">
+			<Text>Hanlin</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_ER_BAGAN_T_POPA">
+			<Text>Popa</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_ER_BAGAN_T_MONE">
+			<Text>Mo'ne</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_ER_BAGAN_T_DALA">
+			<Text>Dala</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_ER_BAGAN_T_SALIN">
+			<Text>Salin</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_ER_BAGAN_T_LAUNGGYET">
+			<Text>Launggyet</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

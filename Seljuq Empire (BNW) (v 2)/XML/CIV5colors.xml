@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 2/18/2013 10:24:05 PM -->
+<GameData>
+	<Colors>
+		<Row>
+			<Type>COLOR_PLAYER_DJSH_SELJUQ_ICON</Type>
+			<Red>0</Red>
+			<Green>0.60</Green>
+			<Blue>0.90</Blue>
+			<Alpha>1</Alpha>
+		</Row>
+		<Row>
+			<Type>COLOR_PLAYER_DJSH_SELJUQ_BACKGROUND</Type>
+			<Red>0.83</Red>
+			<Green>0.83</Green>
+			<Blue>0.93</Blue>
+			<Alpha>1</Alpha>
+		</Row>
+	</Colors>
+</GameData>

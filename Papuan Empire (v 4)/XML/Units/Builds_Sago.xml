@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 23/08/2013 11:41:40 -->
+<GameData>
+	<Builds>
+		<Row>
+			<Type>BUILD_KOROWAISAGO_CAMP</Type>
+			<PrereqTech>TECH_AGRICULTURE</PrereqTech>
+			<Time>700</Time>
+			<ImprovementType>IMPROVEMENT_KOROWAISAGO_CAMP</ImprovementType>
+			<Description>TXT_KEY_BUILD_KOROWAISAGO_CAMP</Description>
+			<Help>TXT_KEY_BUILD_KOROWAISAGO_CAMP_HELP</Help>
+			<Recommendation>TXT_KEY_BUILD_KOROWAISAGO_CAMP_REC</Recommendation>
+			<EntityEvent>ENTITY_EVENT_BUILD</EntityEvent>
+			<HotKey>KB_B</HotKey>
+			<OrderPriority>98</OrderPriority>
+			<IconIndex>1</IconIndex>
+			<IconAtlas>UNIT_ACTION_ATLAS_EXP2</IconAtlas>
+		</Row>
+	</Builds>
+	<BuildFeatures>
+	</BuildFeatures> 
+</GameData>

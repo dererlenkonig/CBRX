@@ -1,0 +1,59 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mod id="fd465d4a-669d-4dde-bc6f-382e7e2b829b" version="1">
+  <Properties>
+    <Name>C15's Venice Split</Name>
+    <Stability>Alpha</Stability>
+    <Teaser>Splits Venice into 3.</Teaser>
+    <Description>Splits Venice into 3.</Description>
+    <Authors>Chrisy15, Urdnot_Scott</Authors>
+    <SpecialThanks>JFD, Sukri</SpecialThanks>
+    <HideSetupGame>0</HideSetupGame>
+    <AffectsSavedGames>1</AffectsSavedGames>
+    <MinCompatibleSaveVersion>0</MinCompatibleSaveVersion>
+    <SupportsSinglePlayer>1</SupportsSinglePlayer>
+    <SupportsMultiplayer>1</SupportsMultiplayer>
+    <SupportsHotSeat>1</SupportsHotSeat>
+    <SupportsMac>1</SupportsMac>
+    <ReloadAudioSystem>0</ReloadAudioSystem>
+    <ReloadLandmarkSystem>0</ReloadLandmarkSystem>
+    <ReloadStrategicViewSystem>0</ReloadStrategicViewSystem>
+    <ReloadUnitSystem>0</ReloadUnitSystem>
+  </Properties>
+  <Dependencies />
+  <References>
+    <Mod id="ce8aa614-7ef7-4a45-a179-5329869e8d6d" minversion="0" maxversion="999" title="Enlightenment Era" />
+  </References>
+  <Blocks />
+  <Files>
+    <File md5="4AC5CE2BAD98A4FED288EDED83AB77C8" import="0">Core/C15_CrusaderVenice_Core.sql</File>
+    <File md5="393ED9B6F0A8AA1E1F348E92734615C5" import="0">Core/C15_CrusaderVenice_Lua.lua</File>
+    <File md5="A36B23B8162A2D66A765FB3B619285C1" import="0">Core/C15_CrusaderVenice_Text.xml</File>
+    <File md5="C6459AC98A04068D34A593A072065575" import="0">Core/C15_CrusaderVenice_MCIS.lua</File>
+    <File md5="004B2AAC3A2C7555C6DEB044060166F2" import="0">Core/C15_CrusaderVenice_MCIS.xml</File>
+    <File md5="64DF635BD57CDEB13DC1038934568A7E" import="0">Utilities/CityInfoStack.lua</File>
+    <File md5="120EB71025973A8A48B38314241DD0B3" import="0">Utilities/CityInfoStack.xml</File>
+  </Files>
+  <Actions>
+    <OnModActivated>
+      <UpdateDatabase>Core/C15_CrusaderVenice_Core.sql</UpdateDatabase>
+      <UpdateDatabase>Core/C15_CrusaderVenice_Text.xml</UpdateDatabase>
+    </OnModActivated>
+  </Actions>
+  <EntryPoints>
+    <EntryPoint type="InGameUIAddin" file="Core/C15_CrusaderVenice_Lua.lua">
+      <Name>C15_CrusaderVenice_Lua</Name>
+      <Description>
+      </Description>
+    </EntryPoint>
+    <EntryPoint type="InGameUIAddin" file="Utilities/CityInfoStack.lua">
+      <Name>MCIS</Name>
+      <Description>
+      </Description>
+    </EntryPoint>
+    <EntryPoint type="InGameUIAddin" file="Core/C15_CrusaderVenice_MCIS.lua">
+      <Name>Venice_MCIS</Name>
+      <Description>
+      </Description>
+    </EntryPoint>
+  </EntryPoints>
+</Mod>

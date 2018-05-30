@@ -1,0 +1,158 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mod id="3a2ae6b1-e9e9-4a11-a78d-3a7bd47e9071" version="2">
+  <Properties>
+    <Name>[BNW] Palmyrene Empire - Zenobia.</Name>
+    <Stability>Beta</Stability>
+    <Teaser>Adds The Palmyrene Empire, led by Queen Zenobia. Collaboration by Civfanatics forums.</Teaser>
+    <Description>[h1]Palmyra was recently recovered from the hands of the Islamic State. But at a cost. Key monuments in Palmyra were destroyed by IS, which led to the Civfanatics C&amp;C Forum banding together to create this mod.[/h1]
+
+[b]Play as Zenobia of the Palmyrene Empire! at it's height, it spread across the Eastern Mediterranean. 
+A cultural center of the ancient world, Palmyra begun as a resting place for weary traders along the silk road. Palmyra wasn't near the silk road itself, but it uses its wealth to spread outposts across nearby valleys, connecting itself to the vast trade route. This wealth allowed it to grow, building great monuments of greco-roman architecture, adopting Greek as its trade language and being ruled under the Roman Empire for years before Zenobia rose to power, rebelling against her Roman Rulers. Can you build Palmyra into a civilization that will stand the test of time?[/b]
+
+[IMG]http://i.imgur.com/nigtFVr.png[/IMG]
+
+------------------------------------------------------------------------------------------------------------------
+Credits
+[List]
+[*]Firebug - Coding, Design and Leaderscreen
+[*]TPangolin - Leaderscreen and Leader Icon
+[*]Calcul8or, Klisz and GPuzzle - Lua Coding
+[*]danrell- Clibanarii graphic
+[*]DJSHenninger - Funerary Tower Graphic and Clibanarii Icon
+[*]DMS and NiaoMeow - Design
+[*]Multiple Users over at CivFanatics C&amp;C - Design
+[/List]
+Please, anyone else who contributed to the collab contact me and let me know. It was hard to keep track of you wonderful bunch.
+-----------------------------------------------------------------------------------------------------------------
+Compatibilities
+[List]
+[*]Gedemon's YnAEMP (Earth Large, Huge, Greatest and Cordiform. Europe Large)
+[*]Ethnic Units 
+[*]Ryoga's Unique Cultural Influence 
+[*]Bingles' Civ IV Leader Traits in Civ V 
+[*]hazel16's Map Labels 
+[*]JFD's Piety and Prestige 
+[*]JFD's Cultural Diversity 
+[*]JFD's Exploration Continued Expanded 
+[*]LeeS/IShipp's Civilization Appropriate Great General and Admiral Names 
+[*]JFD's True Alternative Leaders 
+[*]JFD's &amp;amp; Pouakai's Mercenaries 
+[*]JFD's Cities in Development
+[/List]
+
+Events and Decisions will be arriving at a later date (hopefully)</Description>
+    <Authors>Firebug and the modders of Civfanatics</Authors>
+    <SpecialThanks>To the people who helped in this Collab on the Civfanatics forum.</SpecialThanks>
+    <HideSetupGame>0</HideSetupGame>
+    <AffectsSavedGames>1</AffectsSavedGames>
+    <MinCompatibleSaveVersion>0</MinCompatibleSaveVersion>
+    <SupportsSinglePlayer>1</SupportsSinglePlayer>
+    <SupportsMultiplayer>1</SupportsMultiplayer>
+    <SupportsHotSeat>1</SupportsHotSeat>
+    <SupportsMac>1</SupportsMac>
+    <ReloadAudioSystem>1</ReloadAudioSystem>
+    <ReloadLandmarkSystem>1</ReloadLandmarkSystem>
+    <ReloadStrategicViewSystem>1</ReloadStrategicViewSystem>
+    <ReloadUnitSystem>1</ReloadUnitSystem>
+  </Properties>
+  <Dependencies />
+  <References>
+    <Mod id="7fdd72a5-d4ae-441c-bc4e-2e3d2a26cff4" minversion="0" maxversion="999" title="Ethnic Units" />
+    <Mod id="1153b26a-69fd-4cd5-899c-a8ba8e0e5e5d" minversion="0" maxversion="999" title="Civ IV Leader Traits in Civ V" />
+    <Mod id="01c131ef-2162-4a7b-b845-763a4e675940" minversion="0" maxversion="999" title="Unique Cultural Influence" />
+    <Mod id="e576894a-ed2b-4033-be14-ed1c8ceb81d3" minversion="0" maxversion="999" title="Map Labels" />
+    <Mod id="eea66053-7579-481a-bb8d-2f3959b59974" minversion="0" maxversion="999" title="Piety and Prestige" />
+    <Mod id="31a31d1c-b9d7-45e1-842c-23232d66cd47" minversion="0" maxversion="999" title="JFD's Cultural Diversity (Core)" />
+    <Mod id="1f941088-b185-4159-865c-472df81247b2" minversion="0" maxversion="999" title="Sukritact's Events &amp;amp; Decisions" />
+    <Mod id="43868e8d-de88-48a1-a8d9-ce144e07f5e0" minversion="0" maxversion="999" title="JFD's Exploration Continued Expanded" />
+    <Mod id="d99bf7aa-51ac-4bef-bd88-d765b28e260e" minversion="0" maxversion="999" title="JFD's Sovereignty" />
+    <Mod id="a19351c5-c0b3-4b07-8695-4affaa199949" minversion="0" maxversion="999" title="JFD's and Pouakai's Mercenaries" />
+    <Mod id="fe245559-0525-41bb-9e1c-b281e018b5fc" minversion="0" maxversion="999" title="Civilization Appropriate Great General and Admiral Names" />
+    <Mod id="10e9728f-d61c-4317-be4f-7d52d6bae6f4" minversion="0" maxversion="999" title="JFD's Cities in Development" />
+    <Mod id="34c6919a-fcb5-44cf-8a76-78380dbc39ab" minversion="0" maxversion="999" title="JFD's Chartered Ventures" />
+    <Mod id="36e88483-48fe-4545-b85f-bafc50dde315" minversion="0" maxversion="999" title="Yet (not) Another Earth Map Pack" />
+  </References>
+  <Blocks />
+  <Files>
+    <File md5="29C634A576AAD015927BE939B3EB90F3" import="1">Art/Flag_Clibanarii.dds</File>
+    <File md5="C795D54AB51755D0BE1207DEC6E4B1DD" import="1">Art/Funerary_Tower_45.dds</File>
+    <File md5="B396A437EDC2C09A45E311FC8F7A353A" import="1">Art/Funerary_Tower_64.dds</File>
+    <File md5="7CFE4F17B1AD391CF3373309008FEE94" import="1">Art/PalmyraAtlases.xml</File>
+    <File md5="0984494ACD28118D4053D16585603EE3" import="1">Art/PalmyraAlpha128.dds</File>
+    <File md5="435A9FC8FAFE27992B9F9690C4D63543" import="1">Art/PalmyraAlpha16.dds</File>
+    <File md5="58EDB05EFEC9B37C7F06F873F4AE2CE9" import="1">Art/PalmyraAlpha24.dds</File>
+    <File md5="4F017A755B0E5686EC95601CE1B2B3DB" import="1">Art/PalmyraAlpha32.dds</File>
+    <File md5="3C7D0055C5DA8968A176F4ACE0FE5337" import="1">Art/PalmyraAlpha45.dds</File>
+    <File md5="2BE6F5F4AEFAF585843A2B759A929E8E" import="1">Art/PalmyraAlpha48.dds</File>
+    <File md5="3A0FE523BC64616FA803C5142BE0CFAB" import="1">Art/PalmyraAlpha64.dds</File>
+    <File md5="A2EF56699FA6FBACA4C8100717508465" import="1">Art/PalmyraAlpha80.dds</File>
+    <File md5="D08A3EE5ECF8BF384BC1D6A520768BF1" import="1">Art/PalmyraIconAtlas128.dds</File>
+    <File md5="76F013C3DA3A580FF68C5484C5FFDE3C" import="1">Art/PalmyraIconAtlas16.dds</File>
+    <File md5="97471223F5A6D2F502CE9867601D0583" import="1">Art/PalmyraIconAtlas24.dds</File>
+    <File md5="652ABDC05DA646F536E76A0D108A0C21" import="1">Art/PalmyraIconAtlas256.dds</File>
+    <File md5="6FBCC3323B3352DF584592472040377D" import="1">Art/PalmyraIconAtlas32.dds</File>
+    <File md5="7839CC0B1CD126FF28D92FE19194A0A7" import="1">Art/PalmyraIconAtlas45.dds</File>
+    <File md5="D9716BF02233363D9DD9ED85BD215B03" import="1">Art/PalmyraIconAtlas48.dds</File>
+    <File md5="FFA1B1C2226B1708A26634E51E411BBC" import="1">Art/PalmyraIconAtlas64.dds</File>
+    <File md5="A3B8ED987AD707F58807AD503CDB1044" import="1">Art/PalmyraIconAtlas80.dds</File>
+    <File md5="74D544B6F6413C74E02314FE6071042C" import="1">Art/PalmyraMap.dds</File>
+    <File md5="EF1522A7DD5121C1900371B802F53368" import="1">Art/sv_Clibanarii.dds</File>
+    <File md5="6AE56A71F42DD38CE432BAA54BE2C785" import="1">Art/ZenobiaDOM.dds</File>
+    <File md5="1826333CA4C27BD7CEBF0915C4068A53" import="1">Art/ZenobiaLS.dds</File>
+    <File md5="7C7E2DD773992614055A5188497CBF75" import="1">Clibanarii Graphic/Knight_Persia_Horse.dds</File>
+    <File md5="FB5DF706C65770F25C443B34581B2774" import="1">Clibanarii Graphic/Knight_Persia_Horse_gloss.dds</File>
+    <File md5="A2CFA80EBAABEA788A780479E6C5DB89" import="1">Clibanarii Graphic/Knight_Persia_v2.blend</File>
+    <File md5="F716360BC8D7CC67B7344476642C7361" import="1">Clibanarii Graphic/Knight_Persia_v2.dds</File>
+    <File md5="E679EAC051192A3208D6CF6A7317DB13" import="1">Clibanarii Graphic/Knight_Persia_v2.fxsxml</File>
+    <File md5="BB51E35B6A45E3CCA380D44BEE1D7A77" import="1">Clibanarii Graphic/Knight_Persia_v2.gr2</File>
+    <File md5="8F5EF217AEFE2CBB6DADF0B92EE302C9" import="1">Clibanarii Graphic/Knight_Persia_v2.jpg</File>
+    <File md5="0F6ACF24D540156AA8B8A15C8470F04C" import="1">Clibanarii Graphic/Knight_Persia_v2_gloss.dds</File>
+    <File md5="B738DC2B93ECEA5ABE6620FB5B45F7FB" import="1">Clibanarii Graphic/Palmyra_Clibanarii.xml</File>
+    <File md5="B2C48C2F93DEBEDBBD6D490C17558C6C" import="0">Compats/PalmyraSupport.sql</File>
+    <File md5="6B8D8F3812B6D13EDA7D4BDFAF0D0BFD" import="0">Core/Civilization.xml</File>
+    <File md5="0693ACCD33873A01E0CFEB4632FA8B22" import="0">Core/DiplomacyResponses.xml</File>
+    <File md5="A5B8731C58C9311EF797D5E589CC5B4D" import="0">Core/FreshWaterDummy.xml</File>
+    <File md5="691A820B166D526D44EA4DAF8F4073C6" import="0">Core/Leader.xml</File>
+    <File md5="5668D85D94EF16E5443006233E7D8894" import="0">Core/FuneraryTower.xml</File>
+    <File md5="93A11997226923A840DD5E68DB5C45EF" import="1">Core/ZenobiaLS.xml</File>
+    <File md5="5FB8CC602D1BEB31A8FACA31EBD8775E" import="0">Core/Trait.xml</File>
+    <File md5="6047409BBB0D0BEAF521B3F0D65C8F73" import="0">Core/Units.xml</File>
+    <File md5="F82A78080C9BAF21B387D8FB59AFEE97" import="0">Improvement Graphic/ArtDefines.sql</File>
+    <File md5="1E1C4BAC4E22772352B49D23064DBA19" import="1">Improvement Graphic/Funerary Towers/Funerary Towers Ground H.dds</File>
+    <File md5="4FABA5F63A65098B32C134703E444661" import="1">Improvement Graphic/Funerary Towers/Funerary Towers Ground.dds</File>
+    <File md5="2FCE5615180FAFEA38252268EF9E4CE9" import="1">Improvement Graphic/Funerary Towers/Funerary Towers Icon.png</File>
+    <File md5="5E94A118328FC0622F48A6965A06C1D7" import="1">Improvement Graphic/Funerary Towers/Funerary Towers.dds</File>
+    <File md5="48BDD8FA9B99BFC73F676C21B23F6F10" import="1">Improvement Graphic/Funerary Towers/Funerary Towers.png</File>
+    <File md5="E6D2C34A02A9CF69A3B55254F1D2BE7D" import="1">Improvement Graphic/Funerary Towers/Palmyra Funerary Towers HB.gr2</File>
+    <File md5="E676A6FAC638BEF38064EF9AFAB8BBBF" import="1">Improvement Graphic/Funerary Towers/Palmyra Funerary Towers PL.gr2</File>
+    <File md5="73F6A0E3B99438A5F8C8AFA77449A78F" import="1">Improvement Graphic/Funerary Towers/Palmyra Funerary Towers.gr2</File>
+    <File md5="68DEB0F4A5C6C97BE1F64EFD0493B70B" import="1">Improvement Graphic/Funerary Towers/Palmyra Funerary Towers_B.fxsxml</File>
+    <File md5="593D35D9499248BD281FED326EF10B5A" import="1">Improvement Graphic/Funerary Towers/Palmyra Funerary Towers_HB.fxsxml</File>
+    <File md5="C930AADF32DCBC4FD547A29D160D8EA9" import="1">Improvement Graphic/Funerary Towers/Palmyra Funerary Towers_PL.fxsxml</File>
+    <File md5="C39759F682739DFDBF86D92B353F10B4" import="0">Lua/PearlOfTheDesert.lua</File>
+    <File md5="AD2FB6762811B77CCC8B3D676C648339" import="1">Music/Palmyra Peace.mp3</File>
+    <File md5="9DE73EC2FCD3C4B7131CBB698A854F03" import="1">Music/Palmyra War.mp3</File>
+    <File md5="A9C9B64B07ADF9C8F6DA48B161228503" import="1">Music/Music.xml</File>
+  </Files>
+  <Actions>
+    <OnModActivated>
+      <UpdateDatabase>Core/Civilization.xml</UpdateDatabase>
+      <UpdateDatabase>Core/DiplomacyResponses.xml</UpdateDatabase>
+      <UpdateDatabase>Core/Leader.xml</UpdateDatabase>
+      <UpdateDatabase>Core/Trait.xml</UpdateDatabase>
+      <UpdateDatabase>Core/Units.xml</UpdateDatabase>
+      <UpdateDatabase>Core/FreshWaterDummy.xml</UpdateDatabase>
+      <UpdateDatabase>Core/FuneraryTower.xml</UpdateDatabase>
+      <UpdateDatabase>Improvement Graphic/ArtDefines.sql</UpdateDatabase>
+      <UpdateDatabase>Art/PalmyraAtlases.xml</UpdateDatabase>
+      <UpdateDatabase>Clibanarii Graphic/Palmyra_Clibanarii.xml</UpdateDatabase>
+      <UpdateDatabase>Music/Music.xml</UpdateDatabase>
+    </OnModActivated>
+  </Actions>
+  <EntryPoints>
+    <EntryPoint type="InGameUIAddin" file="Lua/PearlOfTheDesert.lua">
+      <Name>Palmyra Lua</Name>
+      <Description>Lua activates</Description>
+    </EntryPoint>
+  </EntryPoints>
+</Mod>

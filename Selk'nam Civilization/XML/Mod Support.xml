@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 3/30/2018 11:23:19 PM -->
+<GameData>
+	<Language_en_US>
+<!--Weeb Support-->
+	<Row Tag="TXT_KEY_PMMM_LEADER_MG_NAME_SELKNAM">
+		<Text>Angela Loij</Text>
+		 <Gender>Feminine</Gender>
+	</Row>
+ <!--Colonies-->
+		<Row Tag="TXT_KEY_COLONY_NAME_TARASCAN_01">
+			<Text>Ululupeina</Text>
+		</Row>
+		<Row Tag="TXT_KEY_COLONY_NAME_TARASCAN_02">
+			<Text>Yendegaia</Text>
+		</Row>
+		<Row Tag="TXT_KEY_COLONY_NAME_TARASCAN_03">
+			<Text>Tekenica</Text>
+		</Row>
+		<Row Tag="TXT_KEY_COLONY_NAME_TARASCAN_04">
+			<Text>Najmish</Text>
+		</Row>
+		<Row Tag="TXT_KEY_COLONY_NAME_TARASCAN_05">
+			<Text>Chayutahn</Text>
+		</Row>
+ <!--Sovereignty-->
+		<Row Tag="TXT_KEY_JFD_LEGISLATURE_NAME_CIVILIZATION_SELKNAM">
+			<Text>Shamanist Society</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_HEAD_OF_GOVERNMENT_TITLE_CIVILIZATION_SELKNAM">
+			<Text>Xo'on</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_HEAD_OF_GOVERNMENT_TITLE_CIVILIZATION_SELKNAM_1">
+			<Text>Xo'on Kuash-Ketin</Text>
+		</Row>
+	    <Row Tag="TXT_KEY_JFD_HEAD_OF_GOVERNMENT_TITLE_CIVILIZATION_SELKNAM_2">
+			<Text>Xo'on Soipin</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_HEAD_OF_GOVERNMENT_TITLE_CIVILIZATION_SELKNAM_3">
+			<Text>Xo'on Waiuwin</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_HEAD_OF_GOVERNMENT_TITLE_CIVILIZATION_SELKNAM_4">
+			<Text>Xo'on Unitern</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_HEAD_OF_GOVERNMENT_TITLE_CIVILIZATION_SELKNAM_5">
+			<Text>Xo'on Waiyuwenh</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_HEAD_OF_GOVERNMENT_TITLE_CIVILIZATION_SELKNAM_6">
+			<Text>Xo'on Chechu</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_HEAD_OF_GOVERNMENT_TITLE_CIVILIZATION_SELKNAM_7">
+			<Text>Xo'on Kekhe</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_HEAD_OF_GOVERNMENT_TITLE_CIVILIZATION_SELKNAM_8">
+			<Text>Xo'on Sit</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_HEAD_OF_GOVERNMENT_TITLE_CIVILIZATION_SELKNAM_9">
+			<Text>Xo'on Xalpen</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_HEAD_OF_GOVERNMENT_TITLE_CIVILIZATION_SELKNAM_10">
+			<Text>Xo'on Apen</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GOVERNMENT_SELKNAM_TRIBE_TITLE_LEADER">
+			<Text>Xo'on</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GOVERNMENT_SELKNAM_TRIBE_TITLE_LEADER_FEMININE">
+			<Text>Chan-am</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GOVERNMENT_JFD_TRIBE_TITLE_LEADER_SELKNAM">
+			<Text>Grand Xo'on</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GOVERNMENT_JFD_TRIBE_TITLE_LEADER_SELKNAM_FEMININE">
+			<Text>Grand Chan-am</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GOVERNMENT_JFD_PRINCIPALITY_TITLE_LEADER_SELKNAM">
+			<Text>Xo'on Sank'on</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GOVERNMENT_JFD_MONARCHY_TITLE_LEADER_SELKNAM">
+			<Text>Xo'on Kreeh-Unka</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GOVERNMENT_JFD_MONARCHY_TITLE_GOVERNMENT_SELKNAM">
+			<Text>Xo'on Kamshkinu</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GOVERNMENT_JFD_EMPIRE_TITLE_LEADER_SELKNAM">
+			<Text>Xo'on Ko'oklol</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GOVERNMENT_JFD_THEOCRACY_TITLE_LEADER_SELKNAM">
+			<Text>Xo'on Kreeh-Chinen</Text>
+		</Row>
+		<Row Tag="TXT_KEY_COUNCILLOR_JFD_CHANCELLOR_DESC_SELKNAM">
+			<Text>Kalu-Xo'on</Text>
+		</Row>
+		<Row Tag="TXT_KEY_COUNCILLOR_JFD_CHAPLAIN_DESC_SELKNAM">
+			<Text>Kankoat</Text>
+		</Row>
+		<Row Tag="TXT_KEY_COUNCILLOR_JFD_MARSHAL_DESC_SELKNAM">
+			<Text>Kamiu-Xo'on</Text>
+		</Row>
+		<Row Tag="TXT_KEY_COUNCILLOR_JFD_HERALD_DESC_SELKNAM">
+			<Text>Xo'on Unitern</Text>
+		</Row>
+		<Row Tag="TXT_KEY_COUNCILLOR_JFD_MARSHAL_DESC_SELKNAM">
+			<Text>Xo'on Uhan</Text>
+		</Row>
+ <!--Politics and Reforms-->
+		<Row Tag="TXT_KEY_JFD_PARTY_CHARRUA_SELKNAM">
+			<Text>Hoowin</Text>
+		</Row>
+ <!--Events and Decisions-->
+ <!--Community Patch-->
+		<Row Tag="TXT_KEY_BUILDING_SELKNAMSTABLES_HELP_CBO">
+			<Text>The Hain Hut generates [ICON_PRODUCTION] Production, [ICON_CULTURE] Culture and [ICON_PEACE] Faith. It also increases the [ICON_DEFENCE] Defence of a city, and provides an extra +2 [ICON_CULTURE] when fur tiles are worked.</Text>
+		</Row>
+ <!--Unique Cultural Influence-->
+		<Row Tag="TXT_KEY_GENERIC_SELKNAM_INFLUENTIAL_ON_AI_1">
+			<Text>Our people are wearing your ceremonial masks and performing your initiation rites. I worry the rest of the world will also succumb to the influence of your culture.</Text>
+		</Row>
+   </Language_en_US>
+</GameData>

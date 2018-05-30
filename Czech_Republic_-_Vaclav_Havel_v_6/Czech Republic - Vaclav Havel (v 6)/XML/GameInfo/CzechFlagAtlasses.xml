@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 8/6/2015 12:18:00 PM -->
+<GameData>
+	<IconTextureAtlases>
+		<Row>
+			<Atlas>FLAG_ATLAS_CZECH</Atlas>
+			<IconSize>32</IconSize>
+			<Filename>Czech_Flags.dds</Filename>
+			<IconsPerRow>4</IconsPerRow>
+			<IconsPerColumn>4</IconsPerColumn>
+		</Row>
+
+	</IconTextureAtlases>
+
+</GameData>

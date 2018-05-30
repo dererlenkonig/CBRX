@@ -1,0 +1,1993 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by Tomatekh-->
+<GameData>
+	<Language_zh_CN>
+		<!-- -->
+		<Row Tag="TXT_KEY_TRAIT_DYNASTIC_CYCLE_SHORT">
+			<Text>朝代循环</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_DYNASTIC_CYCLE">
+			<Text>每当失去你的[ICON_CAPITAL]首都，或在占领的外国[ICON_CAPITAL]首都建立一座法院，或者完成一项政策树时，开启一个新朝代，并获得新的文明特性（需要一座没有被用作为前朝首都的城市）。</Text>
+		</Row>
+		<!-- -->
+		<Row Tag="TXT_KEY_DAWN_OF_MAN_ERLITOU_MOD_TEXT">
+			<Text>神圣而尊贵的禹，夏王朝的创始人，我们谦卑地祈求您的智慧与指导。作为世界上最古老且连绵不断的文明，中国已经成为文明与时代进步的一座灯塔。然而，她的大部分起源都笼罩于神话中若隐若现。正如三皇五帝传授给人民知识，也正如汉的文化在黄河流域汇聚。二里头文化富丽堂皇的宫城和繁杂的青铜器将作为后来的商国的文化基础，并为中华文明迎来开端。在这史实与传说的十字路口，夏王朝的出现如同一个标志，一个帝国与身份的象征；一个穿越了历史的朝代轮回已经开始，并将永远在东亚留下她的印记。[NEWLINE][NEWLINE]我们尊敬的祖先啊，您的美德与道德操守永远是世界东方所有伟大皇帝的典范。在传说中，您牺牲了您的身体，您抛弃了舒适的家庭，您驯服了汹涌泛滥的黄河。再一次，中原的人民需要您的帮助。您将响应他们的召唤而来吗？您能建立起一个经得起时间考验的文明吗？</Text>
+		</Row>
+		<!-- -->
+		<Row Tag="TXT_KEY_LEADER_XIA_YU_MOD_FIRST_GREETING_1">
+			<Text>欢迎！我是禹，华夏民族的领袖。我寻求对我的人民有帮助的事物。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_XIA_YU_MOD_FIRST_GREETING_2">
+			<Text>我是禹。先主舜禅让与我，没有人能动摇我的使命。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CHINA_YU_MOD_FIRST_GREETING_DYNASTY_1">
+			<Text>看到我的后代错误地自称“天子”，我感到十分羞愧。你可以证明你是公正而高贵的统治者。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_XIA_YU_MOD_DEFEATED_1">
+			<Text>我的儿子将继承我的朝代，并孝敬他的父亲，正如我孝敬我的父亲和我父亲的父亲一样。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_XIA_YU_MOD_DEFEATED_2">
+			<Text>即便战争失败，我也知道我伟大的工作已经完成，土地已经给我的人民带来繁荣。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CHINA_YU_MOD_DEFEATED_DYNASTY_1">
+			<Text>我竟然会在你这种不仁不义的人面前失去天命！</Text>
+		</Row>	
+		<!-- -->
+		<Row Tag="TXT_KEY_LEADER_XIA_YU_MOD_DESC">
+			<Text>禹</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_XIA_YU_MOD_LIVED">
+			<Text>约公元前2200-2100</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_XIA_YU_MOD_NAME">
+			<Text>禹</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_XIA_YU_MOD_SUBTITLE">
+			<Text>华夏民族领袖</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_XIA_YU_MOD_TITLES_1">
+			<Text>大禹</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_XIA_YU_MOD_TITLES_2">
+			<Text>夏朝始祖</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_XIA_YU_MOD_HEADING_1">
+			<Text>历史</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_XIA_YU_MOD_TEXT_1">
+			<Text>大禹是中国古代传奇的统治者，以他治水的事迹，开创了中国第一个统治王朝，以及他正直的品格而闻名。作为夏王朝的奠基人，禹被认为是朝代更替中的第一个统治者；代表了中国历史上作为一个单一连续的文明经过一系列不同王朝统治的重要政治里程碑。由于夏朝的神话性质，以及二里头遗址发掘出的文物缺乏书面记录，禹的统治的真实性已经无可考证。然而，禹的神话至今仍然在中国的领导人以及文化上拥有不可磨灭的影响力。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_XIA_YU_MOD_HEADING_2">
+			<Text>传说</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_XIA_YU_MOD_TEXT_2">
+			<Text>传说中的禹在位的时期先于中国最古老的文字记载，即商代晚期的甲骨文，将近一千年时间。关于他的生活和统治的故事经过口耳相传，流传于中国的各个地区，并且在西周时期（约公元前1045-771年）被首次记录为文本。[NEWLINE][NEWLINE]禹据说是黄帝的第八代曾孙。禹出生在汶山地区，但童年时被其父亲，鲧，带到了中原。禹在黄河以南的崇山长大，最终入赘涂山氏，并生有一子，名为启。[NEWLINE][NEWLINE]在尧统治时期，中国的中心地带频繁遭受洪水的困扰，阻止了社会与经济的进一步发展。禹的父亲受命设计一套系统来控制洪水。他花了九年多时间沿着河岸建造了一系列堤坝，尽管建造了大量堤坝，并使用了特殊的土石“息壤”，但这一切工程都是无效的。禹成年之后接替了他父亲的工作，他仔细调研了河流系统，试图了解为什么他父亲的努力失败了。[NEWLINE][NEWLINE]禹与后稷，一个鲜有记载的半神话的农业部落领主合作，成功建立了一套洪涝控制系统，这对于中国腹地的繁荣至关重要。禹没有直接筑坝截流，而是建造了一个灌溉饮水渠系统，同时大力疏通河道，以此缓解了农田的洪涝。据说禹与普通工人共同吃住，并花费大部分时间亲自协助疏通淤积的河床，他花了十三年时间完成了这一项浩大的工程。禹的疏浚与灌溉工程成功了，它保障了中国古代文化沿着黄河流域蓬勃发展起来。[NEWLINE][NEWLINE]舜，在尧之后即位的王，为禹兢兢业业的工作与努力所感动，他将自己的王位禅让给了禹，而不是自己的儿子。据说禹最初拒绝了王位，但由于其他很多地方领主和酋长的拥戴，他在53岁时最终同意成为新的王。他在安邑建立了首都，并建立了后世称为夏朝的朝代，传统上被视为中国的第一个王朝。禹统治了夏王朝45年，最终因疾病而去世，他的儿子启继承了王位。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_XIA_YU_MOD_HEADING_3">
+			<Text>历史的结论</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_XIA_YU_MOD_TEXT_3">
+			<Text>很难评判这样一位传奇性的人物。孔子与其他先师都称赞禹已经中国古代其他圣王的美德与道德操守。不仅如此，在帝制时代不少皇帝都前往禹之墓举行登基典礼；其中尤以秦始皇最为有名。作为中国第一个王朝的创始人，禹仍是中国民族神话中的重要人物，一个在史学和流行文化中不断被引用的主题。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_XIA_YU_MOD_HEADING_4">
+			<Text>轶闻</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_XIA_YU_MOD_TEXT_4">
+			<Text>禹是中国屈指可数的在死后被授予称号“大”的统治者之一。</Text>
+		</Row>
+		<!-- -->
+		<Row Tag="TXT_KEY_XIA_MOD_DESC">
+			<Text>夏朝</Text>
+		</Row>
+		<Row Tag="TXT_KEY_XIA_MOD_SHORT_DESC">
+			<Text>夏</Text>
+		</Row>
+		<Row Tag="TXT_KEY_XIA_MOD_ADJECTIVE">
+			<Text>夏</Text>
+		</Row>
+		<Row Tag="TXT_KEY_XIA_MOD">
+			<Text>夏</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_XIA_MOD_TITLE">
+			<Text>夏</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_XIA_MOD_HEADING_1">
+			<Text>历史</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_XIA_MOD_TEXT_1">
+			<Text>中国中原的二里头文化标志着东亚新石器时期一次决定性的转变，开创了中华文明的起点。尽管二里头的聚居地早在公元前3500年就已经建立，在公元前1900-1600年的文化发展才使得这里形成了中国第一个国家级的社会。在其鼎盛时期，二里头遗址涵盖了近300公顷范围的土地。宫殿建筑，皇家陵墓，青铜铸造工坊，铺设的道路以及夯土地基证实了这个中央城市的复杂性和重要性。在二里岗时期（公元前1600-1250年），该城市的重要性逐渐下降并渐渐被遗弃。[NEWLINE][NEWLINE]由于时间和地域的重叠，这个文化遗址往往被假定与夏王朝有关联，然而，并没有直接的考古证据证明这一点。即便如此，关于夏王朝的细节（首次记录晚在一千多年之后的西周时期）在很大程度上被理解为神话；它与在此之后的商朝相对应，并最终证明了中国的朝代更替。为了构建起中国第一个王朝更加完整的画面，需要继续对二里头遗址进行考古调查。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_XIA_MOD_HEADING_2">
+			<Text>气候与地理</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_XIA_MOD_TEXT_2">
+			<Text>黄土高原和华北平原在古代土地都非常肥沃，易于进行养殖业，这加速了围绕黄河流域中国早期文明的发展。然而，几个世纪以来的森林砍伐和过度放牧，再加上中国人口的增长，已经造成当今时代这些地区生态系统的退化和土地的荒漠化。由于河床不断抬升，黄河也历来经常发生破坏性的洪水以及河流改道，有时甚至使其高于周围的农田。治水的事迹在围绕大禹的神话故事中起着至关重要的作用。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_XIA_MOD_HEADING_3">
+			<Text>二里头文化</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_XIA_MOD_TEXT_3">
+			<Text>发现于1959年，二里头是二里头文化所相关的最大的城市遗址；以它的宫殿建筑和青铜冶炼作坊为特点。二里头垄断了当时仪式用青铜器的生产，其中包括最早复原的鼎。二里头文化分为四个阶段，每个阶段大约一个世纪。[NEWLINE][NEWLINE]最早来到二里头的是早在新石器时代的仰韶文化（公元前3500-3000年），然后是龙山文化（公元前3000-2500年），然后又经历了600年的遗弃。在初始阶段，二里头是一个快速发展的区域中心，但还不是一个城市文明。在二里头的定居开始于公元前1900年左右。城市的重要性稳步上升，并在大约公元前1800年成为该区域的主要中心。[NEWLINE][NEWLINE]在其鼎盛时期，二里头可能拥有18,000至30,000人口。在公元前1600年左右，一座有城墙的城市建于偃师，二里头东北部约6公里处，这也恰逢二里岗时期（公元前1600-1250年）兴起。在二里岗时期，二里头的重要性下降，所有的宫殿都被遗弃。没有证据证明有火灾或者战争摧毁了这座城市，人们也仍然在此处定居，尽管人口显著地减少，从约3万人口减少至约三千人。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_XIA_MOD_HEADING_4">
+			<Text>特征</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_XIA_MOD_TEXT_4">
+			<Text>二里头拥有八座确定的宫殿——拥有贵族的建筑与文物的大型建筑物——其中三处已经得到了充分的挖掘。考古发掘表明，这座城市计划建设有各种专用建筑，一个仪式用区域，连接着各种作坊以及一个位于中央富丽堂皇的复杂且封闭，拥有两层夯土作为基础的宫殿。贵族墓葬被安置于这些宫殿的庭院内，伴随着大量青铜器，玉器，绿松石和漆器的陪葬品。其他墓葬被发现分散于整片区域内，而没有集中在一个墓地区。[NEWLINE][NEWLINE]二里头拥有规划了的道路网。一道完整的马车车辙的痕迹，1米宽5米长，是中国存在马车的已知最早的证据。城市的其他部分包括更小的住宅，手工作坊，陶窑和墓葬的痕迹。重要的工艺领域包括了青铜铸造工坊以及绿松石作坊。[NEWLINE][NEWLINE]二里头遗址以其青铜器闻名：已知中国最早铸造的青铜器正是来自二里头的铸造工坊。第一批青铜器被证明是用于祭祀所需的酒，这很可能是由水稻或野生葡萄酿造而成。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_XIA_MOD_HEADING_5">
+			<Text>史实性</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_XIA_MOD_TEXT_5">
+			<Text>考古学在中国的主要目标是寻找传统说法中所描述的居住在黄河流域一带的夏商时期的首都。这些口头传说在相对晚得多的时代才被史书所记载，如竹书纪年（约公元前300年）及史记（公元前1世纪），它们的史实性，特别是关于夏的记载，遭到了许多学者的质疑。[NEWLINE][NEWLINE]根据基于刘忻计算的传统纪年，夏统治时期位于公元前2205-1766年之间；而根据竹书纪年的年代，它的统治在公元前1989-1558年之间。从早期的三皇五帝至夏再到之后的朝代，这种追溯中国政治历史的传统来自于天命的思想。这种思想认为任何时代天命都仅属于一个王朝，并且受到东周时期儒家思想的推动，后来成为了帝国史学思想的基本立场。虽然夏王朝是中国早期历史的重要组成部分，但中国在公元前13世纪以前的可靠的历史资料只能从考古学证据中窥见一斑，因为直至商代中国才建立了在可持续的媒介上书面记载的系统。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_XIA_MOD_HEADING_6">
+			<Text>夏朝</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_XIA_MOD_TEXT_6">
+			<Text>根据中国古书记载，在夏王朝建立之前，夏与黎部落之间战争频繁。夏部落在颛顼，传说中的五帝之一的时代慢慢发展起来。史记与礼记都记载道，大禹是颛顼的孙子。[NEWLINE][NEWLINE]鲧，大禹的父亲，是夏族有记载的最早的成员。当黄河泛滥，许多部落联合起来，以控制并阻止洪涝灾害。尧命令鲧去治水。他下令封堵洪涝，阻止洪水通过。鲧试图阻止洪水的尝试持续了九年，但它最终失败了，洪水变得更加汹涌。九年之后，尧已经将王位禅让给了舜。舜在虞山将鲧处决。[NEWLINE][NEWLINE]禹深受舜信任，所以舜任命他接替其父，完成阻止洪涝的工作。禹的方法与他父亲不同，他组织了来自不同部落的人，命令他们帮他在各条泛滥的主要河流直接开凿运河，将洪水引出大海。禹对他的工作鞠躬尽瘁。人们称赞他的毅力，并受到了感动，使得很多其他部落也加入了禹的工作。传说他花了13年时间成功完成了这项工程，使洪水停止。禹曾经三次路过自己家的家门，却一次都没有停下来休息。[NEWLINE][NEWLINE]夏部落的力量逐渐增加，禹成了周围部落的领袖。此后不久，舜派遣禹带领一支军队镇压三苗部落，它不断侵扰夏部落的边境。击败他们后，他将三苗部落的人流放到南边的汉水地区。这场胜利更加加强了夏部落的力量。由于舜渐渐年迈，他需要一个继任者，并将王位禅让给了禹。他认为这样做是值得的。禹继承王位标志着夏王朝的开始。当禹去世之前，他将王位传给了他的儿子启，而不是其他最有能力的候选人，从而树立了王朝统治规则的先例。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_XIA_MOD_HEADING_7">
+			<Text>消亡</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_XIA_MOD_TEXT_7">
+			<Text>夏朝一直延续到桀（公元前1728-1675年），夏的第17任也是最后一任统治者。桀据说是一个暴君，他过着奢华的生活，用残忍的手段奴役他的人民。他的执政风格鲁莽，充斥着奢靡与淫乱。他不喜欢批评他的人，而很多人确实畏惧他。[NEWLINE][NEWLINE]夏王朝对许多王国拥有宗主权，其中之一就是商王国。在桀的统治期间，商国发展了其国力，以打败夏的其他附庸国为代价。被称为商汤的领袖从多达40个较小的王国中赢得了众多支持者。商汤揭发了桀虐待人民的罪行，用这样的手段获得了其它人的支持。在一次演讲中，商汤写下“汤誓”，他说他并不是想要制造混乱，但是由于桀的暴政，他必须遵循天命，并利用这一机会推翻夏。[NEWLINE][NEWLINE]桀在位31年时，商汤正式兴兵讨伐桀，在鸣条之战中，一个雷雨交加的天气里大败夏军。桀本人逃到了三朡（zong，三声）。商军和三朡在成耳交战，打败三朡军并废除了桀，使夏王朝结束。最终，桀被放逐于南巢，并在那里病逝。商汤成功做了王，并开创了商朝。[NEWLINE][NEWLINE]夏朝被商打败后，王室子孙分散，并被附近的部族所吸收。夏朝的一些王室成员则在齐地（今河南）建国，并一直存在到公元前445年。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_XIA_MOD_HEADING_8">
+			<Text>与商朝的关系</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_XIA_MOD_TEXT_8">
+			<Text>关于二里头究竟属于夏还是商的学术争论仍然在持续。事实上，二里头是围绕夏王朝是否存在的所有讨论的中心。在安阳殷墟发现的写在甲骨上的文字最后确定该城是商代最后的都城，然而这些证据在更早的城市遗址中并不存在。[NEWLINE][NEWLINE]已知中国最早的青铜器产于二里头；而这些器物的复杂性需要一个国家级的组织状态水平。在周朝的记录中，夏朝是首个青铜时代的社会，但学者们在这种文化究竟是作为周朝以前一个单独的实体而存在，还是仅仅是由周朝领导者杜撰出来的以巩固其统治的政治神话上存在争议。[NEWLINE][NEWLINE]对夏朝历史的记录大部分都可以被认定为是神话。夏被描绘成一个黑暗的充满腐败的朝代来与商进行对比，并强调了随后的周朝的道德。然而，即便可能包含了一些出于政治动机的杜撰，夏作为一个朝代存在的可能性仍然没有降低。[NEWLINE][NEWLINE]另外，夏，或者至少二里头的政体，可能有一段作为商朝西部竞争对手状态共存的历史。一个王朝和平转换为另一个王朝是非常罕见的现象；王朝通常在现有的统治被推翻之前就已建立，或者在被打败后仍然存在一段时间。[NEWLINE][NEWLINE]持续的考古调查正在进行，以充分发掘二里头和二里岗文化与夏商王朝之间的关系。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_XIA_MOD_STATBOX">
+			<Text>[NEWLINE]        领袖：禹[NEWLINE]        独有单位：长毂[NEWLINE]        独有建筑：铸造工坊[NEWLINE][NEWLINE]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_XIA_MOD_FACTOID_HEADING">
+			<Text>夏朝轶闻</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_XIA_MOD_FACTOID_TEXT">
+			<Text>虽然关于夏王朝具体的考古证据还没有被发现，但二里头和类似的城市遗址证明至少当时的中国文明在一个比商朝所控制的范围更大的文化环境中存在。二里头与夏之间的关系归根结底是一个关于周朝所记载的历史究竟是完全为了维护周朝“天命”的正统性而捏造的政治小说，或者，至少一部分是基于实际历史数据的问题。</Text>
+		</Row>
+		<!-- -->
+		<Row Tag="TXT_KEY_CITY_NAME_XIA_MOD_ERLITOU">
+			<Text>二里头</Text>
+		</Row>
+		<!-- -->
+		<Row Tag="TXT_KEY_SPY_NAME_XIA_MOD_0">
+			<Text>西施</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_XIA_MOD_1">
+			<Text>貂禪</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_XIA_MOD_2">
+			<Text>蔣幹</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_XIA_MOD_3">
+			<Text>子貢</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_XIA_MOD_4">
+			<Text>秦檜</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_XIA_MOD_5">
+			<Text>要離</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_XIA_MOD_6">
+			<Text>荊軻</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_XIA_MOD_7">
+			<Text>聶壹</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_XIA_MOD_8">
+			<Text>鄭國</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_XIA_MOD_9">
+			<Text>須賈</Text>
+		</Row>
+		<!-- -->
+		<Row Tag="TXT_KEY_BUILDING_XIA_MOD_BRONZE_WORKSHOP">
+			<Text>铸造工坊</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_XIA_MOD_BRONZE_WORKSHOP_HELP">
+			<Text>所有单位+15经验。[NEWLINE][NEWLINE]提供1个美术巨作席位，当这个席位被填充时，以每一个已经经历的朝代+2%的比例为城市提供额外的[ICON_CULTURE]文化产出。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_XIA_MOD_BRONZE_WORKSHOP_STRATEGY">
+			<Text>铸造工坊是华夏文明独有的建筑，替代军营。它为城市训练的军事单位提供额外的经验，并且额外提供1个美术巨作席位，当这个席位被填充时，以每一个已经经历的朝代+2%的比例为城市提供额外的[ICON_CULTURE]文化产出。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_XIA_MOD_BRONZE_WORKSHOP_TEXT">
+			<Text>中国早期的青铜铸器和陶器主要作为重要的仪式用礼器，而不是为了经济或者军事目的。这种生产需要大量的劳动力，以处理必要的铜，锡，铅等矿石的开采，提炼以及运输。反过来，这也创造了对于负责监督苦工，手工艺人以及工匠们工作的官员的需求。贵族们也需要大量不同的青铜器皿用于各种礼仪目的和宗教占卜的活动。[NEWLINE][NEWLINE]根据考古调查，在二里头遗址富丽堂皇的建筑群附近配合出土了数量众多的青铜铸造工坊，二里头垄断了该地区当时仪式用青铜器具的生产，包括最早复原的鼎。青铜器以及其他相关器具的生产在二里头文化四期（约公元前1560-1500年）停止了；同时位于郑州东部85公里处二里岗的城市建立起来。存在时间较晚的商代二里岗文化在早期青铜器的生产技术与设计，包括饕餮纹图案等方面，都是二里头文化的直接延续。二里头文化的青铜器与更早时期甘肃齐家文化的青铜器之间的联系仍然不清楚。</Text>
+		</Row>
+		<!-- -->
+		<Row Tag="TXT_KEY_UNIT_SHANG_CHARIOT_MOD">
+			<Text>长毂</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_SHANG_CHARIOT_MOD_HELP">
+			<Text>机动指挥单位。长毂可以增加其周围的地面单位的经验值获得速度。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_SHANG_CHARIOT_MOD_STRATEGY">
+			<Text>长毂是一个强大的远程单位，在开阔地形上拥有致命的作战能力。虽然速度比标准的战车射手略慢，但长毂拥有增加其周围的地面单位经验值获得速度的独特能力。使用这种能力来支援你的军队，并确保攻击敌对文明或者野蛮人时有一辆长毂在附近。不同于战车射手，长毂不需要消耗马来维持。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_SHANG_CHARIOT_MOD_TEXT">
+			<Text>传统上一般认为是夏朝的车服大夫奚仲率先发明了两轮战车，并且据说它们在公元前21世纪夏朝的甘之战中就已经得到了使用。然而，考古证据表明，小规模的战车使用开始于公元前1200年左右的商代晚期，主要作为机动指挥车辆投入战场。[NEWLINE][NEWLINE]由于马匹提供了重要的动力，马官也相应地得到了很大的权力。一定程度上战车形成了军队的核心，控制着一些常备的军队。战车在战场上承担指挥的职能，并负责攻击敌人的阵地；同时它也被统治者赋予了防守的职责，并在御狩中作为护卫。</Text>
+		</Row>
+		<!-- -->
+		<Row Tag="TXT_KEY_PROMOTION_SHANG_CHARIOT">
+			<Text>机动指挥</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_XIA_CHARIOT_DESC">
+			<Text>周围的地面单位获得经验的速度提升25%。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_SHANG_PATRONAGE_0">
+			<Text>现场指挥</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_XIA_PATRONAGE_0_DESC">
+			<Text>获得经验的速度提升25%。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_XIA_BANNER_ARMY">
+			<Text>身先士卒</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_XIA_BANNER_ARMY_DESC">
+			<Text>不需要花费[ICON_GOLD]金钱维护。</Text>
+		</Row>		
+		<!-- -->
+		<Row Tag="TXT_KEY_UNIT_XIA_DYNASTY_DUMMY_DESC">
+			<Text>华夏祖先</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_XIA_DYNASTY_DUMMY_DESC">
+			<Text>华夏宗庙</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_XIA_DYNASTY_DUMMY_STRATEGY">
+			<Text>这个建筑不能被建设，它代表着朝代更替的产物以及所带来的独特能力。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_XIA_DYNASTY_DUMMY_TEXT">
+			<Text>朝代更替一直是中国历史以及政治重要的主旋律。遵从这条规则，每个朝代都会在达到一个政治，经济与文化的高峰之后，由于政治下滑，道德腐败，或者“失去天命”而轰然坍塌，被一个新生的朝代所取代。这种循环更替不断持续着。它见证了中国从古至今的历史，见证了一个又一个王朝或帝国的更替，也证明中国的社会与经济结构在此期间只有很少，或者几乎没有变化与进步。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_SHANG_DYNASTY_DUMMY_DESC">
+			<Text>商朝宗庙</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_SHANG_DYNASTY_DUMMY_HELP">
+			<Text>[ICON_RES_HORSE]马[ICON_RES_SHEEP]羊和[ICON_RES_COW]牛+2[ICON_RESEARCH]科技产出。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_ZHOU_DYNASTY_DUMMY_DESC">
+			<Text>周朝宗庙</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_ZHOU_DYNASTY_DUMMY_HELP">
+			<Text>夏；专家提供+1[ICON_GOLDEN_AGE]黄金时代点数。商；无效果。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_SUI_DYNASTY_DUMMY_DESC">
+			<Text>隋朝宗庙</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_SUI_DYNASTY_DUMMY_HELP">
+			<Text>王朝[ICON_CAPITAL]首都附近非傀儡的城市建筑维护费减少20%。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_TANG_DYNASTY_DUMMY_DESC">
+			<Text>唐朝宗庙</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_TANG_DYNASTY_DUMMY_HELP">
+			<Text>城市中每个拥有至少1名追随者的宗教提供+1[ICON_PEACE]信仰。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_SONG_DYNASTY_DUMMY_DESC">
+			<Text>宋朝宗庙</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_SONG_DYNASTY_DUMMY_HELP">
+			<Text>获得一项免费科技。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_MING_DYNASTY_DUMMY_DESC">
+			<Text>明朝宗庙</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_CHINA_EVER_OWNED_DUMMY_DESC">
+			<Text>普天之下，莫非王土</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_CHINA_EVER_OWNED_DUMMY_TWO_DESC">
+			<Text>中原故城</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_MING_DYNASTY_DUMMY_HELP">
+			<Text>海上商路长度增加33%。</Text>
+		</Row>
+		<!-- -->
+		<Row Tag="TXT_KEY_BUILDING_XIA_RITUAL_BRONZE_DUMMY_DESC">
+			<Text>华夏物产</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_XIA_RITUAL_BRONZE_DUMMY_HELP">
+			<Text>夏；以每一个已经经历的朝代+2%的比例为城市提供额外的[ICON_CULTURE]文化产出。商；提高25%城市产生的宗教压迫。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_XIA_RITUAL_BRONZE_DECISION_DUMMY_DESC">
+			<Text>青铜古器</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_XIA_RITUAL_BRONZE_DECISIONS_DUMMY_HELP">
+			<Text>铸造工坊提供+1[ICON_PEACE]信仰。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_XIA_CHOPSTICK_DECISION_DUMMY_DESC">
+			<Text>称箸为筷</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_XIA_CHOPSTICK_DECISION_DUMMY_HELP">
+			<Text>改良设施修建速度增加15%。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_XIA_ART_HOLDER_DESC">
+			<Text>华夏艺人</Text>
+		</Row>
+		<!-- -->
+		<Row Tag="TXT_KEY_TP_XIA_GA_PLUS">
+			<Text>专家产出每回合增加{1_Num}。</Text>
+		</Row>		
+		<!-- -->
+		<Row Tag="TXT_KEY_XIA_NAME">
+			<Text>華夏</Text>
+		</Row>
+		<Row Tag="TXT_KEY_XIA_TT">
+			<Text>建立你的[ICON_CAPITAL]首都以建立新朝代。</Text>
+		</Row>
+		<!-- -->
+		<Row Tag="TXT_KEY_TOMATEKH_BUTTON_1_TEXT">
+			<Text>继续</Text>
+		</Row>
+		<!-- -->
+		<Row Tag="TXT_KEY_XIA_ERLITOU_GREAT_PERSON">
+			<Text>神圣祖先</Text>
+		</Row>
+		<!-- -->
+		<Row Tag="TXT_KEY_GENERIC_ERLITOU_MOD_INFLUENTIAL_ON_AI_1">
+			<Text>我的人民持续抢购你的爵与鼎，舶来的青铜器价格已经开始飙升。我担心世界的其他地方也将屈从于你的文化影响。</Text>
+		</Row>
+		<!-- -->
+		<!--
+		<Row Tag="TXT_KEY_PMMM_LEADER_MG_NAME_XIA_YU_MOD">
+			<Text>涂山氏</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		-->	
+		<!-- -->
+		<!-- -->
+		<!-- -->
+		<!-- -->
+		<!-- Xia -->
+		<Row Tag="TXT_KEY_BUILDING_XIA_SHANG_SWITCH_DESC">
+			<Text>夏商转换</Text>
+		</Row>
+		<!-- Shang -->
+		<!-- -->
+		<!-- -->
+		<!-- -->
+		<!-- -->
+		<Row Tag="TXT_KEY_TRAIT_SHANG_DYNASTIC_CYCLE_SHORT">
+			<Text>甲骨文字</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_SHANG_DYNASTIC_CYCLE">
+			<Text>伟人可以献祭一处畜牧资源以获得一项随机奖励，并产生一份艺术巨作（伟人与资源都将被消耗）。</Text>
+		</Row>
+		<!-- -->
+		<Row Tag="TXT_KEY_DAWN_OF_MAN_ERLITOU_SHANG_MOD_TEXT">
+			<Text>我们尊敬且吉祥的武丁，巫觋的王，商朝的统治者，愿上天永远祝福您的统治！黄河分散的部落开始进入历史，商朝成为了中国文明的基石。作为一个虔诚且好战的国家，商很快统一了大部分华北平原。然而，在他们的统治下，文学，科学和艺术也得到了蓬勃发展。二里头首次发现的复杂的青铜器具将会演变，并加入错综复杂的玉石制品，而中国文字的第一个庞大的语料库也将随着商王向上天问卜而发展。然而，朝代更替从未停下脚步。当西边的周的力量开始增长，商朝的黄金时代也将很快成为传说，并淡出人们的视线。[NEWLINE][NEWLINE]武丁啊！商朝的高宗，占卜的骨片预示着吉兆！您将顺应天命回归，再一次领导华夏走向伟大！您能够还原堕落的王朝的荣耀吗？您能建立起一个经得起时间考验的文明吗？</Text>
+		</Row>
+		<!-- -->
+		<Row Tag="TXT_KEY_LEADER_XIA_SHANG_WU_MOD_FIRST_GREETING_1">
+			<Text>欢迎！我是武丁，商朝的王。让我们占卜上天是否欢迎此次会面。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_XIA_SHANG_WU_MOD_FIRST_GREETING_2">
+			<Text>我是武丁，华夏的领袖，商朝的王！野蛮人来到我的王国有什么事情？</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_XIA_SHANG_WU_MOD_DEFEATED_1">
+			<Text>龟甲预言了这次失败！可怜我愚蠢地认为我能违抗天意。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_XIA_SHANG_WU_MOD_DEFEATED_2">
+			<Text>我竟然会在你这种不仁不义的人面前失去天命！</Text>
+		</Row>
+		<!-- -->
+		<Row Tag="TXT_KEY_LEADER_XIA_SHANG_WU_MOD_DESC">
+			<Text>武丁</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_XIA_SHANG_WU_MOD_LIVED">
+			<Text>公元前1250-1192</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_XIA_SHANG_WU_MOD_NAME">
+			<Text>武丁</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_XIA_SHANG_WU_MOD_SUBTITLE">
+			<Text>商朝领袖</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_XIA_SHANG_WU_MOD_TITLES_1">
+			<Text>殷商国君</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_XIA_SHANG_WU_MOD_TITLES_2">
+			<Text>大巫觋</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_XIA_SHANG_WU_MOD_HEADING_1">
+			<Text>历史</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_XIA_SHANG_WU_MOD_TEXT_1">
+			<Text>武丁是商朝第21任或者第23任国君，存在于公元前约1200年。由于既有文献证据也有考古证据，他既是统治时间最长的商王，也是最早的可考的中国统治者。执政59年来，他表现出对人民的关心，他尊重并招募贤良有能的人为他的政府服务，为殷商王朝的鼎盛时期铺平了道路。他被誉为是王朝复兴的领导者，并作为后世儒家思想中明君的模范而流传。武丁被广泛认为是商代最伟大的国王之一。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_XIA_SHANG_WU_MOD_HEADING_2">
+			<Text>统治</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_XIA_SHANG_WU_MOD_TEXT_2">
+			<Text>“史记”记载，武丁在父亲小乙死后继位。他个人的名字是昭。尽管武丁出身贵族，但他却在普通民众之间长大，因此他懂得农民的艰辛。[NEWLINE][NEWLINE]武丁是一位伟大的将军和战士，他打败了北边的鬼方，西部的羌方，以及南部的荆蛮。这些胜利扩大了商的领土，并使得商王国从一个城邦转变为拥有广大领土的国家。根据甲骨文，殷商军队的平均规模为3000或5000名士兵。在这些战争中，商军抓获敌人的部队，并将他们作为奴隶或者用于人祭的牺牲。在他统治的第四十三年间，他的军队继续征服了大彭，并在武丁五十年时又征服了豕韦。[NEWLINE][NEWLINE]武丁时代对宗教的极端迷信也是其一大特点。虽然在一般情况下，中国商朝的王都被视为宗教事务的权威，并行使各种仪式的最终控制权（这是当时最重要的政治活动之一），而在这一方面，武丁似乎已经超越了他的前辈。司马迁的“殷本纪”中所记载的关于武丁的事迹也包含了浓厚的宗教迷信色彩。在安阳发掘出的许多刻着武丁签名的甲骨碎片也证实了这一点。[NEWLINE][NEWLINE]根据所有可信的记载，武丁在位五十九年而崩。武丁死后庙号高宗，以表现其崇高与伟大。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_XIA_SHANG_WU_MOD_HEADING_3">
+			<Text>妇好</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_XIA_SHANG_WU_MOD_TEXT_3">
+			<Text>妇好是国王武丁的宠妃。虽然没有在以后的历史文献中记录，但从甲骨文上发现的关于妇好的记录使得她在清朝末年就已经为人所知。对于商王而言，与邻近部落的妇女联姻以培养忠诚是常见的手段。妇好通过这样的婚姻进入了王室，并借助半母系奴隶社会的优势，使自己的地位逐渐上升。[NEWLINE][NEWLINE]甲骨上的铭文记载，妇好领导了大量的军事行动。各种方国长期侵扰商朝领土，直到妇好领兵决战，最终打败他们。随后妇好又对邻近的彝，羌和巴进行了进一步军事行动；后者则是中国历史上最早记载的大规模伏击。凭借高达13,000名士兵以及重要将领沚，侯告的协助，妇好是那个时代最强大的军事领袖。[NEWLINE][NEWLINE]虽然商王仍然行使对当时最重要的政治活动，各种礼祭事务的最终控制权，但甲骨文表示武丁曾多次命妇好举行特殊的仪式与祭祀。这对于那个时代的女性来说是非同寻常的，而用于献祭的青铜器与龟甲在妇好墓的发现更进一步证明了她作为女祭司和占卜巫师的崇高地位。[NEWLINE][NEWLINE]妇好同时也在商王朝的边境拥有自己的领地，并且是王子祖己的母亲。她在武丁之前去世，享年33岁。武丁非常悲痛，在他的首都殷郊的皇家陵园为她建造了墓地。商王武丁与妇好至今仍是中国历史上统治者中的模范夫妇。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_XIA_SHANG_WU_MOD_HEADING_4">
+			<Text>历史的结论</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_XIA_SHANG_WU_MOD_TEXT_4">
+			<Text>即便是在安阳的考古发掘证实了武丁即位之前，他也是中国民间传说的重要组成部分，在后来产生的儒家思想中，武丁被视为早期明君的典范。甲骨文的发现帮助证实了他在位期间许多传奇的事迹。事实上，武丁在商朝即将衰颓之时继承了王位，并帮助王朝恢复了昔日的辉煌。甲骨文还列出了他许多军事上的胜利，以及他对宗教的虔诚，这在司马迁的“殷本纪”中也有提及。因而武丁现在被广泛认为是殷商时代中国最伟大的国王之一也就不奇怪了。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_XIA_SHANG_WU_MOD_HEADING_5">
+			<Text>轶闻</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_XIA_SHANG_WU_MOD_TEXT_5">
+			<Text>武丁是中国历史上第一个其存在得到了同时期记录证实的人物。</Text>
+		</Row>	
+		<!-- -->
+		<Row Tag="TXT_KEY_XIA_SHANG_MOD_DESC">
+			<Text>商朝</Text>
+		</Row>
+		<Row Tag="TXT_KEY_XIA_SHANG_MOD_SHORT_DESC">
+			<Text>商</Text>
+		</Row>
+		<Row Tag="TXT_KEY_XIA_SHANG_MOD_ADJECTIVE">
+			<Text>商</Text>
+		</Row>
+		<Row Tag="TXT_KEY_XIA_SHANG_MOD">
+			<Text>商</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_XIA_SHANG_MOD_TITLE">
+			<Text>商</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_XIA_SHANG_MOD_TEXT_1">
+			<Text>作为半传奇化的夏王朝的继任者，殷商是第一个拥有书面证据与考古证据的有记录的中国王朝。王朝的统治时间传统上认为是从公元前1766-1122年；然而，最近的考古工作将这一日期延后至公元前1600-1046年。正是在这一时期，中国文字开始发展，根据太阳和月亮运行周期制定的日历也得到了进步。幸存的文物中，陶器，玉器和青铜器最为引人注目，而后者主要为礼仪功能服务。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_XIA_SHANG_MOD_HEADING_2">
+			<Text>气候与地理</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_XIA_SHANG_MOD_TEXT_2">
+			<Text>根据传统记载，商朝在公元前两千年统治黄河流域一带。在现代的水坝来到中国之前，黄河非常容易泛滥；过去2500年间，黄河发生了约1600次洪水，改道26次。虽然带来了致命的自然灾害，但洪水也使附近的土壤肥沃，因而它也是驱动中华文明出现的重要因素。比起中国中部和南部的河流，如长江和珠江，黄河一般不适合养殖业，虽然中华鳖一直是黄河中的传统资源。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_XIA_SHANG_MOD_HEADING_3">
+			<Text>传统渊源</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_XIA_SHANG_MOD_TEXT_3">
+			<Text>司马迁的“殷本纪”通过记叙商朝创始之前的祖先开始。帝喾的后妃简狄吞玄鸟之卵，因而生子契（xie，四声）。据说契帮助大禹治水，并因此被授予了一片封地，称为商地。[NEWLINE][NEWLINE]司马迁记载，商王朝本身创建于契传承13代之后。契的后代汤在鸣条之战中推翻了夏朝暴君桀的统治，并建立商朝。殷本纪记载了成汤，太甲，太戊，盘庚，武丁，武乙和堕落的末代商王帝辛（纣王）的统治，但其余的商王只是提到名字。根据记载，商朝迁都五次，最后在盘庚统治时期将都城迁到殷，并开创了商王朝的黄金时代。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_XIA_SHANG_MOD_HEADING_4">
+			<Text>考古</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_XIA_SHANG_MOD_TEXT_4">
+			<Text>二里岗文化是青铜器时代的城市文明，并作为考古证据证实了中国文化在约公元前1500-1300年的存在。主要的遗址于1951年被发现于现代的河南郑州二里岗。[NEWLINE][NEWLINE]文化集中于黄河流域。在它的早期，它迅速扩张，并达到了长江一带，现在湖北黄陂县的盘龙城遗址证实了这一点。由于在郑州当地无法获得青铜金属，盘龙城之类的城市可能是用来保护远方开采的金属资源。这一文化后来逐渐从早期的高峰衰退并消失。许多中国考古学家认为，这座位于郑州的古城正是传统历史中所提到的商代早期都城之一。然而，许多学者和西方考古学家指出，不同于后来的安阳遗址，二里岗遗迹没有发现任何能够使其与正史相关联的文字记载。[NEWLINE][NEWLINE]考古调查显示，二里岗遗迹是一座拥有近长方形城墙的古老城市，其展示了可以追溯至中国新石器时期龙山文化遗址（约公元前3000-2000年）的技术手段。大型的作坊分别位于城墙之外，包括骨头作坊，陶瓷作坊以及两个青铜器铸造工坊。二里岗青铜器是由更早的二里头文化的风格和技术发展而来，二里头遗迹位于郑州以西85公里处。二里岗文化也是中国考古学发现的首个表现出广泛使用青铜器铸造技术的文化。相比二里头文化，二里岗的青铜器风格统一，并且得到了更加广泛的应用。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_XIA_SHANG_MOD_HEADING_5">
+			<Text>政府</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_XIA_SHANG_MOD_TEXT_5">
+			<Text>商王被认为不止一次迁都，其中之一可能位于现代郑州，那里存在着丰富的考古发现，但他们公元前14世纪定居于安阳。商王任命地方长官，并制定了一系列平民到贵族的阶级，平民的主要劳动是农业。商王同时也担任祭司的功能，是献祭和占卜的主要官员。甲骨占卜中最常见的主题是关于降雨和洪水的问题。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_XIA_SHANG_MOD_HEADING_6">
+			<Text>文化</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_XIA_SHANG_MOD_TEXT_6">
+			<Text>殷商时期的建筑由木材建筑在夯土地基上，墙壁由荆条编成，涂抹上泥灰，屋顶盖上茅草。陵墓建在粘土中，墙上有明显的作画痕迹，包含了一些与装饰品或者动物非常相似的形状，反映了这一时期青铜工艺的杰出成就。商代最早期的青铜器比较简陋，但随着其发展历程，显然青铜工艺在各种优雅的仪式用具以及烹饪用具，精美的餐具，各种器皿和装饰物的广泛运用中达到了其高潮。[NEWLINE][NEWLINE]陶器的应用则较为丰富，商朝的陶工使用烧制的粘土模具铸造青铜器。他们也使用粘土模具向陶土器皿上压印装饰（在许多案例中，这些形状的设计灵感明显来自于青铜器）。一些陶器给出了可能已经成形的陶轮的证据。陶器包括用于礼祭的上了白釉的碗碟，以及黑陶和用于更加现实用途的褐色釉。[NEWLINE][NEWLINE]玉器雕刻是商代文明比较先进的一部分；他们制作玉制的礼仪用武器，也制作玉制的实际武器。玉佣包括了人类和动物的造型，并被精心雕刻上了细节。其中的许多在这一时期的墓葬中被发现。其他的随葬品包括从微小的玉雕，骨雕或者象牙雕（有时镶有绿松石）到漆木制的战车。更大的雕刻由大理石制成，雕有动物图案。[NEWLINE][NEWLINE]没有商代的文献遗存，但流传下来相当多的关于礼仪的铭文和家庭或部族的名称，雕刻或刷在骨头或者龟壳上。甲骨文字拥有三种部分：象形部分，表意部分和表音部分，这些是中国最早的书写记录。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_XIA_SHANG_MOD_HEADING_7">
+			<Text>甲骨文</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_XIA_SHANG_MOD_TEXT_7">
+			<Text>甲骨是一种龟壳或者骨头，通常是牛肩胛骨或者龟胸板骨，曾经在中国古代商朝期间被用于占卜。占卜将向神询问一系列有关未来的天气，作物种植，皇室成员的命运，战争是否顺利和其他类似主题的问题。通常，这些问题都是询问“上帝”（此上帝非彼上帝），中国古代信仰中的一位天神。这些问题以甲骨文的形式用锋利的工具刻在骨头或龟壳上。甲骨将被加热，然后用金属棒施加外力直到骨或龟壳由于热膨胀而破裂。占卜师接下来则会根据开裂的模式解读这片甲骨上的预言。[NEWLINE][NEWLINE]甲骨承载了中国古文字已知最早的优秀语料库，并包含着重要的历史信息，如商代王室的完整家谱。当它们在二十世纪早期被发现并破译时，这些记录证实了商朝的存在，而此前一些学者曾对此持怀疑态度。[NEWLINE][NEWLINE]商朝晚期的甲骨文表现出象形化的特点，正如现代中国文字一般，它被商代人铸在青铜器上（称为金文）。最早的甲骨文比起商代较晚时期的这些例子甚至更加具有象形的特征（因而在大约200年间确实发生了一些变化）。比较西周早期与商代铸在青铜器上的甲骨文，甲骨文显然大大地简化，圆润的笔画也往往转化为直线；这被认为是由于在坚硬的骨头表面雕刻的难度，以及为了便于将它们写在用于制作青铜铸造模具的湿粘土上所致的。因此，青铜器上更加详细，更具图案风格的文字被认为是一种比起甲骨文字更加具有代表性的商朝文字形式，而这种典型的风格继续演变成周朝时期的写作形式，并在周朝晚期发展成秦的小篆。[NEWLINE][NEWLINE]由于其成熟性，可以肯定的是商朝的文字在安阳甲骨文之前经历了一段发展时期。不过，并没有发现商代早期或中期的大量清晰可辨的写作遗存。从中国新石器时代的不同文化遗址中的陶器，玉器或骨器上发现的一些符号是非常有争议的，关于它们是否与殷商甲骨文存在直接的关联学界并没有达成共识。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_XIA_SHANG_MOD_HEADING_8">
+			<Text>军事</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_XIA_SHANG_MOD_TEXT_8">
+			<Text>青铜兵器是商代社会的一个重要组成部分。商朝步兵手持各种石制和青铜武器，包括戈，矛，刀，斧，钺，复合弓和青铜或皮革的头盔。战车最早出现于武丁在位期间。甲骨文记载，商代来自西方的敌人使用数量有限的战车进行战斗，而商朝自己使用它们则仅仅作为机动指挥用车，或者在皇家御狩时保驾护航。毫无疑问，战车通过中亚和北方草原进入了中国，这可能表明了某种形式的印欧接触。最近的考古发现表明，商代后期为马进行墓葬，这类似于西部的草原人民。周能征服商朝的一个关键因素也可能是他们能够更有效地利用战车。[NEWLINE][NEWLINE]虽然商依赖于其贵族们的军事技能，但商朝统治者可以调动从城镇到农村的平民作为壮丁以进行防御或者征服。贵族和其他方国的统治者有义务提供当地的驻军以及所有必要的设备，装甲和武器。商王在其都城保有约一千人的军队，并会亲自率领这支部队投入战斗。一个基本的军事官僚机构也是必要的，以调动三五千人马的部队守卫边境，或者调动多达一万三千人的军队以镇压叛乱。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_XIA_SHANG_MOD_HEADING_9">
+			<Text>消亡</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_XIA_SHANG_MOD_TEXT_9">
+			<Text>帝辛（纣王），商朝的末代国王，据说在他的军队被周武王击败后自杀了。传说他的军队和奴隶在牧野的决战中背叛了他，加入了周的叛军。按照“逸周书”和“孟子”的记载，战斗非常血腥。明朝的经典小说“封神演义”重述了商周之间的战争冲突，讲述了对立派别的神在战争中支持不同双方的故事。[NEWLINE][NEWLINE]在商被打败后，周武王允许帝辛的儿子武庚作为一个诸侯王国继续统治商。然而，周武王将他的三个兄弟以及一支军队也派到商，以确保武庚不会造反。周武王死后，武庚与管叔，蔡叔通谋发动了反对摄政的周公的叛乱。三年之后，叛乱被平定，武庚与管叔被杀死，蔡叔被流放，商原有的领土由周控制。随后，周朝的统治者又迫使殷商遗民迁徙，使他们在整个周朝领土分散开来。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_XIA_SHANG_MOD_HEADING_10">
+			<Text>天命</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_XIA_SHANG_MOD_TEXT_10">
+			<Text>天命是中国古代的一种哲学思想与信仰，认为是“天”根据其治理的能力而授予皇帝统治的权力。中国古代史学家往往将一次成功的起义解释为天命已经过去的证据，而一次成功的叛乱则被解释为天命已经给予下一个朝代的证据。[NEWLINE][NEWLINE]天命的概念最早用于支持周朝诸王的统治，以及他们对更早的商朝的推翻。周朝通过假设权力来自于上天的意志来解释他们的权力。他们认为，商朝的统治者已经道德败坏，这使得他人有权将统治的权力夺走。对商朝的推翻，他们说，这是由上天所赋予的任务。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_XIA_SHANG_MOD_STATBOX">
+			<Text>[NEWLINE]        领袖：武丁[NEWLINE]        独有单位：长毂[NEWLINE]        独有建筑：铸造工坊[NEWLINE][NEWLINE]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_XIA_SHANG_MOD_FACTOID_HEADING">
+			<Text>商朝轶闻</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_XIA_SHANG_MOD_FACTOID_TEXT">
+			<Text>虽然传统上将商作为继夏之后中国第二个王朝，商朝仍然是历史所记载的最古老的可以核查的王朝。商本身也曾长时间被认为是传说，直到甲骨碎片在20世纪初被发现。最近的考古发掘试图将二里头考古遗址与夏朝关联起来，不过，由于这些遗址的年代处于中国文字之前（至少在不易腐烂的介质之前），这样的说法看来是难以得到证实的。</Text>
+		</Row>
+		<!-- -->
+		<Row Tag="TXT_KEY_CITY_NAME_XIA_SHANG_MOD_YIN">
+			<Text>殷</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_XIA_SHANG_MOD_BO">
+			<Text>亳</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_XIA_SHANG_MOD_FAN">
+			<Text>蕃</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_XIA_SHANG_MOD_XIAO">
+			<Text>囂</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_XIA_SHANG_MOD_DISHI">
+			<Text>砥石</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_XIA_SHANG_MOD_BI">
+			<Text>庇</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_XIA_SHANG_MOD_YANSHI">
+			<Text>奄</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_XIA_SHANG_MOD_XIANG">
+			<Text>相</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_XIA_SHANG_MOD_SHANGQIU">
+			<Text>商邱</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_XIA_SHANG_MOD_PUGU">
+			<Text>蒲姑</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_XIA_SHANG_MOD_AO">
+			<Text>西亳</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_XIA_SHANG_MOD_GENG">
+			<Text>庚</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_XIA_SHANG_MOD_BEIMENG">
+			<Text>邢</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_XIA_SHANG_MOD_MO">
+			<Text>斟鄩</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_XIA_SHANG_MOD_CHAOGE">
+			<Text>朝歌</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_XIA_SHANG_MOD_SHIXIANGGOU">
+			<Text>牧野</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_XIA_SHANG_MOD_YAN">
+			<Text>燕</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_XIA_SHANG_MOD_PANLONGCHENG">
+			<Text>盤龍城</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_XIA_SHANG_MOD_HUANBEI">
+			<Text>洹北i</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_XIA_SHANG_MOD_ZHENGZHOU">
+			<Text>郑州</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_XIA_SHANG_MOD_XINGAN">
+			<Text>新淦</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_XIA_SHANG_MOD_DANSHAN">
+			<Text>丹山</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_XIA_SHANG_MOD_MINGTIAO">
+			<Text>鳴條</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_XIA_SHANG_MOD_MUYE">
+			<Text>鳴條</Text>
+		</Row>
+		<!-- -->
+		<Row Tag="TXT_KEY_BUILDING_XIA_SHANG_MOD_BRONZE_WORKSHOP_HELP">
+			<Text>所有单位+15经验。[NEWLINE][NEWLINE]提供1个美术巨作席位，当这个席位被填充时，城市产生的宗教压迫+25%。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_XIA_SHANG_MOD_BRONZE_WORKSHOP_STRATEGY">
+			<Text>铸造工坊是华夏文明独有的建筑，替代军营。它为城市训练的军事单位提供额外的经验，并且额外提供1个美术巨作席位，当这个席位被填充时，城市产生的宗教压迫+25%。</Text>
+		</Row>
+		<!-- -->
+		<Row Tag="TXT_KEY_GREAT_PERSON_DECISIONS_XIA_SHANG_DA_YI">
+			<Text>大乙</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_DECISIONS_XIA_SHANG_DA_DING">
+			<Text>太丁</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_DECISIONS_XIA_SHANG_DA_JIA">
+			<Text>太甲</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_DECISIONS_XIA_SHANG_DA_GENG">
+			<Text>太庚</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_DECISIONS_XIA_SHANG_DA_WU">
+			<Text>太戊</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_DECISIONS_XIA_SHANG_ZHONG_DING">
+			<Text>中丁</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_DECISIONS_XIA_SHANG_ZU_YI">
+			<Text>祖乙</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_DECISIONS_XIA_SHANG_ZU_XIN">
+			<Text>祖辛</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_DECISIONS_XIA_SHANG_ZU_DING">
+			<Text>祖丁</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_DECISIONS_XIA_SHANG_XIAO_YI">
+			<Text>小乙</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_DECISIONS_XIA_SHANG_ZU_JIA">
+			<Text>祖甲</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_DECISIONS_XIA_SHANG_KANG_DING">
+			<Text>康丁</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_DECISIONS_XIA_SHANG_WU_JIA">
+			<Text>武甲</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_DECISIONS_XIA_SHANG_WEN_WU_DING">
+			<Text>河亶甲</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_DECISIONS_XIA_SHANG_DI_YI">
+			<Text>帝乙</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_DECISIONS_XIA_SHANG_DI_XIN">
+			<Text>帝辛</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_DECISIONS_XIA_SHANG_BU_BING">
+			<Text>卜丙</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_DECISIONS_XIA_SHANG_LU_JI">
+			<Text>雍己</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_DECISIONS_XIA_SHANG_QIANG_JIA">
+			<Text>羌甲</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_DECISIONS_XIA_SHANG_NAN_GENG">
+			<Text>盘庚</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_DECISIONS_XIA_SHANG_BU_REN">
+			<Text>卜壬</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_DECISIONS_XIA_SHANG_LIN_XIN">
+			<Text>廪辛</Text>
+		</Row>
+		<!-- -->
+		<Row Tag="TXT_KEY_GREAT_WORK_XIA_SHANG_DA_YI">
+			<Text>甲骨文</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_XIA_SHANG_DA_DING">
+			<Text>裂纹龙骨</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_XIA_SHANG_DA_JIA">
+			<Text>龙骨片</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_XIA_SHANG_DA_GENG">
+			<Text>龟壳</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_XIA_SHANG_DA_WU">
+			<Text>裂纹龟壳</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_XIA_SHANG_ZHONG_DING">
+			<Text>牛肩胛骨</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_XIA_SHANG_ZU_YI">
+			<Text>裂纹牛肩胛骨</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_XIA_SHANG_ZU_XIN">
+			<Text>龟胸板</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_XIA_SHANG_ZU_DING">
+			<Text>裂纹龟胸板</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_XIA_SHANG_XIAO_YI">
+			<Text>牛肋骨</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_XIA_SHANG_ZU_JIA">
+			<Text>裂纹牛肋骨</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_XIA_SHANG_KANG_DING">
+			<Text>鹿头骨</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_XIA_SHANG_WU_JIA">
+			<Text>羊肩胛骨</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_XIA_SHANG_WEN_WU_DING">
+			<Text>马肩胛骨</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_XIA_SHANG_DI_YI">
+			<Text>野猪肩胛骨</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_XIA_SHANG_DI_XIN">
+			<Text>牛头骨</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_XIA_SHANG_BU_BING">
+			<Text>鹿肩胛骨</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_XIA_SHANG_LU_JI">
+			<Text>裂纹鹿头骨</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_XIA_SHANG_QIANG_JIA">
+			<Text>裂纹马肩胛骨</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_XIA_SHANG_NAN_GENG">
+			<Text>裂纹野猪肩胛骨</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_XIA_SHANG_BU_REN">
+			<Text>裂纹羊肩胛骨</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_XIA_SHANG_LIN_XIN">
+			<Text>裂纹牛头骨</Text>
+		</Row>
+		<!-- -->
+		<Row Tag="TXT_KEY_XIA_SHANG_GREAT_PERSON">
+			<Text>Shaman King</Text>
+		</Row>
+		<!-- 
+		<Row Tag="TXT_KEY_XIA_SHANG_GREAT_PERSON">
+			<Text>巫觋之王</Text>
+		</Row>		
+		-->
+		<!-- -->
+		<!--
+		<Row Tag="TXT_KEY_GENERIC_ERLITOU_MOD_INFLUENTIAL_ON_AI_1">
+			<Text>我的人民痴迷于卜筮，只有龟壳给出了指示他们才会行动。我担心世界的其他地方也屈从于你的文化影响。</Text>
+		</Row>
+		-->
+		<!-- -->
+		<Row Tag="TXT_KEY_PMMM_LEADER_MG_NAME_XIA_YU_MOD">
+			<Text>妇好</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<!-- -->
+		<!-- -->
+		<!-- -->
+		<!-- -->
+		<Row Tag="TXT_KEY_EVENT_CULDEV_TOMATEKH_XIA_01">
+			<Text>米酒，經發酵大米酒精飲料，發明於{1_City}。</Text>
+		</Row>
+		<!-- -->
+		<!-- -->
+		<!-- -->
+		<!-- -->
+		<!-- Additional Translation Text -->
+		<!-- -->
+		<!-- -->
+		<!-- -->
+		<!-- -->
+		<Row Tag="TXT_KEY_TRAIT_DYNASTIC_CYCLE_MISC_1">
+			<Text>{1_West}{2_Dynasty}朝</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_DYNASTIC_CYCLE_MISC_2">
+			<Text>中國</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_DYNASTIC_CYCLE_MISC_3">
+			<Text>中國的</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_DYNASTIC_CYCLE_MISC_4">
+			<Text>人民共和國</Text>
+		</Row>
+		<!-- -->
+		<Row Tag="TXT_KEY_TRAIT_DYNASTIC_CYCLE_DUPLICATE_1">
+			<Text>西</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_DYNASTIC_CYCLE_DUPLICATE_2">
+			<Text>西</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_DYNASTIC_CYCLE_DUPLICATE_3">
+			<Text>新</Text>
+		</Row>
+		<!-- -->
+		<Row Tag="TXT_KEY_XIA_TRAI_YUAN_BONUS">
+			<Text>诺木汗</Text>
+		</Row>
+		<!-- Xia -->
+		<Row Tag="TXT_KEY_XIA_MOD_CITY_NAME_POOL_1">
+			<Text>鉏</Text>
+		</Row>
+		<Row Tag="TXT_KEY_XIA_MOD_CITY_NAME_POOL_2">
+			<Text>窮石</Text>
+		</Row>
+		<Row Tag="TXT_KEY_XIA_MOD_CITY_NAME_POOL_3">
+			<Text>斟鄩</Text>
+		</Row>
+		<Row Tag="TXT_KEY_XIA_MOD_CITY_NAME_POOL_4">
+			<Text>帝丘</Text>
+		</Row>
+		<Row Tag="TXT_KEY_XIA_MOD_CITY_NAME_POOL_5">
+			<Text>老丘</Text>
+		</Row>
+		<Row Tag="TXT_KEY_XIA_MOD_CITY_NAME_POOL_6">
+			<Text>济源</Text>
+		</Row>
+		<Row Tag="TXT_KEY_XIA_MOD_CITY_NAME_POOL_7">
+			<Text>西河</Text>
+		</Row>
+		<Row Tag="TXT_KEY_XIA_MOD_CITY_NAME_POOL_8">
+			<Text>斟</Text>
+		</Row>
+		<Row Tag="TXT_KEY_XIA_MOD_CITY_NAME_POOL_9">
+			<Text>安邑</Text>
+		</Row>
+		<Row Tag="TXT_KEY_XIA_MOD_CITY_NAME_POOL_10">
+			<Text>崇</Text>
+		</Row>
+		<Row Tag="TXT_KEY_XIA_MOD_CITY_NAME_POOL_11">
+			<Text>寿光</Text>
+		</Row>
+		<Row Tag="TXT_KEY_XIA_MOD_CITY_NAME_POOL_12">
+			<Text>会稽</Text>
+		</Row>
+		<Row Tag="TXT_KEY_XIA_MOD_CITY_NAME_POOL_13">
+			<Text>北福地</Text>
+		</Row>
+		<Row Tag="TXT_KEY_XIA_MOD_CITY_NAME_POOL_14">
+			<Text>崇</Text>
+		</Row>
+		<Row Tag="TXT_KEY_XIA_MOD_CITY_NAME_POOL_15">
+			<Text>屠</Text>
+		</Row>
+		<Row Tag="TXT_KEY_XIA_MOD_CITY_NAME_POOL_16">
+			<Text>邴</Text>
+		</Row>
+		<Row Tag="TXT_KEY_XIA_MOD_CITY_NAME_POOL_17">
+			<Text>陽</Text>
+		</Row>
+		<Row Tag="TXT_KEY_XIA_MOD_CITY_NAME_POOL_18">
+			<Text>河南</Text>
+		</Row>
+		<Row Tag="TXT_KEY_XIA_MOD_CITY_NAME_POOL_19">
+			<Text>啟封</Text>
+		</Row>
+		<Row Tag="TXT_KEY_XIA_MOD_CITY_NAME_POOL_20">
+			<Text>北川</Text>
+		</Row>
+		<Row Tag="TXT_KEY_XIA_MOD_CITY_NAME_POOL_21">
+			<Text>老丘</Text>
+		</Row>
+		<Row Tag="TXT_KEY_XIA_MOD_CITY_NAME_POOL_22">
+			<Text>原</Text>
+		</Row>
+		<Row Tag="TXT_KEY_XIA_MOD_CITY_NAME_POOL_23">
+			<Text>泰山麓</Text>
+		</Row>
+		<Row Tag="TXT_KEY_XIA_MOD_CITY_NAME_POOL_24">
+			<Text>穷石</Text>
+		</Row>
+		<Row Tag="TXT_KEY_XIA_MOD_CITY_NAME_POOL_25">
+			<Text>兖州</Text>
+		</Row>
+		<Row Tag="TXT_KEY_XIA_MOD_CITY_NAME_POOL_26">
+			<Text>纶</Text>
+		</Row>	
+		<!-- Shang -->
+		<Row Tag="TXT_KEY_XIA_MOD_CITY_NAME_POOL_27">
+			<Text>亳</Text>
+		</Row>
+		<Row Tag="TXT_KEY_XIA_MOD_CITY_NAME_POOL_28">
+			<Text>蕃</Text>
+		</Row>
+		<Row Tag="TXT_KEY_XIA_MOD_CITY_NAME_POOL_29">
+			<Text>囂</Text>
+		</Row>
+		<Row Tag="TXT_KEY_XIA_MOD_CITY_NAME_POOL_30">
+			<Text>砥石</Text>
+		</Row>
+		<Row Tag="TXT_KEY_XIA_MOD_CITY_NAME_POOL_31">
+			<Text>庇</Text>
+		</Row>
+		<Row Tag="TXT_KEY_XIA_MOD_CITY_NAME_POOL_32">
+			<Text>奄</Text>
+		</Row>
+		<Row Tag="TXT_KEY_XIA_MOD_CITY_NAME_POOL_33">
+			<Text>相</Text>
+		</Row>
+		<Row Tag="TXT_KEY_XIA_MOD_CITY_NAME_POOL_34">
+			<Text>商邱</Text>
+		</Row>
+		<Row Tag="TXT_KEY_XIA_MOD_CITY_NAME_POOL_35">
+			<Text>蒲姑</Text>
+		</Row>
+		<Row Tag="TXT_KEY_XIA_MOD_CITY_NAME_POOL_36">
+			<Text>西亳</Text>
+		</Row>
+		<Row Tag="TXT_KEY_XIA_MOD_CITY_NAME_POOL_37">
+			<Text>庚</Text>
+		</Row>
+		<Row Tag="TXT_KEY_XIA_MOD_CITY_NAME_POOL_38">
+			<Text>邢</Text>
+		</Row>
+		<Row Tag="TXT_KEY_XIA_MOD_CITY_NAME_POOL_39">
+			<Text>斟鄩</Text>
+		</Row>
+		<Row Tag="TXT_KEY_XIA_MOD_CITY_NAME_POOL_40">
+			<Text>朝歌</Text>
+		</Row>
+		<Row Tag="TXT_KEY_XIA_MOD_CITY_NAME_POOL_41">
+			<Text>牧野</Text>
+		</Row>
+		<Row Tag="TXT_KEY_XIA_MOD_CITY_NAME_POOL_42">
+			<Text>燕</Text>
+		</Row>
+		<Row Tag="TXT_KEY_XIA_MOD_CITY_NAME_POOL_43">
+			<Text>盘龙城</Text>
+		</Row>
+		<Row Tag="TXT_KEY_XIA_MOD_CITY_NAME_POOL_44">
+			<Text>洹北</Text>
+		</Row>
+		<Row Tag="TXT_KEY_XIA_MOD_CITY_NAME_POOL_45">
+			<Text>郑州</Text>
+		</Row>
+		<Row Tag="TXT_KEY_XIA_MOD_CITY_NAME_POOL_46">
+			<Text>新干</Text>
+		</Row>
+		<Row Tag="TXT_KEY_XIA_MOD_CITY_NAME_POOL_47">
+			<Text>丹山</Text>
+		</Row>
+		<Row Tag="TXT_KEY_XIA_MOD_CITY_NAME_POOL_48">
+			<Text>鳴條</Text>
+		</Row>
+		<Row Tag="TXT_KEY_XIA_MOD_CITY_NAME_POOL_49">
+			<Text>鸣条</Text>
+		</Row>
+		<!-- Zhou -->
+		<Row Tag="TXT_KEY_XIA_MOD_CITY_NAME_POOL_50">
+			<Text>镐</Text>
+		</Row>
+		<Row Tag="TXT_KEY_XIA_MOD_CITY_NAME_POOL_51">
+			<Text>成周</Text>
+		</Row>
+		<Row Tag="TXT_KEY_XIA_MOD_CITY_NAME_POOL_52">
+			<Text>鞏</Text>
+		</Row>
+		<Row Tag="TXT_KEY_XIA_MOD_CITY_NAME_POOL_53">
+			<Text>河南</Text>
+		</Row>
+		<Row Tag="TXT_KEY_XIA_MOD_CITY_NAME_POOL_54">
+			<Text>牧野</Text>
+		</Row>
+		<Row Tag="TXT_KEY_XIA_MOD_CITY_NAME_POOL_55">
+			<Text>秦</Text>
+		</Row>
+		<Row Tag="TXT_KEY_XIA_MOD_CITY_NAME_POOL_56">
+			<Text>颍川</Text>
+		</Row>
+		<Row Tag="TXT_KEY_XIA_MOD_CITY_NAME_POOL_57">
+			<Text>大梁</Text>
+		</Row>
+		<Row Tag="TXT_KEY_XIA_MOD_CITY_NAME_POOL_58">
+			<Text>邯郸</Text>
+		</Row>
+		<Row Tag="TXT_KEY_XIA_MOD_CITY_NAME_POOL_59">
+			<Text>營丘</Text>
+		</Row>
+		<Row Tag="TXT_KEY_XIA_MOD_CITY_NAME_POOL_60">
+			<Text>壽春</Text>
+		</Row>
+		<Row Tag="TXT_KEY_XIA_MOD_CITY_NAME_POOL_61">
+			<Text>蓟</Text>
+		</Row>
+		<Row Tag="TXT_KEY_XIA_MOD_CITY_NAME_POOL_62">
+			<Text>吳</Text>
+		</Row>
+		<Row Tag="TXT_KEY_XIA_MOD_CITY_NAME_POOL_63">
+			<Text>梅里</Text>
+		</Row>
+		<Row Tag="TXT_KEY_XIA_MOD_CITY_NAME_POOL_64">
+			<Text>青州</Text>
+		</Row>
+		<Row Tag="TXT_KEY_XIA_MOD_CITY_NAME_POOL_65">
+			<Text>放马滩</Text>
+		</Row>
+		<Row Tag="TXT_KEY_XIA_MOD_CITY_NAME_POOL_66">
+			<Text>金沙</Text>
+		</Row>
+		<Row Tag="TXT_KEY_XIA_MOD_CITY_NAME_POOL_67">
+			<Text>下都</Text>
+		</Row>
+		<Row Tag="TXT_KEY_XIA_MOD_CITY_NAME_POOL_68">
+			<Text>城子崖</Text>
+		</Row>		
+		<!-- Qin -->
+		<Row Tag="TXT_KEY_XIA_MOD_CITY_NAME_POOL_69">
+			<Text>犬丘</Text>
+		</Row>
+		<Row Tag="TXT_KEY_XIA_MOD_CITY_NAME_POOL_70">
+			<Text>平陽</Text>
+		</Row>
+		<Row Tag="TXT_KEY_XIA_MOD_CITY_NAME_POOL_71">
+			<Text>雍</Text>
+		</Row>
+		<Row Tag="TXT_KEY_XIA_MOD_CITY_NAME_POOL_72">
+			<Text>涇陽</Text>
+		</Row>
+		<Row Tag="TXT_KEY_XIA_MOD_CITY_NAME_POOL_73">
+			<Text>櫟陽</Text>
+		</Row>
+		<Row Tag="TXT_KEY_XIA_MOD_CITY_NAME_POOL_74">
+			<Text>临潼</Text>
+		</Row>
+		<Row Tag="TXT_KEY_XIA_MOD_CITY_NAME_POOL_75">
+			<Text>上邽</Text>
+		</Row>
+		<Row Tag="TXT_KEY_XIA_MOD_CITY_NAME_POOL_76">
+			<Text>汧</Text>
+		</Row>
+		<Row Tag="TXT_KEY_XIA_MOD_CITY_NAME_POOL_77">
+			<Text>邯郸</Text>
+		</Row>
+		<Row Tag="TXT_KEY_XIA_MOD_CITY_NAME_POOL_78">
+			<Text>陈</Text>
+		</Row>
+		<Row Tag="TXT_KEY_XIA_MOD_CITY_NAME_POOL_79">
+			<Text>江陵</Text>
+		</Row>
+		<Row Tag="TXT_KEY_XIA_MOD_CITY_NAME_POOL_80">
+			<Text>衡山</Text>
+		</Row>
+		<Row Tag="TXT_KEY_XIA_MOD_CITY_NAME_POOL_81">
+			<Text>宛</Text>
+		</Row>
+		<Row Tag="TXT_KEY_XIA_MOD_CITY_NAME_POOL_82">
+			<Text>巨鹿</Text>
+		</Row>
+		<Row Tag="TXT_KEY_XIA_MOD_CITY_NAME_POOL_83">
+			<Text>閩中</Text>
+		</Row>
+		<Row Tag="TXT_KEY_XIA_MOD_CITY_NAME_POOL_84">
+			<Text>蜀</Text>
+		</Row>
+		<Row Tag="TXT_KEY_XIA_MOD_CITY_NAME_POOL_85">
+			<Text>代</Text>
+		</Row>
+		<!-- Han -->
+		<Row Tag="TXT_KEY_XIA_MOD_CITY_NAME_POOL_86">
+			<Text>許</Text>
+		</Row>
+		<Row Tag="TXT_KEY_XIA_MOD_CITY_NAME_POOL_87">
+			<Text>鄴</Text>
+		</Row>
+		<Row Tag="TXT_KEY_XIA_MOD_CITY_NAME_POOL_88">
+			<Text>开封</Text>
+		</Row>
+		<Row Tag="TXT_KEY_XIA_MOD_CITY_NAME_POOL_89">
+			<Text>交趾郡</Text>
+		</Row>
+		<Row Tag="TXT_KEY_XIA_MOD_CITY_NAME_POOL_90">
+			<Text>三杨庄</Text>
+		</Row>
+		<Row Tag="TXT_KEY_XIA_MOD_CITY_NAME_POOL_91">
+			<Text>精絕</Text>
+		</Row>
+		<Row Tag="TXT_KEY_XIA_MOD_CITY_NAME_POOL_92">
+			<Text>馬王堆</Text>
+		</Row>
+		<Row Tag="TXT_KEY_XIA_MOD_CITY_NAME_POOL_93">
+			<Text>淮南</Text>
+		</Row>
+		<Row Tag="TXT_KEY_XIA_MOD_CITY_NAME_POOL_94">
+			<Text>庐江</Text>
+		</Row>
+		<Row Tag="TXT_KEY_XIA_MOD_CITY_NAME_POOL_95">
+			<Text>汉济北</Text>
+		</Row>
+		<Row Tag="TXT_KEY_XIA_MOD_CITY_NAME_POOL_96">
+			<Text>敦煌</Text>
+		</Row>
+		<Row Tag="TXT_KEY_XIA_MOD_CITY_NAME_POOL_97">
+			<Text>番禺</Text>
+		</Row>
+		<Row Tag="TXT_KEY_XIA_MOD_CITY_NAME_POOL_98">
+			<Text>哈密</Text>
+		</Row>
+		<Row Tag="TXT_KEY_XIA_MOD_CITY_NAME_POOL_99">
+			<Text>南宁</Text>
+		</Row>
+		<Row Tag="TXT_KEY_XIA_MOD_CITY_NAME_POOL_100">
+			<Text>日南</Text>
+		</Row>
+		<Row Tag="TXT_KEY_XIA_MOD_CITY_NAME_POOL_101">
+			<Text>九江</Text>
+		</Row>
+		<Row Tag="TXT_KEY_XIA_MOD_CITY_NAME_POOL_102">
+			<Text>苍梧</Text>
+		</Row>
+		<Row Tag="TXT_KEY_XIA_MOD_CITY_NAME_POOL_103">
+			<Text>南珠之</Text>
+		</Row>		
+		<!-- Sui -->
+		<Row Tag="TXT_KEY_XIA_MOD_CITY_NAME_POOL_104">
+			<Text>東都</Text>
+		</Row>
+		<Row Tag="TXT_KEY_XIA_MOD_CITY_NAME_POOL_105">
+			<Text>灵州</Text>
+		</Row>
+		<Row Tag="TXT_KEY_XIA_MOD_CITY_NAME_POOL_106">
+			<Text>包头</Text>
+		</Row>
+		<Row Tag="TXT_KEY_XIA_MOD_CITY_NAME_POOL_107">
+			<Text>潭州</Text>
+		</Row>
+		<Row Tag="TXT_KEY_XIA_MOD_CITY_NAME_POOL_108">
+			<Text>龙编</Text>
+		</Row>
+		<Row Tag="TXT_KEY_XIA_MOD_CITY_NAME_POOL_109">
+			<Text>江都</Text>
+		</Row>
+		<Row Tag="TXT_KEY_XIA_MOD_CITY_NAME_POOL_110">
+			<Text>苏</Text>
+		</Row>
+		<Row Tag="TXT_KEY_XIA_MOD_CITY_NAME_POOL_111">
+			<Text>文登</Text>
+		</Row>
+		<Row Tag="TXT_KEY_XIA_MOD_CITY_NAME_POOL_112">
+			<Text>襄樊</Text>
+		</Row>
+		<Row Tag="TXT_KEY_XIA_MOD_CITY_NAME_POOL_113">
+			<Text>秦皇岛</Text>
+		</Row>
+		<Row Tag="TXT_KEY_XIA_MOD_CITY_NAME_POOL_114">
+			<Text>薩水</Text>
+		</Row>
+		<!-- Tang -->
+		<Row Tag="TXT_KEY_XIA_MOD_CITY_NAME_POOL_115">
+			<Text>乌鲁木</Text>
+		</Row>
+		<Row Tag="TXT_KEY_XIA_MOD_CITY_NAME_POOL_116">
+			<Text>喀什</Text>
+		</Row>
+		<Row Tag="TXT_KEY_XIA_MOD_CITY_NAME_POOL_117">
+			<Text>焉耆</Text>
+		</Row>
+		<Row Tag="TXT_KEY_XIA_MOD_CITY_NAME_POOL_118">
+			<Text>龟兹</Text>
+		</Row>
+		<Row Tag="TXT_KEY_XIA_MOD_CITY_NAME_POOL_119">
+			<Text>鄂尔多</Text>
+		</Row>
+		<Row Tag="TXT_KEY_XIA_MOD_CITY_NAME_POOL_120">
+			<Text>罗布泊</Text>
+		</Row>
+		<Row Tag="TXT_KEY_XIA_MOD_CITY_NAME_POOL_121">
+			<Text>帕米尔</Text>
+		</Row>
+		<Row Tag="TXT_KEY_XIA_MOD_CITY_NAME_POOL_122">
+			<Text>古城</Text>
+		</Row>
+		<Row Tag="TXT_KEY_XIA_MOD_CITY_NAME_POOL_123">
+			<Text>疏勒</Text>
+		</Row>
+		<Row Tag="TXT_KEY_XIA_MOD_CITY_NAME_POOL_124">
+			<Text>於闐</Text>
+		</Row>
+		<Row Tag="TXT_KEY_XIA_MOD_CITY_NAME_POOL_125">
+			<Text>高昌</Text>
+		</Row>		
+		<!-- Song -->
+		<Row Tag="TXT_KEY_XIA_MOD_CITY_NAME_POOL_126">
+			<Text>东京</Text>
+		</Row>
+		<Row Tag="TXT_KEY_XIA_MOD_CITY_NAME_POOL_127">
+			<Text>镇江</Text>
+		</Row>
+		<Row Tag="TXT_KEY_XIA_MOD_CITY_NAME_POOL_128">
+			<Text>臨安</Text>
+		</Row>
+		<Row Tag="TXT_KEY_XIA_MOD_CITY_NAME_POOL_129">
+			<Text>越州</Text>
+		</Row>
+		<Row Tag="TXT_KEY_XIA_MOD_CITY_NAME_POOL_130">
+			<Text>明州</Text>
+		</Row>
+		<Row Tag="TXT_KEY_XIA_MOD_CITY_NAME_POOL_131">
+			<Text>定海</Text>
+		</Row>
+		<Row Tag="TXT_KEY_XIA_MOD_CITY_NAME_POOL_132">
+			<Text>海上朝廷</Text>
+		</Row>
+		<Row Tag="TXT_KEY_XIA_MOD_CITY_NAME_POOL_133">
+			<Text>章安</Text>
+		</Row>
+		<Row Tag="TXT_KEY_XIA_MOD_CITY_NAME_POOL_134">
+			<Text>温州</Text>
+		</Row>
+		<Row Tag="TXT_KEY_XIA_MOD_CITY_NAME_POOL_135">
+			<Text>官富场</Text>
+		</Row>
+		<Row Tag="TXT_KEY_XIA_MOD_CITY_NAME_POOL_136">
+			<Text>厓山</Text>
+		</Row>	
+		<!-- Yuan -->
+		<Row Tag="TXT_KEY_XIA_MOD_CITY_NAME_POOL_137">
+			<Text>上都</Text>
+		</Row>
+		<Row Tag="TXT_KEY_XIA_MOD_CITY_NAME_POOL_138">
+			<Text>大都</Text>
+		</Row>
+		<Row Tag="TXT_KEY_XIA_MOD_CITY_NAME_POOL_139">
+			<Text>北平</Text>
+		</Row>
+		<Row Tag="TXT_KEY_XIA_MOD_CITY_NAME_POOL_140">
+			<Text>應昌</Text>
+		</Row>
+		<Row Tag="TXT_KEY_XIA_MOD_CITY_NAME_POOL_141">
+			<Text>开平</Text>
+		</Row>
+		<Row Tag="TXT_KEY_XIA_MOD_CITY_NAME_POOL_142">
+			<Text>耀县</Text>
+		</Row>
+		<Row Tag="TXT_KEY_XIA_MOD_CITY_NAME_POOL_143">
+			<Text>大同</Text>
+		</Row>
+		<Row Tag="TXT_KEY_XIA_MOD_CITY_NAME_POOL_144">
+			<Text>兴庆</Text>
+		</Row>
+		<Row Tag="TXT_KEY_XIA_MOD_CITY_NAME_POOL_145">
+			<Text>中都</Text>
+		</Row>
+		<Row Tag="TXT_KEY_XIA_MOD_CITY_NAME_POOL_146">
+			<Text>衙门</Text>
+		</Row>
+		<Row Tag="TXT_KEY_XIA_MOD_CITY_NAME_POOL_147">
+			<Text>濠</Text>
+		</Row>	
+		<!-- Ming -->
+		<Row Tag="TXT_KEY_XIA_MOD_CITY_NAME_POOL_148">
+			<Text>應天</Text>
+		</Row>
+		<Row Tag="TXT_KEY_XIA_MOD_CITY_NAME_POOL_149">
+			<Text>順天</Text>
+		</Row>
+		<Row Tag="TXT_KEY_XIA_MOD_CITY_NAME_POOL_150">
+			<Text>肇庆</Text>
+		</Row>
+		<Row Tag="TXT_KEY_XIA_MOD_CITY_NAME_POOL_151">
+			<Text>福州</Text>
+		</Row>
+		<Row Tag="TXT_KEY_XIA_MOD_CITY_NAME_POOL_152">
+			<Text>云南</Text>
+		</Row>
+		<Row Tag="TXT_KEY_XIA_MOD_CITY_NAME_POOL_153">
+			<Text>贵阳</Text>
+		</Row>
+		<Row Tag="TXT_KEY_XIA_MOD_CITY_NAME_POOL_154">
+			<Text>济南</Text>
+		</Row>
+		<Row Tag="TXT_KEY_XIA_MOD_CITY_NAME_POOL_155">
+			<Text>桂林</Text>
+		</Row>
+		<Row Tag="TXT_KEY_XIA_MOD_CITY_NAME_POOL_156">
+			<Text>南昌</Text>
+		</Row>
+		<Row Tag="TXT_KEY_XIA_MOD_CITY_NAME_POOL_157">
+			<Text>清河</Text>
+		</Row>	
+		<!-- Qing -->
+		<Row Tag="TXT_KEY_XIA_MOD_CITY_NAME_POOL_158">
+			<Text>长春</Text>
+		</Row>
+		<Row Tag="TXT_KEY_XIA_MOD_CITY_NAME_POOL_159">
+			<Text>安达</Text>
+		</Row>
+		<Row Tag="TXT_KEY_XIA_MOD_CITY_NAME_POOL_160">
+			<Text>大庆</Text>
+		</Row>
+		<Row Tag="TXT_KEY_XIA_MOD_CITY_NAME_POOL_161">
+			<Text>抚顺</Text>
+		</Row>
+		<Row Tag="TXT_KEY_XIA_MOD_CITY_NAME_POOL_162">
+			<Text>鞍山</Text>
+		</Row>
+		<Row Tag="TXT_KEY_XIA_MOD_CITY_NAME_POOL_163">
+			<Text>西昌</Text>
+		</Row>
+		<Row Tag="TXT_KEY_XIA_MOD_CITY_NAME_POOL_164">
+			<Text>龙安</Text>
+		</Row>
+		<Row Tag="TXT_KEY_XIA_MOD_CITY_NAME_POOL_165">
+			<Text>泰安</Text>
+		</Row>
+		<Row Tag="TXT_KEY_XIA_MOD_CITY_NAME_POOL_166">
+			<Text>準部</Text>
+		</Row>
+		<Row Tag="TXT_KEY_XIA_MOD_CITY_NAME_POOL_167">
+			<Text>延平</Text>
+		</Row>		
+		<!-- China -->
+		<Row Tag="TXT_KEY_XIA_MOD_CITY_NAME_POOL_168">
+			<Text>成都</Text>
+		</Row>
+		<Row Tag="TXT_KEY_XIA_MOD_CITY_NAME_POOL_169">
+			<Text>汕头</Text>
+		</Row>
+		<Row Tag="TXT_KEY_XIA_MOD_CITY_NAME_POOL_170">
+			<Text>青岛</Text>
+		</Row>
+		<Row Tag="TXT_KEY_XIA_MOD_CITY_NAME_POOL_171">
+			<Text>石家庄</Text>
+		</Row>
+		<Row Tag="TXT_KEY_XIA_MOD_CITY_NAME_POOL_172">
+			<Text>深圳</Text>
+		</Row>
+		<Row Tag="TXT_KEY_XIA_MOD_CITY_NAME_POOL_173">
+			<Text>本溪</Text>
+		</Row>
+		<Row Tag="TXT_KEY_XIA_MOD_CITY_NAME_POOL_174">
+			<Text>杭州</Text>
+		</Row>
+		<Row Tag="TXT_KEY_XIA_MOD_CITY_NAME_POOL_175">
+			<Text>鹤城</Text>
+		</Row>
+		<Row Tag="TXT_KEY_XIA_MOD_CITY_NAME_POOL_176">
+			<Text>福清</Text>
+		</Row>
+		<Row Tag="TXT_KEY_XIA_MOD_CITY_NAME_POOL_177">
+			<Text>宁波</Text>
+		</Row>
+		<Row Tag="TXT_KEY_XIA_MOD_CITY_NAME_POOL_178">
+			<Text>天津</Text>
+		</Row>
+		<Row Tag="TXT_KEY_XIA_MOD_CITY_NAME_POOL_179">
+			<Text>泉州</Text>
+		</Row>
+		<Row Tag="TXT_KEY_XIA_MOD_CITY_NAME_POOL_180">
+			<Text>山东</Text>
+		</Row>
+		<Row Tag="TXT_KEY_XIA_MOD_CITY_NAME_POOL_181">
+			<Text>淄博</Text>
+		</Row>
+		<Row Tag="TXT_KEY_XIA_MOD_CITY_NAME_POOL_182">
+			<Text>阿克苏</Text>
+		</Row>
+		<Row Tag="TXT_KEY_XIA_MOD_CITY_NAME_POOL_183">
+			<Text>哈尔滨</Text>
+		</Row>
+		<Row Tag="TXT_KEY_XIA_MOD_CITY_NAME_POOL_184">
+			<Text>厦门</Text>
+		</Row>
+		<Row Tag="TXT_KEY_XIA_MOD_CITY_NAME_POOL_185">
+			<Text>合肥</Text>
+		</Row>
+		<Row Tag="TXT_KEY_XIA_MOD_CITY_NAME_POOL_186">
+			<Text>长沙</Text>
+		</Row>
+		<Row Tag="TXT_KEY_XIA_MOD_CITY_NAME_POOL_187">
+			<Text>如皋</Text>
+		</Row>
+		<Row Tag="TXT_KEY_XIA_MOD_CITY_NAME_POOL_188">
+			<Text>克拉玛依</Text>
+		</Row>
+		<Row Tag="TXT_KEY_XIA_MOD_CITY_NAME_POOL_189">
+			<Text>平顶山</Text>
+		</Row>
+		<Row Tag="TXT_KEY_XIA_MOD_CITY_NAME_POOL_190">
+			<Text>东莞</Text>
+		</Row>
+		<Row Tag="TXT_KEY_XIA_MOD_CITY_NAME_POOL_191">
+			<Text>依兰</Text>
+		</Row>
+		<Row Tag="TXT_KEY_XIA_MOD_CITY_NAME_POOL_192">
+			<Text>扬州</Text>
+		</Row>
+		<Row Tag="TXT_KEY_XIA_MOD_CITY_NAME_POOL_193">
+			<Text>哈尔滨</Text>
+		</Row>
+		<Row Tag="TXT_KEY_XIA_MOD_CITY_NAME_POOL_194">
+			<Text>蚌埠</Text>
+		</Row>
+		<Row Tag="TXT_KEY_XIA_MOD_CITY_NAME_POOL_195">
+			<Text>葫芦岛</Text>
+		</Row>
+		<Row Tag="TXT_KEY_XIA_MOD_CITY_NAME_POOL_196">
+			<Text>重庆</Text>
+		</Row>
+		<Row Tag="TXT_KEY_XIA_MOD_CITY_NAME_POOL_197">
+			<Text>保定</Text>
+		</Row>
+		<Row Tag="TXT_KEY_XIA_MOD_CITY_NAME_POOL_198">
+			<Text>洛阳</Text>
+		</Row>
+		<Row Tag="TXT_KEY_XIA_MOD_CITY_NAME_POOL_199">
+			<Text>昆明</Text>
+		</Row>
+		<Row Tag="TXT_KEY_XIA_MOD_CITY_NAME_POOL_200">
+			<Text>沈阳</Text>
+		</Row>
+		<Row Tag="TXT_KEY_XIA_MOD_CITY_NAME_POOL_201">
+			<Text>太原</Text>
+		</Row>
+		<Row Tag="TXT_KEY_XIA_MOD_CITY_NAME_POOL_202">
+			<Text>臺南</Text>
+		</Row>
+		<Row Tag="TXT_KEY_XIA_MOD_CITY_NAME_POOL_203">
+			<Text>大连</Text>
+		</Row>
+		<Row Tag="TXT_KEY_XIA_MOD_CITY_NAME_POOL_204">
+			<Text>丽江</Text>
+		</Row>
+		<Row Tag="TXT_KEY_XIA_MOD_CITY_NAME_POOL_205">
+			<Text>无锡</Text>
+		</Row>
+		<Row Tag="TXT_KEY_XIA_MOD_CITY_NAME_POOL_206">
+			<Text>苏州</Text>
+		</Row>
+		<Row Tag="TXT_KEY_XIA_MOD_CITY_NAME_POOL_207">
+			<Text>茂名</Text>
+		</Row>
+		<Row Tag="TXT_KEY_XIA_MOD_CITY_NAME_POOL_208">
+			<Text>韶关</Text>
+		</Row>
+		<Row Tag="TXT_KEY_XIA_MOD_CITY_NAME_POOL_209">
+			<Text>通榆</Text>
+		</Row>
+		<Row Tag="TXT_KEY_XIA_MOD_CITY_NAME_POOL_210">
+			<Text>河源</Text>
+		</Row>
+		<Row Tag="TXT_KEY_XIA_MOD_CITY_NAME_POOL_211">
+			<Text>辽宁</Text>
+		</Row>
+		<Row Tag="TXT_KEY_XIA_MOD_CITY_NAME_POOL_212">
+			<Text>湖北</Text>
+		</Row>
+		<Row Tag="TXT_KEY_XIA_MOD_CITY_NAME_POOL_213">
+			<Text>甘肃</Text>
+		</Row>
+		<Row Tag="TXT_KEY_XIA_MOD_CITY_NAME_POOL_214">
+			<Text>黄石</Text>
+		</Row>
+		<Row Tag="TXT_KEY_XIA_MOD_CITY_NAME_POOL_215">
+			<Text>宜昌</Text>
+		</Row>
+		<Row Tag="TXT_KEY_XIA_MOD_CITY_NAME_POOL_216">
+			<Text>鹰潭</Text>
+		</Row>
+		<Row Tag="TXT_KEY_XIA_MOD_CITY_NAME_POOL_217">
+			<Text>新余</Text>
+		</Row>
+		<Row Tag="TXT_KEY_XIA_MOD_CITY_NAME_POOL_218">
+			<Text>新郑</Text>
+		</Row>
+		<Row Tag="TXT_KEY_XIA_MOD_CITY_NAME_POOL_219">
+			<Text>邯郸</Text>
+		</Row>
+		<Row Tag="TXT_KEY_XIA_MOD_CITY_NAME_POOL_220">
+			<Text>敦煌</Text>
+		</Row>
+		<Row Tag="TXT_KEY_XIA_MOD_CITY_NAME_POOL_221">
+			<Text>高臾</Text>
+		</Row>
+		<Row Tag="TXT_KEY_XIA_MOD_CITY_NAME_POOL_222">
+			<Text>南通</Text>
+		</Row>
+		<Row Tag="TXT_KEY_XIA_MOD_CITY_NAME_POOL_223">
+			<Text>潍坊</Text>
+		</Row>
+		<Row Tag="TXT_KEY_XIA_MOD_CITY_NAME_POOL_224">
+			<Text>西康</Text>
+		</Row>
+		<Row Tag="TXT_KEY_XIA_MOD_CITY_NAME_POOL_225">
+			<Text>义乌</Text>
+		</Row>
+		<Row Tag="TXT_KEY_XIA_MOD_CITY_NAME_POOL_226">
+			<Text>广州</Text>
+		</Row>
+		<Row Tag="TXT_KEY_XIA_MOD_CITY_NAME_POOL_227">
+			<Text>南京</Text>
+		</Row>
+		<Row Tag="TXT_KEY_XIA_MOD_CITY_NAME_POOL_228">
+			<Text>慈溪</Text>
+		</Row>
+		<Row Tag="TXT_KEY_XIA_MOD_CITY_NAME_POOL_229">
+			<Text>西安</Text>
+		</Row>
+		<Row Tag="TXT_KEY_XIA_MOD_CITY_NAME_POOL_230">
+			<Text>上海</Text>
+		</Row>
+		<Row Tag="TXT_KEY_XIA_MOD_CITY_NAME_POOL_231">
+			<Text>澳门</Text>
+		</Row>
+		<Row Tag="TXT_KEY_XIA_MOD_CITY_NAME_POOL_232">
+			<Text>臺北</Text>
+		</Row>
+		<!-- -->
+		<Row Tag="TXT_KEY_TRAIT_DYNASTIC_CYCLE_DYNASTY_CAPITAL_0">
+			<Text>阳城</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_DYNASTIC_CYCLE_DYNASTY_CAPITAL_1">
+			<Text>殷</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_DYNASTIC_CYCLE_DYNASTY_CAPITAL_2">
+			<Text>沣</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_DYNASTIC_CYCLE_DYNASTY_CAPITAL_3">
+			<Text>咸阳</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_DYNASTIC_CYCLE_DYNASTY_CAPITAL_4">
+			<Text>洛阳</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_DYNASTIC_CYCLE_DYNASTY_CAPITAL_5">
+			<Text>大兴</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_DYNASTIC_CYCLE_DYNASTY_CAPITAL_6">
+			<Text>長安</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_DYNASTIC_CYCLE_DYNASTY_CAPITAL_7">
+			<Text>東京</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_DYNASTIC_CYCLE_DYNASTY_CAPITAL_8">
+			<Text>汗八里</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_DYNASTIC_CYCLE_DYNASTY_CAPITAL_9">
+			<Text>南京</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_DYNASTIC_CYCLE_DYNASTY_CAPITAL_10">
+			<Text>沈阳</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_DYNASTIC_CYCLE_DYNASTY_CAPITAL_11">
+			<Text>北京</Text>
+		</Row>
+		<!-- -->
+		<Row Tag="TXT_KEY_TRAIT_DYNASTIC_FIRST_CITY_SPECIAL_CASE_1">
+			<Text>阳城</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_DYNASTIC_FIRST_CITY_SPECIAL_CASE_2">
+			<Text>阳城已經建立了。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_DYNASTIC_FIRST_CITY_SPECIAL_CASE_3">
+			<Text>新的王朝！</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_DYNASTIC_FIRST_CITY_SPECIAL_CASE_4">
+			<Text>一個新的王朝已經在阳城建立了！</Text>
+		</Row>
+		<!-- -->
+		<Row Tag="TXT_KEY_TRAIT_DYNASTIC_CYCLE_DYNASTY_NAME_0">
+			<Text>夏</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_DYNASTIC_CYCLE_DYNASTY_NAME_1">
+			<Text>商</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_DYNASTIC_CYCLE_DYNASTY_NAME_2">
+			<Text>周</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_DYNASTIC_CYCLE_DYNASTY_NAME_3">
+			<Text>秦</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_DYNASTIC_CYCLE_DYNASTY_NAME_4">
+			<Text>漢</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_DYNASTIC_CYCLE_DYNASTY_NAME_5">
+			<Text>隋</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_DYNASTIC_CYCLE_DYNASTY_NAME_6">
+			<Text>唐</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_DYNASTIC_CYCLE_DYNASTY_NAME_7">
+			<Text>宋</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_DYNASTIC_CYCLE_DYNASTY_NAME_8">
+			<Text>元</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_DYNASTIC_CYCLE_DYNASTY_NAME_9">
+			<Text>明</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_DYNASTIC_CYCLE_DYNASTY_NAME_10">
+			<Text>清</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_DYNASTIC_CYCLE_DYNASTY_NAME_11">
+			<Text>中國</Text>
+		</Row>
+		<!-- -->
+		<Row Tag="TXT_KEY_TRAIT_DYNASTIC_CYCLE_POP_BONUS_0">
+			<Text>[NEWLINE][COLOR_POSITIVE_TEXT]夏（朝代循环）[ENDCOLOR][NEWLINE]每当失去你的[ICON_CAPITAL]首都，或在占领的外国[ICON_CAPITAL]首都建立一座法院，或者完成一项政策树时，开启一个新朝代。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_DYNASTIC_CYCLE_TOP_BONUS_0">
+			<Text>[COLOR_POSITIVE_TEXT]夏（朝代循环）[ENDCOLOR][NEWLINE]每当失去你的[ICON_CAPITAL]首都，或在占领的外国[ICON_CAPITAL]首都建立一座法院，或者完成一项政策树时，开启一个新朝代。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_DYNASTIC_CYCLE_POP_BONUS_1">
+			<Text>[NEWLINE][COLOR_POSITIVE_TEXT]商（甲骨文字）[ENDCOLOR][NEWLINE][ICON_RES_HORSE]马，[ICON_RES_SHEEP]羊和[ICON_RES_COW]牛+2[ICON_RESEARCH]科技产出。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_DYNASTIC_CYCLE_TOP_BONUS_1">
+			<Text>[NEWLINE][NEWLINE][COLOR_POSITIVE_TEXT]商（甲骨文字）[ENDCOLOR][NEWLINE][ICON_RES_HORSE]马，[ICON_RES_SHEEP]羊和[ICON_RES_COW]牛+2[ICON_RESEARCH]科技产出。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_DYNASTIC_CYCLE_POP_BONUS_2">
+			<Text>[NEWLINE][COLOR_POSITIVE_TEXT]周（诸子百家）[ENDCOLOR][NEWLINE]专家提供+1[ICON_GOLDEN_AGE]黄金时代点数，+10%[ICON_GREAT_PEOPLE]伟人产生速度。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_DYNASTIC_CYCLE_TOP_BONUS_2">
+			<Text>[NEWLINE][NEWLINE][COLOR_POSITIVE_TEXT]周（诸子百家）[ENDCOLOR][NEWLINE]专家提供+1[ICON_GOLDEN_AGE]黄金时代点数，+10%[ICON_GREAT_PEOPLE]伟人产生速度。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_DYNASTIC_CYCLE_POP_BONUS_3">
+			<Text>[NEWLINE][COLOR_POSITIVE_TEXT]秦（传国御玺）[ENDCOLOR][NEWLINE]吞并的城市（不包括[ICON_CAPITAL]首都）在[ICON_RESISTANCE]反抗期结束之后立即融入你的帝国。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_DYNASTIC_CYCLE_TOP_BONUS_3">
+			<Text>[NEWLINE][NEWLINE][COLOR_POSITIVE_TEXT]秦（传国御玺）[ENDCOLOR][NEWLINE]吞并的城市（不包括[ICON_CAPITAL]首都）在[ICON_RESISTANCE]反抗期结束之后立即融入你的帝国。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_DYNASTIC_CYCLE_POP_BONUS_4">
+			<Text>[NEWLINE][COLOR_POSITIVE_TEXT]汉（汉族人民）[ENDCOLOR][NEWLINE]华夏文明建立的城市为其拥有者提供+2[ICON_CULTURE]文化产出。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_DYNASTIC_CYCLE_TOP_BONUS_4">
+			<Text>[NEWLINE][NEWLINE][COLOR_POSITIVE_TEXT]汉（汉族人民）[ENDCOLOR][NEWLINE]华夏文明建立的城市为其拥有者提供+2[ICON_CULTURE]文化产出。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_DYNASTIC_CYCLE_POP_BONUS_5">
+			<Text>[NEWLINE][COLOR_POSITIVE_TEXT]隋（三省六部）[ENDCOLOR][NEWLINE]王朝的[ICON_CAPITAL]首都附近非傀儡的城市建筑维护费减少20%。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_DYNASTIC_CYCLE_TOP_BONUS_5">
+			<Text>[NEWLINE][NEWLINE][COLOR_POSITIVE_TEXT]隋（三省六部）[ENDCOLOR][NEWLINE]王朝的[ICON_CAPITAL]首都附近非傀儡的城市建筑维护费减少20%。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_DYNASTIC_CYCLE_POP_BONUS_6">
+			<Text>[NEWLINE][COLOR_POSITIVE_TEXT]唐（三教九流）[ENDCOLOR][NEWLINE]城市中每个拥有至少1名追随者的宗教提供+1[ICON_PEACE]信仰。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_DYNASTIC_CYCLE_TOP_BONUS_6">
+			<Text>[NEWLINE][NEWLINE][COLOR_POSITIVE_TEXT]唐（三教九流）[ENDCOLOR][NEWLINE]城市中每个拥有至少1名追随者的宗教提供+1[ICON_PEACE]信仰。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_DYNASTIC_CYCLE_POP_BONUS_7">
+			<Text>[NEWLINE][COLOR_POSITIVE_TEXT]宋（四大发明）[ENDCOLOR][NEWLINE]获得一项免费科技。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_DYNASTIC_CYCLE_TOP_BONUS_7">
+			<Text>[NEWLINE][NEWLINE][COLOR_POSITIVE_TEXT]宋（四大发明）[ENDCOLOR][NEWLINE]获得一项免费科技。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_DYNASTIC_CYCLE_POP_BONUS_8">
+			<Text>[NEWLINE][COLOR_POSITIVE_TEXT]元（大元帝国）[ENDCOLOR][NEWLINE]王朝的[ICON_CAPITAL]首都附近获得一名拥有[COLOR_PLAYER_LIGHT_GREEN]移动速度[ENDCOLOR]晋升的汗。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_DYNASTIC_CYCLE_TOP_BONUS_8">
+			<Text>[NEWLINE][NEWLINE][COLOR_POSITIVE_TEXT]元（大元帝国）[ENDCOLOR][NEWLINE]王朝的[ICON_CAPITAL]首都附近获得一名拥有[COLOR_PLAYER_LIGHT_GREEN]移动速度[ENDCOLOR]晋升的汗。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_DYNASTIC_CYCLE_POP_BONUS_9">
+			<Text>[NEWLINE][COLOR_POSITIVE_TEXT]明（宝藏航行）[ENDCOLOR][NEWLINE]+3[ICON_RES_PORCELAIN]陶瓷。商船在海外领土时产生[ICON_TOURISM] 旅游值。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_DYNASTIC_CYCLE_TOP_BONUS_9">
+			<Text>[NEWLINE][NEWLINE][COLOR_POSITIVE_TEXT]明（宝藏航行）[ENDCOLOR][NEWLINE]+3[ICON_RES_PORCELAIN]陶瓷。商船在海外领土时产生[ICON_TOURISM] 旅游值。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_DYNASTIC_CYCLE_POP_BONUS_10">
+			<Text>[NEWLINE][COLOR_POSITIVE_TEXT]清（八旗军队）[ENDCOLOR][NEWLINE]8个单位免去维护费。所有现有的单位获得+10经验。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_DYNASTIC_CYCLE_TOP_BONUS_10">
+			<Text>[NEWLINE][NEWLINE][COLOR_POSITIVE_TEXT]清（八旗军队）[ENDCOLOR][NEWLINE]8个单位免去维护费。所有现有的单位获得+10经验。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_DYNASTIC_CYCLE_POP_BONUS_11">
+			<Text>[NEWLINE][COLOR_POSITIVE_TEXT]中国（人民共和）[ENDCOLOR][NEWLINE]所有城市+10%[ICON_PRODUCTION]产能。王朝不再更替。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_DYNASTIC_CYCLE_TOP_BONUS_11">
+			<Text>[NEWLINE][NEWLINE][COLOR_POSITIVE_TEXT]中国（人民共和）[ENDCOLOR][NEWLINE]所有城市+10%[ICON_PRODUCTION]产能。王朝不再更替。</Text>
+		</Row>
+		<!-- -->
+		<Row Tag="TXT_KEY_TRAIT_DYNASTIC_CYCLE_SWITCH_1">
+			<Text>一個新的王朝已經在{1_Capital}建立了！隨著妳的國民繼續增長繁榮他們獲得了新的技能和傳統。[NEWLINE]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_DYNASTIC_CYCLE_SWITCH_2">
+			<Text>一個新的王朝已經在新{1_Capital}建立了！然而，很久之前我們族群的分裂使得東方出現了一個名為{2_Dynasty}的冒充者！[NEWLINE]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_DYNASTIC_CYCLE_SWITCH_3">
+			<Text>隨著我們的人民試圖建立起一個真正的超級大國，王朝循環迎來了結束！[NEWLINE]</Text>
+		</Row>
+		<!-- -->
+		<Row Tag="TXT_KEY_TRAIT_DYNASTIC_CYCLE_CHANGE_TITLE_1">
+			<Text>新的王朝！</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_DYNASTIC_CYCLE_CHANGE_MESSAGE_1">
+			<Text>一個新的王朝在{1_New}{2_Capital}建立了！</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_DYNASTIC_CYCLE_CHANGE_TITLE_2">
+			<Text>人民共和國！</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_DYNASTIC_CYCLE_CHANGE_MESSAGE_2">
+			<Text>人民共和國已經在{1_New}{2_Capital}建立了！</Text>
+		</Row>
+		<!-- -->
+		<Row Tag="TXT_KEY_XIA_CITY_NAME_MESSAGE">
+			<Text>{1_Name}建立了。</Text>
+		</Row>
+		<!-- -->
+		<Row Tag="TXT_KEY_XIA_SOCIAL_POLICY_COMPLETE">
+			<Text>你已經完成了一個社會政策樹，妳的人民希望建立一個新的王朝！[NEWLINE][NEWLINE]建立或征服一個城市來建立一個新的[ICON_CAPITAL]王朝首都。</Text>
+		</Row>
+		<!-- -->
+		<Row Tag="TXT_KEY_TRAIT_DYNASTIC_CYCLE_GENERAL_NOTIFICATION_OTHER">
+			<Text>一個新的王朝已經在東方出現了！</Text>
+		</Row>
+		<!-- -->
+		<Row Tag="TXT_KEY_TRAIT_DYNASTIC_CYCLE_QIN_BONUS_MESSAGE_1">
+			<Text>其他國家的城市已經融入妳的帝國且不再受到[ICON_OCCUPIED]占領的影響！</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_DYNASTIC_CYCLE_QIN_BONUS_MESSAGE_2">
+			<Text>{1_City}已經從野蠻人部落重建成為了{2_NewCity}。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_DYNASTIC_CYCLE_MING_BONUS_MESSAGE_1">
+			<Text>你的貨船產生了{1_Tourism}[ICON_TOURISM]旅遊值！</Text>
+		</Row>
+		<!-- -->
+		<!-- -->
+		<!-- -->
+		<!-- -->
+		<!-- Shang Translation -->
+		<!-- -->
+		<!-- -->
+		<!-- -->
+		<!-- -->
+		<Row Tag="TXT_KEY_XIA_SHANG_EVENT_TITLE_1_TAG">
+			<Text>商王占卜后说：“妇好若在丁日生子，将是吉兆；她若在庚日生子，好运将会长久；她若在壬戌生子，将不会有好运。”[NEWLINE]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_XIA_SHANG_EVENT_TITLE_2_TAG">
+			<Text>商王占卜后说：“妇好若在丁日生子，好运将会长久。三十一日后的甲寅日，妇好生了一子。这是一件好事；妇好生的是儿子。”[NEWLINE]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_XIA_SHANG_EVENT_TITLE_3_TAG">
+			<Text>五月，商王丁卯日在宗庙占卜：“若商王与虢一同攻打邵方，他将得到援助。”[NEWLINE]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_XIA_SHANG_EVENT_TITLE_4_TAG">
+			<Text>癸巳日在塙进行的占卜表明：“十日之内，不会有灾害。”商王读了卜文，说道，“这不会是坏事；这也许是更大的事情到来的前兆。”[NEWLINE]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_XIA_SHANG_EVENT_TITLE_5_TAG">
+			<Text>三月，甲辰日在郑进行的占卜表明：“邡正在攻击我们；是頔带领着他们对我们造成伤害。因为邡在攻击我们，我们应当召集军队。”[NEWLINE]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_XIA_SHANG_EVENT_TITLE_6_TAG">
+			<Text>一月。不要出行。到了你祭祀祖先的日子。不要出行。你要用一头野猪，一头公猪和两头仔猪祭祀你的祖先。[NEWLINE]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_XIA_SHANG_EVENT_TITLE_7_TAG">
+			<Text>三月，壬子日在郑进行的占卜表明：“如果我们建设新的移民地，頔不会妨碍，而会支持我们的做法。”[NEWLINE]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_XIA_SHANG_EVENT_TITLE_8_TAG">
+			<Text>二月，辛丑日在塙进行的占卜表明：“頔支持我们的王。”[NEWLINE]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_XIA_SHANG_EVENT_TITLE_9_TAG">
+			<Text>乙未日在顾进行的占卜表明：“頔父正在攻打荣王。” 在郑进行的占卜表明：“有一只害虫存在。是頔父正在攻打荣王。”[NEWLINE]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_XIA_SHANG_EVENT_TITLE_10_TAG">
+			<Text>壬子日祭祀太甲。在吴进行的占卜表明：“不是頔在危害我们的收成。”在顾进行的占卜表明：“铧犁已经旧且易碎。”商王命置办新的铧犁。[NEWLINE]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_XIA_SHANG_EVENT_TITLE_11_TAG">
+			<Text>甲寅日进行的占卜表明：“杜方正在攻击我们边境的人民，并且已经毁坏了我们两处移民地。”共方也对西部的边境进行了攻击。商王派出了援兵。[NEWLINE]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_XIA_SHANG_EVENT_TITLE_12_TAG">
+			<Text>二月，丁巳日在殷进行的占卜表明：“商王参加了丁父的祭典并赠予他三十名羌人俘虏。”在顾进行的占卜表明：“王的所作所为是正确的。”[NEWLINE]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_XIA_SHANG_EVENT_TITLE_13_TAG">
+			<Text>祭祀卜丙，丞相傅说读了卜文说道：“用于祭祀的杯子应当用玉雕刻。”在塙进行的占卜表明：“用于祭祀的杯子不应当用玉雕刻。”[NEWLINE]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_XIA_SHANG_EVENT_TITLE_14_TAG">
+			<Text>四月，癸巳日在顾进行的占卜表明：“頔支持傅说做丞相。”[NEWLINE]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_XIA_SHANG_EVENT_TITLE_15_TAG">
+			<Text>祭祀卜壬，商王读了卜文说道：“頔支持举行御狩。”在埉进行的占卜表明：“頔支持马官。”[NEWLINE]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_XIA_SHANG_EVENT_TITLE_16_TAG">
+			<Text>一月，辛卯日在葚进行的占卜表明：“辛卯可能有雨。辛卯也可能无雨。”[NEWLINE]</Text>
+		</Row>
+		<!--Bodies-->
+		<Row Tag="TXT_KEY_XIA_SHANG_EVENT_BODY_1_TAG">
+			<Text>[NEWLINE]+{1_BonusFaith}[ICON_PEACE]信仰。所有城市+1[ICON_CITIZEN]人口。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_XIA_SHANG_EVENT_BODY_2_TAG">
+			<Text>[NEWLINE]+{1_BonusFaith}[ICON_PEACE]信仰。[ICON_CAPITAL]首都进入“我们爱领袖日”。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_XIA_SHANG_EVENT_BODY_2_EVENT_TAG">
+			<Text>{1_CityName}热爱他们的领袖！</Text>
+		</Row>
+		<Row Tag="TXT_KEY_XIA_SHANG_EVENT_BODY_3_TAG">
+			<Text>[NEWLINE]+{1_BonusFaith}[ICON_PEACE]信仰。所有现有的单位获得+15经验。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_XIA_SHANG_EVENT_BODY_4_TAG">
+			<Text>[NEWLINE]+{1_BonusFaith}[ICON_PEACE]信仰。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_XIA_SHANG_EVENT_BODY_5_TAG">
+			<Text>[NEWLINE]+{1_BonusFaith}[ICON_PEACE]信仰。[ICON_CAPITAL]首都附近获得{2_NumTroops}名步兵单位。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_XIA_SHANG_EVENT_BODY_6_TAG">
+			<Text>[NEWLINE]+{1_BonusFaith}[ICON_PEACE]信仰。一座圣地在资源上建成。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_XIA_SHANG_EVENT_BODY_7_TAG">
+			<Text>[NEWLINE]+{1_BonusFaith}[ICON_PEACE]信仰。所有现有的城市获得{2_NumCulture}[ICON_CULTURE]文化直到下一次祭祀。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_XIA_SHANG_EVENT_BODY_8_TAG">
+			<Text>[NEWLINE]+{1_BonusFaith}[ICON_PEACE]信仰。开启一次[ICON_GOLDEN_AGE]黄金时代。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_XIA_SHANG_EVENT_BODY_9_TAG">
+			<Text>[NEWLINE]+{1_BonusFaith}[ICON_PEACE]信仰。所有竞争者文明进入{2_ShangAnarchy}回合[ICON_RESISTANCE]反抗期。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_XIA_SHANG_EVENT_BODY_9_EVENT_TAG">
+			<Text>你的文明失去了{1_ShangAnarchy}回合的天命！</Text>
+		</Row>
+		<Row Tag="TXT_KEY_XIA_SHANG_EVENT_BODY_10_TAG">
+			<Text>[NEWLINE]+{1_BonusFaith}[ICON_PEACE]信仰。获得一项免费科技。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_XIA_SHANG_EVENT_BODY_11_TAG">
+			<Text>[NEWLINE]+{1_BonusFaith}[ICON_PEACE]信仰。对所有已发现的城邦+{2_NumInfluence}[ICON_INFLUENCE]影响力。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_XIA_SHANG_EVENT_BODY_12_TAG">
+			<Text>[NEWLINE]+{1_BonusFaith}[ICON_PEACE]信仰。[ICON_CAPITAL]首都正在进行的[ICON_PRODUCTION]建造立即完成。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_XIA_SHANG_EVENT_BODY_13_TAG">
+			<Text>[NEWLINE]+{1_BonusFaith}[ICON_PEACE]信仰。+{2_ShangGold}[ICON_GOLD]金钱。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_XIA_SHANG_EVENT_BODY_14_TAG">
+			<Text>[NEWLINE]+{1_BonusFaith}[ICON_PEACE]信仰。一座学院在资源上建成。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_XIA_SHANG_EVENT_BODY_15_TAG">
+			<Text>[NEWLINE]+{1_BonusFaith}[ICON_PEACE]信仰。[ICON_CAPITAL]首都附近出现一处[ICON_RES_DEER]鹿资源和一个长毂。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_XIA_SHANG_EVENT_BODY_15_EVENT_TITLE_TAG">
+			<Text>御狩</Text>
+		</Row>
+		<Row Tag="TXT_KEY_XIA_SHANG_EVENT_BODY_15_EVENT_BODY_TAG">
+			<Text>一群[ICON_RES_DEER]鹿在{1_CityName}附近被发现。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_XIA_SHANG_EVENT_BODY_16_TAG">
+			<Text>[NEWLINE]+{1_BonusFaith}[ICON_PEACE]信仰。农场在接下来{2_ShangRain}回合中额外提供+1[ICON_FOOD]食物。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_XIA_SHANG_SACRIFICE_TAG">
+			<Text>[COLOR_POSITIVE_TEXT]资源献祭[ENDCOLOR][NEWLINE][NEWLINE]献祭[ICON_RES_HORSE]马[ICON_RES_SHEEP]羊或者[ICON_RES_COW]牛资源以获得一项随机奖励，并产生一份艺术巨作。[NEWLINE][NEWLINE]这个行为只能在友方领土内举行。伟人与资源都将会被消耗（[ICON_RES_HORSE]马会消耗2匹）。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SHANG_SACRIFICE_HEADER_TYPE_1">
+			<Text>羊犧牲</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SHANG_SACRIFICE_HEADER_TYPE_2">
+			<Text>牛年犧牲</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SHANG_SACRIFICE_HEADER_TYPE_3">
+			<Text>馬犧牲</Text>
+		</Row>
+		<!-- E&D-->
+		<!--Yellow River-->
+		<Row Tag="TXT_KEY_DECISIONS_TOMATEKH_XIA_YELLOW_RIVER">
+			<Text>驯服黄河</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_TOMATEKH_XIA_YELLOW_RIVER_DESC">
+			<Text>黄河的洪水困扰着附近的村庄，破坏了他们的庄稼。我们应该建立一系列的堤坝和运河来控制泛滥的洪水。[NEWLINE]
+				[NEWLINE]要求/限制：
+				[NEWLINE][ICON_BULLET]玩家必须是华夏
+				[NEWLINE][ICON_BULLET]必须至少拥有一座沿河的城市
+				[NEWLINE][ICON_BULLET]每场游戏只能颁布一次
+				[NEWLINE]花费：
+				[NEWLINE][ICON_BULLET]1[ICON_MAGISTRATES]裁判官
+				[NEWLINE]奖励：
+				[NEWLINE][ICON_BULLET]在沿河的地格修建改良设施将为最近的城市提供一定量的[ICON_FOOD]食物
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_TOMATEKH_XIA_YELLOW_RIVER_ENACTED_DESC">
+			<Text>黄河的洪水困扰着附近的村庄，破坏了他们的庄稼。我们应该建立一系列的堤坝和运河来控制泛滥的洪水。[NEWLINE]
+				[NEWLINE]奖励：
+				[NEWLINE][ICON_BULLET]在沿河的地格修建改良设施将为最近的城市提供一定量的[ICON_FOOD]食物
+			</Text>
+		</Row>
+		<!--Bronze Work-->
+		<Row Tag="TXT_KEY_DECISIONS_TOMATEKH_XIA_BRONZES">
+			<Text>铸鼎仪式</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_TOMATEKH_XIA_BRONZES_DESC">
+			<Text>我们应当铸造更多的大鼎，以作为祭祀祖先时盛放祭品的容器。[NEWLINE]
+				[NEWLINE]要求/限制：
+				[NEWLINE][ICON_BULLET]玩家必须是华夏
+				[NEWLINE][ICON_BULLET]必须拥有至少2座铸造工坊
+				[NEWLINE][ICON_BULLET]必须拥有至少一个可用的艺术巨作席位
+				[NEWLINE][ICON_BULLET]每场游戏只能颁布一次
+				[NEWLINE]花费：
+				[NEWLINE][ICON_BULLET]{1_Gold}[ICON_GOLD]金钱
+				[NEWLINE][ICON_BULLET]2[ICON_MAGISTRATES]裁判官
+				[NEWLINE]奖励：
+				[NEWLINE][ICON_BULLET]铸造工坊+1[ICON_PEACE]信仰
+				[NEWLINE][ICON_BULLET]获得一名免费的大艺术家
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_TOMATEKH_XIA_BRONZES_ENACTED_DESC">
+			<Text>我们应当铸造更多的大鼎，以作为祭祀祖先时盛放祭品的容器。[NEWLINE]
+				[NEWLINE]奖励：
+				[NEWLINE][ICON_BULLET]铸造工坊+1[ICON_PEACE]信仰
+				[NEWLINE][ICON_BULLET]获得一名免费的大艺术家
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_XIA_NINE_TRIPOD_CAULDRONS">
+			<Text>九鼎</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_DECISIONS_XIA_YU">
+			<Text>大禹</Text>
+		</Row>
+		<!--Chopsticks-->
+		<Row Tag="TXT_KEY_DECISIONS_TOMATEKH_XIA_CHOPSTICKS">
+			<Text>发明筷子</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_TOMATEKH_XIA_CHOPSTICKS_DESC">
+			<Text>用自己的手抓饭是不卫生的，更重要的是，我们有更好的办法可以度过等待食物冷却所浪费的时间。让我们创造一种更容易制作的通用饮食器具。[NEWLINE]
+				[NEWLINE]要求/限制：
+				[NEWLINE][ICON_BULLET]玩家必须是殷商
+				[NEWLINE][ICON_BULLET]必须至少建造了4座农场
+				[NEWLINE][ICON_BULLET]每场游戏只能颁布一次
+				[NEWLINE]花费：
+				[NEWLINE][ICON_BULLET]{1_Num}[ICON_RESEARCH]科技值
+				[NEWLINE][ICON_BULLET]2[ICON_MAGISTRATES]裁判官
+				[NEWLINE]奖励：
+				[NEWLINE][ICON_BULLET]改良设施修建速度增加20%
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_TOMATEKH_XIA_CHOPSTICKS_ENACTED_DESC">
+			<Text>用自己的手抓饭是不卫生的，更重要的是，我们有更好的办法可以度过等待食物冷却所浪费的时间。让我们创造一种更容易制作的通用饮食器具。[NEWLINE]
+				[NEWLINE]奖励：
+				[NEWLINE][ICON_BULLET]改良设施修建速度增加20%
+			</Text>
+		</Row>
+		<!--Shell and Bone Script-->
+		<Row Tag="TXT_KEY_DECISIONS_TOMATEKH_XIA_SHANG_CHINESE_WRITING">
+			<Text>仓颉造字</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_TOMATEKH_XIA_SHANG_CHINESE_WRITING_DESC">
+			<Text>商王陛下，仓颉发明了一种称为字的符号，可以帮助沟通。字成之日，苍天雨粟，厉鬼夜哭。我们如果将这种符号用于占卜，将使我们更好地与祖先的意志沟通。[NEWLINE]
+				[NEWLINE]要求/限制：
+				[NEWLINE][ICON_BULLET]玩家必须是殷商
+				[NEWLINE][ICON_BULLET]必须已经研究了书写
+				[NEWLINE][ICON_BULLET]每场游戏只能颁布一次
+				[NEWLINE]花费：
+				[NEWLINE][ICON_BULLET]{1_Gold}[ICON_GOLD]金钱
+				[NEWLINE][ICON_BULLET]1[ICON_MAGISTRATES]裁判官
+				[NEWLINE]奖励：
+				[NEWLINE][ICON_BULLET]献祭牲畜时获得的[ICON_PEACE]信仰奖励加倍
+				[NEWLINE][ICON_BULLET]每处[ICON_RES_HORSE]马，[ICON_RES_SHEEP]羊和[ICON_RES_COW]牛+2[ICON_RESEARCH]科技值
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_TOMATEKH_XIA_SHANG_CHINESE_WRITING_ENACTED_DESC">
+			<Text>商王陛下，仓颉发明了一种称为字的符号，可以帮助沟通。字成之日，苍天雨粟，厉鬼夜哭。我们如果将这种符号用于占卜，将使我们更好地与祖先的意志沟通。[NEWLINE]
+				[NEWLINE]奖励：
+				[NEWLINE][ICON_BULLET]献祭牲畜时获得的[ICON_PEACE]信仰奖励加倍
+				[NEWLINE][ICON_BULLET]每处[ICON_RES_HORSE]马，[ICON_RES_SHEEP]羊和[ICON_RES_COW]牛+2[ICON_RESEARCH]科技值
+			</Text>
+		</Row>
+		<!-- -->
+		<Row Tag="TXT_KEY_SUKRITACT_TOURISM_DUMMY_00">
+			<Text>0 [ICON_TOURISM] Tourism</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SUKRITACT_TOURISM_DUMMY_01">
+			<Text>1 [ICON_TOURISM] Tourism</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SUKRITACT_TOURISM_DUMMY_02">
+			<Text>2 [ICON_TOURISM] Tourism</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SUKRITACT_TOURISM_DUMMY_04">
+			<Text>4 [ICON_TOURISM] Tourism</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SUKRITACT_TOURISM_DUMMY_08">
+			<Text>8 [ICON_TOURISM] Tourism</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SUKRITACT_TOURISM_DUMMY_016">
+			<Text>16 [ICON_TOURISM] Tourism</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SUKRITACT_TOURISM_DUMMY_032">
+			<Text>32 [ICON_TOURISM] Tourism</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SUKRITACT_TOURISM_DUMMY_064">
+			<Text>64 [ICON_TOURISM] Tourism</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SUKRITACT_TOURISM_DUMMY_0128">
+			<Text>128 [ICON_TOURISM] Tourism</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SUKRITACT_TOURISM_DUMMY_0256">
+			<Text>256 [ICON_TOURISM] Tourism</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SUKRITACT_TOURISM_DUMMY_0512">
+			<Text>512 [ICON_TOURISM] Tourism</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SUKRITACT_TOURISM_DUMMY_01024">
+			<Text>1024 [ICON_TOURISM] Tourism</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SUKRITACT_TOURISM_DUMMY_02048">
+			<Text>2048 [ICON_TOURISM] Tourism</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SUKRITACT_TOURISM_DUMMY_04096">
+			<Text>4096 [ICON_TOURISM] Tourism</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SUKRITACT_TOURISM_DUMMY_08192">
+			<Text>8192 [ICON_TOURISM] Tourism</Text>
+		</Row>
+		<!-- -->
+		<Row Tag="TXT_KEY_CIV_XIA_TEMP_TEXT_FIX_1">
+			<Text>[NEWLINE][COLOR_POSITIVE_TEXT]Xia (Dynastic Cycle)[ENDCOLOR][NEWLINE]May trigger Dynastic change. [ICON_CAPITAL] Dynastic Capitals are automatically assimilated into your empire.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_XIA_TEMP_TEXT_FIX_2">
+			<Text>[COLOR_POSITIVE_TEXT]Xia (Dynastic Cycle)[ENDCOLOR][NEWLINE]May trigger Dynastic change. [ICON_CAPITAL] Dynastic Capitals are automatically assimilated into your empire.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_XIA_TEMP_TEXT_FIX_3">
+			<Text>[NEWLINE][COLOR_POSITIVE_TEXT]Qin (Heirloom Seal of the Realm)[ENDCOLOR][NEWLINE]Once out of [ICON_RESISTANCE] Resistance, captured Cities (excluding [ICON_CAPITAL] Capitals) do not require a Courthouse and, if not a Puppet, are renamed according to your current Dynasty.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_XIA_TEMP_TEXT_FIX_4">
+			<Text>[NEWLINE][NEWLINE][COLOR_POSITIVE_TEXT]Qin (Heirloom Seal of the Realm)[ENDCOLOR][NEWLINE]Once out of [ICON_RESISTANCE] Resistance, captured Cities (excluding [ICON_CAPITAL] Capitals) do not require a Courthouse and, if not a Puppet, are renamed according to your current Dynasty.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_XIA_SOCIAL_POLICY_COMPLETE_CID_FIX_5">
+			<Text>You have completed a Social Policy tree and your people wish to establish a new Dynasty![NEWLINE][NEWLINE]Settle, Annex, or Assimilate a City to establish a new [ICON_CAPITAL] Dynastic Capital.</Text>
+		</Row>
+		<!-- -->
+	</Language_zh_CN>		
+</GameData>

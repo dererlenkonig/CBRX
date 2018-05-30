@@ -1,0 +1,350 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+  <Leaders>
+    <Row>
+      <Type>LEADER_CHING_SHIH</Type>
+      <Description>TXT_KEY_LEADER_CHING_SHIH</Description>
+      <Civilopedia>TXT_KEY_LEADER_CHING_SHIH_PEDIA</Civilopedia>
+      <CivilopediaTag>TXT_KEY_CIVILOPEDIA_LEADERS_CHING_SHIH</CivilopediaTag>
+      <ArtDefineTag>Canton_Leaderhead.xml</ArtDefineTag>
+      <VictoryCompetitiveness>6</VictoryCompetitiveness>
+      <WonderCompetitiveness>4</WonderCompetitiveness>
+      <MinorCivCompetitiveness>7</MinorCivCompetitiveness>
+      <Boldness>6</Boldness>
+      <DiploBalance>5</DiploBalance>
+      <WarmongerHate>4</WarmongerHate>
+      <WorkAgainstWillingness>8</WorkAgainstWillingness>
+      <WorkWithWillingness>5</WorkWithWillingness>
+      <DenounceWillingness>5</DenounceWillingness>
+      <DoFWillingness>6</DoFWillingness>
+      <Loyalty>7</Loyalty>
+      <Neediness>8</Neediness>
+      <Forgiveness>5</Forgiveness>
+      <Chattiness>6</Chattiness>
+      <Meanness>5</Meanness>
+      <PortraitIndex>1</PortraitIndex>
+      <IconAtlas>CHING_ICON_ATLAS</IconAtlas>
+    </Row>
+  </Leaders>
+
+  <Leader_MajorCivApproachBiases>
+    <Row>
+      <LeaderType>LEADER_CHING_SHIH</LeaderType>
+      <MajorCivApproachType>MAJOR_CIV_APPROACH_WAR</MajorCivApproachType>
+      <Bias>6</Bias>
+    </Row>
+    <Row>
+      <LeaderType>LEADER_CHING_SHIH</LeaderType>
+      <MajorCivApproachType>MAJOR_CIV_APPROACH_HOSTILE</MajorCivApproachType>
+      <Bias>7</Bias>
+    </Row>
+    <Row>
+      <LeaderType>LEADER_CHING_SHIH</LeaderType>
+      <MajorCivApproachType>MAJOR_CIV_APPROACH_DECEPTIVE</MajorCivApproachType>
+      <Bias>8</Bias>
+    </Row>
+    <Row>
+      <LeaderType>LEADER_CHING_SHIH</LeaderType>
+      <MajorCivApproachType>MAJOR_CIV_APPROACH_GUARDED</MajorCivApproachType>
+      <Bias>6</Bias>
+    </Row>
+    <Row>
+      <LeaderType>LEADER_CHING_SHIH</LeaderType>
+      <MajorCivApproachType>MAJOR_CIV_APPROACH_AFRAID</MajorCivApproachType>
+      <Bias>3</Bias>
+    </Row>
+    <Row>
+      <LeaderType>LEADER_CHING_SHIH</LeaderType>
+      <MajorCivApproachType>MAJOR_CIV_APPROACH_FRIENDLY</MajorCivApproachType>
+      <Bias>5</Bias>
+    </Row>
+    <Row>
+      <LeaderType>LEADER_CHING_SHIH</LeaderType>
+      <MajorCivApproachType>MAJOR_CIV_APPROACH_NEUTRAL</MajorCivApproachType>
+      <Bias>8</Bias>
+    </Row>
+  </Leader_MajorCivApproachBiases>
+  <Leader_MinorCivApproachBiases>
+    <Row>
+      <LeaderType>LEADER_CHING_SHIH</LeaderType>
+      <MinorCivApproachType>MINOR_CIV_APPROACH_IGNORE</MinorCivApproachType>
+      <Bias>5</Bias>
+    </Row>
+    <Row>
+      <LeaderType>LEADER_CHING_SHIH</LeaderType>
+      <MinorCivApproachType>MINOR_CIV_APPROACH_FRIENDLY</MinorCivApproachType>
+      <Bias>6</Bias>
+    </Row>
+    <Row>
+      <LeaderType>LEADER_CHING_SHIH</LeaderType>
+      <MinorCivApproachType>MINOR_CIV_APPROACH_PROTECTIVE</MinorCivApproachType>
+      <Bias>6</Bias>
+    </Row>
+    <Row>
+      <LeaderType>LEADER_CHING_SHIH</LeaderType>
+      <MinorCivApproachType>MINOR_CIV_APPROACH_CONQUEST</MinorCivApproachType>
+      <Bias>5</Bias>
+    </Row>
+    <Row>
+      <LeaderType>LEADER_CHING_SHIH</LeaderType>
+      <MinorCivApproachType>MINOR_CIV_APPROACH_BULLY</MinorCivApproachType>
+      <Bias>5</Bias>
+    </Row>
+  </Leader_MinorCivApproachBiases>
+  <Leader_Flavors>
+    <Row>
+      <LeaderType>LEADER_CHING_SHIH</LeaderType>
+      <FlavorType>FLAVOR_OFFENSE</FlavorType>
+      <Flavor>8</Flavor>
+    </Row>
+    <Row>
+      <LeaderType>LEADER_CHING_SHIH</LeaderType>
+      <FlavorType>FLAVOR_DEFENSE</FlavorType>
+      <Flavor>8</Flavor>
+    </Row>
+    <Row>
+      <LeaderType>LEADER_CHING_SHIH</LeaderType>
+      <FlavorType>FLAVOR_CITY_DEFENSE</FlavorType>
+      <Flavor>7</Flavor>
+    </Row>
+    <Row>
+      <LeaderType>LEADER_CHING_SHIH</LeaderType>
+      <FlavorType>FLAVOR_MILITARY_TRAINING</FlavorType>
+      <Flavor>7</Flavor>
+    </Row>
+    <Row>
+      <LeaderType>LEADER_CHING_SHIH</LeaderType>
+      <FlavorType>FLAVOR_RECON</FlavorType>
+      <Flavor>8</Flavor>
+    </Row>
+    <Row>
+      <LeaderType>LEADER_CHING_SHIH</LeaderType>
+      <FlavorType>FLAVOR_RANGED</FlavorType>
+      <Flavor>5</Flavor>
+    </Row>
+    <Row>
+      <LeaderType>LEADER_CHING_SHIH</LeaderType>
+      <FlavorType>FLAVOR_MOBILE</FlavorType>
+      <Flavor>6</Flavor>
+    </Row>
+    <Row>
+      <LeaderType>LEADER_CHING_SHIH</LeaderType>
+      <FlavorType>FLAVOR_NAVAL</FlavorType>
+      <Flavor>10</Flavor>
+    </Row>
+    <Row>
+      <LeaderType>LEADER_CHING_SHIH</LeaderType>
+      <FlavorType>FLAVOR_NAVAL_RECON</FlavorType>
+      <Flavor>9</Flavor>
+    </Row>
+    <Row>
+      <LeaderType>LEADER_CHING_SHIH</LeaderType>
+      <FlavorType>FLAVOR_NAVAL_GROWTH</FlavorType>
+      <Flavor>9</Flavor>
+    </Row>
+    <Row>
+      <LeaderType>LEADER_CHING_SHIH</LeaderType>
+      <FlavorType>FLAVOR_NAVAL_TILE_IMPROVEMENT</FlavorType>
+      <Flavor>9</Flavor>
+    </Row>
+    <Row>
+      <LeaderType>LEADER_CHING_SHIH</LeaderType>
+      <FlavorType>FLAVOR_AIR</FlavorType>
+      <Flavor>7</Flavor>
+    </Row>
+    <Row>
+      <LeaderType>LEADER_CHING_SHIH</LeaderType>
+      <FlavorType>FLAVOR_EXPANSION</FlavorType>
+      <Flavor>8</Flavor>
+    </Row>
+    <Row>
+      <LeaderType>LEADER_CHING_SHIH</LeaderType>
+      <FlavorType>FLAVOR_GROWTH</FlavorType>
+      <Flavor>8</Flavor>
+    </Row>
+    <Row>
+      <LeaderType>LEADER_CHING_SHIH</LeaderType>
+      <FlavorType>FLAVOR_TILE_IMPROVEMENT</FlavorType>
+      <Flavor>8</Flavor>
+    </Row>
+    <Row>
+      <LeaderType>LEADER_CHING_SHIH</LeaderType>
+      <FlavorType>FLAVOR_INFRASTRUCTURE</FlavorType>
+      <Flavor>6</Flavor>
+    </Row>
+    <Row>
+      <LeaderType>LEADER_CHING_SHIH</LeaderType>
+      <FlavorType>FLAVOR_PRODUCTION</FlavorType>
+      <Flavor>6</Flavor>
+    </Row>
+    <Row>
+      <LeaderType>LEADER_CHING_SHIH</LeaderType>
+      <FlavorType>FLAVOR_GOLD</FlavorType>
+      <Flavor>8</Flavor>
+    </Row>
+    <Row>
+      <LeaderType>LEADER_CHING_SHIH</LeaderType>
+      <FlavorType>FLAVOR_SCIENCE</FlavorType>
+      <Flavor>7</Flavor>
+    </Row>
+    <Row>
+      <LeaderType>LEADER_CHING_SHIH</LeaderType>
+      <FlavorType>FLAVOR_CULTURE</FlavorType>
+      <Flavor>5</Flavor>
+    </Row>
+    <Row>
+      <LeaderType>LEADER_CHING_SHIH</LeaderType>
+      <FlavorType>FLAVOR_HAPPINESS</FlavorType>
+      <Flavor>6</Flavor>
+    </Row>
+    <Row>
+      <LeaderType>LEADER_CHING_SHIH</LeaderType>
+      <FlavorType>FLAVOR_GREAT_PEOPLE</FlavorType>
+      <Flavor>5</Flavor>
+    </Row>
+    <Row>
+      <LeaderType>LEADER_CHING_SHIH</LeaderType>
+      <FlavorType>FLAVOR_WONDER</FlavorType>
+      <Flavor>4</Flavor>
+    </Row>
+    <Row>
+      <LeaderType>LEADER_CHING_SHIH</LeaderType>
+      <FlavorType>FLAVOR_RELIGION</FlavorType>
+      <Flavor>4</Flavor>
+    </Row>
+    <Row>
+      <LeaderType>LEADER_CHING_SHIH</LeaderType>
+      <FlavorType>FLAVOR_DIPLOMACY</FlavorType>
+      <Flavor>7</Flavor>
+    </Row>
+    <Row>
+      <LeaderType>LEADER_CHING_SHIH</LeaderType>
+      <FlavorType>FLAVOR_SPACESHIP</FlavorType>
+      <Flavor>7</Flavor>
+    </Row>
+    <Row>
+      <LeaderType>LEADER_CHING_SHIH</LeaderType>
+      <FlavorType>FLAVOR_WATER_CONNECTION</FlavorType>
+      <Flavor>8</Flavor>
+    </Row>
+    <Row>
+      <LeaderType>LEADER_CHING_SHIH</LeaderType>
+      <FlavorType>FLAVOR_NUKE</FlavorType>
+      <Flavor>9</Flavor>
+    </Row>
+    <Row>
+      <LeaderType>LEADER_CHING_SHIH</LeaderType>
+      <FlavorType>FLAVOR_USE_NUKE</FlavorType>
+      <Flavor>9</Flavor>
+    </Row>
+    <Row>
+      <LeaderType>LEADER_CHING_SHIH</LeaderType>
+      <FlavorType>FLAVOR_ESPIONAGE</FlavorType>
+      <Flavor>8</Flavor>
+    </Row>
+    <Row>
+      <LeaderType>LEADER_CHING_SHIH</LeaderType>
+      <FlavorType>FLAVOR_ANTIAIR</FlavorType>
+      <Flavor>6</Flavor>
+    </Row>
+    <Row>
+      <LeaderType>LEADER_CHING_SHIH</LeaderType>
+      <FlavorType>FLAVOR_AIR_CARRIER</FlavorType>
+      <Flavor>4</Flavor>
+    </Row>
+    <Row>
+      <LeaderType>LEADER_CHING_SHIH</LeaderType>
+      <FlavorType>FLAVOR_ARCHAEOLOGY</FlavorType>
+      <Flavor>5</Flavor>
+    </Row>
+    <Row>
+      <LeaderType>LEADER_CHING_SHIH</LeaderType>
+      <FlavorType>FLAVOR_I_LAND_TRADE_ROUTE</FlavorType>
+      <Flavor>6</Flavor>
+    </Row>
+    <Row>
+      <LeaderType>LEADER_CHING_SHIH</LeaderType>
+      <FlavorType>FLAVOR_I_SEA_TRADE_ROUTE</FlavorType>
+      <Flavor>9</Flavor>
+    </Row>
+    <Row>
+      <LeaderType>LEADER_CHING_SHIH</LeaderType>
+      <FlavorType>FLAVOR_I_TRADE_ORIGIN</FlavorType>
+      <Flavor>6</Flavor>
+    </Row>
+    <Row>
+      <LeaderType>LEADER_CHING_SHIH</LeaderType>
+      <FlavorType>FLAVOR_I_TRADE_DESTINATION</FlavorType>
+      <Flavor>6</Flavor>
+    </Row>
+    <Row>
+      <LeaderType>LEADER_CHING_SHIH</LeaderType>
+      <FlavorType>FLAVOR_AIRLIFT</FlavorType>
+      <Flavor>7</Flavor>
+    </Row>
+  </Leader_Flavors>
+  <Leader_Traits>
+    <Row>
+      <LeaderType>LEADER_CHING_SHIH</LeaderType>
+      <TraitType>TRAIT_SAN_TIAO</TraitType>
+    </Row>
+  </Leader_Traits>
+
+  <Language_en_US>
+    <Row Tag="TXT_KEY_LEADER_CHING_SHIH">
+      <Text>Ching Shih</Text>
+      <Gender>feminine</Gender>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_CHING_SHIH_PEDIA">
+      <Text>At the dawn of the 19th century, a former prostitute from a floating brothel in the city of Canton was wed to Cheng I, a fearsome pirate who operated in the South China Sea in the Qing dynasty. Though the name under which we now know her, Ching Shih, simply means “Cheng’s widow,” the legacy she left behind far exceeded that of her husband’s. Following his death, she succeeded him and commanded over 1,800 pirate ships, and an estimated 80,000 men. In comparison, the famed Blackbeard commanded four ships and 300 pirates within the same century. As a result, Ching Shih is known as one of the most successful pirates in known history.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_CHING_SHIH_HEADING_1">
+      <Text>Early Life</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_CHING_SHIH_HEADING_2">
+      <Text>Marriage</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_CHING_SHIH_HEADING_3">
+      <Text>Rise to Power</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_CHING_SHIH_HEADING_4">
+      <Text>Dominance of the Seas</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_CHING_SHIH_HEADING_5">
+      <Text>Retirement</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_CHING_SHIH_LIVED">
+      <Text>1775 - 1884 CE</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_CHING_SHIH_NAME">
+      <Text>Ching Shih</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_CHING_SHIH_SUBTITLE">
+      <Text>Pirate Queen of the South China Sea</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_CHING_SHIH_TEXT_1">
+      <Text>Little is known about Ching Shih’s early life. She was born in the Guangdong province of China in 1775, and her birth name was ShiI Xiang Gu. She became a prostitute who worked in a floating brothel in Canton. In 1801, Pirate Zhèng Yi, who commanded a fleet of ships called the “Red Flag Fleet,” noticed Ching Shih’s beauty, and wished to be with her.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_CHING_SHIH_TEXT_2">
+      <Text>There are varying accounts of how they actually came to be together. According to some, Zhèng Yi sent a raid and ordered them to plunder the brothel. He asked that they bring him Ching Shih, his favorite prostitute. The men did as they were ordered, and Zhèng Yi and Ching Shih were married. By other accounts, Zhèng Yi simply asked Ching Shih to marry him. She agreed to his proposal so long as she would have some power within his organization, and would receive an equal share of his plunder. While the accounts vary as to how they actually came to be together, Ching Shih and Zhèng Yi began to run the Red Flag Fleet together.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_CHING_SHIH_TEXT_3">
+      <Text>With Zhèng Yi and Ching Shih side-by-side, the Red Flag Fleet quickly grew from 200 ships to more than 600 ships, and eventually to 1700-1800 ships. Their fleet was “color-coded,” with the lead fleet being Red, and the remaining fleets Black, White, Blue, Yellow, and Green. They formed the Cantonese Pirate Coalition with pirate Wu Shi’er. Zhèng Yi died in 1807, only 6 years after marrying Ching Shih. At the time of his death, the Red Flag Fleet included approximately 50,000 – 70,000 pirates. Ching Shih, wishing not to go back to a life of prostitution, knew that this was her opportunity to rise to become a powerful pirate lord. She could have simply stepped down from the organization, allowing Chang Pao, Zhèng Yi’s second in command, to take over. Chang Pao had been adopted as a son by Zhèng Yi and Ching Shih. However, Ching Shih craved the power and glory of being the leader of the Red Flag Fleet. With Chang Pao’s support, Ching Shih took charge.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_CHING_SHIH_TEXT_4">
+      <Text>Ching Shih’s fleet took leadership over many coastal villages, sometimes even imposing levies and taxes on the villages. These coastal villages stretched from Macau to Canton. Ching Shih was called "The Terror of South China," and she would cruelly punish those who resisted her by nailing their feet to her ship’s deck and beating them. Some claim that Ching Shih was an opium smuggler, while others claim that she stuck mainly to looting, robbing, and taxing the villages her pirates raided. Chinese, Portugese, and British naval ships were all lost to Ching Shih’s fleet. Because it appeared she could not be defeated, the Chinese offered amnesty to all pirates, hoping to eliminate Ching Shih’s reign over the sea</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_CHING_SHIH_TEXT_5">
+      <Text>Negotiations between Chang Pao and official Zhang Bai Ling hit a deadlock, though. The Chinese government wanted the pirates to kneel before them, and there was disagreement as to what would happen with the reserves of loot. Ching Shih took matters into her own hands, and walked into Zhang Bai Ling’s office unarmed, accompanied by 17 illiterate women and children. Ching Shih and Zhang Bai Ling concluded negotiations. Ching Shih was permitted to keep all of her loot. To settle the kneeling deadlock, Zhang Bai Ling agreed to witness the marriage of Ching Shih and Chang Pao, for which the two had to kneel before Zhang Bai Ling in thanks. At this point, Ching Shih ended her career as a pirate, and had a son with Chang Pao. When Chang Pao died, Ching Shih returned to Canton and opened her own gambling house. She remained in Canton until she died in 1844.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_CHING_SHIH_TITLES_1">
+      <Text>Madame Shing</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_CHING_SHIH_TITLES_2">
+      <Text>The Pirate Queen</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_CHING_SHIH_TITLES_3">
+      <Text>Cheng Sao</Text>
+    </Row>
+  </Language_en_US>
+</GameData>

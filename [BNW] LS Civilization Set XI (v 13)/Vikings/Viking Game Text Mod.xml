@@ -1,0 +1,385 @@
+﻿<GameData>
+	<Language_en_US>
+		<!----------------------------------------------------------------
+						State
+		------------------------------------------------------------------>
+		<Row Tag="TXT_KEY_VIKING_LS_MOD_DESC">
+			<Text>Viking Empire</Text>
+		</Row>
+		<Row Tag="TXT_KEY_VIKING_LS_MOD_SHORT_DESC">
+			<Text>The Vikings</Text>
+			<Plurality>2</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_VIKING_LS_MOD_ADJECTIVE">
+			<Text>Viking</Text>
+		</Row>
+		<Row Tag="TXT_KEY_VIKING_LS_MOD">
+			<Text>The Vikings</Text>
+			<Plurality>2</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_VIKING_LS_MOD_HEADING_1">
+			<Text>Vikings</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_VIKING_LS_MOD_TEXT_1">
+			<Text>The Old Norse feminine noun víking refers to an expedition overseas. It occurs in Viking Age runic inscriptions and in later medieval writings in set expressions such as the phrasal verb fara í víking, "to go on an expedition". The derived Old Norse masculine noun víkingr appears in Viking Age skaldic poetry and on several rune stones found in Scandinavia, where it refers to a seaman or warrior who takes part in an expedition overseas. There is little indication of any negative connotation in the term before the end of the Viking Age. Regardless of its possible origins, at the time the word was used to indicate an activity and those who participated in it, and it did not belong to any ethnic or cultural group. In the modern Scandinavian languages, the word Viking usually refers specifically to those people who went on Viking expeditions.[NEWLINE][NEWLINE]The Vikings were known as Ascomanni, ashmen, by the Germans, Lochlanach (Norse) by the Gaels and Dene (Danes) by the Anglo-Saxons. The Slavs, the Arabs and the Byzantines knew them as the Rus' or Rhōs, probably derived from various uses of rōþs-, "related to rowing", or derived from the area of Roslagen in east-central Sweden, where most of the Vikings who visited the Slavic lands came from. Some archaeologists and historians of today believe that these Scandinavian settlements in the Slavic lands played a significant role in the formation of the Kievan Rus' federation, and hence the names and early states of Russia and Belarus.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_VIKING_LS_MOD_HEADING_2">
+			<Text>History of the Viking Empire</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_VIKING_LS_MOD_TEXT_2">
+			<Text>The period from the earliest recorded raids in the 790s until the Norman conquest of England in 1066 is commonly known as the Viking Age of Scandinavian history. Vikings used the Norwegian Sea and Baltic Sea for sea routes to the south. The Normans were descended from Vikings who were given feudal overlordship of areas in northern France—the Duchy of Normandy—in the 10th century. In that respect, descendants of the Vikings continued to have an influence in northern Europe. Likewise, King Harold Godwinson, the last Anglo-Saxon king of England, had Danish ancestors.[NEWLINE][NEWLINE]Geographically, a Viking Age may be assigned not only to Scandinavian lands (modern Denmark, Norway and Sweden), but also to territories under North Germanic dominance, mainly the Danelaw, including Scandinavian York, the administrative centre of the remains of the Kingdom of Northumbria, parts of Mercia, and East Anglia. Viking navigators opened the road to new lands to the north, west and east, resulting in the foundation of independent settlements in the Shetland, Orkney, and Faroe Islands; Iceland; Greenland; and L'Anse aux Meadows, a short-lived settlement in Newfoundland, circa 1000. They may have been deliberately sought out, perhaps on the basis of the accounts of sailors who had seen land in the distance. The Greenland settlement eventually died out, possibly due to climate change. Viking dynasty also took control of territories in Slavic and Finno-Ugric-dominated areas of Eastern Europe, annexed Kiev in 882 to serve as the capital of the Kievan Rus'. By 950 these settlements were largely Slavicised.[NEWLINE][NEWLINE]As early as 839, when Swedish emissaries are first known to have visited Byzantium, Scandinavians served as mercenaries in the service of the Byzantine Empire. In the late 10th century, a new unit of the imperial bodyguard formed. Traditionally containing large numbers of Scandinavians, it was known as the Varangian Guard. The word Varangian may have originated in Old Norse, but in Slavic and Greek it could refer either to Scandinavians or Franks. The most eminent Scandinavian to serve in the Varangian Guard was Harald Hardrada, who subsequently established himself as king of Norway (1047–66).[NEWLINE][NEWLINE]Important trading ports during the period include Birka, Hedeby, Kaupang, Jorvik, Staraya Ladoga, Novgorod, and Kiev. There is archaeological evidence that Vikings reached Baghdad, the centre of the Islamic Empire. The Norse regularly plied the Volga with their trade goods: furs, tusks, seal fat for boat sealant, and slaves.[NEWLINE][NEWLINE]Generally speaking, the Norwegians expanded to the north and west to places such as Ireland, Scotland, Iceland, and Greenland; the Danes to England and France, settling in the Danelaw (northern/eastern England) and Normandy; and the Swedes to the east, founding the Kievan Rus, the original Russia. Among the Swedish runestones mentioning expeditions overseas, almost half tell of raids and travels to western Europe. According to the Icelandic sagas, many Norwegian Vikings also went to eastern Europe. In the Viking Age, the present day nations of Norway, Sweden and Denmark did not exist, but were largely homogeneous and similar in culture and language, although somewhat distinct geographically. The names of Scandinavian kings are reliably known only for the later part of the Viking Age. After the end of the Viking Age the separate kingdoms gradually acquired distinct identities as nations, which went hand-in-hand with their Christianization. Thus the end of the Viking Age for the Scandinavians, also marks the start of their relatively brief Middle Ages.[NEWLINE][NEWLINE]The Vikings did not expand or conquer much into mainland Europe. Their realm was bordered by powerful cultures to the south. Early on it was the Saxons, who occupied Old Saxony, located in what is now Northern Germany. The Saxons were a fierce and powerful people and were often in conflict with the Vikings. To counter the Saxon aggression and solidify their own presence, the Danes constructed the huge defence fortification of Danevirke in and around Hedeby. The Vikings soon witnessed the violent subduing of the Saxons by Charlemagne, in the thirty-year Saxon Wars in 772-804. The Saxon defeat resulted in their forced christening and absorption of Old Saxony in the Carolingian Empire. Fearing the Franks, this led the Vikings to further expand Danevirke and the defence constructions were in use throughout the Viking Age and even up until 1864. The south coast of the Baltic Sea was ruled by the Obotrites, a federation of Slavic tribes loyal to the Carolingians and later the Frankish empire. The Vikings – led by King Gudfred – destroyed the Obotrite city of Reric on the southern Baltic coast in 808 AD and transferred the merchants and traders to Hedeby. This secured their supremacy in the Baltic Sea, which remained throughout the Viking Age.[NEWLINE][NEWLINE]During the Viking Age, Scandinavian men and women travelled to many parts of Europe and beyond, in a cultural diaspora that left its traces from Newfoundland to Byzantium. This period of energetic activity also had a pronounced effect in the Scandinavian homelands, which were subject to a variety of new influences. In the 300 years from the late 8th century, when contemporary chroniclers first commented on the appearance of Viking raiders, to the end of the 11th century, Scandinavia underwent profound cultural changes. By the late 11th century, royal dynasties legitimised by the Catholic Church (which had had little influence in Scandinavia 300 years earlier) were asserting their power with increasing authority and ambition, and the three kingdoms of Denmark, Norway, and Sweden had taken shape. Towns appeared that functioned as secular and ecclesiastical administrative centres and market sites, and monetary economies began to emerge based on English and German models. By this time the influx of Islamic silver from the East had been absent for more than a century, and the flow of English silver had come to an end in the mid-11th century. Christianity had taken root in Denmark and Norway with the establishment of dioceses during the 11th century, and the new religion was beginning to organise and assert itself more effectively in Sweden. Foreign churchmen and native elites were energetic in furthering the interests of Christianity, which was now no longer operating only on a missionary footing, and old ideologies and lifestyles were transforming. By 1103, the first archbishopric was founded in Scandinavia, at Lund, Scania, then part of Denmark.[NEWLINE][NEWLINE]The assimilation of the nascent Scandinavian kingdoms into the cultural mainstream of European Christendom altered the aspirations of Scandinavian rulers and of Scandinavians able to travel overseas, and changed their relations with their neighbours. One of the primary sources of profit for the Vikings had been slave-taking. The medieval Church held that Christians should not own fellow Christians as slaves, so chattel slavery diminished as a practice throughout northern Europe. This took much of the economic incentive out of raiding, though sporadic slaving activity continued into the 11th century. Scandinavian predation in Christian lands around the North and Irish Seas diminished markedly.[NEWLINE][NEWLINE]The kings of Norway continued to assert power in parts of northern Britain and Ireland, and raids continued into the 12th century, but the military ambitions of Scandinavian rulers were now directed toward new paths. In 1107, Sigurd I of Norway sailed for the eastern Mediterranean with Norwegian crusaders to fight for the newly established Kingdom of Jerusalem, and Danes and Swedes participated energetically in the Baltic Crusades of the 12th and 13th centuries</Text>
+		</Row>
+		<!-- City Names -->
+		<Row Tag="TXT_KEY_CITY_NAME_VIKING_LS_MOD_1">
+			<Text>Trondheim</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_VIKING_LS_MOD_2">
+			<Text>Bergen</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_VIKING_LS_MOD_3">
+			<Text>Copenhagen</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_VIKING_LS_MOD_4">
+			<Text>Reykjavik</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_VIKING_LS_MOD_5">
+			<Text>Oslo</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_VIKING_LS_MOD_6">
+			<Text>Stockholm</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_VIKING_LS_MOD_7">
+			<Text>Birka</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_VIKING_LS_MOD_8">
+			<Text>Aarhus</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_VIKING_LS_MOD_9">
+			<Text>Stavanger</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_VIKING_LS_MOD_10">
+			<Text>Odense</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_VIKING_LS_MOD_11">
+			<Text>Hareid</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_VIKING_LS_MOD_12">
+			<Text>Molde</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_VIKING_LS_MOD_13">
+			<Text>Alesund</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_VIKING_LS_MOD_14">
+			<Text>Bodo</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_VIKING_LS_MOD_15">
+			<Text>Karasjok</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_VIKING_LS_MOD_16">
+			<Text>Tromso</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_VIKING_LS_MOD_17">
+			<Text>Vadso</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_VIKING_LS_MOD_18">
+			<Text>Farsund</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_VIKING_LS_MOD_19">
+			<Text>Risor</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_VIKING_LS_MOD_20">
+			<Text>Fauske</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_VIKING_LS_MOD_21">
+			<Text>Karistad</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_VIKING_LS_MOD_22">
+			<Text>Batsfjord</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_VIKING_LS_MOD_23">
+			<Text>Hammerfest</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_VIKING_LS_MOD_24">
+			<Text>Honningsvag</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_VIKING_LS_MOD_25">
+			<Text>Svolvaer</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_VIKING_LS_MOD_26">
+			<Text>Haugesund</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_VIKING_LS_MOD_27">
+			<Text>Sarpsborg</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_VIKING_LS_MOD_28">
+			<Text>Lillehammer</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_VIKING_LS_MOD_29">
+			<Text>Evelrurn</Text>
+		</Row>
+		<!-- Spy Names -->
+		<Row Tag="TXT_KEY_SPY_NAME_VIKING_LS_MOD_0">
+			<Text>Tryfing</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_VIKING_LS_MOD_1">
+			<Text>Ketil</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_VIKING_LS_MOD_2">
+			<Text>Ulf</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_VIKING_LS_MOD_3">
+			<Text>Havard</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_VIKING_LS_MOD_4">
+			<Text>Gjuki</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_VIKING_LS_MOD_5">
+			<Text>Herborg</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_VIKING_LS_MOD_6">
+			<Text>Isgerd</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_VIKING_LS_MOD_7">
+			<Text>Yrsa</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_VIKING_LS_MOD_8">
+			<Text>Aesa</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_VIKING_LS_MOD_9">
+			<Text>Bestla</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<!----------------------------------------------------------------
+						Leader
+		------------------------------------------------------------------>
+		<Row Tag="TXT_KEY_LEADER_VIKING_LS_MOD_CNUT_DESC">
+			<Text>Ragnar Lodbrok</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VIKING_LS_MOD_CNUT_NAME">
+			<Text>Ragnar Lodbrok</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VIKING_LS_MOD_CNUT_LIVED">
+			<Text>c. 985 or 995 – 1035</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VIKING_LS_MOD_CNUT_SUBTITLE">
+			<Text>Lord</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VIKING_LS_MOD_CNUT_TITLES_1">
+			<Text>King</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VIKING_LS_MOD_CNUT_HEADING_1">
+			<Text>History</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VIKING_LS_MOD_CNUT_TEXT_1">
+			<Text>Ragnar Lothbrok was a Viking whose life passed into legend in medieval European literature. It is unsure if he really performed the deeds he is remembered for, or if he even existed.[NEWLINE][NEWLINE] In the Anglo-Saxon Chronicle, Ragnar was said to be the father of three sons—Halfdan, Inwaer (Ivar the Boneless), and Hubba (Ubbe)—who led a Viking invasion of East Anglia in 865 seeking to avenge Ragnar’s murder. In the European literature of the several centuries following Ragnar’s death, his name is surrounded with considerable legend. In the Gesta Danorum (c. 1185) of the Danish historian Saxo Grammaticus, he was a 9th-century Danish king whose campaigns included a battle with the Holy Roman emperor Charlemagne. According to Saxo’s legendary history, Ragnar was eventually captured by the Anglo-Saxon king Aella of Northumbria and thrown into a snake pit to die. This story is also recounted in the later Icelandic works Ragnars saga loðbrókar and Þáttr af Ragnarssonum.[NEWLINE][NEWLINE]The 12th-century Icelandic poem Krákumál provides a romanticized description of Ragnar’s death and links him in marriage with a daughter of Sigurd and Brynhild, figures from the heroic literature of the ancient Teutons. The actions of Ragnar and his sons are also recounted in the Orkney Islands poem Háttalykill.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DAWN_OF_MAN_VIKING_LS_MOD_TEXT">
+			<Text>Oh, brave Ragnar Lodbrok, son of Sigurd Ring, the world trembles in fear of your name!  The Vikings raided, traded, explored and settled across Europe, Asia and even the North Atlantic islands from the late 8th to the middle 11th centuries. Before any other Europeans they discovered America. Your people were not barbarian tribes, but a highly cultured and civilizied nation with their own mythology, poetry and beliefs. Your people managed to gain in power until they dominated the whole northern region of Europe, spreading their culture from England to Constantinopole, where they served as mercenaries.[NEWLINE][NEWLINE]Great lord! The time has come, once again, for glorious acts and battles! Let the Skalds have something to write about! Once more, the longships will cross oceans, the fearless warriors will reach Valhalla, and Scandinavia will be feared by all! The time of vikings has come, are you ready? Can you build a civilization that will stand the test of time?</Text>
+		</Row>
+		<!----------------------------------------------------------------
+						Diplomacy
+		------------------------------------------------------------------>
+		<!--First Greeting messages from AI leaders-->
+		<Row Tag="TXT_KEY_LEADER_VIKING_LS_MOD_CNUT_FIRSTGREETING_1">
+			<Text>Few travellers linger long in Scandinavia to meet its king. But to you, brave wanderer, I am Ragnar Lodbrok - mighty warrior and veritable legend. Better wrap up warm, for Winter is coming.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VIKING_LS_MOD_CNUT_FIRSTGREETING_2">
+			<Text>By my father's beard, let me guess, you are an almighty ruler of an unconquerable empire? In that case, I am Odin.</Text>
+		</Row>
+		<!--Defeated messages from AI leaders-->
+		<Row Tag="TXT_KEY_LEADER_VIKING_LS_MOD_CNUT_DEFEATED_1">
+			<Text>Snakes? Why'd it have to be snakes?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VIKING_LS_MOD_CNUT_DEFEATED_2">
+			<Text>The legend of our fight shall be passed down from singer to singer for all eternity. Valhalla awaits!</Text>
+		</Row>
+		<!-- Human repeats an action too much, gets the following responses -->
+		<Row Tag="TXT_KEY_LEADER_VIKING_LS_MOD_CNUT_REPEAT_TOO_MUCH_1">
+			<Text>By the goodness of Njörðr, leave me be.</Text>
+		</Row>
+		<!-- Greetings -->
+		<Row Tag="TXT_KEY_LEADER_VIKING_LS_MOD_CNUT_GREETING_HOSTILE_HELLO_1">
+			<Text>Speak quickly, naive. I feel the berserkergang approaching.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VIKING_LS_MOD_CNUT_GREETING_POLITE_HELLO_1">
+			<Text>Iðunn bless you with youth, blood-kin of mine.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VIKING_LS_MOD_CNUT_GREETING_HOSTILE_AGGRESSIVE_EXPANSION_1">
+			<Text>Good, good. Spread your empire wide and thin. I shall playfully pillage its far flung reaches until your forces are exhausted and spent. Only then shall I send you to Hel!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VIKING_LS_MOD_CNUT_GREETING_AGGRESSIVE_EXPANSION_1">
+			<Text>The larger your empire becomes, the more I want to raid it.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VIKING_LS_MOD_CNUT_DENOUNCE_1">
+			<Text>May you be lost on your journey to the netherworld, and wander until Ragnarok  amongst the demons of Muspelheim![NEWLINE][NEWLINE]([COLOR_WARNING_TEXT]They have publicly denounced us! NOTE: You are not at war.[ENDCOLOR])</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VIKING_LS_MOD_CNUT_DENOUNCE_2">
+			<Text>Take heart in this life, for when I sit in Valhalla I will see your frozen soul bound in Niflheim until the end of days![NEWLINE][NEWLINE]([COLOR_WARNING_TEXT]They have publicly denounced us! NOTE: You are not at war.[ENDCOLOR])</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VIKING_LS_MOD_CNUT_RESPONSE_TO_BEING_DENOUNCED_1">
+			<Text>Ha! Come back with an axe, if you're brave enough!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VIKING_LS_MOD_CNUT_RESPONSE_TO_BEING_DENOUNCED_2">
+			<Text>It is the greatest disrespect to fight first with words. Let us meet on the battlefield, then you will have the right to throw curses upon me!</Text>
+		</Row>
+		<!-- General Diplo Text -->
+		<Row Tag="TXT_KEY_LEADER_VIKING_LS_MOD_CNUT_COOP_WAR_REQUEST_1">
+			<Text>{1_PlayerName:textkey} is ripe for the plundering. Let us sail for his cities together.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VIKING_LS_MOD_CNUT_COOP_WAR_REQUEST_2">
+			<Text>I have become tired of {1_PlayerName:textkey}. What better excuse to engage in battle?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VIKING_LS_MOD_CNUT_COOP_WAR_TIME_1">
+			<Text>Let us sound the horns of war! {1_PlayerName:textkey}'s time has come.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VIKING_LS_MOD_CNUT_DEC_FRIENDSHIP_1">
+			<Text>Will you drink with me, friend?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VIKING_LS_MOD_CNUT_DEC_FRIENDSHIP_2">
+			<Text>Let us be friends in this life, and sit together in Valhalla until the end of days!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VIKING_LS_MOD_CNUT_AGGRESSIVE_MILITARY_WARNING_1">
+			<Text>It's come to my attention thay you have a large number of Units near my borders. Move them swiftly, for I feel the berserkergang come upon me.</Text>
+		</Row>
+		<!--Insults-->
+		<Row Tag="TXT_KEY_LEADER_VIKING_LS_MOD_CNUT_INSULT_1">
+			<Text>How does it feel to know you are not worthy of Valhalla?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VIKING_LS_MOD_CNUT_INSULT_2">
+			<Text>You are the most hated figure since Loki.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VIKING_LS_MOD_CNUT_INSULT_3">
+			<Text>I shall sleep well after I have lodged an axe in your head.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VIKING_LS_MOD_CNUT_INSULT_4">
+			<Text>I pray to the Gods that I will be the one to kill you. It would be such a shame if some other were to take my glory from me.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VIKING_LS_MOD_CNUT_INSULT_MILITARY_1">
+			<Text>If the rage came upon me, your whole army would not be able to stop me from killing you.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VIKING_LS_MOD_CNUT_INSULT_UNHAPPINESS_1">
+			<Text>Your people are so miserable. Treat them! Go on a raid!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VIKING_LS_MOD_CNUT_INSULT_CITIES_1">
+			<Text>Your cities are hardly even worth raiding, let alone capturing.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VIKING_LS_MOD_CNUT_INSULT_CULTURE_1">
+			<Text>You'll never see the blue jeans coming.</Text>
+		</Row>
+		<!--Public Declarations-->
+		<Row Tag="TXT_KEY_LEADER_VIKING_LS_MOD_CNUT_DECLARATION_PROTECT_CITY_STATE_1">
+			<Text>{2_MajorCivName:textkey} announces to the world that it is now protecting {1_MinorCivName:textkey}. Attacking the City-State will greatly damage relations and may lead to war.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VIKING_LS_MOD_CNUT_DECLARATION_ABANDON_CITY_STATE_1">
+			<Text>{2_MajorCivName:textkey} has taken back its guarantee of protecting {1_MinorCivName:textkey}.</Text>
+		</Row>
+		<!-- Human is asking the AI for something -->
+		<Row Tag="TXT_KEY_LEADER_VIKING_LS_MOD_CNUT_DONT_SETTLE_NO_1">
+			<Text>I will settle where I choose. That is the Varangian way.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VIKING_LS_MOD_CNUT_DONT_SETTLE_YES_1">
+			<Text>For now...</Text>
+		</Row>
+		<!--Deal Offers and related-->
+		<Row Tag="TXT_KEY_LEADER_VIKING_LS_MOD_CNUT_LUXURY_TRADE_1">
+			<Text>Some things don't need to be gained through plundering, I understand that. Let us make a trade.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VIKING_LS_MOD_CNUT_RESPONSE_REQUEST_1">
+			<Text>Give me this and I will have no reason to rape and pillage your lands!</Text>
+		</Row>
+		<!--AI Attacked by Human - Strong and Weak also include the default response sets-->
+		<Row Tag="TXT_KEY_LEADER_VIKING_LS_MOD_CNUT_ATTACKED_HOSTILE_1">
+			<Text>You won't be dying on the battlefield. Such a death is too good for you. If I were you, I wouldn't be taken alive.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VIKING_LS_MOD_CNUT_ATTACKED_EXCITED_1">
+			<Text>*a bestial roar signals you should probably get out of here*</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VIKING_LS_MOD_CNUT_ATTACKED_SAD_1">
+			<Text>I am saddened that I must waste good steel on you.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VIKING_LS_MOD_CNUT_ATTACKED_BETRAYED_1">
+			<Text>I should have seen Loki's hand in this!</Text>
+		</Row>
+		<!--AI Declaring War on Human - Strong and Weak also include the default response sets-->
+		<Row Tag="TXT_KEY_LEADER_VIKING_LS_MOD_CNUT_DOW_GENERIC_1">
+			<Text>Run if you like. You will only die tired.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VIKING_LS_MOD_CNUT_DOW_LAND_1">
+			<Text>Your lands will soon be my lands. Protect them if you can.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VIKING_LS_MOD_CNUT_DOW_WORLD_CONQUEST_1">
+			<Text>Welcome Ragnarok!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VIKING_LS_MOD_CNUT_DOW_WORLD_CONQUEST_2">
+			<Text>When all Midgard is mine, I shall find the Bifrost and lead my armies on Asgard itself!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VIKING_LS_MOD_CNUT_DOW_OPPORTUNITY_1">
+			<Text>Need I a reason to make war?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VIKING_LS_MOD_CNUT_DOW_DESPERATE_1">
+			<Text>If I fall in the coming battle, Thor will surely avenge me.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VIKING_LS_MOD_CNUT_DOW_BETRAYAL_1">
+			<Text>Taking a leaf out of Loki's book here.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VIKING_LS_MOD_CNUT_DOW_BETRAYAL_2">
+			<Text>If I can't win the favour of Thor, I shall win it of Loki.</Text>
+		</Row>
+		<!--AI Responses to a human peace offer-->
+		<Row Tag="TXT_KEY_LEADER_VIKING_LS_MOD_CNUT_TOO_SOON_NO_PEACE_1">
+			<Text>Pray not for peace; death in battle is the one glorious death.</Text>
+		</Row>
+		<!--AI Responses to a discussion mode topics-->
+		<Row Tag="TXT_KEY_LEADER_VIKING_LS_MOD_CNUT_BAD_1">
+			<Text>Go spit poison elsewhere.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VIKING_LS_MOD_CNUT_GOOD_1">
+			<Text>Fantastic!</Text>
+		</Row>
+		<!----------------------------------------------------------------
+						UA
+		------------------------------------------------------------------>
+		<Row Tag="TXT_KEY_TRAIT_LS_VIKING_AGE_SHORT">
+			<Text>Viking Age</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_LS_VIKING_AGE">
+			<Text>Ignores 25% [ICON_STRENGTH] Defense of coastal cities (35% if you have not yet conquered any city on this continent).</Text>
+		</Row>
+		<!----------------------------------------------------------------
+						U1
+		------------------------------------------------------------------>
+		<Row Tag="TXT_KEY_UNIT_LS_BERSERKER">
+			<Text>Berserker</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_HELP_LS_BERSERKER">
+			<Text>Strong, front-line land Unit of the Medieval Era that specializes in brutal attacks. It is available earlier and is faster than Pikeman it replaces. Only Vikings may build it. Earns 50% of opponents' strength as [ICON_CULTURE] Culture for kills.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_LS_BERSERKER_TEXT">
+			<Text>Berserkers (or berserks) were Norse warriors who are primarily reported in the Old Norse literature to have fought in a nearly uncontrollable, trance-like fury, a characteristic which later gave rise to the English word berserk. Berserkers are attested to in numerous Old Norse sources. Most historians believe that berserkers worked themselves into a rage before battle, but some think that they might have consumed drugged foods.[NEWLINE][NEWLINE]This fury, which was called berserkergang, occurred not only in the heat of battle, but also during laborious work. Men who were thus seized performed things which otherwise seemed impossible for human power. This condition is said to have begun with shivering, chattering of the teeth, and chill in the body, and then the face swelled and changed its colour. With this was connected a great hot-headedness, which at last gave over into a great rage, under which they howled as wild animals, bit the edge of their shields, and cut down everything they met without discriminating between friend or foe. When this condition ceased, a great dulling of the mind and feebleness followed, which could last for one or several days.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_LS_BERSERKER_STRATEGY">
+			<Text>The Berserker is Viking Unique Unit, replacing the Pikeman. In their fury they got extra [ICON_STRENGTH] Combat Strength for missing HP and do not rest until enemy is defeated.</Text>
+		</Row>
+		<!----------------------------------------------------------------
+						U2
+		------------------------------------------------------------------>
+		<Row Tag="TXT_KEY_UNIT_LS_LONGSHIP">
+			<Text>Longship</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_LS_LONGSHIP_STRATEGY">
+			<Text>This melee naval unit replaces the Caravel and is skilled at exploration. Use this unit to explore the map and uncover the locations of other players.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_LS_LONGSHIP_TEXT">
+			<Text>Longships were the epitome of Scandinavian naval power at the time, and were highly valued possessions. They were often owned by coastal farmers and commissioned by the king in times of conflict, in order to build a powerful naval force. While longships were used by the Norse in warfare, they were troop transports, not warships. In the tenth century, these boats would sometimes be tied together in battle to form a steady platform for infantry warfare. During the 9th century peak of the Viking expansion, large fleets set out to attack the degrading Frankish empire by attacking up navigable rivers such as the Seine. Rouen was sacked in 841, the year after the death of Louis the Pious, a son of Charlemagne. Quentovic, near modern Etables, was attacked in 842 and 600 Danish ships attacked Hamburg in 845. In the same year 129 ships returned to attack up the Seine. They were called "dragonships" by enemies such as the English because they had a dragon-shaped bow. The Norse had a strong sense of naval architecture, and during the early medieval period they were advanced for their time.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_LS_LONGSHIP_HELP">
+			<Text>Melee naval unit which excels at sea exploration. It has more [ICON_MOVES] Movement than the Caravel, which it replaces, and can move after attacking. May only be built by the Vikings.</Text>
+		</Row>
+		
+		
+	</Language_en_US>
+</GameData>

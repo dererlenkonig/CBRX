@@ -1,0 +1,509 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+  <Civilizations>
+    <Row>
+      <Type>CIVILIZATION_CANTON_PIRATES</Type>
+      <Description>TXT_KEY_CIV_CANTON_PIRATES_DESC</Description>
+      <Civilopedia></Civilopedia>
+      <CivilopediaTag>TXT_KEY_CIV5_CANTON_PIRATES</CivilopediaTag>
+      <Strategy></Strategy>
+      <Playable>1</Playable>
+      <AIPlayable>1</AIPlayable>
+      <ShortDescription>TXT_KEY_CIV_CANTON_PIRATES_SHORT_DESC</ShortDescription>
+      <Adjective>TXT_KEY_CIV_CANTON_PIRATES_ADJECTIVE</Adjective>
+      <DefaultPlayerColor>PLAYERCOLOR_CANTON_PIRATES</DefaultPlayerColor>
+      <ArtDefineTag>ART_DEF_CIVILIZATION_CANTON_PIRATES</ArtDefineTag>
+      <ArtStyleType>ARTSTYLE_ASIAN</ArtStyleType>
+      <ArtStyleSuffix>_ASIA</ArtStyleSuffix>
+      <ArtStylePrefix>ASIAN</ArtStylePrefix>
+      <DerivativeCiv></DerivativeCiv>
+      <PortraitIndex>0</PortraitIndex>
+      <IconAtlas>CHING_ICON_ATLAS</IconAtlas>
+      <AlphaIconAtlas>CHING_ALPHA_ATLAS</AlphaIconAtlas>
+      <MapImage>ChingMap.dds</MapImage>
+      <DawnOfManQuote>TXT_KEY_CIV5_DAWN_CANTON_PIRATES_TEXT</DawnOfManQuote>
+      <DawnOfManImage>Ching_DOM.dds</DawnOfManImage>
+      <DawnOfManAudio></DawnOfManAudio>
+      <SoundtrackTag></SoundtrackTag>
+    </Row>
+  </Civilizations>
+
+  <Civilization_BuildingClassOverrides>
+	<Row>
+	  <CivilizationType>CIVILIZATION_CANTON_PIRATES</CivilizationType>
+   	  <BuildingClassType>BUILDINGCLASS_THEATRE</BuildingClassType>
+	  <BuildingType>BUILDING_GAMBLING_HOUSE</BuildingType>
+	</Row>
+  </Civilization_BuildingClassOverrides>
+  <Civilization_CityNames>
+    <Row>
+      <CivilizationType>CIVILIZATION_CANTON_PIRATES</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_CANTON_PIRATES_0</CityName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_CANTON_PIRATES</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_CANTON_PIRATES_1</CityName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_CANTON_PIRATES</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_CANTON_PIRATES_2</CityName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_CANTON_PIRATES</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_CANTON_PIRATES_3</CityName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_CANTON_PIRATES</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_CANTON_PIRATES_4</CityName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_CANTON_PIRATES</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_CANTON_PIRATES_5</CityName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_CANTON_PIRATES</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_CANTON_PIRATES_6</CityName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_CANTON_PIRATES</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_CANTON_PIRATES_7</CityName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_CANTON_PIRATES</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_CANTON_PIRATES_8</CityName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_CANTON_PIRATES</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_CANTON_PIRATES_9</CityName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_CANTON_PIRATES</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_CANTON_PIRATES_10</CityName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_CANTON_PIRATES</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_CANTON_PIRATES_11</CityName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_CANTON_PIRATES</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_CANTON_PIRATES_12</CityName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_CANTON_PIRATES</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_CANTON_PIRATES_13</CityName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_CANTON_PIRATES</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_CANTON_PIRATES_14</CityName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_CANTON_PIRATES</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_CANTON_PIRATES_15</CityName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_CANTON_PIRATES</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_CANTON_PIRATES_16</CityName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_CANTON_PIRATES</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_CANTON_PIRATES_17</CityName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_CANTON_PIRATES</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_CANTON_PIRATES_18</CityName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_CANTON_PIRATES</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_CANTON_PIRATES_19</CityName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_CANTON_PIRATES</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_CANTON_PIRATES_20</CityName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_CANTON_PIRATES</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_CANTON_PIRATES_21</CityName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_CANTON_PIRATES</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_CANTON_PIRATES_22</CityName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_CANTON_PIRATES</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_CANTON_PIRATES_23</CityName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_CANTON_PIRATES</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_CANTON_PIRATES_24</CityName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_CANTON_PIRATES</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_CANTON_PIRATES_25</CityName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_CANTON_PIRATES</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_CANTON_PIRATES_26</CityName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_CANTON_PIRATES</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_CANTON_PIRATES_27</CityName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_CANTON_PIRATES</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_CANTON_PIRATES_28</CityName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_CANTON_PIRATES</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_CANTON_PIRATES_29</CityName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_CANTON_PIRATES</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_CANTON_PIRATES_30</CityName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_CANTON_PIRATES</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_CANTON_PIRATES_31</CityName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_CANTON_PIRATES</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_CANTON_PIRATES_32</CityName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_CANTON_PIRATES</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_CANTON_PIRATES_33</CityName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_CANTON_PIRATES</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_CANTON_PIRATES_34</CityName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_CANTON_PIRATES</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_CANTON_PIRATES_35</CityName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_CANTON_PIRATES</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_CANTON_PIRATES_36</CityName>
+    </Row>
+  </Civilization_CityNames>
+  <!-- Civilization_DisableTechs -->
+  <Civilization_FreeBuildingClasses>
+    <Row>
+      <CivilizationType>CIVILIZATION_CANTON_PIRATES</CivilizationType>
+      <BuildingClassType>BUILDINGCLASS_PALACE</BuildingClassType>
+    </Row>
+  </Civilization_FreeBuildingClasses>
+  <Civilization_FreeTechs>
+    <Row>
+      <CivilizationType>CIVILIZATION_CANTON_PIRATES</CivilizationType>
+      <TechType>TECH_AGRICULTURE</TechType>
+    </Row>
+  </Civilization_FreeTechs>
+  <Civilization_FreeUnits>
+    <Row>
+      <CivilizationType>CIVILIZATION_CANTON_PIRATES</CivilizationType>
+      <UnitClassType>UNITCLASS_SETTLER</UnitClassType>
+      <UnitAIType>UNITAI_SETTLE</UnitAIType>
+      <Count>1</Count>
+    </Row>
+  </Civilization_FreeUnits>
+  <Civilization_Leaders>
+    <Row>
+      <CivilizationType>CIVILIZATION_CANTON_PIRATES</CivilizationType>
+      <LeaderheadType>LEADER_CHING_SHIH</LeaderheadType>
+    </Row>
+  </Civilization_Leaders>
+  <Civilization_Religions>
+    <Row>
+      <CivilizationType>CIVILIZATION_CANTON_PIRATES</CivilizationType>
+      <ReligionType>RELIGION_TAOISM</ReligionType>
+    </Row>
+  </Civilization_Religions>
+  <Civilization_SpyNames>
+    <Row>
+      <CivilizationType>CIVILIZATION_CANTON_PIRATES</CivilizationType>
+      <SpyName>TXT_KEY_SPY_NAME_CANTON_PIRATES_0</SpyName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_CANTON_PIRATES</CivilizationType>
+      <SpyName>TXT_KEY_SPY_NAME_CANTON_PIRATES_1</SpyName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_CANTON_PIRATES</CivilizationType>
+      <SpyName>TXT_KEY_SPY_NAME_CANTON_PIRATES_2</SpyName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_CANTON_PIRATES</CivilizationType>
+      <SpyName>TXT_KEY_SPY_NAME_CANTON_PIRATES_3</SpyName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_CANTON_PIRATES</CivilizationType>
+      <SpyName>TXT_KEY_SPY_NAME_CANTON_PIRATES_4</SpyName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_CANTON_PIRATES</CivilizationType>
+      <SpyName>TXT_KEY_SPY_NAME_CANTON_PIRATES_5</SpyName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_CANTON_PIRATES</CivilizationType>
+      <SpyName>TXT_KEY_SPY_NAME_CANTON_PIRATES_6</SpyName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_CANTON_PIRATES</CivilizationType>
+      <SpyName>TXT_KEY_SPY_NAME_CANTON_PIRATES_7</SpyName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_CANTON_PIRATES</CivilizationType>
+      <SpyName>TXT_KEY_SPY_NAME_CANTON_PIRATES_8</SpyName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_CANTON_PIRATES</CivilizationType>
+      <SpyName>TXT_KEY_SPY_NAME_CANTON_PIRATES_9</SpyName>
+    </Row>
+  </Civilization_SpyNames>
+  <Civilization_UnitClassOverrides>
+    <Row>
+      <CivilizationType>CIVILIZATION_CANTON_PIRATES</CivilizationType>
+      <UnitClassType>UNITCLASS_PRIVATEER</UnitClassType>
+      <UnitType>UNIT_RED_FLEET_JUNK</UnitType>
+    </Row>
+  </Civilization_UnitClassOverrides>
+  <Civilization_Start_Along_Ocean>
+    <Row>
+      <CivilizationType>CIVILIZATION_CANTON_PIRATES</CivilizationType>
+      <StartAlongOcean>1</StartAlongOcean>
+    </Row>
+  </Civilization_Start_Along_Ocean>
+  <!-- Civilization_Start_Along_River -->
+  <!-- Civilization_Start_Region_Priority -->
+  <!-- Civilization_Start_Region_Avoid -->
+  <!-- Civilization_Start_Place_First_Along_Ocean -->
+
+  <PlayerColors>
+    <Row>
+      <Type>PLAYERCOLOR_CANTON_PIRATES</Type>
+      <PrimaryColor>COLOR_PLAYER_CANTON_PIRATES_ICON</PrimaryColor>
+      <SecondaryColor>COLOR_PLAYER_CANTON_PIRATES_BACKGROUND</SecondaryColor>
+      <TextColor>COLOR_PLAYER_WHITE_TEXT</TextColor>
+    </Row>
+  </PlayerColors>
+  <Colors>
+    <Row>
+      <Type>COLOR_PLAYER_CANTON_PIRATES_ICON</Type>
+      <Red>0.761</Red>
+      <Green>0.667</Green>
+      <Blue>0.184</Blue>
+      <Alpha>1.0</Alpha>
+    </Row>
+  </Colors>
+  <Colors>
+    <Row>
+      <Type>COLOR_PLAYER_CANTON_PIRATES_BACKGROUND</Type>
+      <Red>0.502</Red>
+      <Green>0.047</Green>
+      <Blue>0.047</Blue>
+      <Alpha>1.0</Alpha>
+    </Row>
+  </Colors>
+
+  <Language_en_US>
+    <Row Tag="TXT_KEY_CIV_CANTON_PIRATES_DESC">
+      <Text>Canton Pirates</Text>
+      <Gender>neuter:an</Gender>
+    </Row>
+    <Row Tag="TXT_KEY_CIV5_CANTON_PIRATES_FACTOID_HEADING">
+      <Text>Factoids</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CIV5_CANTON_PIRATES_FACTOID_TEXT">
+      <Text>Led the biggest pirate fleet in all of history with thousands of ships at her command.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CIV5_CANTON_PIRATES_HEADING_1">
+      <Text>History</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CIV5_CANTON_PIRATES_HEADING_10">
+      <Text>Rise of the Red Flag Fleet</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CIV5_CANTON_PIRATES_HEADING_11">
+      <Text>The San-T'iao</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CIV5_CANTON_PIRATES_HEADING_12">
+      <Text>The Pirate Queen's Dominance</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CIV5_CANTON_PIRATES_HEADING_13">
+      <Text>Retirement</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CIV5_CANTON_PIRATES_TEXT_1">
+      <Text><!-- Add Civilopedia text here --></Text>
+    </Row>
+    <Row Tag="TXT_KEY_CIV5_CANTON_PIRATES_TEXT_10">
+      <Text><!-- Add Civilopedia text here --></Text>
+    </Row>
+    <Row Tag="TXT_KEY_CIV5_CANTON_PIRATES_TEXT_11">
+      <Text><!-- Add Civilopedia text here --></Text>
+    </Row>
+    <Row Tag="TXT_KEY_CIV5_CANTON_PIRATES_TEXT_12">
+      <Text><!-- Add Civilopedia text here --></Text>
+    </Row>
+    <Row Tag="TXT_KEY_CIV5_CANTON_PIRATES_TEXT_13">
+      <Text><!-- Add Civilopedia text here --></Text>
+    </Row>
+    <Row Tag="TXT_KEY_CIV5_CANTON_PIRATES_TITLE">
+      <Text>The Canton Pirates</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CIV_CANTON_PIRATES_SHORT_DESC">
+      <Text>The Canton Pirates</Text>
+      <Gender>neuter:an</Gender>
+		<Plurality>2</Plurality>
+    </Row>
+    <Row Tag="TXT_KEY_CIV_CANTON_PIRATES_ADJECTIVE">
+      <Text>Cantonese</Text>
+      <Gender>neuter:an</Gender>
+    </Row>
+    <Row Tag="TXT_KEY_CIV5_DAWN_CANTON_PIRATES_TEXT">
+      <Text>Hail to the matchless pirate, Ching Shih; you controlled the vast fleets of the Canton Pirates. You started out as a prostitute wallowing in the brothels of Canton, eventually rising, through use of diplomacy and cunning, to marry the most notorious pirate in all of China, Cheng Yi. Upon his death in 1807, you seized control of his fleets and made them fear your iron wrath. But as soon as you took control, you instituted the San-T'iao, a code of laws among pirates that protected the lives of the poor, prisoners, and women. At the height of your power, even the Chinese, Portuguese, and Royal Navy could not hope to defeat your matchless fleet and you finally chose to retire at the height of your power, knowing that you had accomplished it all.[NEWLINE][NEWLINE]Pirate Queen Ching Shih, will you bring about a new golden age of piracy? It is up to you once more to return law and order to the chaotic seas.  Will you take up the mantle of greatness? Can you build a civilization that will stand the test of time?</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_CANTON_PIRATES_0">
+      <Text>Canton</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_CANTON_PIRATES_1">
+      <Text>Hong Kong</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_CANTON_PIRATES_2">
+      <Text>Macau</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_CANTON_PIRATES_3">
+      <Text>Shenzhen</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_CANTON_PIRATES_4">
+      <Text>Zhuhai</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_CANTON_PIRATES_5">
+      <Text>Shanghai</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_CANTON_PIRATES_6">
+      <Text>Taipei</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_CANTON_PIRATES_7">
+      <Text>Qinhuangdao</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_CANTON_PIRATES_8">
+      <Text>Suzhou</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_CANTON_PIRATES_9">
+      <Text>Fuzhou</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_CANTON_PIRATES_10">
+      <Text>Xiamen</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_CANTON_PIRATES_11">
+      <Text>Zhanjiang</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_CANTON_PIRATES_12">
+      <Text>Beihai</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_CANTON_PIRATES_13">
+      <Text>Dandong</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_CANTON_PIRATES_14">
+      <Text>Haikou</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_CANTON_PIRATES_15">
+      <Text>Huangpu</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_CANTON_PIRATES_16">
+      <Text>Jiujiang</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_CANTON_PIRATES_17">
+      <Text>Lianyungang</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_CANTON_PIRATES_18">
+      <Text>Nanjing</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_CANTON_PIRATES_19">
+      <Text>Nantong</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_CANTON_PIRATES_20">
+      <Text>Ningbo</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_CANTON_PIRATES_21">
+      <Text>Qingdao</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_CANTON_PIRATES_22">
+      <Text>Kowloon</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_CANTON_PIRATES_23">
+      <Text>Rizhao</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_CANTON_PIRATES_24">
+      <Text>Sanya</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_CANTON_PIRATES_25">
+      <Text>Shantou</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_CANTON_PIRATES_26">
+      <Text>Wenzhou</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_CANTON_PIRATES_27">
+      <Text>Yantai</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_CANTON_PIRATES_28">
+      <Text>Gin Drinker's Bay</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_CANTON_PIRATES_29">
+      <Text>Crooked Harbour</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_CANTON_PIRATES_30">
+      <Text>Jack Sparrow's Wharf</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_CANTON_PIRATES_31">
+      <Text>Three Fathoms Cove</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_CANTON_PIRATES_32">
+      <Text>Ching Shih City</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_CANTON_PIRATES_33">
+      <Text>Kai Ho</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_CANTON_PIRATES_34">
+      <Text>Yangshan</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_CANTON_PIRATES_35">
+      <Text>Beilun</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_CANTON_PIRATES_36">
+      <Text>Peking</Text>
+    </Row>
+    <Row Tag="TXT_KEY_SPY_NAME_CANTON_PIRATES_0">
+      <Text>Cheung Po</Text>
+    </Row>
+    <Row Tag="TXT_KEY_SPY_NAME_CANTON_PIRATES_1">
+      <Text>Xinyi</Text>
+      <Gender>feminine</Gender>
+    </Row>
+    <Row Tag="TXT_KEY_SPY_NAME_CANTON_PIRATES_2">
+      <Text>Jackie Chan</Text>
+    </Row>
+    <Row Tag="TXT_KEY_SPY_NAME_CANTON_PIRATES_3">
+      <Text>Chun </Text>
+      <Gender>feminine</Gender>
+    </Row>
+    <Row Tag="TXT_KEY_SPY_NAME_CANTON_PIRATES_4">
+      <Text>Wen Ling</Text>
+      <Gender>feminine</Gender>
+    </Row>
+    <Row Tag="TXT_KEY_SPY_NAME_CANTON_PIRATES_5">
+      <Text>Yun</Text>
+    </Row>
+    <Row Tag="TXT_KEY_SPY_NAME_CANTON_PIRATES_6">
+      <Text>Bruce Lee</Text>
+    </Row>
+    <Row Tag="TXT_KEY_SPY_NAME_CANTON_PIRATES_7">
+      <Text>Xia Heng</Text>
+    </Row>
+    <Row Tag="TXT_KEY_SPY_NAME_CANTON_PIRATES_8">
+      <Text>Mu Fang</Text>
+    </Row>
+    <Row Tag="TXT_KEY_SPY_NAME_CANTON_PIRATES_9">
+      <Text>Jack Sparrow</Text>
+    </Row>
+  </Language_en_US>
+</GameData>

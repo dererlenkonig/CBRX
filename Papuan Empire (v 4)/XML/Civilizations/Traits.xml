@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 01/11/2012 22:44:49 -->
+<GameData>
+	<Traits>
+		<Row>
+			<Type>TRAIT_MASYARAKATADAT</Type>
+			<Description>TXT_KEY_TRAIT_MASYARAKATADAT_DESC</Description>
+			<ShortDescription>TXT_KEY_TRAIT_MASYARAKATADAT_SHORT_DESC</ShortDescription>
+			<FreeBuilding>BUILDING_SAHUL</FreeBuilding>
+		</Row>
+	</Traits>
+	
+
+	
+	
+	</GameData>

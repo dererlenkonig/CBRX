@@ -1,0 +1,127 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mod id="1589e541-2086-4661-b648-f04fe75a83a6" version="3">
+  <Properties>
+    <Name>Taungoo Empire [EmeraldRange]</Name>
+    <Teaser>Adds the Taungoo Dynasty to Civilisation V</Teaser>
+    <Description>Adds the Taungoo-Hanthawaddy Dynasty of Burma (Second Burmese Empire), founded by Tabinshwehti and then expanded by Bayinnaung, into Civilization V. 
+
+Mod Support: YnAEMP, Historical Religions, Events and Decisions, Unique Great Generals</Description>
+    <Authors>EmeraldRange</Authors>
+    <SpecialThanks>Lua: Chrisy15</SpecialThanks>
+    <HideSetupGame>0</HideSetupGame>
+    <AffectsSavedGames>1</AffectsSavedGames>
+    <MinCompatibleSaveVersion>0</MinCompatibleSaveVersion>
+    <SupportsSinglePlayer>1</SupportsSinglePlayer>
+    <SupportsMultiplayer>1</SupportsMultiplayer>
+    <SupportsHotSeat>1</SupportsHotSeat>
+    <SupportsMac>1</SupportsMac>
+    <ReloadAudioSystem>1</ReloadAudioSystem>
+    <ReloadLandmarkSystem>0</ReloadLandmarkSystem>
+    <ReloadStrategicViewSystem>1</ReloadStrategicViewSystem>
+    <ReloadUnitSystem>1</ReloadUnitSystem>
+  </Properties>
+  <Dependencies>
+    <Dlc id="6DA07636-4123-4018-B643-6575B4EC336B" minversion="0" maxversion="999" />
+  </Dependencies>
+  <References>
+    <Mod id="31a31d1c-b9d7-45e1-842c-23232d66cd47" minversion="0" maxversion="999" title="JFD's Cultural Diversity (Core) " />
+    <Mod id="eea66053-7579-481a-bb8d-2f3959b59974" minversion="0" maxversion="999" title="JFD’s Rise to Power   " />
+    <Mod id="36e88483-48fe-4545-b85f-bafc50dde315" minversion="0" maxversion="999" title="Yet (not) Another Earth Map Pack  " />
+    <Mod id="e576894a-ed2b-4033-be14-ed1c8ceb81d3" minversion="0" maxversion="999" title="Map Labels " />
+    <Mod id="7fdd72a5-d4ae-441c-bc4e-2e3d2a26cff4" minversion="0" maxversion="999" title="Ethnic Units   " />
+    <Mod id="8670da15-d435-44ea-9758-7438cb321411" minversion="0" maxversion="999" title="R.E.D. Modpack " />
+    <Mod id="d1b6328c-ff44-4b0d-aad7-c657f83610cd" minversion="0" maxversion="999" title="Community Patch " />
+    <Mod id="8411a7a8-dad3-4622-a18e-fcc18324c799" minversion="0" maxversion="999" title="Community Balance Patch   " />
+    <Mod id="1153b26a-69fd-4cd5-899c-a8ba8e0e5e5d" minversion="0" maxversion="999" title="Civ IV Leader Traits in Civ V " />
+    <Mod id="6676902b-b907-45f1-8db5-32dcb2135eee" minversion="0" maxversion="999" title="JFD's Exploration Continued Expanded          " />
+    <Mod id="6010e6f6-918e-48b8-9332-d60783bd8fb5" minversion="0" maxversion="999" title="Historical Religions Complete   " />
+    <Mod id=" ce8aa614-7ef7-4a45-a179-5329869e8d6d" minversion="0" maxversion="999" title="Enlightenment Era                   " />
+    <Mod id="a19351c5-c0b3-4b07-8695-4affaa199949" minversion="0" maxversion="999" title="JFD’s and Pouakai’s Mercenaries   " />
+    <Mod id="10e9728f-d61c-4317-be4f-7d52d6bae6f4" minversion="0" maxversion="999" title="JFD’s Cities in Development               " />
+    <Mod id="66f38ce9-fc7b-448d-a7db-949d105b9b9f" minversion="0" maxversion="999" title="Zwei833's Renaissance Era Revised  " />
+    <Mod id="fe245559-0525-41bb-9e1c-b281e018b5fc" minversion="0" maxversion="999" title="Civilization Appropriate Great General and Admiral     " />
+    <Mod id="01c131ef-2162-4a7b-b845-763a4e675940" minversion="0" maxversion="999" title="Unique Cultural Influence " />
+    <Mod id="59a97415-76c7-47e8-8f69-d268dccd9535" minversion="0" maxversion="999" title="Buddhist Denominations" />
+    <Mod id="6bc3cb6e-a697-491e-9347-5e3e02640f00" minversion="0" maxversion="999" title="Historical Religions Edit" />
+    <Mod id="8c101299-95c5-4b28-b7ed-4e0f774857ef" minversion="0" maxversion="999" title="Historical Religions" />
+    <Mod id="1f941088-b185-4159-865c-472df81247b2" minversion="0" maxversion="999" title="Events and Decisions" />
+    <Mod id="4dc228cd-bd0d-4c06-b116-93ef05d010f3" minversion="0" maxversion="999" title="MC's Burma" />
+  </References>
+  <Blocks />
+  <Files>
+    <File md5="69E63272C8A11A9EBC0074FCB5AD6E4D" import="1">Art/Atlases/TaungooAlphaAtlas24.dds</File>
+    <File md5="C964E75DC51DE5CCA15AEE33BBB7D865" import="1">Art/Atlases/TaungooAlphaAtlas32.dds</File>
+    <File md5="DFE95F607373F3B9BCD5D944E7208B26" import="1">Art/Atlases/TaungooAlphaAtlas48.dds</File>
+    <File md5="D7714262CE62FD1F6B504711B103F69C" import="1">Art/Atlases/TaungooAlphaAtlas64.dds</File>
+    <File md5="0AD3C22577FAC9C87FC734816AB7FBDB" import="1">Art/Atlases/TaungooIconAtlas128.dds</File>
+    <File md5="4EC88C11A600659BAA90C58741280CFE" import="1">Art/Atlases/TaungooIconAtlas256.dds</File>
+    <File md5="23AE908627437151046FAD8BC8F45368" import="1">Art/Atlases/TaungooIconAtlas32.dds</File>
+    <File md5="92D8C005563065D6325169144FA75ACB" import="1">Art/Atlases/TaungooIconAtlas45.dds</File>
+    <File md5="94102FC2759DD5C88778296CAD8CB1AB" import="1">Art/Atlases/TaungooIconAtlas64.dds</File>
+    <File md5="FDB661D53CB97C70DCD15C570F449C42" import="1">Art/Atlases/TaungooIconAtlas80.dds</File>
+    <File md5="68D7C25FB84380603905941742087BBE" import="1">Art/Bayinnaung_DOM.dds</File>
+    <File md5="C24D794E3E13ACD77044A38A291707B8" import="1">Art/Bayinnaung_Scene.dds</File>
+    <File md5="C9B1E86EBAEC698DD2AC33102F7DA833" import="1">Art/IconFlagWhiteWarElephant.dds</File>
+    <File md5="5398CA0CAC3D1B0A6EFE90D49EAC29FA" import="1">Art/Music/Bayinnaung_DOM.mp3</File>
+    <File md5="F9172D5F71F60A3AF0E8B40AA441F3F6" import="1">Art/Music/Bayinnaung_Peace.mp3</File>
+    <File md5="21B08ED87277F738C75A73B16FAA578E" import="1">Art/Music/Bayinnaung_War.mp3</File>
+    <File md5="8B5160D9F100A6F55E48B46472C87C6A" import="1">Art/SV_TaungooWarElephant.dds</File>
+    <File md5="91B115128BDCC9C6D186EC3699B94271" import="1">Art/Taungoo_Cartography.dds</File>
+    <File md5="DA1428B65BADAA09666DAC90DF072F7A" import="1">Art/u_ER_taungoo_warelephant.fxsxml</File>
+    <File md5="0B5E12A3CEF2B7AAD49FE9E5A3DA2452" import="1">Art/u_ER_taungoo_warelephant.gr2</File>
+    <File md5="4093DCE0F2985C8F4768B05BD6E29B68" import="1">Art/u_ER_Taungoo_WarElephant_DIFF.dds</File>
+    <File md5="0B51238B1389EAF36D1503E1CDB92865" import="1">Art/u_siamese_warelephant_sref.dds</File>
+    <File md5="450DEF1397F4B81ED6F2FC83A7942E74" import="1">Lua/Ahmudan.lua</File>
+    <File md5="EC451F6B729E4124BC35A1BD2A1F16F6" import="1">Lua/Martial_School.lua</File>
+    <File md5="AAEC9193B51631DFEE81A80B37098D5A" import="0">Lua/MC_Burma.sql</File>
+    <File md5="415DD8F6A602AC40382ED562EFDBB5ED" import="0">Supports/CivSpecificGGGASupport.xml</File>
+    <File md5="BAD89B75A15187A1EAF60C9BFA4DDCD2" import="0">Supports/JFDLC_Support.sql</File>
+    <File md5="241C4E9958A94D3C14DC877D510DC8F9" import="1">Supports/Decision1_Kandy.lua</File>
+    <File md5="A1A54D50C5C1C8F6DDE2E4017E8F7CC7" import="1">Supports/Decision2_BagoGates.lua</File>
+    <File md5="89FAF40FAA36B104BA1E6AE38C5C4607" import="0">Supports/Decisions_Support.sql</File>
+    <File md5="DBC7869F64DBC661015F35B814071C50" import="0">Supports/Decisions_Support.xml</File>
+    <File md5="0CE59346A56E22399C2A390A5DB413DD" import="0">Supports/HistoricalReligions_Support.sql</File>
+    <File md5="23AF87E6AE5BDAAD684F53EDBA18A25E" import="0">Supports/YnAEMP_Taungoo_TSL.sql</File>
+    <File md5="250A11618411E8F7C0F1BB40E1F6F57B" import="0">Xml/Civilisation/Civ_Taungoo.xml</File>
+    <File md5="E586C9960BA916258C122D3DBEF91550" import="0">Xml/Civilisation/Text.xml</File>
+    <File md5="88CBF97E8BF9BB73D4AC2C2002C6C3CF" import="0">Xml/Civilisation/Traits.xml</File>
+    <File md5="C35636C9AEF3578FD6EA9A88D7971B91" import="0">Xml/Gameinfo/CIV5ArtDefines_unitmembers.xml</File>
+    <File md5="9B04CEA4BD00886DE2A326215BE2A030" import="0">Xml/Gameinfo/CIV5IconTextureAtlas.xml</File>
+    <File md5="797567352443BFE7616090FAC3855EE0" import="0">Xml/Gameinfo/SoundDefines.xml</File>
+    <File md5="E9EAE73F3926F087CB667767B5AFDDEB" import="1">Xml/Leader/Bayinnaung_Scene.xml</File>
+    <File md5="2B65BC31164AA63D04D62E8612654F97" import="0">Xml/Leader/CIV5Leader_Bayinnaung.xml</File>
+    <File md5="F5969208BBDFEF60766E3EC0021278D1" import="0">Xml/Uniques/Buildings.xml</File>
+    <File md5="5C47D4047BC80E537C538EA85F4EC1CA" import="0">Xml/Uniques/Units.xml</File>
+  </Files>
+  <Actions>
+    <OnModActivated>
+      <UpdateDatabase>Xml/Civilisation/Text.xml</UpdateDatabase>
+      <UpdateDatabase>Xml/Gameinfo/CIV5IconTextureAtlas.xml</UpdateDatabase>
+      <UpdateDatabase>Xml/Gameinfo/CIV5ArtDefines_unitmembers.xml</UpdateDatabase>
+      <UpdateDatabase>Xml/Gameinfo/SoundDefines.xml</UpdateDatabase>
+      <UpdateDatabase>Xml/Civilisation/Traits.xml</UpdateDatabase>
+      <UpdateDatabase>Xml/Leader/Bayinnaung_Scene.xml</UpdateDatabase>
+      <UpdateDatabase>Xml/Leader/CIV5Leader_Bayinnaung.xml</UpdateDatabase>
+      <UpdateDatabase>Xml/Uniques/Buildings.xml</UpdateDatabase>
+      <UpdateDatabase>Xml/Uniques/Units.xml</UpdateDatabase>
+      <UpdateDatabase>Xml/Civilisation/Civ_Taungoo.xml</UpdateDatabase>
+      <UpdateDatabase>Supports/YnAEMP_Taungoo_TSL.sql</UpdateDatabase>
+      <UpdateDatabase>Supports/HistoricalReligions_Support.sql</UpdateDatabase>
+      <UpdateDatabase>Supports/Decisions_Support.sql</UpdateDatabase>
+      <UpdateDatabase>Supports/Decisions_Support.xml</UpdateDatabase>
+      <UpdateDatabase>Supports/JFDLC_Support.sql</UpdateDatabase>
+      <UpdateDatabase>Lua/MC_Burma.sql</UpdateDatabase>
+      <UpdateDatabase>Supports/CivSpecificGGGASupport.xml</UpdateDatabase>
+    </OnModActivated>
+  </Actions>
+  <EntryPoints>
+    <EntryPoint type="InGameUIAddin" file="Lua/Ahmudan.lua">
+      <Name>Ahmudan UA</Name>
+      <Description>Ahmudan UA</Description>
+    </EntryPoint>
+    <EntryPoint type="InGameUIAddin" file="Lua/Martial_School.lua">
+      <Name>UB XP</Name>
+      <Description>Martial School XP</Description>
+    </EntryPoint>
+  </EntryPoints>
+</Mod>

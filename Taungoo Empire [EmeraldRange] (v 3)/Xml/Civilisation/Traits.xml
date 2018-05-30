@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 4/26/2017 11:46:26 AM -->
+<GameData>
+	<Traits>
+		<Row>
+			<Type>TRAIT_AHMUDAN</Type>
+			<Description>TXT_KEY_ER_TRAIT_AHMUDAN</Description>
+			<ShortDescription>TXT_KEY_ER_TRAIT_AHMUDAN_SHORT</ShortDescription>
+		</Row>
+	</Traits>
+</GameData>

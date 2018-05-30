@@ -1,0 +1,271 @@
+﻿<GameData>
+	<Language_en_US>
+		<Row Tag="TXT_KEY_CITY_NAME_SENSHI_EVENKS_01">
+			<Text>Tura</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SENSHI_EVENKS_02">
+			<Text>Baykit</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SENSHI_EVENKS_03">
+			<Text>Vanavara</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SENSHI_EVENKS_04">
+			<Text>Yakesa</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SENSHI_EVENKS_05">
+			<Text>Tohoi</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SENSHI_EVENKS_06">
+			<Text>Duochen</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SENSHI_EVENKS_07">
+			<Text>Ergun</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SENSHI_EVENKS_08">
+			<Text>Asajin</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SENSHI_EVENKS_09">
+			<Text>Tembenchi</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SENSHI_EVENKS_10">
+			<Text>Burungda</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SENSHI_EVENKS_11">
+			<Text>Tulihe</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SENSHI_EVENKS_12">
+			<Text>Erbogachen</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SENSHI_EVENKS_13">
+			<Text>Kochechum</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SENSHI_EVENKS_14">
+			<Text>Alihe</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SENSHI_EVENKS_15">
+			<Text>Embenchime</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SENSHI_EVENKS_16">
+			<Text>Taimura</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SENSHI_EVENKS_17">
+			<Text>Erema</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SENSHI_EVENKS_18">
+			<Text>Putorana</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SENSHI_EVENKS_19">
+			<Text>Miryuga</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SENSHI_EVENKS_20">
+			<Text>Mitoray</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SENSHI_EVENKS_21">
+			<Text>Sulomay</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SENSHI_EVENKS_22">
+			<Text>Yukta</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SENSHI_EVENKS_23">
+			<Text>Kislokan</Text>
+		</Row>
+
+		<!--Spies-->
+		<Row Tag="TXT_KEY_SPY_NAME_SENSHI_EVENKS_0">
+			<Text>Dula'r</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_SENSHI_EVENKS_1">
+			<Text>Alitet</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_SENSHI_EVENKS_2">
+			<Text>Semyon</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_SENSHI_EVENKS_3">
+			<Text>Nikita</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_SENSHI_EVENKS_4">
+			<Text>Ureltu</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_SENSHI_EVENKS_5">
+			<Text>Galina</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_SENSHI_EVENKS_6">
+			<Text>Kudrina</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_SENSHI_EVENKS_7">
+			<Text>Geolsa</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_SENSHI_EVENKS_8">
+			<Text>Buga</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_SENSHI_EVENKS_9">
+			<Text>Yuri</Text>
+		</Row>
+
+		<!--Demonyms-->
+		<Row Tag="TXT_KEY_CIV_SENSHI_EVENKS_ADJECTIVE">
+			<Text>Evenki</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_SENSHI_EVENKS_DESC">
+			<Text>The Evenks</Text>
+			<Plurality>2</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_SENSHI_EVENKS_SHORT_DESC">
+			<Text>The Evenks</Text>
+			<Plurality>2</Plurality>
+		</Row>
+
+		<!--DoM-->
+		<Row Tag="TXT_KEY_CIV5_DOM_SENSHI_BOMBOGOR_TEXT">
+			<Text>May you be ever strong in your efforts, great Dular Bombogor! You lead the Evenks, a proud and pious people traditionally inhabiting vast swathes of the Siberian taiga. The Evenks are a resourceful and spiritual people, successfully using reindeer as mounts and communing with nature through the great shamans and their shevenchedeks. A chief in the Amur River basin, you were thrust into conflict when the armies of the Qing descended upon your territory in a vile attempt to subjugate your people! However, your people retaliated under your leadership, and the campaigns of your enemy generals failed to subdue the Evenki resistance. Though your forces were eventually defeated, your resilience and powerful leadership remained with you until your death.[NEWLINE][NEWLINE]Great chief, the Evenks once more need your guidance! Will you rise once more to protect your people? Will you build a civilization to stand the test of time?</Text>
+		</Row>
+
+		<!--Pedia-->
+		<Row Tag="TXT_KEY_CIV5_SENSHI_EVENKS_HEADING_1">
+			<Text>History</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_SENSHI_EVENKS_TEXT_1">
+			<Text>The Evenks are a Tungusic people of Northern Asia. They are recognized as an indigenous people in Russia, and are also one of the official 56 ethnic groups in the People’s Republic of China. The Evenki language is the largest of the northern group of the Manchu-Tungus languages, a group which also includes the Even and Negidal languages.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_SENSHI_EVENKS_HEADING_2">
+			<Text>Geography and Climate</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_SENSHI_EVENKS_TEXT_2">
+			<Text>The Evenks are spread over a huge territory of the Siberian taiga from the River Ob in the west to the Okhotsk Sea in the east, and from the Arctic Ocean in the north to Manchuria and Sakhalin in the south. The total area of their habitat is about 2,500,000 km². In all of Russia only the Russians inhabit a larger territory. According to the administrative structure, the Evenks live, from west to east, in Tyumen and Tomsk Oblasts, Krasnoyarsk Krai with Evenk Autonomous Okrug, Irkutsk, Chita, and Amur Oblasts, the Buryat and the Sakha Republics, Khabarovsk Krai, and Sakhalin Oblast. However, the territory where they are a titular nation is confined solely to Evenk Autonomous Okrug, where 3,802 of the 35,527 Evenks live (according to the 2002 Census). More than 18,200 Evenks live in the Sakha Republic. Sakha is known for its climate extremes, with the Verkhoyansk Range being the coldest area in the Northern Hemisphere. Some of the lowest natural temperatures ever recorded have been here. The Northern Hemisphere's Pole of Cold is at Verkhoyansk, where the temperatures reached as low as −67.8 °C (−90.0 °F) in 1892, and at Oymyakon, where the temperatures reached as low as −71.2 °C (−96.2 °F) in 1926. According to the 2000 Census, there are 30,505 Evenks in China mainly made up of the Solons and the Khamnigans. 88.8% of China's Evenks live in the Hulunbuir region in the north of the Inner Mongolia Province, near the city of Hailar. The Evenk Autonomous Banner is also located near Hulunbuir. There are also around 3,000 Evenks in neighbouring Heilongjiang Province. Throughout the region, the climate is based off a four-season, monsoon climate. The winters in Inner Mongolia are very long, cold, and dry with frequent blizzards, though snowfall is so light that Inner Mongolia has no modern glaciers, even on the highest Helan peaks. The spring is short, mild and arid, with large, dangerous sandstorms, whilst the summer is very warm to hot and relatively humid except in the west where it remains dry. Autumn is brief and sees a steady cooling, with temperatures below 0 °C (32 °F) reached in October in the north and November in the south.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_SENSHI_EVENKS_HEADING_3">
+			<Text>Names</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_SENSHI_EVENKS_TEXT_3">
+			<Text>The Evenks were formerly known as tungus. This designation was spread by the Russians, who acquired it from the Yakuts and the Siberian Tatars (in the Yakut language tongus) in the 17th century. The Evenks have several self-designations, of which the best known is evenk. This became the official designation for the people in 1931. Some groups call themselves orochen ('an inhabitant of the River Oro'), orochon ('a rearer of reindeer'), ile ('a human being'), etc. At one time or another tribal designations and place names have also been used as self-designations, for instance manjagir, birachen, solon, etc. Several of these have even been taken for separate ethnic entities. There is also a similarly named Siberian group called the Evens (formerly known as Lamuts). Although related to the Evenks, the Evens are now considered to be a separate ethnic group.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_SENSHI_EVENKS_HEADING_4">
+			<Text>Origins</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_SENSHI_EVENKS_TEXT_4">
+			<Text>The Evenks or Ewenki are sometimes conjectured to be connected to the Shiwei people who inhabited the Greater Khingan Range in the 5th to 9th centuries, although the native land of the majority of Evenki people is in the vast regions of Siberia between Lake Baikal and the Amur River. The Ewenki language forms the northern branch of the Manchu-Tungusic language group and is closely related to Even and Negidal in Siberia. By 1600 the Evenks or Ewenki of the Lena and Yenisey valleys were successful reindeer herders. By contrast the Solons and the Khamnigans (Ewenkis of Transbaikalia) had picked up horse breeding and the Mongolian deel from the Mongols. The Solons (ancestors of the Evenkis in China) nomadized along the Amur River. They were closely related to the Daur people. To the west the Khamnigan were another group of horse-breeding Evenks in the Transbaikalia area. Also in the Amur valley a body of Siberian Evenki-speaking people were called Orochen by the Manchus.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_SENSHI_EVENKS_HEADING_5">
+			<Text>Historical Distribution</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_SENSHI_EVENKS_TEXT_5">
+			<Text>The Evenks have most likely been in the Baikal region of Southern Siberia (near the modern-day Mongolian border) since the Neolithic era. The origin of the Evenks is the result of complex processes, different in time, involving the mixing of different ancient aboriginal tribes from the north of Siberia with tribes related in language to the Turks and Mongols. The language of these tribes took precedence over the languages of the aboriginal population. Elements of more modern Evenk culture, including conical tent dwellings, bone fish-lures, and birch-bark boats, were all present in sites that are believed to be Neolithic. From Lake Baikal, they spread to the Amur and Okhotsk Sea…the Lena Basin…and the Yenisey Basin.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_SENSHI_EVENKS_HEADING_6">
+			<Text>Contact with Russians and Qing Dynasty</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_SENSHI_EVENKS_TEXT_6">
+			<Text>In the 17th century, the Russian empire began to expand enough to contact the remote Evenkis. Cossacks, men who served as a kind of “border-guard” for the tsarist government, imposed a fur tax on the Siberian tribes. The Cossacks exploited the Evenki clan hierarchy and took hostages from the highest members in order to ensure payment of the tax. Although there was some rebellion against local officials, the Evenks generally recognized the “great need of peaceful cultural relations with the Russians. Contact with the Russians and constant demand for fur taxes pushed the Evenkis east all the way to Sakhalin island, where some still live today. In the 19th, some groups migrated south and east into Mongolia and Manchuria. Today there are still Evenki populations in Sakhalin, Mongolia, and Manchuria, and to a lesser extent, their traditional Baikal region. The Manchu Emperor Hong Taiji conquered the Evenks in 1640, and executed their leader Bombogor. After the Manchu conquest, the Evenks were incorporated into the Eight Banners. In 1763, the Qing government moved 500 Solon Evenk and 500 Daur families to the Tacheng and Ghulja areas of Xinjiang, in order to strengthen the empire's western border. 1020 Xibe families (some 4000 persons) followed the next year. Since then, however, the Solons of Xinjiang have assimilated into other ethnic groups, and are not identified as such anymore.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_SENSHI_EVENKS_HEADING_7">
+			<Text>Traditional Life</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_SENSHI_EVENKS_TEXT_7">
+			<Text>Traditionally the Evenks were a mixture of pastoralists and hunter-gatherers—they relied on their domesticated reindeer for milk and transport and hunted other large game for meat. Today, the Evenks are divided into two large groups…engaging in different types of economy. These are the hunting and reindeer-breeding Evenks and the horse and cattle pastoral Evenks as well as some farming Evenks. The Evenks lived mostly in areas of what is called a taiga, or boreal forest. They lived in conical tents made from birch bark or reindeer skin tied to birch poles. When they moved camp, the Evenks would leave the dwelling’s framework and carry only the more portable coverings. During winter, the hunting season, most camps consisted of one or two tents while the spring encampments encompassed up to 10 households. The skill of riding the domesticated reindeer allowed the Evenkis to colonize vast areas of the eastern taiga which had previously been impenetrable. The Evenks use a saddle unique to their culture which is placed on the shoulders of the reindeer which lessens the strain on the animal. Also, the Evenks traditionally did not use stirrups but used a stick to balance. Evenks did not develop reindeer sledges until comparatively recent times. They instead used their reindeer as pack animals and often traversed great distances on foot, using snowshoes or skis. The Evenki people did not eat their domesticated reindeer (although they did hunt and eat wild reindeer) but kept them for milk. Large herds of reindeer were very uncommon. Most Evenks had around 25 head of reindeer because they were generally bred for transportation purposes. Unlike several other neighboring tribes Evenk reindeer-breeding did not include herding of reindeer by dogs nor any other specific features. Very early in the spring season, the winter camps broke up and moved to places suitable for calving. Several households pastured their animals together throughout the summer, being careful to keep special areas fenced off to guard the newborn calves against being trampled on in a large herd.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_SENSHI_EVENKS_HEADING_8">
+			<Text>Clothing</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_SENSHI_EVENKS_TEXT_8">
+			<Text>The Evenks wore a characteristic costume adapted to the cold but rather dry climate of Central Siberia and to a life of mobility. They wore brief garments of soft reindeer or elk skin around their hips, along with leggings and moccasins, or else long supple boots reaching to the thigh. They also wore a deerskin coat that did not close in front but was instead covered with an apron-like cloth. Some Evenkis decorated their clothing with fringes or embroidery. The Evenki traditional costume always consisted of these elements: the loincloth made of animal hide, leggings, and boots of varying lengths. Facial tattooing was also very common.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_SENSHI_EVENKS_HEADING_9">
+			<Text>Hunting</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_SENSHI_EVENKS_TEXT_9">
+			<Text>The traditional Evenki economy was a mix of pastoralism (of horses or reindeer), fishing, and hunting. The Evenki who lived near the Okhotsk Sea hunted seal, but for most of the taiga-dwellers, elk, wild reindeer, and fowl were the most important game animals. Other animals included roe deer, bear, wolverine, lynx, wolf, Siberian marmot, fox, and sable. Trapping did not become important until the imposition of the fur tax by the tsarist government. Before acquiring guns in the 18th century, Evenks used steel bows and arrows. Along with their main hunting implements, hunters always carried a pike, which was a large knife on a long handle used instead of an axe when passing through the thick taiga or as a spear when hunting bear. The Evenks have deep respect for animals and all elements of nature: It is forbidden to torment an animal, bird, or insect, and a wounded animal must be finished off immediately. It is forbidden to spill the blood of a killed animal or defile it. It is forbidden to kill animals or birds that were saved from pursuit by predators or came to a person for help in a natural disaster.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_SENSHI_EVENKS_HEADING_10">
+			<Text>Belief Systems</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_SENSHI_EVENKS_TEXT_10">
+			<Text>Prior to contact with the Russians, the belief system of the Evenks was animistic. Many have adopted Tibetan Buddhism. The Evenki, like most nomadic, pastoral, and subsistence agrarian peoples, spend most of their lives in very close contact with nature. Because of this, they develop what A. A. Sirina calls an "ecological ethic". By this she means "a system of responsibility of people to nature and her spirit masters, and of nature to people". Sirina interviewed many Evenks who until very recently spent much of their time as reindeer herders in the taiga, just like their ancestors. The Evenki people also spoke along the same lines: their respect for nature and their belief that nature is a living being. This idea, "the embodiment, animation, and personification of nature—what is still called the animistic worldview—is the key component of the traditional worldview of hunter-gatherers". Although most of the Evenkis have been "sedentarized"—that is, made to live in settled communities instead of following their traditional nomadic way of life—"many scholars think that the worldview characteristic of hunter-gatherer societies is preserved, even if they make the transition to new economic models. Although nominally Christianized in the 18th century, the Evenki people maintain many of their historical beliefs—especially shamanism. The Christian traditions were confined to the formal performance of Orthodox rites which were usually timed for the arrival of the priest in the taiga. The religious beliefs and practices of the Evenks are of great historical interest since these retain some archaic forms of belief. Among the most ancient ideas are spiritualization and personification of all natural phenomena, belief in an upper, middle, and lower world, belief in the soul (omi) and certain totemistic concepts. There were also various magical rituals associated with hunting and guarding herds. Later on, these rituals were conducted by shamans. Shamanism brought about the development of the views of spirit-masters. There are few sources on the shamanism of the Evenki peoples below the Amur river in Northern China. There is a brief report of fieldwork conducted by Richard Noll and Kun Shi in 1994 of the life of the shamaness Dula'r (Evenki name), also known as Ao Yun Hua (her Han Chinese name). She was born in 1920 and was living in the village of Yiming Gatsa in the Evenki Banner (county) of the Hulunbuir Prefecture, in the Inner Mongolian Autonomous Region. While not a particularly good informant, she described her initiatory illness, her multiyear apprenticeship with a Mongol shaman before being allowed to heal at the age of 25 or 26, and the torments she experienced during the Cultural Revolution in the 1960s when most of her shamanic paraphernalia was destroyed. Mongol and Buddhist Lamaist influences on her indigenous practice of shamansim were evident. She hid her prize possession—an Abagaldi (bear spirit) shaman mask, which has also been documented among the Mondols and Dauer peoples in the region.</Text>
+		</Row>
+
+		<!--Leader-->
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_SENSHI_BOMBOGOR_HEADING_1">
+			<Text>History</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_SENSHI_BOMBOGOR_TEXT_1">
+			<Text>Dular Bombogor was an Evenk chief and leader of the Evenk federation. His power base laid on the basin of the Amur river.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_SENSHI_BOMBOGOR_HEADING_2">
+			<Text>Life</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_SENSHI_BOMBOGOR_TEXT_2">
+			<Text>Not much is known about Bombogor’s early life before his involvement with the Qing Dynasty. In 1638, the Qing Emperor Hong Taiji sent general Samshika against Bombogor but his campaign failed to subdue Evenk resistance. In December 1639, Hong Taiji sent another large force to the Amur. This force penetrated deep into Solon territory, reaching the Kumara River. The Battle of Gualar was fought between 2 Manchu regiments and a detachment of 500 Solons and Daurs led by Bombogor. In May of 1640, the Manchus assaulted the Evenk fortresses of Duochen, Asajin, Yakesa, and Duojin; capturing all four of them and large numbers of horses, cattle, pelts and slaves. Although Bombogor continued his resistance, he was losing support, the Evenks were no match for the powerful Manchu armies and many Solons switched their allegiance to the Manchu Khan. In August 1640, Hong Taiji sent his general Xiteku against Bombogor. The latter fled to Mongolia, but Xiteku caught up with him in the vicinity of Qiluotai, capturing his baggage train, wives and children. Bombogor was captured and taken to Mukden where he was executed. With Bombogor's death, Evenk resistance collapsed and the Manchu secured control of the Amur peoples. The Evenks and other local peoples were absorbed into the Eight Banners.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_SENSHI_BOMBOGOR_HEADING_3">
+			<Text>Judgment of History</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_SENSHI_BOMBOGOR_TEXT_3">
+			<Text>It is hard to judge someone who appears in history so fleetingly. Bombogor was apparently a capable leader, heading the Evenk resistance against the Qing dynasty for a few years. With his death, the resistance fell apart and the Evenks were absorbed into Qing China.</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_SENSHI_BOMBOGOR_LIVED">
+			<Text>d. 1640</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_SENSHI_BOMBOGOR_NAME">
+			<Text>Dular Bombogor</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_SENSHI_BOMBOGOR_SUBTITLE">
+			<Text>Chief of the Evenks</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_SENSHI_BOMBOGOR">
+			<Text>Bombogor</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_SENSHI_BOMBOGOR_TITLES_1">
+			<Text>Chief</Text>
+		</Row>
+
+		<!--Unique Ability-->
+		<Row Tag="TXT_KEY_TRAIT_SENSHI_EVENKS_SHORT">
+			<Text>Bugadyl</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_SENSHI_EVENKS">
+			<Text>Defeated units on unimproved or pillaged tiles create temporary Bugadyl Dwellings, which provide [ICON_PEACE] Faith and deal a large amount of damage to the next unit to enter the tile. Internal Trade Routes are 50% more effective.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_SENSHI_EVENKS_IMPROVEMENT">
+			<Text>Bugadyl Dwelling</Text>
+		</Row>
+
+		<!--Unique Unit-->
+		<Row Tag="TXT_KEY_UNIT_SENSHI_REINDEER_ARCHER">
+			<Text>Reindeer Archer</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_SENSHI_REINDEER_ARCHER_STRATEGY">
+			<Text>Unlike the Chariot Archer, which it replaces, the Reindeer Archer may move through rough terrain without losing all of its movement and does not require horses. In addition, it has - and provides stacked civilian units with - the Woodsman promotion. However, it suffers a large combat penalty when defending in open terrain.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_SENSHI_REINDEER_ARCHER_HELP">
+			<Text>Unlike the Chariot Archer, which it replaces, the Reindeer Archer may move through rough terrain without losing all of its movement and does not require horses. In addition, it has - and provides stacked civilian units with - the Woodsman promotion. However, it suffers a large combat penalty when defending in open terrain.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_UNIT_SENSHI_REINDEER_ARCHER_TEXT">
+			<Text>Unlike some other reindeer herders who used reindeer to pull sledges, the Evenks tamed reindeer and rode them using special saddles. Instead of stirrups, they used a stick for balance. They also used their reindeer as pack animals. When they weren’t riding the reindeer, they used skis to keep on the move. The Evenki people did not eat their domesticated reindeer but they did hunt and eat wild reindeer. Most Evenks kept about 25 reindeer since they used them mostly for transportation purposes. Unlike neighboring tribes, Evenks didn’t use dogs to help them herd the reindeer. In the spring, the winter camps broke up and moved to places suitable for calving. Special fenced off areas guarded the newborn calves against being trampled. Evenki alone have maintained the ancient Tungus culture.</Text>
+		</Row>
+		
+
+
+		<!--Unique Improvement-->
+		<Row Tag="TXT_KEY_IMPROVEMENT_SENSHI_SHEVENCHEDEK">
+			<Text>Shevenchedek</Text>
+		</Row>
+		<Row Tag="TXT_KEY_IMPROVEMENT_SENSHI_SHEVENCHEDEK_HELP">
+			<Text>Available at Philosophy, the Shevenchedek may only be built on Forests, Tundra and Snow. It provides +2 Food and +1 Faith, as well as +1 Production when built on (featureless) Snow or Tundra. In addition, Evenki Missionaries and Inquisitors permanently receive the Medic promotion after beginning a turn stationed on one.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_IMPROVEMENT_SENSHI_SHEVENCHEDEK_PEDIA">
+			<Text>The Evenki word for the Shaman’s tent (Shevenchedek) is glossed as the locale where the activity of spirits and totems take place, signaling that the shaman’s tent was not an inert shelter, but a place of spiritual encounter. Whether this encounter took place in an everyday dwelling or in a shevenchedek, a larch post was planted in the center of the structure and symbolized the world tree. The shaman would clamber up the world tree to journey to the upper worlds. His spirit-helpers rested in its branches. As the shaman meditated and fasted, his kinsmen built complex enclosures and totemic posts surrounding the tent.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILD_SENSHI_SHEVENCHEDEK">
+			<Text>Build a [LINK=IMPROVEMENT_SENSHI_SHEVENCHEDEK]Shevenchedek[\LINK]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILD_SENSHI_SHEVENCHEDEK_HELP">
+			<Text>Available at Philosophy, the Shevenchedek may only be built on Forests, Tundra and Snow. It provides +2 Food and +1 Faith, as well as +1 Production when built on (featureless) Snow or Tundra. In addition, Evenki Missionaries and Inquisitors permanently receive the Medic promotion after beginning a turn stationed on one.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILD_SENSHI_SHEVENCHEDEK_REC">
+			<Text>Available at Philosophy, the Shevenchedek may only be built on Forests, Tundra and Snow. It provides +2 Food and +1 Faith, as well as +1 Production when built on (featureless) Snow or Tundra. In addition, Evenki Missionaries and Inquisitors permanently receive the Medic promotion after beginning a turn stationed on one.</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

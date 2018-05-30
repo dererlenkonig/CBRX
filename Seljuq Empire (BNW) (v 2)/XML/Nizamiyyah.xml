@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 9/6/2013 7:11:22 PM -->
+<GameData>
+	<Builds>
+		<Row>
+			<Type>BUILD_NIZAMIYYAH</Type>
+			<PrereqTech>TECH_PHILOSOPHY</PrereqTech>
+			<Time>1000</Time>
+			<ImprovementType>IMPROVEMENT_NIZAMIYYAH</ImprovementType>
+			<Description>Construct a [LINK=IMPROVEMENT_NIZAMIYYAH]Nizamiyyah[\LINK]</Description>
+			<Help>Requires Desert without access to Fresh Water. There may not be two adjacent Nizamiyeh. Gains yields based on the adopted beliefs of the working city's majority Religion (and Pantheon).</Help>
+			<Recommendation>It will increase the output of this tile if a Pantheon and/or Religion is present in the city!</Recommendation>
+			<EntityEvent>ENTITY_EVENT_BUILD</EntityEvent>
+			<OrderPriority>1</OrderPriority>
+			<AltDown>1</AltDown>
+			<IconIndex>0</IconIndex>
+			<IconAtlas>ACTION_DJSH_SELJUQ</IconAtlas>
+		</Row>
+	</Builds>
+	<ArtDefine_StrategicView>
+		<Replace>
+			<StrategicViewType>ART_DEF_IMPROVEMENT_NIZAMIYYAH</StrategicViewType>
+			<TileType>Improvement</TileType>
+			<Asset>Nizamiyyah.dds</Asset>
+		</Replace>
+	</ArtDefine_StrategicView>
+	<Improvements>
+		<Row>
+			<Type>IMPROVEMENT_NIZAMIYYAH</Type>
+			<Description>Nizamiyyah</Description>
+			<Civilopedia>The Nezamiyeh are a group of the medieval institutions of higher education established by Khwaja Nizam al-Mulk in the eleventh century in Iran. The name nizamiyyah derives from his name. Founded at the beginning of the Seljuk empire, these Sunni Islam theological schools are considered to be the model of madrasahs, or Islamic religious schools. Nizamiyyah institutes were the first well organized institutions of higher learning in the Muslim world. The quality of education was the highest in the Islamic world, and they were even renowned in Europe. They were supported financially, politically, and spiritually by the royal establishment and the elite class. Some scholars have suggested that the establishment of the Nizamiyya madrasas was in fact an attempt to thwart the growing influence of another group of Muslims, the Ismailis, in the region. Indeed, Nizam al-Mulk devoted a significant section in his famous Books of Politics to refuting the Ismaili doctrines.</Civilopedia>
+			<ArtDefineTag>ART_DEF_IMPROVEMENT_NIZAMIYYAH</ArtDefineTag>
+			<SpecificCivRequired>true</SpecificCivRequired>
+			<CivilizationType>CIVILIZATION_DJSH_SELJUQ</CivilizationType>
+			<RequiresFlatlands>true</RequiresFlatlands>
+			<NoFreshWater>true</NoFreshWater>
+			<NoTwoAdjacent>true</NoTwoAdjacent>
+			<DestroyedWhenPillaged>false</DestroyedWhenPillaged>
+			<PillageGold>20</PillageGold>
+			<PortraitIndex>2</PortraitIndex>
+			<IconAtlas>CIV_DJSH_SELJUQ_ATLAS</IconAtlas>
+		</Row>
+	</Improvements>
+	<Unit_Builds>
+		<Row>
+			<UnitType>UNIT_WORKER</UnitType>
+			<BuildType>BUILD_NIZAMIYYAH</BuildType>
+		</Row>
+	</Unit_Builds>
+	<Improvement_ValidTerrains>
+		<Row>
+			<ImprovementType>IMPROVEMENT_NIZAMIYYAH</ImprovementType>
+			<TerrainType>TERRAIN_DESERT</TerrainType>
+		</Row>
+	</Improvement_ValidTerrains>
+	<BuildFeatures>
+		<Row>
+			<BuildType>BUILD_NIZAMIYYAH</BuildType>
+			<FeatureType>FEATURE_JUNGLE</FeatureType>
+			<PrereqTech>TECH_BRONZE_WORKING</PrereqTech>
+			<Time>700</Time>
+			<Remove>true</Remove>
+		</Row>
+		<Row>
+			<BuildType>BUILD_NIZAMIYYAH</BuildType>
+			<FeatureType>FEATURE_FOREST</FeatureType>
+			<PrereqTech>TECH_MINING</PrereqTech>
+			<Time>400</Time>
+			<Production>20</Production>
+			<Remove>true</Remove>
+		</Row>
+		<Row>
+			<BuildType>BUILD_NIZAMIYYAH</BuildType>
+			<FeatureType>FEATURE_MARSH</FeatureType>
+			<PrereqTech>TECH_MASONRY</PrereqTech>
+			<Time>600</Time>
+			<Remove>true</Remove>
+		</Row>
+	</BuildFeatures>
+</GameData>

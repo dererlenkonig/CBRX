@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 11/23/2013 1:27:25 PM -->
+<GameData>
+	<Language_en_US>
+		<!-- DIPLOMACY: VANILLA -->
+		<!--First Greeting messages from AI leaders-->
+		<Row Tag="TXT_KEY_LEADER_CBR_TOKHTAMYSH_FIRST_GREETING">
+			<Text>I, Tokhtamysh, descendant of Tuqa-Timur and the mighty Genghis Khan, bid this traveler well in the lands of the Golden Horde. Tread carefully, for we do not welcome weakness here.</Text>
+		</Row>
+		<!--Defeated messages from AI leaders-->
+		<Row Tag="TXT_KEY_LEADER_CBR_TOKHTAMYSH_DEFEATED">
+			<Text>God has forsaken us, and you have bested us. Take good care of this throne.</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

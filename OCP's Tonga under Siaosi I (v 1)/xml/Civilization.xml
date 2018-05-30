@@ -1,0 +1,525 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+  <Civilizations>
+    <Row>
+      <Type>CIVILIZATION_TONGA</Type>
+      <Description>TXT_KEY_CIV_TONGA_DESC</Description>
+      <Civilopedia></Civilopedia>
+      <CivilopediaTag>TXT_KEY_CIV5_TONGA</CivilopediaTag>
+      <Strategy></Strategy>
+      <Playable>1</Playable>
+      <AIPlayable>1</AIPlayable>
+      <ShortDescription>TXT_KEY_CIV_TONGA_SHORT_DESC</ShortDescription>
+      <Adjective>TXT_KEY_CIV_TONGA_ADJECTIVE</Adjective>
+      <DefaultPlayerColor>PLAYERCOLOR_TONGA</DefaultPlayerColor>
+      <ArtDefineTag>ART_DEF_CIVILIZATION_POLYNESIA</ArtDefineTag>
+      <ArtStyleType>ARTSTYLE_POLYNESIAN</ArtStyleType>
+      <ArtStyleSuffix>_MED</ArtStyleSuffix>
+      <ArtStylePrefix>ASIAN</ArtStylePrefix>
+      <DerivativeCiv></DerivativeCiv>
+      <PortraitIndex>0</PortraitIndex>
+      <IconAtlas>TONGA_ATLAS</IconAtlas>
+      <AlphaIconAtlas>TONGA_FLAG</AlphaIconAtlas>
+      <MapImage>TongaMap.dds</MapImage>
+      <DawnOfManQuote>TXT_KEY_CIV5_DAWN_TONGA_TEXT</DawnOfManQuote>
+      <DawnOfManImage>SiaosiDOM.dds</DawnOfManImage>
+      <DawnOfManAudio>AS2D_DOM_SPEECH_TONGA</DawnOfManAudio>
+      <PackageID>0E3751A1F8404E1B9706519BF484E59D</PackageID>
+      <SoundtrackTag></SoundtrackTag>
+    </Row>
+  </Civilizations>
+
+  <Civilization_BuildingClassOverrides>
+    <Row>
+      <CivilizationType>CIVILIZATION_TONGA</CivilizationType>
+      <BuildingClassType>BUILDINGCLASS_MONUMENT</BuildingClassType>
+      <BuildingType>BUILDING_LANGI</BuildingType>
+    </Row>
+  </Civilization_BuildingClassOverrides>
+  <Civilization_CityNames>
+    <Row>
+      <CivilizationType>CIVILIZATION_TONGA</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_TONGA_0</CityName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_TONGA</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_TONGA_1</CityName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_TONGA</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_TONGA_2</CityName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_TONGA</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_TONGA_3</CityName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_TONGA</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_TONGA_4</CityName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_TONGA</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_TONGA_5</CityName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_TONGA</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_TONGA_6</CityName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_TONGA</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_TONGA_7</CityName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_TONGA</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_TONGA_8</CityName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_TONGA</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_TONGA_9</CityName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_TONGA</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_TONGA_10</CityName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_TONGA</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_TONGA_11</CityName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_TONGA</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_TONGA_12</CityName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_TONGA</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_TONGA_13</CityName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_TONGA</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_TONGA_14</CityName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_TONGA</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_TONGA_15</CityName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_TONGA</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_TONGA_16</CityName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_TONGA</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_TONGA_17</CityName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_TONGA</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_TONGA_18</CityName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_TONGA</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_TONGA_19</CityName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_TONGA</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_TONGA_20</CityName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_TONGA</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_TONGA_21</CityName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_TONGA</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_TONGA_22</CityName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_TONGA</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_TONGA_23</CityName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_TONGA</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_TONGA_24</CityName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_TONGA</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_TONGA_25</CityName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_TONGA</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_TONGA_26</CityName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_TONGA</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_TONGA_27</CityName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_TONGA</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_TONGA_28</CityName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_TONGA</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_TONGA_29</CityName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_TONGA</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_TONGA_30</CityName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_TONGA</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_TONGA_31</CityName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_TONGA</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_TONGA_32</CityName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_TONGA</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_TONGA_33</CityName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_TONGA</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_TONGA_34</CityName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_TONGA</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_TONGA_35</CityName>
+    </Row>
+  </Civilization_CityNames>
+  <!-- Civilization_DisableTechs -->
+  <Civilization_FreeBuildingClasses>
+    <Row>
+      <CivilizationType>CIVILIZATION_TONGA</CivilizationType>
+      <BuildingClassType>BUILDINGCLASS_PALACE</BuildingClassType>
+    </Row>
+  </Civilization_FreeBuildingClasses>
+  <Civilization_FreeTechs>
+    <Row>
+      <CivilizationType>CIVILIZATION_TONGA</CivilizationType>
+      <TechType>TECH_AGRICULTURE</TechType>
+    </Row>
+  </Civilization_FreeTechs>
+  <Civilization_FreeUnits>
+    <Row>
+      <CivilizationType>CIVILIZATION_TONGA</CivilizationType>
+      <UnitClassType>UNITCLASS_SETTLER</UnitClassType>
+      <UnitAIType>UNITAI_SETTLE</UnitAIType>
+      <Count>1</Count>
+    </Row>
+  </Civilization_FreeUnits>
+  <Civilization_Leaders>
+    <Row>
+      <CivilizationType>CIVILIZATION_TONGA</CivilizationType>
+      <LeaderheadType>LEADER_SIAOSI</LeaderheadType>
+    </Row>
+  </Civilization_Leaders>
+  <Civilization_Religions>
+    <Row>
+      <CivilizationType>CIVILIZATION_TONGA</CivilizationType>
+      <ReligionType>RELIGION_PROTESTANTISM</ReligionType>
+    </Row>
+  </Civilization_Religions>
+  <Civilization_SpyNames>
+    <Row>
+      <CivilizationType>CIVILIZATION_TONGA</CivilizationType>
+      <SpyName>TXT_KEY_SPY_NAME_TONGA_0</SpyName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_TONGA</CivilizationType>
+      <SpyName>TXT_KEY_SPY_NAME_TONGA_1</SpyName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_TONGA</CivilizationType>
+      <SpyName>TXT_KEY_SPY_NAME_TONGA_2</SpyName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_TONGA</CivilizationType>
+      <SpyName>TXT_KEY_SPY_NAME_TONGA_3</SpyName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_TONGA</CivilizationType>
+      <SpyName>TXT_KEY_SPY_NAME_TONGA_4</SpyName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_TONGA</CivilizationType>
+      <SpyName>TXT_KEY_SPY_NAME_TONGA_5</SpyName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_TONGA</CivilizationType>
+      <SpyName>TXT_KEY_SPY_NAME_TONGA_6</SpyName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_TONGA</CivilizationType>
+      <SpyName>TXT_KEY_SPY_NAME_TONGA_7</SpyName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_TONGA</CivilizationType>
+      <SpyName>TXT_KEY_SPY_NAME_TONGA_8</SpyName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_TONGA</CivilizationType>
+      <SpyName>TXT_KEY_SPY_NAME_TONGA_9</SpyName>
+    </Row>
+  </Civilization_SpyNames>
+  <Civilization_UnitClassOverrides>
+    <Row>
+      <CivilizationType>CIVILIZATION_TONGA</CivilizationType>
+      <UnitClassType>UNITCLASS_RIFLEMAN</UnitClassType>
+      <UnitType>UNIT_ROYAL_MARINE_INFANTRY</UnitType>
+    </Row>
+  </Civilization_UnitClassOverrides>
+  <!-- Civilization_Start_Along_Ocean -->
+	<Civilization_Start_Along_Ocean>
+		<Row>
+			<CivilizationType>CIVILIZATION_TONGA</CivilizationType>
+			<StartAlongOcean>1</StartAlongOcean>
+		</Row>
+	</Civilization_Start_Along_Ocean>
+  <!-- Civilization_Start_Along_River -->
+  <!-- Civilization_Start_Region_Avoid -->
+
+  <PlayerColors>
+    <Row>
+      <Type>PLAYERCOLOR_TONGA</Type>
+      <PrimaryColor>COLOR_PLAYER_TONGA_ICON</PrimaryColor>
+      <SecondaryColor>COLOR_PLAYER_TONGA_BACKGROUND</SecondaryColor>
+      <TextColor>COLOR_PLAYER_WHITE_TEXT</TextColor>
+    </Row>
+  </PlayerColors>
+  <Colors>
+    <Row>
+      <Type>COLOR_PLAYER_TONGA_ICON</Type>
+      <Red>0.85</Red>
+      <Green>0</Green>
+      <Blue>0.46</Blue>
+      <Alpha>1.0</Alpha>
+    </Row>
+  </Colors>
+  <Colors>
+    <Row>
+      <Type>COLOR_PLAYER_TONGA_BACKGROUND</Type>
+      <Red>1</Red>
+      <Green>1</Green>
+      <Blue>1</Blue>
+      <Alpha>1.0</Alpha>
+    </Row>
+  </Colors>
+
+  <Language_en_US>
+    <Row Tag="TXT_KEY_CIV_TONGA_DESC">
+      <Text>Kingdom of Tonga</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CIV5_TONGA_FACTOID_HEADING">
+      <Text>Factoids</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CIV5_TONGA_FACTOID_TEXT">
+      <Text>Tonga is one of only a few nations to have never relinquished their sovereignity to a foreign power.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CIV5_TONGA_HEADING_1">
+      <Text>History</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CIV5_TONGA_HEADING_2">
+      <Text>Terrain and Climate</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CIV5_TONGA_HEADING_3">
+      <Text>Tongan Origins</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CIV5_TONGA_HEADING_4">
+      <Text>Tongans around the World</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CIV5_TONGA_HEADING_5">
+      <Text>Unification</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CIV5_TONGA_HEADING_6">
+      <Text>Vava'u Code</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CIV5_TONGA_HEADING_7">
+      <Text>The Friendly Isles</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CIV5_TONGA_HEADING_8">
+      <Text>Tongan Culture</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CIV5_TONGA_HEADING_9">
+      <Text>Tongan Religion</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CIV5_TONGA_TEXT_1">
+      <Text>Tonga's history begins with it's native people. Known as the Lapita culture, they reached the islands of Tonga around 800 B.C. and settled Tonga's oldest city, Nukuleka. They would form the tribes of Tonga. One of these tribes, the Tu'i Tonga, would form the Tu'i Tonga empire. Modern Tonga, however, is derived from the Tu'i Kanokupolu. In the early 1600s, the Tongan people first met European explorers. European missionaries would later come to Taufa'ahua's aid when he united the islands and westernized the government.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CIV5_TONGA_TEXT_2">
+      <Text>Tonga is an island nation, the western half volcanic, and the eastern half is non-volcanic. Due to some of the islands' volcanic nature, they have rich soil, which have been use for farming various crops. New islands have been reported to sprout from underwater volcanic activity.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CIV5_TONGA_TEXT_3">
+      <Text>Modern Tongan ancestry is a mixture of the native culture and European settlers. The native culture is thought to have been derived from the Lapita culture, who arived around 1500-1000 B.C.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CIV5_TONGA_TEXT_4">
+      <Text>Tongans are not particularly found across much of the world. Starting in the 1970s, Tongans began to migrate around the world more. This includes Tongans moving to Australia, New Zealand, the United Kingdom, Canada, France, and the United States.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CIV5_TONGA_TEXT_5">
+      <Text>In the late 1800s, Tonga underwent a series of wars by leader Siaosi, who meant to unify the islands. A skilled Warrior, Siaosi successfully unified the islands within his long lifetime, and showed remarkable political skills in keeping the islands unified. He set in place the basis for the nation's first constitution, and the island nation was officially born.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CIV5_TONGA_TEXT_6">
+      <Text>The Vava'u code, formed in 1839, was the country's first ever written set of laws, and would later inspire the nation's first constitution. Written by Siaosi Tupou I with the help of Methodist missionaries, it instituted basic human rights and moral guidelines inspired by Siaosi's religious beliefs. Furthermore, it relinquished the power of the chiefs, and Tongans were given a compulsory day off on Sundays.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CIV5_TONGA_TEXT_7">
+      <Text>Tonga was known as being very friendly to it's European visitors. As such, the nickname "The Friendly Isles" arose in reference to the islands of Tonga. The name is said to have first occured with James Cook's meeting with the Tongans during a festival, where he partook in activities. According to William Mariner, an Englishman adopted by the Tongans, the chiefs had originally planned to kill Cook, but could not agree on a plan.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CIV5_TONGA_TEXT_8">
+      <Text>Tongan culture is found all around the nation of Tonga. Modern Tonga is still very much alike it's primitive self, but with a bit of European stylings added in. The arts include many different types of crafts, including Mat-weaving and canoe building. Traditional music is not listened to too much in Tonga, but it has it's prevalence in the culture. Tonga also has a unique cuisine, with a diet mainly consisting of fruits and vegetables. Fish is also a staple of a Tongan diet.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CIV5_TONGA_TEXT_9">
+      <Text>Tonga's official religion is a branch of Methodist Protestantism. It is the majority religion of Tonga. Early Tongan religion isn't really known.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CIV5_TONGA_TITLE">
+      <Text>Kingdom of Tonga</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CIV_TONGA_SHORT_DESC">
+      <Text>Tonga</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CIV_TONGA_ADJECTIVE">
+      <Text>Tongan</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CIV5_DAWN_TONGA_TEXT">
+      <Text>
+		  Blessings of God to you, Taufa’ahua. You inherited a kingdom of conflict upon the death of your father. Yet you are cunning and ambitious, and a leader like no other the archipelago nation has ever seen. You launched wars against the surrounding nations, and proceeded to set your legacy in stone. In 1852, you finally became the undisputed leader of Tonga, uniting the islands, abolishing the serfdom and publishing the Vava’u code, forming the basis of the nation’s first constitution. In 1875, the constitution officially made Tonga a kingdom whole, before your death at the age of 96.
+		  [NEWLINE][NEWLINE]King George, due to you, Tonga faced a different path from many other Polynesian nations, and foreign powers saw to you as a leader of their own might. Your people need you to prove their kingdom to the world. Can you build a kingdom to stretch the seas? Can you show the world the power of the Tongan people? Can you build a civilization that can stand the tests of time?
+	  </Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_TONGA_0">
+      <Text>Nuku'Alofa</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_TONGA_1">
+      <Text>Neiafu</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_TONGA_2">
+      <Text>Mu'a</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_TONGA_3">
+      <Text>Tofoa-Koloua</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_TONGA_4">
+      <Text>Haveluloto</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_TONGA_5">
+      <Text>Vaini</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_TONGA_6">
+      <Text>Pangai</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_TONGA_7">
+      <Text>'Ohonua</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_TONGA_8">
+      <Text>Hihifo</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_TONGA_9">
+      <Text>Kahoua</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_TONGA_10">
+      <Text>Houma</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_TONGA_11">
+      <Text>Niutoua</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_TONGA_12">
+      <Text>Lotofoa</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_TONGA_13">
+      <Text>Nukuleka</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_TONGA_14">
+      <Text>Koula</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_TONGA_15">
+      <Text>Holopeka</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_TONGA_16">
+      <Text>Muitoa</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_TONGA_17">
+      <Text>Pukotala</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_TONGA_18">
+      <Text>Falehau</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_TONGA_19">
+      <Text>Fangale'ounga</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_TONGA_20">
+      <Text>Tu'anuku</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_TONGA_21">
+      <Text>Mango</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_TONGA_22">
+      <Text>Angaha</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_TONGA_23">
+      <Text>Kotu</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_TONGA_24">
+      <Text>Ha'afeva</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_TONGA_25">
+      <Text>Matuku</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_TONGA_26">
+      <Text>Tungua</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_TONGA_27">
+      <Text>Okoa</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_TONGA_28">
+      <Text>Ofu</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_TONGA_29">
+      <Text>'O'ua</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_TONGA_30">
+      <Text>Fonoifua</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_TONGA_31">
+      <Text>Nomuka</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_TONGA_32">
+      <Text>Vaipoa</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_TONGA_33">
+      <Text>Tafahi</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_TONGA_34">
+      <Text>Hunga</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_TONGA_35">
+      <Text>Taoa</Text>
+    </Row>
+    <Row Tag="TXT_KEY_SPY_NAME_TONGA_0">
+      <Text>'Akilisi</Text>
+    </Row>
+    <Row Tag="TXT_KEY_SPY_NAME_TONGA_1">
+      <Text>Salote</Text>
+      <Gender>feminine</Gender>
+    </Row>
+    <Row Tag="TXT_KEY_SPY_NAME_TONGA_2">
+      <Text>Sione</Text>
+    </Row>
+    <Row Tag="TXT_KEY_SPY_NAME_TONGA_3">
+      <Text>'Elisiva</Text>
+      <Gender>feminine</Gender>
+    </Row>
+    <Row Tag="TXT_KEY_SPY_NAME_TONGA_4">
+      <Text>Siosateki</Text>
+    </Row>
+    <Row Tag="TXT_KEY_SPY_NAME_TONGA_5">
+      <Text>Fifita</Text>
+      <Gender>feminine</Gender>
+    </Row>
+    <Row Tag="TXT_KEY_SPY_NAME_TONGA_6">
+      <Text>Viliami</Text>
+    </Row>
+    <Row Tag="TXT_KEY_SPY_NAME_TONGA_7">
+      <Text>Solomone</Text>
+    </Row>
+    <Row Tag="TXT_KEY_SPY_NAME_TONGA_8">
+      <Text>Taufa'ahau</Text>
+    </Row>
+    <Row Tag="TXT_KEY_SPY_NAME_TONGA_9">
+		<Text>Feleti</Text>
+    </Row>
+  </Language_en_US>
+</GameData>

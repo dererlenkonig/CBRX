@@ -1,0 +1,140 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mod id="50b0b22e-7600-4a84-8822-6a180a11d6d4" version="2">
+  <Properties>
+    <Name>The Canton Pirates - Ching Shih</Name>
+    <Stability>Alpha</Stability>
+    <Teaser>Adds the Canton Pirates Civilization to the game
+
+Update: NEW UA and ART and MUSIC
+
+
+[img]http://i.imgur.com/JVy4jFy.png[/</Teaser>
+    <Description>Adds the Canton Pirates Civilization to the game
+VERSION 2
+Update: NEW UA and ART and MUSIC and AI
+
+
+[img]http://i.imgur.com/JVy4jFy.png[/img]
+
+Mod Design, Lua, XML - Scissor_Fingers
+Leader and Map Art - TPangolin
+Icon Art, Unit Flag, DoM, Atlases - DarthStarKiller
+Lua, SQL, Events and Decisions - Chrisy15
+Lua (Unique Ability) - LeeS
+Beta Testing- Syr
+Debug helpers - LeeS, The Specialize
+
+WAR Theme - Wong Fei-Hong - Once Upon A Time In China Theme (Cantonese Lyrics)
+
+PEACE Theme - Cantonese Music Medley (Hong Kong Chinese Orchestra)</Description>
+    <Authors>Scissor_Fingers</Authors>
+    <SpecialThanks>TPangolin, DarthStarKiller, Chrisy15, LeeS, Syr,The Specialize</SpecialThanks>
+    <HideSetupGame>0</HideSetupGame>
+    <AffectsSavedGames>1</AffectsSavedGames>
+    <MinCompatibleSaveVersion>0</MinCompatibleSaveVersion>
+    <SupportsSinglePlayer>1</SupportsSinglePlayer>
+    <SupportsMultiplayer>1</SupportsMultiplayer>
+    <SupportsHotSeat>1</SupportsHotSeat>
+    <SupportsMac>1</SupportsMac>
+    <ReloadAudioSystem>1</ReloadAudioSystem>
+    <ReloadLandmarkSystem>1</ReloadLandmarkSystem>
+    <ReloadStrategicViewSystem>0</ReloadStrategicViewSystem>
+    <ReloadUnitSystem>1</ReloadUnitSystem>
+  </Properties>
+  <Dependencies />
+  <References />
+  <Blocks />
+  <Files>
+    <File md5="1B56C0C16EF433B3A11C517ED54E00C1" import="1">Art/AlphaChing128.dds</File>
+    <File md5="A57A8307E271FB37B1BDA35F2B87C801" import="1">Art/AlphaChing16.dds</File>
+    <File md5="60F247286220AF883F7F1886EBDBAF91" import="1">Art/AlphaChing24.dds</File>
+    <File md5="D17499BBAEE4B476A3C27E6A7F2B69E6" import="1">Art/AlphaChing256.dds</File>
+    <File md5="EADB0B24F332FDF2DE2FE56874C26385" import="1">Art/AlphaChing32.dds</File>
+    <File md5="91337FC94709045B6A0BE4050F25BF5E" import="1">Art/AlphaChing45.dds</File>
+    <File md5="39986FE9FCAF638102B896D5A3797C07" import="1">Art/AlphaChing48.dds</File>
+    <File md5="1E394FADDD0FDC438C6D4FCD3CA62A23" import="1">Art/AlphaChing64.dds</File>
+    <File md5="41547E8766D6611C7699EFC70D5390DB" import="1">Art/AlphaChing80.dds</File>
+    <File md5="E1E33A10A4839E4455BE4BDC13CC3AD5" import="1">Art/ChingAtlas16.dds</File>
+    <File md5="1BF8D46589825EB1CB69DD5F74703B6A" import="1">Art/ChingAtlas24.dds</File>
+    <File md5="250BE2ABC3E9E118BECAA8F21FF537D1" import="1">Art/ChingAtlas48.dds</File>
+    <File md5="87A18A7335E21C084A80BE0311C81EBB" import="1">Art/ChingMap.dds</File>
+    <File md5="CCB7035FF8F3EE83DCC5999AD5264E96" import="1">Art/flag_junk.dds</File>
+    <File md5="5A580836015F9C850AB35F55E2B6E160" import="1">Art/Unit Model/WarJunk.fxsxml</File>
+    <File md5="9055CFE68543E265F5F097FD57516888" import="1">Art/Unit Model/WarJunk.gr2</File>
+    <File md5="7038C2D91B8CFDBE084AE650311D0165" import="1">Art/Unit Model/WarJunk_diff.dds</File>
+    <File md5="A0259BA1FB1B544F89BBD5A07BE8B90F" import="0">Art/Unit Model/WarJunk_sref.dds</File>
+    <File md5="8884E0FB6DC6640F1E33634FF8A94BBD" import="0">Dialogue/DiplomacyResponses.xml</File>
+    <File md5="933E2FA1FC27F424512E2B0EDE8425D6" import="0">LUA/Gambling House.lua</File>
+    <File md5="9D1D4A3C2EDE594A156B2B2C29799251" import="0">LUA/GetUnitsInAdjacentPlotsWithPromotion.lua</File>
+    <File md5="8060D670E563FF2CCF611E27C22ABAE2" import="0">LUA/Red Junk.lua</File>
+    <File md5="707626691F7A2E6D651B7FED6F0C3F59" import="0">LUA/San Tiao Unique Ability.lua</File>
+    <File md5="EB52EC06F0E80D80DCA596D3152BB8F0" import="0">ModSupport/C15_Pirate_DecisionDefines.sql</File>
+    <File md5="1933CEC7F63F5491FEE030B66497F07B" import="1">ModSupport/C15_Pirate_Decisions.lua</File>
+    <File md5="132ECDE012F516481DFCA68D0384C24C" import="0">ModSupport/MasterSupportFile.sql</File>
+    <File md5="5244308719C5B41D37E35BCE6F354D41" import="1">ModSupport/PlotIterators.lua</File>
+    <File md5="7E1E2E23230A987A7AB77E49227595F8" import="1">Music/ChingPeace.mp3</File>
+    <File md5="A1D5B28D4C8F9E514FCA0F8AAC289309" import="1">Music/ChingWar.mp3</File>
+    <File md5="F9F0409B4720A2385652EB8351F2731A" import="1">Music/Music rules.xml</File>
+    <File md5="11156BA85AD1278F109802201E228376" import="1">New_Art/Atlas128.dds</File>
+    <File md5="128D9E594BDA2A44606F65F7ECFCCA9C" import="1">New_Art/Atlas256.dds</File>
+    <File md5="F93167F1DE9F7550ABC13101729FAF2F" import="1">New_Art/Atlas32.dds</File>
+    <File md5="3C31F1DEF47E531E2EF58F9848E53564" import="1">New_Art/Atlas45.dds</File>
+    <File md5="61FAD7D0F75B9F36B5C0D472A0C98F84" import="1">New_Art/Atlas64.dds</File>
+    <File md5="F2145832CE53BFD56275F9BC35AE12E3" import="1">New_Art/ChingLeader.dds</File>
+    <File md5="8BE906D3E9627758EF59384B8EFEC2E9" import="1">New_Art/Ching_DOM.dds</File>
+    <File md5="E3C42379D59B5F1808126F2E3E1CC006" import="1">New_Art/NewAtlas80.dds</File>
+    <File md5="412BEDB9D2B391E3DD510002AEF2F7EE" import="0">XML/Buildings.xml</File>
+    <File md5="8F6E0CCC5F48897495523BADEBA97568" import="0">XML/Canton Promotions.xml</File>
+    <File md5="0FE5527F224AD543D1EACFC80707F3EE" import="1">XML/Canton_Leaderhead.xml</File>
+    <File md5="BB7B9CA7143678EFF49DE42E4856A873" import="0">XML/Civilization.xml</File>
+    <File md5="DC9534CDADA90377412CBD255154ED61" import="0">XML/Dummy.xml</File>
+    <File md5="B71585ABE036902BA295535C2A5BDE99" import="0">XML/IconTextureAtlas.xml</File>
+    <File md5="EA6A81D54E1C1795E827AF30447F7FAB" import="0">XML/Leader.xml</File>
+    <File md5="50AD27F613687843BB5610905B8C8FF8" import="0">XML/Trait.xml</File>
+    <File md5="66EB8CA260775599DC4EC3F3B35D2552" import="0">XML/Units.xml</File>
+    <File md5="587DFC59EFA9F5A4D279478087B503DF" import="0">XML/WarJunk.sql</File>
+  </Files>
+  <Actions>
+    <OnModActivated>
+      <UpdateDatabase>XML/Buildings.xml</UpdateDatabase>
+      <UpdateDatabase>Dialogue/DiplomacyResponses.xml</UpdateDatabase>
+      <UpdateDatabase>ModSupport/MasterSupportFile.sql</UpdateDatabase>
+      <UpdateDatabase>Music/Music rules.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Canton Promotions.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Civilization.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Dummy.xml</UpdateDatabase>
+      <UpdateDatabase>XML/IconTextureAtlas.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Leader.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Trait.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Units.xml</UpdateDatabase>
+      <UpdateDatabase>XML/WarJunk.sql</UpdateDatabase>
+    </OnModActivated>
+  </Actions>
+  <EntryPoints>
+    <EntryPoint type="InGameUIAddin" file="LUA/Gambling House.lua">
+      <Name>gamblinglua</Name>
+      <Description>
+      </Description>
+    </EntryPoint>
+    <EntryPoint type="InGameUIAddin" file="LUA/GetUnitsInAdjacentPlotsWithPromotion.lua">
+      <Name>Promotion Finder Lua</Name>
+      <Description>
+      </Description>
+    </EntryPoint>
+    <EntryPoint type="InGameUIAddin" file="LUA/Red Junk.lua">
+      <Name>junk lua</Name>
+      <Description>
+      </Description>
+    </EntryPoint>
+    <EntryPoint type="InGameUIAddin" file="LUA/San Tiao Unique Ability.lua">
+      <Name>santiao lua</Name>
+      <Description>
+      </Description>
+    </EntryPoint>
+    <EntryPoint type="InGameUIAddin" file="ModSupport/C15_Pirate_Decisions.lua">
+      <Name>decision lua</Name>
+      <Description>
+      </Description>
+    </EntryPoint>
+  </EntryPoints>
+</Mod>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 3/16/2018 5:03:41 PM -->
+<GameData>
+	<Language_en_US> 
+	   <Row Tag="TXT_KEY_RESOURCE_JEPR">
+		   <Text>Jepr</Text>
+	   </Row>
+	   <Row Tag="TXT_KEY_CIV5_RESOURCE_JEPR_TEXT">
+		   <Text>Jepr is the native Selknam name for Guacano meat. It was one of the staple foods of the Selknam people.</Text>
+	   </Row>
+	</Language_en_US>
+</GameData>

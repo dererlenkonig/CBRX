@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<BuildingClasses>
+		<Row>
+			<Type>BUILDINGCLASS_DUMMY_LS_VIKING_DEF</Type>
+		</Row>
+		<Row>
+			<Type>BUILDINGCLASS_DUMMY_LS_VIKING_DEF_50</Type>
+		</Row>
+	</BuildingClasses>
+	<Buildings>
+		<Row>
+			<Type>BUILDING_DUMMY_LS_VIKING_DEF</Type>
+			<BuildingClass>BUILDINGCLASS_DUMMY_LS_VIKING_DEF</BuildingClass>
+			<Cost>-1</Cost>
+			<FaithCost>-1</FaithCost>
+			<PrereqTech>NULL</PrereqTech>
+			<Defense>-25</Defense>
+			<GreatWorkCount>-1</GreatWorkCount>
+			<NukeImmune>true</NukeImmune>
+			<NeverCapture>true</NeverCapture>
+		</Row>
+		<Row>
+			<Type>BUILDING_DUMMY_LS_VIKING_DEF_50</Type>
+			<BuildingClass>BUILDINGCLASS_DUMMY_LS_VIKING_DEF_50</BuildingClass>
+			<Cost>-1</Cost>
+			<FaithCost>-1</FaithCost>
+			<PrereqTech>NULL</PrereqTech>
+			<Defense>-35</Defense>
+			<GreatWorkCount>-1</GreatWorkCount>
+			<NukeImmune>true</NukeImmune>
+			<NeverCapture>true</NeverCapture>
+		</Row>
+	</Buildings>
+</GameData>

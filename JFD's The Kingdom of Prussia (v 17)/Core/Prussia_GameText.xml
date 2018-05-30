@@ -1,0 +1,256 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 11/23/2013 1:27:25 PM -->
+<GameData>
+	<Language_en_US>
+		<!--PRUSSIA-->
+		<Row Tag="TXT_KEY_CIV_JFD_PRUSSIA_ADJECTIVE">
+			<Text>Prussian</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_JFD_PRUSSIA_DESC">
+			<Text>Prussian Empire</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_JFD_PRUSSIA_SHORT_DESC">
+			<Text>Prussia</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_JFD_PRUSSIA_HEADING_1">
+			<Text>History</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_JFD_PRUSSIA_TEXT_1">
+			<Text>Prussia was a historic state originating out of the Duchy of Prussia and the Margraviate of Brandenburg, and centered on the region of Prussia. For centuries, the House of Hohenzollern ruled Prussia, successfully expanding its size by way of an unusually well-organised and effective army. Prussia, with its capital in Königsberg and from 1701 moved to Berlin, shaped the history of Germany. In 1871, German states united in creating the German Empire under Prussian leadership. In November 1918, the monarchies were abolished and the nobility lost its political power during the German Revolution of 1918–19. The Kingdom of Prussia was thus abolished in favour of a republic—the Free State of Prussia, a state of Germany from 1918 until 1933. From 1933, Prussia lost its independence as a result of the Prussian coup, when the Nazi regime was successfully establishing its "Gleichschaltung" laws in pursuit of a unitary state. With the end of the Nazi regime, the division of Germany into allied-occupation zones and the separation of its territories east of the Oder–Neisse line, which were incorporated into Poland and the Soviet Union, the State of Prussia had ceased de facto to exist in 1945. De jure Prussia existed until its formal liquidation by the Allied Control Council Enactment No. 46 of 25 February 1947.[NEWLINE][NEWLINE]The name Prussia derives from the Old Prussians. In the 13th century, the Teutonic Knights—an organized Catholic medieval military order of German crusaders—conquered the lands inhabited by them. In 1308, the Teutonic Knights conquered the formerly Polish region of Pomerelia with Gdańsk (Danzig). Their monastic state was mostly Germanised through immigration from central and western Germany and in the south, it was Polonised by settlers from Masovia. The Second Peace of Thorn (1466) split Prussia into the western Royal Prussia, a province of Poland, and the eastern part, from 1525 called the Duchy of Prussia, a fief of the Crown of Poland up to 1657. The union of Brandenburg and the Duchy of Prussia in 1618 led to the proclamation of the Kingdom of Prussia in 1701.[NEWLINE][NEWLINE]Prussia entered the ranks of the great powers shortly after becoming a kingdom, and exercised most influence in the 18th and 19th centuries. During the 18th century it had a major say in many international affairs under the reign of Frederick the Great. During the 19th century, Chancellor Otto von Bismarck united the German principalities into a "Lesser Germany" which excluded the Austrian Empire.[NEWLINE][NEWLINE]At the Congress of Vienna (1814–15), which redrew the map of Europe following Napoleon's defeat, Prussia acquired a large section of north western Germany, including the coal-rich Ruhr. The country then grew rapidly in influence economically and politically, and became the core of the North German Confederation in 1867, and then of the German Empire in 1871. The Kingdom of Prussia was now so large and so dominant in the new Germany that Junkers and other Prussian élites identified more and more as Germans and less as Prussians.[NEWLINE][NEWLINE]The Kingdom ended in 1918. In the Weimar Republic the state of Prussia lost nearly all of its legal and political importance following the 1932 coup led by Franz von Papen. East Prussia lost all of its German population after 1945, as Poland and the Soviet Union absorbed its territory and expelled most of its inhabitants.[NEWLINE][NEWLINE]From Wikipedia.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_JFD_PRUSSIA_FACTOID_HEADING">
+			<Text>Factoids</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_JFD_PRUSSIA_FACTOID_TEXT">
+			<Text>The Prussians were reputed for their well-disciplined and highly formidable military. Accordingly, Frederick the Great is known as saying of Prussia, "[Prussia is] not a country with an army, but an army with a country."</Text>
+		</Row>
+		<!--Cities-->
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_PRUSSIA_01">
+			<Text>Konigsberg</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_PRUSSIA_02">
+			<Text>Berlin</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_PRUSSIA_03">
+			<Text>Potsdam</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_PRUSSIA_04">
+			<Text>Magdeburg</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_PRUSSIA_05">
+			<Text>Frankfurt</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_PRUSSIA_06">
+			<Text>Danzig</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_PRUSSIA_07">
+			<Text>Stettin</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_PRUSSIA_08">
+			<Text>Elbing</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_PRUSSIA_09">
+			<Text>Allenstein</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_PRUSSIA_10">
+			<Text>Marienburg</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_PRUSSIA_11">
+			<Text>Thorn</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_PRUSSIA_12">
+			<Text>Posen</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_PRUSSIA_13">
+			<Text>Breslau</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_PRUSSIA_14">
+			<Text>Marienwerder</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_PRUSSIA_15">
+			<Text>Kolberg</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_PRUSSIA_16">
+			<Text>Kustrin</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_PRUSSIA_17">
+			<Text>Essen</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_PRUSSIA_18">
+			<Text>Kulm</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_PRUSSIA_19">
+			<Text>Koblenz</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_PRUSSIA_20">
+			<Text>Memel</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_PRUSSIA_21">
+			<Text>Heilsberg</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_PRUSSIA_22">
+			<Text>Brieg</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_PRUSSIA_23">
+			<Text>Graudenz</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_PRUSSIA_24">
+			<Text>Luckau</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_PRUSSIA_25">
+			<Text>Tilsit</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_PRUSSIA_26">
+			<Text>Braunsberg</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_PRUSSIA_27">
+			<Text>Landsberg</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_PRUSSIA_28">
+			<Text>Cottbus</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_PRUSSIA_29">
+			<Text>Hannover</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_PRUSSIA_30">
+			<Text>Charlottenburg</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_PRUSSIA_31">
+			<Text>Cleves</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_PRUSSIA_32">
+			<Text>Sigmaringen</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_PRUSSIA_33">
+			<Text>Preussisch-Eylau</Text>
+		</Row>
+		<!--Spies-->
+		<Row Tag="TXT_KEY_SPY_NAME_JFD_PRUSSIA_9">
+			<Text>Anno</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_JFD_PRUSSIA_8">
+			<Text>Poppo</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_JFD_PRUSSIA_7">
+			<Text>Gunther</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_JFD_PRUSSIA_6">
+			<Text>Gottfried</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_JFD_PRUSSIA_5">
+			<Text>Karl</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_JFD_PRUSSIA_4">
+			<Text>Martin</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_JFD_PRUSSIA_3">
+			<Text>Hermann</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_JFD_PRUSSIA_2">
+			<Text>Otto</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_JFD_PRUSSIA_1">
+			<Text>Heinrich</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_JFD_PRUSSIA_0">
+			<Text>Konrad</Text>
+		</Row>
+		<!--FREDERICK-->
+		<Row Tag="TXT_KEY_LEADER_JFD_FREDERICK_DESC">
+			<Text>Frederick</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_DOM_JFD_FREDERICK_TEXT">
+			<Text>Honour to you, O' brilliant and tactful Frederick the Great. You are the King of Prussia, a state conceived in piety and bloodshed, but elevated to the heights of power by her exceptional skill on the battlefield. Celebrated for your military genius and your adherence to the principles of the enlightenment, your victories against Austria and Poland would carve for Prussia a place amongst the great powers of Europe.[NEWLINE][NEWLINE]Most enlightened King, Prussia's military glory once more awaits. Can you march her soldiers into battle and return triumphant against all manner of foe? Can you make Prussia a bastion of liberty and good government? Can you build a civilization that will stand the test of time?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JFD_FREDERICK_HEADING_1">
+			<Text>History</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JFD_FREDERICK_TEXT_1">
+			<Text>Frederick was born to Frederick William I, the tyrannical and cultured King of Prussia. The king held his son in great contempt, despising him for his lack of interest in leadership and war; the younger Frederick instead preferred to study literature and the arts. At the age of 18 Frederick attempted to flee to England, but he was captured and brought back to his extremely angry father, who forced him to watch the beheading of his close friend and accomplice, Lieutenant Katz. He apparently was able to get back into his father's good graces, and several years later he married a German noblewoman at his father's request.[NEWLINE][NEWLINE]For the next several years Frederick enjoyed the life of a wealthy man of letters. He maintained an active correspondence with various scholars from around Europe, including the brilliant French writer; Voltaire. He wrote "Anti-Machiavel," a lively refutation of Machiavelli's; "The Prince." Frederick assumed the throne of Prussia upon his father's death in 1740. [NEWLINE][NEWLINE]Once in power, Frederick showed himself to be both a ruthless pragmatist and a brilliant campaigner. Seeking to increase the size of his empire, over the next 23 years he fought a series of wars against his neighbors, notably Austria, who was often allied with Russia and France. With the support of England he won a series of significant battles against his foes, but he was eventually worn down and soundly defeated, and Berlin was occupied by an allied Austrian-Russian army. [NEWLINE][NEWLINE]Reportedly on the verge of suicide, Frederick was saved by the timely death of the Russian Tsarina, who was replaced by the pro-Prussian Peter III. Facing the combined power of Russia and Prussia, Austria was forced to accede to Frederick's demands and give up all claims to Upper and Lower Silesia. The two European monarchs then dismembered Poland, making Prussia the most powerful force in Europe for many years to come. [NEWLINE][NEWLINE]Domestically, Frederick was the model of an "enlightened despot." He instituted important legal and penal reforms, created new industries, improved education, and accomplished internal improvements such as drainage projects, roads, and canals. He improved the lot of his own serfs (but did nothing to curtail the nobility's power over them).[NEWLINE][NEWLINE]During his rule Frederick maintained his friendship with the enlightened men of Europe. His midnight soirees in Potsdam were famous for the great men they attracted. Frederick was quite famous for his sharp wit and caustic tongue; he more than held his own in their company.[NEWLINE][NEWLINE]Frederick died in 1786, leaving Prussia more powerful and prosperous than when he first gained power. Upon his death, Frederick's nephew Frederick William II inherited the throne of Prussia.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JFD_FREDERICK_LIVED">
+			<Text>1712 - 1786 AD</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JFD_FREDERICK_NAME">
+			<Text>Frederick the Great</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JFD_FREDERICK_SUBTITLE">
+			<Text>Leader of Prussia</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JFD_FREDERICK_TITLES_1">
+			<Text>King of Prussia[NEWLINE]Elector of Brandenburg</Text>
+		</Row>
+		<!--KONIGRATZER MARCH-->
+		<Row Tag="TXT_KEY_TRAIT_JFD_PRUSSIA_SHORT">
+			<Text>Konigratzer March</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_JFD_PRUSSIA">
+			<Text>Melee, Gun, and Mounted Units yield [ICON_GOLDEN_AGE] Golden Age Points from combat, earning more as they level. Buildings and Wonders produce +50% more XP.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_JFD_PRUSSIAN_VETERAN_1">
+			<Text>Oberleutnant</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_JFD_PRUSSIAN_VETERAN_2">
+			<Text>Hauptmann</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_JFD_PRUSSIAN_VETERAN_3">
+			<Text>Major</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_JFD_PRUSSIAN_VETERAN_4">
+			<Text>Oberst</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_JFD_PRUSSIAN_VETERAN_5">
+			<Text>Junker</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_JFD_PRUSSIAN_VETERAN_HELP">
+			<Text>Earn points toward a [ICON_GOLDEN_AGE] Golden Age for each enemy unit killed, equal to 20% of that unit's [ICON_STRENGTH] Combat Strength.</Text>
+		</Row>
+		<!--LANDWEHR-->
+		<Row Tag="TXT_KEY_UNIT_JFD_LANDWEHR">
+			<Text>Landwehr</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_HELP_JFD_LANDWEHR">
+			<Text>Disciplined Light Infantry Unit that is stronger when beginning adjacent to another Military Unit, especially other Landwehr. Only Prussia may build it.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_JFD_LANDWEHR_STRATEGY">
+			<Text>The Landwehr is one of two unique units available to Prussia. Unlike the Rifleman that it replaces, the Landwehr gains a Combat Bonus when it begins its turn adjacent to another Military Unit. This bonus is doubled should this Military Unit also be a Landwehr. Align your Landwehrs together to maximize their power.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_JFD_LANDWEHR_TEXT">
+			<Text>Landwehr is a German language term used in referring to certain national armies, or militias found in nineteenth- and early twentieth-century Europe. The landwehr in Prussia was first formed by a royal edict of 17 March 1813, which called up all men capable of bearing arms between the ages of eighteen and forty-five, and not serving in the regular army, for the defence of the country.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_JFD_LANDWEHR">
+			<Text>Disciplined Front-Line</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_JFD_LANDWEHR_HELP">
+			<Text>+15% [ICON_STRENGTH] Combat Strength for this unit when it is [COLOR_POSITIVE_TEXT]adjacent[ENDCOLOR] to another Military Unit.[NEWLINE][NEWLINE]Bonus is increased to +30% if this unit begins its turn next to another [COLOR_POSITIVE_TEXT]Landwehr[ENDCOLOR] Unit.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_JFD_LANDWEHR_DOUBLE_HELP">
+			<Text>+30% [ICON_STRENGTH] Combat Strength for this unit whilst it is [COLOR_POSITIVE_TEXT]adjacent[ENDCOLOR] to another [COLOR_POSITIVE_TEXT]Landwehr[ENDCOLOR] Unit.</Text>
+		</Row>
+		<!--DEATH'S HEAD HUSSAR-->
+		<Row Tag="TXT_KEY_UNIT_JFD_DEATHS_HEAD">
+			<Text>Death's Head Hussar</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_HELP_JFD_DEATHS_HEAD">
+			<Text>Deadly Mounted Unit which harms adjacent enemy units and ignores enemy Zone of Control. Only Prussia may build it.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_JFD_DEATHS_HEAD_STRATEGY">
+			<Text>The Death's Head Hussar is Prussia's second unique unit. It is a replacement for the Cavalry, however, unlike the Cavalry, the Death's Head Hussar ignores enemy Zone of Control and may cause enemy units to take damage by simply entering into an adjacent tile. It also reduces the Combat Strength of any enemy unit within two tiles. These abilities are lost on upgrade, however.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_JFD_DEATHS_HEAD_TEXT">
+			<Text>The Prussian hussars, who served under Wellington at Waterloo, wore uniforms of almost entirely unrelieved black, with a large white skull and crossbones on the front of their short-brimmed, tall cylindrical hats. Hussars were typically armed with curved cavalry sabers and sometimes muskets or pistols.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_JFD_DEATHS_HEAD">
+			<Text>Feared Regiment</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_JFD_DEATHS_HEAD_HELP">
+			<Text>-10% [ICON_STRENGTH] Combat Strength to enemy units within two tiles. This Unit ignores Enemy Zone of Control.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_JFD_DEATHS_HEAD_BLACK_DUKE">
+			<Text>Legacy of the Black Duke</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_JFD_DEATHS_HEAD_BLACK_DUKE_HELP">
+			<Text>50% chance that an enemy unit will take [COLOR_POSITIVE_TEXT]5 extra damage[ENDCOLOR] when this unit enters an adjacent tile.</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

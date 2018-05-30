@@ -1,0 +1,82 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mod id="b2ecec5c-4b22-4a16-93ec-7def49bba291" version="1">
+  <Properties>
+    <Name>OCP's Tonga under Siaosi I</Name>
+    <Stability>Alpha</Stability>
+    <Teaser>Tonga in Civ V</Teaser>
+    <Description>Tonga in Civ V under Siaosi I</Description>
+    <Authors>ExplosiveWatermelon</Authors>
+    <SpecialThanks>OCP, Shintate, Dawkinzz, EmeraldRange, Limerickarcher</SpecialThanks>
+    <HideSetupGame>0</HideSetupGame>
+    <AffectsSavedGames>1</AffectsSavedGames>
+    <MinCompatibleSaveVersion>0</MinCompatibleSaveVersion>
+    <SupportsSinglePlayer>1</SupportsSinglePlayer>
+    <SupportsMultiplayer>1</SupportsMultiplayer>
+    <SupportsHotSeat>1</SupportsHotSeat>
+    <SupportsMac>1</SupportsMac>
+    <ReloadAudioSystem>1</ReloadAudioSystem>
+    <ReloadLandmarkSystem>1</ReloadLandmarkSystem>
+    <ReloadStrategicViewSystem>1</ReloadStrategicViewSystem>
+    <ReloadUnitSystem>1</ReloadUnitSystem>
+  </Properties>
+  <Dependencies />
+  <References />
+  <Blocks />
+  <Files>
+    <File md5="19D413DE41C51331827E95D748EA8255" import="1">art/LangiAtlas128.dds</File>
+    <File md5="78EA70B343A9308F5FD831B81B9FFCE0" import="1">art/LangiAtlas256.dds</File>
+    <File md5="76D333162C4CE10655301DB1ABB652CB" import="1">art/LangiAtlas45.dds</File>
+    <File md5="40311FE2DE904C6D353FD99C8D29D018" import="1">art/LangiAtlas64.dds</File>
+    <File md5="551EAC6F1E6BBD7CAA19D957623231E6" import="1">art/LangiAtlas80.dds</File>
+    <File md5="D9E4A23DB54E1A990FCF59AD3E6AF5D1" import="1">art/RoyalInfantryFlag32.dds</File>
+    <File md5="0E15157A605589EC6587C745042426C7" import="1">art/Siaosi128.dds</File>
+    <File md5="4C1D8E0555409FA31C2A95440349C71C" import="1">art/Siaosi256.dds</File>
+    <File md5="A9D0C579969001ADAD357C6003B5687B" import="1">art/Siaosi45.dds</File>
+    <File md5="EB7C0A1D61EB06014E2471908E78B495" import="1">art/Siaosi64.dds</File>
+    <File md5="7BD095A9863E04B36FE9076956A32D97" import="1">art/Siaosi80.dds</File>
+    <File md5="5016BCBCCB2CEDD40137E75A6DB6E8F0" import="1">art/SiaosiDOM.dds</File>
+    <File md5="2B19868D2C9ADE5B454FB6C964374250" import="1">art/TongaAlpha24.dds</File>
+    <File md5="39295118CB8D514093D8ECB7E22D9208" import="1">art/TongaAlpha32.dds</File>
+    <File md5="1C726BA9644F521D5E3CEF9ED82B613F" import="1">art/TongaAlpha48.dds</File>
+    <File md5="A3F3A3C188C63D1E4289D6B7369C2EC1" import="1">art/TongaAlpha64.dds</File>
+    <File md5="AA3B3332259194B682DA642674257316" import="1">art/TongaAtlas128.dds</File>
+    <File md5="27A2589FF9B73A9FFB8860AC9E4F7469" import="1">art/TongaAtlas24.dds</File>
+    <File md5="1FD43788F280B6FDCFC8C36855274D30" import="1">art/TongaAtlas256.dds</File>
+    <File md5="C34E2E901104A995855C8E82F581939C" import="1">art/TongaAtlas32.dds</File>
+    <File md5="D63EF9D499C902F7F48A6DCFF81B82E9" import="1">art/TongaAtlas45.dds</File>
+    <File md5="8A38818EEC1D0000EF836B276BF63F7C" import="1">art/TongaAtlas48.dds</File>
+    <File md5="3F26F2C5E98D156146ED3797E85A243F" import="1">art/TongaAtlas64.dds</File>
+    <File md5="39996902292B57B113EBF67AACA25BB6" import="1">art/TongaAtlas80.dds</File>
+    <File md5="7AEC130D3C4DCBC3416204FE6D06167E" import="1">art/TongaMap.dds</File>
+    <File md5="7819663258488BF39310A53A52F72C3B" import="1">art/TonganRMI128.dds</File>
+    <File md5="D3BD719CCB74A37818501FD2F80579F3" import="1">art/TonganRMI256.dds</File>
+    <File md5="6800B21EBDA0C3695A078CECF3CAC5E0" import="1">art/TonganRMI45.dds</File>
+    <File md5="76CBA30730C091C209AB211A043A1050" import="1">art/TonganRMI64.dds</File>
+    <File md5="336FE9729F01E7184BA332DA06C84F38" import="1">art/TonganRMI80.dds</File>
+    <File md5="F2AEC63B62B1B7BFF10E7F1521C5AA1E" import="1">DoMAudio/DawnOfManTonga.mp3</File>
+    <File md5="B88D459B9133BA82818DF577D2B0ED98" import="0">sql/GameDefines.sql</File>
+    <File md5="0F066CDC28CBB3D571B4789AF4DBBDFC" import="0">xml/Buildings.xml</File>
+    <File md5="893BA305C58D0FBAB27CA822EB508355" import="0">xml/Civilization.xml</File>
+    <File md5="A97272A5B1FEA300F75F64F4E17CFBC6" import="1">xml/DoM.xml</File>
+    <File md5="9B5BDEBB39CA498BE7FF6CAF99F58962" import="1">xml/TongaLeaderhead.xml</File>
+    <File md5="9A7FF16BB9A88246A01F30D0DE497EA4" import="0">xml/GameText.xml</File>
+    <File md5="F1CCD945074BD0AE259D1524A5B651F5" import="0">xml/IconTextureAtlases.xml</File>
+    <File md5="6650163A487C40A1CE5658F0AC85B8C2" import="0">xml/Leader.xml</File>
+    <File md5="2EAAF5F6CB889133C95290AEF9EFC18E" import="0">xml/Trait.xml</File>
+    <File md5="06C0EEACC17A06BABB04688CADC5BD78" import="0">xml/Units.xml</File>
+  </Files>
+  <Actions>
+    <OnModActivated>
+      <UpdateDatabase>xml/Buildings.xml</UpdateDatabase>
+      <UpdateDatabase>xml/Civilization.xml</UpdateDatabase>
+      <UpdateDatabase>xml/Leader.xml</UpdateDatabase>
+      <UpdateDatabase>xml/Trait.xml</UpdateDatabase>
+      <UpdateDatabase>xml/Units.xml</UpdateDatabase>
+      <UpdateDatabase>xml/IconTextureAtlases.xml</UpdateDatabase>
+      <UpdateDatabase>xml/DoM.xml</UpdateDatabase>
+      <UpdateDatabase>xml/GameText.xml</UpdateDatabase>
+      <UpdateDatabase>xml/TongaLeaderhead.xml</UpdateDatabase>
+      <UpdateDatabase>sql/GameDefines.sql</UpdateDatabase>
+    </OnModActivated>
+  </Actions>
+</Mod>

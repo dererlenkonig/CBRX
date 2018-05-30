@@ -1,0 +1,117 @@
+<GameData>
+	<Diplomacy_Responses>
+		<Row LeaderType="LEADER_CHING_SHIH">
+			<ResponseType>RESPONSE_FIRST_GREETING</ResponseType>
+			<Response>TXT_KEY_LEADER_CHING_SHIH_FIRSTGREETING%</Response>
+		</Row>
+		<Row LeaderType="LEADER_CHING_SHIH">
+			<ResponseType>RESPONSE_DEFEATED</ResponseType>
+			<Response>TXT_KEY_LEADER_CHING_SHIH_DEFEATED%</Response>
+		</Row>
+		<Row LeaderType="LEADER_CHING_SHIH">
+			<ResponseType>RESPONSE_GREETING_POLITE_HELLO</ResponseType>
+			<Response>TXT_KEY_LEADER_CHING_SHIH_POLITE_HELLO%</Response>
+		</Row>
+		<Row LeaderType="LEADER_CHING_SHIH">
+			<ResponseType>RESPONSE_GREETING_NEUTRAL_HELLO</ResponseType>
+			<Response>TXT_KEY_LEADER_CHING_SHIH_NEUTRAL_HELLO%</Response>
+		</Row>
+		<Row LeaderType="LEADER_CHING_SHIH">
+			<ResponseType>RESPONSE_GREETING_HOSTILE_HELLO</ResponseType>
+			<Response>TXT_KEY_LEADER_CHING_SHIH_HOSTILE_HELLO%</Response>
+		</Row>
+		<Row LeaderType="LEADER_CHING_SHIH">
+			<ResponseType>RESPONSE_HOSTILE_AGGRESSIVE_MILITARY_WARNING</ResponseType>
+			<Response>TXT_KEY_LEADER_CHING_SHIH_HOSTILE_AGGRESSIVE_MILITARY_WARNING%</Response>
+		</Row>
+		<Row LeaderType="LEADER_CHING_SHIH">
+			<ResponseType>RESPONSE_EXPANSION_SERIOUS_WARNING</ResponseType>
+			<Response>TXT_KEY_LEADER_CHING_SHIH_EXPANSION_SERIOUS_WARNING%</Response>
+		</Row>
+		<Row LeaderType="LEADER_CHING_SHIH">
+			<ResponseType>RESPONSE_REQUEST</ResponseType>
+			<Response>TXT_KEY_LEADER_CHING_SHIH_RESPONSE_REQUEST%</Response>
+		</Row>
+		<Row LeaderType="LEADER_CHING_SHIH">
+			<ResponseType>RESPONSE_LUXURY_TRADE</ResponseType>
+			<Response>TXT_KEY_LEADER_CHING_SHIH_RESPONSE_LUXURY_TRADE%</Response>
+		</Row>
+		<Row LeaderType="LEADER_CHING_SHIH">
+			<ResponseType>RESPONSE_OPEN_BORDERS_EXCHANGE</ResponseType>
+			<Response>TXT_KEY_LEADER_CHING_SHIH_OPEN_BORDERS_EXCHANGE%</Response>
+		</Row>
+			<Row LeaderType="LEADER_CHING_SHIH">
+			<ResponseType>RESPONSE_ATTACKED_BETRAYED</ResponseType>
+			<Response>TXT_KEY_LEADER_CHING_SHIH_ATTACKED_BETRAYED</Response>
+		</Row>
+		<Row LeaderType="LEADER_CHING_SHIH">
+			<ResponseType>RESPONSE_ATTACKED_EXCITED</ResponseType>
+			<Response>TXT_KEY_LEADER_CHING_SHIH_ATTACKED_EXCITED</Response>
+		</Row>
+		<Row LeaderType="LEADER_CHING_SHIH">
+			<ResponseType>RESPONSE_ATTACKED_HOSTILE</ResponseType>
+			<Response>TXT_KEY_LEADER_CHING_SHIH_ATTACKED_HOSTILE</Response>
+		</Row>
+	</Diplomacy_Responses>
+	<Language_en_US>
+		<!--General phrases -->
+		<!--Greeting (first time meeting) -->
+		<Row Tag="TXT_KEY_LEADER_CHING_SHIH_FIRSTGREETING_1">
+			<Text>Hello and welcome to the seas of the Canton Pirates. I am Pirate Queen Ching Shih. I have crawled my my way from squalor to rule my mighty nation. What great deeds have you done?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CHING_SHIH_DEFEATED_1">
+			<Text>My seas... red with blood. I vow to you that our spirits shall never be quenched. Beware! For Canton shall rise again.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CHING_SHIH_POLITE_HELLO_1">
+			<Text>I've been awaiting you. Perhaps we should continue this conversation in my chambers.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CHING_SHIH_POLITE_HELLO_2">
+			<Text>Good thing you're here. All of my attendees disappoint me with their ineptitude. Perhaps you can satisfy me</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CHING_SHIH_POLITE_HELLO_3">
+			<Text>Do you want to peek at our latest shipment of booty? Its quite lovely, but not as much my personal stash.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CHING_SHIH_NEUTRAL_HELLO_1">
+			<Text>Welcome back to Canton. Perhaps you would be interested in gambling the fate our nations.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CHING_SHIH_NEUTRAL_HELLO_2">
+			<Text>Did you know that I used to work in a brothel? My nation today has many such delights. You should partake in the festivities.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CHING_SHIH_NEUTRAL_HELLO_3">
+			<Text>We pirates are famous for our booty. Mine above all else.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CHING_SHIH_HOSTILE_HELLO_1">
+			<Text>My pirates are civilized, unlike your brutish people</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CHING_SHIH_HOSTILE_HELLO_2">
+			<Text>Your nobles are not even fit to serve in our brothels. What do you want now?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CHING_SHIH_HOSTILE_HELLO_3">
+			<Text>Great. I just needed someone to disappoint me again today.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CHING_SHIH_HOSTILE_AGGRESSIVE_MILITARY_WARNING">
+			<Text>My sea raiders would love to pillage your cities. You interested?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CHING_SHIH_EXPANSION_SERIOUS_WARNING">
+			<Text>If you claim land like we claim booty, we are going to have a problem</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CHING_SHIH_REQUEST">
+			<Text>Our treasury is running quite low and the seas right now are not auspicious for piracy. Would you lend a hand? You will be generously repaid.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CHING_SHIH_LUXURY_TRADE">
+			<Text>We have vast piles of loot and luxuries and I see that you do too. It is in our best benefit to share our booty, is it not?.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CHING_SHIH_OPEN_BORDERS_EXCHANGE">
+			<Text>Care to roam our seas with me?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CHING_SHIH_ATTACKED_BETRAYED">
+			<Text>After sharing beds, you betray me so? I guess I have to teach you what we do to people like you.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CHING_SHIH_ATTACKED_EXCITED">
+			<Text>You have made a grave mistake attacking my kingdom. Nowhere in the seven seas will you be able to hide from me and my wrath.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CHING_SHIH_ATTACKED_HOSTILE">
+			<Text>You have made a grave mistake attacking my kingdom. Nowhere in the seven seas will you be able to hide from me and my wrath.</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

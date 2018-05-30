@@ -1,0 +1,136 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mod id="b348bc71-596b-4f89-b4ee-633930fa6232" version="2">
+  <Properties>
+    <Name>DMS and CL's The Kingdom of Madagascar</Name>
+    <Teaser>Adds [COLOR_POSITIVE_TEXT]The Kingdom of Imerina[ENDCOLOR] led by Ranavalona I to the game.</Teaser>
+    <Description>See more on civfanatics.com</Description>
+    <Authors>DMS, TPangolin, regalman, Neirai</Authors>
+    <SpecialThanks>Urdnot_Scott, Chrisy15, DJSHenninger, JFD, Coiot</SpecialThanks>
+    <HideSetupGame>0</HideSetupGame>
+    <AffectsSavedGames>1</AffectsSavedGames>
+    <MinCompatibleSaveVersion>0</MinCompatibleSaveVersion>
+    <SupportsSinglePlayer>1</SupportsSinglePlayer>
+    <SupportsMultiplayer>1</SupportsMultiplayer>
+    <SupportsHotSeat>1</SupportsHotSeat>
+    <SupportsMac>1</SupportsMac>
+    <ReloadAudioSystem>1</ReloadAudioSystem>
+    <ReloadLandmarkSystem>1</ReloadLandmarkSystem>
+    <ReloadStrategicViewSystem>1</ReloadStrategicViewSystem>
+    <ReloadUnitSystem>1</ReloadUnitSystem>
+  </Properties>
+  <Dependencies />
+  <References>
+    <Mod id="31a31d1c-b9d7-45e1-842c-23232d66cd47" minversion="0" maxversion="999" title="JFD's Cultural Diversity (Core)" />
+    <Mod id="eea66053-7579-481a-bb8d-2f3959b59974" minversion="0" maxversion="999" title="JFD’s Piety" />
+    <Mod id="d99bf7aa-51ac-4bef-bd88-d765b28e260e" minversion="0" maxversion="999" title="JFD’s Sovereignty" />
+    <Mod id="1f941088-b185-4159-865c-472df81247b2" minversion="0" maxversion="999" title="Sukritact’s Events &amp;amp; Decisions" />
+    <Mod id="36e88483-48fe-4545-b85f-bafc50dde315" minversion="0" maxversion="999" title="Yet (not) Another Earth Map Pack" />
+    <Mod id="e576894a-ed2b-4033-be14-ed1c8ceb81d3" minversion="0" maxversion="999" title="Map Labels" />
+    <Mod id="7fdd72a5-d4ae-441c-bc4e-2e3d2a26cff4" minversion="0" maxversion="999" title="Ethnic Units" />
+    <Mod id="8670da15-d435-44ea-9758-7438cb321411" minversion="0" maxversion="999" title="R.E.D. Modpack" />
+    <Mod id="d1b6328c-ff44-4b0d-aad7-c657f83610cd" minversion="0" maxversion="999" title="Community Patch" />
+    <Mod id="1153b26a-69fd-4cd5-899c-a8ba8e0e5e5d" minversion="0" maxversion="999" title="Civ IV Leader Traits in Civ V" />
+    <Mod id="6676902b-b907-45f1-8db5-32dcb2135eee" minversion="0" maxversion="999" title="JFD's Exploration Continued Expanded" />
+    <Mod id="6010e6f6-918e-48b8-9332-d60783bd8fb5" minversion="0" maxversion="999" title="Historical Religions Complete" />
+    <Mod id="ce8aa614-7ef7-4a45-a179-5329869e8d6d" minversion="0" maxversion="999" title="Enlightenment Era" />
+    <Mod id="a19351c5-c0b3-4b07-8695-4affaa199949" minversion="0" maxversion="999" title="JFD’s and Pouakai’s Mercenaries" />
+    <Mod id="10e9728f-d61c-4317-be4f-7d52d6bae6f4" minversion="0" maxversion="999" title="JFD’s Cities in Development" />
+  </References>
+  <Blocks />
+  <Files>
+    <File md5="D5AACF48FFD11DCD1B63D52D458DFD46" import="1">Art/Diplomacy/Ranavalona_Scene.dds</File>
+    <File md5="078754926A61C187C365357B22B38A6A" import="1">Art/Diplomacy/Ranavalona_Scene.xml</File>
+    <File md5="0DF78076B3DDA991085EA43610CF8278" import="1">Art/Graphics/Rova/euro2-1.dds</File>
+    <File md5="C956438ED30F5F7725040CE6FC2933B4" import="1">Art/Graphics/Rova/euro2-2.dds</File>
+    <File md5="E73B17304BE877F12991FC9BB7D7E0B1" import="1">Art/Graphics/Rova/euro2-roof.dds</File>
+    <File md5="C55EF61F5A52E3C55AF3A3190A89DDA3" import="1">Art/Graphics/Rova/European Fort 1 B.fxsxml</File>
+    <File md5="356CE70E83623B1850F9F61F8B4E1485" import="1">Art/Graphics/Rova/European Fort 1 HB.fxsxml</File>
+    <File md5="1D381F474EA29EFB7CC169FF1F6F1515" import="1">Art/Graphics/Rova/european fort 1 HB.gr2</File>
+    <File md5="D6AEFDD0B407EA507F3E970E8778BABC" import="1">Art/Graphics/Rova/European Fort 1 PL.fxsxml</File>
+    <File md5="FA0BD10E9BB648229C959900AF24CC06" import="1">Art/Graphics/Rova/european fort 1 PL.gr2</File>
+    <File md5="F17114C9DAF8B92BFF79685A8963CA50" import="1">Art/Graphics/Rova/european fort 1.gr2</File>
+    <File md5="80454F82394A3D308CD60FEDD92F12EF" import="1">Art/Graphics/Rova/sv_i_rova.dds</File>
+    <File md5="C9B7A5ED90C4060B8C03F0B8106C73CF" import="1">Art/Graphics/Tafika/BA_EthiopiaSpear.dds</File>
+    <File md5="9212254189B98883BE655527E7788D33" import="1">Art/Graphics/Tafika/BA_EthiopiaSpear.fbx</File>
+    <File md5="8ED55631913FEA93DAF22B9406799BEA" import="1">Art/Graphics/Tafika/BA_EthiopiaSpear.fxsxml</File>
+    <File md5="6965EC66EAB0207B7A14FF6D286F61A2" import="1">Art/Graphics/Tafika/BA_EthiopiaSpear.gr2</File>
+    <File md5="90A0A789B43BD375DC9BBBC0B20DF3EC" import="1">Art/Graphics/Tafika/BA_EthiopiaSpear_sref.dds</File>
+    <File md5="82F2BDF8D22484EB4B57BA2C0E60AADE" import="1">Art/Graphics/Tafika/sv_u_tafika.dds</File>
+    <File md5="AC29B8D8529969A605517B69DBD10C08" import="1">Art/Icon Atlas/DMS_CL_ImerinaAlphaAtlas_128.dds</File>
+    <File md5="3D14AFAB4550A1FFD78FD71333DA5B65" import="1">Art/Icon Atlas/DMS_CL_ImerinaAlphaAtlas_16.dds</File>
+    <File md5="4479E935998E839B69755B4372A32F39" import="1">Art/Icon Atlas/DMS_CL_ImerinaAlphaAtlas_24.dds</File>
+    <File md5="D2A321D40C426DDD5D9CB2EA66A4EBF9" import="1">Art/Icon Atlas/DMS_CL_ImerinaAlphaAtlas_32.dds</File>
+    <File md5="20558F3BA6EC77355B16BE9A35EB8D83" import="1">Art/Icon Atlas/DMS_CL_ImerinaAlphaAtlas_44.dds</File>
+    <File md5="01A57014CA4DBD200D1364DF546E6DF5" import="1">Art/Icon Atlas/DMS_CL_ImerinaAlphaAtlas_48.dds</File>
+    <File md5="367F13D89B87C09EAE070C59CA5BC26D" import="1">Art/Icon Atlas/DMS_CL_ImerinaAlphaAtlas_64.dds</File>
+    <File md5="9C6370F63A49B72CBB0AB1E68EA37907" import="1">Art/Icon Atlas/DMS_CL_ImerinaAlphaAtlas_80.dds</File>
+    <File md5="F0AB4162C90869325C84991596405BD6" import="1">Art/Icon Atlas/DMS_CL_ImerinaRovaAtlas_256.dds</File>
+    <File md5="52993ED4F8CF2E4B0A66E52EB31A9921" import="1">Art/Icon Atlas/DMS_CL_ImerinaRovaAtlas_45.dds</File>
+    <File md5="D497083338FD4E5483710B9C2DBD4155" import="1">Art/Icon Atlas/DMS_CL_ImerinaRovaAtlas_64.dds</File>
+    <File md5="0E1D71E07ACF08521FD93F47DE97B003" import="1">Art/Icon Atlas/DMS_CL_ImerinaAtlas_128.dds</File>
+    <File md5="26BD7EB5F72FFB86E148936F4F9E1D6E" import="1">Art/Icon Atlas/DMS_CL_ImerinaAtlas_256.dds</File>
+    <File md5="5E9834E9028B29A10643C7A6ED648DCD" import="1">Art/Icon Atlas/DMS_CL_ImerinaAtlas_32.dds</File>
+    <File md5="07B012EA3F3316598BC7100B821B803A" import="1">Art/Icon Atlas/DMS_CL_ImerinaAtlas_45.dds</File>
+    <File md5="A302B8C620AE3366B9B69A98E1BC5933" import="1">Art/Icon Atlas/DMS_CL_ImerinaAtlas_64.dds</File>
+    <File md5="BBCB4DAC795AF6BA56CD467F0BF9ABD1" import="1">Art/Icon Atlas/DMS_CL_ImerinaAtlas_80.dds</File>
+    <File md5="9460C433F2D45970B8A49E8690B9A839" import="1">Art/Icon Atlas/UnitFlag_Tafika_32.dds</File>
+    <File md5="92843354DD5964CB571AC7DB692176E0" import="1">Art/Map/ImerinaMap512.dds</File>
+    <File md5="9A059A8EFFFEE464E39D11E2F3A1F214" import="1">Art/Map/RanavalonaI_DOM.dds</File>
+    <File md5="066934BCDF7010823591BF80582996E2" import="1">Audio/RanavalonaI_Peace.mp3</File>
+    <File md5="EC514E8673BFF6159CCC268BCAA325A6" import="1">Audio/RanavalonaI_War.mp3</File>
+    <File md5="5E5A73CA746FEDA88320DE91573D90AC" import="0">Core/DMS_CL_Imerina_ArtDefines.sql</File>
+    <File md5="4BB6B6E04E6656BB07A869E8AD31D6C2" import="0">Core/DMS_CL_Imerina_GameDefines.sql</File>
+    <File md5="902E6375A608BA9746AC9E5B2BA2EBBD" import="0">Core/DMS_CL_Imerina_GameDefines_Diplomacy.sql</File>
+    <File md5="83ED76EC82C1FD5FFDBF3429CCD20FAD" import="0">Core/DMS_CL_Imerina_GameDefines_ModSupport.sql</File>
+    <File md5="810725DF2DE43E9B81D4E4BF71BD886C" import="0">Core/DMS_CL_Imerina_GameText.xml</File>
+    <File md5="F9C3CDD1E0F255AFAD707D747DD79FE9" import="0">Core/DMS_CL_Imerina_GameText_Diplomacy.xml</File>
+    <File md5="CAE00426194CED26F86D5852038A0B18" import="0">Core/DMS_CL_Imerina_GameText_ModSupport.xml</File>
+    <File md5="FC6E117C75835973F759656BB4F6EF97" import="0">DeleteMissingReferences.xml</File>
+    <File md5="F395CEDCF2127F1A691469BBAA099EBD" import="0">DMS_Imerina_UserSettings.sql</File>
+    <File md5="314F1ADED854D15992602D04FFCF4315" import="1">Lua/DMS_CL_Imerina_Decisions.lua</File>
+    <File md5="81393B88F934699B6B287B15C4D96293" import="0">Lua/DMS_CL_Imerina_Functions.lua</File>
+    <File md5="71C6F1FE9E0224047D3216EE84C5E2AE" import="0">Lua/DMS_CL_Imerina_Functions.xml</File>
+    <File md5="5690A1B2ACA2729FD9D55156E232AB1A" import="1">Lua/Utilities/PlotIterators.lua</File>
+    <File md5="86C1C3EDCE4699DE320A932C4E70E22C" import="0">Lua/Utilities/Sukritact's MCIS/CityInfoStack.lua</File>
+    <File md5="120EB71025973A8A48B38314241DD0B3" import="0">Lua/Utilities/Sukritact's MCIS/CityInfoStack.xml</File>
+    <File md5="763B744F817131CC584743532CFFE1AC" import="0">Lua/Utilities/Sukritact's MCIS/DMS_RovaPolicyCityInfo.lua</File>
+    <File md5="2824E55AB1CBF87ED8C34C93F079959D" import="0">Lua/Utilities/Sukritact's MCIS/DMS_RovaPolicyCityInfo.xml</File>
+    <File md5="AFF3A198A1FE783833E6D3DFB624182B" import="0">Lua/Utilities/Sukritact's MCIS/DMS_TanguenaOrdealCityInfo.lua</File>
+    <File md5="5FB851F009F74202E9B1A82D90C08914" import="0">Lua/Utilities/Sukritact's MCIS/DMS_TanguenaOrdealCityInfo.xml</File>
+    <File md5="8A5FC22EB73A2C2106DE16D1A3E98AF2" import="1">Lua/Utilities/Sukritact_SaveUtils.lua</File>
+  </Files>
+  <Actions>
+    <OnModActivated>
+      <UpdateDatabase>Core/DMS_CL_Imerina_ArtDefines.sql</UpdateDatabase>
+      <UpdateDatabase>Core/DMS_CL_Imerina_GameDefines.sql</UpdateDatabase>
+      <UpdateDatabase>Core/DMS_CL_Imerina_GameDefines_Diplomacy.sql</UpdateDatabase>
+      <UpdateDatabase>Core/DMS_CL_Imerina_GameDefines_ModSupport.sql</UpdateDatabase>
+      <UpdateDatabase>Core/DMS_CL_Imerina_GameText.xml</UpdateDatabase>
+      <UpdateDatabase>Core/DMS_CL_Imerina_GameText_Diplomacy.xml</UpdateDatabase>
+      <UpdateDatabase>Core/DMS_CL_Imerina_GameText_ModSupport.xml</UpdateDatabase>
+      <UpdateDatabase>DeleteMissingReferences.xml</UpdateDatabase>
+      <UpdateDatabase>DMS_Imerina_UserSettings.sql</UpdateDatabase>
+    </OnModActivated>
+  </Actions>
+  <EntryPoints>
+    <EntryPoint type="InGameUIAddin" file="Lua/DMS_CL_Imerina_Functions.lua">
+      <Name>DMS_CL_Imerina_Functions.lua</Name>
+      <Description>DMS_CL_Imerina_Functions.lua</Description>
+    </EntryPoint>
+    <EntryPoint type="InGameUIAddin" file="Lua/Utilities/Sukritact's MCIS/CityInfoStack.lua">
+      <Name>CityInfoStack</Name>
+      <Description>
+      </Description>
+    </EntryPoint>
+    <EntryPoint type="InGameUIAddin" file="Lua/Utilities/Sukritact's MCIS/DMS_TanguenaOrdealCityInfo.lua">
+      <Name>DMS_TanguenaOrdealInfo</Name>
+      <Description>
+      </Description>
+    </EntryPoint>
+    <EntryPoint type="InGameUIAddin" file="Lua/Utilities/Sukritact's MCIS/DMS_RovaPolicyCityInfo.lua">
+      <Name>DMS_RovaPolicyCityInfo</Name>
+      <Description>
+      </Description>
+    </EntryPoint>
+  </EntryPoints>
+</Mod>

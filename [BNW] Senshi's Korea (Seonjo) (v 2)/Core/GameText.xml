@@ -1,0 +1,251 @@
+﻿<GameData>
+	<Language_en_US>
+		<Row Tag="TXT_KEY_CITY_NAME_SENSHI_KOREA_01">
+			<Text>Hanseong</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SENSHI_KOREA_02">
+			<Text>Pyongyang</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SENSHI_KOREA_03">
+			<Text>Busan</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SENSHI_KOREA_04">
+			<Text>Daegu</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SENSHI_KOREA_05">
+			<Text>Jeonju</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SENSHI_KOREA_06">
+			<Text>Jinju</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SENSHI_KOREA_07">
+			<Text>Sangju</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SENSHI_KOREA_08">
+			<Text>Taejo</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SENSHI_KOREA_09">
+			<Text>Hamheung</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SENSHI_KOREA_10">
+			<Text>Gongju</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SENSHI_KOREA_11">
+			<Text>Gangneung</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SENSHI_KOREA_12">
+			<Text>Chongjin</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SENSHI_KOREA_13">
+			<Text>Kyongsong</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SENSHI_KOREA_14">
+			<Text>Hwangju</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SENSHI_KOREA_15">
+			<Text>Solme</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SENSHI_KOREA_16">
+			<Text>Seorabeol</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SENSHI_KOREA_17">
+			<Text>Hanyang</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SENSHI_KOREA_18">
+			<Text>Jeollado</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SENSHI_KOREA_19">
+			<Text>Anju</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SENSHI_KOREA_20">
+			<Text>Hoseo</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SENSHI_KOREA_21">
+			<Text>Tamna</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SENSHI_KOREA_22">
+			<Text>Jemulpo</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SENSHI_KOREA_23">
+			<Text>Busosanseong</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SENSHI_KOREA_24">
+			<Text>Samseonghyeol</Text>
+		</Row>
+
+		<!--Spies-->
+		<Row Tag="TXT_KEY_SPY_NAME_SENSHI_KOREA_0">
+			<Text>Hwang</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_SENSHI_KOREA_1">
+			<Text>Cheol</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_SENSHI_KOREA_2">
+			<Text>Seong-ryong</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_SENSHI_KOREA_3">
+			<Text>Uiin</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_SENSHI_KOREA_4">
+			<Text>Inmok</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_SENSHI_KOREA_5">
+			<Text>Sun-shin</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_SENSHI_KOREA_6">
+			<Text>Ui-gyeom</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_SENSHI_KOREA_7">
+			<Text>Hyowon</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_SENSHI_KOREA_8">
+			<Text>Rip</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_SENSHI_KOREA_9">
+			<Text>Il</Text>
+		</Row>
+
+		<!--Demonyms-->
+		<Row Tag="TXT_KEY_CIV_SENSHI_KOREA_ADJECTIVE">
+			<Text>Korean</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_SENSHI_KOREA_DESC">
+			<Text>Korean Empire</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_SENSHI_KOREA_SHORT_DESC">
+			<Text>Korea</Text>
+		</Row>
+
+		<!--DoM-->
+		<Row Tag="TXT_KEY_CIV5_DOM_SENSHI_SEONJO_TEXT">
+			<Text>May the blessings of Heaven rain down upon you, oh great Seonjo, fourteenth king of the Joseon Dynasty! A great reformer and devout Confucian, your early reign was a new period of prosperity for Korea, after the chaos of your forbears'. Apart from the occasional Jurchen raid in the north, all was well. But your rule was called into question when the Japanese invaded! Despite early failure in the war, you and your people, bolstered by an impeccable navy, eventually succeeded in driving the foreign forces off the face of mainland Asia![NEWLINE][NEWLINE]Wise leader, Korea is endangered once more! Your people clamber for your aid and guidance! Will you once more repel the cruel and vicious invaders which threaten your homeland? Will you build a civilization that stands the test of time?</Text>
+		</Row>
+
+		<!--Pedia-->
+		<Row Tag="TXT_KEY_CIV5_SENSHI_KOREA_HEADING_1">
+			<Text>Report this as a bug</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_SENSHI_KOREA_TEXT_1">
+			<Text>Pedia should default to vanilla Korea's</Text>
+		</Row>
+
+		<!--Leader-->
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_SENSHI_SEONJO_HEADING_1">
+			<Text>History</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_SENSHI_SEONJO_TEXT_1">
+			<Text>Born Yi Yeon, Seonjo was the fourteenth King of the Joseon Dynasty of Korea. During his almost 40-year-long reign he sought the improvement and rebuilding of the nation after the disastrous and corrupt reigns of his predecessors. Encouraging and promoting scholars and civil service examinations throughout the early period of his rule, he later presided over intense factionalism between the Easterners and the Westerners as well as the outbreak of the Imijin War, in which Imperial Regent Toyotomi Hideyoshi launched an overseas attack on the mainland and occupied over more than half the peninsula. Although the Japanese onslaught was successfully repelled through joint cooperation with Ming forces, the political chaos and incompetent military leadership during and after the conflict often coincides with decline of the Joseon Dynasty.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_SENSHI_SEONJO_HEADING_2">
+			<Text>Early Reign</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_SENSHI_SEONJO_TEXT_2">
+			<Text>After his ascension to the throne at age 17, Seonjo sought to improve the lives of his subjects. Corruption was rampant throughout the reigns of his predecessors, Yeonsung and Jungjong, who instigated a variety of purges against many scholarly officials within the Empire. Seonjo sought to restore the reputations of many of those Sarim scholars lost in these purges as well as denouncing the highly corrupt aristocrats that were influential during his predecessors’ rule. This earned him the admiration and respect of the general populace and instigated a brief period of peace.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_SENSHI_SEONJO_HEADING_3">
+			<Text>Middle Reign and Political Factionalism</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_SENSHI_SEONJO_TEXT_3">
+			<Text>Among the abundance of scholars called to assist in his government were Sim Ui-gyeom and Kim Hyowon. Sim was a relative and member of the royal family and was highly conservative, whereas Kim was a leading member in a new generation of scholars seeking highly liberal reforms. Soon this resulted in a split between the Westerners and Easterners. These two political factions competed for sway within the monarchy and are often seen as the leading cause in the eventual dissolution of the Joseon Dynasty.[NEWLINE][NEWLINE]Seonjo soon saw his power in contention as he had to face renewed threats from Japanese leaders such as Toyotomi Hideyoshi and Oda Nobunaga in the south. However, after the unification process Japan became an ever more serious threat and many soon feared an invasion on the mainland. Both factions were not in accordance as to whether or not this was of national importance so a respective representative was sent from each faction. This provided as somewhat contrarian and perplexing issue for Seonjo, as Easterners claimed that the recent buildup of military in the region was to maintain stability while the Westerners thought it of it as preparation for an overseas invasion. Since Easterners held a greater sway within the royal monarchy he ignored the reports of the opposing delegation. This event is seen as leading cause of the Korean strategic failure with the Imjin War.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_SENSHI_SEONJO_HEADING_4">
+			<Text>Imjin War</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_SENSHI_SEONJO_TEXT_4">
+			<Text>The political divisions caused the nation to be weakened, since the size of the military was also one of the issues on the agenda of reform and a majority of scholars thought a period of peace would last. In 1591, after delegates had returned from Japan, Toyotomi Hideyoshi sent his own delegates to visit King Seonjo, and asked permission to pass through the Korean Peninsula to invade China, effectively declaring war against the Joseon kingdom. Seonjo quickly alerted the delegation in Ming China to prepare the Sino-Korean alliance against the Japanese invasion.[NEWLINE][NEWLINE]In April of 1592 around 700 Japanese ships sailed invaded the mainland pillaging and destroying fortification and villages as well as scoring decisive victories in battles of Sangju and Chungju, often due to the Japanese use of gunpowder weapons. After marching and eventually occupying Seoul and half of the Korean peninsula, Seonjo was forced to move to city of Pyongyang and later the border city of Uiju. Although the army still suffered heavy casualties, the Korean Navy managed cut off naval supply routes and in several instances managed to score victories against the Japanese navy.[NEWLINE][NEWLINE]With the blockading of several naval supply routes and the arrival of Chinese forces, the joint Sino-Korean force managed to retake the city of Pyongyang, but was eventually stalled by Japanese forces. However, a crucial blow came at the Siege of Hangju, where a much smaller Korean force of about 3,000 managed to successfully beat back a force of 10,000 Japanese infantrymen. The Japanese then decided to enter into peace negotiations, while both sides continued fighting. During these negotiations Koreans managed to retake Seoul and a majority of the occupied territory although the negotiations ended unsuccessfully due to lack of understanding between the two sides. Although several skirmishes would continue and several attempts to recapture the mainland were initiated, the Imjin War officially came to an effective end in December 1598 at the Battle of Noryang, when the last of the Japanese units left Korea.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_SENSHI_SEONJO_HEADING_5">
+			<Text>Later Reign</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_SENSHI_SEONJO_TEXT_5">
+			<Text>Despite all the efforts Seonjo put in during the war, such as establishing army training facilities and reforming taxation laws, the war left Korea and its people devastated. Eventually foreign and domestic affairs were handled by his Prince Regent. Seonjo died in 1608, leaving a Korea still divided and looming under foreign powers.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_SENSHI_SEONJO_HEADING_6">
+			<Text>Judgement of History</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_SENSHI_SEONJO_TEXT_6">
+			<Text>Although his reign was a long and turbulent one, Seonjo was noble and pertinacious in the defense of his homeland and attempted to usher Korea into a new age of prosperity, but was eventually subjugated to launch a disastrous war with a nation that was politically divided under no fault of his own.</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_SENSHI_SEONJO_LIVED">
+			<Text>1552 - 1608</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_SENSHI_SEONJO_NAME">
+			<Text>Seonjo</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_SENSHI_SEONJO_SUBTITLE">
+			<Text>Fourteenth King of the Joseon Dynasty</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_SENSHI_SEONJO">
+			<Text>Seonjo</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_SENSHI_SEONJO_TITLES_1">
+			<Text>King of Joseon</Text>
+		</Row>
+
+		<!--Unique Ability-->
+		<Row Tag="TXT_KEY_TRAIT_SENSHI_KOREA_SHORT">
+			<Text>Disturbance of Imjin</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_SENSHI_KOREA">
+			<Text>When [ICON_WAR] War is declared upon you, receive a free Naval unit in all Coastal Cities. Gain [ICON_CULTURE] Culture from settling or capturing coastal cities, based off of the [ICON_CITIZEN] Population of your [ICON_CAPITAL] Capital.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_SENSHI_SCHOLARS">
+			<Text>Gain [ICON_GOLDEN_AGE] Golden Age Points from Specialists and Great Person Improvements, and +1 [ICON_RESEARCH] Science from them during a [ICON_GOLDEN_AGE] Golden Age. Receive a tech boost every time a scientific building or Wonder is constructed in the Capital.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SENSHI_GAP_SPECIALISTS">
+			<Text>+{1_Num} [ICON_GOLDEN_AGE] [COLOR_POSITIVE_TEXT]Golden Age points[ENDCOLOR] from your scholars!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SENSHI_GAP_GPI">
+			<Text>+{1_Num} [ICON_GOLDEN_AGE] [COLOR_POSITIVE_TEXT]Golden Age points[ENDCOLOR] from your research centers!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POLICY_C15_DUMMY">
+			<Text>Dummy Policy</Text>
+		</Row>
+		<!--Unique Unit-->
+		<Row Tag="TXT_KEY_UNIT_SENSHI_CHONGTONG">
+			<Text>Chongtong</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_SENSHI_CHONGTONG_STRATEGY">
+			<Text>Replacing the Cannon, the Chongtong is physically weaker but has a stronger ranged attack. It also gains +2 Movement when embarked, and has a 50% combat bonus against naval units.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_SENSHI_CHONGTONG_HELP">
+			<Text>Replacing the Cannon, the Chongtong is physically weaker but has a stronger ranged attack. It also gains +2 Movement when embarked, and has a 50% combat bonus against naval units.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_UNIT_SENSHI_CHONGTONG_TEXT">
+			<Text>Chongtong was the name for an amalgamation of large guns used during the Joseon Dynasty. Often varying in size and shape were often noted for their use in naval warfare. First introduced in the 14th Century the Chongtong was even more prevalent during the reign of Sejong thereafter and came in a variety of shapes and sizes such the Cheonja, Jija, Hyeonja, and Hwangja-Chongtong with Cheonja being the largest and Hwanja being smallest. However by the 19th Century the Joseon Dynasty abandoned this style of weaponry in favor of more modernized artillery and firearms.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_SENSHI_CHONGTONG_HELP">
+			<Text>+2 Movement when embarked. +50% Combat Bonus against Naval Units.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SENSHI_TURTLESHIP_HEADING">
+			<Text>Turtle Ship</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SENSHI_TURTLESHIP_STRATEGY">
+			<Text>Considerably stronger than the Caravel, which it replaces, the Turtle Ship has -1 Movement, no extra sight, and cannot withdraw before melee. The Turtle Ship also generates Great Admiral points upon its construction, based off of its starting XP.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SENSHI_TURTLESHIP_HELP">
+			<Text>Considerably stronger than the Caravel, which it replaces, the Turtle Ship has -1 Movement, no extra sight, and cannot withdraw before melee. The Turtle Ship also generates Great Admiral points upon its construction, based off of its starting XP.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_SENSHI_SEOWON_DESC">
+			<Text>Seowon</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_SENSHI_SEOWON_PEDIA">
+			<Text>Seowon were common educational institution during Joseon Dynasty during the 15th and 16th Centuries. These schools specialized in civil service examinations for the state known then Gwageo that often covered a variety of topics from literature and management to medicine, interpretation, accounting, and law. These institutions also served as shrines and were often administered by wealthy scholars who also had to pass the examinations in their own right known as the Seonbi. These scholars were often the targets political purges or Sahwa as a result of political powers struggles between the aristocratic Yangban and Seonbi. By the 19th Century most Seowon were closed by an edict of Joseon regent Deawongun.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_SENSHI_SEOWON_STRATEGY">
+			<Text>Slightly more expensive than the University, which it replaces, the Seowon costs no maintenance and provides an additional Scientist specialist slot.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_SENSHI_SEOWON_HELP">
+			<Text>Slightly more expensive than the University, which it replaces, the Seowon costs no maintenance and provides an additional Scientist specialist slot.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_C15_HWACHA_HELP">
+			<Text>Anti-personnel rocket unit of the Medieval Era. Strong against land units, and capable of generating [ICON_RESEARCH] Science from kills; but weak against cities. Only Korea may build it. Replaces the Trebuchet.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_C15_HWACHA_STRATEGY">
+			<Text>The Hwach'a is extremely effective against enemy land units. It is able to generate [ICON_RESEARCH] Science by killing enemy units, based off of the strength of the unit. It is slow and vulnerable to enemy melee attack; it always should be supported by other units when it's in the field. The Hwach'a must "set up" (1 Movement Point) before attacking.</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

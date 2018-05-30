@@ -1,0 +1,88 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mod id="62a39717-d02a-413e-b27b-694c651e4be8" version="1">
+  <Properties>
+    <Name>DMS' Civilizations - Venezuela (Chavez)</Name>
+    <Teaser>Adds [COLOR_POSITIVE_TEXT]The Bolivarian Republic of Venezuela[ENDCOLOR] led by Hugo Chavez.</Teaser>
+    <Description>see more on civfanatics.com</Description>
+    <Authors>DMS, HoopThrower, Darth, Gatutok</Authors>
+    <HideSetupGame>0</HideSetupGame>
+    <AffectsSavedGames>1</AffectsSavedGames>
+    <MinCompatibleSaveVersion>0</MinCompatibleSaveVersion>
+    <SupportsSinglePlayer>1</SupportsSinglePlayer>
+    <SupportsMultiplayer>1</SupportsMultiplayer>
+    <SupportsHotSeat>1</SupportsHotSeat>
+    <SupportsMac>1</SupportsMac>
+    <ReloadAudioSystem>1</ReloadAudioSystem>
+    <ReloadLandmarkSystem>0</ReloadLandmarkSystem>
+    <ReloadStrategicViewSystem>1</ReloadStrategicViewSystem>
+    <ReloadUnitSystem>1</ReloadUnitSystem>
+  </Properties>
+  <Dependencies />
+  <References>
+    <Mod id="7fdd72a5-d4ae-441c-bc4e-2e3d2a26cff4" minversion="0" maxversion="999" title="Ethnic Units/RED" />
+    <Mod id="e576894a-ed2b-4033-be14-ed1c8ceb81d3" minversion="0" maxversion="999" title="Sukritact's Events and Decisions" />
+    <Mod id="1153b26a-69fd-4cd5-899c-a8ba8e0e5e5d" minversion="0" maxversion="999" title="Civ IV leader traits in V" />
+    <Mod id="31a31d1c-b9d7-45e1-842c-23232d66cd47" minversion="0" maxversion="999" title="JFD's CulDiv" />
+    <Mod id="eea66053-7579-481a-bb8d-2f3959b59974" minversion="0" maxversion="999" title="JFD's Rise to Power (Piety, etc.)" />
+    <Mod id="36e88483-48fe-4545-b85f-bafc50dde315" minversion="0" maxversion="999" title="Gedemon's YnAEMP" />
+    <Mod id="8670da15-d435-44ea-9758-7438cb321411" minversion="0" maxversion="999" title="RED" />
+    <Mod id="a19351c5-c0b3-4b07-8695-4affaa199949" minversion="0" maxversion="999" title="JFD and Pouakai's Mercenaries" />
+  </References>
+  <Blocks />
+  <Files>
+    <File md5="B1848B4158FEBD5DEE796C507CA3FFA3" import="1">Art/Atlas/DMS_VenezuelaAlphaAtlas_128.dds</File>
+    <File md5="3D9685E6448BAF997A53F40841ABBE57" import="1">Art/Atlas/DMS_VenezuelaAlphaAtlas_16.dds</File>
+    <File md5="593BFD963F475FDB30F61C2F23881903" import="1">Art/Atlas/DMS_VenezuelaAlphaAtlas_24.dds</File>
+    <File md5="FEB5285EBE453DA3628105F4EBB52740" import="1">Art/Atlas/DMS_VenezuelaAlphaAtlas_32.dds</File>
+    <File md5="8E862E62C3F28878DE72C8015C4D6631" import="1">Art/Atlas/DMS_VenezuelaAlphaAtlas_45.dds</File>
+    <File md5="6DDE225D9786BBEB37E2460ECF3E3FF7" import="1">Art/Atlas/DMS_VenezuelaAlphaAtlas_48.dds</File>
+    <File md5="E6FA40C1A6C03FC7FD47031FD904B581" import="1">Art/Atlas/DMS_VenezuelaAlphaAtlas_64.dds</File>
+    <File md5="000A84044726E89443D8C1946BB213DA" import="1">Art/Atlas/DMS_VenezuelaAlphaAtlas_80.dds</File>
+    <File md5="5B5625F22638211784D0D9F89175C9FC" import="1">Art/Atlas/DMS_VenezuelaAtlas_128.dds</File>
+    <File md5="365F1EB1CBDDB29BC6B1CD6336082DBB" import="1">Art/Atlas/DMS_VenezuelaAtlas_256.dds</File>
+    <File md5="AB33536312F84DCF1A02737EFBB768BC" import="1">Art/Atlas/DMS_VenezuelaAtlas_32.dds</File>
+    <File md5="92F6FB0870CD7EC7EEDCFEE3A7A72159" import="1">Art/Atlas/DMS_VenezuelaAtlas_45.dds</File>
+    <File md5="DFD73516051655A76BF3AFDCC8058A61" import="1">Art/Atlas/DMS_VenezuelaAtlas_64.dds</File>
+    <File md5="520FF40770707DC20B548B529CA209D1" import="1">Art/Atlas/DMS_VenezuelaAtlas_80.dds</File>
+    <File md5="A3C2190075D13EB468D69C664A71DACD" import="1">Art/Atlas/UnitFlag_VeNilangal_32.dds</File>
+    <File md5="8D49F64A2422D394CCC7A5F8059B287B" import="1">Art/Diplomacy/HugoChavez_Diplo.dds</File>
+    <File md5="0A0F44C1C12BEBA1D8858731029CBE9F" import="1">Art/Diplomacy/HugoChavez_Diplo.xml</File>
+    <File md5="678BE93806AEFF4DA583004D96874871" import="1">Art/DOM_Map/HugoChavez_DOM.dds</File>
+    <File md5="0EAE622B71AEEC45BC225D9F20ADEC56" import="1">Art/DOM_Map/Venezuela_Map512.dds</File>
+    <File md5="CA99C5ECFEFDDCB81AC37216B693112A" import="1">Art/Graphic/sv_u_venzuela_venilangal.dds</File>
+    <File md5="FD3E223F1286A6F54A7FF7C355D279AD" import="1">Audio/HugoChavez_War.mp3</File>
+    <File md5="F522C0F7B1FB2B2B34EE02B2FF254D89" import="1">Audio/HugoChavez_Peace.mp3</File>
+    <File md5="884B3C1532D424677EE4B9078F6E382B" import="0">Core/DMS_Venezuela_ArtDefines.sql</File>
+    <File md5="77F2FFD29BCE2BA6F60A3277D835BFB1" import="0">Core/DMS_Venezuela_GameDefines.sql</File>
+    <File md5="D6613E0EFF9C69FA3F103879D9F516EF" import="0">Core/DMS_Venezuela_GameDefines_Diplomacy.sql</File>
+    <File md5="F2F98816203216B24A6809642104E759" import="0">Core/DMS_Venezuela_GameDefines_ModSupport.sql</File>
+    <File md5="D22AC10B3BF36B3E9796F194DDA3EA7C" import="0">Core/DMS_Venezuela_GameText.xml</File>
+    <File md5="86564006374B9189309B1FA28A64EF58" import="0">Core/DMS_Venezuela_GameText_Diplomacy.xml</File>
+    <File md5="088520181BC0D6C5D7EBAD831F6BDC17" import="0">Core/DMS_Venezuela_GameText_ModSupport.xml</File>
+    <File md5="6357347ECF8038B8D280B76AEB818F03" import="0">DMS_Venezuela_UserSettings.sql</File>
+    <File md5="7D0B95B2DFA2590D43689DDBBB683E0D" import="1">Lua/DMS_Venezuela_Decisions.lua</File>
+    <File md5="B3C24F03524A4BBB3497639CCABEA51C" import="0">Lua/DMS_Venezuela_Functions.lua</File>
+    <File md5="FCB4EF86F849B826E5202FD2B2B9FD3D" import="1">Lua/Utilities/JFD's DTP/DMS_VenezuelaDynamicTopPanelSupport.lua</File>
+    <File md5="5690A1B2ACA2729FD9D55156E232AB1A" import="0">Lua/Utilities/PlotIterators.lua</File>
+    <File md5="86C1C3EDCE4699DE320A932C4E70E22C" import="0">Lua/Utilities/Sukritact's MCIS/CityInfoStack.lua</File>
+    <File md5="120EB71025973A8A48B38314241DD0B3" import="0">Lua/Utilities/Sukritact's MCIS/CityInfoStack.xml</File>
+  </Files>
+  <Actions>
+    <OnModActivated>
+      <UpdateDatabase>Core/DMS_Venezuela_ArtDefines.sql</UpdateDatabase>
+      <UpdateDatabase>Core/DMS_Venezuela_GameDefines.sql</UpdateDatabase>
+      <UpdateDatabase>Core/DMS_Venezuela_GameDefines_Diplomacy.sql</UpdateDatabase>
+      <UpdateDatabase>Core/DMS_Venezuela_GameDefines_ModSupport.sql</UpdateDatabase>
+      <UpdateDatabase>Core/DMS_Venezuela_GameText.xml</UpdateDatabase>
+      <UpdateDatabase>Core/DMS_Venezuela_GameText_Diplomacy.xml</UpdateDatabase>
+      <UpdateDatabase>Core/DMS_Venezuela_GameText_ModSupport.xml</UpdateDatabase>
+      <UpdateDatabase>DMS_Venezuela_UserSettings.sql</UpdateDatabase>
+    </OnModActivated>
+  </Actions>
+  <EntryPoints>
+    <EntryPoint type="InGameUIAddin" file="Lua/DMS_Venezuela_Functions.lua">
+      <Name>DMS_Venezuela_Functions</Name>
+      <Description>DMS_Venezuela_Functions</Description>
+    </EntryPoint>
+  </EntryPoints>
+</Mod>

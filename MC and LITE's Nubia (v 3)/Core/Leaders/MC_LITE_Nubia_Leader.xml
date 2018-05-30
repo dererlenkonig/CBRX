@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by Pouakai-->
+<GameData>
+	<Leaders>
+		<Row>
+			<Type>LEADER_MC_LITE_PIYE</Type>
+			<Description>TXT_KEY_LEADER_MC_LITE_PIYE_DESC</Description>
+			<Civilopedia>TXT_KEY_LEADER_MC_LITE_PIYE_PEDIA</Civilopedia>
+			<CivilopediaTag>TXT_KEY_LEADER_MC_LITE_PIYE</CivilopediaTag>
+			<ArtDefineTag>MC_LITE_NUBIA_Leaderhead.xml</ArtDefineTag>
+			<VictoryCompetitiveness>6</VictoryCompetitiveness>
+			<WonderCompetitiveness>7</WonderCompetitiveness>
+			<MinorCivCompetitiveness>4</MinorCivCompetitiveness>
+			<Boldness>6</Boldness>
+			<DiploBalance>6</DiploBalance>
+			<WarmongerHate>4</WarmongerHate>
+			<DenounceWillingness>6</DenounceWillingness>
+			<DoFWillingness>5</DoFWillingness>
+			<Loyalty>4</Loyalty>
+			<Neediness>5</Neediness>
+			<Forgiveness>4</Forgiveness>
+			<Chattiness>6</Chattiness>
+			<Meanness>5</Meanness>
+			<PortraitIndex>1</PortraitIndex>
+			<IconAtlas>MC_LITE_NUBIA_ATLAS</IconAtlas>
+		</Row>
+	</Leaders>
+	<Leader_Traits>
+		<Row>
+			<LeaderType>LEADER_MC_LITE_PIYE</LeaderType>
+			<TraitType>TRAIT_TA_SETI</TraitType>
+		</Row>
+	</Leader_Traits>
+	<Diplomacy_Responses>
+		<Row LeaderType="LEADER_MC_LITE_PIYE">
+			<ResponseType>RESPONSE_FIRST_GREETING</ResponseType>
+			<Response>TXT_KEY_LEADER_MC_LITE_PIYE_FIRST_GREETING_%</Response>
+		</Row>
+		<Row LeaderType="LEADER_MC_LITE_PIYE">
+			<ResponseType>RESPONSE_DEFEATED</ResponseType>
+			<Response>TXT_KEY_LEADER_MC_LITE_PIYE_DEFEATED_%</Response>
+		</Row>
+		<Row LeaderType="LEADER_MC_LITE_PIYE">
+			<ResponseType>RESPONSE_GREETING_HOSTILE_HELLO</ResponseType>
+			<Response>TXT_KEY_LEADER_MC_LITE_PIYE_GREETING_HOSTILE_HELLO_%</Response>
+		</Row>
+		<Row LeaderType="LEADER_MC_LITE_PIYE">
+			<ResponseType>RESPONSE_GREETING_POLITE_HELLO</ResponseType>
+			<Response>TXT_KEY_LEADER_MC_LITE_PIYE_GREETING_POLITE_HELLO_%</Response>
+		</Row>
+	</Diplomacy_Responses>
+</GameData>

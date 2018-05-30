@@ -1,0 +1,118 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mod id="64cca6fa-de27-4e4b-bd09-049ce07ef796" version="2">
+  <Properties>
+    <Name>The Kazakhs (BNW)</Name>
+    <Teaser>This mod adds The Kazakhs to the game as a playable civilization. Requires Brave New World.</Teaser>
+    <Description>This mod adds the Kazakhs to the game as a playable civilization. This mod requires the Brave New World expansion (DLC). Removes Almaty as a city state.[NEWLINE][NEWLINE]
+Leader: Ablai Khan[NEWLINE][NEWLINE]
+UA: Nomadic Pastoralists - Founded cities claim nearby flat Plains and Grass tiles without any features and spawn a [ICON_RES_SHEEP] Sheep, [ICON_RES_HORSE] Horse or [ICON_RES_COW] Cattle resource. Pastures resources are automatically improved.[NEWLINE][NEWLINE]
+UB: Kïiz Üy. Replaces the Circus. Unlike the Circus, it does not require nearby [ICON_RES_HORSE] Horses or [ICON_RES_IVORY] Ivory. It provides a free Stable in the city. Mounted units trained in this City gain open terrain bonuses (+15% [ICON_STRENGTH]).[NEWLINE][NEWLINE]
+UU: Tolu-Batyr. Replaces the Horseman. Unlike the Horseman, it has a higher [ICON_STRENGTH] Combat Strength and heals +15 HP per turn when healing in neutral territory and +10 HP per turn in friendly territory.</Description>
+    <Authors>DJSHenninger</Authors>
+    <HideSetupGame>0</HideSetupGame>
+    <AffectsSavedGames>1</AffectsSavedGames>
+    <MinCompatibleSaveVersion>0</MinCompatibleSaveVersion>
+    <SupportsSinglePlayer>1</SupportsSinglePlayer>
+    <SupportsMultiplayer>0</SupportsMultiplayer>
+    <SupportsHotSeat>1</SupportsHotSeat>
+    <SupportsMac>1</SupportsMac>
+    <ReloadAudioSystem>1</ReloadAudioSystem>
+    <ReloadLandmarkSystem>1</ReloadLandmarkSystem>
+    <ReloadStrategicViewSystem>1</ReloadStrategicViewSystem>
+    <ReloadUnitSystem>1</ReloadUnitSystem>
+  </Properties>
+  <Dependencies />
+  <References>
+    <Mod id="36e88483-48fe-4545-b85f-bafc50dde315" minversion="0" maxversion="999" title="Yet (not) Another Earth Maps Pack" />
+    <Mod id="7fdd72a5-d4ae-441c-bc4e-2e3d2a26cff4" minversion="0" maxversion="999" title="Ethnic Units" />
+    <Mod id="01c131ef-2162-4a7b-b845-763a4e675940" minversion="0" maxversion="999" title="Unique Cultural Influence" />
+    <Mod id="1153b26a-69fd-4cd5-899c-a8ba8e0e5e5d" minversion="0" maxversion="999" title="Civ IV Leader Traits in Civ V" />
+    <Mod id="e576894a-ed2b-4033-be14-ed1c8ceb81d3" minversion="0" maxversion="999" title="Map Labels" />
+    <Mod id="eea66053-7579-481a-bb8d-2f3959b59974" minversion="0" maxversion="999" title="Piety and Prestige" />
+    <Mod id="31a31d1c-b9d7-45e1-842c-23232d66cd47" minversion="0" maxversion="999" title="JFD's Cultural Diversity (Core)" />
+  </References>
+  <Blocks />
+  <Files>
+    <File md5="77B4F7EB12CD6A1CA9D33194075F64D0" import="1">Art/AlphaKazakh128.dds</File>
+    <File md5="73390591F928F55F7C160BC5F9B6FF48" import="1">Art/AlphaKazakh16.dds</File>
+    <File md5="41D3162D90D941998ABD61D2C5FB7D5D" import="1">Art/AlphaKazakh24.dds</File>
+    <File md5="8CAE466EC8AAF3FC13918FBD76742632" import="1">Art/AlphaKazakh256.dds</File>
+    <File md5="6C9B5481E206A99F2B820AE6DFE692F8" import="1">Art/AlphaKazakh32.dds</File>
+    <File md5="0ACDFA4AA920EE89DB8FA8ADBAD9A84B" import="1">Art/AlphaKazakh45.dds</File>
+    <File md5="FF6ABE6B9C0F1076699419D00A33DDE5" import="1">Art/AlphaKazakh48.dds</File>
+    <File md5="75EC948DAC7579AE217CC7BBE68B7958" import="1">Art/AlphaKazakh64.dds</File>
+    <File md5="F8FC48AE9A979FE969694C6585298808" import="1">Art/AlphaKazakh80.dds</File>
+    <File md5="3498CC92A8BD3F34540BF5EB8E40A4BD" import="1">Art/Horseman_Turkey.dds</File>
+    <File md5="F38D19328D14A38612E5CCFE5554A480" import="1">Art/Horseman_Turkey.fxsxml</File>
+    <File md5="F5A9C1A3C0A23E8C0929E2D43805FEE7" import="1">Art/Horseman_Turkey.gr2</File>
+    <File md5="B520BF3F53768555638871DC646E4096" import="1">Art/Horseman_Turkey_gloss.dds</File>
+    <File md5="651AD041BBB81FA07E533C347AB2382D" import="1">Art/Horseman_Turkey_Horse.dds</File>
+    <File md5="6AF44855DD8C85B1B4697585403D53C6" import="1">Art/Kazakh_diplo.dds</File>
+    <File md5="C0347C027B07B6B106A32BD1BB0F8028" import="1">Art/Kazakh_DOM.dds</File>
+    <File md5="C63C0809A9318A3D63A71D4DE92122F2" import="1">Art/Kazakh_Icons128.dds</File>
+    <File md5="FE504FBFBB1856A5033A28647FBE7489" import="1">Art/Kazakh_Icons256.dds</File>
+    <File md5="039F8C99F93D044458B8E62D4F5BC539" import="1">Art/Kazakh_Icons32.dds</File>
+    <File md5="D5F1016D3B833AB386860F3E776E022A" import="1">Art/Kazakh_Icons45.dds</File>
+    <File md5="C8D60A8AF783001579BDCE5D41C12AE1" import="1">Art/Kazakh_Icons64.dds</File>
+    <File md5="D3323CC787F0AA0F4451BFCA2231A892" import="1">Art/Kazakh_Icons80.dds</File>
+    <File md5="4CE1A3DE217F7A241CACDAA56930E3CC" import="1">Art/Kazakh_Scene.xml</File>
+    <File md5="139293ED9CB22038152BCAA2891FB159" import="1">Art/MapKazakh512.dds</File>
+    <File md5="AC41C06BA721315512F26433220FEDF7" import="1">Art/no_gloss.dds</File>
+    <File md5="89A2AA26E755B40B935263764B925D89" import="0">Lua/KazakhTrait.lua</File>
+    <File md5="D63DC8BB6AA0F310DD55B264DB49C7E2" import="1">Lua/PlotIterators.lua</File>
+    <File md5="F37F0BD09624F318D0C4601091B601BC" import="0">Mod Support for The Kazakhs/Bingles' Civ IV Traits.sql</File>
+    <File md5="BCA5A18D9AEF06FF4E289800ABB8950B" import="0">Mod Support for The Kazakhs/Cultural Diversity.sql</File>
+    <File md5="987E73840CD32778E6929DB079DD624D" import="0">Mod Support for The Kazakhs/Ethnic Units.sql</File>
+    <File md5="2255E49ACD131EAF6F589C1364605127" import="0">Mod Support for The Kazakhs/Barathor's YnAEMP.sql</File>
+    <File md5="562CE0E8EC3CDEE356591B19E8173E21" import="0">Mod Support for The Kazakhs/hazel16's Map Labels.sql</File>
+    <File md5="61B7155B99A58DDFA957DA614E604414" import="0">Mod Support for The Kazakhs/JFD's Piety and Prestige.sql</File>
+    <File md5="EE03172C3F19B1385918DAF94AE72E72" import="0">Mod Support for The Kazakhs/Ryoga's Unique Cultural Influence.xml</File>
+    <File md5="298240AFFBD45C516DD1FE3405E44622" import="1">Music/DJSHKazakhWar.mp3</File>
+    <File md5="8F6AA10CB3992195865C55A2ECF5D4B2" import="1">Music/DJSHKazakhPeace.mp3</File>
+    <File md5="E7DE94638278D8B69739C40814160040" import="0">XML/Buildings.xml</File>
+    <File md5="B77D3FF0D60DDEB0D3C5B7170105D75F" import="0">XML/CIV5colors.xml</File>
+    <File md5="A1427BA7FE8AF5F55563AE49BBF01DE1" import="0">XML/CIV5IconTextureAtlases.xml</File>
+    <File md5="2CB335FE7F074D2C80D61612EEB0084E" import="0">XML/CIV5Leader_Ablai.xml</File>
+    <File md5="BEC6367A01815561927F8232B674FF0E" import="0">XML/CIV5playercolors.xml</File>
+    <File md5="41BD9E008D6A8CCA0FE18FC4EE7CB260" import="0">XML/CIV5Traits.xml</File>
+    <File md5="917A01061AA334A4E6FD67A3E46FFA34" import="0">XML/CIV5UnitPromotions.xml</File>
+    <File md5="C3C2240B0788CBC93409EA14C6866BAA" import="0">XML/CIV5Units.xml</File>
+    <File md5="0F8B73B142E3683EC746595D6B043A25" import="0">XML/Civ_Kazakh.xml</File>
+    <File md5="DABB34EB9E9E73A8480644ECF9DE7C07" import="0">XML/GameText.xml</File>
+    <File md5="FA558008BA2E5A39922F8BCFE0A3F823" import="0">XML/Batir.xml</File>
+    <File md5="C5F14F0239ADCF300255EDDBB56B168F" import="0">XML/Kazakh_Diplomacy.xml</File>
+    <File md5="D7B9A1346639542AC42AA0012DF76449" import="0">XML/Music.xml</File>
+  </Files>
+  <Actions>
+    <OnModActivated>
+      <UpdateDatabase>Art/Kazakh_Scene.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Buildings.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Civ_Kazakh.xml</UpdateDatabase>
+      <UpdateDatabase>XML/CIV5colors.xml</UpdateDatabase>
+      <UpdateDatabase>XML/CIV5IconTextureAtlases.xml</UpdateDatabase>
+      <UpdateDatabase>XML/CIV5playercolors.xml</UpdateDatabase>
+      <UpdateDatabase>XML/CIV5Traits.xml</UpdateDatabase>
+      <UpdateDatabase>XML/CIV5Units.xml</UpdateDatabase>
+      <UpdateDatabase>XML/GameText.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Kazakh_Diplomacy.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Batir.xml</UpdateDatabase>
+      <UpdateDatabase>XML/CIV5UnitPromotions.xml</UpdateDatabase>
+      <UpdateDatabase>XML/CIV5Leader_Ablai.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Music.xml</UpdateDatabase>
+      <UpdateDatabase>Mod Support for The Kazakhs/Barathor's YnAEMP.sql</UpdateDatabase>
+      <UpdateDatabase>Mod Support for The Kazakhs/Ethnic Units.sql</UpdateDatabase>
+      <UpdateDatabase>Mod Support for The Kazakhs/Ryoga's Unique Cultural Influence.xml</UpdateDatabase>
+      <UpdateDatabase>Mod Support for The Kazakhs/Bingles' Civ IV Traits.sql</UpdateDatabase>
+      <UpdateDatabase>Mod Support for The Kazakhs/hazel16's Map Labels.sql</UpdateDatabase>
+      <UpdateDatabase>Mod Support for The Kazakhs/JFD's Piety and Prestige.sql</UpdateDatabase>
+      <UpdateDatabase>Mod Support for The Kazakhs/Cultural Diversity.sql</UpdateDatabase>
+    </OnModActivated>
+  </Actions>
+  <EntryPoints>
+    <EntryPoint type="InGameUIAddin" file="Lua/KazakhTrait.lua">
+      <Name>KazakhTrait</Name>
+      <Description>
+      </Description>
+    </EntryPoint>
+  </EntryPoints>
+</Mod>

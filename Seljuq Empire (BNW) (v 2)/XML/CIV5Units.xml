@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 2/18/2013 11:12:00 PM -->
+<GameData>
+	<Units>
+		<Row>
+			<Class>UNITCLASS_CHARIOT_ARCHER</Class>
+			<Type>UNIT_ASKARI_MOUNTED_ARCHER</Type>
+			<PrereqTech>TECH_THE_WHEEL</PrereqTech>
+			<Combat>6</Combat>
+			<RangedCombat>10</RangedCombat>
+			<Cost>56</Cost>
+			<FaithCost>112</FaithCost>
+			<RequiresFaithPurchaseEnabled>true</RequiresFaithPurchaseEnabled>
+			<Moves>4</Moves>
+			<Range>2</Range>
+			<CombatClass>UNITCOMBAT_ARCHER</CombatClass>
+			<Domain>DOMAIN_LAND</Domain>
+			<DefaultUnitAI>UNITAI_RANGED</DefaultUnitAI>
+			<Description>Askari Mounted Archer</Description>
+			<Civilopedia>The Seljuq army relied on archers and their hit-and-run tactics. Alp Arslan's army also employed light cavalry equipped with bows. They presumably exhausted the enemy's heavy cavalry by using hit-and-run tactics. Ambushes were also common. These tactics allowed the Seljuqs to defeat the Byzantines in the Battle of Manzikert. In this battle, the army was organized into a crescent formation. The centre would withdraw while the 'wings' of the crescent would surround the Byzantine army while the Seljuq archers attacked the enemy.</Civilopedia>
+			<Strategy>The Askari Mounted Archer replaces the Chariot Archer. Unlike the Chariot Archer, the Askari Mounted Archer does not lose all of its [ICON_MOVES] Movement Points when entering Rough Terrain. It may also move after attacking. May choose a Double Attack promotion when promoted for the second time.</Strategy>
+			<Help>May move after attacking. May choose a Double Attack promotion when promoted for the second time.</Help>
+			<MilitarySupport>true</MilitarySupport>
+			<MilitaryProduction>true</MilitaryProduction>
+			<Pillage>true</Pillage>
+			<ObsoleteTech>TECH_CHIVALRY</ObsoleteTech>
+			<GoodyHutUpgradeUnitClass>UNITCLASS_KNIGHT</GoodyHutUpgradeUnitClass>
+			<AdvancedStartCost>15</AdvancedStartCost>
+			<XPValueAttack>3</XPValueAttack>
+			<XPValueDefense>3</XPValueDefense>
+			<UnitArtInfo>ART_DEF_UNIT_ASKARI_MOUNTED_ARCHER</UnitArtInfo>
+			<UnitFlagAtlas>ALPHA_DJSH_SELJUQ</UnitFlagAtlas>
+			<UnitFlagIconOffset>0</UnitFlagIconOffset>
+			<IconAtlas>CIV_DJSH_SELJUQ_ATLAS</IconAtlas>
+			<PortraitIndex>3</PortraitIndex>
+			<MoveRate>QUADRUPED</MoveRate>
+		</Row>
+	</Units>
+	<Unit_ClassUpgrades>
+		<Row>
+			<UnitType>UNIT_ASKARI_MOUNTED_ARCHER</UnitType>
+			<UnitClassType>UNITCLASS_KNIGHT</UnitClassType>
+		</Row>
+	</Unit_ClassUpgrades>
+	<Unit_AITypes>
+		<Row>
+			<UnitType>UNIT_ASKARI_MOUNTED_ARCHER</UnitType>
+			<UnitAIType>UNITAI_RANGED</UnitAIType>
+		</Row>
+	</Unit_AITypes>
+	<Unit_Flavors>
+		<Row>
+			<UnitType>UNIT_ASKARI_MOUNTED_ARCHER</UnitType>
+			<FlavorType>FLAVOR_OFFENSE</FlavorType>
+			<Flavor>4</Flavor>
+		</Row>
+		<Row>
+			<UnitType>UNIT_ASKARI_MOUNTED_ARCHER</UnitType>
+			<FlavorType>FLAVOR_RANGED</FlavorType>
+			<Flavor>6</Flavor>
+		</Row>
+		<Row>
+			<UnitType>UNIT_ASKARI_MOUNTED_ARCHER</UnitType>
+			<FlavorType>FLAVOR_MOBILE</FlavorType>
+			<Flavor>2</Flavor>
+		</Row>
+	</Unit_Flavors>
+	<Unit_FreePromotions>
+		<Row>
+			<UnitType>UNIT_ASKARI_MOUNTED_ARCHER</UnitType>
+			<PromotionType>PROMOTION_NO_DEFENSIVE_BONUSES</PromotionType>
+		</Row>
+		<Row>
+			<UnitType>UNIT_ASKARI_MOUNTED_ARCHER</UnitType>
+			<PromotionType>PROMOTION_ONLY_DEFENSIVE</PromotionType>
+		</Row>
+		<Row>
+			<UnitType>UNIT_ASKARI_MOUNTED_ARCHER</UnitType>
+			<PromotionType>PROMOTION_ASKARI_ARCHER</PromotionType>
+		</Row>
+	</Unit_FreePromotions>
+	<Unit_ResourceQuantityRequirements>
+		<Row>
+			<UnitType>UNIT_ASKARI_MOUNTED_ARCHER</UnitType>
+			<ResourceType>RESOURCE_HORSE</ResourceType>
+		</Row>
+	</Unit_ResourceQuantityRequirements>
+</GameData>

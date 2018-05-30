@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 12/27/2017 7:41:42 PM -->
+<GameData>
+	<Traits>
+		<Row>
+			<Type>TRAIT_JMANGELO_THE_LION_OF_THE_DESERT</Type>
+			<Description>TXT_KEY_TRAIT_JMANGELO_THE_LION_OF_THE_DESERT_DESCRIPTION</Description>
+			<ShortDescription>TXT_KEY_TRAIT_JMANGELO_THE_LION_OF_THE_DESERT</ShortDescription>
+		</Row>
+	</Traits>
+</GameData>

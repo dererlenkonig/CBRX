@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+  <Units>
+    <Row>
+      <Type>UNIT_KHAMUG_HAWK_RIDER</Type>
+      <Description>TXT_KEY_UNIT_KHAMUG_HAWK_RIDER</Description>
+      <Civilopedia>TXT_KEY_CIV5_KHAMUG_HAWK_RIDER_TEXT</Civilopedia>
+      <Strategy>TXT_KEY_UNIT_KHAMUG_HAWK_RIDER_STRATEGY</Strategy>
+      <Help>TXT_KEY_UNIT_HELP_KHAMUG_HAWK_RIDER</Help>
+      <Requirements></Requirements>
+      <Combat>8</Combat>
+      <RangedCombat>0</RangedCombat>
+		<Cost>50</Cost>
+		<FaithCost>70</FaithCost>
+      <RequiresFaithPurchaseEnabled>1</RequiresFaithPurchaseEnabled>
+      <Moves>4</Moves>
+      <Immobile>0</Immobile>
+      <Range>0</Range>
+      <BaseSightRange>2</BaseSightRange>
+      <Class>UNITCLASS_SCOUT</Class>
+      <Special></Special>
+      <Capture></Capture>
+      <CombatClass>UNITCOMBAT_MOUNTED</CombatClass>
+      <Domain>DOMAIN_LAND</Domain>
+      <CivilianAttackPriority></CivilianAttackPriority>
+      <DefaultUnitAI>UNITAI_EXPLORE</DefaultUnitAI>
+      <Food>0</Food>
+      <NoBadGoodies>1</NoBadGoodies>
+      <RivalTerritory>0</RivalTerritory>
+      <MilitarySupport>1</MilitarySupport>
+      <MilitaryProduction>1</MilitaryProduction>
+      <Pillage>1</Pillage>
+      <PillagePrereqTech></PillagePrereqTech>
+      <Found>0</Found>
+      <FoundAbroad>0</FoundAbroad>
+      <CultureBombRadius>0</CultureBombRadius>
+      <GoldenAgeTurns>0</GoldenAgeTurns>
+      <FreePolicies>0</FreePolicies>
+      <OneShotTourism>0</OneShotTourism>
+      <OneShotTourismPercentOthers>0</OneShotTourismPercentOthers>
+      <IgnoreBuildingDefense>0</IgnoreBuildingDefense>
+      <PrereqResources>0</PrereqResources>
+      <Mechanized>0</Mechanized>
+      <Suicide>0</Suicide>
+      <CaptureWhileEmbarked>0</CaptureWhileEmbarked>
+      <PrereqTech></PrereqTech>
+      <ObsoleteTech>TECH_SCIENTIFIC_THEORY</ObsoleteTech>
+      <GoodyHutUpgradeUnitClass>UNITCLASS_HORSEMAN</GoodyHutUpgradeUnitClass>
+      <HurryCostModifier>0</HurryCostModifier>
+      <AdvancedStartCost>10</AdvancedStartCost>
+      <MinAreaSize>-1</MinAreaSize>
+      <AirInterceptRange>0</AirInterceptRange>
+      <AirUnitCap>0</AirUnitCap>
+      <NukeDamageLevel>-1</NukeDamageLevel>
+      <WorkRate>0</WorkRate>
+      <NumFreeTechs>0</NumFreeTechs>
+      <BaseBeakersTurnsToCount>0</BaseBeakersTurnsToCount>
+      <BaseCultureTurnsToCount>0</BaseCultureTurnsToCount>
+      <RushBuilding>0</RushBuilding>
+      <BaseHurry>0</BaseHurry>
+      <HurryMultiplier>0</HurryMultiplier>
+      <BaseGold>0</BaseGold>
+      <NumGoldPerEra>0</NumGoldPerEra>
+      <SpreadReligion>0</SpreadReligion>
+      <RemoveHeresy>0</RemoveHeresy>
+      <ReligionSpreads>0</ReligionSpreads>
+      <ReligiousStrength>0</ReligiousStrength>
+      <FoundReligion>0</FoundReligion>
+      <RequiresEnhancedReligion>0</RequiresEnhancedReligion>
+      <ProhibitsSpread>0</ProhibitsSpread>
+      <CanBuyCityState>0</CanBuyCityState>
+      <CombatLimit>100</CombatLimit>
+      <RangeAttackOnlyInDomain>0</RangeAttackOnlyInDomain>
+      <RangeAttackIgnoreLOS>0</RangeAttackIgnoreLOS>
+      <Trade>0</Trade>
+      <NumExoticGoods>0</NumExoticGoods>
+      <RangedCombatLimit>0</RangedCombatLimit>
+      <XPValueAttack>3</XPValueAttack>
+      <XPValueDefense>3</XPValueDefense>
+      <SpecialCargo></SpecialCargo>
+      <DomainCargo></DomainCargo>
+      <Conscription>0</Conscription>
+      <ExtraMaintenanceCost>0</ExtraMaintenanceCost>
+      <NoMaintenance>0</NoMaintenance>
+      <Unhappiness>0</Unhappiness>
+      <UnitArtInfo>ART_DEF_UNIT_U_HUNS_HORSE_ARCHER</UnitArtInfo>
+      <UnitArtInfoCulturalVariation>0</UnitArtInfoCulturalVariation>
+      <UnitArtInfoEraVariation>0</UnitArtInfoEraVariation>
+      <ProjectPrereq></ProjectPrereq>
+      <SpaceshipProject></SpaceshipProject>
+      <LeaderPromotion></LeaderPromotion>
+      <LeaderExperience>0</LeaderExperience>
+      <DontShowYields>0</DontShowYields>
+      <ShowInPedia>1</ShowInPedia>
+      <MoveRate>QUADRUPED</MoveRate>
+      <UnitFlagIconOffset>0</UnitFlagIconOffset>
+      <PortraitIndex>2</PortraitIndex>
+      <IconAtlas>Khamug_Icon_Atlas</IconAtlas>
+      <UnitFlagAtlas>Hawk_Rider_Flag</UnitFlagAtlas>
+    </Row>
+  </Units>
+
+  <Unit_AITypes>
+    <Row>
+      <UnitType>UNIT_KHAMUG_HAWK_RIDER</UnitType>
+      <UnitAIType>UNITAI_FAST_ATTACK</UnitAIType>
+    </Row>
+    <Row>
+      <UnitType>UNIT_KHAMUG_HAWK_RIDER</UnitType>
+      <UnitAIType>UNITAI_DEFENSE</UnitAIType>
+    </Row>
+  </Unit_AITypes>
+  <!-- Unit_Buildings -->
+  <!-- Unit_BuildingClassRequireds -->
+  <!-- Unit_ProductionModifierBuildings -->
+  <!-- Unit_Builds -->
+	<Unit_ClassUpgrades>
+		<Row>
+			<UnitType>UNIT_KHAMUG_HAWK_RIDER</UnitType>
+			<UnitClassType>UNITCLASS_KNIGHT</UnitClassType>
+		</Row>
+	</Unit_ClassUpgrades>
+  <Unit_FreePromotions>
+    <Row>
+      <UnitType>UNIT_KHAMUG_HAWK_RIDER</UnitType>
+      <PromotionType>PROMOTION_IGNORE_TERRAIN_COST</PromotionType>
+    </Row>
+  </Unit_FreePromotions>
+  <!-- Unit_Flavors -->
+  <!-- Unit_GreatPersons -->
+  <!-- Unit_ResourceQuantityRequirements -->
+  <!-- Unit_UniqueNames -->
+  <!-- Unit_YieldFromKills -->
+  <!-- Unit_NotAITypes -->
+  <!-- Unit_ProductionTraits -->
+  <!-- Unit_TechTypes -->
+  <!-- UnitPromotions_CivilianUnitType -->
+  <UnitGameplay2DScripts>
+    <Row>
+      <UnitType>UNIT_KHAMUG_HAWK_RIDER</UnitType>
+      <SelectionSound>AS2D_SELECT_SCOUT</SelectionSound>
+      <FirstSelectionSound>AS2D_BIRTH_SCOUT</FirstSelectionSound>
+    </Row>
+  </UnitGameplay2DScripts>
+
+  <Language_en_US>
+    <Row Tag="TXT_KEY_UNIT_KHAMUG_HAWK_RIDER">
+      <Text>Hawk Rider</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CIV5_KHAMUG_HAWK_RIDER_TEXT">
+      <Text> "Look at my horse. My horse is amazing." <newline></newline> Dont lick it though, seriously.
+  </Text>
+    </Row>
+    <Row Tag="TXT_KEY_UNIT_KHAMUG_HAWK_RIDER_STRATEGY">
+		<Text>The Hawk Rider is a scout replacement, and only the Khamug may build it. </Text>
+    </Row>
+    <Row Tag="TXT_KEY_UNIT_HELP_KHAMUG_HAWK_RIDER">
+		<Text>Excellent at exploring and fearsome in combat, this Khamug Unique Unit replaces the Scout. It is mounted on horseback, and such can travel much faster than a normal scout. </Text>
+    </Row>
+  </Language_en_US>
+</GameData>

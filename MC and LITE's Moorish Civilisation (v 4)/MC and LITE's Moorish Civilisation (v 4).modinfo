@@ -1,0 +1,121 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mod id="56ea3ef7-53e6-458f-b66b-b8361bacd53c" version="4">
+  <Properties>
+    <Name>MC and LITE's Moorish Civilisation</Name>
+    <Teaser>MCs and LITE's Moorish Civilisation</Teaser>
+    <Description>The Iberian Peninsula today is owned completely by Spain and Portugal, with the exception of the British rule in Gibraltar, but for years they had been dominated my an outside power. These people were known as the Moors; Arabs, though mainly hailing from Morocco. For years, they waged war against the crumbling Christian kingdoms in the region, overcoming them quickly, and soon establishing a centre of power in the city of Cordoba. This city became one of the most well-known settlements in the region the Arabs called Al-Andalus, and was famed for its wealth, arts and even religious tolerance.</Description>
+    <HideSetupGame>0</HideSetupGame>
+    <AffectsSavedGames>1</AffectsSavedGames>
+    <MinCompatibleSaveVersion>0</MinCompatibleSaveVersion>
+    <SupportsSinglePlayer>1</SupportsSinglePlayer>
+    <SupportsMultiplayer>1</SupportsMultiplayer>
+    <SupportsHotSeat>1</SupportsHotSeat>
+    <SupportsMac>1</SupportsMac>
+    <ReloadAudioSystem>1</ReloadAudioSystem>
+    <ReloadLandmarkSystem>0</ReloadLandmarkSystem>
+    <ReloadStrategicViewSystem>1</ReloadStrategicViewSystem>
+    <ReloadUnitSystem>1</ReloadUnitSystem>
+  </Properties>
+  <Dependencies />
+  <References>
+    <Mod id="31a31d1c-b9d7-45e1-842c-23232d66cd47" minversion="0" maxversion="999" title="JFD's Cultural Diversity (Core)" />
+    <Mod id="eea66053-7579-481a-bb8d-2f3959b59974" minversion="0" maxversion="999" title="JFD’s Piety " />
+    <Mod id="1f941088-b185-4159-865c-472df81247b2" minversion="0" maxversion="999" title="Sukritact’s Events &amp; Decisions" />
+    <Mod id="36e88483-48fe-4545-b85f-bafc50dde315" minversion="0" maxversion="999" title="Yet (not) Another Earth Map Pack" />
+    <Mod id="e576894a-ed2b-4033-be14-ed1c8ceb81d3" minversion="0" maxversion="999" title="Map Labels" />
+    <Mod id="7fdd72a5-d4ae-441c-bc4e-2e3d2a26cff4" minversion="0" maxversion="999" title="Ethnic Units" />
+    <Mod id="8670da15-d435-44ea-9758-7438cb321411" minversion="0" maxversion="999" title="R.E.D. Modpack" />
+    <Mod id="1153b26a-69fd-4cd5-899c-a8ba8e0e5e5d" minversion="0" maxversion="999" title="Civ IV Leader Traits in Civ V" />
+    <Mod id="6676902b-b907-45f1-8db5-32dcb2135eee" minversion="0" maxversion="999" title="JFD's Exploration Continued Expanded" />
+    <Mod id="6010e6f6-918e-48b8-9332-d60783bd8fb5" minversion="0" maxversion="999" title="Historical Religions Complete" />
+  </References>
+  <Blocks />
+  <Files>
+    <File md5="860C4F715F58719FB25894272B31AB29" import="1">Art/MosqueOfCordoba_Splash.dds</File>
+    <File md5="C7C60575BA7CFFCD6BA94883E56E904F" import="1">Art/Diplo/AbdArRahmanIII_Diplo.dds</File>
+    <File md5="D3D6F5A4F8C2906132D47F3791F11F39" import="1">Art/Diplo/AbdArRahmanIII_DOM.dds</File>
+    <File md5="3E64119C6F9947E12C6B32628E86D0FE" import="1">Art/Diplo/MC_LITE_MoorsMap_512.dds</File>
+    <File md5="52DEE9F9FF4263077468C55846C8148B" import="1">Art/Diplo/AbdArRahmanIII_Diplo.xml</File>
+    <File md5="A6A0AED536C47AD4A9DF8C0CFCEF3553" import="1">Art/IconAtlas/MC_LITE_MoorsAlphaAtlas_128.dds</File>
+    <File md5="D8F94FECFFE88F78B543D15B75103564" import="1">Art/IconAtlas/MC_LITE_MoorsAlphaAtlas_16.dds</File>
+    <File md5="52726FC907BC4B5CD39E87EAAB81EE5B" import="1">Art/IconAtlas/MC_LITE_MoorsAlphaAtlas_22.dds</File>
+    <File md5="2F40B46B983BE51755DC1FC9E4D60026" import="1">Art/IconAtlas/MC_LITE_MoorsAlphaAtlas_24.dds</File>
+    <File md5="326BA923524524640A07A8AE4E6DCC08" import="1">Art/IconAtlas/MC_LITE_MoorsAlphaAtlas_256.dds</File>
+    <File md5="D15ED419693E6A0D7B836F6643A7E51E" import="1">Art/IconAtlas/MC_LITE_MoorsAlphaAtlas_32.dds</File>
+    <File md5="66C387A6B176366773A657E5F44A9CAD" import="1">Art/IconAtlas/MC_LITE_MoorsAlphaAtlas_45.dds</File>
+    <File md5="D081B687E0505AAF1AB3371D17466943" import="1">Art/IconAtlas/MC_LITE_MoorsAlphaAtlas_48.dds</File>
+    <File md5="2516D110E97A98634F6F1206AFC95F4B" import="1">Art/IconAtlas/MC_LITE_MoorsAlphaAtlas_64.dds</File>
+    <File md5="E91221A62D8C33CCE3903A7B5D8C5FF8" import="1">Art/IconAtlas/MC_LITE_MoorsAlphaAtlas_80.dds</File>
+    <File md5="C1418FA5EC6EC464C7B971DC120ED8E0" import="1">Art/IconAtlas/MC_LITE_MoorsAtlas_128.dds</File>
+    <File md5="7E8787982789604FE37FC0F307493E54" import="1">Art/IconAtlas/MC_LITE_MoorsAtlas_256.dds</File>
+    <File md5="271DBE1F02A50CDF29936CB69DD30FCF" import="1">Art/IconAtlas/MC_LITE_MoorsAtlas_32.dds</File>
+    <File md5="7E1E116E7FFE71FC0744A6C62A1BAFCF" import="1">Art/IconAtlas/MC_LITE_MoorsAtlas_45.dds</File>
+    <File md5="E7274AA264005B67B55D123DDD1D7F73" import="1">Art/IconAtlas/MC_LITE_MoorsAtlas_64.dds</File>
+    <File md5="63DF75BD0C6799BA08CE7115F2422137" import="1">Art/IconAtlas/MC_LITE_MoorsAtlas_80.dds</File>
+    <File md5="FE59CE084819145A7C75329EA18B7A80" import="0">Art/MC_LITE_Moors_ArtDefines.sql</File>
+    <File md5="51EB1B050FC669B9C7B7A9DEAB018816" import="0">Art/MC_LITE_Moors_Audio.sql</File>
+    <File md5="E5810B2E33E136B78213622944B24FEF" import="1">Art/Music/AbdArRahmanIII_Peace.mp3</File>
+    <File md5="245918D2301F11B70DFC6DBD52093881" import="1">Art/Music/AbdArRahmanIII_War.mp3</File>
+    <File md5="30EBC65E77025B80B55B629881EAA602" import="1">Art/Music/MoorsDoM.mp3</File>
+    <File md5="044AB8513AAB0D76BCAA1D8DC175E4B5" import="1">Art/Unit/MC_GranadineCavalry.ftsxml</File>
+    <File md5="2F6FF72CE6A72AD6F1808EE3EF045B87" import="1">Art/Unit/MC_GranadineCavalry.fxsxml</File>
+    <File md5="9F9554FADEB3E995A20705B26F31DD7B" import="1">Art/Unit/MC_GranadineCavalry.gr2</File>
+    <File md5="820924BFA23148BDA5D5AD02C1797C97" import="0">Art/Unit/MC_GranadineCavalry.sql</File>
+    <File md5="4BF2C451E4EFB577C388FB9604A76EC9" import="1">Art/Unit/MC_GranadineCavalry_diff.dds</File>
+    <File md5="C64BEE03453273F70330DFAB554283D7" import="1">Art/Unit/MC_GranadineCavalry_sref.dds</File>
+    <File md5="EDD5BEA0C8FE4F9CC9DFCEE9EEFD89C3" import="1">Art/Unit/MC_LITE_GranadineCavalryUnitFlag_32.dds</File>
+    <File md5="12EC7BE4022739C97B1399FE81A952C3" import="1">Art/Unit/sv_GranadineCavalry.dds</File>
+    <File md5="4044C4D9A923F55B4669E5DD2D2280D8" import="0">Core/MC_LITE_Moors_Buildings.sql</File>
+    <File md5="68D39ECD24ACECCD6C2BA6F098C06120" import="0">Core/MC_LITE_Moors_Civilizations.sql</File>
+    <File md5="1ADC566FB7760FFF9462750783F85E81" import="0">Core/MC_LITE_Moors_Decisions.lua</File>
+    <File md5="130664DB8216137C44A6D00ABFE8E912" import="0">Core/MC_LITE_Moors_Diplomacy.sql</File>
+    <File md5="4E7DB6E46D85A153F9832AA05AA6C9EE" import="0">Core/MC_LITE_Moors_DiplomacyText.sql</File>
+    <File md5="CF8B9C734FB66789412A962E6B25634A" import="0">Core/MC_LITE_Moors_GameText.sql</File>
+    <File md5="9094D9912337B48BB389DA2A96210170" import="0">Core/MC_LITE_Moors_Leaderhead.sql</File>
+    <File md5="30617F512487F736DE3B86FDA7ED8A66" import="0">Core/MC_LITE_Moors_PlayerColours.sql</File>
+    <File md5="FEF4369DFAE02665AA25E1DEA116D257" import="0">Core/MC_LITE_Moors_Traits.sql</File>
+    <File md5="AEBCC0E9E411E533750D235277C4C9F0" import="0">Core/MC_LITE_Moors_Units.sql</File>
+    <File md5="BD2248419A46D4EFC1220C59038DBEE7" import="0">Core/Mod Support/MC_LITE_Moors_ModSupport.sql</File>
+    <File md5="BBF873BCB2CEEC2D5388FFFB5ADDE30A" import="1">Core/Mod Support/Decisions Support/MC_LITE_Moors_Decisions.lua</File>
+    <File md5="7E13F8CD9BB79229EFE4584FBDE11315" import="0">Core/Mod Support/Decisions Support/MC_LITE_Moors_Decisions.sql</File>
+    <File md5="F3026EAFBF90F830BD4CA6C95C7D0A26" import="0">Core/Mod Support/MC_LITE_Moors_YNAEMP_Support.sql</File>
+    <File md5="B31F7B2E31001A4F370BDA4B64D156C9" import="0">Lua/CityInfoStack.lua</File>
+    <File md5="4E7C5E4894BC0A0E0CBA1743787E1015" import="0">Lua/CityInfoStack.xml</File>
+    <File md5="F4F208B5C1CCDCD218B34617237F5171" import="0">Lua/MC_LITE_Moors_CoreFunctions.lua</File>
+    <File md5="50E4CE423551171940DB2FF5BC3F6550" import="0">Lua/Sukritact_ChangeResearchProgress.lua</File>
+    <File md5="8A5FC22EB73A2C2106DE16D1A3E98AF2" import="1">Lua/Sukritact_SaveUtils.lua</File>
+  </Files>
+  <Actions>
+    <OnModActivated>
+      <UpdateDatabase>Art/MC_LITE_Moors_ArtDefines.sql</UpdateDatabase>
+      <UpdateDatabase>Art/MC_LITE_Moors_Audio.sql</UpdateDatabase>
+      <UpdateDatabase>Core/MC_LITE_Moors_Buildings.sql</UpdateDatabase>
+      <UpdateDatabase>Core/MC_LITE_Moors_Diplomacy.sql</UpdateDatabase>
+      <UpdateDatabase>Core/MC_LITE_Moors_DiplomacyText.sql</UpdateDatabase>
+      <UpdateDatabase>Core/MC_LITE_Moors_GameText.sql</UpdateDatabase>
+      <UpdateDatabase>Core/MC_LITE_Moors_Leaderhead.sql</UpdateDatabase>
+      <UpdateDatabase>Core/MC_LITE_Moors_PlayerColours.sql</UpdateDatabase>
+      <UpdateDatabase>Core/MC_LITE_Moors_Traits.sql</UpdateDatabase>
+      <UpdateDatabase>Core/MC_LITE_Moors_Units.sql</UpdateDatabase>
+      <UpdateDatabase>Core/MC_LITE_Moors_Civilizations.sql</UpdateDatabase>
+      <UpdateDatabase>Art/Unit/MC_GranadineCavalry.sql</UpdateDatabase>
+      <UpdateDatabase>Core/Mod Support/Decisions Support/MC_LITE_Moors_Decisions.sql</UpdateDatabase>
+      <UpdateDatabase>Core/Mod Support/MC_LITE_Moors_ModSupport.sql</UpdateDatabase>
+      <UpdateDatabase>Core/Mod Support/MC_LITE_Moors_YNAEMP_Support.sql</UpdateDatabase>
+    </OnModActivated>
+  </Actions>
+  <EntryPoints>
+    <EntryPoint type="InGameUIAddin" file="Lua/Sukritact_ChangeResearchProgress.lua">
+      <Name>Sukritact_ChangeResearchProgress.lua</Name>
+      <Description>Sukritact_ChangeResearchProgress.lua</Description>
+    </EntryPoint>
+    <EntryPoint type="InGameUIAddin" file="Lua/MC_LITE_Moors_CoreFunctions.lua">
+      <Name>MC_LITE_Moors_CoreFunctions.lua</Name>
+      <Description>MC_LITE_Moors_CoreFunctions.lua</Description>
+    </EntryPoint>
+    <EntryPoint type="InGameUIAddin" file="Lua/CityInfoStack.lua">
+      <Name>CityInfoStack.lua</Name>
+      <Description>CityInfoStack.lua</Description>
+    </EntryPoint>
+  </EntryPoints>
+</Mod>

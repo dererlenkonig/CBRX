@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 3/21/2013 6:51:09 PM -->
+<GameData>
+	<UnitPromotions>
+		<Row>
+			<Type>PROMOTION_ASKARI_ARCHER</Type>
+			<Description>Hit-and-run Tactics</Description>
+			<Help>May move after Attacking.</Help>
+			<Sound>AS2D_IF_LEVELUP</Sound>
+			<CanMoveAfterAttacking>true</CanMoveAfterAttacking>
+			<CannotBeChosen>true</CannotBeChosen>
+			<PortraitIndex>59</PortraitIndex>
+			<IconAtlas>ABILITY_ATLAS</IconAtlas>
+			<PediaType>PEDIA_ATTRIBUTES</PediaType>
+			<PediaEntry>Hit-and-run Tactics</PediaEntry>
+		</Row>
+		<Row>
+			<Type>PROMOTION_ASKARI</Type>
+			<Description>Askari</Description>
+			<Help>This unit is an Askari Mounted Archer.</Help>
+			<Sound>AS2D_IF_LEVELUP</Sound>
+			<CannotBeChosen>true</CannotBeChosen>
+			<PortraitIndex>59</PortraitIndex>
+			<IconAtlas>ABILITY_ATLAS</IconAtlas>
+			<PediaType>PEDIA_ATTRIBUTES</PediaType>
+			<PediaEntry>Askari</PediaEntry>
+		</Row>
+		<Row>
+			<Type>PROMOTION_TWIN_FURY</Type>
+			<Description>Twin Fury</Description>
+			<Help>Gains an additional attack.</Help>
+			<Sound>AS2D_IF_LEVELUP</Sound>
+			<PromotionPrereq>PROMOTION_ASKARI</PromotionPrereq>
+			<ExtraAttacks>1</ExtraAttacks>
+			<PortraitIndex>35</PortraitIndex>
+			<IconAtlas>PROMOTION_ATLAS</IconAtlas>
+			<PediaType>PEDIA_ATTRIBUTES</PediaType>
+			<PediaEntry>Twin Fury</PediaEntry>
+		</Row>
+		<Row>
+			<Type>PROMOTION_DJSH_SELJUQ_ARCHER_EXPERTISE</Type>
+			<Description>Crescent Formation</Description>
+			<Help>+20% [ICON_RANGE_STRENGTH] Ranged Combat Strength.</Help>
+			<Sound>AS2D_IF_LEVELUP</Sound>
+			<CannotBeChosen>true</CannotBeChosen>
+			<RangedAttackModifier>20</RangedAttackModifier>
+			<PortraitIndex>59</PortraitIndex>
+			<IconAtlas>ABILITY_ATLAS</IconAtlas>
+			<PediaType>PEDIA_ATTRIBUTES</PediaType>
+			<PediaEntry>Crescent Formation</PediaEntry>
+		</Row>
+	</UnitPromotions>
+	<UnitPromotions_UnitCombats>
+		<Row>
+			<PromotionType>PROMOTION_ASKARI_ARCHER</PromotionType>
+			<UnitCombatType>UNITCOMBAT_ARCHER</UnitCombatType>
+		</Row>
+		<Row>
+			<PromotionType>PROMOTION_ASKARI_ARCHER</PromotionType>
+			<UnitCombatType>UNITCOMBAT_MOUNTED</UnitCombatType>
+		</Row>
+		<Row>
+			<PromotionType>PROMOTION_TWIN_FURY</PromotionType>
+			<UnitCombatType>UNITCOMBAT_ARCHER</UnitCombatType>
+		</Row>
+		<Row>
+			<PromotionType>PROMOTION_TWIN_FURY</PromotionType>
+			<UnitCombatType>UNITCOMBAT_MOUNTED</UnitCombatType>
+		</Row>
+		<Row>
+			<PromotionType>PROMOTION_ASKARI</PromotionType>
+			<UnitCombatType>UNITCOMBAT_ARCHER</UnitCombatType>
+		</Row>
+		<Row>
+			<PromotionType>PROMOTION_ASKARI</PromotionType>
+			<UnitCombatType>UNITCOMBAT_MOUNTED</UnitCombatType>
+		</Row>
+		<Row>
+			<PromotionType>PROMOTION_DJSH_SELJUQ_ARCHER_EXPERTISE</PromotionType>
+			<UnitCombatType>UNITCOMBAT_ARCHER</UnitCombatType>
+		</Row>
+	</UnitPromotions_UnitCombats>
+</GameData>

@@ -1,0 +1,320 @@
+<GameData>
+	<Language_en_US>
+		<!-- City names -->
+		<Row Tag="TXT_KEY_CITY_NAME_CIVILIZATION_DMS_VENEZUELA_1">
+			<Text>Caracas</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CIVILIZATION_DMS_VENEZUELA_2">
+			<Text>Maracaibo</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CIVILIZATION_DMS_VENEZUELA_3">
+			<Text>Valencia</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CIVILIZATION_DMS_VENEZUELA_4">
+			<Text>Barquisimeto</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CIVILIZATION_DMS_VENEZUELA_5">
+			<Text>Maracay</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CIVILIZATION_DMS_VENEZUELA_6">
+			<Text>Ciudad Guayana</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CIVILIZATION_DMS_VENEZUELA_7">
+			<Text>Barcelona</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CIVILIZATION_DMS_VENEZUELA_8">
+			<Text>Maturín</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CIVILIZATION_DMS_VENEZUELA_9">
+			<Text>Turmero</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CIVILIZATION_DMS_VENEZUELA_10">
+			<Text>Ciudad Bolívar</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CIVILIZATION_DMS_VENEZUELA_11">
+			<Text>Barinas</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CIVILIZATION_DMS_VENEZUELA_12">
+			<Text>Los Teques</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CIVILIZATION_DMS_VENEZUELA_13">
+			<Text>Santa Teresa del Tuy</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CIVILIZATION_DMS_VENEZUELA_14">
+			<Text>Cumaná</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CIVILIZATION_DMS_VENEZUELA_15">
+			<Text>San Cristóbal</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CIVILIZATION_DMS_VENEZUELA_16">
+			<Text>San Felipe</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CIVILIZATION_DMS_VENEZUELA_17">
+			<Text>Puerto La Cruz</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CIVILIZATION_DMS_VENEZUELA_18">
+			<Text>Mérida</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CIVILIZATION_DMS_VENEZUELA_19">
+			<Text>Cabimas</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CIVILIZATION_DMS_VENEZUELA_20">
+			<Text>Guatire</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CIVILIZATION_DMS_VENEZUELA_21">
+			<Text>Porlamar</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CIVILIZATION_DMS_VENEZUELA_22">
+			<Text>Cúa</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CIVILIZATION_DMS_VENEZUELA_23">
+			<Text>Guarenas</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CIVILIZATION_DMS_VENEZUELA_24">
+			<Text>San Fernando de Apure</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CIVILIZATION_DMS_VENEZUELA_25">
+			<Text>Ocumare del Tuy</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CIVILIZATION_DMS_VENEZUELA_26">
+			<Text>Puerto Cabello</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CIVILIZATION_DMS_VENEZUELA_27">
+			<Text>Guacara</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CIVILIZATION_DMS_VENEZUELA_28">
+			<Text>El Tigre</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CIVILIZATION_DMS_VENEZUELA_29">
+			<Text>El Limón</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CIVILIZATION_DMS_VENEZUELA_30">
+			<Text>Naguanagua</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CIVILIZATION_DMS_VENEZUELA_31">
+			<Text>Acarigua</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CIVILIZATION_DMS_VENEZUELA_32">
+			<Text>Coro</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CIVILIZATION_DMS_VENEZUELA_33">
+			<Text>Punto Fijo</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CIVILIZATION_DMS_VENEZUELA_34">
+			<Text>Cabudare</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CIVILIZATION_DMS_VENEZUELA_35">
+			<Text>Charallave</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CIVILIZATION_DMS_VENEZUELA_36">
+			<Text>Ciudad Ojeda</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CIVILIZATION_DMS_VENEZUELA_37">
+			<Text>Palo Negro</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CIVILIZATION_DMS_VENEZUELA_38">
+			<Text>Yaritagua</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CIVILIZATION_DMS_VENEZUELA_39">
+			<Text>Cagua</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CIVILIZATION_DMS_VENEZUELA_40">
+			<Text>Anaco</Text>
+		</Row>
+		<!-- Spy Names -->
+		<Row Tag="TXT_KEY_SPY_NAME_DMS_VENEZUELA_9">
+			<Text>Fernando Soto Rojas</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_DMS_VENEZUELA_8">
+			<Text>Nicolas Maduro</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_DMS_VENEZUELA_7">
+			<Text>Rafael Caldera</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_DMS_VENEZUELA_6">
+			<Text>Diosdado Cabello</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_DMS_VENEZUELA_5">
+			<Text>Jesse Chacón</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_DMS_VENEZUELA_4">
+			<Text>Rafael Ramírez</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_DMS_VENEZUELA_3">
+			<Text>Francisco Arias Cárdenas</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_DMS_VENEZUELA_2">
+			<Text>Carlos Andrés Pérez</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_DMS_VENEZUELA_1">
+			<Text>Hernán Grüber Ódreman</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_DMS_VENEZUELA_0">
+			<Text>Pedro Carmona</Text>
+		</Row>
+		<!--  -->
+		<Row Tag="TXT_KEY_CIVILIZATION_DMS_VENEZUELA">
+			<Text>Venezuelan Empire</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILIZATION_DMS_VENEZUELA_SHORT">
+			<Text>Venezuela</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILIZATION_DMS_VENEZUELA_ADJECTIVE">
+			<Text>Venezuelan</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_CIVILIZATIONS_DMS_VENEZUELA_HEADING_1">
+			<Text>History</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_CIVILIZATIONS_DMS_VENEZUELA_TEXT_1">
+			<Text>The country of Venezuela, officially known as the Bolivarian Republic of Venezuela, is located on the northern coast of the South American continent.  Its territory encompasses roughly 354,000 square miles (916,445 square kilometers), on which lives the country’s estimated population of 29.1 million inhabitants.  From a natural perspective, Venezuela is considered a state with extremely high biodiversity, with habitats ranging from the Andes Mountains in the west to the Amazon Basin rainforest in the south, via extensive llanos plains and Caribbean coastline in the center and the Orinoco River Delta in the east.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_CIVILIZATIONS_DMS_VENEZUELA_HEADING_2">
+			<Text>Introduction</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_CIVILIZATIONS_DMS_VENEZUELA_TEXT_2">
+			<Text>Venezuela boasts a long and storied history. In 1522, the country was colonized by the Spanish amid resistance from the region’s indigenous people.  In 1811, the country became one of the first Spanish-American colonies to declare independence, which was not securely established until 1821, when Venezuela was included as a department of the federal republic of Gran Colombia.[NEWLINE]Venezuela achieved full independence as a separate country in 1830.  Throughout the 19th century Venezuela suffered political turmoil and dictatorship, remaining dominated by regional caudillos (military strongmen) until the mid-20th century.[NEWLINE]Since 1958, the country has had a series of democratic governments. Economic shocks in the 1980s and 1990s led to several political crises, including the deadly Caracazo riots of 1989, two attempted coups in 1992, and the impeachment of President Carlos Andrés Pérez for embezzlement of public funds in 1993. A collapse in confidence in the existing parties saw the 1998 election of former career officer Hugo Chávez and the launch of the Bolivarian Revolution, beginning with a 1999 Constituent Assembly to write a new Constitution of Venezuela.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_CIVILIZATIONS_DMS_VENEZUELA_HEADING_3">
+			<Text>Pre-History of Venezuela</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_CIVILIZATIONS_DMS_VENEZUELA_TEXT_3">
+			<Text>Historians postulate that the first inhabitants of the Americas came from Siberia across the Bering Strait, spread over the North American continent, then moved down to Central and South America in several waves of migration. There is evidence of human habitation in what is now northwest Venezuela going back more than 15,000 years. Steady agriculture was established around the 1st millennium, leading to the first year-round settlements in the region.[NEWLINE]Groups which were formerly nomadic began to develop into larger cultures in Venezuela, cultures that belonged to three main linguistic families: Carib, Arawak and Chibcha. By the time of the Spanish conquest at the end of the 15th century, some 300,000 to 400,000 indigenous people inhabited the region that is now Venezuela.[NEWLINE]The warlike Carib tribes occupied the central and eastern coast of the country during this time, living off fishing and shifting agriculture. Various Arawak groups were scattered over the western plains and north up to the coast. They lived off hunting and food-gathering, and occasionally practiced farming.[NEWLINE]The Timote-Cuica tribes, of the Chibcha linguistic family, were the most advanced of Venezuela’s pre-Hispanic societies. They lived in the Andes and developed advanced agricultural techniques, including irrigation and terracing. They were also skilled craftspeople, as we can judge by the artifacts they left behind: examples of their fine pottery are shown in museums across the country. No major architectural works have survived from the pre-colonial era, although there are some smaller sites in the Andean region that have recently been unearthed and will be opening for tourism in the next few years.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_CIVILIZATIONS_DMS_VENEZUELA_HEADING_4">
+			<Text>Colonial History of Venezuela</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_CIVILIZATIONS_DMS_VENEZUELA_TEXT_4">
+			<Text>In the year 1498, on his third trip to the New World, Christopher Columbus became the first European to set foot on Venezuelan soil. Columbus anchored at the eastern tip of the Península de Paria, just opposite what is now the city of Trinidad.  He originally believed that he was on another island, but the voluminous mouth of the Río Orinoco hinted that he had stumbled onto something slightly larger.[NEWLINE]A year after Columbus’ discovery, the Spanish explorer Alonso de Ojeda, accompanied by the Italian explorer Amerigo Vespucci, sailed up to the Península de la Guajira, at the western end of present-day Venezuela.  Upon entering Lago de Maracaibo, the Spaniards saw the local indigenous people living in palafitos (thatched huts on stilts above the water). They called the land “Venezuela,” literally “Little Venice,” perhaps as a sarcastic sailor joke, as these rustic reed dwellings didn’t exactly match the opulent palaces of the Italian city they knew. The name of Venezuela appeared for the first time on a map in 1500 and has remained to this day. Laguna de Sinamaica is reputedly the place where the first Spanish sailors saw the palafitos, and you can see similar huts there today.[NEWLINE]Alonso de Ojeda sailed further west along the coast and briefly explored parts of what is now the country of Colombia. He saw local aborigines wearing gold adornments and was astonished by their wealth. Their stories about fabulous treasures inland gave birth to the myth of El Dorado (The Golden One), a mysterious land abundant in gold. Attracted by these supposed riches, the shores of Venezuela and Colombia became the target of a number of Spanish expeditions, an obsession with El Dorado driving them into the interior. Their search resulted in the rapid colonization of the land, though El Dorado was naturally never found.[NEWLINE]The Spanish established their first settlement on Venezuelan soil around 1500, at Nueva Cádiz, on the small island of Cubagua, just south of Isla de Margarita. Pearl harvesting provided a livelihood for the settlers, and the town developed into a busy port until an earthquake and tidal wave destroyed it in 1541. The earliest Venezuelan town that is still in existence, Cumaná, on the northeast coast, dates back to 1521 and is an enjoyable place to visit, even though earthquakes ruined much of the early Spanish colonial architecture.[NEWLINE]From an official standpoint, most of Venezuela was ruled by Spain from Santo Domingo (present-day capital of the Dominican Republic) until 1717, when it fell under the administration of the newly created viceroyalty of Nueva Granada, with its capital in Bogotá, Colombia.[NEWLINE]The colony’s population of indigenous communities and Spanish invaders diversified with the arrival of black slaves, brought from Africa to serve as the workforce in a number of agricultural pursuits. Most of them were set to work on plantations on the Caribbean coast. By the 18th century, Africans had surpassed the indigenous population in terms of number.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_CIVILIZATIONS_DMS_VENEZUELA_HEADING_5">
+			<Text>Independence: History of Venezuela in the Early 19 Century</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_CIVILIZATIONS_DMS_VENEZUELA_TEXT_5">
+			<Text>With but a few exploited gold mines, Venezuela lurked in the shadows of the Spanish Empire for its first three centuries. However, the country took a more prominent role at the beginning of the 19th century, when Venezuela gave Latin America one of its greatest heroes: a man named Simón Bolívar.[NEWLINE]Venezuela longed to be out from under the thumb of the Spanish Empire, and in 1806 a revolutionary by the name of Francisco de Miranda lit the initial flame for that cause. However, his efforts to set up an independent administration in Caracas ended when fellow conspirators handed him over to the Spanish. He was shipped to Spain and died in jail. Bolívar then assumed leadership of the revolution. After unsuccessful initial attempts to defeat the Spaniards at home, he withdrew to Colombia, then to Jamaica, until the opportune moment came in 1817.[NEWLINE]The Napoleonic Wars had just ended in Europe, and Bolívar’s agent in London was able to raise money and arms, and recruit a small number of British Legion veterans of the Peninsular War. With this force and an army of horsemen from Los Llanos, Bolívar marched over the Andes and defeated the Spanish at the Battle of Boyacá, bringing independence to Colombia in August of 1819. Four months later in Angostura (present-day Ciudad Bolívar), the Angostura Congress proclaimed Gran Colombia (Great Colombia), a new state unifying what are now the sovereign countries of Colombia, Venezuela and Ecuador (though the last two were still under Spanish rule). The memories of the event are still alive in Ciudad Bolívar, and you can see the great mansion where the first congress debated. Venezuela’s liberation came on June 24, 1821 at Carabobo, where Bolívar’s troops defeated the Spanish royalist army.[NEWLINE]Although Venezuela was seen as the least important of Gran Colombia’s three provinces, the country bore the brunt of the fighting. Venezuelan patriots fought not only on their own territory, but also in the armies that Bolívar led into Colombia and down the Pacific Coast. By the end of 1824, Bolívar and his assistants had liberated Ecuador, Peru and Bolivia. It’s estimated that a quarter of the Venezuelan population died in the independence wars.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_CIVILIZATIONS_DMS_VENEZUELA_HEADING_6">
+			<Text>Gran Colombia and the History of Venezuela in the Late 19 Century</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_CIVILIZATIONS_DMS_VENEZUELA_TEXT_6">
+			<Text>Bolívar’s vision of a unified republic fell apart even before he died in 1830. On his deathbed, he proclaimed: “America is ungovernable. The man who serves a revolution plows the sea. This nation will fall inevitably into the hands of the unruly mob and then will pass into the hands of almost indistinguishable petty tyrants.” Sadly, he was not far off the mark with those statements. The three-province state of Gran Colombia began to collapse from the moment of its birth; the central regime was incapable of governing the immense country with its racial and regional differences. The new state existed for only a decade before splitting into three separate countries.[NEWLINE]Following Venezuela’s separation and departure from Gran Colombia, the Venezuelan congress approved a new constitution and—quite incredibly—banned Bolívar from his own homeland.  In fact, it took the Venezuelan nation 12 long years to finally acknowledge its debt to the man to whom it owed its very freedom. In 1842, Bolívar’s remains were brought from Santa Marta, Colombia, where he died, to Caracas and entombed in the national cathedral.  In 1876 they were solemnly transferred to the Panteón Nacional in Caracas, where they now rest in a bronze sarcophagus.[NEWLINE]The year 1830, when Venezuela achieved its full independence as a separate country, marked the beginning of the era of “indistinguishable petty tyrants.” The post-independence period in Venezuela was marked by serious governmental problems that continued for more than a century. These were times of despotism and anarchy, with the country being ruled by a series of military dictators known as caudillos.[NEWLINE]The first of the caudillos was General José Antonio Páez, who controlled the country for 18 long years (1830–48). It was a tough rule, but it established a certain political stability and put the weak economy on its feet. The period that followed was an almost uninterrupted chain of civil wars that was only stopped by another long-lived dictator, General Antonio Guzmán Blanco (1870–88). Blanco launched a broad program of reform, including a new constitution, and assured some temporary stability, but his despotic rule triggered wide, popular opposition, and when he stepped down the country plunged again into a bloody civil war.[NEWLINE]During the 1840s, Venezuela raised the question of its eastern border with British Guiana (present-day Guyana); claiming for its own as much as two-thirds of Guiana, up to the Río Esequibo. The issue was a subject of lengthy diplomatic negotiations and was eventually settled in 1899 by an arbitration tribunal, which gave rights over the questioned territory to Great Britain. Despite the ruling, Venezuela maintains its claim to this day. All maps produced in Venezuela have this chunk of Guyana within Venezuela’s boundaries, labeled “Zona en Reclamación.”[NEWLINE]Yet another conflict that led to serious international tension was Venezuela’s failure to meet payments to Great Britain, Italy and Germany on loans accumulated during the government of yet another caudillo, General Cipriano Castro (1899–1908). In response, the three European countries sent their navies to blockade Venezuelan seaports in 1902.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_CIVILIZATIONS_DMS_VENEZUELA_HEADING_7">
+			<Text>History of Venezuela in the 20 Century</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_CIVILIZATIONS_DMS_VENEZUELA_TEXT_7">
+			<Text>The first half of the 20th century was dominated by five successive military rulers from the Andean state of Táchira. The longest lasting and most tyrannical of these was the General Juan Vicente Gómez, who seized power in 1908 and didn’t relinquish it until his death in 1935. During his ruthless reign, Gómez phased out the parliament, squelched the opposition and monopolized power.[NEWLINE]The discovery of oil in the 1910s helped the Gómez regime put the national economy on its feet. By the late 1920s, Venezuela was the world’s largest exporter of oil, which not only contributed to economic recovery but also enabled the government to pay off the country’s entire foreign debt. As in most oil-rich-states, almost none of the oil wealth made its way to the common citizens. The overwhelming majority of Venezuelans continued to subsist in poverty with little or no educational or health facilities, let alone reasonable housing. Fast oil money also led to the neglect of agriculture and to the development of other types of production. It was easier to just import everything from abroad, which worked for a while, but proved to be unsustainable.[NEWLINE]Tensions in Venezuela rose treacherously during the following dictatorships, exploding in 1945 when Rómulo Betancourt, leader of the left-wing Acción Democrática (AD) party, took control of the government. A new constitution was adopted in 1947, and the noted novelist Rómulo Gallegos became president in Venezuela’s first democratic election. The inevitable coup took place only eight months after Gallegos’ election, with Colonel Marcos Pérez Jiménez emerging as the leader. Once in control, he smashed the opposition and plowed oil money into public works and built up Caracas. He superficially modernized the country but the mushrooming development did not heal the country’s economic and social disparities, nor did it quell the bitter resentment that lingered from the coup.[NEWLINE]Pérez Jiménez was overthrown in 1958 by an alliance of civilians and navy and air-force officers. The country returned to democratic rule and Rómulo Betancourt was elected president. He enjoyed popular support and actually completed the constitutional five-year term of office – the first democratically elected Venezuelan president to do so. Since then, all changes of president have been by constitutional means, although the last decade has seen a few hiccups.[NEWLINE]During the prescribed term of President Rafael Caldera (1969–74), the steady stream of oil money flowed into the country’s coffers keeping the economy buoyant. President Carlos Andrés Pérez (1974–79) also benefited from the oil bonanza; not only did production of oil rise but, more importantly, the price quadrupled following the Arab-Israeli war in 1973. In 1975 Pérez nationalized the iron-ore and oil industries and went on a spending spree; imported luxury goods were in large supply in the country’s crammed shops and the nation got the impression that the mythical riches of El Dorado had finally materialized.[NEWLINE]In the late 1970s, the growing international recession and oil glut began to shake Venezuela’s economy to the core. Oil revenues declined, heightening unemployment and inflation, and once more forcing the country into foreign debt. The 1988 drop in world oil prices cut the country’s revenue in half, casting doubt on Venezuela’s ability to pay off its debt. Austerity measures introduced in 1989 by Pérez Jiménez (elected for the second time) triggered a wave of protests, culminating in the loss of more than 300 lives in three days of bloody riots known as “El Caracazo.” Further austerity measures sparked protests that often escalated into riots. Strikes and street demonstrations continued to be part of everyday life in Venezuela.[NEWLINE]To make matters even worse, there were two attempted coups d’état that occurred in Venezuela in 1992. The first, in February of that year, was led by paratrooper Colonel Hugo Chávez.  Shooting throughout Caracas claimed more than 20 lives, but the government retained control. Chávez was sentenced to long-term imprisonment. The second attempt, in November, was led by junior air-force officers. The air battle over Caracas, with war planes flying between skyscrapers, gave the coup a cinematic, if not apocalyptic, dimension. The Palacio de Miraflores, the presidential palace, was bombed and partially destroyed. The army was called to defend the president, and this time more than 100 people died.[NEWLINE]Corruption, bank failures and loan defaults plagued the government through the mid-1990s. In 1995, Venezuela was forced to devalue the currency by more than 70%. By the end of 1998, two-thirds of Venezuela’s 23 million inhabitants were living below the poverty line. Drug-trafficking and crime had increased and Colombian guerrillas had dramatically expanded their operations into Venezuela’s frontier areas.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_CIVILIZATIONS_DMS_VENEZUELA_HEADING_8">
+			<Text>Hugo Chávez and the History of Venezuela in the 21 Century</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_CIVILIZATIONS_DMS_VENEZUELA_TEXT_8">
+			<Text>When it comes to politics, there is perhaps nothing more noteworthy than a dramatic comeback, and that’s exactly what Venezuela witnessed toward the close of the 20 century.  The 1998 presidential election in Venezuela put Hugo Chávez, the leader of the 1992 failed coup, into the presidency.  After being pardoned in 1994, Chávez embarked on an aggressive populist campaign: comparing himself to Bolívar, promising help (and handouts) to the poorest masses and positioning himself in opposition to the US-influenced free-market economy. He vowed to produce a great, if vague, “peaceful and democratic social revolution.”[NEWLINE]After his victory in the election, however, Chávez’ “social revolution” was anything but peaceful. Shortly after taking office, Chávez set about rewriting the constitution. The new document was approved in a referendum in December 1999, granting him new and sweeping powers. The introduction of a package of new decree laws in 2001 was met with angry protests, and was followed by a massive and violent strike in April 2002. It culminated in a coup d’état run by military leaders sponsored by a business lobby, in which Chávez was forced to resign. He regained power two days later, but this only intensified the conflict.[NEWLINE]While the popular tensions rose, in December 2002 the opposition called a general strike in an effort to oust the president. The nationwide strike paralyzed the country, including its vital oil industry and a good part of the private sector. After 63 days, the opposition finally called off the strike, which had cost the country 7.6% of its GDP and further devastated the oil-based economy. Chávez again survived and claimed victory.[NEWLINE]National politics continued to be shaky until Chávez won a 2004 referendum and consolidated his already sweeping power. Emboldened by greater political support and his pockets engorged by high oil prices, Chávez quickly moved to expand his influence beyond the borders of Venezuela, reaching out to other Leftist leaders in Bolivia, Argentina, Cuba, Uruguay, Chile and Brazil. He had openly allied himself with Cuba’s Castro regime, supported the successful Leftist candidacy of Bolivia’s Evo Morales and Leftist candidates in Peru and Mexico who did not win office.[NEWLINE]In 2005, shortly after Caracas hosted the 6th World Social Forum, Chávez started a highly publicized and dubiously intentioned program to provide reduced-priced heating oil for impoverished people in the United States. The program was expanded in 2006 to include four of New York City’s five boroughs, providing 25 million gallons of fuel for low-income New Yorkers at 40% off the wholesale price. While the program obviously aided hundreds of thousands of poor New Yorkers, it was used as a political jab to Chávez’s then enemy, former U.S. President George W Bush.[NEWLINE]The end of 2006 was enveloped in the lead-up to the December 3 presidential election. Chávez’ closest challenger, Manuel Rosales, accused the president of providing impractical political favors and aid to other countries while poverty and crime increased at home, and also challenged Chávez’ government-approved land takeovers (for redistribution to the landless) and the military build-up for a hypothetical U.S. invasion. Chávez wrote Rosales off as a lackey for the United States and refused to debate him on TV. Chávez won again with the Organization of American States and the Carter Center certifying the results.[NEWLINE]Chávez came out of the Socialist closet during his second term, further increasing public works and social programs to benefit the poor (bringing basic healthcare to the barrios, for example) and nationalizing the country’s largest telecommunication, cement and steel companies, the majority of its electricity industry and many hotels, recreational and transport facilities. He has also managed to instill the idea of inclusion in politics among the general population whereas previous governments blatantly excluded all but the highest echelons of society.[NEWLINE]Despite contributing to Venezuela’s deep oil pockets and an improved life for the poor, Chávez’s popularity started to wane. Infrastructure upgrades, such as improved roads and bridges, shiny new subways and barrio teleféricos (cable cars) kept up appearances, but the decade ended with Venezuela struggling to combat a very serious energy and water shortage, a crisis that has struck the heart of the middle and upper classes. Widespread blackouts were commonplace throughout the country and Chávez called on all Venezuelans to limit their showers to three minutes only (a “Communist shower,” he said).[NEWLINE]As 2010 was ushered in, so was water rationing, with Caracas temporarily taking the brunt of the blow: Up to 48 hours per week without water. Chávez supporters balked at the idea, however, and rations were suspended in Caracas, amplifying the problem elsewhere and sparking protests in Mérida. Electricity Minister Ángel Rodríguez was removed from office over the debacle, but the cabinet shakeup didn’t stop there: In January alone, the Vice-President and Defense Minister, Ramón Carrizalez, and his wife, Environment Minister Yubirí Ortega; and the Minister for Public Banking, Eugenio Vásquez Orellana, all resigned. Rumors blamed the electricity crisis on a disagreement with government policy, though all three politicians denied this. A month later, the energy crisis deteriorated to the point that Chávez issued a state of emergency.[NEWLINE]Chávez also instilled many controversial policies to combat the country’s wild inflation and debilitating economy, including price controls on basic foodstuffs, a move that, on one hand, allows families to purchase the same amount of basic food with the same amount of money despite inflation; but sparked occasional food shortages of basics like milk and sugar on the other.  In January of 2010, Chávez announced a sharp devaluation of the currency known as the bolívar fuerte—the first since 2005—thus creating a two-tier official exchange rate in Venezuela, a move designed to boost revenue from oil exports and limit unnecessary imports.  However, the people of Venezuela, fearing widespread price increases and astronomical inflation, mobbed imported electronics stores. Chávez condemned stores that raised their prices and acted: The Venezuelan Institute for the Defense of People in Their Access to Goods and Service shut down dozens of stores for price-gouging.[NEWLINE]Elsewhere, strict currency controls meant that Venezuelans who travel abroad were only allowed a rationing of $2,500 in credit card and $500 cash per year to spend outside the country, leaving some feeling trapped within their own borders; and car showrooms were (and continue to be) virtually empty.[NEWLINE]Although Brazil’s controversial approval of Venezuela’s entry into Mercosur was a major victory for Chávez and bilateral trade, Chávez’s foreign relationships weren’t faring much better than his domestic economy. Bi-national relations with Colombia remained extremely fragile over the neighboring country’s accusations that Venezuela was supplying arms to FARC rebels and its decision to allow US troops to operate out of seven of its military bases. Chávez banned Colombian car imports and built up troops at the border after several suspicious, cross-border deaths on both sides. Things got personal over these bi-national issues during a private meeting of heads-of-state at the Group of Rio summit in Cancun in February 2010, when Colombian President Álvaro Uribe scoffed at Chávez: “‘Be a man…you’re brave speaking at a distance, but a coward when it comes to talking face to face.” Chávez nearly stormed out.[NEWLINE]Some popularity surveys, including one by the group known as Datanálisis, showed that Chávez’s approval rating in 2011 had fell to 46% – the first drop below 50% since 2004.  These numbers seemed to indicate that the controversial leader was running out of gas. [NEWLINE]Despite his waning popularity, Chávez, even after a publicized battle with colon cancer, declared his intentions to run for a fourth six-year term in the elections of 2012.  Chavez was indeed reelected in 2012, and while he did begin his fourth term on January 10, 2013, he eventually succumbed to his illness and died less than 2 months later on March 5, 2013.[NEWLINE][NEWLINE]Vice President, Nicolas Maduro, took over the presidential powers and duties for the remainder of Chávez's abbreviated term until presidential elections were held. Today, Maduro continues to serve as the president of Venezuela.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_CIVILIZATIONS_DMS_VENEZUELA_HEADING_9">
+			<Text>Venezuelan Factoids</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_CIVILIZATIONS_DMS_VENEZUELA_TEXT_9">
+			<Text>As of 2017, Venezuela have mustered more Miss World winners than any other nation.[NEWLINE][NEWLINE]Venezuela is home to the world’s largest rodent, the Capybara, which is a friendly herbivore animal that grazes mainly on grasses, fruit and tree bark.[NEWLINE][NEWLINE]Since the 1920s, during the Christmas season it has been customary to travel to morning church services on rollerskates.</Text>
+		</Row>
+		<!-- Hugo Chávez -->
+		<Row Tag="TXT_KEY_LEADER_DMS_HUGO_CHAVEZ">
+			<Text>Hugo Chávez</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_DMS_HUGO_CHAVEZ_HEADING_1">
+			<Text>History</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_DMS_HUGO_CHAVEZ_TEXT_1">
+			<Text>(Hugo Chávez Frías; Sabaneta de Barinas, 1954 - Caracas, 2013) Venezuelan military man and politician who was president of the country from 1999 until his death in 2013. The influence of this oft called populist politician trascended frontiers and brought upon the rise of a new leftist cadre within the continent, opposed to neoliberal economics and the influence of the United States of the region, while also preocupied with the less fortunate and the indigenous minorities.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_DMS_HUGO_CHAVEZ_HEADING_2">
+			<Text>Early life</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_DMS_HUGO_CHAVEZ_TEXT_2">
+			<Text>Hugo Chávez went to school in Sabaneta, while his superior studies were realized in the Venezuelan Military Academy, where he graduated as Lt. Lieutenant in 1975. He also got a grade in Military arts and science, engineering division, with mention in land. He took several posts in the armed forces. In december 1982 he created, alongside another two land captains, the bolivarian revolutionary 200 movement, which was a nationalistic and leftist movement.[NEWLINE][NEWLINE]In 1992 Chavez led a coup attempt to bring down the government of Carlos Andrés Pérez. Despite having been cheered on by the population at large, the coup failed and Chávez was detained, judged and sentenced to two years in prison. That same year another group of military men launched a coup who, amongst other things, sought to free Chávez.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_DMS_HUGO_CHAVEZ_HEADING_3">
+			<Text>From the army to politics</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_DMS_HUGO_CHAVEZ_TEXT_3">
+			<Text>In may 1993, the Parliament dismissed president Carlos Andrés Pérez, and the new elected president annuled the judicial case against Chávez. After being freed, Chávez abandoned the army and entered politics; he founded the V República movement and started touring the country exposing his beliefs.[NEWLINE][NEWLINE]Fighting the political class that had been directing the country the last few decades, accusing them of corruption and treason, Chávez began his discourse on denouncing corruption in the system and the main political parties.[NEWLINE]Given the chaotic state the country found itself in, Chávez discourse got unconditional support from a huge section of the population, which found itself desperate and impoverished. His opponents denounces of populism and empty promises only hardened Chávez discourse of a divided society with a decadent oligarchy on one side and the people on the other.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_DMS_HUGO_CHAVEZ_HEADING_4">
+			<Text>As President</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_DMS_HUGO_CHAVEZ_TEXT_4">
+			<Text>Heading the Movimiento V República and with the support of various leftist parties, Chávez presented his candidacy in the 1998 elections and was elected. Following his program, the new president followed through with the election of a constitutional assembly who had the task of redacting a new constitution for the nation, which would later be approved in a referendum. Chávez was then reelected in july 2000 for a second term.[NEWLINE]Two years later his government faced a coup attempt. Imprisoned in Orchila island, Chávez was brought back to his functions thanks to his supporters and the country returned to order in a few days, the opposition organized new protest that led to a general strike in the latter years of 2002 and the first months of 2003. Conflict increased and in August 2004 Chávez faced a new referendum to see if his term would continue, with a positive outcome.[NEWLINE][NEWLINE]Chavez was reelected on 2006 and went deeper on his politics of “Twenty first century socialism”, which meant that, amongst other things, he nationalized several important industries. Amongst other things, the Parliament removed the autonomy of the Central Bank, reduced working hours and created the position of president for life. This project was widely opposed to by the population.[NEWLINE]After his defeat, Chávez kept trying to find popular support to perpetuate his presidency. Thus, his supporters and opponents campaigned long and hard in a surprisingly civil election. Finally on february 2009 the capacity to be reelected any number of times had been approved. Once this was done, he announced his intentions to run again as presidential candidate in 2012.[NEWLINE]During this period Chávez drastically reduced analphabetism, eased access to superior studies for the poorer sections of the population, increased access to public health services and created popular markets with basic necessities getting subvensions from the state. The opposition meanwhile raised questions about judicial guarantees and crime which didn’t get proper answers.[NEWLINE]After being reelected, Chávez chose Nicolás Maduro as his vice-president and most likely successor given his deteriorating health. This period saw Maduro performing several presidential duties while Chávez sought treatment in Cuba, until his eventual death.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_DMS_HUGO_CHAVEZ_HEADING_5">
+			<Text>Judgement of History</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_DMS_HUGO_CHAVEZ_TEXT_5">
+			<Text>Chávez, given the recent events of his government, is still a drastically divisive figure, on one hand he spearheaded the so called “Pink Tide” in Latin America, a new string of leftist governments that allied amongst themselves and directly opposed the normal hegemony of the United States in the region, while drastically increasing the quality of life in their nations, on the other hand, his authoritarianism, his harsh denouncements of the western nations and the rapid deterioration of Venezuela after his death have raised many questions in regards to his character and his capacity to have founded a long lasting movement.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_DMS_HUGO_CHAVEZ_NAME">
+			<Text>Hugo Rafael Chávez Frías</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_DMS_HUGO_CHAVEZ_SUBTITLE">
+			<Text>Leader of Venezuela</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_DMS_HUGO_CHAVEZ_TITLES_1">
+			<Text>President of Venezuela</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_DMS_HUGO_CHAVEZ_LIVED">
+			<Text>1954 - 2013</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_DAWN_DMS_VENEZUELA_TEXT">
+			<Text>Aló Presidente, Hugo Chavez, architect of the Bolivarian Revolution of Venezuela! Your nation's economy weakened and miserable created an ideal situation for your rise to power. After being elected president, you used the newly discovered great wealth of Venezuela's petroleum industry to fund a socialist transition in Venezuela. The Bolivarian Missions aided a wide array of societal ills such as illiteracy and poor infrastructure. The developments in your nation and strong anti-imperialist rhetoric made you a natural leader of the Pink Tide, an international emergence of leftist governments throughout Latin America.[NEWLINE][NEWLINE]Revolutionary president, your country has once again fallen into extreme poverty and chaos. Can you revive the economy and improve the plight of its citizens? Can you protect your exploited brothers and sisters from the imperialists wishing to do them harm? Can you build a civilization that will stand the test of time?</Text>
+		</Row>
+		<!-- Bolivarian Socialism-->
+		<Row Tag="TXT_KEY_TRAIT_DMS_BOLIVARIAN_SOCIALISM_SHORT">
+			<Text>Bolivarian Socialism</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_DMS_BOLIVARIAN_SOCIALISM">
+			<Text>Gain [ICON_CULTURE] Culture for denouncing Civilzations, the amount increasing with your total Unit Maintenance Cost.</Text>
+		</Row>
+		<!-- Communal Council-->
+		<Row Tag="TXT_KEY_BUILDING_DMS_COMMUNAL_COUNCIL">
+			<Text>Communal Council</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_DMS_COMMUNAL_COUNCIL_TEXT">
+			<Text>The Communal Council project was initiated and promoted by President Hugo Chavez in 2006, thus highlighting the top-down approach in the development of participatory democracy but with the intention that they become self-managing entities.[NEWLINE][NEWLINE]Each communal council has a financial branch that is a cooperative. It differs from traditional cooperatives in that it is a social property, which hypothetically belongs to the community. The cooperative banks represent citizen power at its best.[NEWLINE]Financing for the Councils usually comes from Banco Agricola (Agricultural Bank) or the Venezuelan Agrarian Corporation. For example, when a communal council holds their assembly, it evaluates their necessities. Based on their deliberations, the Agricultural Bank will provide the financing requested and the Council will be responsible for the distribution of the resources.[NEWLINE]The Councils can apply up to $14,000 per project (although this is not specified in law) and receive funding from either local or National City governments. They can additionally earn funds through local fundraising initiatives and donations. Moreover, the Councils are allowed to set up their own communal banks that can dispense loans to other neighbouring councils.[NEWLINE]For second-time applicants, the monetary limit is raised to $28,000 even though other Councils have been reported to have received more than the specified limit.[NEWLINE]Eight months after the Communal Council Law was approved in 2006, over 12,000 councils had received funding for community projects. This has amounted to over $1 billion in micro loans.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_DMS_COMMUNAL_COUNCIL_HELP">
+			<Text>Unique Venezuelan Workshop replacement. Upon adopting a Social Policy, [ICON_PRODUCTION] Production is increased for 10 turns according to the City's Culture output.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_DMS_COMMUNAL_COUNCIL_STRATEGY">
+			<Text>In addition to the abilities of the Workshop it replaces, the Communal Council increases [ICON_PRODUCTION] Production based on the City's Culture output for 10 turns whenever a Social Policy is adopted.  Only Venezuela may build it.</Text>
+		</Row>
+		<!-- Ve-Nilangal -->
+		<Row Tag="TXT_KEY_UNIT_DMS_VE_NILANGAL">
+			<Text>Tortuga</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_DMS_VE_NILANGAL_TEXT">
+			<Text>The "Tortuga" is somewhat notorious as being one of the most distinctive, and arguably the ugliest, armored cars of the Interwar Period. It was one of the very first armored vehicles to be completely indigenously designed in South America, and was intended as much for intimidation as for war. In this case, Venezuela's Colombian neighbors had been making aggressive moves on their shared border, and the President of Venezuela ordered his engineers to develop a "tank" that could be built using Venezuelan resources. The result was an unusual vehicle, essentially a Ford Model AA pick up chassis, stripped down and covered over with an armored shell equipped with a conical turret and armed with the Venezuelan licensed version of the M1898 Colt Machine Gun. One unique, and sort of bizarre, feature, was the creation of a slip on caterpillar track designed to go around the rear two wheels on either side of the AA chassis, making this, in essence, a half tracked-armored car. Compared to the width and height of the chassis upon which it was built, the Tortuga was positively huge. Despite those two prominent "eye" like vision slits in the fore of the hull, visibility was reputedly terrible, and ventilation was questionable at best. A veteran of the Venezuelan Army who had been part of one unit of Tortugas described driving them during the daytime as "challenging" and at night as "terrifying." In responses to early complaints, the Venezuelan Army installed headlights on the vehicle... but they mounted them -under- the armored shell, essentially welded to the forward axle. The small round sections of the vehicle are windows made of bulletproof glass, another concession to visibility.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_DMS_VE_NILANGAL_HELP">
+			<Text>Fast and powerful late game Unit.[NEWLINE][NEWLINE]Only Venezuela may build it. The Tortuga is much weaker than the Tank, but upon being produced two copies will appear. Upon having depleted its [ICON_MOVES] Moves, automatically performs a ranged attack on an enemy Unit within two tiles if any is present. While being produced, the Tortuga provides [ICON_CULTURE] Culture.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_DMS_VE_NILANGAL_STRATEGY">
+			<Text>The Tortuga is the Venezuelan unique replacement for the Tank. The Tortuga is much weaker than the Tank, but upon being produced two copies of it appears. It will automatically perform a ranged attack on an enemy Unit if any is present when having depleted its [ICON_MOVES] Moves. The Tortuga provides [ICON_CULTURE] Culture while being produced. It can move after combat, allowing it to blow holes in enemy lines and then move into the now-vacant hexes.</Text>
+		</Row>
+		<!-- Sukritact's MCIS -->
+		<!-- JFD's DTP -->
+		<Row Tag="TXT_KEY_DMS_BOLIVARIAN_SOCIALISM_DTP_HELP">
+			<Text>{1_Num} is added from denounced Civilizations.</Text>
+		</Row>
+		<!-- dummy stuff -->
+		<Row Tag="TXT_KEY_BUILDING_DMS_COMMUNAL_COUNCIL_PRODUCTION">
+			<Text>DMS: Venezuela UB extra production</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_DMS_COMMUNAL_COUNCIL_PRODUCTION_HELP">
+			<Text>DMS: Venezuela UB extra production</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_DMS_COMMUNAL_COUNCIL_COUNTER">
+			<Text>DMS: Venezuela UB counter</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_DMS_COMMUNAL_COUNCIL_COUNTER_HELP">
+			<Text>DMS: Venezuela UB counter</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

@@ -1,0 +1,346 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 12/3/2017 10:07:31 PM -->
+<GameData>
+	<Language_en_US>
+		<!--UA-->
+		<Row Tag="TXT_KEY_TRAIT_C15_IROQUOIS_SHORT">
+			<Text>Great Law of Peace</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_C15_IROQUOIS">
+			<Text>Settling a City assigns it a Nation, granting bonuses, and Units from different Nations receive a Combat bonus when they start Adjacent. Your Forest and Jungle tiles act as Roads, forming [ICON_TRADE] City Connections once possible.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_C15_IROQUOIS_GREAT_LAW_PEACE_COMBAT">
+			<Text>Alliance of the Hodenosaunee</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_C15_IROQUOIS_GREAT_LAW_PEACE_COMBAT_HELP">
+			<Text>+20% Combat while adjacent to a Unit of a different Nation.</Text>
+		</Row>
+		<!--UU-->
+		<Row Tag="TXT_KEY_UNIT_C15_IROQUOIS_TOMAHAWK">
+			<Text>Tomahawk Raider</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_C15_IROQUOIS_TOMAHAWK_HELP">
+			<Text>Unique Ranged Swordsman replacement for the Iroquois. Requires no [ICON_RES_IRON] Iron, ignores Zone of Control, and has the Woodsman Promotion.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_C15_IROQUOIS_TOMAHAWK_STRATEGY">
+			<Text>The Tomahawk Raider is the unique Swordsman replacement for the Iroquois. Unlike the Swordsman it is a powerful Ranged Unit that can shoot a single tile. In addition to this it has movement bonuses in the Woodsman Promotion and by being able to ignore Zone of Control. Finally, the Tomahawk Hunter doesn't cost any [ICON_RES_IRON] Iron to train, making it easier to deploy.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_C15_IROQUOIS_TOMAHAWK_PEDIA">
+			<Text>The Tomahawk is an axe-headed tool initially used by the Algonquians, from whom the name is derived. These axes were made of stone - that was, until the Europeans showed up. The introduction of metal working improved the weapons drastically, and also opened up an artisan trade for the tool. It's effectiveness is proven by the fact that it is in use by various modern military units: after all, would you rather a little knife or a throwable axe?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_C15_IROQUOIS_TOMAHAWK">
+			<Text>Woodland Raider</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_C15_IROQUOIS_TOMAHAWK_HELP">
+			<Text>Ignores Zone of Control.</Text>
+		</Row>
+		<!--UB-->
+		<Row Tag="TXT_KEY_BUILDING_C15_IROQUOIS_LONGHOUSE_HELP">
+			<Text>Replaces the Workshop. Provides the Workshop's [ICON_PRODUCTION] Production bonuses in the City, and increases Yields from Forest tiles depending on the City's Nation.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_C15_IROQUOIS_LONGHOUSE_STRAT">
+			<Text>Unique Workshop replacement for the Iroquois. In addition to the Workshop's [ICON_PRODUCTION] Production bonus, as well as the ability to move [ICON_PRODUCTION] Production along Trade Routes from this City, the Longhouse provides additional Yields on Forest tiles depending on the City's Nation.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_C15_IROQUOIS_LONGHOUSE_HELP_JFDDLC">
+			<Text>Replaces the Workshop. Provides the Workshop's [ICON_PRODUCTION] Production bonuses in the City, and increases Yields from Forest tiles depending on the City's Nation. +1 [ICON_JFD_HEALTH] Health from Forests.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_C15_IROQUOIS_LONGHOUSE_STRAT_JFDDLC">
+			<Text>Unique Workshop replacement for the Iroquois. In addition to the Workshop's [ICON_PRODUCTION] Production bonus, as well as the ability to move [ICON_PRODUCTION] Production along Trade Routes from this City, the Longhouse provides additional Yields on Forest tiles depending on the City's Nation and +1 [ICON_JFD_HEALTH] Health on each Forest. Does not require any [ICON_JFD_POWER] Power.</Text>
+		</Row>
+		<!--Mohawk-->
+		<Row Tag="TXT_KEY_UNIT_C15_IROQUOIS_MOHAWK_HELP">
+			<Text>Standalone Unit for the Iroquois that may only be trained in Mohawk Cities. Recieves a Combat bonus in Forest and Jungle, and begins with the Woodsman Promotion. Requires no [ICON_RES_IRON] Iron.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_C15_IROQUOIS_MOHAWK_STRAT">
+			<Text>The Mohawk Warrior is a standalone Unit for the Iroquois that may only be trained in Cities belonging to the Mohawk Nation. While in Forest and Jungle it recieves Combat and mobility bonuses, and it requires no [ICON_RES_IRON] Iron to train.</Text>
+		</Row>
+		<!--Nations-->
+		<Row Tag="TXT_KEY_NATION_C15_MOHAWK">
+			<Text>Mohawk Nation</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NATION_C15_MOHAWK_HELP">
+			<Text>+10 XP to Units trained in this City. Allows the training of the Mohawk Warrior upon discovering Iron Working. The Longhouse in this City provides +1 [ICON_PRODUCTION] Production on Forest tiles.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NATION_C15_MOHAWK_PROMOTION_HELP">
+			<Text>This Unit belongs to the Mohawk Nation.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NATION_C15_ONONDAGA">
+			<Text>Onondaga Nation</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NATION_C15_ONONDAGA_HELP">
+			<Text>This City enters We Love The King Day whenever you adopt a Social Policy. The Longhouse in this City provides +1 [ICON_CULTURE] Culture on Forest tiles.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NATION_C15_ONONDAGA_HELP_JFDDLC">
+			<Text>This City enters [ICON_JFD_WLTKD] We Love The King Day whenever you adopt a Social Policy or adopt a Left or Right [ICON_JFD_REFORM] Reform. The Longhouse in this City provides +1 [ICON_CULTURE] Culture on Forest tiles.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_C15_IROQUOIS_ONONDAGA_WLTKD">
+			<Text>{1_City} has entered a We Love The King Day!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NATION_C15_ONONDAGA_PROMOTION_HELP">
+			<Text>This Unit belongs to the Onondaga Nation</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NATION_C15_ONEIDA">
+			<Text>Oneida Nation</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NATION_C15_ONEIDA_HELP">
+			<Text>City [ICON_PEACE] Faith output contributes towards [ICON_STRENGTH] Defence. The Longhouse in this City provides +1 [ICON_PEACE] Faith on Forest tiles.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NATION_C15_ONEIDA_PROMOTION_HELP">
+			<Text>This Unit belongs to the Oneida Nation</Text>
+		</Row>
+		<Row Tag="TXT_KEY_C15_IROQUOIS_DEFENCE_MCIS_DESC">
+			<Text>People of the Standing Stone</Text>
+		</Row>
+		<Row Tag="TXT_KEY_C15_IROQUOIS_DEFENCE_MCIS_HELP">
+			<Text>+{1_Def} [ICON_STRENGTH] Defence from [ICON_PEACE] Faith.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NATION_C15_CAYUGA">
+			<Text>Cayuga Nation</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NATION_C15_CAYUGA_HELP">
+			<Text>Each Camp worked by this City increases [ICON_GOLD] Gold from incoming [ICON_INTERNATIONAL_TRADE] International Trade Routes by 1, and a source of [ICON_RES_FUR] Furs is spawned near this City. The Longhouse in this City provides +1 [ICON_GOLD] Gold on Forest tiles.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NATION_C15_CAYUGA_PROMOTION_HELP">
+			<Text>This Unit belongs to the Cayuga Nation</Text>
+		</Row>
+		<Row Tag="TXT_KEY_C15_IROQUOIS_TRADE_MCIS_DESC">
+			<Text>Fur Traders</Text>
+		</Row>
+		<Row Tag="TXT_KEY_C15_IROQUOIS_TRADE_MCIS_HELP">
+			<Text>Incoming [ICON_INTERNATIONAL_TRADE] International Trade Routes yield +{1_Gold} [ICON_GOLD] Gold because of Camps worked by this City.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NATION_C15_SENECA">
+			<Text>Seneca Nation</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NATION_C15_SENECA_HELP">
+			<Text>Units receive a 20% Combat bonus near this City, and constructing Defensive Buildings in this City grants [ICON_CULTURE] Culture. The Longhouse in this City provides +1 [ICON_FOOD] Food on Forest tiles.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NATION_C15_SENECA_PROMOTION_HELP">
+			<Text>This Unit belongs to the Seneca Nation</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_C15_IROQUOIS_NATION_SENECA_COMBAT">
+			<Text>The Western Door</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_C15_IROQUOIS_NATION_SENECA_COMBAT_HELP">
+			<Text>+20% Combat Strength while near a Senecan City.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_C15_IROQUOIS_SENECA_CULTURE">
+			<Text>+{1_Culture} [ICON_CULTURE] Culture from constructing a Defensive Building in {2_City}!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NATION_C15_TUSCO">
+			<Text>Tuscarora Nation</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NATION_C15_TUSCO_HELP">
+			<Text>Units trained in this City receive additional Flanking bonuses and may retreat from Combat. The Longhouse in this City takes its effect from the nearest Nation.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_C15_IROQUOIS_NATION_TUSCO_BONUSES">
+			<Text>Refugee Warriors</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_C15_IROQUOIS_NATION_TUSCO_BONUSES_HELP">
+			<Text>+50% Flanking Bonuses and may Withdraw from Combat.</Text>
+		</Row>
+		<!--Decisions-->
+		<Row Tag="TXT_KEY_DECISIONS_C15_IROQUOIS_COUNCIL_ELDER">
+			<Text>Call a Council of the Elder Brothers</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_C15_IROQUOIS_COUNCIL_ELDER_DESC">
+			<Text>
+				The Confederacy is based on consensus, and as such our laws must be agreed upon by our brothers. We shall call a council of the Elder Brothers to debate laws and policies, to ensure our people are happy with them.
+				[NEWLINE]Requirements/Restrictions:
+				[NEWLINE][ICON_BULLET]Player must be the Iroquois
+				[NEWLINE][ICON_BULLET]May only be enacted once Per Era
+				[NEWLINE][ICON_BULLET]Must have a City belonging to one of the Onondaga, Mohawk, or Seneca Nations
+				[NEWLINE][ICON_BULLET]Must not have enacted the Call a Council of the Younger Brothers decision this Era
+				[NEWLINE]Costs:
+				[NEWLINE][ICON_BULLET]2 [ICON_MAGISTRATES] Magistrates
+				[NEWLINE][ICON_BULLET]{1_Culture} [ICON_CULTURE] Culture
+				[NEWLINE]Rewards:
+				[NEWLINE][ICON_BULLET]Each Onondaga, Mohawk, or Seneca City reduces Policy costs by 5% during this Era, to a maximum of 50%.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_C15_IROQUOIS_COUNCIL_ELDER_DESC_ENACTED">
+			<Text>
+				The Confederacy is based on consensus, and as such our laws must be agreed upon by our brothers. We shall call a council of the Elder Brothers to debate laws and policies, to ensure our people are happy with them.
+				[NEWLINE]Rewards:
+				[NEWLINE][ICON_BULLET]Each Onondaga, Mohawk, or Seneca City reduces Policy costs by 5% during this Era, to a maximum of 50%.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_C15_IROQUOIS_COUNCIL_YOUNGER">
+			<Text>Call a Council of the Younger Brothers</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_C15_IROQUOIS_COUNCIL_YOUNGER_DESC">
+			<Text>
+				The Confederacy is based on consensus, and as such our laws must be agreed upon by our brothers. We shall call a council of the Younger Brothers to debate laws and policies, to ensure our people are happy with them.
+				[NEWLINE]Requirements/Restrictions:
+				[NEWLINE][ICON_BULLET]Player must be the Iroquois
+				[NEWLINE][ICON_BULLET]May only be enacted once Per Era
+				[NEWLINE][ICON_BULLET]Must have a City belonging to one of the Oneida, Cayuga, or Tuscarora Nations
+				[NEWLINE][ICON_BULLET]Must not have enacted the Call a Council of the Elder Brothers decision this Era
+				[NEWLINE]Costs:
+				[NEWLINE][ICON_BULLET]2 [ICON_MAGISTRATES] Magistrates
+				[NEWLINE][ICON_BULLET]{1_Culture} [ICON_CULTURE] Culture
+				[NEWLINE]Rewards:
+				[NEWLINE][ICON_BULLET]Each Oneida, Cayuga, or Tuscarora City reduces Policy costs by 5% during this Era, to a maximum of 50%.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_C15_IROQUOIS_COUNCIL_YOUNGER_DESC_ENACTED">
+			<Text>
+				The Confederacy is based on consensus, and as such our laws must be agreed upon by our brothers. We shall call a council of the Younger Brothers to debate laws and policies, to ensure our people are happy with them.
+				[NEWLINE]Rewards:
+				[NEWLINE][ICON_BULLET]Each Oneida, Cayuga, or Tuscarora City reduces Policy costs by 5% during this Era, to a maximum of 50%.
+			</Text>
+		</Row>
+		<!--Event-->
+		<Row Tag="TXT_KEY_CITY_EVENT_C15_IROQUIOS_TUSCARORA_MIGRATION">
+			<Text>Tuscaroran Refugees</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_EVENT_C15_IROQUIOS_TUSCARORA_MIGRATION_HELP">
+			<Text>
+				Following the conquest of their home, some of our Tuscarora cousins have migrated to this City as refugees and the City now belongs to their Nation!
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_EVENT_C15_IROQUIOS_TUSCARORA_MIGRATION_HELP_ED">
+			<Text>Following the conquest of their home, some of our Tuscarora cousins have migrated to one of our Cities as refugees, and the City now belongs to their Nation!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_EVENT_C15_IROQUIOS_TUSCARORA_MIGRATION_CHOICE_1">
+			<Text>We welcome our cousins into their new home!</Text>
+		</Row>
+		<!--City Names-->
+		<Row Tag="TXT_KEY_C15_IROQ_CITY_NAME_CHONODOTE">
+			<Text>Chonodote</Text>
+		</Row>
+		<Row Tag="TXT_KEY_C15_IROQ_CITY_NAME_GANOGEH">
+			<Text>Ganogeh</Text>
+		</Row>
+		<Row Tag="TXT_KEY_C15_IROQ_CITY_NAME_GOIOGOUEN">
+			<Text>Goiogouen</Text>
+		</Row>
+		<Row Tag="TXT_KEY_C15_IROQ_CITY_NAME_TIOHERO">
+			<Text>Tiohero</Text>
+		</Row>
+		<Row Tag="TXT_KEY_C15_IROQ_CITY_NAME_ONONTARE">
+			<Text>Onontare</Text>
+		</Row>
+		<Row Tag="TXT_KEY_C15_IROQ_CITY_NAME_NEODAKHEAT">
+			<Text>Neodakheat</Text>
+		</Row>
+		<Row Tag="TXT_KEY_C15_IROQ_CITY_NAME_AKWESASNE">
+			<Text>Akwesasne</Text>
+		</Row>
+		<Row Tag="TXT_KEY_C15_IROQ_CITY_NAME_ANDAGARON">
+			<Text>Andagaron</Text>
+		</Row>
+		<Row Tag="TXT_KEY_C15_IROQ_CITY_NAME_CAHANIAGA">
+			<Text>Cahaniaga</Text>
+		</Row>
+		<Row Tag="TXT_KEY_C15_IROQ_CITY_NAME_CANASTIGAONE">
+			<Text>Canastigaone</Text>
+		</Row>
+		<Row Tag="TXT_KEY_C15_IROQ_CITY_NAME_CANIENGA">
+			<Text>Canienga</Text>
+		</Row>
+		<Row Tag="TXT_KEY_C15_IROQ_CITY_NAME_CAUGHNAWAGA">
+			<Text>Caughnawaga</Text>
+		</Row>
+		<Row Tag="TXT_KEY_C15_IROQ_CITY_NAME_GAROGA">
+			<Text>Garoga</Text>
+		</Row>
+		<Row Tag="TXT_KEY_C15_IROQ_CITY_NAME_KANATSIOHAREKE">
+			<Text>Kanatsiohareke</Text>
+		</Row>
+		<Row Tag="TXT_KEY_C15_IROQ_CITY_NAME_NOWADAGA">
+			<Text>Nowadaga</Text>
+		</Row>
+		<Row Tag="TXT_KEY_C15_IROQ_CITY_NAME_ONOALAGONA">
+			<Text>Onoalagona</Text>
+		</Row>
+		<Row Tag="TXT_KEY_C15_IROQ_CITY_NAME_OSSERNENON">
+			<Text>Ossernenon</Text>
+		</Row>
+		<Row Tag="TXT_KEY_C15_IROQ_CITY_NAME_SARATOGA">
+			<Text>Saratoga</Text>
+		</Row>
+		<Row Tag="TXT_KEY_C15_IROQ_CITY_NAME_TEWANONDADON">
+			<Text>Tewanondadon</Text>
+		</Row>
+		<Row Tag="TXT_KEY_C15_IROQ_CITY_NAME_TIONONDEROGE">
+			<Text>Tiononderoge</Text>
+		</Row>
+		<Row Tag="TXT_KEY_C15_IROQ_CITY_NAME_TIONONDOGEN">
+			<Text>Tionondogen</Text>
+		</Row>
+		<Row Tag="TXT_KEY_C15_IROQ_CITY_NAME_TYENDINAGA	">
+			<Text>Tyendinaga	</Text>
+		</Row>
+		<Row Tag="TXT_KEY_C15_IROQ_CITY_NAME_CANOJAHARIE">
+			<Text>Canojaharie</Text>
+		</Row>
+		<Row Tag="TXT_KEY_C15_IROQ_CITY_NAME_CHITTENANGO">
+			<Text>Chittenango</Text>
+		</Row>
+		<Row Tag="TXT_KEY_C15_IROQ_CITY_NAME_GANNEIOUS">
+			<Text>Ganneious</Text>
+		</Row>
+		<Row Tag="TXT_KEY_C15_IROQ_CITY_NAME_HOSTAYUNTWA">
+			<Text>Hostayuntwa</Text>
+		</Row>
+		<Row Tag="TXT_KEY_C15_IROQ_CITY_NAME_ONEIDA">
+			<Text>Oneida</Text>
+		</Row>
+		<Row Tag="TXT_KEY_C15_IROQ_CITY_NAME_ONAQUAGA">
+			<Text>Onaquaga</Text>
+		</Row>
+		<Row Tag="TXT_KEY_C15_IROQ_CITY_NAME_DESEROKEN">
+			<Text>Deseroken</Text>
+		</Row>
+		<Row Tag="TXT_KEY_C15_IROQ_CITY_NAME_ONONDAGHARA">
+			<Text>Onondaghara</Text>
+		</Row>
+		<Row Tag="TXT_KEY_C15_IROQ_CITY_NAME_ONONDAGHGEHGAHGEH">
+			<Text>Onondaghgehgahgeh</Text>
+		</Row>
+		<Row Tag="TXT_KEY_C15_IROQ_CITY_NAME_OSWEGATCHIE">
+			<Text>Oswegatchie</Text>
+		</Row>
+		<Row Tag="TXT_KEY_C15_IROQ_CITY_NAME_TOUENHO">
+			<Text>Touenho</Text>
+		</Row>
+		<Row Tag="TXT_KEY_C15_IROQ_CITY_NAME_GADOQUAT">
+			<Text>Gadoquat</Text>
+		</Row>
+		<Row Tag="TXT_KEY_C15_IROQ_CITY_NAME_CANADAIGUA">
+			<Text>Canadaigua</Text>
+		</Row>
+		<Row Tag="TXT_KEY_C15_IROQ_CITY_NAME_CANAWAUGUS">
+			<Text>Canawaugus</Text>
+		</Row>
+		<Row Tag="TXT_KEY_C15_IROQ_CITY_NAME_CATTARAUGUS">
+			<Text>Cattaraugus</Text>
+		</Row>
+		<Row Tag="TXT_KEY_C15_IROQ_CITY_NAME_CHENUSSIO">
+			<Text>Chenussio</Text>
+		</Row>
+		<Row Tag="TXT_KEY_C15_IROQ_CITY_NAME_GANATSEKWYAGON">
+			<Text>Ganatsekwyagon</Text>
+		</Row>
+		<Row Tag="TXT_KEY_C15_IROQ_CITY_NAME_GANDATSETIAGON">
+			<Text>Gandatsetiagon</Text>
+		</Row>
+		<Row Tag="TXT_KEY_C15_IROQ_CITY_NAME_GANONDAGAN">
+			<Text>Ganondagan</Text>
+		</Row>
+		<Row Tag="TXT_KEY_C15_IROQ_CITY_NAME_KANADASEAGA">
+			<Text>Kanadaseaga</Text>
+		</Row>
+		<Row Tag="TXT_KEY_C15_IROQ_CITY_NAME_TOTIAKTON">
+			<Text>Totiakton</Text>
+		</Row>
+		<Row Tag="TXT_KEY_C15_IROQ_CITY_NAME_KENDAIA">
+			<Text>Kendaia</Text>
+		</Row>
+		<Row Tag="TXT_KEY_C15_IROQ_CITY_NAME_TEIAIAGON">
+			<Text>Teiaiagon</Text>
+		</Row>
+	</Language_en_US>
+  
+</GameData>

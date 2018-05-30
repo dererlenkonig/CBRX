@@ -1,0 +1,260 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<Buildings>
+		<Row>
+			<Type>BUILDING_STEPPE_GER</Type>
+			<Description>TXT_KEY_BUILDING_STEPPE_GER</Description>
+			<Civilopedia>TXT_KEY_CIV5_BUILDINGS_STEPPE_GER_TEXT</Civilopedia>
+			<Strategy>TXT_KEY_BUILDING_STEPPE_GER_STRATEGY</Strategy>
+			<Help>TXT_KEY_BUILDING_STEPPE_GER_HELP</Help>
+			<ThemingBonusHelp></ThemingBonusHelp>
+			<Quote></Quote>
+			<GoldMaintenance>1</GoldMaintenance>
+			<MutuallyExclusiveGroup>-1</MutuallyExclusiveGroup>
+			<TeamShare>0</TeamShare>
+			<Water>0</Water>
+			<River>0</River>
+			<FreshWater>0</FreshWater>
+			<Mountain>0</Mountain>
+			<NearbyMountainRequired>0</NearbyMountainRequired>
+			<Hill>0</Hill>
+			<Flat>0</Flat>
+			<FoundsReligion>0</FoundsReligion>
+			<IsReligious>0</IsReligious>
+			<BorderObstacle>0</BorderObstacle>
+			<PlayerBorderObstacle>0</PlayerBorderObstacle>
+			<Capital>0</Capital>
+			<GoldenAge>0</GoldenAge>
+			<MapCentering>0</MapCentering>
+			<NeverCapture>1</NeverCapture>
+			<NukeImmune>0</NukeImmune>
+			<AllowsWaterRoutes>0</AllowsWaterRoutes>
+			<ExtraLuxuries>0</ExtraLuxuries>
+			<DiplomaticVoting>0</DiplomaticVoting>
+			<AffectSpiesNow>0</AffectSpiesNow>
+			<NullifyInfluenceModifier>0</NullifyInfluenceModifier>
+			<Cost>100</Cost>
+			<FaithCost>0</FaithCost>
+			<LeagueCost>0</LeagueCost>
+			<UnlockedByBelief>0</UnlockedByBelief>
+			<UnlockedByLeague>0</UnlockedByLeague>
+			<HolyCity>0</HolyCity>
+			<NumCityCostMod>0</NumCityCostMod>
+			<HurryCostModifier>25</HurryCostModifier>
+			<MinAreaSize>-1</MinAreaSize>
+			<ConquestProb>0</ConquestProb>
+			<CitiesPrereq>0</CitiesPrereq>
+			<LevelPrereq>0</LevelPrereq>
+			<CultureRateModifier>0</CultureRateModifier>
+			<GlobalCultureRateModifier>0</GlobalCultureRateModifier>
+			<GreatPeopleRateModifier>0</GreatPeopleRateModifier>
+			<GlobalGreatPeopleRateModifier>0</GlobalGreatPeopleRateModifier>
+			<GreatGeneralRateModifier>0</GreatGeneralRateModifier>
+			<GreatPersonExpendGold>0</GreatPersonExpendGold>
+			<GoldenAgeModifier>0</GoldenAgeModifier>
+			<UnitUpgradeCostMod>0</UnitUpgradeCostMod>
+			<Experience>0</Experience>
+			<GlobalExperience>0</GlobalExperience>
+			<FoodKept>0</FoodKept>
+			<Airlift>0</Airlift>
+			<AirModifier>0</AirModifier>
+			<NukeModifier>0</NukeModifier>
+			<NukeExplosionRand>0</NukeExplosionRand>
+			<HealRateChange>0</HealRateChange>
+			<Happiness>0</Happiness>
+			<UnmoddedHappiness>0</UnmoddedHappiness>
+			<UnhappinessModifier>0</UnhappinessModifier>
+			<HappinessPerCity>0</HappinessPerCity>
+			<HappinessPerXPolicies>0</HappinessPerXPolicies>
+			<CityCountUnhappinessMod>0</CityCountUnhappinessMod>
+			<NoOccupiedUnhappiness>0</NoOccupiedUnhappiness>
+			<WorkerSpeedModifier>0</WorkerSpeedModifier>
+			<MilitaryProductionModifier>0</MilitaryProductionModifier>
+			<SpaceProductionModifier>0</SpaceProductionModifier>
+			<GlobalSpaceProductionModifier>0</GlobalSpaceProductionModifier>
+			<BuildingProductionModifier>0</BuildingProductionModifier>
+			<WonderProductionModifier>0</WonderProductionModifier>
+			<CityConnectionTradeRouteModifier>0</CityConnectionTradeRouteModifier>
+			<CapturePlunderModifier>0</CapturePlunderModifier>
+			<PolicyCostModifier>0</PolicyCostModifier>
+			<PlotCultureCostModifier>0</PlotCultureCostModifier>
+			<GlobalPlotCultureCostModifier>0</GlobalPlotCultureCostModifier>
+			<PlotBuyCostModifier>0</PlotBuyCostModifier>
+			<GlobalPlotBuyCostModifier>0</GlobalPlotBuyCostModifier>
+			<GlobalPopulationChange>0</GlobalPopulationChange>
+			<TechShare>0</TechShare>
+			<FreeTechs>0</FreeTechs>
+			<FreePolicies>0</FreePolicies>
+			<FreeGreatPeople>0</FreeGreatPeople>
+			<MedianTechPercentChange>0</MedianTechPercentChange>
+			<Gold>0</Gold>
+			<AllowsRangeStrike>0</AllowsRangeStrike>
+			<Espionage>0</Espionage>
+			<AllowsFoodTradeRoutes>0</AllowsFoodTradeRoutes>
+			<AllowsProductionTradeRoutes>0</AllowsProductionTradeRoutes>
+			<Defense>0</Defense>
+			<ExtraCityHitPoints>0</ExtraCityHitPoints>
+			<GlobalDefenseMod>0</GlobalDefenseMod>
+			<MinorFriendshipChange>0</MinorFriendshipChange>
+			<VictoryPoints>0</VictoryPoints>
+			<ExtraMissionarySpreads>0</ExtraMissionarySpreads>
+			<ReligiousPressureModifier>0</ReligiousPressureModifier>
+			<EspionageModifier>0</EspionageModifier>
+			<GlobalEspionageModifier>0</GlobalEspionageModifier>
+			<ExtraSpies>0</ExtraSpies>
+			<SpyRankChange>0</SpyRankChange>
+			<InstantSpyRankChange>0</InstantSpyRankChange>
+			<TradeRouteRecipientBonus>0</TradeRouteRecipientBonus>
+			<TradeRouteTargetBonus>0</TradeRouteTargetBonus>
+			<NumTradeRouteBonus>0</NumTradeRouteBonus>
+			<LandmarksTourismPercent>0</LandmarksTourismPercent>
+			<InstantMilitaryIncrease>0</InstantMilitaryIncrease>
+			<GreatWorksTourismModifier>0</GreatWorksTourismModifier>
+			<XBuiltTriggersIdeologyChoice>0</XBuiltTriggersIdeologyChoice>
+			<TradeRouteSeaDistanceModifier>0</TradeRouteSeaDistanceModifier>
+			<TradeRouteSeaGoldBonus>0</TradeRouteSeaGoldBonus>
+			<TradeRouteLandDistanceModifier>0</TradeRouteLandDistanceModifier>
+			<TradeRouteLandGoldBonus>0</TradeRouteLandGoldBonus>
+			<CityStateTradeRouteProductionModifier>0</CityStateTradeRouteProductionModifier>
+			<GreatScientistBeakerModifier>0</GreatScientistBeakerModifier>
+			<BuildingClass>BUILDINGCLASS_STABLE</BuildingClass>
+			<ArtDefineTag>ART_DEF_BUILDING_STABLE</ArtDefineTag>
+			<NearbyTerrainRequired></NearbyTerrainRequired>
+			<ProhibitedCityTerrain></ProhibitedCityTerrain>
+			<VictoryPrereq></VictoryPrereq>
+			<FreeStartEra></FreeStartEra>
+			<MaxStartEra></MaxStartEra>
+			<ObsoleteTech></ObsoleteTech>
+			<EnhancedYieldTech></EnhancedYieldTech>
+			<TechEnhancedTourism>0</TechEnhancedTourism>
+			<FreeBuilding></FreeBuilding>
+			<FreeBuildingThisCity></FreeBuildingThisCity>
+			<FreePromotion></FreePromotion>
+			<TrainedFreePromotion></TrainedFreePromotion>
+			<FreePromotionRemoved></FreePromotionRemoved>
+			<ReplacementBuildingClass></ReplacementBuildingClass>
+			<PrereqTech>TECH_ANIMAL_HUSBANDRY</PrereqTech>
+			<PolicyBranchType></PolicyBranchType>
+			<SpecialistType></SpecialistType>
+			<SpecialistCount>0</SpecialistCount>
+			<GreatWorkSlotType></GreatWorkSlotType>
+			<FreeGreatWork></FreeGreatWork>
+			<GreatWorkCount>0</GreatWorkCount>
+			<SpecialistExtraCulture>0</SpecialistExtraCulture>
+			<GreatPeopleRateChange>0</GreatPeopleRateChange>
+			<ExtraLeagueVotes>0</ExtraLeagueVotes>
+			<CityWall>0</CityWall>
+			<DisplayPosition>0</DisplayPosition>
+			<PortraitIndex>3</PortraitIndex>
+			<WonderSplashImage></WonderSplashImage>
+			<WonderSplashAnchor>R,T</WonderSplashAnchor>
+			<WonderSplashAudio></WonderSplashAudio>
+			<IconAtlas>Khamug_Icon_Atlas</IconAtlas>
+			<ArtInfoCulturalVariation>0</ArtInfoCulturalVariation>
+			<ArtInfoEraVariation>0</ArtInfoEraVariation>
+			<ArtInfoRandomVariation>0</ArtInfoRandomVariation>
+		</Row>
+	</Buildings>
+
+	<!-- Building_AreaYieldModifiers -->
+	<!-- Building_BuildingClassHappiness -->
+	<!-- Building_BuildingClassYieldChanges -->
+	<!-- Building_ClassesNeededInCity -->
+	<!-- Building_FreeUnits -->
+	<!-- Building_DomainFreeExperiences -->
+	<!-- Building_DomainFreeExperiencePerGreatWork -->
+	<!-- Building_DomainProductionModifiers -->
+	<!-- Building_FreeSpecialistCounts -->
+	<Building_Flavors>
+		<Row>
+			<BuildingType>BUILDING_STEPPE_GER</BuildingType>
+			<FlavorType>FLAVOR_MILITARY_TRAINING</FlavorType>
+			<Flavor>6</Flavor>
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_STEPPE_GER</BuildingType>
+			<FlavorType>FLAVOR_MOBILE</FlavorType>
+			<Flavor>6</Flavor>
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_STEPPE_GER</BuildingType>
+			<FlavorType>FLAVOR_PRODUCTION</FlavorType>
+			<Flavor>25</Flavor>
+		</Row>
+	</Building_Flavors>
+	<!-- Building_GlobalYieldModifiers -->
+	<!-- Building_HurryModifiers -->
+	<!-- Building_LocalResourceAnds -->
+	<!-- Building_LocalResourceOrs -->
+	<!-- Building_LockedBuildingClasses -->
+	<!-- Building_PrereqBuildingClasses -->
+	<!-- Building_ResourceQuantity -->
+	<!-- Building_ResourceQuantityRequirements -->
+	<!-- Building_ResourceYieldModifiers -->
+	<!-- Building_ResourceCultureChanges -->
+	<!-- Building_ResourceFaithChanges -->
+	<!-- Building_RiverPlotYieldChanges -->
+	<!-- Building_SeaPlotYieldChanges -->
+	<!-- Building_LakePlotYieldChanges -->
+	<!-- Building_SeaResourceYieldChanges -->
+	<Building_ResourceYieldChanges>
+		<Row>
+			<BuildingType>BUILDING_STEPPE_GER</BuildingType>
+			<ResourceType>RESOURCE_HORSE</ResourceType>
+			<YieldType>YIELD_PRODUCTION</YieldType>
+			<Yield>1</Yield>
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_STEPPE_GER</BuildingType>
+			<ResourceType>RESOURCE_HORSE</ResourceType>
+			<YieldType>YIELD_CULTURE</YieldType>
+			<Yield>1</Yield>
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_STEPPE_GER</BuildingType>
+			<ResourceType>RESOURCE_SHEEP</ResourceType>
+			<YieldType>YIELD_CULTURE</YieldType>
+			<Yield>1</Yield>
+		</Row>
+	</Building_ResourceYieldChanges>
+	<!-- Building_FeatureYieldChanges -->
+	<!-- Building_SpecialistYieldChanges -->
+	<!-- Building_UnitCombatFreeExperiences -->
+	<Building_UnitCombatProductionModifiers>
+		<Row>
+			<BuildingType>BUILDING_STEPPE_GER</BuildingType>
+			<UnitCombatType>UNITCOMBAT_MOUNTED</UnitCombatType>
+			<Modifier>10</Modifier>
+		</Row>
+	</Building_UnitCombatProductionModifiers>
+	<!-- Building_TechAndPrereqs -->
+	<!-- Building_YieldChanges -->
+	<!-- Building_YieldChangesPerPop -->
+	<!-- Building_YieldChangesPerReligion -->
+	<!-- Building_TechEnhancedYieldChanges -->
+	<!-- Building_YieldModifiers -->
+	<!-- Building_ThemingBonuses -->
+
+	<Language_en_US>
+		<Row Tag="TXT_KEY_BUILDING_STEPPE_GER">
+			<Text>Steppe Ger</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_BUILDINGS_STEPPE_GER_TEXT">
+			<Text>
+A traditional Ger is a portable, round tent covered with skins or felt and used as a dwelling by nomads in the steppes of Central Asia. Ger in Mongolian simply means "home".
+Yurts have been a distinctive feature of life in Central Asia for at least three thousand years. The first written description of a yurt used as a dwelling was recorded by Herodotus, the 'father of history', who lived in Greece between 484 and 424 BC. He described yurt-like tents as the dwelling place of the Scythians, a horse riding-nomadic nation who lived in the northern Black Sea and Central Asian region from around 600 BC to AD 300. 
+A Ger is easy to assemble, dismantle and carry. Depending on the size, a yurt can be assembled or dismantled in anywhere from thirty minutes to three hours. After dismantling, the various parts of the yurt are loaded onto camels, horses and ox carts for transport. 
+As nomadic herders move at least three or four times a year in the search for good grazing lands, this feature is of essential importance. During times of war, warriors were constantly on the move and the portability of yurts provided them with an opportunity to carry their homes with them wherever they went. 
+The Ger is the ultimate home for herders on the rough Steppe. 
+	 -	Wikipedia, Amicsusmogolia.com
+
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_STEPPE_GER_STRATEGY">
+			<Text>The Steppe Ger gives [ICON_PRODUCTION] Production and [ICON_CULTURE] to Horses and Sheep. The Steppe Ger increases the speed of production of mounted units.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_STEPPE_GER_HELP">
+			<Text>+10% [ICON_PRODUCTION] Production when building Mounted Units.[NEWLINE][NEWLINE]Each source of [ICON_RES_HORSE] Horses and [ICON_RES_SHEEP] Sheep worked by this City produce +1 [ICON_CULTURE] Culture. [ICON_RES_HORSE] Horses also grant +1 [ICON_PRODUCTION] Production.</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

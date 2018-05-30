@@ -1,0 +1,54 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mod id="fc01970a-bf23-4447-8748-bf690e603422" version="3">
+  <Properties>
+    <Name>()LN King's Canada</Name>
+    <Stability>Alpha</Stability>
+    <Teaser>This mod releases Canada's longest standing political official William Lyon Mackenzie King to Civilization V.</Teaser>
+    <Description>This mod releases Canada's longest standing political official William Lyon Mackenzie King to Civilization V.</Description>
+    <Authors>LunarNeedle, Limerickarcher (Lua)</Authors>
+    <SpecialThanks>Civ V Modding Helpline</SpecialThanks>
+    <HideSetupGame>0</HideSetupGame>
+    <AffectsSavedGames>1</AffectsSavedGames>
+    <MinCompatibleSaveVersion>0</MinCompatibleSaveVersion>
+    <SupportsSinglePlayer>1</SupportsSinglePlayer>
+    <SupportsMultiplayer>0</SupportsMultiplayer>
+    <SupportsHotSeat>0</SupportsHotSeat>
+    <SupportsMac>1</SupportsMac>
+    <ReloadAudioSystem>1</ReloadAudioSystem>
+    <ReloadLandmarkSystem>1</ReloadLandmarkSystem>
+    <ReloadStrategicViewSystem>1</ReloadStrategicViewSystem>
+    <ReloadUnitSystem>1</ReloadUnitSystem>
+  </Properties>
+  <Dependencies />
+  <References />
+  <Blocks />
+  <Files>
+    <File md5="5DA0CDFDA8B80FBD9E70631227F43BDC" import="1">Art/DoM_Map.dds</File>
+    <File md5="5DF1354672271B2E2097CD2864478DF8" import="1">Art/LN_KingCanada_Diplo.dds</File>
+    <File md5="C87509A311C042313047C5A0232B288C" import="1">Art/LN_KingCanada_DoM.dds</File>
+    <File md5="A46751A42A4CE1320955AE8A659287DE" import="0">Lua/CanadaKing_Functions.lua</File>
+    <File md5="5754B1BE6E37A2F9D04D9D4149E5CDDF" import="1">Lua/SaveUtils.lua</File>
+    <File md5="6440E2BD37A762D02E82C71B4283AC20" import="0">XML/LNKC_Cities.xml</File>
+    <File md5="309B512198D373C4BBF53F3F69033E6F" import="0">XML/LNKC_Buildings.xml</File>
+    <File md5="DFE849FBC8DD1E7F24FC1817CE9B4F33" import="0">XML/LNKC_Civilization.xml</File>
+    <File md5="C28BF8BBB375512A2EE87EE4ADB0B478" import="0">XML/LNKC_Leader.xml</File>
+    <File md5="721801F248EAF2A2F8DC19AFD8393BAE" import="0">XML/LNKC_Traits.xml</File>
+    <File md5="82005E85C618B77643165B4ABD57911F" import="0">XML/LNKC_Units.xml</File>
+  </Files>
+  <Actions>
+    <OnModActivated>
+      <UpdateDatabase>XML/LNKC_Civilization.xml</UpdateDatabase>
+      <UpdateDatabase>XML/LNKC_Leader.xml</UpdateDatabase>
+      <UpdateDatabase>XML/LNKC_Buildings.xml</UpdateDatabase>
+      <UpdateDatabase>XML/LNKC_Units.xml</UpdateDatabase>
+      <UpdateDatabase>XML/LNKC_Cities.xml</UpdateDatabase>
+      <UpdateDatabase>XML/LNKC_Traits.xml</UpdateDatabase>
+    </OnModActivated>
+  </Actions>
+  <EntryPoints>
+    <EntryPoint type="InGameUIAddin" file="Lua/CanadaKing_Functions.lua">
+      <Name>UAKing</Name>
+      <Description>UAKing</Description>
+    </EntryPoint>
+  </EntryPoints>
+</Mod>

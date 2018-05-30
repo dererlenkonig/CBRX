@@ -1,0 +1,262 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<Language_en_US>
+		<Row Tag="TXT_KEY_CIV5_HRE_LS_HEADING_1">
+			<Text>History</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_HRE_LS_TEXT_1">
+			<Text>The Holy Roman Empire (Latin: Sacrum Romanum Imperium) was a multi-ethnic complex of territories in central Europe that developed during the Early Middle Ages and continued until its dissolution in 1806. The largest territory of the empire after 962 was Eastern Francia (later also called "Regnum Teutonicum"), though it also came to include the Kingdom of Bohemia, the Kingdom of Burgundy, the Kingdom of Italy, and numerous other territories.[NEWLINE][NEWLINE]On 25 December 800, Pope Leo III crowned the Frankish king Charlemagne as Emperor, reviving the title in Western Europe after more than three centuries. The title continued in the Carolingian family until 888 and from 896 to 899, after which it was contested by the rulers of Italy in a series of civil wars until the death of the last Italian claimant, Berengar, in 924. The title was revived in 962 when Otto I was crowned emperor, fashioning himself as the successor of Charlemagne and beginning a continuous existence of the empire for over eight centuries. Some historians refer to the coronation of Charlemagne as the origin of the empire, while others prefer the coronation of Otto I as its beginning. Scholars generally concur, however, in relating an evolution of the institutions and principles constituting the empire, describing a gradual assumption of the imperial title and role.[NEWLINE][NEWLINE]The precise term "Holy Roman Empire" was not used until the 13th century, but the concept of translatio imperii was fundamental to the prestige of the emperor, the notion that he held supreme power inherited from the emperors of Rome. The office of Holy Roman Emperor was traditionally elective, although frequently controlled by dynasties. The prince-electors, the highest-ranking noblemen of the empire, usually elected one of their peers as "King of the Romans", and he would later be crowned emperor by the Pope; the tradition of papal coronations was discontinued in the 16th century. The empire never achieved the extent of political unification formed in France, evolving instead into a decentralized, limited elective monarchy composed of hundreds of sub-units, principalities, duchies, counties, Free Imperial Cities, and other domains. The power of the emperor was limited, and while the various princes, lords, bishops and cities of the empire were vassals who owed the emperor their allegiance, they also possessed an extent of privileges that gave them de facto independence within their territories. Emperor Francis II dissolved the empire on 6 August 1806, after the creation of the Confederation of the Rhine by Napoleon.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_LS_HRE_KNIGHT_STRATEGY">
+			<Text>Unique Holy Roman replacement of Knight. Is faster and stronger in foreign territory if starts in your territory. Has no maintenance cost.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_UNITS_LS_HRE_KNIGHT_TEXT" >
+			<Text>The Free Imperial knights or Reichsritter were free nobles of the Holy Roman Empire, whose direct overlord was the Emperor. They were the remnants of the medieval free nobility (edelfrei) and the ministeriales. What distinguished them from other knights, who were vassals of a higher lord, was the fact that they had been granted Imperial immediacy, and as such were the equals in most respects to the other individuals or entities, such as the secular and ecclesiastical territorial rulers of the Empire (margraves, dukes, princes, counts, archbishops, bishops, abbots, etc.) and the Free Imperial cities, that also enjoyed Imperial immediacy. However, unlike all of those, the Imperial knights did not possess the status of Estates (Stände) of the Empire, and therefore were not represented, individually or collectively, in the Imperial Diet</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_LS_HRE_REITER_STRATEGY">
+			<Text>Unique Holy Roman replacement of Lancer. Upgrades into Cavalry and if attacked, perform a bonus ranged attack at turn start.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_UNITS_RLS_HRE_REITER_TEXT">
+			<Text>Reiters (German: Reiter, or horserider, shortened from the original “Schwarze Reiter”—literally, "black riders" for the colour of their armour) were a type of cavalry, which appeared in the armies of Western Europe in the 16th century in place of the outmoded lance-armed knights, at the same time that cuirassiers and dragoons began to attain typological distinction from other kinds of cavalry. The Reiters raised firearms to the status of primary weapons, as opposed to earlier Western European heavy cavalry which primarily relied upon mêlée weapons.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_LS_HRE_LONGS_STRATEGY">
+			<Text>Unique Holy Roman replacement of Longswordsman. More effective against wounded units and gain [ICON_GOLD] Gold upon killing enemies.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_UNITS_LS_HRE_LONGS_TEXT">
+			<Text>Doppelsoldner ("double pay-earner", from German "doppel" = double, "sold" = pay) were Landsknechte in 16th-century Germany who volunteered to fight in the front line, taking on extra risk, in exchange for double payment. The stated ratio was that one Landsknecht in four would be a Doppelsoldner. Likewise, Landsknechte schooled in the use of the Zweihander (two-hander), a two-handed sword, were entitled to double pay and thus qualified as Doppelsoldner. The fencing guild of the Brotherhood of St. Mark had the monopoly on the use of the Zweihander after Frederick III, Holy Roman Emperor granted it to them in 1487. The Zweihander was allegedly used by the Doppelsoldner to break through formations of pikemen, especially Swiss pikemen, by either being swung to break the ends of the pikes themselves or to knock them aside and attack the pikemen directly. The veracity of this tradition is disputed, but at least as a legend, it appears to date to at least the 17th century.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_LS_HRE_LANDSKNECHT">
+			<Text>Lanzknecht</Text>
+		</Row>
+
+		
+
+
+		<Row Tag="TXT_KEY_UNIT_HELP_LS_HRE_LANDSKNECHT">
+			<Text>This unit is Holy Roman Empire unique replacement of Pikeman, can pillage without using any movement points. Steals gold when attacking a city.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_HRE_LS_CHARLES_DESC">
+			<Text>Charles V</Text>
+		</Row>
+		<Row Tag="TXT_KEY_HRE_LS_BARB_DESC">
+			<Text>Frederick I</Text>
+		</Row>		
+		<Row Tag="TXT_KEY_HRE_LS_FRANCIS_DESC">
+			<Text>Francis II</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_LS_HRE_KNIGHT">
+			<Text>Reichsritter</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_HELP_LS_HRE_KNIGHT">
+			<Text>Unique Holy Roman replacement of Knight. Is faster and stronger in foreign territory if starts in your territory. Has no maintenance cost.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_LS_HRE_REITER">
+			<Text>Reiter</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_HELP_LS_HRE_REITER">
+			<Text>Unique Holy Roman replacement of Lancer. Upgrades into Cavalry and if attacked, perform a bonus ranged attack at turn start.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_LS_HRE_LONGS">
+			<Text>Doppelsoldner</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_HELP_HRE_LS_LONGS">
+			<Text>Unique Holy Roman replacement of Longswordsman. More effective against wounded units and gain [ICON_GOLD] Gold upon killing enemies.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_HELP_HRE_LS_MEDIEVAL">
+			<Text>Leader elected in Medieval Era comes with its own unique unit replacement. Any trained or upgraded into unit of the same class is gonna be replaced by unique one.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_HRE_LS_MEDIEVAL">
+			<Text>Unique Unit (Medieval)</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_HELP_HRE_LS_RENESANS">
+			<Text>Leader elected in Renaissance Era comes with its own unique unit replacement. Any trained or upgraded into unit of the same class is gonna be replaced by unique one.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_HRE_LS_RENESANS">
+			<Text>Unique Unit (Renaissance)</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_PROMOTION_LS_REITER_COUNTERSTRIKE">
+			<Text>Defensive Shot</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_LS_REITER_COUNTERSTRIKE_HELP">
+			<Text>If attacked, performs an additional ranged attack at next turn start.</Text>
+		</Row>		
+		<Row Tag="TXT_KEY_PROMOTION_LS_HRE_RANGE">
+			<Text>Defensive Range</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_PROMOTION_LS_HRE_RAID">
+			<Text>Imperial Raids</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_LS_HRE_RAID_HELP">
+			<Text>+33% Combat Strength in foreing territory.</Text>
+		</Row>
+
+		
+		<Row Tag="TXT_KEY_HRE_LS_MOD_DESC">
+			<Text>Holy Roman Empire</Text>
+		</Row>
+		<Row Tag="TXT_KEY_HRE_LS_MOD_SHORT_DESC">
+			<Text>Holy Roman Empire</Text>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_HRE_LS_MOD_ADJECTIVE">
+			<Text>Holy Roman</Text>
+		</Row>
+		<Row Tag="TXT_KEY_HRE_LS_MOD">
+			<Text>Holy Roman Empire</Text>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_DAWN_OF_MAN_HRE_LS_MOD_TEXT">
+			<Text>Oh, great emperor, chosen by the wise prince-electors guided by the holy spirit, shall your rule be eternal! he Holy Roman Empire was a multi-ethnic complex of territories in central Europe that developed during the Early Middle Ages and continued until its dissolution in 1806. The largest territory of the empire after 962 was the Kingdom of Germany, though it also came to include the Kingdom of Bohemia, the Kingdom of Burgundy, the Kingdom of Italy, and numerous other territories.[NEWLINE][NEWLINE]Great Emperor, the German people look to you to lead them to the glory of Rome. Shall you make this legacy your own? Will you become a first among equals and make your enemies tremble in fear before the Empire? Can you build a civilization that will stand the test of time?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_HRE_LS_TEMPLATE_DESC">
+			<Text>Elected Emperor</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_HRE_LS_TEMPLATE_PEDIA_LIVED">
+			<Text>??? - ???</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_HRE_LS_TEMPLATE_PEDIA_NAME">
+			<Text>Elected Emperor</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_HRE_LS_TEMPLATE_PEDIA_SUBTITLE">
+			<Text>Leader of Holy Roman Empire</Text>
+		</Row>
+		<Row Tag="TXT_KEY_HRE_LS_TEMPLATE_NAME">
+			<Text>Elected Emperor</Text>
+		</Row>
+		<Row Tag="TXT_KEY_HRE_LS_TEMPLATE_SUBTITLE">
+			<Text>Emperor</Text>
+		</Row>
+		<Row Tag="TXT_KEY_HRE_LS_TEMPLATE_TITLES_1">
+			<Text>Elected Emperor</Text>
+		</Row>
+		<Row Tag="TXT_KEY_HRE_LS_DG_DESC">
+			<Text>Doge I</Text>
+		</Row>
+		
+		<Row Tag="TXT_KEY_TRAIT_LS_HRE_SHORT">
+			<Text>Imperial Election</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_LS_HRE">
+			<Text>Each era elects new leader with a new ability.</Text>
+		</Row>
+		
+		
+		<Row Tag="TXT_KEY_CITY_NAME_HRE_LS_MOD_1">
+			<Text>Prague</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_HRE_LS_MOD_2">
+			<Text>Regensburg</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_HRE_LS_MOD_3">
+			<Text>Vienna</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_HRE_LS_MOD_4">
+			<Text>Augsburg</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_HRE_LS_MOD_5">
+			<Text>Cologne</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_HRE_LS_MOD_6">
+			<Text>Mainz</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_HRE_LS_MOD_7">
+			<Text>Speyer</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_HRE_LS_MOD_8">
+			<Text>Aachen</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_HRE_LS_MOD_9">
+			<Text>Nuremberg</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_HRE_LS_MOD_10">
+			<Text>Ulm</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_HRE_LS_MOD_11">
+			<Text>Strasbourg</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_HRE_LS_MOD_12">
+			<Text>Magdeburg</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_HRE_LS_MOD_13">
+			<Text>Vratislav</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_HRE_LS_MOD_14">
+			<Text>Breslau</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_HRE_LS_MOD_15">
+			<Text>Hamburg</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_HRE_LS_MOD_16">
+			<Text>Florence</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_HRE_LS_MOD_17">
+			<Text>Trier</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_HRE_LS_MOD_18">
+			<Text>Lyon</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_HRE_LS_MOD_19">
+			<Text>Verona</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_HRE_LS_MOD_20">
+			<Text>Rome</Text>
+		</Row>
+		
+		
+		
+		
+		
+		
+		<Row Tag="TXT_KEY_SPY_NAME_HRE_LS_MOD_0">
+			<Text>Andreas</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_HRE_LS_MOD_1">
+			<Text>Dominik</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_HRE_LS_MOD_2">
+			<Text>Gernot</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_HRE_LS_MOD_3">
+			<Text>Johannes</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_HRE_LS_MOD_4">
+			<Text>Rainer</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_HRE_LS_MOD_5">
+			<Text>Ebba</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_HRE_LS_MOD_6">
+			<Text>Anina</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_HRE_LS_MOD_7">
+			<Text>Gerhild</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_HRE_LS_MOD_8">
+			<Text>Judith</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_HRE_LS_MOD_9">
+			<Text>Rachel</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		
+		
+		<Row Tag="TXT_KEY_LEADER_HRE_LS_TEMPLATE_FIRST_GREETING_1">
+			<Text>Let me guess, you didn't except me here?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_HRE_LS_TEMPLATE_FIRST_GREETING_2">
+			<Text>As an elected emperor, chosen by God himself, I have a pleasure to incorporate your lands under protective wings of Holy Roman Empire.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_HRE_LS_TEMPLATE_DEFEATED_1">
+			<Text>Do you think I disappointed the people? Nevermind, I heard about some nice elections in the nearby city-state! Farewell!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_HRE_LS_TEMPLATE_DEFEATED_2">
+			<Text>I am afraid somebody tricked me into this mess. It is neither holy, nor roman and definitely not an empire.</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

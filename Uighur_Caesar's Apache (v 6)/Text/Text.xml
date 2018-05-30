@@ -1,0 +1,272 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 02/05/16 11:59:30 AM -->
+<GameData>
+	<Language_en_US>
+		<Row Tag="TXT_KEY_SPY_NAME_UC_APACHE_0">
+			<Text>Cochise</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_UC_APACHE_1">
+			<Text>Elan</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_UC_APACHE_2">
+			<Text>Goyathlay</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_UC_APACHE_3">
+			<Text>Taklishim</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_UC_APACHE_4">
+			<Text>Kuruk</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_UC_APACHE_5">
+			<Text>Eskiminzin</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_UC_APACHE_6">
+			<Text>Chalipun</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_UC_APACHE_7">
+			<Text>Maa-ya-ha</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_UC_APACHE_8">
+			<Text>Jacali</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_UC_APACHE_9">
+			<Text>Cocheta</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_UC_APACHE_DESC">
+			<Text>The Apache</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_UC_APACHE_SHORT_DESC">
+			<Text>Apache</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_UC_APACHE_ADJECTIVE">
+			<Text>Apache</Text>/Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_UC_APACHE">
+			<Text>Apache</Text>
+		</Row>
+		<!--City List-->
+		<Row Tag="TXT_KEY_CITY_NAME_UC_APACHE_0">
+			<Text>Jicarilla</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_UC_APACHE_1">
+			<Text>Lipan</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_UC_APACHE_2">
+			<Text>Chiricahua</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_UC_APACHE_3">
+			<Text>Mescalero</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_UC_APACHE_4">
+			<Text>Kiowa</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_UC_APACHE_5">
+			<Text>Ná’iisha</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_UC_APACHE_6">
+			<Text>Carlana</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_UC_APACHE_7">
+			<Text>Tchihende</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_UC_APACHE_8">
+			<Text>Pelones</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_UC_APACHE_9">
+			<Text>Sacramento</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_UC_APACHE_10">
+			<Text>Lipiyánes</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_UC_APACHE_11">
+			<Text>Pinal</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_UC_APACHE_12">
+			<Text>White Mountain</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_UC_APACHE_13">
+			<Text>Mogollon</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_UC_APACHE_14">
+			<Text>Cibecue</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_UC_APACHE_15">
+			<Text>Querechos</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_UC_APACHE_16">
+			<Text>Arivaipa</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_UC_APACHE_17">
+			<Text>San Carlos</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_UC_APACHE_18">
+			<Text>Warm Springs</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_UC_APACHE_19">
+			<Text>Coyotero</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_UC_APACHE_20">
+			<Text>Tonto</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_UC_APACHE_21">
+			<Text>Ramah</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_UC_APACHE_22">
+			<Text>Copper Mines</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_UC_APACHE_23">
+			<Text>Gileño</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_UC_APACHE_24">
+			<Text>Guadalupe</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_UC_APACHE_25">
+			<Text>Faraones</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_UC_APACHE_26">
+			<Text>Sierra Blanca</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_UC_APACHE_27">
+			<Text>Ch’úúkʾanén</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_UC_APACHE_28">
+			<Text>Limpia</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_UC_GERONIMO">
+			<Text>Geronimo</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_UC_RENEGADE">
+			<Text>Renegade</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_UC_RENEGADE_TEXT">
+			<Text>Starting in the 1870’s, groups of Apache sometimes escaped from the reservations and resumed their historical semi-nomadic lifestyle in their ancestral homelands that included raiding settlers and other Native American tribes for horses, weapons, and supplies. These escaped Apache raiding parties were known as Renegades. Geronimo was part of such a group, and the actions of Renegades had a profound impact on the settlements and mining communities of Arizona, New Mexico, and northern Mexico.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_UC_RENEGADE_STRATEGY">
+			<Text>Replaces Rifleman. No cost to pillage and can enter another civs territory without open borders. Gains a Survivalism promotion equivalent to its highest Shock or Rough promotion.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_HELP_UC_RENEGADE">
+			<Text>Replaces Rifleman. No cost to pillage and can enter another civs territory without open borders. Gains a Survivalism promotion equivalent to its highest Shock or Rough promotion.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_UNITS_UC_WARBAND_TEXT">
+			<Text>Horses played a very important part in both Apache daily life and warfare. The Apache were semi-nomadic, and used horses to transport their camps, as well as for the hunting that provided a significant portion of their food. Raiding was also a major part of the Apache lifestyle, as they would swoop in on horseback and take horses, captives, and supplies from other tribes and settlers. In warfare, the Apache used horseback warriors to mount quick hit-and-run attacks against enemies which far outnumbered them, as well as to elude capture. These horseback combat tactics enabled the Apache to hold off against superior numbers far longer than most other Native American groups.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_UC_WARBAND_STRATEGY">
+			<Text>Replaces Cavalry. Ignores enemy ZOC and has an increased flank attack bonus. If attacking a military unit stacked with a civilian, the civilian is killed and this unit heals and gains XP.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_HELP_UC_WARBAND">
+			<Text>Replaces Cavalry. Ignores enemy ZOC and has an increased flank attack bonus. If attacking a military unit stacked with a civilian, the civilian is killed and this unit heals and gains XP.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_UC_GERONIMO_HEADING_1">
+			<Text>History</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_UC_GERONIMO_TEXT_1">
+			<Text>Geronimo was a leader of the Chiricahua tribe of the Apache people who lived from 1829 to 1909. He was revered and feared as a great warrior whose guerilla tactics caused widespread panic amongst the settlers of the southwestern US and northern Mexico. His struggle against the US government marked the last conflict in the US- Indian Wars that spanned much of the 1800’s.[NEWLINE][NEWLINE]Geronimo was born as Goyathlay in 1829 in No-Doyohn Canyon, near what is now Turkey Creek, Arizona, although at the time it was part of Mexico. He was born into the small Bedonkohe band of the Chiricahua tribe of the Apache people. He quickly became a skilled hunter, with legends existing amongst the Apache of his feats of hunting skill as a young man. He was also a skilled warrior, as he had successfully led four different raids on Mexican settlers by the time he was 17. In 1847, he married a fellow Apache named Alope and had three children with her.[NEWLINE][NEWLINE]On March 5, 1851, while the men were away trading with the nearby Mexican town of Janos, a regiment of 400 Mexican soldiers attacked the Apache camp, massacring the women and children there. Upon his return to the camp, Geronimo discovered that his mother, wife, and children had all been murdered. Although he would later remarry and have additional children, this incident changed Geronimo into the vengeful, dangerous man that he would became legendary as, with it leading him to take up a campaign of revenge against both the Mexican soldiers and Mexican settlers.[NEWLINE][NEWLINE]For much of the next three and a half decades, Geronimo led Apache raids against both American and Mexican soldiers, settlers, and miners. He became both legendary and notorious for his triumphs against far greater numbers of enemies and his numerous escapes from near-capture. He was eventually caught in 1877 and sent to the San Carlos Apache Reservation, but escaped four years later and resumed his campaign to reclaim the Apache homelands. He became the most wanted man in the US during this time, with nearly a quarter of all US troops being dispatched to capture him and his followers. He eventually fled to Mexico with his followers, but returned to the US following a failed negotiation with the US that was botched by accidental Mexican Army interference. He would eventually surrender to the US Army near Skeleton Canyon, Arizona on September 4, 1886.[NEWLINE][NEWLINE]Geronimo would spend the rest of his life as a prisoner of war, being moved between different forts and prisons throughout the US. He became something of a celebrity amongst US citizens, and performed in Wild West shows to the delight of his former enemies. He also was on prominent display at the famous 1904 World’s Fair in St. Louis. He was part of President Theodore Roosevelt’s inauguration parade, and petitioned President Roosevelt to allow him and his people to return to their ancestral homelands. Although Roosevelt greatly respected Geronimo as a soldier and was sympathetic to his plight, he declined Geronimo’s requests for repatriation, citing lingering resentment in Arizona and New Mexico amongst the settlers he had raided. In his last years, Geronimo mellowed considerably and was said to have expressed regret for some of his actions against noncombatants during his renegade campaign. Geronimo died in February 1909 after being thrown from his horse and spending the night laid out on the ground in the cold.[NEWLINE][NEWLINE]Geronimo is a polarizing figure in American history. He is revered as a legendary warrior by both the Apache and those who fought against him. However, his vengeful tactics led to him being viewed as a freedom fighter by some but as a ruthless slaughterer of innocents by others, and some of his fellow Apache felt that his tactics led to harsher conditions for their people. He is recognized as being the last major Native American leader to wage a campaign of war against the US.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_UC_GERONIMO_LIVED">
+			<Text>1829 - 1909</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_UC_GERONIMO_NAME">
+			<Text>Geronimo</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_UC_GERONIMO_SUBTITLE">
+			<Text>Leader of the Apache</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_UC_GERONIMO_TITLES_1">
+			<Text>War Chief</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_UC_DESERT_RAIDERS">
+			<Text>Units lose no [ICON_ARROW_RIGHT] Movement when entering pillaged tiles and gain double XP when fighting on pillaged tiles. Gain a free worker upon capturing a city (once per city).</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_UC_DESERT_RAIDERS_SHORT">
+			<Text>Raiding Menace</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_UC_APACHE_HEADING_1">
+			<Text>Overview</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_UC_APACHE_TEXT_1">
+			<Text>The Apache are a group of several culturally and linguistically related semi-nomadic Native American tribes who historically inhabited the American southwest and parts of northern Mexico. The Apache tribes still in existence today are the Chiricahua, Jicarilla, Lipan, Mescalero, Plains Apache, and Western Apache. In addition, the Navajo are considered to be closely related to the other Apache tribes, although they are widely recognized as being distinct from the other six.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_UC_APACHE_HEADING_2">
+			<Text>Geography and Climate</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_UC_APACHE_TEXT_2">
+			<Text>The Apache inhabited what is today most of the state of New Mexico, southern Colorado, southwest Kansas, western Oklahoma, southwest Texas, eastern Arizona, and the northern portions of the Mexican states of Sonora and Chihuahua. Collectively, this area was known as the Apacheria. The eastern portion of this territory consists mostly of high plains, while the western and southern portions of the territory are mainly mountainous deserts, highlands, and canyons.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_UC_APACHE_HEADING_3">
+			<Text>Origins</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_UC_APACHE_TEXT_3">
+			<Text>The Apache languages are all part of the Athabaskan language family that exists amongst Native American tribes in Alaska, western Canada, and the Pacific Northwest. These language ties and other historical evidence have lead anthropologists to conclude that the Apache resided somewhere in those areas before migrating to the Great Plains and American southwest sometime between 1200 and 1500 AD. The route of their migration is disputed, and it is unclear whether they settled first in the Great Plains or the American Southwest.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_UC_APACHE_HEADING_4">
+			<Text>Nomadic Lifestyle and Dwellings</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_UC_APACHE_TEXT_4">
+			<Text>All of the different tribes that make up the Apache were to some degree nomadic, with those in the Plains generally being fully nomadic and those in the Southwest being semi-nomadic. Hunting and gathering were the main sources of food for the tribes, with the men traditionally doing the hunting and the women doing the gathering. Some crop cultivation was practiced by the western tribes, although many of the Apache used no cultivation at all. The Apache dwelt in one of three different types of housing, depending on location. Those in the plains constructed teepees nearly identical to those of other Native American groups who dwelt in the Great Plains. Those in desert areas built hogans, earthen dwellings that could have different structural compositions depending upon available building materials. Those in the highlands lived in wickiups, wooden frames held together by yucca fibers and covered in brush.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_UC_APACHE_HEADING_5">
+			<Text>Religion</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_UC_APACHE_TEXT_5">
+			<Text>Although religious practices differ amongst the individual Apache tribes, several common threads run throughout. This includes the use of religious stories that feature gods as personifications of natural forces. Another common feature is the existence of medicine men, shamans who perform ritual ceremonies in order to appeal for the blessings of these natural forces.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_UC_APACHE_HEADING_6">
+			<Text>Interactions with Spaniards and Mexicans</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_UC_APACHE_TEXT_6">
+			<Text>Before the Mexican-American war, the territory the Apacheria was located in belonged mostly to the Spanish as part of Mexico. The earliest written reports of the Apache come from Spanish explorers in the 16th century. From the colonization of Mexico to the time of Mexican independence, the Spanish and the Apache had a complicated relationship that consisted of both trading with and raiding each other. The nature of the relationship varied between individual Spanish villages and Apache bands. Upon Mexican independence from Spain, this complicated relationship continued to a degree, although hostility between the two became more prevalent than it had previously been.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_UC_APACHE_HEADING_7">
+			<Text>The Apache Wars</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_UC_APACHE_TEXT_7">
+			<Text>Following the US victory in the Mexican-American wars, the territory that comprised the Apacheria became part of the US. Although the Apache and the Americans had conducted somewhat cordial relations during the Mexican-American war, the relationship between the two quickly soured. The Apache continued their pattern of periodic raiding that had existed with the Spaniards and Mexicans, which they considered to be different from engaging in warfare. The US government, however, viewed this sporadic raiding and attacking of settlers as acts of war. Thus began a series of different wars between the US and the different Apache tribes, with the US looking to relocate the Apache to reservations in order to end the threats to their settlers, while the Apache wished to remain free and inhabit their historical homelands and continue their semi-nomadic lifestyle. In the end, the US was victorious and the huge majority of the Apache were relocated to reservations.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_UC_APACHE_HEADING_8">
+			<Text>Renegade Period</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_UC_APACHE_TEXT_8">
+			<Text>Starting in the 1870’s, groups of Apache left the reservations and engaged in guerilla warfare against American and Mexican settlers while trying to reclaim their historical homelands. They became known as renegades, as they had escaped the reservations. Notable leaders amongst these renegades were Chief Victorio and Geronimo. They led their people to isolated canyons, which made it difficult for the UA and Mexican armies to track and capture them. Their continued raiding and guerilla attacks sparked major manhunts in both the US and Mexico, and a sense of panic enveloped the settler communities in those nations. Eventually Victorio was killed and Geronimo was captured. Geronimo’s surrender in 1886 generally marks the total end of Apache freedom, although isolated renegade attacks occurred into the 1920’s.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_UC_APACHE_HEADING_9">
+			<Text>Modern Status</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_UC_APACHE_TEXT_9">
+			<Text>Several federally recognized Apache tribes exist today, on reservations in Arizona, New Mexico, and Oklahoma. In addition, there are mixed descendants of Apache who were forcibly taken as children from the reservations and raised by white families in order to assimilate them into the US culture of the time.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_UC_APACHE_XP">
+			<Text>Raiding Menace</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_UC_WARBAND_FLANK">
+			<Text>Civilian Kill</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_UC_APACHE_XP_HELP">
+			<Text>Double XP when fighting on pillaged tiles.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_UC_WARBAND_FLANK_HELP">
+			<Text>Ignores enemy ZOC and has a 25% flank attack bonus. Kills stacked civilians when attacking, gaining HP and XP in the process.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_UC_WARBAND">
+			<Text>Warband</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DAWN_OF_MAN_UC_APACHE">
+			<Text>Greetings great warrior chief Geronimo! After tragically losing your wife and children to Mexican soldiers, you dedicated the rest of your life to avenging their deaths by fighting against both the Mexican and American armies. Even when your people had surrendered to the American government, you refused to be imprisoned upon a reservation, choosing instead to lead guerrilla warfare raids against Mexico and America. Although your bravery and resiliency could not ultimately vanquish your foes, you remain one of the most revered Apache leaders and a symbol of Native American resistance against American expansion. To this day your name is synonymous with valiantly charging into battle against all odds.[NEWLINE][NEWLINE]O great warrior, your people call for your leadership once more. Can you protect their ancestral lands from foreign subjugation? Can you organize raids to cripple your foes and bring glory to your people? Can you build a civilization that will stand the test of time?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_UC_UC_APACHE_CANCEL_STRATEGY">
+			<Text>Apache Cancel</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_UC_APACHE_CANCEL">
+			<Text>Apache Cancel</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_BUILDINGS_UC_APACHE_CANCEL_TEXT">
+			<Text>Apache Cancel</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_UC_APACHE_CANCEL_STRATEGY">
+			<Text>Apache Cancel</Text>
+		</Row>
+	</Language_en_US>
+  
+</GameData>

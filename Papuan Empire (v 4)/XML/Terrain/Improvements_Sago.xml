@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 23/08/2013 11:45:05 -->
+<GameData>
+	<Improvements>
+		<Row>
+			<Type>IMPROVEMENT_KOROWAISAGO_CAMP</Type>
+			<Description>TXT_KEY_IMPROVEMENT_KOROWAISAGO_CAMP</Description>
+			<Civilopedia>TXT_KEY_CIV5_IMPROVEMENTS_KOROWAISAGO_CAMP_TEXT</Civilopedia>
+			<Help>TXT_KEY_CIV5_IMPROVEMENTS_KOROWAISAGO_CAMP_HELP</Help>
+			<ArtDefineTag>ART_DEF_IMPROVEMENT_BRAZILWOOD_CAMP</ArtDefineTag>
+			<SpecificCivRequired>true</SpecificCivRequired>
+			<CivilizationType>CIVILIZATION_PAPUA</CivilizationType>
+			<RequiresFeature>true</RequiresFeature>
+			<PillageGold>10</PillageGold>
+			<PortraitIndex>1</PortraitIndex>
+			<IconAtlas>TERRAIN_IMPROVEMENT_ICON_ATLAS_EXP2</IconAtlas>
+		</Row>
+	</Improvements>
+	<Improvement_Yields>
+		<Row>
+			<ImprovementType>IMPROVEMENT_KOROWAISAGO_CAMP</ImprovementType>
+			<YieldType>YIELD_PRODUCTION</YieldType>
+			<Yield>1</Yield>
+		</Row>
+		<Row>
+			<ImprovementType>IMPROVEMENT_KOROWAISAGO_CAMP</ImprovementType>
+			<YieldType>YIELD_FOOD</YieldType>
+			<Yield>1</Yield>
+		</Row>
+	</Improvement_Yields>
+	<Improvement_ValidFeatures>
+		<Row>
+			<ImprovementType>IMPROVEMENT_KOROWAISAGO_CAMP</ImprovementType>
+			<FeatureType>FEATURE_JUNGLE</FeatureType>
+		</Row>
+		<Row>
+			<ImprovementType>IMPROVEMENT_KOROWAISAGO_CAMP</ImprovementType>
+			<FeatureType>FEATURE_FOREST</FeatureType>
+		</Row>
+	</Improvement_ValidFeatures>
+	<Improvement_TechYieldChanges>
+		<Row>
+			<ImprovementType>IMPROVEMENT_KOROWAISAGO_CAMP</ImprovementType>
+			<TechType>TECH_FERTILIZER</TechType>
+			<YieldType>YIELD_FOOD</YieldType>
+			<Yield>1</Yield>
+		</Row>
+	</Improvement_TechYieldChanges>
+</GameData>

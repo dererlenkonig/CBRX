@@ -1,0 +1,111 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mod id="22426b34-4c20-46f9-9650-68b5a4e53859" version="3">
+  <Properties>
+    <Name>MC's Oman Civilisation</Name>
+    <Teaser>Adds [COLOR_POSITIVE_TEXT]Oman[ENDCOLOR] to the game as a playable Civilisation</Teaser>
+    <Description>The Sultanate of Muscat and Oman (Oman for short) was a 19th century power in the Indian ocean, ruling large swaths of land across East Africa through to southern Iran from their centre of power in the eastern Arabian peninsula. Under the leadership of Saif bin Sultan, Oman won a series of victories in the Indian Ocean and East African coast against the Portuguese, driving out the early colonisers from the region and securing it for several years.</Description>
+    <Authors>More Civs</Authors>
+    <HideSetupGame>0</HideSetupGame>
+    <AffectsSavedGames>1</AffectsSavedGames>
+    <MinCompatibleSaveVersion>0</MinCompatibleSaveVersion>
+    <SupportsSinglePlayer>1</SupportsSinglePlayer>
+    <SupportsMultiplayer>1</SupportsMultiplayer>
+    <SupportsHotSeat>1</SupportsHotSeat>
+    <SupportsMac>1</SupportsMac>
+    <ReloadAudioSystem>1</ReloadAudioSystem>
+    <ReloadLandmarkSystem>0</ReloadLandmarkSystem>
+    <ReloadStrategicViewSystem>1</ReloadStrategicViewSystem>
+    <ReloadUnitSystem>1</ReloadUnitSystem>
+  </Properties>
+  <Dependencies>
+    <Dlc id="6DA07636-4123-4018-B643-6575B4EC336B" minversion="0" maxversion="999" />
+  </Dependencies>
+  <References>
+    <Mod id="36e88483-48fe-4545-b85f-bafc50dde315" minversion="0" maxversion="999" title="YnAEMP" />
+    <Mod id="31a31d1c-b9d7-45e1-842c-23232d66cd47" minversion="0" maxversion="999" title="JFD's Cultural Diversity (Core)" />
+    <Mod id="1f941088-b185-4159-865c-472df81247b2" minversion="0" maxversion="999" title="Sukritact’s Events &amp; Decisions" />
+    <Mod id="e576894a-ed2b-4033-be14-ed1c8ceb81d3" minversion="0" maxversion="999" title="Map Labels" />
+    <Mod id="7fdd72a5-d4ae-441c-bc4e-2e3d2a26cff4" minversion="0" maxversion="999" title="Ethnic Units" />
+    <Mod id="8670da15-d435-44ea-9758-7438cb321411" minversion="0" maxversion="999" title="R.E.D. Modpack" />
+    <Mod id="eea66053-7579-481a-bb8d-2f3959b59974" minversion="0" maxversion="999" title="JFD's Rise to Power" />
+    <Mod id="d1b6328c-ff44-4b0d-aad7-c657f83610cd" minversion="0" maxversion="999" title="Community Patch" />
+    <Mod id="1153b26a-69fd-4cd5-899c-a8ba8e0e5e5d" minversion="0" maxversion="999" title="Civ IV Traits" />
+    <Mod id="6676902b-b907-45f1-8db5-32dcb2135eee" minversion="0" maxversion="999" title="JFD's ExCE" />
+    <Mod id="6010e6f6-918e-48b8-9332-d60783bd8fb5" minversion="0" maxversion="999" title="Historical Religions" />
+    <Mod id="ce8aa614-7ef7-4a45-a179-5329869e8d6d" minversion="0" maxversion="999" title="Enlightenment Era" />
+    <Mod id="a19351c5-c0b3-4b07-8695-4affaa199949" minversion="0" maxversion="999" title="JFD's Mercenaries" />
+    <Mod id="10e9728f-d61c-4317-be4f-7d52d6bae6f4" minversion="0" maxversion="999" title="JFD's Cities in Development" />
+  </References>
+  <Blocks />
+  <Files>
+    <File md5="8C5B4D0DD69DCC172E0B449510A24892" import="1">Art/Atlases/MC_OmanAlpha_128.dds</File>
+    <File md5="3EAA9E31B8A9A0C5898FC654DAD3FF79" import="1">Art/Atlases/MC_OmanAlpha_16.dds</File>
+    <File md5="911C46148E504EC410E83E4D3A8025B2" import="1">Art/Atlases/MC_OmanAlpha_24.dds</File>
+    <File md5="369F0147C2D49105BE4EC7BE85A0705B" import="1">Art/Atlases/MC_OmanAlpha_32.dds</File>
+    <File md5="B2EE4D164990CB7F491970B8D51B5969" import="1">Art/Atlases/MC_OmanAlpha_48.dds</File>
+    <File md5="3628D72901CEF1F0019351FE1C39A952" import="1">Art/Atlases/MC_OmanAlpha_64.dds</File>
+    <File md5="6B6278B2ADA45B1A6F06709C33378859" import="1">Art/Atlases/MC_Oman_128.dds</File>
+    <File md5="4813421509948B47FBAA8AB1D5CBAF77" import="1">Art/Atlases/MC_Oman_16.dds</File>
+    <File md5="866A670ACD7F2623B053999C6044833E" import="1">Art/Atlases/MC_Oman_24.dds</File>
+    <File md5="5F8E991ED24E217643CAECF220647E0F" import="1">Art/Atlases/MC_Oman_256.dds</File>
+    <File md5="47AE4BE62549E7C65839579DDDFDEECB" import="1">Art/Atlases/MC_Oman_32.dds</File>
+    <File md5="3A13A645C592D5490560198F9CDB4737" import="1">Art/Atlases/MC_Oman_45.dds</File>
+    <File md5="B66352FB50281A1BD6FEC77CE258F5F8" import="1">Art/Atlases/MC_Oman_48.dds</File>
+    <File md5="4F0ECC1B2E73B67412C09FE2F6AD1B8F" import="1">Art/Atlases/MC_Oman_64.dds</File>
+    <File md5="DB3A0BE597CEE663B14AD502C234B06A" import="1">Art/Atlases/MC_Oman_80.dds</File>
+    <File md5="E6FC04A1DB2423CE7FD9404DFF9C5C0E" import="1">Art/Scenes/MC_Oman_Map.dds</File>
+    <File md5="FEC2C0C9217980D63036EEE0764D9359" import="1">Art/Scenes/MC_Oman_Diplo.dds</File>
+    <File md5="48478D5C10EF4C5C7F0716C5A5ECB29C" import="1">Art/Scenes/MC_Oman_DoM.dds</File>
+    <File md5="92C75359123A931876523E0E627081DE" import="1">Art/Unit/baghlah.fxsxml</File>
+    <File md5="6DC6E9A1EAFE008EF514A1D72527F373" import="1">Art/Unit/baghlah.gr2</File>
+    <File md5="B010C2AE7BB605F0EF1BF621FD28F375" import="1">Art/Unit/MCBaghlahFlag.dds</File>
+    <File md5="471D5D4FD1806A115D5BF43BE6EB961A" import="1">Art/Unit/baghlah_diff.dds</File>
+    <File md5="ABE247B43089DE97CDC843D0E215E6B9" import="1">Art/Unit/baghlah_sref.dds</File>
+    <File md5="99C7C956EC1532223705D8903CA3702D" import="1">Art/Unit/sv_baghlah.dds</File>
+    <File md5="C4DFF5FCB29E8FEC0BA53A392678D06B" import="0">Core/Art/MC_Baghlah_ArtDefines.sql</File>
+    <File md5="99FA963F96990D7C5B7D6440A9319A38" import="1">Core/Art/MC_Oman_Leaderhead.xml</File>
+    <File md5="2CAC6B4E37067DB8C5DF7AE5B448D45A" import="0">Core/Buildings/Buildings.sql</File>
+    <File md5="DC2CA1B99BCA26F10644466E34DD5CBF" import="0">Core/Buildings/MC_Oman_Buildings.xml</File>
+    <File md5="6EF340171E003DC983011880D9F89F1B" import="0">Core/Civilizations/MC_Oman_Civilizations.xml</File>
+    <File md5="18D269161AF734C9ABFBCB256F855138" import="0">Core/GameInfo/MC_Oman_IconTextureAtlases.xml</File>
+    <File md5="22E10BAAA065CB73FEE55537E263A697" import="0">Core/GameInfo/MC_Oman_Sounds.xml</File>
+    <File md5="B56D88CA158C3004B26F38531908D301" import="0">Core/GameInfo/MC_Oman_Traits.xml</File>
+    <File md5="74F178786ADEFFF5B21888B3DF1D3557" import="0">Core/Leaders/MC_Oman_Leader.xml</File>
+    <File md5="B7A3F6AEF236C226470F96A231A18FCC" import="0">Core/Leaders/MC_Oman_LeaderFlavors.sql</File>
+    <File md5="DA0D84DEFA7F7CAD70D456698FFFCCAE" import="0">Core/Text/MC_Oman_Text.xml</File>
+    <File md5="0DA8DB535C278348E92C36576D11F4DF" import="0">Core/Units/MC_Oman_Units.xml</File>
+    <File md5="CE4FA58722511C75EEAF0F1D1947E3F7" import="0">Core/Units/MC_Oman_UnitPromotions.sql</File>
+    <File md5="F61B4E877E144B47FFC6E95E71B138E5" import="0">Lua/MC_Oman_Functions.lua</File>
+    <File md5="0A3880B0DFFD1533A7F35C90E095BBEC" import="1">Sounds/MCOmanDoM.mp3</File>
+    <File md5="4259180269A3A68A424D7636271BFFD7" import="1">Sounds/MCOmanWar.mp3</File>
+    <File md5="10608E2F9C21F214392107CE07DEA96E" import="1">Sounds/MCOmanPeace.mp3</File>
+    <File md5="D50F59422D70D3698D329877DE061B00" import="1">Support/MC_Oman_Decisions.lua</File>
+    <File md5="A628906B197EEAC5E28A2BCB5916A861" import="0">Support/MC_Oman_ModSupport.xml</File>
+    <File md5="A2DE35ADB8AAE79386EDDCDE4F7D1B06" import="0">Support/MC_Oman_ModSupport.sql</File>
+  </Files>
+  <Actions>
+    <OnModActivated>
+      <UpdateDatabase>Core/Art/MC_Baghlah_ArtDefines.sql</UpdateDatabase>
+      <UpdateDatabase>Core/Art/MC_Oman_Leaderhead.xml</UpdateDatabase>
+      <UpdateDatabase>Core/Buildings/Buildings.sql</UpdateDatabase>
+      <UpdateDatabase>Core/Buildings/MC_Oman_Buildings.xml</UpdateDatabase>
+      <UpdateDatabase>Core/Civilizations/MC_Oman_Civilizations.xml</UpdateDatabase>
+      <UpdateDatabase>Core/GameInfo/MC_Oman_IconTextureAtlases.xml</UpdateDatabase>
+      <UpdateDatabase>Core/GameInfo/MC_Oman_Sounds.xml</UpdateDatabase>
+      <UpdateDatabase>Core/GameInfo/MC_Oman_Traits.xml</UpdateDatabase>
+      <UpdateDatabase>Core/Leaders/MC_Oman_Leader.xml</UpdateDatabase>
+      <UpdateDatabase>Core/Leaders/MC_Oman_LeaderFlavors.sql</UpdateDatabase>
+      <UpdateDatabase>Core/Text/MC_Oman_Text.xml</UpdateDatabase>
+      <UpdateDatabase>Core/Units/MC_Oman_UnitPromotions.sql</UpdateDatabase>
+      <UpdateDatabase>Core/Units/MC_Oman_Units.xml</UpdateDatabase>
+      <UpdateDatabase>Support/MC_Oman_ModSupport.sql</UpdateDatabase>
+      <UpdateDatabase>Support/MC_Oman_ModSupport.xml</UpdateDatabase>
+    </OnModActivated>
+  </Actions>
+  <EntryPoints>
+    <EntryPoint type="InGameUIAddin" file="Lua/MC_Oman_Functions.lua">
+      <Name>Oman Functions</Name>
+      <Description>Everything for Oman to work</Description>
+    </EntryPoint>
+  </EntryPoints>
+</Mod>

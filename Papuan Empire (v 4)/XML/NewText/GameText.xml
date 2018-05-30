@@ -1,0 +1,446 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 02/11/2012 14:26:32 -->
+<GameData>
+	<Language_en_US>
+		<Row Tag="TXT_KEY_UNIT_PAPUAN_MOTU_WARRIOR">
+			<Text>Motu Warrior</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_PAPUAN_MOTU_WARRIOR_HELP">
+			<Text>Bonus if fighting in homeland, can sell exotic products.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_PAPUAN_MOTU_WARRIOR_STRATEGY">
+			<Text>Early game good fighting unit.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_PAPUAN_MOTU_WARRIOR_TEXT">
+			<Text>The Motuans are native inhabitants of Papua New Guinea, living along the southern coastal area of the country. Their indigenous language is known as Motu, like several other languages of the region an Austronesian language. They and the Koitabu are the original inhabitants and owners of the land on which Port Morseby, the national capital city of Papua New Guinea, stands.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILD_KOROWAISAGO_CAMP">
+			<Text>Build a Sago Camp</Text>
+		</Row>
+		<Row Tag="TXT_KEY_IMPROVEMENT_KOROWAISAGO_CAMP">
+			<Text>Sago Camp</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_IMPROVEMENTS_KOROWAISAGO_CAMP_TEXT">
+			<Text>Sago  is a starch extracted in the spongy centre, or pith, of various tropical palm stems, especially Metroxylon sagu. It is a major staple food for the lowland peoples of New Guinea and the Moluccas, where it is called saksak, rabia and sagu. A type of flour, called sago flour, is made from sago.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILD_KOROWAISAGO_CAMP_HELP">
+			<Text>Build a Sago Camp, that raises the [ICON_PRODUCTION] production and [ICON_FOOD] food on forest and jungle tiles. It gives some additional [ICON_FOOD] food bonus with the discovery of the fertilizers.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILD_KOROWAISAGO_CAMP_REC">
+			<Text>It raises the [ICON_PRODUCTION] production and [ICON_FOOD] food on forest and jungle tiles. It gives some additional [ICON_FOOD] food bonus with the discovery of the fertilizers.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_IMPROVEMENTS_KOROWAISAGO_CAMP_HELP">
+			<Text>Giving additional [ICON_PRODUCTION] production and [ICON_FOOD] food, the Sago Camp can only be built in jungle and forest. Some additional [ICON_FOOD] food bonus comes with the discovery of fertilizers .</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_HANUABADA">
+			<Text>Hanuabada</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TANOBADA">
+			<Text>Tanobada</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_BOERA">
+			<Text>Boera</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_ELEVALA">
+			<Text>Elevala</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_BARUNI">
+			<Text>Baruni</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TATANA">
+			<Text>Tatana</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_HOHODAE">
+			<Text>Hohodae</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_POREPORENA">
+			<Text>Poreporena</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_VABUKORI">
+			<Text>Vabukori</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MAKURU">
+			<Text>Makuru</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_GPARI">
+			<Text>Pari</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_PAPALEALEA">
+			<Text>Papalealea</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_POREBADA">
+			<Text>Porebada</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MANUMANU">
+			<Text>Manumanu</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TUPUSELEIA">
+			<Text>Tupuseleia</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_BARAKAU">
+			<Text>Barakau</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_KODERIKA">
+			<Text>Koderika</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_ROKU">
+			<Text>Roku</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_KOROBOSEA">
+			<Text>Korobosea</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_KILAKILA">
+			<Text>Kilakila</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_BOTEKA">
+			<Text>Boteka</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_COLONY_NAME_PAPUA_01">
+			<Text>Kuk</Text>
+		</Row>
+		<Row Tag="TXT_KEY_COLONY_NAME_PAPUA_02">
+			<Text>Goroka</Text>
+		</Row>
+		<Row Tag="TXT_KEY_COLONY_NAME_PAPUA_03">
+			<Text>Lae</Text>
+		</Row>
+		<Row Tag="TXT_KEY_COLONY_NAME_PAPUA_04">
+			<Text>Daru</Text>
+		</Row>
+		<Row Tag="TXT_KEY_COLONY_NAME_PAPUA_05">
+			<Text>Wewak</Text>
+		</Row>
+		<Row Tag="TXT_KEY_COLONY_NAME_PAPUA_06">
+			<Text>Rabaul</Text>
+		</Row>
+		<Row Tag="TXT_KEY_COLONY_NAME_PAPUA_07">
+			<Text>Fakfak</Text>
+		</Row>
+		<Row Tag="TXT_KEY_COLONY_NAME_PAPUA_08">
+			<Text>Kieta</Text>
+		</Row>
+		<Row Tag="TXT_KEY_COLONY_NAME_PAPUA_09">
+			<Text>Dagobak</Text>
+		</Row>
+		<Row Tag="TXT_KEY_COLONY_NAME_PAPUA_10">
+			<Text>Sorong</Text>
+		</Row>
+
+
+
+
+		<Row Tag="TXT_KEY_CIV_PAPUA_ADJECTIVE">
+			<Text>Papuan</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_PAPUA_DESC">
+			<Text>Papuan empire</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_PAPUA_SHORT_DESC">
+			<Text>Papua</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_DAWN_PAPUA_TEXT">
+			<Text>Great Rajapapua, your people papuan appeal to you again to rebuild the great civilization of Papua. Located in the island of new guinea. Can you, Great Rajapapua, help your people overcome the test of time? </Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_RAJAPAPUA_HEADING_1">
+			<Text>History</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_RAJAPAPUA_TEXT_1">
+			<Text>In 1521, Antonio Pigafetta, the chronicler of epic circumnavigation of Magellan, has received information about Papua, during the loading of cloves in Ternate, the king of the Papuan pagans was called Raja Papua, and was extremely rich in gold and lives inside the island. </Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_RAJAPAPUA_LIVED">
+			<Text>Unknown</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_RAJAPAPUA_NAME">
+			<Text>Rajapapua</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_RAJAPAPUA_SUBTITLE">
+			<Text>Great Chieftain of Papuans</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_RAJAPAPUA">
+			<Text>Rajapapua</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_MASYARAKATADAT_DESC">
+			<Text>Sea tiles of coastal cities give +1[ICON_GOLD].[NEWLINE]Coastal cities get a free maritime trade road. </Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_MASYARAKATADAT_SHORT_DESC">
+			<Text>Hiri Voyage</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_PAPUA_HEADING_1">
+			<Text>History</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_PAPUA_TEXT_1">
+			<Text>The western part of the island was in contact with kingdoms in other parts of modern-day Indonesia. Negarakertagama mentioned region of Wanin in eastern Nusantara as part of Majapahit's tributary. This has been identified with the Onin Peninsula, part of the Bomberai Peninsula near the city of Fakfak. The sultans of Tidore, in Maluku Islands, claimed sovereignty over various coastal part of the island. During Tidore's rule, the main exports of the island during this period were resins, spices, slaves and the highly priced feathers of the Bird-of-Paradise. Sultan Nuku, one of the most famous Tidore sultans who rebelled against Dutch colonization, called himself "Sultan of Tidore and Papua", during his revolt in 1780s. He commanded loyalty from both Moluccan and Papuan chiefs, especially those of Raja Ampat Islands. Following Tidore's defeat, much of the territory it claimed in western part of New Guinea come under Dutch rule as part of Dutch East Indies.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_PAPUA_0">
+			<Text>Angu</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_PAPUA_1">
+			<Text>Baruya</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_PAPUA_2">
+			<Text>Korowai</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_PAPUA_3">
+			<Text>Motu</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_PAPUA_4">
+			<Text>Koteka</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_PAPUA_5">
+			<Text>Ogea</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_PAPUA_6">
+			<Text>Moni</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_PAPUA_7">
+			<Text>Huli</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_PAPUA_8">
+			<Text>Kombai</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_PAPUA_9">
+			<Text>Sambia</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_SAHUL_HELP">
+			<Text>The Royal Palace is located in your capital city.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_SAHUL">
+			<Text>Royal Palace</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_SAHUL_DESC">
+			<Text>The Palace automatically appears in the capital city of the empire. It provides a small amount of [ICON_RESEARCH] Science, [ICON_GOLD] Gold, and [ICON_CULTURE] Culture for free. If you connect other cities to the capital by road or harbor, you will create trade routes which generate additional income. If your capital city is captured, your Palace will automatically be rebuilt in another city. If you subsequently retake your original capital, the Palace will move back to its original location.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_SAHUL_QUOTE">
+			<Text>"Nature is clever. When man gives him a hand, what masterpiece will create!".[NEWLINE]- Benoît Desforêts[NEWLINE].</Text>
+		</Row>
+		
+		
+	</Language_en_US>
+	<Language_FR_FR>
+		<Row Tag="TXT_KEY_UNIT_PAPUAN_MOTU_WARRIOR">
+			<Text>Guerrier Motu</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_PAPUAN_MOTU_WARRIOR_HELP">
+			<Text>Bonus de combat sur le territoire national, peut faire du commerce.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_PAPUAN_MOTU_WARRIOR_STRATEGY">
+			<Text>Dominez vos adversaires avec cette unite combattante du debut de partie.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_PAPUAN_MOTU_WARRIOR_TEXT">
+			<Text>Les guerriers papous ont longtemps été craints pour leur réputation d'anthropophages.La Chasse aux têtes a été pratiquée par de nombreux peuples austronésiens en Asie du Sud et dans les îles du Pacifique. La Chasse aux têtes a existé à un moment ou un autre chez la plupart des peuples de la Mélanésie, y compris la Nouvelle-Guinée. En 1901, sur l'île de Goaribari dans le golfe de Papouasie, un missionnaire, Harry Dauncey, a trouvé 10.000 crânes dans les maisons longues de l'île.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILD_KOROWAISAGO_CAMP">
+			<Text>Construire une Exploitation de Sagou</Text>
+		</Row>
+		<Row Tag="TXT_KEY_IMPROVEMENT_KOROWAISAGO_CAMP">
+			<Text>Exploitation de Sagou</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_IMPROVEMENTS_KOROWAISAGO_CAMP_TEXT">
+			<Text>Le sagou est un amidon extrait dans le centre spongieux, ou moelle, de diverses tiges de palmiers tropicaux, en particulier Metroxylon sagu. Il est un aliment de base important pour les peuples des plaines de la Nouvelle-Guinée et aux Moluques, où il est appelé Saksak, rabia et sagu. Un type de farine, appelée farine de sagou, est fabriqué à partir de sagou. [NEWLINE][NEWLINE]L'Exploitation de Sagou doit être connstruite sur une case de jungle, et générera également +2 points de [ICON_CULTURE] culture une fois les fertilisants découverts.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILD_KOROWAISAGO_CAMP_HELP">
+			<Text>Permet de construire une Exploitation de Sagou, qui augmente la quantité de [ICON_PRODUCTION] production et de [ICON_FOOD] générées par la case tout en préservant l'intégrité de la jungle. Produit également de la [ICON_FOOD] nourriture supplémentaire une fois les engrais découverts.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILD_KOROWAISAGO_CAMP_REC">
+			<Text>Augmente la quantité de [ICON_PRODUCTION] production et de [ICON_FOOD] nourriture générées par la case tout en préservant l'intégrité de la jungle. Produit également de la [ICON_FOOD] nourriture supplémentaire une fois les engrais découverts.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_IMPROVEMENTS_KOROWAISAGO_CAMP_HELP">
+			<Text>Produisant de la [ICON_PRODUCTION] production et de la [ICON_FOOD] nourriture, l'Exploitation de Sagou ne peut être construit que sur une case de jungle et de forêt. Une fois les fertilisants découverts, elle générera également de la [ICON_FOOD] nourriture supplémentaire.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_HANUABADA">
+			<Text>Hanuabada</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TANOBADA">
+			<Text>Tanobada</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_BOERA">
+			<Text>Boera</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_ELEVALA">
+			<Text>Elevala</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_BARUNI">
+			<Text>Baruni</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TATANA">
+			<Text>Tatana</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_HOHODAE">
+			<Text>Hohodae</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_POREPORENA">
+			<Text>Poreporena</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_VABUKORI">
+			<Text>Vabukori</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MAKURU">
+			<Text>Makuru</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_GPARI">
+			<Text>Pari</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_PAPALEALEA">
+			<Text>Papalealea</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_POREBADA">
+			<Text>Porebada</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MANUMANU">
+			<Text>Manumanu</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TUPUSELEIA">
+			<Text>Tupuseleia</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_BARAKAU">
+			<Text>Barakau</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_KODERIKA">
+			<Text>Koderika</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_ROKU">
+			<Text>Roku</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_KOROBOSEA">
+			<Text>Korobosea</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_KILAKILA">
+			<Text>Kilakila</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_BOTEKA">
+			<Text>Boteka</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_COLONY_NAME_PAPUA_01">
+			<Text>Kuk</Text>
+		</Row>
+		<Row Tag="TXT_KEY_COLONY_NAME_PAPUA_02">
+			<Text>Goroka</Text>
+		</Row>
+		<Row Tag="TXT_KEY_COLONY_NAME_PAPUA_03">
+			<Text>Lae</Text>
+		</Row>
+		<Row Tag="TXT_KEY_COLONY_NAME_PAPUA_04">
+			<Text>Daru</Text>
+		</Row>
+		<Row Tag="TXT_KEY_COLONY_NAME_PAPUA_05">
+			<Text>Wewak</Text>
+		</Row>
+		<Row Tag="TXT_KEY_COLONY_NAME_PAPUA_06">
+			<Text>Rabaul</Text>
+		</Row>
+		<Row Tag="TXT_KEY_COLONY_NAME_PAPUA_07">
+			<Text>Fakfak</Text>
+		</Row>
+		<Row Tag="TXT_KEY_COLONY_NAME_PAPUA_08">
+			<Text>Kieta</Text>
+		</Row>
+		<Row Tag="TXT_KEY_COLONY_NAME_PAPUA_09">
+			<Text>Dagobak</Text>
+		</Row>
+		<Row Tag="TXT_KEY_COLONY_NAME_PAPUA_10">
+			<Text>Sorong</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_PAPUA_ADJECTIVE">
+			<Text>Papou</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_PAPUA_DESC">
+			<Text>Empire papou</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_PAPUA_SHORT_DESC">
+			<Text>Papouasie</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_DAWN_PAPUA_TEXT">
+			<Text>Grand Rajapaua, ton peuple réclame ton retour, afin d'unifier à nouveau les mille peuples papous. Localisés sur la grande ile de Nouvelle Guinée, les papous ont su rester un des peuples les plus mystérieux de la Terre. Des légendaires peuples anthropophages aux forêts des hauts plateaux impénétrables, les papous ont toujours inspiré la crainte et la curiosité. Pourrez-vous , Grand Rajapapua, aider votre peuple à reconstruire sa légende et surmonter l'épreuve du temps? </Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_RAJAPAPUA_HEADING_1">
+			<Text>Histoire</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_RAJAPAPUA_TEXT_1">
+			<Text>En 1521, Antonio Pigafetta, le chroniqueur de la circumnavigation épique de Magellan, a reçu des informations à propos de la Papouasie, pendant le chargement de clous de girofle dans Ternate: le roi de ces païens papous, appelé Raja Papua, est extrêmement riche en or et vit à l'intérieur de l'île.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_RAJAPAPUA_LIVED">
+			<Text>Inconnu</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_RAJAPAPUA_NAME">
+			<Text>Rajapapua</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_RAJAPAPUA_SUBTITLE">
+			<Text>Grand Chef des Papous</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_RAJAPAPUA">
+			<Text>Rajapapua</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_MASYARAKATADAT_DESC">
+			<Text>Les cases de mer des villes cotières génèrent +1[ICON_GOLD]. [NEWLINE]Ces villes cotières bénéficient d'une route commerciale gratuite. </Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_MASYARAKATADAT_SHORT_DESC">
+			<Text>Voyage Hiri</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_PAPUA_HEADING_1">
+			<Text>Histoire</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_PAPUA_TEXT_1">
+			<Text>On estime que les Papous commencent à pratiquer l'agriculture vers 7 000 ans avant J.-C. Ils domestiquent la canne à sucre et des racines. Il se peut qu'ils domestiquent également le porc vers cette époque. Vers 3 000 ans avant J.-C., l'agriculture papoue maîtrise l'eau pour l'irrigation. Il y a 5 000 à 6 000 ans, le niveau général des mers est remonté pour atteindre la situation actuelle, coupant ces populations du continent asiatique, en créant des bras de mer plus important. Le premier contact européen avec la Nouvelle-Guinée était par les navigateurs portugais et espagnols au 16ème siècle. Il ya eu résistance à l'intégration et à l'occupation indonésienne. Le 16 Septembre 1975, l'Australie a accordé l'indépendance complète de la Papouasie-Nouvelle-Guinée.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_PAPUA_TEXT_3">
+			<Text>Autrefois, chaque village papou était maître d'un territoire interdit aux tribus voisines, sauf en cas d'alliance ou d'échanges ritualisés. Une violation de frontière entraînait une guerre coutumière où le nombre de victimes dans chaque camp devait s'équilibrer (dans le cas contraire, il existait un système de compensation en biens). Interdits depuis 1962, ces combats rituels constituaient pour ces peuples des repères de leur identité. Aujourd'hui, à la chasse, les carabines ont remplacé les lances.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_PAPUA_0">
+			<Text>Angu</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_PAPUA_1">
+			<Text>Baruya</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_PAPUA_2">
+			<Text>Korowai</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_PAPUA_3">
+			<Text>Motu</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_PAPUA_4">
+			<Text>Koteka</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_PAPUA_5">
+			<Text>Ogea</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_PAPUA_6">
+			<Text>Moni</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_PAPUA_7">
+			<Text>Huli</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_PAPUA_8">
+			<Text>Kombai</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_PAPUA_9">
+			<Text>Sambia</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_SAHUL_HELP">
+			<Text>Le Palais Royal est construit dans votre capitale.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_SAHUL">
+			<Text>Palais Royal</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_SAHUL_DESC">
+			<Text>Le palais apparaît automatiquement dans la capitale de votre empire. Il confère un léger bonus de production, de [ICON_RESEARCH] science, [ICON_GOLD] d'or et de [ICON_CULTURE] culture à votre civilisation. Connectez d'autres villes à votre capitale via des routes ou un port, et vous établirez des routes commerciales qui vous rapporteront des revenus supplémentaires. Si votre capitale est prise, votre palais est automatiquement reconstruit dans une autre ville qui devient immédiatement votre nouvelle capitale. Si vous parvenez ensuite à reprendre votre capitale d'origine, le palais y sera reconstruit.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_SAHUL_QUOTE">
+			<Text>"Nature is clever. When man gives him a hand, what masterpiece will create!".[NEWLINE]- Benoît Desforêts[NEWLINE].</Text>
+		</Row>
+		
+	</Language_FR_FR>
+</GameData>

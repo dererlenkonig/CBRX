@@ -1,0 +1,36 @@
+TraitBasedLua = 'TRUE';
+
+OVERRIDE_AUTO  = { 
+	CIVILIZATIONS = {
+		CIVILIZATION = {
+			Civilization = 'CIVILIZATION_JFD_MUSCOVY';
+			Leader = 'LEADER_JFD_IVAN_IV';
+		};
+	};
+
+	MOD_SUPPORT = {
+		Civ4Traits = {
+			LEADER_JFD_IVAN_IV = {
+				Leader 	= 	'LEADER_JFD_IVAN_IV';
+				LeaderTXT	=	'Ivan IV ';
+			};
+		};
+	};
+
+	COMPONENTS = {
+		COMPONENT = {
+			Type = 'UNIT_JFD_STRELTSY';
+			Class = 'UNITCLASS_MUSKETMAN';
+		};
+		COMPONENT = {
+			Type = 'BUILDING_JFD_SOBOR';
+			Class = 'BUILDINGCLASS_TEMPLE';
+		};
+	};
+
+	TRAITS = {
+		TRAIT = {
+			Type = 'TRAIT_JFD_MUSCOVY';
+		};
+	};
+};

@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 7/29/2014 10:27:19 PM -->
+<GameData>
+	<Language_en_US>
+		<Replace Tag="TXT_KEY_CITY_NAME_PORT_AU_PRINCE">
+			<Text>Port-au-Prince</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_CITY_NAME_CAP_HAITIEN">
+			<Text>Cap-Haïtien</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_CITY_NAME_GONAIVES">
+			<Text>Gonaives</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_CITY_NAME_JACMEL">
+			<Text>Jacmel</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_CITY_NAME_CARREFOUR">
+			<Text>Carrefour</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_CITY_NAME_DELMAS">
+			<Text>Delmas</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_CITY_NAME_PETIONVILLE">
+			<Text>Petionville</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_CITY_NAME_SAINT_MARC">
+			<Text>Saint-Marc</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_CITY_NAME_CITE_SOLEIL">
+			<Text>Cite Soleil</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_CITY_NAME_CROIX_DES_BOUQUETS">
+			<Text>Croix-des-Bouquets</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_CITY_NAME_PORT_DE_PAIX">
+			<Text>POrt-de-Paix</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_CITY_NAME_LEOGANE">
+			<Text>Leogâne</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_CITY_NAME_DESSALINES">
+			<Text>Dessalines</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_CITY_NAME_PETIT_GOAVE">
+			<Text>Petit-Goâve</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_CITY_NAME_PETITE_RIVIER_DE_LARTIBONITE">
+			<Text>Petite Rivier de l'Artibonite</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_CITY_NAME_GROS_MORN">
+			<Text>Gros Morn</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_CITY_NAME_LES_CAYES">
+			<Text>Les Cayes</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_CITY_NAME_SAINT_MICHEL_DE_LATALAYE">
+			<Text>Saint-Michel-de-l'Atalaye</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_CITY_NAME_JEAN_RABEL">
+			<Text>Jean-Rabel</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_CITY_NAME_VERRETTES">
+			<Text>Verrettes</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_CITY_NAME_GRAND_GOAVE">
+			<Text>Grand-Goâve</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_CITY_NAME_JEREMIE">
+			<Text>Jérémie</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_CITY_NAME_ARCAHIE">
+			<Text>Arcahie</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_CITY_NAME_TABARRE">
+			<Text>Tabarre</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_CITY_NAME_HINCHE">
+			<Text>Hinche</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_CITY_NAME_SAINT_LOUIS_DU_NORD">
+			<Text>Saint-Louis-du-Nord</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_CITY_NAME_OUANAMINTHE">
+			<Text>Ouanaminthe</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_CITY_NAME_AQUIN">
+			<Text>Aquin</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_CITY_NAME_MIREBALAIS">
+			<Text>Mirebalais</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_CITY_NAME_BAINET">
+			<Text>Bainet</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_CITY_NAME_BELLADERE">
+			<Text>Belladère</Text>
+		</Replace>
+	</Language_en_US>
+</GameData>

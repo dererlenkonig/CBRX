@@ -1,0 +1,196 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 12/27/2017 11:43:56 AM -->
+<GameData>
+	<Language_en_US>
+		<Row Tag="TXT_KEY_CITY_JMANGELO_TARABULUS">
+			<Text>Tarabulus</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_JMANGELO_DARNAH">
+			<Text>Darnah</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_JMANGELO_AZ_ZAWIYAH">
+			<Text>Az-Zawiyah</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_JMANGELO_BANGHAZI">
+			<Text>Banghazi</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_JMANGELO_TUBRUQ">
+			<Text>Tubruq</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_JMANGELO_AL_MARJ">
+			<Text>Al-Marj</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_JMANGELO_SURT">
+			<Text>Surt</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_JMANGELO_YAFRAN">
+			<Text>Yafran</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_JMANGELO_AL_KHUMS">
+			<Text>Al-Khums</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_JMANGELO_WADDAN">
+			<Text>Waddan</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_JMANGELO_ASH_SHUWAYRIF">
+			<Text>Ash Shuwayrif</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_JMANGELO_TOBRUK">
+			<Text>Tobruk</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_JMANGELO_MARZUQ">
+			<Text>Marzuq</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_JMANGELO_AL_JAGHBUB">
+			<Text>Al-Jaghbub</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_JMANGELO_GHUT">
+			<Text>Ghut</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_JMANGELO_AL_JAWF">
+			<Text>Al-Jawf</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_JMANGELO_GHADAMIS">
+			<Text>Ghadamis</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_JMANGELO_TMASSAH">
+			<Text>Tmassah</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_JMANGELO_MAKNUSA">
+			<Text>Maknusa</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_JMANGELO_SABHA">
+			<Text>Sabha</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_JMANGELO_ZUWARAH">
+			<Text>Zuwarah</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_JMANGELO_BANI_WALID">
+			<Text>Bani Walid</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_JMANGELO_TARHUNAH">
+			<Text>Tarhunah</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_JMANGELO_AWBARI">
+			<Text>Awbari</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_JMANGELO_ADIRI">
+			<Text>Adiri</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_JMANGELO_TAZIRBU">
+			<Text>Tazirbu</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_JMANGELO_BRAK">
+			<Text>Brak</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_JMANGELO_MARSA_AL_BURAYQAH">
+			<Text>Marsa Al-Burayqah</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_JMANGELO_AL_BAYDA">
+			<Text>Al-Bayda</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_JMANGELO_SENUSI_LIBYA_ADJECTIVE">
+			<Text>Libyan</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_JMANGELO_SENUSI_LIBYA">
+			<Text>Senusi Dynasty of Libya</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_JMANGELO_SENUSI_LIBYA_SHORT_DESC">
+			<Text>Libya</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_JMANGELO_SENUSI_LIBYA_HEADING_1">
+			<Text>History</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_JMANGELO_SENUSI_LIBYA_TEXT_1">
+			<Text>The Senusi Dynasty had ruled Libya as a dynastic country presiding over the Kingdom of Libya, Fezzan, Cyrenaica, and Tarabulus in 1787 and was deposed in a coup d'etat in 1969 . The Dynasty, being founded Muhammed ibn Ali as-Senusi in thanks to Moroccan Khadirites in Mecca. With a rise in distaste against Sufis in Libya, the Bedouin tribes were inreasingly drawn in large numbers to Senusi way of living. As the Senusi Dynasty grew, the population and overall culture and economy thrived. With an emphasis on the Islamic faith </Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JMANGELO_OMAR_MUKHTAR_HEADING_1">
+			<Text>History</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JMANGELO_OMAR_MUKHTAR_TEXT_1">
+			<Text>"We do not kill prisoners" said Omar Mukhtar, and when he was told "They do it to us," he responded with "They are not our teachers." Never a king or a political leader, Omar Mukhtar was a general and the leader of the Eastern Senusid Libyan Resistance from 1911 till his death in 1931. Omar Mukhtar was born into poverty but dedicated his life to his education. He learned at the Senusi University of Jaghbub, becoming an expert of the Quran and an Imam. Rising to prominence as a Sheikh of Zawiyat Laqsur. Following the Italian Invasion of 1911, Omar fled like many others into the country and used his knowledge of the countryside to decimate the Italian forces through desert guerilla warfare. The legendary resistance of the Italian armies by Libyans earned Omar Mukhtar's nickname: The Lion of the Desert.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JMANGELO_OMAR_MUKHTAR_LIVED">
+			<Text>1858 - 1931 AD</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JMANGELO_OMAR_MUKHTAR_NAME">
+			<Text>Omar Mukhtar</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JMANGELO_OMAR_MUKHTAR_SUBTITLE">
+			<Text>Leader of Senusi Libya</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JMANGELO_OMAR_MUKHTAR">
+			<Text>Omar Mukhtar</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_JMANGELO_AKHDARI_CAVALRY">
+			<Text>Akhdari Cavalry</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_HELP_JMANGELO_AKHDARI_CAVALRY">
+			<Text>Unlike the Great War Infantry unit it replaces, Akhdari Cavalry replicates a cavalry unit with the exception that it sacrifices combat strength and production cost for higher speed and returns as a Great War Infantry upon death.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_IMPROVEMENT_JMANGELO_MARKAZ_QIADA">
+			<Text>Markaz Qiada</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_JMANGELO_AL_QAYID">
+			<Text>Al-Qayid</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_DAWN_JMANGELO_SENUSI_LIBYA_TEXT">
+			<Text>Welcome, O revered general Omar Mukhtar, the symbol of freedom for the Libyan people! Libya's history is an ancient an illustrious one, being a cultural melting pot of Greeks, Berbers, Garamans, Romans, Carthaginian, and even Persians. Following the Ottoman's loss of the three kingdoms of Libya to Italian colonialists, it was you who who fought for the Libyan Senusi Dynasty's right to truly rule the Libyan people. An educated man, you wielded both the pen and the sword, teaching your people and caring for their young. You fought these invaders under Mussolini to your last breath, where you were posthumously named 'Lion of the Desert.'[NEWLINE][NEWLINE]Great teacher, your people long for your guidance and wish to be unified against the powers that would harm them. Can you be the one to reunite your people under the true faith? Can you rejuvinate the three kingdoms of Libya to a just and free part of the world? Can you build a civilization that will stand the test of time?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_JMANGELO_AL_QAYID_PEDIA">
+			<Text>Al-Qayid Civilopedia</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_JMANGELO_AL_QAYID_STRATEGY">
+			<Text>Replacing the Great General, the Al-Qayid can build Markaz Qiadas instead of a normal Citadel. The Markaz Qiada can only be built in deserts, but provides +1 Food, and an additional +1 Production if on a desert hill.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_HELP_AL_QAYID">
+			<Text>Libyan Al-Qayid</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_IMPROVEMENTS_JMANGELO_MARKAZ_QIADA_TEXT">
+			<Text>The Markaz Qiada can only be built in deserts, but provides +1 Food, and an additional +1 Production if on a desert hill.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_JMANGELO_THE_LION_OF_THE_DESERT">
+			<Text>The Lion of the Desert</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_JMANGELO_THE_LION_OF_THE_DESERT_DESCRIPTION">
+			<Text>All desert tiles that produce Food also produce an equal amount of Faith and Great General Points.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_JMANGELO_SENUSI_LIBYA_1">
+			<Text>Idris</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_JMANGELO_SENUSI_LIBYA_2">
+			<Text>Ahmed</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_JMANGELO_SENUSI_LIBYA_3">
+			<Text>Mahaa</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_JMANGELO_SENUSI_LIBYA_4">
+			<Text>Leila</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_JMANGELO_SENUSI_LIBYA_5">
+			<Text>Hazza</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_JMANGELO_SENUSI_LIBYA_6">
+			<Text>Gassan</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_JMANGELO_SENUSI_LIBYA_7">
+			<Text>Abdullah</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_JMANGELO_SENUSI_LIBYA_8">
+			<Text>Katiya</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_JMANGELO_SENUSI_LIBYA_9">
+			<Text>Wali</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_JMANGELO_SENUSI_LIBYA_10">
+			<Text>Shakira</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_JMANGELO_GP_FOOD">
+			<Text>A Lion Roars...</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

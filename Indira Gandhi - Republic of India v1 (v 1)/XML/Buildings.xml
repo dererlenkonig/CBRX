@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+  <Buildings>
+    <Row>
+      <Type>BUILDING_POKHRAN_LAB</Type>
+      <Description>TXT_KEY_BUILDING_POKHRAN_LAB</Description>
+      <Civilopedia>TXT_KEY_CIV5_BUILDINGS_POKHRAN_LAB_TEXT</Civilopedia>
+      <Strategy>TXT_KEY_BUILDING_POKHRAN_LAB_STRATEGY</Strategy>
+	  <Help>TXT_KEY_BUILDING_HELP_POKHRAN_LAB</Help>
+      <GoldMaintenance>3</GoldMaintenance>
+      <MutuallyExclusiveGroup>-1</MutuallyExclusiveGroup>
+      <Cost>500</Cost>
+      <HurryCostModifier>10</HurryCostModifier>
+      <MinAreaSize>-1</MinAreaSize>
+      <ConquestProb>75</ConquestProb>
+      <BuildingClass>BUILDINGCLASS_LABORATORY</BuildingClass>
+      <ArtDefineTag>ART_DEF_BUILDING_LABORATORY</ArtDefineTag>
+      <PrereqTech>TECH_PLASTIC</PrereqTech>
+      <SpecialistType></SpecialistType>
+      <SpecialistCount></SpecialistCount>
+      <DisplayPosition>0</DisplayPosition>
+	  <PortraitIndex>3</PortraitIndex>
+      <IconAtlas>INDIRA_ICON_ATLAS</IconAtlas>
+      <ArtInfoCulturalVariation>0</ArtInfoCulturalVariation>
+      <ArtInfoEraVariation>0</ArtInfoEraVariation>
+      <ArtInfoRandomVariation>0</ArtInfoRandomVariation>
+    </Row>
+  </Buildings>
+
+  <!-- Building_AreaYieldModifiers -->
+  <!-- Building_BuildingClassHappiness -->
+  <!-- Building_BuildingClassYieldChanges -->
+  <Building_ClassesNeededInCity>
+    <Row>
+      <BuildingType>BUILDING_POKHRAN_LAB</BuildingType>
+      <BuildingClassType>BUILDINGCLASS_PUBLIC_SCHOOL</BuildingClassType>
+    </Row>
+  </Building_ClassesNeededInCity>
+  <!-- Building_FreeUnits -->
+  <!-- Building_DomainFreeExperiences -->
+  <!-- Building_DomainFreeExperiencePerGreatWork -->
+  <!-- Building_DomainProductionModifiers -->
+  <!-- Building_FreeSpecialistCounts -->
+  <Building_Flavors>
+    <Row>
+      <BuildingType>BUILDING_POKHRAN_LAB</BuildingType>
+      <FlavorType>FLAVOR_SCIENCE</FlavorType>
+      <Flavor>70</Flavor>
+    </Row>
+	<Row>
+	  <BuildingType>BUILDING_POKHRAN_LAB</BuildingType>
+	  <FlavorType>FLAVOR_SPACESHIP</FlavorType>
+	  <Flavor>20</Flavor>
+	</Row>
+    <Row>
+	  <BuildingType>BUILDING_POKHRAN_LAB</BuildingType>
+	  <FlavorType>FLAVOR_NUKE</FlavorType>
+	  <Flavor>100</Flavor>
+	</Row>
+    <Row>
+      <BuildingType>BUILDING_POKHRAN_LAB</BuildingType>
+      <FlavorType>FLAVOR_USE_NUKE</FlavorType>
+      <Flavor>100</Flavor>
+    </Row>
+    <Row>
+      <BuildingType>BUILDING_POKHRAN_LAB</BuildingType>
+      <FlavorType>FLAVOR_OFFENSE</FlavorType>
+      <Flavor>50</Flavor>
+    </Row>
+  </Building_Flavors>
+  <!-- Building_GlobalYieldModifiers -->
+  <!-- Building_HurryModifiers -->
+  <!-- Building_LocalResourceAnds -->
+  <!-- Building_LocalResourceOrs -->
+  <!-- Building_LockedBuildingClasses -->
+  <!-- Building_PrereqBuildingClasses -->
+  <!-- Building_ResourceQuantity -->
+  <!-- Building_ResourceQuantityRequirements -->
+  <!-- Building_ResourceYieldModifiers -->
+  <!-- Building_ResourceCultureChanges -->
+  <!-- Building_ResourceFaithChanges -->
+  <!-- Building_RiverPlotYieldChanges -->
+  <!-- Building_SeaPlotYieldChanges -->
+  <!-- Building_LakePlotYieldChanges -->
+  <!-- Building_SeaResourceYieldChanges -->
+  <!-- Building_ResourceYieldChanges -->
+  <!-- Building_FeatureYieldChanges -->
+  <!-- Building_TerrainYieldChanges -->
+  <!-- Building_SpecialistYieldChanges -->
+  <!-- Building_UnitCombatFreeExperiences -->
+  <!-- Building_TechAndPrereqs -->
+  <Building_YieldModifiers>
+    <Row>
+	  <BuildingType>BUILDING_POKHRAN_LAB</BuildingType>
+	  <YieldType>YIELD_SCIENCE</YieldType>
+	  <Yield>50</Yield>
+    </Row>
+  </Building_YieldModifiers>
+  <Building_YieldChanges>
+	<Row>
+  	  <BuildingType>BUILDING_POKHRAN_LAB</BuildingType>
+	  <YieldType>YIELD_SCIENCE</YieldType>
+	  <Yield>4</Yield>
+	</Row>
+  </Building_YieldChanges>
+  <!-- Building_YieldChangesPerReligion -->
+  <!-- Building_TechEnhancedYieldChanges -->
+  <!-- Building_YieldModifiers -->
+  <!-- Building_ThemingBonuses -->
+
+  <Language_en_US>
+    <Row Tag="TXT_KEY_BUILDING_POKHRAN_LAB">
+      <Text>Pokhran Lab</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CIV5_BUILDINGS_POKHRAN_LAB_TEXT">
+      <Text>In order to get around the restrictions on buying Uranium, Indira Gandhi decided to establish laboratories at Pokhran to help gather Uranium discretely to build nukes.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_BUILDING_POKHRAN_LAB_STRATEGY">
+      <Text>The Pokhran Lab is a Modern-era building unique to India, replacing the Research Lab. In addition to +4 [ICON_RESEARCH] and a 50% [ICON_RESEARCH] production, the city it is built it in recieves 1 [RES_URANIUM] for each Desert Hill tile worked by the city and a 75% reduction in nuke production cost.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_BUILDING_HELP_POKHRAN_LAB">
+	  <Text>The Pokhran Lab is a Modern-era building unique to India, replacing the Research Lab. In addition to +4 [ICON_RESEARCH] and a 50% [ICON_RESEARCH] production, the city it is built it in recieves 1 [RES_URANIUM] for each Desert Hill tile worked by the city and a 75% reduction in nuke production cost.</Text>
+    </Row>
+  </Language_en_US>
+</GameData>

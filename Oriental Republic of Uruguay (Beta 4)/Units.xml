@@ -1,0 +1,349 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- DO NOT USE THIS FILE -->
+<GameData>
+	<Units>
+		<Row>
+			<Type>UNIT_URUGUAY_CASCOS_AZULES</Type>
+			<Description>TXT_KEY_UNIT_URUGUAY_CASCOS_AZULES</Description>
+			<Civilopedia>TXT_KEY_CIV5_INDUSTRIAL_URUGUAY_CASCOS_AZULES_TEXT</Civilopedia>
+			<Strategy>TXT_KEY_UNIT_URUGUAY_CASCOS_AZULES_STRATEGY</Strategy>
+			<Help>TXT_KEY_UNIT_HELP_URUGUAY_CASCOS_AZULES</Help>
+			<Requirements></Requirements>
+			<Combat>65</Combat>
+			<RangedCombat>0</RangedCombat>
+			<Cost>450</Cost>
+			<FaithCost>750</FaithCost>
+			<RequiresFaithPurchaseEnabled>1</RequiresFaithPurchaseEnabled>
+			<PurchaseOnly>0</PurchaseOnly>
+			<MoveAfterPurchase>0</MoveAfterPurchase>
+			<Moves>2</Moves>
+			<Immobile>0</Immobile>
+			<Range>0</Range>
+			<BaseSightRange>2</BaseSightRange>
+			<Class>UNITCLASS_PARATROOPER</Class>
+			<Special></Special>
+			<Capture></Capture>
+			<CombatClass>UNITCOMBAT_GUN</CombatClass>
+			<Domain>DOMAIN_LAND</Domain>
+			<CivilianAttackPriority></CivilianAttackPriority>
+			<DefaultUnitAI>UNITAI_PARADROP</DefaultUnitAI>
+			<Food>0</Food>
+			<NoBadGoodies>0</NoBadGoodies>
+			<RivalTerritory>0</RivalTerritory>
+			<MilitarySupport>1</MilitarySupport>
+			<MilitaryProduction>1</MilitaryProduction>
+			<Pillage>1</Pillage>
+			<PillagePrereqTech></PillagePrereqTech>
+			<Found>0</Found>
+			<FoundAbroad>0</FoundAbroad>
+			<CultureBombRadius>0</CultureBombRadius>
+			<GoldenAgeTurns>0</GoldenAgeTurns>
+			<FreePolicies>0</FreePolicies>
+			<OneShotTourism>0</OneShotTourism>
+			<OneShotTourismPercentOthers>0</OneShotTourismPercentOthers>
+			<IgnoreBuildingDefense>1</IgnoreBuildingDefense>
+			<PrereqResources>0</PrereqResources>
+			<Mechanized>0</Mechanized>
+			<Suicide>0</Suicide>
+			<CaptureWhileEmbarked>0</CaptureWhileEmbarked>
+			<PrereqTech>TECH_RADAR</PrereqTech>
+			<ObsoleteTech></ObsoleteTech>
+			<GoodyHutUpgradeUnitClass></GoodyHutUpgradeUnitClass>
+			<HurryCostModifier>0</HurryCostModifier>
+			<AdvancedStartCost>40</AdvancedStartCost>
+			<MinAreaSize>-1</MinAreaSize>
+			<AirInterceptRange>0</AirInterceptRange>
+			<AirUnitCap>0</AirUnitCap>
+			<NukeDamageLevel>-1</NukeDamageLevel>
+			<WorkRate>0</WorkRate>
+			<NumFreeTechs>0</NumFreeTechs>
+			<BaseBeakersTurnsToCount>0</BaseBeakersTurnsToCount>
+			<BaseCultureTurnsToCount>0</BaseCultureTurnsToCount>
+			<RushBuilding>0</RushBuilding>
+			<BaseHurry>0</BaseHurry>
+			<HurryMultiplier>0</HurryMultiplier>
+			<BaseGold>0</BaseGold>
+			<NumGoldPerEra>0</NumGoldPerEra>
+			<SpreadReligion>0</SpreadReligion>
+			<RemoveHeresy>0</RemoveHeresy>
+			<ReligionSpreads>0</ReligionSpreads>
+			<ReligiousStrength>0</ReligiousStrength>
+			<FoundReligion>0</FoundReligion>
+			<RequiresEnhancedReligion>0</RequiresEnhancedReligion>
+			<ProhibitsSpread>0</ProhibitsSpread>
+			<CanBuyCityState>0</CanBuyCityState>
+			<CombatLimit>100</CombatLimit>
+			<RangeAttackOnlyInDomain>0</RangeAttackOnlyInDomain>
+			<RangeAttackIgnoreLOS>0</RangeAttackIgnoreLOS>
+			<Trade>0</Trade>
+			<NumExoticGoods>0</NumExoticGoods>
+			<PolicyType></PolicyType>
+			<RangedCombatLimit>0</RangedCombatLimit>
+			<XPValueAttack>3</XPValueAttack>
+			<XPValueDefense>3</XPValueDefense>
+			<SpecialCargo></SpecialCargo>
+			<DomainCargo></DomainCargo>
+			<Conscription>1</Conscription>
+			<ExtraMaintenanceCost>0</ExtraMaintenanceCost>
+			<NoMaintenance>0</NoMaintenance>
+			<Unhappiness>0</Unhappiness>
+			<UnitArtInfo>ART_DEF_UNIT_PARATROOPER</UnitArtInfo>
+			<UnitArtInfoCulturalVariation>0</UnitArtInfoCulturalVariation>
+			<UnitArtInfoEraVariation>0</UnitArtInfoEraVariation>
+			<ProjectPrereq></ProjectPrereq>
+			<SpaceshipProject></SpaceshipProject>
+			<LeaderPromotion></LeaderPromotion>
+			<LeaderExperience>0</LeaderExperience>
+			<DontShowYields>0</DontShowYields>
+			<ShowInPedia>1</ShowInPedia>
+			<MoveRate>BIPED</MoveRate>
+			<UnitFlagIconOffset>2</UnitFlagIconOffset>
+			<PortraitIndex>2</PortraitIndex>
+			<IconAtlas>CIV_COLOR_ATLAS_URUGUAY</IconAtlas>
+			<UnitFlagAtlas>CIV_FLAG_ATLAS_URUGUAY</UnitFlagAtlas>
+		</Row>
+		<Row>
+			<Type>UNIT_URUGUAY_ORIENTALES</Type>
+			<Description>TXT_KEY_UNIT_URUGUAY_ORIENTALES</Description>
+			<Civilopedia>TXT_KEY_CIVILOPEDIA_UNITS_RENAISSANCE_RIFLEMEN_TEXT</Civilopedia>
+			<Strategy>TXT_KEY_UNIT_URUGUAY_ORIENTALES_STRATEGY</Strategy>
+			<Help>TXT_KEY_UNIT_HELP_URUGUAY_ORIENTALES</Help>
+			<Requirements></Requirements>
+			<Combat>34</Combat>
+			<RangedCombat>0</RangedCombat>
+			<Cost>225</Cost>
+			<FaithCost>450</FaithCost>
+			<RequiresFaithPurchaseEnabled>1</RequiresFaithPurchaseEnabled>
+			<PurchaseOnly>0</PurchaseOnly>
+			<MoveAfterPurchase>0</MoveAfterPurchase>
+			<Moves>2</Moves>
+			<Immobile>0</Immobile>
+			<Range>0</Range>
+			<BaseSightRange>2</BaseSightRange>
+			<Class>UNITCLASS_RIFLEMAN</Class>
+			<Special></Special>
+			<Capture></Capture>
+			<CombatClass>UNITCOMBAT_GUN</CombatClass>
+			<Domain>DOMAIN_LAND</Domain>
+			<CivilianAttackPriority></CivilianAttackPriority>
+			<DefaultUnitAI>UNITAI_DEFENSE</DefaultUnitAI>
+			<Food>0</Food>
+			<NoBadGoodies>0</NoBadGoodies>
+			<RivalTerritory>0</RivalTerritory>
+			<MilitarySupport>1</MilitarySupport>
+			<MilitaryProduction>1</MilitaryProduction>
+			<Pillage>1</Pillage>
+			<PillagePrereqTech></PillagePrereqTech>
+			<Found>0</Found>
+			<FoundAbroad>0</FoundAbroad>
+			<CultureBombRadius>0</CultureBombRadius>
+			<GoldenAgeTurns>0</GoldenAgeTurns>
+			<FreePolicies>0</FreePolicies>
+			<OneShotTourism>0</OneShotTourism>
+			<OneShotTourismPercentOthers>0</OneShotTourismPercentOthers>
+			<IgnoreBuildingDefense>1</IgnoreBuildingDefense>
+			<PrereqResources>0</PrereqResources>
+			<Mechanized>0</Mechanized>
+			<Suicide>0</Suicide>
+			<CaptureWhileEmbarked>0</CaptureWhileEmbarked>
+			<PrereqTech>TECH_RIFLING</PrereqTech>
+			<ObsoleteTech>TECH_REPLACEABLE_PARTS</ObsoleteTech>
+			<GoodyHutUpgradeUnitClass>UNITCLASS_GREAT_WAR_INFANTRY</GoodyHutUpgradeUnitClass>
+			<HurryCostModifier>0</HurryCostModifier>
+			<AdvancedStartCost>30</AdvancedStartCost>
+			<MinAreaSize>-1</MinAreaSize>
+			<AirInterceptRange>0</AirInterceptRange>
+			<AirUnitCap>0</AirUnitCap>
+			<NukeDamageLevel>-1</NukeDamageLevel>
+			<WorkRate>0</WorkRate>
+			<NumFreeTechs>0</NumFreeTechs>
+			<BaseBeakersTurnsToCount>0</BaseBeakersTurnsToCount>
+			<BaseCultureTurnsToCount>0</BaseCultureTurnsToCount>
+			<RushBuilding>0</RushBuilding>
+			<BaseHurry>0</BaseHurry>
+			<HurryMultiplier>0</HurryMultiplier>
+			<BaseGold>0</BaseGold>
+			<NumGoldPerEra>0</NumGoldPerEra>
+			<SpreadReligion>0</SpreadReligion>
+			<RemoveHeresy>0</RemoveHeresy>
+			<ReligionSpreads>0</ReligionSpreads>
+			<ReligiousStrength>0</ReligiousStrength>
+			<FoundReligion>0</FoundReligion>
+			<RequiresEnhancedReligion>0</RequiresEnhancedReligion>
+			<ProhibitsSpread>0</ProhibitsSpread>
+			<CanBuyCityState>0</CanBuyCityState>
+			<CombatLimit>100</CombatLimit>
+			<RangeAttackOnlyInDomain>0</RangeAttackOnlyInDomain>
+			<RangeAttackIgnoreLOS>0</RangeAttackIgnoreLOS>
+			<Trade>0</Trade>
+			<NumExoticGoods>0</NumExoticGoods>
+			<PolicyType></PolicyType>
+			<RangedCombatLimit>0</RangedCombatLimit>
+			<XPValueAttack>3</XPValueAttack>
+			<XPValueDefense>3</XPValueDefense>
+			<SpecialCargo></SpecialCargo>
+			<DomainCargo></DomainCargo>
+			<Conscription>5</Conscription>
+			<ExtraMaintenanceCost>0</ExtraMaintenanceCost>
+			<NoMaintenance>0</NoMaintenance>
+			<Unhappiness>0</Unhappiness>
+			<UnitArtInfo>ART_DEF_UNIT_RIFLEMAN</UnitArtInfo>
+			<UnitArtInfoCulturalVariation>0</UnitArtInfoCulturalVariation>
+			<UnitArtInfoEraVariation>0</UnitArtInfoEraVariation>
+			<ProjectPrereq></ProjectPrereq>
+			<SpaceshipProject></SpaceshipProject>
+			<LeaderPromotion></LeaderPromotion>
+			<LeaderExperience>0</LeaderExperience>
+			<DontShowYields>0</DontShowYields>
+			<ShowInPedia>1</ShowInPedia>
+			<MoveRate>BIPED</MoveRate>
+			<UnitFlagIconOffset>1</UnitFlagIconOffset>
+			<PortraitIndex>1</PortraitIndex>
+			<IconAtlas>CIV_COLOR_ATLAS_URUGUAY</IconAtlas>
+			<UnitFlagAtlas>CIV_FLAG_ATLAS_URUGUAY</UnitFlagAtlas>
+		</Row>
+	</Units>
+
+	<Unit_AITypes>
+		<Row>
+			<UnitType>UNIT_URUGUAY_CASCOS_AZULES</UnitType>
+			<UnitAIType>UNITAI_PARADROP</UnitAIType>
+		</Row>
+		<Row>
+			<UnitType>UNIT_URUGUAY_ORIENTALES</UnitType>
+			<UnitAIType>UNITAI_ATTACK</UnitAIType>
+		</Row>
+		<Row>
+			<UnitType>UNIT_URUGUAY_ORIENTALES</UnitType>
+			<UnitAIType>UNITAI_DEFENSE</UnitAIType>
+		</Row>
+		<Row>
+			<UnitType>UNIT_URUGUAY_ORIENTALES</UnitType>
+			<UnitAIType>UNITAI_EXPLORE</UnitAIType>
+		</Row>
+	</Unit_AITypes>
+	<!-- Unit_Buildings -->
+	<!-- Unit_BuildingClassRequireds -->
+	<!-- Unit_ProductionModifierBuildings -->
+	<!-- Unit_Builds -->
+	<Unit_ClassUpgrades>
+		<Row>
+			<UnitType>UNIT_URUGUAY_CASCOS_AZULES</UnitType>
+			<UnitClassType>UNITCLASS_XCOM_SQUAD</UnitClassType>
+		</Row>
+		<Row>
+			<UnitType>UNIT_URUGUAY_ORIENTALES</UnitType>
+			<UnitClassType>UNITCLASS_GREAT_WAR_INFANTRY</UnitClassType>
+		</Row>
+	</Unit_ClassUpgrades>
+	<Unit_FreePromotions>
+		<Row>
+			<UnitType>UNIT_URUGUAY_CASCOS_AZULES</UnitType>
+			<PromotionType>PROMOTION_PARADROP</PromotionType>
+		</Row>
+		<Row>
+			<UnitType>UNIT_URUGUAY_CASCOS_AZULES</UnitType>
+			<PromotionType>PROMOTION_RIVAL_TERRITORY</PromotionType>
+		</Row>
+		<Row>
+			<UnitType>UNIT_URUGUAY_CASCOS_AZULES</UnitType>
+			<PromotionType>PROMOTION_FREE_PILLAGE_MOVES</PromotionType>
+		</Row>
+		<Row>
+			<UnitType>UNIT_URUGUAY_CASCOS_AZULES</UnitType>
+			<PromotionType>PROMOTION_CASCOS_AZULES</PromotionType>
+		</Row>
+		<Row>
+			<UnitType>UNIT_URUGUAY_ORIENTALES</UnitType>
+			<PromotionType>PROMOTION_AMPHIBIOUS</PromotionType>
+		</Row>
+		<Row>
+			<UnitType>UNIT_URUGUAY_ORIENTALES</UnitType>
+			<PromotionType>PROMOTION_ORIENTALES_BASE</PromotionType>
+		</Row>
+	</Unit_FreePromotions>
+	<Unit_Flavors>
+		<Row>
+			<UnitType>UNIT_URUGUAY_CASCOS_AZULES</UnitType>
+			<FlavorType>FLAVOR_OFFENSE</FlavorType>
+			<Flavor>22</Flavor>
+		</Row>
+		<Row>
+			<UnitType>UNIT_URUGUAY_CASCOS_AZULES</UnitType>
+			<FlavorType>FLAVOR_DEFENSE</FlavorType>
+			<Flavor>20</Flavor>
+		</Row>
+		<Row>
+			<UnitType>UNIT_URUGUAY_CASCOS_AZULES</UnitType>
+			<FlavorType>FLAVOR_AIR</FlavorType>
+			<Flavor>18</Flavor>
+		</Row>
+		<Row>
+			<UnitType>UNIT_URUGUAY_CASCOS_AZULES</UnitType>
+			<FlavorType>FLAVOR_RECON</FlavorType>
+			<Flavor>12</Flavor>
+		</Row>
+		<Row>
+			<UnitType>UNIT_URUGUAY_ORIEN2TALES</UnitType>
+			<FlavorType>FLAVOR_OFFENSE</FlavorType>
+			<Flavor>12</Flavor>
+		</Row>
+		<Row>
+			<UnitType>UNIT_URUGUAY_ORIENTALES</UnitType>
+			<FlavorType>FLAVOR_DEFENSE</FlavorType>
+			<Flavor>10</Flavor>
+		</Row>
+	</Unit_Flavors>
+	<!-- Unit_GreatPersons -->
+	<!-- Unit_ResourceQuantityRequirements -->
+	<!-- Unit_UniqueNames -->
+	<!-- Unit_YieldFromKills -->
+	<!-- Unit_NotAITypes -->
+	<!-- Unit_ProductionTraits -->
+	<!-- Unit_TechTypes -->
+	<!-- UnitPromotions_CivilianUnitType -->
+	<UnitGameplay2DScripts>
+		<Row>
+			<UnitType>UNIT_URUGUAY_CASCOS_AZULES</UnitType>
+			<SelectionSound>AS2D_SELECT_PARATROOPER</SelectionSound>
+			<FirstSelectionSound>AS2D_BIRTH_PARATROOPER</FirstSelectionSound>
+		</Row>
+		<Row>
+			<UnitType>UNIT_URUGUAY_ORIENTALES</UnitType>
+			<SelectionSound>AS2D_SELECT_MUSKETMAN</SelectionSound>
+			<FirstSelectionSound>AS2D_BIRTH_MUSKETMAN</FirstSelectionSound>
+		</Row>
+	</UnitGameplay2DScripts>
+
+	<Language_en_US>
+		<Row Tag="TXT_KEY_UNIT_URUGUAY_CASCOS_AZULES">
+			<Text>Cascos Azules</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_INDUSTRIAL_URUGUAY_CASCOS_AZULES_TEXT">
+			<Text>
+				<!-- Add Civilopedia text here -->
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_URUGUAY_CASCOS_AZULES_STRATEGY">
+			<Text>The Paratrooper is a late-game infantryman. It is somewhat weaker than a mechanized infantry unit; however, it can parachute up to 9 tiles away (when starting in friendly territory). This allows the paratrooper to literally jump over enemy positions and destroy road networks, pillage vital resources and so forth, wrecking havoc behind his lines. The Paratrooper is at great risk when on such missions, so make sure the target is worth it!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_HELP_URUGUAY_CASCOS_AZULES">
+			<Text>Strong infantry Unit capable of paradropping up to 9 tiles from friendly territory. Paratrooper can also move and pillage after paradropping, but cannot enter combat until the following turn.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_URUGUAY_ORIENTALES">
+			<Text>Orientales</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_UNITS_RENAISSANCE_RIFLEMEN_TEXT">
+			<Text>
+				<!-- Add Civilopedia text here -->
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_URUGUAY_ORIENTALES_STRATEGY">
+			<Text>The Rifleman is the gunpowder unit following the musketman. It is significantly more powerful than the musketman, giving the army with the advanced units a big advantage over civs which have not yet upgraded to the new unit.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_HELP_URUGUAY_ORIENTALES">
+			<Text>Strong, front-line land Unit of the mid-game.</Text>
+		</Row>
+	</Language_en_US>
+
+</GameData>

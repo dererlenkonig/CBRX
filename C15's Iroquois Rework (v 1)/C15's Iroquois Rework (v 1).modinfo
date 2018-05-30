@@ -1,0 +1,79 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mod id="5f52afa6-e77b-4c60-8fca-cbcb23577711" version="1">
+  <Properties>
+    <Name>C15's Iroquois Rework</Name>
+    <Stability>Alpha</Stability>
+    <Teaser>Changes the Iroquois big-time!</Teaser>
+    <Description>See Workshop or .txt for details.</Description>
+    <Authors>Chrisy15, SeelingCat</Authors>
+    <SpecialThanks>Sas, Darth</SpecialThanks>
+    <HideSetupGame>0</HideSetupGame>
+    <AffectsSavedGames>1</AffectsSavedGames>
+    <MinCompatibleSaveVersion>0</MinCompatibleSaveVersion>
+    <SupportsSinglePlayer>1</SupportsSinglePlayer>
+    <SupportsMultiplayer>1</SupportsMultiplayer>
+    <SupportsHotSeat>1</SupportsHotSeat>
+    <SupportsMac>1</SupportsMac>
+    <ReloadAudioSystem>0</ReloadAudioSystem>
+    <ReloadLandmarkSystem>0</ReloadLandmarkSystem>
+    <ReloadStrategicViewSystem>1</ReloadStrategicViewSystem>
+    <ReloadUnitSystem>1</ReloadUnitSystem>
+  </Properties>
+  <Dependencies />
+  <References>
+    <Mod id="eea66053-7579-481a-bb8d-2f3959b59974" minversion="0" maxversion="999" title="JFDDLC" />
+    <Mod id="d1b6328c-ff44-4b0d-aad7-c657f83610cd" minversion="0" maxversion="999" title="Community Patch" />
+    <Mod id="1f941088-b185-4159-865c-472df81247b2" minversion="0" maxversion="999" title="E&amp;D" />
+  </References>
+  <Blocks />
+  <Files>
+    <File md5="720AE41FA02253D22932EC98DDAF7C5C" import="1">Art/C15_Iroquois_Tomahawk128.dds</File>
+    <File md5="9AA59C1D77FEC232C878026A5AA367A9" import="1">Art/C15_Iroquois_Tomahawk256.dds</File>
+    <File md5="A00664BAC792A8B4EE4A64B6C37C3EB7" import="1">Art/C15_Iroquois_Tomahawk45.dds</File>
+    <File md5="61B18B266224887742F0C07FF42FED48" import="1">Art/C15_Iroquois_Tomahawk64.dds</File>
+    <File md5="B33CBB7B39C83A0FCC255B2E8AFE7040" import="1">Art/C15_Iroquois_Tomahawk80.dds</File>
+    <File md5="E2C0967BBF60FCB20F1214616D0EA66D" import="1">Art/C15_Iroquois_TomahawkFlag128.dds</File>
+    <File md5="6639DC9C040D8640B88F8CD9C0430BD7" import="1">Art/C15_Iroquois_TomahawkFlag32.dds</File>
+    <File md5="30F1B07CE93AEA91280688AE704F792E" import="0">C15_Iroquois_Description.txt</File>
+    <File md5="31ADAA7B1C2031A7FD9829A9C677B925" import="1">Core/C15_Iroquois_Decisions.lua</File>
+    <File md5="01EE024E9C8B1711390C0F6CFB4684E5" import="0">Core/C15_Iroquois_Defines.sql</File>
+    <File md5="2CC481F5F9C8ABF298271502FAD84353" import="1">Core/C15_Iroquois_Events.lua</File>
+    <File md5="E8853F6398A46F6A450517702FC487CE" import="0">Core/C15_Iroquois_Lua.lua</File>
+    <File md5="3B02B026B81656F87AF9304AB61C509F" import="0">Core/C15_Iroquois_Text.xml</File>
+    <File md5="4755AFBD5377899C044CB358383D1C7F" import="1">Core/C15_Iroquois_Utils.lua</File>
+    <File md5="8E0F2F494DC21F2048C7F80188A20B38" import="0">MCIS/C15_Iroquois_NationMCIS.lua</File>
+    <File md5="7EC56637620057954E53843127A5C64A" import="0">MCIS/C15_Iroquois_NationMCIS.xml</File>
+    <File md5="FE84AC3033D9AEBFD88A75EC5ADB9A05" import="0">MCIS/C15_Iroquois_TradeDefenceMCIS.lua</File>
+    <File md5="64DF635BD57CDEB13DC1038934568A7E" import="0">MCIS/CityInfoStack.lua</File>
+    <File md5="120EB71025973A8A48B38314241DD0B3" import="0">MCIS/CityInfoStack.xml</File>
+    <File md5="97BC8A16F6152305260BD0C226A9E937" import="0">MCIS/C15_Iroquois_TradeDefenceMCIS.xml</File>
+  </Files>
+  <Actions>
+    <OnModActivated>
+      <UpdateDatabase>Core/C15_Iroquois_Defines.sql</UpdateDatabase>
+      <UpdateDatabase>Core/C15_Iroquois_Text.xml</UpdateDatabase>
+    </OnModActivated>
+  </Actions>
+  <EntryPoints>
+    <EntryPoint type="InGameUIAddin" file="Core/C15_Iroquois_Lua.lua">
+      <Name>C15_Iroquois_Lua</Name>
+      <Description>
+      </Description>
+    </EntryPoint>
+    <EntryPoint type="InGameUIAddin" file="MCIS/CityInfoStack.lua">
+      <Name>MCIS</Name>
+      <Description>
+      </Description>
+    </EntryPoint>
+    <EntryPoint type="InGameUIAddin" file="MCIS/C15_Iroquois_NationMCIS.lua">
+      <Name>C15_Iroquois_NationMCIS</Name>
+      <Description>
+      </Description>
+    </EntryPoint>
+    <EntryPoint type="InGameUIAddin" file="MCIS/C15_Iroquois_TradeDefenceMCIS.lua">
+      <Name>C15_Iroquois_TradeDefenceMCIS</Name>
+      <Description>
+      </Description>
+    </EntryPoint>
+  </EntryPoints>
+</Mod>

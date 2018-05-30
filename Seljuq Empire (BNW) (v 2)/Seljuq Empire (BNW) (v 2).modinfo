@@ -1,0 +1,142 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mod id="f4045347-65f4-46df-82bc-f989225e77c8" version="2">
+  <Properties>
+    <Name>Seljuq Empire (BNW)</Name>
+    <Teaser>This mod adds the Seljuq Empire to the game as a playable civilization. Requires Brave New World.</Teaser>
+    <Description>This mod adds the Seljuq Empire to the game as a playable civilization. Requires Brave New World.[NEWLINE][NEWLINE]
+
+Leader: Alp Arslan[NEWLINE][NEWLINE]
+
+UA: Khorasan Fiefdom - Upgrade units at half [ICON_GOLD] cost. +20% [ICON_RANGE_STRENGTH] Ranged Combat Strength for Ranged units. Gain a [ICON_RESEARCH] Tech boost towards any killed unit's required Technology.[NEWLINE][NEWLINE]
+
+UI: Nizamiyyah. Available at Philosophy. Requires flatlands. Requires Desert without access to Fresh Water. There may not be a Nizamiyyah next to another. Gains yields based on the adopted beliefs of the working city's majority Religion (and Pantheon). +1 for a Pantheon Belief, +1 for a Founder belief, +1 for every Follower Belief, +1 for an Enhancer Belief and +1 for a Reformation Belief.[NEWLINE][NEWLINE]
+
+UU: Askari Mounted Archer. Replaces the Chariot Archer. Unlike the Chariot Archer, the Askari Mounted Archer does not lose all of its [ICON_MOVES] Movement Points when entering Rough Terrain. It may also move after attacking. May choose a Double Attack promotion when promoted for the second time and if the necessary promotion is chosen the first time.</Description>
+    <Authors>User</Authors>
+    <HideSetupGame>0</HideSetupGame>
+    <AffectsSavedGames>1</AffectsSavedGames>
+    <MinCompatibleSaveVersion>0</MinCompatibleSaveVersion>
+    <SupportsSinglePlayer>1</SupportsSinglePlayer>
+    <SupportsMultiplayer>0</SupportsMultiplayer>
+    <SupportsHotSeat>1</SupportsHotSeat>
+    <SupportsMac>1</SupportsMac>
+    <ReloadAudioSystem>1</ReloadAudioSystem>
+    <ReloadLandmarkSystem>1</ReloadLandmarkSystem>
+    <ReloadStrategicViewSystem>1</ReloadStrategicViewSystem>
+    <ReloadUnitSystem>1</ReloadUnitSystem>
+  </Properties>
+  <Dependencies />
+  <References>
+    <Mod id="7fdd72a5-d4ae-441c-bc4e-2e3d2a26cff4" minversion="0" maxversion="999" title="Ethnic Units" />
+    <Mod id="36e88483-48fe-4545-b85f-bafc50dde315" minversion="0" maxversion="999" title="Yet (not) Another Earth Maps Pack" />
+    <Mod id="1153b26a-69fd-4cd5-899c-a8ba8e0e5e5d" minversion="0" maxversion="999" title="Civ IV Leader Traits in Civ V" />
+    <Mod id="01c131ef-2162-4a7b-b845-763a4e675940" minversion="0" maxversion="999" title="Unique Cultural Influence" />
+    <Mod id="e576894a-ed2b-4033-be14-ed1c8ceb81d3" minversion="0" maxversion="999" title="Map Labels" />
+    <Mod id="eea66053-7579-481a-bb8d-2f3959b59974" minversion="0" maxversion="999" title="Piety and Prestige" />
+    <Mod id="31a31d1c-b9d7-45e1-842c-23232d66cd47" minversion="0" maxversion="999" title="JFD's Cultural Diversity (Core)" />
+  </References>
+  <Blocks />
+  <Files>
+    <File md5="1218C4E190D5D96CE449112DF3FBF3DF" import="1">Art/AlphaNizamiyyah128.dds</File>
+    <File md5="1F456634DE75FE9A23EA39B1A88857AF" import="1">Art/AlphaNizamiyyah256.dds</File>
+    <File md5="0A74C6F01CE354054DAAC9818A127A07" import="1">Art/AlphaNizamiyyah32.dds</File>
+    <File md5="06FB219AA02107EEAA420167DBA300D5" import="1">Art/AlphaNizamiyyah45.dds</File>
+    <File md5="7E934DCC7C53391E8EC1F47759B0DA24" import="1">Art/AlphaNizamiyyah64.dds</File>
+    <File md5="FD7089758BC7C7AF55175F8A9A2FB254" import="1">Art/AlphaNizamiyyah80.dds</File>
+    <File md5="ADE494EE0DD0A1C414E463EF4A2AFD57" import="1">Art/DJSHSeljuq UU art/HorseArcher_Mongol.dds</File>
+    <File md5="D0ED4C6743DC6254B7FFC013B6C7254D" import="1">Art/DJSHSeljuq UU art/HorseArcher_Mongol.fxsxml</File>
+    <File md5="BC2EC94F7FF3C4EC0E7CD605FC160027" import="1">Art/DJSHSeljuq UU art/HorseArcher_Mongol.gr2</File>
+    <File md5="7EA3B6C9B6AFD3C3B14E48C5626FFBE7" import="1">Art/DJSHSeljuq UU art/HorseArcher_Mongol_gloss.dds</File>
+    <File md5="ED76F6C0472BACA1DE4B269178C0501C" import="1">Art/DJSHSeljuq UU art/HorseArcher_Mongol_Horse.dds</File>
+    <File md5="D3932FF7994939CE1A1D73EDB14391E9" import="1">Art/NizamiyyahTI_B.gr2</File>
+    <File md5="CFAC95881E8EDDEAEAE9933D57C1DA9E" import="1">Art/NizamiyyahTI_HB.gr2</File>
+    <File md5="6C2D5430CD104911D9C67D0B120A5A1E" import="1">Art/AlphaSeljuk128.dds</File>
+    <File md5="8AB689AF23F14559E523D66F5FC82ACC" import="1">Art/AlphaSeljuk16.dds</File>
+    <File md5="0CF1CACADB56631CFBCB120C32468CD8" import="1">Art/AlphaSeljuk24.dds</File>
+    <File md5="85DFFBFB81C551AAA70A2AEC0E7E84E7" import="1">Art/AlphaSeljuk256.dds</File>
+    <File md5="559B948234E36C139609D5D97AFAB7C4" import="1">Art/AlphaSeljuk32.dds</File>
+    <File md5="7AC400308F3A014E0D085E6E7FADD896" import="1">Art/AlphaSeljuk45.dds</File>
+    <File md5="C81CA42186CD732E984F88CACFA8DD03" import="1">Art/AlphaSeljuk48.dds</File>
+    <File md5="6471528E37350B907E9DD4357D28E3D1" import="1">Art/AlphaSeljuk64.dds</File>
+    <File md5="C48BF3AE0EA9DC075D782AFC9E893B38" import="1">Art/AlphaSeljuk80.dds</File>
+    <File md5="992F4C03AD0462D9192797F79F30F335" import="1">Art/MapSeljuq512.dds</File>
+    <File md5="3EB8A44DED6F7CB2C58A3EB6CB688BA9" import="1">Art/Nizamiyyah.dds</File>
+    <File md5="AC41C06BA721315512F26433220FEDF7" import="1">Art/no_gloss.dds</File>
+    <File md5="208B655101B81BDEF03153F21F884E7D" import="1">Art/Seljuq_DOM.dds</File>
+    <File md5="E6C8BBA18B8BBD8094E844E3B087E0B4" import="1">Art/Seljuq_Scene.xml</File>
+    <File md5="872CBE0726CA4E3254F743FD3F564137" import="1">Art/Seljuk_Icons128.dds</File>
+    <File md5="837F591B135A5580F909A43F9179B6C9" import="1">Art/Seljuk_Icons256.dds</File>
+    <File md5="2A6FFB53D4D1A2018D68D5CF512A2729" import="1">Art/Seljuk_Icons32.dds</File>
+    <File md5="A027521DDD90F0027F53400B7FF0A9A6" import="1">Art/Seljuk_Icons45.dds</File>
+    <File md5="9A406082C45DAF1796779A64430422FB" import="1">Art/Seljuk_Icons64.dds</File>
+    <File md5="5879CA1EA62641A22B59BBDC64415C78" import="1">Art/Seljuk_Icons80.dds</File>
+    <File md5="0CD97743C614CE8882C0CD398D4F8BB7" import="1">Art/Seljuq_diplo.dds</File>
+    <File md5="7EC507BB7189053EDA0008A9C37D73CC" import="1">Art/NizamiyyahWTI_B.fxsxml</File>
+    <File md5="BF18FC41FB49BE6D171B3221D3482B40" import="1">Art/NizamiyyahWTI_HB.fxsxml</File>
+    <File md5="F34E67E3D234F956807E5CF32E0B8BA1" import="1">Art/Wonder_grnd_diff.dds</File>
+    <File md5="3E72CE4C071592D55FB4C08E3D4FCE87" import="1">Art/wonder_grnd_h.dds</File>
+    <File md5="C4089962F18D8E73929965C380301DEB" import="0">Art/WONDER_TI_PL.gr2</File>
+    <File md5="FC16ECFB00081CEAFC433C860E0E326D" import="1">Art/WTI_PL.fxsxml</File>
+    <File md5="25B318FB8362A99F5DA5F945BDA6447D" import="0">Lua/Askari.lua</File>
+    <File md5="B7A703DEBE1C6D8431909B20B7CEC748" import="0">Mod Support for The Seljuqs/Barathor's YnAEMP.sql</File>
+    <File md5="8DD9933BAE3B63C5F99517212067DCFE" import="0">Mod Support for The Seljuqs/Bingles' Civ IV Traits.sql</File>
+    <File md5="FF9D1AC43BD9734163B4C47303078CD9" import="0">Mod Support for The Seljuqs/Cultural Diversity.sql</File>
+    <File md5="64FEFA1EB1D765ED52839865B17470DC" import="0">Mod Support for The Seljuqs/Ethnic Units.sql</File>
+    <File md5="71CC731B4ED1213F07B0AD848199F4D7" import="0">Mod Support for The Seljuqs/hazel16's Map Labels.sql</File>
+    <File md5="27AC6193E3A25569BD290E2D5F4D7A00" import="0">Mod Support for The Seljuqs/JFD's Piety and Prestige.sql</File>
+    <File md5="FF6501B217E73E762E1A883A26AAEB00" import="0">Mod Support for The Seljuqs/Ryoga's Unique Cultural Influence.xml</File>
+    <File md5="1B708C4AE5BE88EB0A9A0E1A20E3DD34" import="1">Music/DJSHSeljuqWar.mp3</File>
+    <File md5="750B1D1D6115E41575018B4B031AB8C4" import="1">Music/DJSHSeljuqPeace.mp3</File>
+    <File md5="5A76413EE86CE1DAA469B7B115F2639B" import="0">SQL/Nizamiyyah.sql</File>
+    <File md5="D1144B989F4F609D92980DBCEE1CC475" import="0">XML/CIV5Beliefs.xml</File>
+    <File md5="2CB4244F6B73332906DD102D1909A8D7" import="0">XML/AskariMountedArcher.xml</File>
+    <File md5="79932CED2438555BC5BECBD917302D85" import="0">XML/Music.xml</File>
+    <File md5="5AA7FDA224CE6A060642ACE3408E7BD3" import="0">XML/Seljuq_Diplomacy.xml</File>
+    <File md5="C714211F279891612A5F8B3759A1925F" import="0">XML/Buildings.xml</File>
+    <File md5="9B19E62DEDB8C26D563B7F59DBBB3C9B" import="0">XML/CIV5colors.xml</File>
+    <File md5="FBEB292C773F6CFEF8AB19BD4E40ED2A" import="0">XML/CIV5IconTextureAtlases.xml</File>
+    <File md5="5DAA21AFF64689C1472702865A1EB180" import="0">XML/CIV5Leader_Alp_Arslan.xml</File>
+    <File md5="63266608C81E3D72286BDE03D2522F47" import="0">XML/CIV5playercolors.xml</File>
+    <File md5="1939077F55A0BD9A518C5637C5666C70" import="0">XML/CIV5Traits.xml</File>
+    <File md5="559B7650CF29919C42DF3388E40A2D96" import="0">XML/CIV5UnitPromotions.xml</File>
+    <File md5="8389510CB3887FA3119EEC9777D089D5" import="0">XML/CIV5Units.xml</File>
+    <File md5="74169FA757C5F7D416F1A1AD0E039427" import="0">XML/Civ_Seljuq.xml</File>
+    <File md5="1917D15ED55BA3C73AE65B70A8E568A8" import="0">XML/GameText.xml</File>
+    <File md5="1A0E487C02AC700779158EB1B534C43A" import="0">XML/Nizamiyyah.xml</File>
+  </Files>
+  <Actions>
+    <OnModActivated>
+      <UpdateDatabase>Art/Seljuq_Scene.xml</UpdateDatabase>
+      <UpdateDatabase>SQL/Nizamiyyah.sql</UpdateDatabase>
+      <UpdateDatabase>XML/Buildings.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Civ_Seljuq.xml</UpdateDatabase>
+      <UpdateDatabase>XML/CIV5Beliefs.xml</UpdateDatabase>
+      <UpdateDatabase>XML/CIV5colors.xml</UpdateDatabase>
+      <UpdateDatabase>XML/CIV5IconTextureAtlases.xml</UpdateDatabase>
+      <UpdateDatabase>XML/CIV5Leader_Alp_Arslan.xml</UpdateDatabase>
+      <UpdateDatabase>XML/CIV5playercolors.xml</UpdateDatabase>
+      <UpdateDatabase>XML/CIV5Traits.xml</UpdateDatabase>
+      <UpdateDatabase>XML/CIV5UnitPromotions.xml</UpdateDatabase>
+      <UpdateDatabase>XML/CIV5Units.xml</UpdateDatabase>
+      <UpdateDatabase>XML/GameText.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Nizamiyyah.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Seljuq_Diplomacy.xml</UpdateDatabase>
+      <UpdateDatabase>XML/AskariMountedArcher.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Music.xml</UpdateDatabase>
+      <UpdateDatabase>Mod Support for The Seljuqs/Barathor's YnAEMP.sql</UpdateDatabase>
+      <UpdateDatabase>Mod Support for The Seljuqs/Bingles' Civ IV Traits.sql</UpdateDatabase>
+      <UpdateDatabase>Mod Support for The Seljuqs/Ethnic Units.sql</UpdateDatabase>
+      <UpdateDatabase>Mod Support for The Seljuqs/Ryoga's Unique Cultural Influence.xml</UpdateDatabase>
+      <UpdateDatabase>Mod Support for The Seljuqs/hazel16's Map Labels.sql</UpdateDatabase>
+      <UpdateDatabase>Mod Support for The Seljuqs/JFD's Piety and Prestige.sql</UpdateDatabase>
+      <UpdateDatabase>Mod Support for The Seljuqs/Cultural Diversity.sql</UpdateDatabase>
+    </OnModActivated>
+  </Actions>
+  <EntryPoints>
+    <EntryPoint type="InGameUIAddin" file="Lua/Askari.lua">
+      <Name>AskariUU</Name>
+      <Description>
+      </Description>
+    </EntryPoint>
+  </EntryPoints>
+</Mod>

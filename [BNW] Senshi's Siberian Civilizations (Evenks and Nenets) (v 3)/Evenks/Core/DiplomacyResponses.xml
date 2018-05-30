@@ -1,0 +1,22 @@
+<GameData>
+	<Diplomacy_Responses>
+		<Row LeaderType="LEADER_SENSHI_BOMBOGOR">
+			<ResponseType>RESPONSE_FIRST_GREETING</ResponseType>
+			<Response>TXT_KEY_LEADER_SENSHI_BOMBOGOR_FIRSTGREETING%</Response>
+		</Row>
+		<Row LeaderType="LEADER_SENSHI_BOMBOGOR">
+			<ResponseType>RESPONSE_DEFEATED</ResponseType>
+			<Response>TXT_KEY_LEADER_SENSHI_BOMBOGOR_DEFEATED%</Response>
+		</Row>
+	</Diplomacy_Responses>
+	<Language_en_US>
+		<!--General phrases -->
+		<!--Greeting (first time meeting) -->
+		<Row Tag="TXT_KEY_LEADER_SENSHI_BOMBOGOR_FIRSTGREETING_1">
+			<Text>My shamans foresaw this day. You stand before Dular Bombogor, proud and noble defender of the Evenk peoples. What is it that you wish?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_SENSHI_BOMBOGOR_DEFEATED_1">
+			<Text>As long as I live, I will fight for my people! The absolute conquest of all our land does not mean we will succumb to your threats!</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 5/1/2016 12:55:55 AM -->
+<GameData>
+	<UnitPromotions>
+		<Row>
+			<Type>PROMOTION_CL_DIVIDEDATTENTION</Type>
+			<Description>TXT_KEY_DECISIONS_KOREA_FORT_CONSTRUCTION</Description>
+			<Help>TXT_KEY_DECISIONS_KOREA_FORT_CONSTRUCTION_HELP</Help>
+			<Sound>AS2D_IF_LEVELUP</Sound>
+			<PortraitIndex>59</PortraitIndex>
+			<IconAtlas>ABILITY_ATLAS</IconAtlas>
+			<CannotBeChosen>true</CannotBeChosen>
+			<PediaType>PEDIA_ATTRIBUTES</PediaType>
+			<PediaEntry>TXT_KEY_DECISIONS_KOREA_FORT_CONSTRUCTION</PediaEntry>
+			<CombatPercent>20</CombatPercent>
+		</Row>
+	</UnitPromotions>
+</GameData>

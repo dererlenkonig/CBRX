@@ -1,0 +1,58 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by Tomatekh-->
+<GameData>
+	<Language_en_US>
+		<!-- Place of Rings -->
+		<Row Tag="TXT_KEY_DECISIONS_TOMATEKH_POVERTY_1">
+			<Text>Construct the Place of Rings</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_TOMATEKH_POVERTY_1_DESC">
+			<Text>Our population is growing and we should raise new mounds to construct additional hálimúrari . Our priests urge us to build the mounds with their arcs against the west to help protect us from malevolent spirits.[NEWLINE]
+				[NEWLINE]Requirement/Restrictions:
+				[NEWLINE][ICON_BULLET]Player must be Poverty Point
+				[NEWLINE][ICON_BULLET]Must have built at least 1 Effigy Mound
+				[NEWLINE][ICON_BULLET]Your [ICON_CAPITAL] Capital must have at least 6 [ICON_CITIZEN] Population
+				[NEWLINE][ICON_BULLET]May only be enacted once per game
+				[NEWLINE]Costs:
+				[NEWLINE][ICON_BULLET]{1_Gold} [ICON_GOLD] Gold
+				[NEWLINE][ICON_BULLET]2 [ICON_MAGISTRATES] Magistrates
+				[NEWLINE]Rewards:
+				[NEWLINE][ICON_BULLET]All neutral land tiles located 3 tiles away from your Cities will be claimed by your Civilization
+				[NEWLINE][NEWLINE][COLOR_POSITIVE_TEXT]Note: The [ICON_GOLD] Gold cost increases based on your total number of Cities.[ENDCOLOR]
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_TOMATEKH_POVERTY_1_ENACTED_DESC">
+			<Text>Our population is growing and we should raise new mounds to construct additional hálimúra. Our priests urge us to build the mounds with their arcs against the west to help protect us from malevolent spirits.[NEWLINE]
+				[NEWLINE]Rewards:
+				[NEWLINE][ICON_BULLET]All neutral land tiles located 3 tiles away from your Cities will be claimed by your Civilization
+			</Text>
+		</Row>
+		<!-- Fox and Owl -->
+		<Row Tag="TXT_KEY_DECISIONS_TOMATEKH_POVERTY_2">
+			<Text>Hold the Feast for Fox and Owl</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_TOMATEKH_POVERTY_2_DESC">
+			<Text>Our hunters have returned with large quantities of deer and catfish in preparation for the coming solstice. Let us make ready a great feast in celebration of the passing year as our warriors don the ceremonial owl headdress and our priests give thanks to the Old Man Above.[NEWLINE]
+				[NEWLINE]Requirement/Restrictions:
+				[NEWLINE][ICON_BULLET]Player must be Poverty Point
+				[NEWLINE][ICON_BULLET]Must have at least 1 Fox-Man
+				[NEWLINE][ICON_BULLET]Must have built at least 2 Effigy Mound
+				[NEWLINE][ICON_BULLET]One of your Cities must be celebrating a 'We Love the King Day'
+				[NEWLINE][ICON_BULLET]May only be enacted once per game
+				[NEWLINE]Costs:
+				[NEWLINE][ICON_BULLET]{1_Gold} [ICON_CULTURE] Culture
+				[NEWLINE][ICON_BULLET]1 [ICON_MAGISTRATES] Magistrate
+				[NEWLINE]Rewards:
+				[NEWLINE][ICON_BULLET]Effigy Mounds will also yield [ICON_FOOD] Food
+				[NEWLINE][ICON_BULLET]Cities will generate +2 [ICON_PEACE] Faith during 'We Love the King Days'
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_TOMATEKH_POVERTY_2_ENACTED_DESC">
+			<Text>Our hunters have returned with large quantities of deer and catfish in preparation for the coming solstice. Let us make ready a great feast in celebration of the passing year as our warriors don the ceremonial owl headdress and our priests give thanks to the Old Man Above.[NEWLINE]
+				[NEWLINE]Rewards:
+				[NEWLINE][ICON_BULLET]Effigy Mounds will also yield [ICON_FOOD] Food
+				[NEWLINE][ICON_BULLET]Cities will generate +2 [ICON_PEACE] Faith during 'We Love the King Days'
+			</Text>
+		</Row>			
+	</Language_en_US>	
+</GameData>

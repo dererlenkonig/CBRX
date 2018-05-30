@@ -1,0 +1,368 @@
+﻿<GameData>
+	<Language_en_US>
+		<Row Tag="TXT_KEY_CITY_NAME_SENSHI_HAWKE_01">
+			<Text>Canberra</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SENSHI_HAWKE_02">
+			<Text>Sydney</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SENSHI_HAWKE_03">
+			<Text>Melbourne</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SENSHI_HAWKE_04">
+			<Text>Brisbane</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SENSHI_HAWKE_05">
+			<Text>Adelaide</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SENSHI_HAWKE_06">
+			<Text>Perth</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SENSHI_HAWKE_07">
+			<Text>Hobart</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SENSHI_HAWKE_08">
+			<Text>Darwin</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SENSHI_HAWKE_09">
+			<Text>Gold Coast</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SENSHI_HAWKE_10">
+			<Text>Newcastle</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SENSHI_HAWKE_11">
+			<Text>Geelong</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SENSHI_HAWKE_12">
+			<Text>Launceston</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SENSHI_HAWKE_13">
+			<Text>Bunbury</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SENSHI_HAWKE_14">
+			<Text>Queanbeyan</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SENSHI_HAWKE_15">
+			<Text>Alice Springs</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SENSHI_HAWKE_16">
+			<Text>Mount Gambier</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SENSHI_HAWKE_17">
+			<Text>Cairns</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SENSHI_HAWKE_18">
+			<Text>Gosford</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SENSHI_HAWKE_19">
+			<Text>Sunshine Coast</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SENSHI_HAWKE_20">
+			<Text>Wollongong</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SENSHI_HAWKE_21">
+			<Text>Townsville</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SENSHI_HAWKE_22">
+			<Text>Broome</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SENSHI_HAWKE_23">
+			<Text>Ballarat</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SENSHI_HAWKE_24">
+			<Text>Toowoomba</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SENSHI_HAWKE_25">
+			<Text>Whyalla</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SENSHI_HAWKE_26">
+			<Text>Bendigo</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SENSHI_HAWKE_27">
+			<Text>Kalgoorlie</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SENSHI_HAWKE_28">
+			<Text>Albury-Wodonga</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SENSHI_HAWKE_29">
+			<Text>Mackay</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SENSHI_HAWKE_30">
+			<Text>Rockhampton</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SENSHI_HAWKE_31">
+			<Text>Bundaberg</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SENSHI_HAWKE_32">
+			<Text>Wagga Wagga</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SENSHI_HAWKE_33">
+			<Text>Coffs Harbour</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SENSHI_HAWKE_34">
+			<Text>Broken Hill</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SENSHI_HAWKE_35">
+			<Text>Byron Bay</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SENSHI_HAWKE_36">
+			<Text>Port Macquarie</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SENSHI_HAWKE_37">
+			<Text>Kirribilli</Text>
+		</Row>
+
+		<!--Spies-->
+		<Row Tag="TXT_KEY_SPY_NAME_SENSHI_HAWKE_0">
+			<Text>Michael</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_SENSHI_HAWKE_1">
+			<Text>Dave</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_SENSHI_HAWKE_2">
+			<Text>Angus</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_SENSHI_HAWKE_3">
+			<Text>Jimmy</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_SENSHI_HAWKE_4">
+			<Text>Peter</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_SENSHI_HAWKE_5">
+			<Text>John</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_SENSHI_HAWKE_6">
+			<Text>Colin</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_SENSHI_HAWKE_7">
+			<Text>Mark</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_SENSHI_HAWKE_8">
+			<Text>Iva</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_SENSHI_HAWKE_9">
+			<Text>Chris</Text>
+		</Row>
+
+		<!--Demonyms-->
+		<Row Tag="TXT_KEY_CIV_SENSHI_HAWKE_ADJECTIVE">
+			<Text>Australian</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_SENSHI_HAWKE_DESC">
+			<Text>Commonwealth of Australia</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_SENSHI_HAWKE_SHORT_DESC">
+			<Text>Australia</Text>
+		</Row>
+
+		<!--DoM-->
+		<Row Tag="TXT_KEY_CIV5_DOM_SENSHI_HAWKE_TEXT">
+			<Text>Salutations to you, Bob Hawke, 23rd Prime Minister of the Commonwealth of Australia! After achieving office through a landslide victory over the incumbent Liberal government, you used your support and authority within the Labor party to introduce sweeping policy changes that would affect the course of Australia's society and economy to make it a true player on the world stage, and whose influence can still be felt today. Your government was also known for its reforms in the areas of health and welfare, including the reintroduction of the Medicare public health service, and your heavy interaction with the citizens of your country cemented your place as one of the most popular leaders in Australia's history.[NEWLINE][NEWLINE]Prime Minister Hawke, Australia again needs the guidance of a leader that will provide it with prosperity and reform. Will you be able to make the Land Down Under become part of the global playing field once more? Can you build a civilization that will stand the test of time?</Text>
+		</Row>
+
+		<!--Pedia-->
+		<Row Tag="TXT_KEY_CIV5_SENSHI_HAWKE_TITLE">
+			<Text>Australia</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_SENSHI_HAWKE_HEADING_1">
+			<Text>History</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_SENSHI_HAWKE_TEXT_1">
+			<Text>For most of its history, the land known as "Australia" has been inhabited by various Aboriginal peoples, who were isolated from the rest of the world. Upon the European discovery of this vast landmass in 1606, many countries tried to take portions of it. Eventually, the British took the entire island of Australia, turning it into one of their most prosperous - and largest - colonies. Due to the vast amount of available land, the British Empire sent convicts to the territory, as a way of keeping the British Isles crime-free. Eventually, in 1901, Australia got its first Prime Minister, and eventually independence from Great Britain. As a newly-formed nation, Australia joined the First and Second World Wars, helping to put its place on the world map. Today, Australia is one of the most visited tourist destinations in the world, as well as having strong economic and political links with other countries.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_SENSHI_HAWKE_HEADING_2">
+			<Text>Terrain and Climate</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_SENSHI_HAWKE_TEXT_2">
+			<Text>Due to the large desert regions in Central Australia, the majority of the population live on the coast. Australia has several notable geographical features, such as Uluru, a sacred Aboriganal site; the Great Barrier Reef, off the north coast; and the Outback, a large, arid area in the middle of Australia. Due to the extreme heat in Australia's summer months, there are often bushfires which involve shrubs and plantlife being set on fire by the intense warming. These can cause a lot of trouble to Australians, and can be potentially deadly if not controlled properly.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_SENSHI_HAWKE_HEADING_3">
+			<Text>Prehistory and the Aboriginals</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_SENSHI_HAWKE_TEXT_3">
+			<Text>Before the 18th century, Australia was mostly inhabited by Aboriginals. They were probably originally from Asia, although they would not be classified as "Asian". About 50,000 years ago, there was a migration of these people to Australia, where they settled and lived in an isolated state for the next 49,700 or so years. The Aboriginals inhabited most of Australia, even some of the arid desert parts in the centre. However, most Aboriginals were located in the northern parts of the continent. Even today, there is still a small amount of these people, making up only 3% of Australia's total population. Most Aboriginals are now in the Northern Territory province of the country.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_SENSHI_HAWKE_HEADING_4">
+			<Text>European Sightings</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_SENSHI_HAWKE_TEXT_4">
+			<Text>The first outside sighting of Australia was made by a Dutch navigator called Willem Janszoon. On the 26th of February 1606, Janszoon landed at what is now Cape York, Queensland. He later went on to map 320 km of Australia's coastline, thinking it part of New Guinea. He named the land "Nieu Zeland", but the name didn't catch on. Over the course of that century, Dutch navigators charted the whole island, which they now named "New Holland", but never attempted to colonize. Over the next 200 years several voyages were made, but the most important was probably James Cook's expedition. Cook mapped the unknown South of Australia, which he called New South Wales. This was soon to grow into Britain's settlement on the island.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_SENSHI_HAWKE_HEADING_5">
+			<Text>Establishment of the Colonies</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_SENSHI_HAWKE_TEXT_5">
+			<Text>With the loss of its 13 colonies in America in 1780, the British Empire sent a fleet to start colonizing Australia. On the 26th of January 1788 the British flag was raised at Sydney Cove, proclaiming the land a British settlement. Today, the 26th of January is celebrated as Australia Day. The site for this first colony later became Sydney. Eventually Britain split the island into several different colonial settlements, each with different governments, which today serve as regional divisions in Australia. They were used for different things by the British - most of them had some convict focus, except for South Australia, which was notably a "free colony".</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_SENSHI_HAWKE_HEADING_6">
+			<Text>Convicts</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_SENSHI_HAWKE_TEXT_6">
+			<Text>Australia was by this point a thriving British settlement, although it had no central government. The British eventually decided to use this vast land as a convict settlement by sending British prisoners to the mostly uninhabited land. From the start convicts had been used to establish initial colonies, but now there were larger prisons to house convicts in. Most of the time, the crimes they did were harmless - such as steal a loaf of bread - but all the same Britain used it as a convict settlement, perhaps to give people an even better reason not to commit crimes. The largest prison was Port Arthur in Tasmania, which was used for re-offending criminals.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_SENSHI_HAWKE_HEADING_7">
+			<Text>The Gold Rush</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_SENSHI_HAWKE_TEXT_7">
+			<Text>During the 1850s a gold rush began in Australia. It started in New South Wales and Victoria, but quickly spread across the island. The colonies' economies greatly benefited from this as it brought a lot of extra value to both the land and the amount of people in the settlements. While many people got massively rich off this, most of the people taking part in it didn't and instead took advantage of Australia's land laws and started farming.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_SENSHI_HAWKE_HEADING_8">
+			<Text>Federation and Independence</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_SENSHI_HAWKE_TEXT_8">
+			<Text>Australia became a unified nation in 1901 and gained its first Prime Minister in the same year. Australia was pretty much an independent state at this point, but in 1931 the Statute of Westminster ended most constitutional ties between Britain and Australia. Although most links between the two nations have now ended they both share a monarch, Queen Elizabeth II. There have been a few attempts to end the monarchy and proclaim Australia a republic, but the majority of Australian voters are opposed to this.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_SENSHI_HAWKE_HEADING_9">
+			<Text>The World Wars</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_SENSHI_HAWKE_TEXT_9">
+			<Text>In 1914 Australia entered the First World War on the side of Britain. The Australians initially served on the Western Front and later at Gallipoli, which is marked as an important encounter for the new nation. Throughout the war, Australia supported the war effort which eventually resulted in victory for the Australians, and placed them as a large force on the world stage. Later they also joined the Second World War where they had to deal with threats of Japanese attacks, but successfully defended the nation and helped the Allies in the Pacific War.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_SENSHI_HAWKE_HEADING_10">
+			<Text>Postwar Activities</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_SENSHI_HAWKE_TEXT_10">
+			<Text>After the Second World War, Australia encouraged immigration from Europe and saw its population grow considerably. Australia's economy also grew considerably in the post-war years. Australia played a large role in the Cold War, taking action in Korea and Vietnam and doing what they could to stop the spread of communism. Trade links were reopened with nations such as Japan, and Australia was thriving. Better rights were given to the Aboriginals, and links with other nations such as the United Kingdom and the United States were strengthened.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_SENSHI_HAWKE_HEADING_11">
+			<Text>Modern Australia</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_SENSHI_HAWKE_TEXT_11">
+			<Text>Today, Australia is one of the most successful countries with the fifth largest land area and the twelfth largest economy in the world. It is notable for its large amount of rights and equalities, and is considered one of the most developed nations in the world. Australia continues to harbor immigrants today, as well as being a popular tourist resort. It is studied as one of the most geographically interesting places in the world, with a mix of Desert, Rainforest, and Mediterranean climates. Overall, it remains one of the greatest nations in the world - a truly diverse nation, in terms of not only the landscape and the climate, but the people themselves.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_SENSHI_HAWKE_FACTOID_TEXT">
+			<Text>To many people in the Northern Hemisphere, Australia is known as "Down Under" due to its location on the southern part of the planet.[NEWLINE][NEWLINE]Australia has hosted the Olympic Games twice and has participated in every modern Olympic Games, being the only nation aside from Greece to have done so.</Text>
+		</Row>
+
+		<!--Leader-->
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_SENSHI_HAWKE_HEADING_1">
+			<Text>Bob Hawke</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_SENSHI_HAWKE_TEXT_1">
+			<Text>Australia was seen as a "bloody comfy country" in a stablizing geopolitical landscape when Rhodes scholar (and world record holder for beer drinking) Bob Hawke came to power. Under Bob Hawke, the Australian Labor Party won four elections in a row, thus making him the most electorally successful Labor Leader in history. During his first term in office, Hawke gained the highest popularity rating of any Prime Minister since the introduction of public opinion polls. After a decade as ACTU President, Hawke announced his intention to enter politics, and was immediately elected to the House of Representatives. Hawke believed in government by consensus and managed with considerable success to establish agreement between business and the unions in the pursuit of economic growth.  The Hawke Government created Medicare and Landcare, brokered the Prices and Incomes Accord, formed APEC, floated the Australian dollar, deregulated the financial sector, introduced the Family Assistance Scheme, announced "Advance Australia Fair" as the official national anthem and initiated superannuation pension schemes for all workers.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_SENSHI_HAWKE_HEADING_2">
+			<Text>Bordertown</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_SENSHI_HAWKE_TEXT_2">
+			<Text>Hawke was born in Bordertown, South Australia (making him the first and only prime minister from South Australia), the second child of Arthur Hawke (known as Clem), a Congregationalist minister, and his wife Edith (known as Ellie), a schoolteacher. Hawke's elder brother Neil, who was nine years his senior, died at the age of 17 after contracting meningitis, with no cure being available at the time. Ellie Hawke subsequently developed an almost messianic belief in her son's destiny, and this contributed to Hawke's supreme self-confidence throughout his career. At the age 15, he presciently boasted to friends that he would one day become the Prime Minister of Australia.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_SENSHI_HAWKE_HEADING_3">
+			<Text>An Awakening</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_SENSHI_HAWKE_TEXT_3">
+			<Text>At the age of 17, the same age that his brother Neil had died, Hawke had a serious accident while riding his Panther motorcycle that left him in a critical condition for several days. This near-death experience acted as his catharsis, driving him to make the most of his talents and not let his abilities go to waste. He joined the Labor Party in 1947 at the age of 18, and successfully applied for a Rhodes Scholarship at the end of 1952. His academic achievements were complemented by setting a new world record for beer drinking; he downed 2 1⁄2 imperial pints (1.4 l) – equivalent to a yard of ale – from a sconce pot in 11 seconds as part of a college penalty. In his memoirs, Hawke suggested that this single feat may have contributed to his political success more than any other, by endearing him to a voting population with a strong beer culture.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_SENSHI_HAWKE_HEADING_4">
+			<Text>The Council of Trade Unions</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_SENSHI_HAWKE_TEXT_4">
+			<Text>In 1956, Hawke accepted a scholarship to undertake doctoral studies in the area of arbitration law in the law department at the Australian National University in Canberra. Soon after his arrival at ANU, Hawke became the students' representative on the University Council. A year later, Hawke was recommended to the President of the Australian Council of Trade Unions (ACTU) to become a research officer, replacing Harold Souter who had become ACTU Secretary. Hawke decided to abandon his doctoral studies and accept the offer, moving to Melbourne with his wife Hazel. After rising through the ranks of the ACTU, Hawke served as its president from 1970 to 1980. He took on a high public profile and acquired a reputation as an excellent conciliator, effectively resolving many national industrial disputes.[NEWLINE][NEWLINE]: He was a member of many national bodies during the 1970s, including the Immigration Planning Council and the Immigration Advisory Council , the Reserve Bank Board, the Australian Council for Union Training, the Australian Population and Immigration Council, the Australian Refugee Advisory Council, and the International Labour Organisation Governing Body. He was national president of the ALP and in 1979 he delivered the ABC Boyer lecture on the topic ‘Resolution of Conflict’.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_SENSHI_HAWKE_HEADING_5">
+			<Text>Hawke Rising</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_SENSHI_HAWKE_TEXT_5">
+			<Text>Bob Hawke was elected to federal parliament at the general election on 18 October 1980 as the ALP candidate for the seat of Wills, Victoria, which he held through the next four general elections.On election he was immediately appointed to the shadow ministry of opposition leader WG Hayden, as spokesman on industrial relations, employment and youth affairs. On 16 July 1982 Hawke challenged Hayden for leadership of the parliamentary ALP. Hayden resigned the leadership, contested the position against Hawke at a caucus ballot on 16 July and retained the position in a close vote 42:37. Hawke’s supporters continued lobbying for him to replace Hayden, who was persuaded to resign the leadership. He did so on 3 February 1983, 20 minutes after the Prime Minister, Malcolm Fraser, called a general election.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_SENSHI_HAWKE_HEADING_6">
+			<Text>Prime Minister Bob Hawke</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_SENSHI_HAWKE_TEXT_6">
+			<Text>After Labor's landslide win (gaining a 15-seat majority), Hawke was sworn in as the 23rd Prime Minister of Australia by the Governor-General on 11 March 1983. The inaugural days of the Hawke Government were distinctly different from those of the Whitlam Government. Rather than immediately initiating extensive reform programmes as Whitlam had, Hawke announced that Malcolm Fraser's pre-election concealment of the budget deficit meant that many of Labor's election commitments would have to be deferred. Undoubtedly, the most influential economic decisions of the 1980s were his floating of the Australian dollar and the deregulation of the financial system.[NEWLINE][NEWLINE]Unlike his predecessor as Labor Leader, Hawke's authority within the Labor Party was absolute. Individual accounts from ministers indicate that while Hawke was not usually the driving force behind individual reforms, he took on the role of achieving consensus and providing political guidance on what was electorally feasible and how best to sell it to the public, tasks at which he proved highly successful. Hawke took on a very public role as Prime Minister, proving to be incredibly popular with the Australian electorate; to this date he still holds the highest ever AC Nielsen approval rating.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_SENSHI_HAWKE_HEADING_7">
+			<Text>My Right Hand Man</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_SENSHI_HAWKE_TEXT_7">
+			<Text>The political partnership between Hawke and his Treasurer, Paul Keating, proved essential to Labor's success in government. The two men proved a study in contrasts: Hawke was a Rhodes Scholar; Keating left high school early. Hawke's enthusiasms were cigars, horse racing and all forms of sport; Keating preferred classical architecture, Mahler symphonies and collecting British Regency and French Empire antiques. Hawke was consensus-driven; Keating revelled in aggressive debate. Hawke was a lapsed Protestant; Keating was a practising Catholic. These differences, however, seemed only to increase the effectiveness of their partnership, as they oversaw sweeping economic and social changes throughout Australia. Both Hawke and Keating would claim the credit for being the driving force behind the success of the Australian Dollar float.[NEWLINE][NEWLINE]Hawke and Treasurer Paul John Keating were criticised for having ‘hijacked’ the ALP, moving it away from its traditional working class base and from its previous socialist philosophy. At the same time, the ALP’s continued electoral success was due largely to Hawke’s - and later Keating’s - achievement in moving the party to the ‘middle ground’, where it attracted voters who previously supported the Liberal-National Party coalition.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_SENSHI_HAWKE_HEADING_8">
+			<Text>Kirribilli Agreement</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_SENSHI_HAWKE_TEXT_8">
+			<Text>The late 1980s recession and accompanying high interest rates had seen the government in considerable electoral trouble, with many doubting if Hawke could win in 1990. Although Keating was the main architect of the government's economic policies, he took advantage of Hawke's declining popularity to plan a leadership challenge. In 1988, in the wake of poorer opinion polls, Keating put pressure on Hawke to step down immediately. Hawke responded by agreeing a secret deal with Keating, the so-called "Kirribilli agreement", that he would stand down in Keating's favour shortly after the 1990 election, which he convinced Keating he could win. Hawke duly won the 1990 election, albeit by a very tight margin, and subsequently appointed Keating as Deputy Prime Minister to replace the retiring Lionel Bowen, and to prepare Keating to assume the leadership.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_SENSHI_HAWKE_HEADING_9">
+			<Text>Another NDE (of sorts)</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_SENSHI_HAWKE_TEXT_9">
+			<Text>Not long after becoming Deputy Prime Minister, frustrated at the lack of any indication from Hawke as to when he might step down, Keating made a provocative speech to the Federal Parliamentary Press Gallery. Hawke considered the speech extremely disloyal, and subsequently indicated to Keating that he would renege on the Kirribilli Agreement as a result. After this disagreement tensions between the two men reached an all-time high, and after a turbulent year, Keating finally resigned as Deputy Prime Minister and Treasurer in June 1991, to challenge Hawke for the leadership. Hawke comfortably defeated Keating, and in a press conference after the result Keating declared that with regards the leadership, he had fired his "one shot". Hawke appointed John Kerin to replace Keating as Treasurer, but Kerin quickly proved to be unequal to the job.  In spite of his convincing win over Keating, Hawke was seen after the result as a "wounded" leader; he had now lost his long-term political partner, his rating in opinion polls began to decrease, and after nearly nine years as Prime Minister, many were openly speculating that he was "tired", and that it was time for somebody new.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_SENSHI_HAWKE_HEADING_10">
+			<Text>The New Ruler of the Land</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_SENSHI_HAWKE_TEXT_10">
+			<Text>In 1990-1991 the Australian economy slid into recession and unemployment reached 11 per cent in 1992 - the highest level since the Great Depression of the early 1930s. Political anxiety led to Hawke’s removal as leader on 20 December 1991, when Keating made a second and successful challenge to his leadership. Hawke immediately resigned the prime ministership, which Keating then took over. Hawke resigned from parliament soon after quitting as Prime Minister. He entered TV journalism, interviewing international political figures for the Channel 9 network. He subsequently pursued diverse business interests, and in 1994 published his political memoirs, The Hawke Memoirs.</Text>
+		</Row>
+
+
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_SENSHI_HAWKE_LIVED">
+			<Text>1929 - Present</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_SENSHI_HAWKE_NAME">
+			<Text>Bob Hawke</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_SENSHI_HAWKE_SUBTITLE">
+			<Text>Prime Minister of Australia</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_SENSHI_HAWKE">
+			<Text>Bob Hawke</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_SENSHI_HAWKE_TITLES_1">
+			<Text>Prime Minister of Australia</Text>
+		</Row>
+
+		<!--Unique Ability-->
+		<Row Tag="TXT_KEY_TRAIT_SENSHI_HAWKE_SHORT">
+			<Text>Let's Stick Together</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_SENSHI_HAWKE">
+			<Text>Specialists refund a portion of [ICON_CULTURE] Culture spent upon adopting a Social Policy, and consume half the usual Food and Happiness during Golden Ages. Farms on Desert tiles generate [ICON_GOLDEN_AGE] Golden Age points if another Desert Farm is adjacent.</Text>
+		</Row>
+
+		<!--Unique Unit-->
+		<Row Tag="TXT_KEY_UNIT_SENSHI_SASR">
+			<Text>SASR</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_SENSHI_SASR_HELP">
+			<Text>Unlike the Paratrooper, which it replaces, the SASR may paradrop up to eleven tiles rather than nine and gains science when defeating an enemy equal to 50% of its Combat Strength. In addition, its combat strength is increased to 70 while you are researching a Technology no other player has discovered.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_SENSHI_SASR_STRATEGY">
+			<Text>Unlike the Paratrooper, which it replaces, the SASR may paradrop up to eleven tiles rather than nine and gains science when defeating an enemy equal to 50% of its Combat Strength. In addition, its combat strength is increased to 70 while you are researching a Technology no other player has discovered.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_CIV5_SENSHI_SASR_TEXT">
+			<Text>
+				Operating under the motto 'Who Dares Wins' the Special Air Service Regiment (SASR) can trace its beginnings back to the Australian Z Special Unit and Independent Commando Companies that fought during World War II. Force elements from SASR have served in various major conflicts (including Borneo, Vietnam, Afghanistan and Iraq) and provide support to peace enforcements and peacekeeping operations (including Rwanda, Somalia, Cambodia and Timor-Leste (East Timor)).
+				[NEWLINE][NEWLINE]
+				SASR is tasked to provide special operations capabilities in support of the Australia's national interests. This includes providing unique capabilities to support sensitive strategic operations, special recovery operations, training assistance, special reconnaissance and precision strike and direct action.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_SENSHI_SASR">
+			<Text>Who Dares Wins</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_SENSHI_SASR_HELP">
+			<Text>+2 Paradrop Range</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_SENSHI_SASR_BONUS">
+			<Text>Researching an Undiscovered Technology!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_SENSHI_SASR_BONUS_HELP">
+			<Text>Combat Strength increased to 70</Text>
+		</Row>
+
+		<!--Unique Building-->
+		<Row Tag="TXT_KEY_BUILDING_SENSHI_CSIRO">
+			<Text>CSIRO</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_SENSHI_CSIRO_HELP">
+			<Text>Unlocked earlier than the Research Lab it replaces, at Replacable Parts, the CSIRO contains an additional Scientist specialist slot. In addition, it grants a small burst of golden age points upon the discovery of a new technology, and costs no maintenance after The Internet is discovered.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_SENSHI_CSIRO_STRATEGY">
+			<Text>Unlocked earlier than the Research Lab it replaces, at Replacable Parts, the CSIRO contains an additional Scientist specialist slot. In addition, it grants a small burst of golden age points upon the discovery of a new technology, and costs no maintenance after The Internet is discovered.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_SENSHI_CSIRO_TEXT">
+			<Text>The Commonwealth Scientific and Industrial Research Organisation (CSIRO) started life as the Advisory Council of Science and Industry in 1916. They’ve advanced Australia with a range of inventions and innovations that have had significant positive impact on the lives of people around the world. The CSIRO have pioneered such efforts as Wi-Fi technology, Gene shears, Polymer Banknotes, Insect Repellent, RAFT polymerisation, body armour, and mutiple vaccines and genome projects.</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

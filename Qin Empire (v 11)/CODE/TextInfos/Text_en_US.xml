@@ -1,0 +1,279 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<Language_en_US>
+	<!-- QIN tags -->
+		<Row Tag="TXT_KEY_X_TRAIT_UNITY_SHORT">
+			<Text>The Great Unity</Text>
+		</Row>
+		<Row Tag="TXT_KEY_X_TRAIT_UNITY">
+			<Text>After capturing a foreign [ICON_CAPITAL] Capital, Cities with the Default Building will acquire the Unique Building of this Civilization, and Default Unit can also be converted into the Unique Unit of this Civilization.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_X_CIV5_DAWN_QIN_TEXT">
+			<Text>O, great Emperor Ying Zheng, known as the first emperor of Chinese Empire, Qin Shi Huang, your people kneel before your triumph, also tremble before your tyranny. [NEWLINE] [NEWLINE]Born as the heir of the king of powerful Qin state during the warring states period, you took over its military and political superiority over other states from your father in your young ages. Followed by your victory in the battlefield, which is such an extrodinary exploit that defeated six other powerful states in the same era, you brought ancient and fragmentized China to a new stage of a great unity. And yourself, honored by your people and blessed by the God, became the glorious Emperor of China, for the first time throughout history. During your reign, your adoption of The Legalist Thought, uniform characters, universal weights and measures consolidated the nation and left precious cultural heritage for the posterity. Although your empire fell very quickly after the unity due to reckless enslavement of people, and people pin the blame on your tyranny, your triumph and mighty live long in poems and literatures. [NEWLINE] [NEWLINE]Great emperor, your people are facing brand new challenges in a brand new age, they turn to you in awe, hoping you will lead them to break through, to bring glory back to this ancient land. Will you begin again? Will you build a civlization that stands the test of time?</Text>
+		</Row>
+		
+	<!-- QIN Civilization tags -->
+		<Row Tag="TXT_KEY_CIV_QIN_DESC">
+			<Text>Qin Empire</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_QIN_SHORT_DESC">
+			<Text>Qin</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_QIN_ADJECTIVE">
+			<Text>Qin</Text>
+		</Row>
+		
+	<!-- Ying Zheng tags -->
+		<Row Tag="TXT_KEY_X_LEADER_YINGZHENG">
+			<Text>Ying Zheng</Text>
+		</Row>
+		<Row Tag="TXT_KEY_X_CIVILOPEDIA_LEADER_YINGZHENG">
+			<Text>The First Emperor of China</Text>
+		</Row>
+		<Row Tag="TXT_KEY_X_LEADER_YINGZHENG_PEDIA">
+			<Text>Qin Shi Huang (260–210 BC), personal name Ying Zheng, was the King of the state of Qin (r. 246–221 BC) who conquered all other Warring States and united China in 221 BC. Rather than maintain the title of king borne by the Shang and Zhou rulers, he ruled as the First Emperor of the Qin dynasty from 220 to 210 BC. The title emperor (huangdi) would continue to be borne by Chinese rulers for the next two millennia. [NEWLINE][NEWLINE]During his reign, his generals greatly expanded the size of the Chinese state: campaigns south of Chu permanently added the Yue lands of Hunan and Guangdong to the Chinese cultural orbit; campaigns in Central Asia conquered the Ordos Loop from the nomad Xiongnu, although eventually causing their confederation under Modu Chanyu. Qin Shi Huang also worked with his minister Li Si to enact major economic and politic reforms aimed at the standardization of the diverse practices of the earlier Chinese states. This process also led to the banning and burning of many books and the execution of recalcitrant scholars. His public works projects included the unification of diverse state walls into a single Great Wall of China and a massive new national road system, as well as the city-sized mausoleum guarded by the life-sized Terracotta Army. He ruled until his death, which occurred in 210 BC despite an infamous search for an elixir of immortality. </Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_X_CIVILOPEDIA_LEADER_YINGZHENG_NAME">
+			<Text>Ying Zheng</Text>
+		</Row>
+		<Row Tag="TXT_KEY_X_CIVILOPEDIA_LEADER_YINGZHENG_TITLES_1">
+			<Text>Qin Shi Huang</Text>
+		</Row>
+		<Row Tag="TXT_KEY_X_CIVILOPEDIA_LEADER_YINGZHENG_SUBTITLE">
+			<Text>The First Emperor of Qin</Text>
+		</Row>
+		<Row Tag="TXT_KEY_X_CIVILOPEDIA_LEADER_YINGZHENG_LIVED">
+			<Text>260 - 210 BC</Text>
+		</Row>
+		<Row Tag="TXT_KEY_X_CIVILOPEDIA_LEADER_YINGZHENG_TEXT_1">
+			<Text>Modern Chinese sources often give the personal name of Qin Shi Huang as Ying Zheng, with Ying taken as the surname and Zheng the given name. In ancient China however the naming convention differed, and Zhao may be used as the surname. Unlike modern Chinese names, the nobles of ancient China had two distinct surnames: the ancestral name comprised a larger group descended from a prominent ancestor, usually said to have lived during the time of the Three Sovereigns and Five Emperors of Chinese legend, and the clan name comprised a smaller group that showed a branch's current fief or recent title. The ancient practice was to list men's names separately—in Sima Qian's "Basic Annals of the First Emperor of Qin" introduces him as "given the name Zheng and the surname Zhao"—or to combine the clan surname with the personal name: Sima's account of Chu describes the sixteenth year of the reign of King Kaolie as the time when Zhao Zheng was enthroned as "King of Qin". However, since modern Chinese surnames (despite usually descending from clan names) use the same character as the old ancestral names, it is much more common in modern Chinese sources to see the emperor's personal name written as Ying Zheng, using the ancestral name of the Ying family. [NEWLINE][NEWLINE]The rulers of Qin had styled themselves kings from the time of King Huiwen in 325 BC. Upon his ascension, Zheng became known as the King of Qin or King Zheng of Qin. This title made him the nominal equal of the rulers of Shang and of Zhou, the last of whose kings had been deposed by King Zhaoxiang of Qin in 256 BC. [NEWLINE][NEWLINE]Following the surrender of Qi in 221 BC, King Zheng had reunited all of the lands of the former Kingdom of Zhou. Rather than maintain his rank as king, however, he created a new title of huángdì (emperor) for himself. This new title combined two titles - huáng of the mythical Three Sovereigns (Sān Huáng) and the dì of the legendary Five Emperors (Wŭ Dì) of Chinese prehistory. The title was intended to appropriate some of the prestige of the Yellow Emperor, whose cult was popular in the later Warring States period and who was considered to be a founder of the Chinese people. King Zheng chose the new regnal name of First Emperor (Shǐ Huángdì, formerly transcribed as Shih Huang-ti) on the understanding that his successors would be successively titled the "Second Emperor", "Third Emperor", and so on through the generations. (In fact, the scheme lasted only as long as his immediate heir, the Second Emperor.) The new title carried religious overtones. For that reason, Sinologists—starting with Peter Boodberg or Edward Schafer—sometimes translate it as "thearch" and the First Emperor as the First Thearch. [NEWLINE][NEWLINE]The First Emperor intended that his realm would remain intact through the ages but, following its overthrow and replacement by Han after his death, it became customary to prefix his title with Qin. [NEWLINE][NEWLINE]The First Emperor also arrogated the first-person Chinese pronoun (OC *lrəm’, mod. zhèn) for his exclusive use and in 212 BC began calling himself The Immortal (OC *Tin-niŋ, mod. Zhēnrén, lit. "True Man"). Others were to address him as "Your Majesty" (mod. Bìxià, lit. "Beneath the Palace Steps") in person and "Your Highness" in writing.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_X_CIVILOPEDIA_LEADER_YINGZHENG_HEADING_1">
+			<Text>Summary of his life</Text>
+		</Row>
+		
+	<!-- Qin CityNames tags -->
+		<Row Tag="TXT_KEY_CITY_NAME_X_XIANYANG">
+			<Text>Xianyang</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_X_JIANGZHOU">
+			<Text>Jiangzhou</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_X_NANZHENG">
+			<Text>Nanzheng</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_X_CHENGDU">
+			<Text>Chengdu</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_X_ANYI">
+			<Text>Anyi</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_X_DIDAO">
+			<Text>Didao</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_X_YIQU">
+			<Text>Yiqu</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_X_JIANGLING">
+			<Text>Jiangling</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_X_WANXIAN">
+			<Text>Wanxian</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_X_CHANGZI">
+			<Text>Changzi</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_X_LUOYANG">
+			<Text>Luoyang</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_X_JINYANG">
+			<Text>Jinyang</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_X_PUYANG">
+			<Text>Puyang</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_X_YUNZHONG">
+			<Text>Yunzhong</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_X_SHANWU">
+			<Text>Shanwu</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_X_YANGDI">
+			<Text>Yangdi</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_X_HANDAN">
+			<Text>Handan</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_X_JULU">
+			<Text>Julu</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_X_JUYANG">
+			<Text>Juyang</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_X_YUYANG">
+			<Text>Yuyang</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_X_WUZHONG">
+			<Text>Wuzhong</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_X_YANGYUE">
+			<Text>Yangyue</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_X_SUIYANG">
+			<Text>Suiyang</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_X_XIANGXIAN">
+			<Text>Xiangxian</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_X_LUXIAN">
+			<Text>Luxian</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_X_SHOUCHUN">
+			<Text>Shouchun</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_X_XIANGPING">
+			<Text>Xiangping</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_X_DAIXIAN">
+			<Text>Daixian</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_X_WUXIAN">
+			<Text>Wuxian</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_X_LINXIANG">
+			<Text>Linxiang</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_X_LINZI">
+			<Text>Linzi</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_X_LANGYA">
+			<Text>Langya</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_X_LINYUAN">
+			<Text>Linyuan</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_X_JIXIAN">
+			<Text>Jixian</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_X_CHENXIAN">
+			<Text>Chenxian</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_X_DONGYE">
+			<Text>Dongye</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_X_PANYU">
+			<Text>Panyu</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_X_GUILIN">
+			<Text>Guilin</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_X_LINCHEN">
+			<Text>Linchen</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_X_JIUYUAN">
+			<Text>Jiuyuan</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_X_TANXIAN">
+			<Text>Tanxian</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_X_DONGYUAN">
+			<Text>Dongyuan</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_X_BOYANG">
+			<Text>Boyang</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_X_JIMO">
+			<Text>Jimo</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_X_HUAIXIAN">
+			<Text>Huaixian</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_X_ZHUXIAN">
+			<Text>Zhuxian</Text>
+		</Row>
+		
+	<!-- Unit tags -->
+		<Row Tag="TXT_KEY_X_UNIT_QINNU">
+			<Text>Qin Nu</Text>
+		</Row>
+		<Row Tag="TXT_KEY_X_UNIT_QINNU_HELP">
+			<Text>Qin Nu replaces the Composite Bowman. The speed of arrow launched from this kind of crossbows is much faster than from the normal bows. Starts with the Logistics Promotion and strong against cities, but must set up before attacking. Only the Qins may build it.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_X_CIV5_QINNU_HEADING">
+			<Text>Qin Nu</Text>
+		</Row>
+		<Row Tag="TXT_KEY_X_CIV5_QINNU_TEXT">
+			<Text>Qin Nu is an awesome and powerful weapon in Qin Army. The speed of arrow launched from this kind of crossbows is several times faster than from the normal bows. [NEWLINE][NEWLINE]The earliest evidence of crossbows in ancient China and neighboring peoples dates back to at least the 6th century BC. According to Sir Joseph Needham in his Science and Civilisation in China, it is not possible to state which of the East Asian peoples invented the crossbow. Linguistically, it derives from outside China by their then neighbours, who were often hired as marksmen mercenaries, while the first records and finds are from China. However, there is undoubted evidence that it was used for military purposes during the Warring States period from the second half of the 4th century BC onwards. [NEWLINE][NEWLINE]Bronze crossbow bolts dating as early as the mid-5th century BC were found at a Kingdom of Chu burial site in Yutaishan, Hubei. The earliest handheld crossbow stocks with bronze trigger, dating from the 6th century BC, comes from Tomb 3 and 12 found at Qufu, Shandong, capital of the State of Lu. Other early finds of crossbows were discovered in Tomb 138 at Saobatang, Hunan dated to the mid-4th century BC. Repeating crossbows, first mentioned in the Records of the Three Kingdoms, were discovered in 1986 in Tomb 47 at Qinjiazui, Hubei dated to around the 4th century BC. The earliest Chinese document mentioning a crossbow is in scripts from the 4th to 3rd centuries BC attributed to the followers of Mozi. This source refers to the use of a giant crossbow in the 6th to 5th BC, corresponding to the late Spring and Autumn Period. Sun Tzu's influential book "The Art of War" (first appearance dated in between 500 BC to 300 BC ) refers in chapter V to the traits and in XII to the use of crossbows. One of the earliest reliable records of this weapon in warfare is from an ambush, the Battle of Ma-Ling in 341 BC. By the 200s BC, the crossbow (pinyin: nǔ) was well developed and quite widely used in China. [NEWLINE][NEWLINE]The earliest textual evidence of the handheld crossbow used in battle dates to the 4th century BC. Handheld crossbows with complex bronze trigger mechanisms have also been found with the Terracotta Army in the tomb of Qin Shihuang (r. 221–210 BC) that are similar to specimens from the subsequent Han Dynasty (202 BC–220 AD), while crossbowmen described in the Qin and Han Dynasty learned drill formations, some were even mounted as cavalry units, and Han Dynasty writers attributed the success of numerous battles against the Xiongnu to massed crossbow volleys. The bronze triggers were designed in such a way that they were able to store a large amount of energy within the bow when drawn, but was easily shot with little recoil when the trigger were pulled (this allowed it for precision shooting). The metal portions of the crossbow were also mass-produced with precision, with the bronze mechanisms being interchangeable. Finally, the Qin and Han Dynasties also developed crossbow shooting lines, with alternating rows of crossbowmen shooting and reloading in a manner similar to a musket firing line. </Text>
+		</Row>
+		
+		<Row Tag="TXT_KEY_X_UNIT_RUISHI">
+			<Text>Rui Shi</Text>
+		</Row>
+		<Row Tag="TXT_KEY_X_UNIT_RUISHI_HELP">
+			<Text>Rui Shi is the Military System of Qin's large army. The soldiers of Qin army can improve tiles during Peace. So this Unit may play a worker role in some cases. Replaces Horseman. </Text>
+		</Row>
+		<Row Tag="TXT_KEY_X_CIV5_RUISHI_HEADING">
+			<Text>Qin Rui Shi</Text>
+		</Row>
+		<Row Tag="TXT_KEY_X_CIV5_RUISHI_TEXT">
+			<Text>Rui Shi is the Military System of Qin's large army. This system is established by Lord Shang Yang, a statesman in the fourth century BC, during the Warring States period. The strength of the Qin state was greatly increased by the Legalist reforms of him. [NEWLINE][NEWLINE]The Qin government was highly bureaucratic, and was administered by a hierarchy of officials, all serving the First Emperor. The Qin put into practice the teachings of Han Feizi, allowing the First Emperor to control all of his territories, including those recently conquered. All aspects of life were standardized, from measurements and language to more practical details, such as the length of chariot axles.[NEWLINE][NEWLINE]Ying Zheng and his advisers also introduced new laws and practices that ended feudalism in China, replacing it with a centralized, bureaucratic government. Under this system, both the military and government thrived, as talented individuals could be more easily identified in the transformed society. Later Chinese dynasties emulated the Qin government for its efficiency, despite its being condemned by Confucian philosophy. There were incidences of abuse, however, with one example having been recorded in the "Records of Officialdom". A commander named Hu ordered his men to attack peasants in an attempt to increase the number of "bandits" he had killed; his superiors, likely eager to inflate their records as well, allowed this. [NEWLINE][NEWLINE]Qin Shi Huang also improved the strong military, despite the fact that it had already undergone extensive reforms. The military used the most advanced weaponry of the time. The invention of the sword during the Warring States period was a great advance. It was first used mostly in bronze form, but by the third century BC, the Qin were using stronger iron swords. The demand for this metal resulted in improved bellows. The crossbow had been introduced in the fifth century BC and was more powerful and accurate than the composite bows used earlier. It could also be rendered ineffective by removing two pins, which prevented enemies from capturing a working crossbow. [NEWLINE][NEWLINE]The Qin also used improved methods of transportation and tactics. The state of Zhao had first replaced chariots with cavalry in 307 BC, but the change was swiftly adopted by the other states because cavalry had greater mobility over the terrain of China. [NEWLINE][NEWLINE]The First Emperor developed plans to fortify his northern border, to protect against nomadic invasions. The result was the initial construction of what later became the Great Wall of China, which was built by joining and strengthening the walls made by the feudal lords, which would be expanded and rebuilt multiple times by later dynasties, also in response to threats from the north. Another project built during Qin Shi Huang's rule was the Terracotta army, intended to protect the emperor after his death. The Terracotta army was inconspicuous due to its underground location, and was not discovered until 1974.</Text>
+		</Row>
+		
+	<!-- UnitPromotion - Compatibility - tags -->
+		<Row Tag="TXT_KEY_PROMOTION_QINNU_SP">
+			<Text>Qin Nu (*)</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_QINNU_SP_HELP">
+			<Text>If you play with GPR WORLD SP MOD, Rui Shi will get this Promotion for the compatibility!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_RUISHI_SP">
+			<Text>Rui Shi (*)</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_RUISHI_SP_HELP">
+			<Text>If you play with GPR WORLD SP MOD, Rui Shi will get this Promotion for the compatibility!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_KNIGHT_COMBAT_QIN">
+			<Text>Rui Shi (CMPT)</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_KNIGHT_COMBAT_QIN_HELP">
+			<Text>This Promotion is just for the compatibility and actually has no effect!</Text>
+		</Row>
+		
+	<!-- QinUCC Notification -->
+		<Row Tag="TXT_KEY_NOTIFICATION_QIN_SEIZED_CIVILIZATION">
+			<Text>Seized [COLOR_POSITIVE_TEXT]{1_CivName}[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NOTIFICATION_QIN_LOST_CIVILIZATION">
+			<Text>Lost [COLOR_NEGATIVE_TEXT]{1_CivName}[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NOTIFICATION_QIN_CONQUEROR_CIVILIZATION_TEXT">
+			<Text>[NEWLINE][NEWLINE]Once controlling this region or allying with the City State controlling this region, Capital with the corresponding Building will acquire the Unique Building of this Civilization, the trained corresponding Unit can also be converted into the Unique Unit of this Civilization, and Workers can convert Improvements into Unique Improvements of this Civilization on available plots!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NOTIFICATION_QIN_SEIZED_CIVILIZATION_TEXT">
+			<Text>[COLOR_POSITIVE_TEXT]{2_LeaderName}[ENDCOLOR] have SEIZED control of [COLOR_POSITIVE_TEXT]{1_CivName}[ENDCOLOR]!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NOTIFICATION_QIN_LOST_CIVILIZATION_TEXT">
+			<Text>[COLOR_NEGATIVE_TEXT]{2_LeaderName}[ENDCOLOR] has LOST control of [COLOR_NEGATIVE_TEXT]{1_CivName}[ENDCOLOR]!</Text>
+		</Row>
+		
+	<!-- QinTrait - DU can Convert into UU -->
+		<Row Tag="TXT_KEY_QIN_UNIT_CONVERT">
+			<Text>Convert into {1_Unit}</Text>
+		</Row>
+		<Row Tag="TXT_KEY_QIN_UNIT_CONVERT_TT">
+			<Text>Convert this Unit into {1_Unit}. [NEWLINE]Must be in [COLOR_POSITIVE_TEXT]friendly territory[ENDCOLOR] that you can do this command. [NEWLINE][NEWLINE]CAUTION: [NEWLINE]After converting, this Unit will lose all of the [COLOR_NEGATIVE_TEXT]Experiences, Promotions and Movement[ENDCOLOR].</Text>
+		</Row>
+		<Row Tag="TXT_KEY_QIN_UNIT_CONVERT_RELIGION_TT">
+			<Text>Convert this Unit into {1_Unit}. [NEWLINE]Must be in [COLOR_POSITIVE_TEXT]Friendly Territory (belong to the City with Majority Religion) AND have not yet Spread Religion[ENDCOLOR] that you can do this command. [NEWLINE][NEWLINE]CAUTION: [NEWLINE]After converting, this Unit will lose all the [COLOR_NEGATIVE_TEXT]Movement[ENDCOLOR].</Text>
+		</Row>
+		
+	<!-- QinTrait - DI Converted into UI TT -->
+		<Row Tag="TXT_KEY_QIN_UI_TT">
+			<Text>Workers will convert the Improvement in this tile to [COLOR_POSITIVE_TEXT]{1_Improvement}[ENDCOLOR].</Text>
+		</Row>
+		<Row Tag="TXT_KEY_QIN_UI_DISABLED_TT">
+			<Text>[COLOR_NEGATIVE_TEXT]There must be a Improvement in this tile![ENDCOLOR] Workers need a Improvement to convert into [COLOR_POSITIVE_TEXT]{1_Improvement}[ENDCOLOR].</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

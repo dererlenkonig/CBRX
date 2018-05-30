@@ -1,0 +1,194 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mod id="db807c03-3e3c-4a11-9e68-320bc6f1a307" version="10">
+  <Properties>
+    <Name>[BNW] LS Civilization Set XVII</Name>
+    <Teaser>Adds Athens, Holy Roman Empire and Prussia.</Teaser>
+    <Description>Adds  Athens, Holy Roman Empire and Prussia to the game.</Description>
+    <Authors>LastSword</Authors>
+    <HideSetupGame>0</HideSetupGame>
+    <AffectsSavedGames>1</AffectsSavedGames>
+    <MinCompatibleSaveVersion>0</MinCompatibleSaveVersion>
+    <SupportsSinglePlayer>1</SupportsSinglePlayer>
+    <SupportsMultiplayer>1</SupportsMultiplayer>
+    <SupportsHotSeat>1</SupportsHotSeat>
+    <SupportsMac>1</SupportsMac>
+    <ReloadAudioSystem>1</ReloadAudioSystem>
+    <ReloadLandmarkSystem>0</ReloadLandmarkSystem>
+    <ReloadStrategicViewSystem>1</ReloadStrategicViewSystem>
+    <ReloadUnitSystem>1</ReloadUnitSystem>
+  </Properties>
+  <Dependencies />
+  <References />
+  <Blocks />
+  <Files>
+    <File md5="7E101CF601CE0FA907F55CE30FAAFA9E" import="1">Athens/AthensLSWarTheme.mp3</File>
+    <File md5="E017E8B9D04857B8D125EBB4E60113EF" import="1">Athens/AthensLSPeaceTheme.mp3</File>
+    <File md5="3BD771660FFC635595FD140B04944D34" import="1">Athens/AthensLSTraitCode.lua</File>
+    <File md5="B07889C70CE9B7F644BBAAF5F75FE443" import="0">Athens/AthensLSUnitCode.xml</File>
+    <File md5="AFA5C3F3D7A9B7CC8DB4D7C5DD654066" import="1">Athens/AthensUnitAlphaAtlas.dds</File>
+    <File md5="5D06AAED02E7C0ABDFBD2E49273A745B" import="1">Athens/DiploAthensLSMod.dds</File>
+    <File md5="DB0357D4AB3285CAF790E57DE5303575" import="1">Athens/DoMAthensLSMod.dds</File>
+    <File md5="1372E4B038567E4A030662875DB49ECC" import="1">Athens/MapAthensLSMod.dds</File>
+    <File md5="556D0A1F10465239A046FE1814311143" import="1">Athens/Model/battle_galley.fxsxml</File>
+    <File md5="3BD1569650935F56546B491B90602A79" import="1">Athens/Model/battle_galley.gr2</File>
+    <File md5="8210733B5648035CB03C4CD9DEB34BDA" import="1">Athens/Model/battle_galley_diff.dds</File>
+    <File md5="CA6BAAF78C48076848F51EFE2561F2F7" import="0">Athens/Model/AthensArtDefine.sql</File>
+    <File md5="00C82BD49B3C126BED722423168434BF" import="1">Athens/AthensLSBuildingCode.lua</File>
+    <File md5="5754B1BE6E37A2F9D04D9D4149E5CDDF" import="1">Athens/SaveUtils.lua</File>
+    <File md5="08928C28121791AEBBF78E778D1D9D87" import="0">Athens/AthensLSUnitCode.lua</File>
+    <File md5="8F52730EECCD9647759AF093B1ED8A4A" import="0">Athens/Athens Building Mod.xml</File>
+    <File md5="80A5FB69DFD12DD0779F35F74A2110D8" import="0">Athens/Athens Civ Mod.xml</File>
+    <File md5="321208197EACE0B2EB2B2AE0A8E27833" import="0">Athens/Athens Game Text Mod.xml</File>
+    <File md5="D85BED911E42A7247E17B318E5339C2D" import="0">Athens/Athens Leader Mod.xml</File>
+    <File md5="D5BB12D315EDE3422B3DE669C18D309F" import="0">Athens/Athens Units Mod.xml</File>
+    <File md5="18CA28717D0A51C79611CE8A06267789" import="1">Athens/Athens_Leader_Scene_LS_Mod.xml</File>
+    <File md5="372C2FE0DE859B8AAB8B15036FE58F4F" import="1">Athens/SVAthensLS.dds</File>
+    <File md5="460673D2245ED6CE55EC0BAE5E99D901" import="1">HolyRomanEmpire/DiploLSHREbarbara.dds</File>
+    <File md5="09D0C5E8E6F83D454BEBCDF8E31669AC" import="1">HolyRomanEmpire/DiploLSHREcharles.dds</File>
+    <File md5="C64164252845960929EF18A90FE3F698" import="1">HolyRomanEmpire/DiploLSHREfrancis.dds</File>
+    <File md5="3F258123B796D7F3F35EA0CC5A53DF40" import="1">HolyRomanEmpire/HRELSTraitCode.lua</File>
+    <File md5="C886AB62F3DBF7CAEF96E2D9FFF89E1F" import="0">HolyRomanEmpire/HRELSUnitCode.lua</File>
+    <File md5="D8EACB6A0C45996F50B64525A542A199" import="1">HolyRomanEmpire/DiploHRELSMod.dds</File>
+    <File md5="CBE4E3D217A8AF288F1B7DD2531E7CAA" import="1">HolyRomanEmpire/DoMHRELSMod.dds</File>
+    <File md5="68D0D7DF7A237A313EF4CF2AA5BEF482" import="0">HolyRomanEmpire/HRE Civ Mod.xml</File>
+    <File md5="2EC70283021A5938ED68983E14754D2A" import="0">HolyRomanEmpire/HRE Game Text Mod.xml</File>
+    <File md5="DAE78390B0DCFCF281CEA7B43C9173BF" import="0">HolyRomanEmpire/HRE Leader Mod.xml</File>
+    <File md5="EFFAE6D45883A628A85880460AB02CA7" import="0">HolyRomanEmpire/HRE Units Mod.xml</File>
+    <File md5="578B1588DE5F37B997F80F167DF32118" import="1">HolyRomanEmpire/HRE_Leader_Scene_LS_Mod.xml</File>
+    <File md5="22364D189E382345483073589F999EB7" import="1">HolyRomanEmpire/HRELSWarTheme.mp3</File>
+    <File md5="030916427C76927435FBB2B8929FCCE6" import="1">HolyRomanEmpire/HRELSPeaceTheme.mp3</File>
+    <File md5="8E5C1990BD388EB526FC95342AFA06F7" import="1">HolyRomanEmpire/MapHRELSMod.dds</File>
+    <File md5="C4ECC5EAAE2E2453DE97F71E35F14C25" import="0">HolyRomanEmpire/HREDummyLeaders.sql</File>
+    <File md5="15D7D9730AAA647117F5D2F535BBA186" import="0">HolyRomanEmpire/HRELSUnitCode.xml</File>
+    <File md5="5754B1BE6E37A2F9D04D9D4149E5CDDF" import="1">HolyRomanEmpire/SaveUtils.lua</File>
+    <File md5="5A886F11E096346467BCA24D9F47B6B2" import="1">HolyRomanEmpire/Stuff/HRELSBackground.dds</File>
+    <File md5="AE31816BCCB1AC8F25F982C72E0285BC" import="1">HolyRomanEmpire/Stuff/PolLSCardAnimLight.dds</File>
+    <File md5="84F5F85F251835B51B137BC840DB4772" import="1">HolyRomanEmpire/Stuff/PolLSCardBase.dds</File>
+    <File md5="F7F6A7C7832E8130B2311A6DC641251C" import="1">HolyRomanEmpire/UnitsStuff/DBaro2nClay_gloss.dds</File>
+    <File md5="9A5E69D7340765F000790541CC6755AD" import="1">HolyRomanEmpire/UnitsStuff/DBaronClay.dds</File>
+    <File md5="98A2A197CAA34CB3CE1DF7828773CE1F" import="1">HolyRomanEmpire/UnitsStuff/DBaronClay_2.dds</File>
+    <File md5="3968FCCC56CD25DDDF439A02CD22E7BA" import="1">HolyRomanEmpire/UnitsStuff/dopp_a.fxsxml</File>
+    <File md5="7F3B40E4A2B770AA28AF16F57D63F5F2" import="1">HolyRomanEmpire/UnitsStuff/dopp_a.gr2</File>
+    <File md5="DCFC4E0E078AC21B62D76A75353E139C" import="1">HolyRomanEmpire/UnitsStuff/dopp_b.fxsxml</File>
+    <File md5="A67FE33B45B99DE0F9C0BD1313C320EC" import="1">HolyRomanEmpire/UnitsStuff/dopp_b.gr2</File>
+    <File md5="D78F8A01BEE87CD75B01A2723AD9B376" import="0">HolyRomanEmpire/UnitsStuff/HREArtDefine.sql</File>
+    <File md5="FA042464CB15CB3219FAA11B189ABA4A" import="1">HolyRomanEmpire/UnitsStuff/Knight_German.dds</File>
+    <File md5="B0066B782F2BC8D415430826AB2CC935" import="1">HolyRomanEmpire/UnitsStuff/Knight_German.fxsxml</File>
+    <File md5="6A92272EA3E4080290F7190BD62B8107" import="1">HolyRomanEmpire/UnitsStuff/Knight_German.gr2</File>
+    <File md5="8F16CD4D1291842D8F76A76BBC423F82" import="1">HolyRomanEmpire/UnitsStuff/Knight_German_gloss.dds</File>
+    <File md5="D590638691A459E1B8F8B55C0BE36EC4" import="1">HolyRomanEmpire/UnitsStuff/Knight_German_Horse.dds</File>
+    <File md5="9BF87CE8CCEDDFEA3E3FD2DAC6DE9891" import="1">HolyRomanEmpire/UnitsStuff/Knight_German_Horse_gloss.dds</File>
+    <File md5="98D2588CF8D3915B6927D8CB4D498BC4" import="1">HolyRomanEmpire/UnitsStuff/UnitAlphaLSHreReiter.dds</File>
+    <File md5="0D26193EAE3D81B0A0D56747514E5DBF" import="1">HolyRomanEmpire/UnitsStuff/confederate_cavalry_diff.dds</File>
+    <File md5="5153CC917DEC990CDB4F911F01B34859" import="1">HolyRomanEmpire/UnitsStuff/confederate_cavalry_sref.dds</File>
+    <File md5="BB428B0DE06063241FD4B3B229D317A4" import="1">HolyRomanEmpire/UnitsStuff/Reiter.fxsxml</File>
+    <File md5="6FF99A198ACFDAAE49E3F698FC19A2FD" import="1">HolyRomanEmpire/UnitsStuff/Reiter.gr2</File>
+    <File md5="A8009FEC37C92FB33C0C6B02503DB576" import="1">HolyRomanEmpire/UnitsStuff/holyromancuirassier_128.dds</File>
+    <File md5="5240B4A96ACB147AC3B0E17F52644F01" import="0">HolyRomanEmpire/UnitsStuff/HRE Units Mod 2.xml</File>
+    <File md5="38B3EE337A174D4AB9235BA48DC77927" import="1">HolyRomanEmpire/UnitsStuff/newglossforimperialcuirassier.dds</File>
+    <File md5="E0476786B5336267136374D992490D0F" import="1">HolyRomanEmpire/UnitsStuff/SVHreKnight.dds</File>
+    <File md5="D61A10D75D712ECB1D80349D490743C6" import="1">HolyRomanEmpire/UnitsStuff/SVHreLongS.dds</File>
+    <File md5="1F2FA2FA377623CE141B7E7B00D42D86" import="1">HolyRomanEmpire/UnitsStuff/SVHreReiter.dds</File>
+    <File md5="76943C0408314E8D557FA6EA99936410" import="1">HolyRomanEmpire/UnitsStuff/UnitAlphaLSHREKnight.dds</File>
+    <File md5="97593A5AD7BB95E806A2D3C131FF6334" import="1">HolyRomanEmpire/UnitsStuff/UnitAlphaLSHreLongS.dds</File>
+    <File md5="51D4FAAB21AC4EEC4AAFDCC945A91733" import="1">HolyRomanEmpire/UnitsStuff/u_french_musketeer_diff.dds</File>
+    <File md5="5F75B69AFD02477F0057234F5C649F7B" import="1">HolyRomanEmpire/UnitsStuff/u_french_musketeer_sref.dds</File>
+    <File md5="7E757C5335C8A3FBF442B564101B6062" import="1">HolyRomanEmpire/UnitsStuff/u_german_landsknecht_a_diff.dds</File>
+    <File md5="1DC029A536B20446BC3CDB287B49D729" import="1">HolyRomanEmpire/UnitsStuff/u_german_landsknecht_a_sref.dds</File>
+    <File md5="7F8CBB3781E050BD44F9978ED58810C6" import="1">HolyRomanEmpire/UnitsStuff/u_german_landsknecht_b_diff.dds</File>
+    <File md5="2E66FAF173410C9A619E9084ED98A226" import="1">HolyRomanEmpire/UnitsStuff/u_german_landsknecht_b_sref.dds</File>
+    <File md5="0403DC5620D36088CD06563375FA4C3D" import="1">OldRef/AlphaLS17Atlas24.dds</File>
+    <File md5="4D9CCABB243455D7E5C33BF11A18A3A7" import="1">OldRef/AlphaLS17Atlas32.dds</File>
+    <File md5="973AC81504BFCBEEB882AC1E4E32AB1F" import="1">OldRef/AlphaLS17Atlas48.dds</File>
+    <File md5="FF419E093905D574EEF2469BC513631D" import="1">OldRef/AlphaLS17Atlas64.dds</File>
+    <File md5="30AEDF128DEAF353C22B1A564A4FE358" import="1">OldRef/BuildingLS17Atlas128.dds</File>
+    <File md5="D3C17C8456FF7034B56CB6AD7D632E84" import="1">OldRef/BuildingLS17Atlas256.dds</File>
+    <File md5="1F6AD7CCEA6053D52AE246ECDF746312" import="1">OldRef/BuildingLS17Atlas45.dds</File>
+    <File md5="81B65A90549B2A99CF1FCEB60D666C06" import="1">OldRef/BuildingLS17Atlas64.dds</File>
+    <File md5="A0D134900AD557EAC1BDA452FD3D7E84" import="1">OldRef/CivLS17Atlas128.dds</File>
+    <File md5="1663D9DB07E4FDFD30B7C50558C85C0C" import="1">OldRef/CivLS17Atlas256.dds</File>
+    <File md5="D92589C644320C82452630C2C4EDBA37" import="1">OldRef/CivLS17Atlas32.dds</File>
+    <File md5="F031ADBD1D17F37D07D86CF8D4652224" import="1">OldRef/CivLS17Atlas45.dds</File>
+    <File md5="77A422CF81C67617C6286D7BA3C3629C" import="1">OldRef/CivLS17Atlas64.dds</File>
+    <File md5="73E8A3B6E0C94A692995FF96210F8DA5" import="1">OldRef/CivLS17Atlas80.dds</File>
+    <File md5="A72F1A32E17033999E2B57DFBE5C8FE9" import="1">OldRef/DLShdge.dds</File>
+    <File md5="010B947D049A9B78871A0033EB3EDB79" import="1">OldRef/LeaderLS17Atlas128.dds</File>
+    <File md5="08F5F4A1F4596DB30B6EC4F54DB434B7" import="1">OldRef/LeaderLS17Atlas256.dds</File>
+    <File md5="124753FB503BEBCE066791A069C4E715" import="1">OldRef/LeaderLS17Atlas64.dds</File>
+    <File md5="3792561F8CF6F66185689ED0BC16E1F7" import="0">OldRef/LS17 Atlas Mod.xml</File>
+    <File md5="9505B2ACC7180017E19EBA37EB8860CC" import="1">OldRef/UnitLS17Atlas128.dds</File>
+    <File md5="6326EE3033FB24AE7CE9096A045EC069" import="1">OldRef/UnitLS17Atlas256.dds</File>
+    <File md5="6C4E904971180996A9E5EEA9B5F48C5A" import="1">OldRef/UnitLS17Atlas45.dds</File>
+    <File md5="40BE72E94FC89602360C83ED21F40882" import="1">OldRef/UnitLS17Atlas64.dds</File>
+    <File md5="EACC41E64AB106BC2D7DEFEA0FA62C7F" import="1">OldRef/UnitLS17Atlas80.dds</File>
+    <File md5="B3CF92EB017D371F5BEC989EE10D20AD" import="1">Prussia/LSxSU.lua</File>
+    <File md5="D09F7B643EAF17B32AB13984809450A3" import="1">Prussia/PrussiaLSPeaceTheme.mp3</File>
+    <File md5="FB953059635920F993CDD8D6B404C7D3" import="1">Prussia/PrussiaLSActionAtlas45.dds</File>
+    <File md5="833D10511DAD304AC3260209E5061474" import="1">Prussia/PrussiaLSActionAtlas64.dds</File>
+    <File md5="4C5955CC774002E9A545488881F0CED0" import="0">Prussia/PrussiaLSUnitCode.xml</File>
+    <File md5="6D63963E2F70927191BD8EE568826B77" import="1">Prussia/PrussiaLSBuildingCode.lua</File>
+    <File md5="6CBB8025ADBE1D7363D3EF0E5E3E3D2C" import="1">Prussia/PrussiaLSTraitCode.lua</File>
+    <File md5="E71C770C5C8D315B4BFD9CDE3FCC5B7F" import="0">Prussia/PrussiaLSUnitCode.lua</File>
+    <File md5="AEDDA6F3C918912D5D01CF790386CD82" import="1">Prussia/DiploPrussiaLSMod.dds</File>
+    <File md5="6E4CD2682EDC639ED58817D281BD2EAA" import="1">Prussia/DoMPrussiaLSMod.dds</File>
+    <File md5="95C2CEA9F3176A4FD2FA3B46641BBE5B" import="1">Prussia/MapPrussiaLSMod.dds</File>
+    <File md5="07B948023F7EA9E31CEA6FD26B3835D7" import="0">Prussia/Model/PrussiaArtDefine.sql</File>
+    <File md5="4A37BDA6ED9D3A35060E78FF1379BA54" import="1">Prussia/Model/civ5_gerrm.blend</File>
+    <File md5="8F171D851A600E6F43542DADC1C8B923" import="1">Prussia/Model/civ5_gerrm.fbx</File>
+    <File md5="CAE91739FF61F06562479630F7443808" import="1">Prussia/Model/civ5_gerrm.fxsxml</File>
+    <File md5="ED2B1EF70B371A8A4A7DE255878194D8" import="1">Prussia/Model/civ5_gerrm.gr2</File>
+    <File md5="09393F1ACE260E554646BD7D1791C8CE" import="1">Prussia/Model/gerrm_diff.dds</File>
+    <File md5="482600047D1AE44EAF13E5FB06CA5EE7" import="1">Prussia/Model/gerrm_sref.dds</File>
+    <File md5="7AE03B7E8B86CFEE0941325F4B02C0A1" import="0">Prussia/Prussia Building Mod.xml</File>
+    <File md5="C94D329368F6EA5D2F7E62D2F26F1B5C" import="0">Prussia/Prussia Civ Mod.xml</File>
+    <File md5="3F6CF9A96DD93EADB55D590A2770CDD6" import="0">Prussia/Prussia Game Text Mod.xml</File>
+    <File md5="C5A548B148EA1641F0736CAE65BBC781" import="0">Prussia/Prussia Leader Mod.xml</File>
+    <File md5="CE271AAC4DF4B4DE5F8DB9787CF2732E" import="0">Prussia/Prussia Units Mod.xml</File>
+    <File md5="114284D52541BCA031484FB5C61A232A" import="1">Prussia/PrussiaUnitAlphaAtlas.dds</File>
+    <File md5="1E2D752B555A15ADA9138440D02AC6A7" import="1">Prussia/Prussia_Leader_Scene_LS_Mod.xml</File>
+    <File md5="5754B1BE6E37A2F9D04D9D4149E5CDDF" import="1">Prussia/SaveUtils.lua</File>
+    <File md5="C45A467F37FB19483EE191AD5CA83AC8" import="1">Prussia/SVPrussiaLS.dds</File>
+    <File md5="0D10525A0554ED453B4DBA7236445268" import="1">Prussia/PrussiaLSWarTheme.mp3</File>
+  </Files>
+  <Actions>
+    <OnModActivated>
+      <UpdateDatabase>Athens/Athens Building Mod.xml</UpdateDatabase>
+      <UpdateDatabase>Athens/Athens Civ Mod.xml</UpdateDatabase>
+      <UpdateDatabase>Athens/Athens Game Text Mod.xml</UpdateDatabase>
+      <UpdateDatabase>Athens/Athens Leader Mod.xml</UpdateDatabase>
+      <UpdateDatabase>Athens/Athens Units Mod.xml</UpdateDatabase>
+      <UpdateDatabase>HolyRomanEmpire/HRE Game Text Mod.xml</UpdateDatabase>
+      <UpdateDatabase>HolyRomanEmpire/HRE Civ Mod.xml</UpdateDatabase>
+      <UpdateDatabase>HolyRomanEmpire/HRE Leader Mod.xml</UpdateDatabase>
+      <UpdateDatabase>HolyRomanEmpire/HRE Units Mod.xml</UpdateDatabase>
+      <UpdateDatabase>Prussia/Prussia Building Mod.xml</UpdateDatabase>
+      <UpdateDatabase>Prussia/Prussia Civ Mod.xml</UpdateDatabase>
+      <UpdateDatabase>Prussia/Prussia Leader Mod.xml</UpdateDatabase>
+      <UpdateDatabase>Prussia/Prussia Game Text Mod.xml</UpdateDatabase>
+      <UpdateDatabase>Prussia/Prussia Units Mod.xml</UpdateDatabase>
+      <UpdateDatabase>Athens/Model/AthensArtDefine.sql</UpdateDatabase>
+      <UpdateDatabase>Prussia/Model/PrussiaArtDefine.sql</UpdateDatabase>
+      <UpdateDatabase>OldRef/LS17 Atlas Mod.xml</UpdateDatabase>
+      <UpdateDatabase>HolyRomanEmpire/HREDummyLeaders.sql</UpdateDatabase>
+      <UpdateDatabase>HolyRomanEmpire/UnitsStuff/HRE Units Mod 2.xml</UpdateDatabase>
+      <UpdateDatabase>HolyRomanEmpire/UnitsStuff/HREArtDefine.sql</UpdateDatabase>
+    </OnModActivated>
+  </Actions>
+  <EntryPoints>
+    <EntryPoint type="InGameUIAddin" file="Athens/AthensLSUnitCode.lua">
+      <Name>1</Name>
+      <Description>
+      </Description>
+    </EntryPoint>
+    <EntryPoint type="InGameUIAddin" file="Prussia/PrussiaLSUnitCode.lua">
+      <Name>2</Name>
+      <Description>
+      </Description>
+    </EntryPoint>
+    <EntryPoint type="DiplomacyUIAddin" file="HolyRomanEmpire/HRELSUnitCode.xml">
+      <Name>4</Name>
+      <Description>
+      </Description>
+    </EntryPoint>
+  </EntryPoints>
+</Mod>

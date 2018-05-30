@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 1/26/2013 12:17:42 PM -->
+<GameData>
+  <!-- TODO: Insert table creation example here. -->
+ 
+  <!-- TODO: Insert table data example here.-->
+  
+  <!-- Enter your Game Data here. -->
+<Units>
+	<Row>
+		<Class>UNITCLASS_FRIGATE</Class>
+		<Type>UNIT_KUROFUNE</Type>
+		<PrereqTech>TECH_NAVIGATION</PrereqTech>
+		<Combat>25</Combat>
+		<RangedCombat>28</RangedCombat>
+		<Cost>185</Cost>
+		<Moves>5</Moves>
+		<HurryCostModifier>20</HurryCostModifier>
+		<Range>3</Range>
+		<CombatClass>UNITCOMBAT_NAVALRANGED</CombatClass>
+		<Domain>DOMAIN_SEA</Domain>
+		<DefaultUnitAI>UNITAI_ASSAULT_SEA</DefaultUnitAI>
+		<Description>TXT_KEY_UNIT_KUROFUNE</Description>
+		<Civilopedia>TXT_KEY_CIVILOPEDIA_UNITS_RENAISSANCE_FRIGATE_TEXT</Civilopedia>
+		<Strategy>TXT_KEY_UNIT_FRIGATE_STRATEGY</Strategy>
+		<Help>TXT_KEY_UNIT_HELP_KUROFUNE</Help>
+		<MilitarySupport>true</MilitarySupport>
+		<MilitaryProduction>true</MilitaryProduction>
+		<Pillage>true</Pillage>
+		<ObsoleteTech>TECH_ELECTRONICS</ObsoleteTech>
+		<Mechanized>true</Mechanized>
+		<AdvancedStartCost>50</AdvancedStartCost>
+		<MinAreaSize>10</MinAreaSize>
+		<XPValueAttack>3</XPValueAttack>
+		<XPValueDefense>3</XPValueDefense>
+		<UnitArtInfo>ART_DEF_UNIT_FRIGATE</UnitArtInfo>
+		<UnitFlagAtlas>SENGOKU_UNIT_FLAG_ATLAS</UnitFlagAtlas>
+		<UnitFlagIconOffset>7</UnitFlagIconOffset>
+		<IconAtlas>UNIT_ATLAS_2</IconAtlas>
+		<PortraitIndex>8</PortraitIndex>
+		<MoveRate>WOODEN_BOAT</MoveRate>
+	</Row>
+	<Row>
+		<Class>UNITCLASS_PIKEMAN</Class>
+		<Type>UNIT_FARMER_MILITIA</Type>
+		<PrereqTech>TECH_CIVIL_SERVICE</PrereqTech>
+		<Combat>16</Combat>
+		<Cost>90</Cost>
+		<Moves>2</Moves>
+		<CombatClass>UNITCOMBAT_MELEE</CombatClass>
+		<Domain>DOMAIN_LAND</Domain>
+		<DefaultUnitAI>UNITAI_COUNTER</DefaultUnitAI>
+		<Description>TXT_KEY_UNIT_FARMER_MILITIA</Description>
+		<Civilopedia>TXT_KEY_CIVILOPEDIA_UNITS_MEDIEVAL_PIKEMAN_TEXT</Civilopedia>
+		<Strategy>TXT_KEY_UNIT_PIKEMAN_STRATEGY</Strategy>
+		<Help>TXT_KEY_UNIT_HELP_FARMER_MILITIA</Help>
+		<MilitarySupport>true</MilitarySupport>
+		<MilitaryProduction>true</MilitaryProduction>
+		<Pillage>true</Pillage>
+		<ObsoleteTech>TECH_RIFLING</ObsoleteTech>
+		<GoodyHutUpgradeUnitClass>UNITCLASS_RIFLEMAN</GoodyHutUpgradeUnitClass>
+		<AdvancedStartCost>20</AdvancedStartCost>
+		<XPValueAttack>3</XPValueAttack>
+		<XPValueDefense>3</XPValueDefense>
+		<Conscription>3</Conscription>
+		<UnitArtInfo>ART_DEF_UNIT_PIKEMAN</UnitArtInfo>
+		<UnitFlagAtlas>SENGOKU_UNIT_FLAG_ATLAS</UnitFlagAtlas>
+		<UnitFlagIconOffset>1</UnitFlagIconOffset>
+		<IconAtlas>SENGOKU_UNIT_ATLAS</IconAtlas>
+		<PortraitIndex>3</PortraitIndex>
+	</Row>
+</Units>
+	<Unit_Flavors>
+		<Row>
+			<UnitType>UNIT_KUROFUNE</UnitType>
+			<FlavorType>FLAVOR_OFFENSE</FlavorType>
+			<Flavor>5</Flavor>
+		</Row>
+		- <Row>
+			<UnitType>UNIT_KUROFUNE</UnitType>
+			<FlavorType>FLAVOR_DEFENSE</FlavorType>
+			<Flavor>6</Flavor>
+		</Row>
+		- <Row>
+			<UnitType>UNIT_KUROFUNE</UnitType>
+			<FlavorType>FLAVOR_NAVAL</FlavorType>
+			<Flavor>5</Flavor>
+		</Row>
+
+	</Unit_Flavors>
+	<Unit_ClassUpgrades>
+		<Row>
+			<UnitType>UNIT_FARMER_MILITIA</UnitType>
+			<UnitClassType>UNITCLASS_RIFLEMAN</UnitClassType>
+		</Row>
+		<Row>
+			<UnitType>UNIT_KUROFUNE</UnitType>
+			<UnitClassType>UNITCLASS_DESTROYER</UnitClassType>
+		</Row>
+	</Unit_ClassUpgrades>
+	<Unit_FreePromotions>
+		<Row>
+			<UnitType>UNIT_KUROFUNE</UnitType>
+			<PromotionType>PROMOTION_ONLY_DEFENSIVE</PromotionType>
+		</Row>
+	</Unit_FreePromotions>
+	<Unit_AITypes>
+		<Row>
+			<UnitType>UNIT_FARMER_MILITIA</UnitType>
+			<UnitAIType>UNITAI_ATTACK</UnitAIType>
+		</Row>
+		<Row>
+			<UnitType>UNIT_FARMER_MILITIA</UnitType>
+			<UnitAIType>UNITAI_DEFENSE</UnitAIType>
+		</Row>
+		<Row>
+			<UnitType>UNIT_FARMER_MILITIA</UnitType>
+			<UnitAIType>UNITAI_WORKER</UnitAIType>
+		</Row>
+	</Unit_AITypes>
+	<Unit_Builds>
+		<Row>
+			<UnitType>UNIT_FARMER_MILITIA</UnitType>
+			<BuildType>BUILD_FARM</BuildType>
+		</Row>
+		 <Row>
+			<UnitType>UNIT_FARMER_MILITIA</UnitType>
+			<BuildType>BUILD_CAMP</BuildType>
+		</Row>
+		<Row>
+			<UnitType>UNIT_FARMER_MILITIA</UnitType>
+			<BuildType>BUILD_PLANTATION</BuildType>
+		</Row>
+	</Unit_Builds>
+	<Unit_ResourceQuantityRequirements>
+		<Row>
+			<UnitType>UNIT_KUROFUNE</UnitType>
+			<ResourceType>RESOURCE_COAL</ResourceType>
+		</Row>
+	</Unit_ResourceQuantityRequirements>
+	<Civilization_UnitClassOverrides>
+		<Row>
+			<CivilizationType>CIVILIZATION_TOSA</CivilizationType>
+			<UnitClassType>UNITCLASS_IRONCLAD</UnitClassType>
+			<UnitType>UNIT_KUROFUNE</UnitType>
+		</Row>
+	</Civilization_UnitClassOverrides>
+</GameData>
