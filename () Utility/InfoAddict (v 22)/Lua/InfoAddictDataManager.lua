@@ -84,9 +84,14 @@ function infoAddictDataTypes()
     traderoutesused = "tru",   -- num of international trade routes used
     greatworks = "gw",         -- num of great works in possession
     influence = "in",          -- num of civs influenced
-    tourism = "to"             -- tourism thingie
+    tourism = "to",            -- tourism thingie
+	totalpopulation = "tp",	   -- total population as a plain integer
+	T_unknown = "tou", 		   -- number unknown status
+	T_exotic = "toe", 		   -- number exotic status
+ 	T_familiar = "tof", 	   -- number familiar status
+	T_popular = "top", 		   -- number popular status
+	T_dominant = "tod", 	   -- number dominant status
   }
-
   return typeTable;
 end;
 
@@ -326,6 +331,20 @@ end;
 
 
 
+function Lime_GetInfluentialLevel(player, level)
+	local count = 0
+	local influentialLevel = 0
+	
+	for iPlayer = 0, GameDefines.MAX_MAJOR_CIVS-1, 1 do
+		influentialLevel = player:GetInfluenceLevel(iPlayer)	
+		--print(influentialLevel)
+		if influentialLevel == level then count = count + 1 end
+	end
+	
+	return count
+end;
+
+
 -- Saves player stat data and updates the historical data cache. The current turn information
 -- is passed in from the event handler to avoid any confusion.
 
@@ -373,6 +392,12 @@ function SavePlayerDataTurnEnd(turn)
       stats.greatworks = pPlayer:GetNumGreatWorks();
       stats.influence = pPlayer:GetNumCivsInfluentialOn();
       stats.tourism = pPlayer:GetTourism();
+	  stats.totalpopulation = pPlayer:GetTotalPopulation();
+	  stats.T_unknown = Lime_GetInfluentialLevel(pPlayer, 0);
+	  stats.T_exotic = Lime_GetInfluentialLevel(pPlayer, 1);
+	  stats.T_familiar = Lime_GetInfluentialLevel(pPlayer, 2);
+	  stats.T_popular = Lime_GetInfluentialLevel(pPlayer, 3);
+	  stats.T_dominant = Lime_GetInfluentialLevel(pPlayer, 5);
 
       
       local alive = 1;	  
@@ -412,8 +437,15 @@ function SavePlayerDataTurnEnd(turn)
       thisdata = thisdata .. " " .. typeCodes.faithperturn .. ":" .. stats.faithperturn;
       thisdata = thisdata .. " " .. typeCodes.traderoutesused .. ":" .. stats.traderoutesused;
       thisdata = thisdata .. " " .. typeCodes.greatworks .. ":" .. stats.greatworks;
-      thisdata = thisdata .. " " .. typeCodes.influence .. ":" .. stats.influence;
       thisdata = thisdata .. " " .. typeCodes.tourism .. ":" .. stats.tourism;
+	  thisdata = thisdata .. " " .. typeCodes.totalpopulation .. ":" .. stats.totalpopulation;
+	  thisdata = thisdata .. " " .. typeCodes.T_unknown .. ":" .. stats.T_unknown;
+	  thisdata = thisdata .. " " .. typeCodes.T_exotic .. ":" .. stats.T_exotic;
+	  thisdata = thisdata .. " " .. typeCodes.T_familiar .. ":" .. stats.T_familiar;
+	  thisdata = thisdata .. " " .. typeCodes.T_popular .. ":" .. stats.T_popular;
+	  thisdata = thisdata .. " " .. typeCodes.influence .. ":" .. stats.influence;
+	  thisdata = thisdata .. " " .. typeCodes.T_dominant .. ":" .. stats.T_dominant;
+
 
 
       -- Debug. Yum.
@@ -445,7 +477,6 @@ function SavePlayerDataTurnEnd(turn)
   logger:info("Saving player stats took " .. elapsedTime(timer) .. " to complete (" .. querycount .. " inserts).");
   logger:trace("SavePlayerDataTurnEnd() finished");
 end
-
 
 
 -- A few informational messages that are meant to be displayed when the mod fires up. It's in the
@@ -528,4 +559,3 @@ if (useReplayData() == true) then
 else
   updateHistoricalDataTable();
 end;
-
