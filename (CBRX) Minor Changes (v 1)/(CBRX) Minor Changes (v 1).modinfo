@@ -26,12 +26,12 @@
     <File md5="B1E92C1DD073C2CF1DA7E55B6837016F" import="0">ActiveRel.xml</File>
     <File md5="7434BBAB5DA0E3BF5E063C04FBA7E1A9" import="0">AI.sql</File>
     <File md5="762228B91EE7AA642A8CB3D03B39D153" import="0">ArchaeologistGenocideWhen.xml</File>
-    <File md5="81E43F763AF5D46C3FE6108983B4E195" import="0">CBRX_TSLs.lua</File>
+    <File md5="CFABAA1255CE2F6EA9E803B249D474E4" import="0">Intial Automation.lua</File>
     <File md5="9FEC5A0F2561E5DE14198B013FCC8118" import="0">Cities2_GlobalDefines.xml</File>
     <File md5="B3D0FD5001DAB67AABD2584FEC90CB07" import="0">CityLists.sql</File>
     <File md5="FFAA308CDC5CF3B892AFF29E0BFF1CDD" import="0">CityNames.xml</File>
     <File md5="1C307B269FDD2540872B0FD4564AC2F2" import="0">Historical Religions Update.sql</File>
-    <File md5="C2929BB7373F2F7844E3C3CFF5FBE773" import="0">New Colors.sql</File>
+    <File md5="21AB400E7CD495E46BF088BFC2F375F0" import="0">New Colors.sql</File>
   </Files>
   <Actions>
     <OnModActivated>
@@ -46,7 +46,7 @@
     </OnModActivated>
   </Actions>
   <EntryPoints>
-    <EntryPoint type="InGameUIAddin" file="CBRX_TSLs.lua">
+    <EntryPoint type="InGameUIAddin" file="Intial Automation.lua">
       <Name>CBRX TSLs</Name>
       <Description>CBRX TSLs</Description>
     </EntryPoint>
