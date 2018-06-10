@@ -23,11 +23,19 @@ function HasTrait(player, traitID)
     return false
 end
 
+-------------------------------------------------------------------------------------------
+--- MAIN FUNCTIONS BELOW
+-------------------------------------------------------------------------------------------
+
 include( "SaveUtils" ); MY_MOD_NAME = "Scissor_Indira"; WARN_NOT_SHARED = false
 
 local indiraTrait = GameInfoTypes["TRAIT_THE_EMERGENCY"]
 local outputDouble = GameInfoTypes.BUILDING_DUMMY_OUTPUT_DOUBLE
 local tourismDouble = GameInfoTypes.BUILDING_DUMMY_TOURISM_DOUBLE
+
+-------------------------------------------------------------------------------------------
+--- UA Code - Handler for every turn + trigger to start up a new cycle
+-------------------------------------------------------------------------------------------
 
 function Emergency(playerID)
 	local player = Players[playerID]
@@ -75,7 +83,6 @@ function EmergencyStart(ownerID, cityID, buildingType, bGold, bFaithOrCulture)
 	end
 	
 end
-
 GameEvents.CityConstructed.Add(EmergencyStart)
 
 
@@ -123,15 +130,36 @@ function Scissor_Functions(playerID)
 		local pCityPlot = city:Plot()
 		if (city:GetNumRealBuilding(GameInfoTypes["BUILDING_POKHRAN_LAB"]) == 1) then
 			for pAreaPlot in PlotAreaSpiralIterator(pCityPlot, 3, SECTOR_NORTH, DIRECTION_CLOCKWISE, DIRECTION_OUTWARDS, CENTRE_EXCLUDE) do
-				if (pAreaPlot:GetTerrainType() == TerrainTypes.TERRAIN_DESERT and pAreaPlot:GetPlotType() == PlotTypes.PLOT_HILLS) then
-					iNumber = iNumber + 1
+				if pAreaPlot:IsBeingWorked() then
+					if (pAreaPlot:GetTerrainType() == TerrainTypes.TERRAIN_DESERT and pAreaPlot:GetPlotType() == PlotTypes.PLOT_HILLS and pAreaPlot:GetWorkingCity() == pCity:GetID()) then
+						iNumber = iNumber + 1
+					end
 				end
+				
 			end
 			city:SetNumRealBuilding(GameInfoTypes["BUILDING_POKHRAN_URANIUM"], iNumber)
 		end
 	end
 end
 GameEvents.PlayerDoTurn.Add(Scissor_Functions)
+
+function Scissor_PokhranLab(ownerID, cityID, plotX, plotY)
+	local player = Players[ownerID]
+	if (not player:IsAlive()) then return end
+	if (not HasTrait(player, indiraTrait)) then return end
+	
+	local city = player:GetCityByID(cityID)
+	
+	if (city:GetNumRealBuilding(GameInfoTypes["BUILDING_POKHRAN_LAB"]) == 1) then
+		local newPlot = Map.GetPlot(plotX, plotY)
+		if newPlot:IsBeingWorked() then
+			if (newPlot:GetTerrainType() == TerrainTypes.TERRAIN_DESERT and newPlot:GetPlotType() == PlotTypes.PLOT_HILLS and newPlot:GetWorkingCity() == cityID) then
+				city:SetNumRealBuilding(GameInfoTypes["BUILDING_POKHRAN_URANIUM"], city:GetNumRealBuilding(GameInfoTypes["BUILDING_POKHRAN_URANIUM"])+1)
+			end
+		end
+	end
+end
+--GameEvents.CityBoughtPlot.Add(Scissor_PokhranLab)
 
 
 print("Indira Gandhi is in the game. YOU HAVE BEEN WARNED.")

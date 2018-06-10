@@ -41,40 +41,41 @@
     <File md5="69611B709A10646589F7E184C062E919" import="1">ART/IndiaIndiraAtlas_80.dds</File>
     <File md5="8C90FE28C8F2D2DA4F089D91024F36A5" import="1">ART/Indira_DOM.dds</File>
     <File md5="F45F7E591453C97203CDAF7C28B33D7C" import="1">ART/MapIndira.dds</File>
-    <File md5="12CCBB2AA82D33939680B55D2A755C4F" import="0">LUA/Indira_Functions.lua</File>
+    <File md5="5EB18EB0C0D5F259C5E718939083DA09" import="1">ART/UnitArt/Airborne.fxsxml</File>
+    <File md5="0831BF98A7F05466BC05E04C5A3F8CB7" import="1">ART/UnitArt/IN_Airborne.gr2</File>
+    <File md5="D80FBB8C621158E3077085A3897B2EB3" import="1">ART/UnitArt/IN_Airborne_diff.dds</File>
+    <File md5="D73F243F8D8597D95C247D7A19B3B00B" import="1">ART/UnitArt/IN_Airborne_sref.dds</File>
+    <File md5="35CE8CD024B2DB903F171C9CDBFBB2DD" import="0">LUA/Indira_Functions.lua</File>
     <File md5="9D1D4A3C2EDE594A156B2B2C29799251" import="1">LUA/Util/GetUnitsInAdjacentPlotsWithPromotion.lua</File>
     <File md5="5690A1B2ACA2729FD9D55156E232AB1A" import="1">LUA/Util/PlotIterators.lua</File>
     <File md5="5754B1BE6E37A2F9D04D9D4149E5CDDF" import="1">LUA/Util/SaveUtils.lua</File>
     <File md5="8FDA3E79ABDBB907BEA7C6D02D7BE5C1" import="1">MUSIC/IndiraPeace.mp3</File>
     <File md5="6B111651C29565C2A19D83FF2E81B986" import="1">MUSIC/IndiraWar.mp3</File>
-    <File md5="64897B03AE62417690DC113ECEFE7D25" import="0">MUSIC/Music.xml</File>
-    <File md5="1D240FEC281CF09E3D419707EF9AD1B4" import="0">SQL/GameDefines.sql</File>
-    <File md5="577418B03E1913535B1DC03AD94115CE" import="0">SQL/MasterSupportFile.sql</File>
-    <File md5="679BCAA50E6DD9803B9A598FE96EFFDA" import="0">XML/Buildings.xml</File>
-    <File md5="310326D69336C6538423C4BFF04BA681" import="0">XML/Civilization.xml</File>
+    <File md5="DDFA3E755CF88F2841E4F1C4CAEFCC2D" import="0">SQL/Indira_ArtDefines.sql</File>
+    <File md5="1D240FEC281CF09E3D419707EF9AD1B4" import="0">SQL/Indira_GameDefines.sql</File>
+    <File md5="577418B03E1913535B1DC03AD94115CE" import="0">SQL/Indira_MasterSupportFile.sql</File>
+    <File md5="EF4033F4EEBDD0303D38F30A8533B403" import="0">XML/Buildings.xml</File>
+    <File md5="F2D8ABB7669F0EBE79ACDA57BA6E0E0A" import="0">XML/Civilization.xml</File>
     <File md5="2C3BFB5600E729F160A8E227EC032508" import="0">XML/Dummy.xml</File>
-    <File md5="A91231A2A9EDABA8C68EC03597FCD36F" import="0">XML/GameText.xml</File>
-    <File md5="3D96045C81A99D8BA0764EB1F7622DBD" import="0">XML/IconTextureAtlas.xml</File>
+    <File md5="8EEED571A1A1B6430BF34EF6E45FD708" import="0">XML/GameText.xml</File>
     <File md5="EE675993AEA545EFBC01928F14ABCF48" import="0">XML/Indira Promotions.xml</File>
     <File md5="471D7F90C3220D50E7D2EEDB9F5EC4EB" import="0">XML/Indira_Leaderhead.xml</File>
     <File md5="166FF0D19FFD3BE88DDBDA183C39C0FC" import="0">XML/Leader.xml</File>
-    <File md5="29EF19F3C2E909E39BE9D0EE62ED7C7F" import="0">XML/Units.xml</File>
+    <File md5="D72B677684C3E0134055F773C5D9AA5F" import="0">XML/Units.xml</File>
   </Files>
   <Actions>
     <OnModActivated>
-      <UpdateDatabase>MUSIC/Music.xml</UpdateDatabase>
       <UpdateDatabase>XML/Units.xml</UpdateDatabase>
       <UpdateDatabase>XML/Buildings.xml</UpdateDatabase>
       <UpdateDatabase>XML/Dummy.xml</UpdateDatabase>
       <UpdateDatabase>XML/GameText.xml</UpdateDatabase>
-      <UpdateDatabase>XML/IconTextureAtlas.xml</UpdateDatabase>
       <UpdateDatabase>XML/Indira Promotions.xml</UpdateDatabase>
       <UpdateDatabase>XML/Indira_Leaderhead.xml</UpdateDatabase>
-      <UpdateDatabase>XML/Indira_Leaderhead.xml</UpdateDatabase>
       <UpdateDatabase>XML/Leader.xml</UpdateDatabase>
-      <UpdateDatabase>SQL/GameDefines.sql</UpdateDatabase>
+      <UpdateDatabase>SQL/Indira_GameDefines.sql</UpdateDatabase>
       <UpdateDatabase>XML/Civilization.xml</UpdateDatabase>
-      <UpdateDatabase>SQL/MasterSupportFile.sql</UpdateDatabase>
+      <UpdateDatabase>SQL/Indira_MasterSupportFile.sql</UpdateDatabase>
+      <UpdateDatabase>SQL/Indira_ArtDefines.sql</UpdateDatabase>
     </OnModActivated>
   </Actions>
   <EntryPoints>

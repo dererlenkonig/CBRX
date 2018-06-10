@@ -93,7 +93,7 @@
 			<ShowInPedia>1</ShowInPedia>
 			<MoveRate>HEAVY_BIPED</MoveRate>
 			<UnitFlagIconOffset>0</UnitFlagIconOffset>
-			<PortraitIndex>2</PortraitIndex>
+			<PortraitIndex>3</PortraitIndex>
 			<IconAtlas>INDIRA_ICON_ATLAS</IconAtlas>
 			<UnitFlagAtlas>GARUDA_FLAG</UnitFlagAtlas>
 		</Row>
