@@ -16,7 +16,7 @@ local MY_MOD_NAME = "OrientalUruguay";
 -- Modified from NewSaveUtils.lua
 --=======================================================================================================================
 
-print("Uruguay Beta 3 loading");
+print("Uruguay Beta 5 loading");
 
 gbLogSaveData = false;
 
@@ -638,9 +638,9 @@ function PartiesProcessTurn(iPlayer)
 			iParty = 0; 
 		end
 		if iParty == 0 then
-			print("B4: Party: Colorados, Turns in power: " .. iTimer);
+			print("B5: Party: Colorados, Turns in power: " .. iTimer);
 		else 
-			print("B4: Party: Blancos, Turns in power: " .. iTimer);
+			print("B5: Party: Blancos, Turns in power: " .. iTimer);
 		end
 		iTimer = iTimer + 1;
 		local iTurns = 30;
@@ -823,7 +823,7 @@ function ColoradosPolicy(iPlayer)
 			local iTech = pPlayer:GetCurrentResearch();
 			local iBonus = 0
 			if iTech > 0 then
-				 iBonus = pPlayer:GetResearchCost(iTech) / 4;
+				 iBonus = pPlayer:GetResearchCost(iTech) / 8;
 			else
 				local iCheapestTechIndex = -1;
 				local iCheapestTechCost = 0;
@@ -836,7 +836,7 @@ function ColoradosPolicy(iPlayer)
 						end
 					end
 				end 
-				iBonus = iCheapestTechCost / 4;
+				iBonus = iCheapestTechCost / 8;
 			end
 			print("Adding " .. iBonus .. " Science as bonus");
 			LuaEvents.Sukritact_ChangeResearchProgress(iPlayer, iBonus);
@@ -851,8 +851,9 @@ function ColoradosPolicy(iPlayer)
 			end
 			local iEra = pPlayer:GetCurrentEra();
 
-			iBonusProduction = (iBonusProduction / 2) * (iEra + 1);
-			print("Adding " .. iBonusProduction .. " Production as bonus");
+			--iBonusProduction = (iBonusProduction / 2) * (iEra + 1);
+			iBonusProduction = (iBonusProduction / 30) * (5 + iEra) * (2 / 3);
+			print("Adding " .. iBonusProduction .. " Production as bonus per population");
 			for pCity in pPlayer:Cities() do
 				--[[local iBonusProduction = pCity:GetProduction() * iProductionBonusMultiplier;
 				if iBonusProduction == 0 then
@@ -871,12 +872,12 @@ function ColoradosPolicy(iPlayer)
 				print("Adding " .. iBonusProduction .. " Production as bonus");
 				pCity:SetOverflowProduction(pCity:GetOverflowProduction() + iBonusProduction);]]
 
-				
+				local iPop = pCity:GetPopulation();
 
 				
 				
 				
-				pCity:SetOverflowProduction(pCity:GetOverflowProduction() + iBonusProduction);
+				pCity:SetOverflowProduction(pCity:GetOverflowProduction() + (iBonusProduction * iPop));
 			end
 			Events.GameplayAlertMessage("The Colorado party has adopted a new [ICON_CULTURE] Social Policy, earning a bonus of " .. iBonus .. " [ICON_RESEARCH] Science and a [ICON_PRODUCTION] Production bonus in all cities!");
 		end

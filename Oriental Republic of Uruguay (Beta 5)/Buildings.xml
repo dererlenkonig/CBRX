@@ -101,7 +101,7 @@
 
 		  <TechEnhancedTourism>0</TechEnhancedTourism>
 		  <GreatWorkCount>-1</GreatWorkCount>
-		  <PolicyCostModifier>-10</PolicyCostModifier>
+		  <PolicyCostModifier>-5</PolicyCostModifier>
 		  <MinAreaSize>-1</MinAreaSize>
 		  <HurryCostModifier>25</HurryCostModifier>
 		  <IconAtlas>BW_ATLAS_1</IconAtlas>
@@ -148,7 +148,7 @@
 	  <Row>
 		  <BuildingType>BUILDING_URUGUAY_BLANCOS_BONUS</BuildingType>
 		  <DomainType>DOMAIN_LAND</DomainType>
-		  <Modifier>15</Modifier>
+		  <Modifier>10</Modifier>
 	  </Row>
   </Building_DomainProductionModifiers>
   <!-- Building_FreeSpecialistCounts -->
@@ -193,7 +193,7 @@
 		<Row>
 			<BuildingType>BUILDING_URUGUAY_COLORADOS_BONUS_CULTURE</BuildingType>
 			<YieldType>YIELD_CULTURE</YieldType>
-			<Yield>2</Yield>
+			<Yield>1</Yield>
 		</Row>
 	</Building_YieldChanges>
   <!-- Building_YieldChangesPerPop -->
