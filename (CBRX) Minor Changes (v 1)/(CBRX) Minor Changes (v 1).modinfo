@@ -19,7 +19,7 @@
   </Properties>
   <Dependencies />
   <References>
-    <Mod id="b0e91c7f-a888-41f3-82e6-bb48429c04e6" minversion="0" maxversion="999" title="Dummy Loading Order" />
+    <Mod id="d9ece224-6cd8-4519-a27a-c417b59cdf35" minversion="0" maxversion="999" title="Dummy Loading" />
   </References>
   <Blocks />
   <Files>
@@ -30,7 +30,7 @@
     <File md5="B3D0FD5001DAB67AABD2584FEC90CB07" import="0">CityLists.sql</File>
     <File md5="FFAA308CDC5CF3B892AFF29E0BFF1CDD" import="0">CityNames.xml</File>
     <File md5="1C307B269FDD2540872B0FD4564AC2F2" import="0">Historical Religions Update.sql</File>
-    <File md5="C4747D5BBE2F1E6F6BE6AC9973A7DBB3" import="0">New Colors.sql</File>
+    <File md5="2D9F3B9E4E4D0C21665B26F75E84CB96" import="0">New Colors.sql</File>
   </Files>
   <Actions>
     <OnModActivated>

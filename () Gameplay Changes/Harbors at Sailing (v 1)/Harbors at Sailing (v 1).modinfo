@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mod id="4042ad4c-d155-4db3-aefc-5dac447ea8a4" version="1">
+  <Properties>
+    <Name>Harbors at Sailing</Name>
+    <Stability>Alpha</Stability>
+    <Teaser>Harbors at Sailing</Teaser>
+    <Description>Harbors at Sailing</Description>
+    <Authors>Limerickarcher</Authors>
+    <HideSetupGame>0</HideSetupGame>
+    <AffectsSavedGames>0</AffectsSavedGames>
+    <SupportsSinglePlayer>1</SupportsSinglePlayer>
+    <SupportsMultiplayer>0</SupportsMultiplayer>
+    <SupportsHotSeat>0</SupportsHotSeat>
+    <SupportsMac>1</SupportsMac>
+    <ReloadAudioSystem>0</ReloadAudioSystem>
+    <ReloadLandmarkSystem>0</ReloadLandmarkSystem>
+    <ReloadStrategicViewSystem>0</ReloadStrategicViewSystem>
+    <ReloadUnitSystem>0</ReloadUnitSystem>
+  </Properties>
+  <Dependencies />
+  <References />
+  <Blocks />
+  <Files>
+    <File md5="56FCC47D8398275FF3168A6D5F0DFFF3" import="0">GameDefines.sql</File>
+  </Files>
+  <Actions>
+    <OnModActivated>
+      <UpdateDatabase>GameDefines.sql</UpdateDatabase>
+    </OnModActivated>
+  </Actions>
+</Mod>

@@ -1,0 +1,1 @@
+UPDATE Buildings SET PrereqTech = "TECH_SAILING" WHERE Type = "BUILDING_HARBOR";
