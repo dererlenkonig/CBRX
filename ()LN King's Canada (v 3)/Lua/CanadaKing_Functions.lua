@@ -92,7 +92,7 @@ local canadaRamTank = GameInfoTypes["UNIT_LNKC_RAMTANK"]
 function Canada_RamTankExperience(playerID, cityID, unitID, bGold, bFaithOrCulture)
 	local player = Players[playerID]
 	local pUnit = player:GetUnitByID(unitID)
-	--print("Running Canada Ram Tank Experience")
+	print("Running Canada Ram Tank Experience")
 	
 	if pUnit:GetUnitType() == canadaRamTank then
 		pUnit:ChangeExperience(30)

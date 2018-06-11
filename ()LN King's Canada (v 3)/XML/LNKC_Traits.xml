@@ -18,7 +18,7 @@
 
 	<Language_en_US>
 		<Row Tag="TXT_KEY_TRAIT_LNKC_KING_OR_CHAOS">
-			<Text>Upon declaration of war, all cities connected to the capital gain +2 production and 20% unit production for five turns. Upon declaration of peace, all National and World Wonders generate +2 production and +2 science for five turns. Both effects cannot be active simultaneously.</Text>
+			<Text>During peace, all cities connected to the capital gain +2 [ICON_RESEARCH] Science and [ICON_PRODUCTION] Production per Wonder. During war, all cities gain 20% faster unit production and +2 [ICON_PRODUCTION] Production. Both effects last for 5 turns.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_TRAIT_LNKC_KING_OR_CHAOS_SHORT">
 			<Text>King or Chaos!</Text>
