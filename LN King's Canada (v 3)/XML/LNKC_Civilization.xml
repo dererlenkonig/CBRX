@@ -75,17 +75,17 @@
 	<Colors>
 		<Row>
 			<Type>COLOR_PLAYER_LN_KINGCANADA_BACKGROUND</Type>
-			<Red>0.30</Red>
-			<Green>0.04</Green>
-			<Blue>0.02</Blue>
-			<Alpha>1.0</Alpha>
+			<Red>0.1451</Red>
+			<Green>0.0157</Green>
+			<Blue>0.0157</Blue>
+			<Alpha>1</Alpha>
 		</Row>
 		<Row>
 			<Type>COLOR_PLAYER_LN_KINGCANADA_ICON</Type>
-			<Red>0.73</Red>
-			<Green>0.73</Green>
-			<Blue>0.73</Blue>
-			<Alpha>1.0</Alpha>
+			<Red>0.1725</Red>
+			<Green>0.3882</Green>
+			<Blue>0.3333</Blue>
+			<Alpha>1</Alpha>
 		</Row>
 	</Colors>
 
