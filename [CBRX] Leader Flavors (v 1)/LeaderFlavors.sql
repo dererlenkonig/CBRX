@@ -1,0 +1,1 @@
+UPDATE Leader_Flavors SET Flavor = 8 WHERE LeaderType='LEADER_ALEXANDER' AND FlavorType = 'FLAVOR_OFFENSE';

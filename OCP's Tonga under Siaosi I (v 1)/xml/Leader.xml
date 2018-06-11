@@ -7,14 +7,14 @@
       <Civilopedia>TXT_KEY_LEADER_SIAOSI_PEDIA</Civilopedia>
       <CivilopediaTag>TXT_KEY_CIVILOPEDIA_LEADERS_SIAOSI</CivilopediaTag>
       <ArtDefineTag>TongaLeaderhead.xml</ArtDefineTag>
-      <VictoryCompetitiveness>7</VictoryCompetitiveness>
+      <VictoryCompetitiveness>10</VictoryCompetitiveness>
       <WonderCompetitiveness>3</WonderCompetitiveness>
       <MinorCivCompetitiveness>4</MinorCivCompetitiveness>
-      <Boldness>6</Boldness>
+      <Boldness>8</Boldness>
       <DiploBalance>4</DiploBalance>
       <WarmongerHate>5</WarmongerHate>
-      <WorkAgainstWillingness>6</WorkAgainstWillingness>
-      <WorkWithWillingness>0</WorkWithWillingness>
+      <WorkAgainstWillingness>7</WorkAgainstWillingness>
+      <WorkWithWillingness>3</WorkWithWillingness>
       <DenounceWillingness>6</DenounceWillingness>
       <DoFWillingness>7</DoFWillingness>
       <Loyalty>6</Loyalty>
@@ -32,7 +32,7 @@
     <Row>
       <LeaderType>LEADER_SIAOSI</LeaderType>
       <MajorCivApproachType>MAJOR_CIV_APPROACH_WAR</MajorCivApproachType>
-      <Bias>6</Bias>
+      <Bias>8</Bias>
     </Row>
     <Row>
       <LeaderType>LEADER_SIAOSI</LeaderType>
@@ -57,7 +57,7 @@
     <Row>
       <LeaderType>LEADER_SIAOSI</LeaderType>
       <MajorCivApproachType>MAJOR_CIV_APPROACH_FRIENDLY</MajorCivApproachType>
-      <Bias>7</Bias>
+      <Bias>6</Bias>
     </Row>
     <Row>
       <LeaderType>LEADER_SIAOSI</LeaderType>
@@ -156,7 +156,7 @@
     <Row>
       <LeaderType>LEADER_SIAOSI</LeaderType>
       <FlavorType>FLAVOR_EXPANSION</FlavorType>
-      <Flavor>7</Flavor>
+      <Flavor>8</Flavor>
     </Row>
     <Row>
       <LeaderType>LEADER_SIAOSI</LeaderType>
