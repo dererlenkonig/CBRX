@@ -30,7 +30,7 @@
     <File md5="B3D0FD5001DAB67AABD2584FEC90CB07" import="0">CityLists.sql</File>
     <File md5="FFAA308CDC5CF3B892AFF29E0BFF1CDD" import="0">CityNames.xml</File>
     <File md5="1C307B269FDD2540872B0FD4564AC2F2" import="0">Historical Religions Update.sql</File>
-    <File md5="21AB400E7CD495E46BF088BFC2F375F0" import="0">New Colors.sql</File>
+    <File md5="C4747D5BBE2F1E6F6BE6AC9973A7DBB3" import="0">New Colors.sql</File>
   </Files>
   <Actions>
     <OnModActivated>
