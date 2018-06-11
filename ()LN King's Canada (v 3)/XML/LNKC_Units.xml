@@ -43,9 +43,9 @@
 			<!--AWAITS GRAPHICS-->
 			<UnitFlagIconOffset>58</UnitFlagIconOffset>
 			<!--AWAITS GRAPHICS-->
-			<IconAtlas>UNIT_ATLAS_2</IconAtlas>
+			<IconAtlas>LNKC_ICONATLAS</IconAtlas>
 			<!--AWAITS GRAPHICS-->
-			<PortraitIndex>39</PortraitIndex>
+			<PortraitIndex>1</PortraitIndex>
 			<!--AWAITS GRAPHICS-->
 			<MoveRate>WHEELED</MoveRate>
 		</Row>

@@ -30,8 +30,8 @@
 			<MinAreaSize>-1</MinAreaSize>
 			<ConquestProb>66</ConquestProb>
 			<HurryCostModifier>25</HurryCostModifier>
-			<IconAtlas>BW_ATLAS_1</IconAtlas>
-			<PortraitIndex>57</PortraitIndex>
+			<IconAtlas>LNKC_ICONATLAS</IconAtlas>
+			<PortraitIndex>2</PortraitIndex>
 		</Row>
 		<Row>
 			<Type>BUILDING_LNKC_PEACETIMEBUFF</Type>
