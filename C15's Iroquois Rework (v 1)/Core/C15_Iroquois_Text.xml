@@ -231,16 +231,16 @@
 			<Text>Andagaron</Text>
 		</Row>
 		<Row Tag="TXT_KEY_C15_IROQ_CITY_NAME_CAHANIAGA">
-			<Text>Cahaniaga</Text>
+			<Text>Caughnawaga</Text>
 		</Row>
 		<Row Tag="TXT_KEY_C15_IROQ_CITY_NAME_CANASTIGAONE">
 			<Text>Canastigaone</Text>
 		</Row>
 		<Row Tag="TXT_KEY_C15_IROQ_CITY_NAME_CANIENGA">
-			<Text>Canienga</Text>
+			<Text>Osquake</Text>
 		</Row>
 		<Row Tag="TXT_KEY_C15_IROQ_CITY_NAME_CAUGHNAWAGA">
-			<Text>Caughnawaga</Text>
+			<Text>Onekagoncka</Text>
 		</Row>
 		<Row Tag="TXT_KEY_C15_IROQ_CITY_NAME_GAROGA">
 			<Text>Garoga</Text>
@@ -270,7 +270,7 @@
 			<Text>Tionondogen</Text>
 		</Row>
 		<Row Tag="TXT_KEY_C15_IROQ_CITY_NAME_TYENDINAGA	">
-			<Text>Tyendinaga	</Text>
+			<Text>Tyendinaga</Text>
 		</Row>
 		<Row Tag="TXT_KEY_C15_IROQ_CITY_NAME_CANOJAHARIE">
 			<Text>Canojaharie</Text>
@@ -285,7 +285,7 @@
 			<Text>Hostayuntwa</Text>
 		</Row>
 		<Row Tag="TXT_KEY_C15_IROQ_CITY_NAME_ONEIDA">
-			<Text>Oneida</Text>
+			<Text>Kanonwalohale</Text>
 		</Row>
 		<Row Tag="TXT_KEY_C15_IROQ_CITY_NAME_ONAQUAGA">
 			<Text>Onaquaga</Text>
@@ -297,7 +297,7 @@
 			<Text>Onondaghara</Text>
 		</Row>
 		<Row Tag="TXT_KEY_C15_IROQ_CITY_NAME_ONONDAGHGEHGAHGEH">
-			<Text>Onondaghgehgahgeh</Text>
+			<Text>Onondahgegahgeh</Text>
 		</Row>
 		<Row Tag="TXT_KEY_C15_IROQ_CITY_NAME_OSWEGATCHIE">
 			<Text>Oswegatchie</Text>
@@ -309,7 +309,7 @@
 			<Text>Gadoquat</Text>
 		</Row>
 		<Row Tag="TXT_KEY_C15_IROQ_CITY_NAME_CANADAIGUA">
-			<Text>Canadaigua</Text>
+			<Text>Kanandaigua</Text>
 		</Row>
 		<Row Tag="TXT_KEY_C15_IROQ_CITY_NAME_CANAWAUGUS">
 			<Text>Canawaugus</Text>
