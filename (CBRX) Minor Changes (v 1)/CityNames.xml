@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <!-- Created by ModBuddy on 5/17/2018 5:03:30 PM -->
 <GameData>
 	<Language_en_US>
@@ -30,7 +30,7 @@
 			<Text>Ballasalla</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_CALC_MANX_10">
-			<Text>St John''s</Text>
+			<Text>St John's</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_CALC_MANX_11">
 			<Text>Colby</Text>
@@ -669,7 +669,7 @@
 			<Text>Gettlinge</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_VIKING_LS_MOD_223">
-			<Text>Copenhagen</Text>
+			<Text>Hollingstedt</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_VIKING_LS_MOD_224">
 			<Text>Visby</Text>
@@ -687,7 +687,7 @@
 			<Text>Sandnæs</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_VIKING_LS_MOD_229">
-			<Text>Rouen</Text>
+			<Text>Paviken</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_VIKING_LS_MOD_230">
 			<Text>Stockholm</Text>
@@ -735,7 +735,7 @@
 			<Text>Reay</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_VIKING_LS_MOD_245">
-			<Text>L''Anse aux Meadows</Text>
+			<Text>L'Anse aux Meadows</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_MC_LITE_MOOR_246">
 			<Text>Qurtubah</Text>
@@ -756,7 +756,7 @@
 			<Text>Saraqustah</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_MC_LITE_MOOR_252">
-			<Text>''Isbiliyyah</Text>
+			<Text>'Isbiliyyah</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_MC_LITE_MOOR_253">
 			<Text>Malaqah</Text>
@@ -819,7 +819,7 @@
 			<Text>Al-Arak</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_MC_LITE_MOOR_273">
-			<Text>Qal''at Rabah</Text>
+			<Text>Qal'at Rabah</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_MC_LITE_MOOR_274">
 			<Text>Saris</Text>
@@ -849,7 +849,7 @@
 			<Text>Qarmunah</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_MC_LITE_MOOR_283">
-			<Text>Rundah</Text>
+			<Text>Hisn ar-Rundah</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_MC_LITE_MOOR_284">
 			<Text>Mawrur</Text>
@@ -858,7 +858,7 @@
 			<Text>Qasr al-Azad</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_MC_LITE_MOOR_286">
-			<Text>''Arkus</Text>
+			<Text>'Arkus</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_MC_LITE_MOOR_287">
 			<Text>Lablah</Text>
@@ -897,22 +897,22 @@
 			<Text>Basta</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_MC_LITE_MOOR_299">
-			<Text>''Uryulah</Text>
+			<Text>'Uryulah</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_MC_LITE_MOOR_300">
 			<Text>Hisn al-Munakhar</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_MC_LITE_MOOR_301">
-			<Text>''Als</Text>
+			<Text>'Als</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_MC_LITE_MOOR_302">
 			<Text>Sammurah</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_MC_LITE_MOOR_303">
-			<Text>Qakat ''Ayyub</Text>
+			<Text>Qalat Ayyub</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_MC_LITE_MOOR_304">
-			<Text>''Istiggah</Text>
+			<Text>'Istiggah</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_MC_LITE_MOOR_305">
 			<Text>Wadi al-Hejarah</Text>
@@ -1371,7 +1371,7 @@
 			<Text>Brescia</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_VENICE_457">
-			<Text>Capo d''Istria</Text>
+			<Text>Capo d'Istria</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_VENICE_458">
 			<Text>Parenzo</Text>
@@ -1389,7 +1389,7 @@
 			<Text>Spalato</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_VENICE_463">
-			<Text>Sant''Erasmo</Text>
+			<Text>Sant'Erasmo</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_VENICE_464">
 			<Text>Giudecca</Text>
@@ -1536,7 +1536,7 @@
 			<Text>Moscow</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_JFD_MUSCOVY_512">
-			<Text>Suzdal''</Text>
+			<Text>Suzdal'</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_JFD_MUSCOVY_513">
 			<Text>Vladimir</Text>
@@ -1551,7 +1551,7 @@
 			<Text>Vologda</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_JFD_MUSCOVY_517">
-			<Text>Yaroslavl''</Text>
+			<Text>Yaroslavl'</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_JFD_MUSCOVY_518">
 			<Text>Toropets</Text>
@@ -1581,10 +1581,10 @@
 			<Text>Veliky Novgorod</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_JFD_MUSCOVY_527">
-			<Text>Tver''</Text>
+			<Text>Tver'</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_JFD_MUSCOVY_528">
-			<Text>Ryazan''</Text>
+			<Text>Ryazan'</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_JFD_MUSCOVY_529">
 			<Text>Kaluga</Text>
@@ -1605,10 +1605,10 @@
 			<Text>Pskov</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_JFD_MUSCOVY_535">
-			<Text>Vyaz''ma</Text>
+			<Text>Vyaz'ma</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_JFD_MUSCOVY_536">
-			<Text>Staraya Russa</Text>
+			<Text>Russa</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_JFD_MUSCOVY_537">
 			<Text>Kholm</Text>
@@ -1644,13 +1644,13 @@
 			<Text>Smolensk</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_JFD_MUSCOVY_548">
-			<Text>Tobol''sk</Text>
+			<Text>Tobol'sk</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_JFD_MUSCOVY_549">
 			<Text>Orel</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_JFD_MUSCOVY_550">
-			<Text>Kazan''</Text>
+			<Text>Kazan'</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_JFD_MUSCOVY_551">
 			<Text>Polotsk</Text>
@@ -1668,7 +1668,7 @@
 			<Text>Sergiyev Posad</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_JFD_MUSCOVY_556">
-			<Text>Pereyaslavl''</Text>
+			<Text>Pereyaslavl'</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_JFD_MUSCOVY_557">
 			<Text>Vyazniki</Text>
@@ -1689,16 +1689,16 @@
 			<Text>Tarusa</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_JFD_MUSCOVY_563">
-			<Text>Kozel''sk</Text>
+			<Text>Kozel'sk</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_JFD_MUSCOVY_564">
 			<Text>Dmitrov</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_JFD_MUSCOVY_565">
-			<Text>Yuryev-Pol''sky</Text>
+			<Text>Yuryev-Pol'sky</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_JFD_MUSCOVY_566">
-			<Text>Starodub-na-Klyaz''me</Text>
+			<Text>Starodub-na-Klyaz'me</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_JFD_MUSCOVY_567">
 			<Text>Arzamas</Text>
@@ -2463,7 +2463,7 @@
 			<Text>Sarai Berke</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_CBR_GOLDEN_HORDE_821">
-			<Text>Sighnaq</Text>
+			<Text>Akhsikath</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_CBR_GOLDEN_HORDE_822">
 			<Text>Atil</Text>
@@ -2472,7 +2472,7 @@
 			<Text>Bolghar</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_CBR_GOLDEN_HORDE_824">
-			<Text>Suzak</Text>
+			<Text>Chust</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_CBR_GOLDEN_HORDE_825">
 			<Text>Majar</Text>
@@ -2493,10 +2493,10 @@
 			<Text>Mohi</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_CBR_GOLDEN_HORDE_831">
-			<Text>Yasi</Text>
+			<Text>Saqsin</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_CBR_GOLDEN_HORDE_832">
-			<Text>Jand</Text>
+			<Text>Margilan</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_CBR_GOLDEN_HORDE_833">
 			<Text>Bilär</Text>
@@ -2514,7 +2514,7 @@
 			<Text>Suar</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_CBR_GOLDEN_HORDE_838">
-			<Text>Poltava</Text>
+			<Text>Cükätaw</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_CBR_GOLDEN_HORDE_839">
 			<Text>Tiflis</Text>
@@ -2550,13 +2550,13 @@
 			<Text>Vidin</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_CBR_GOLDEN_HORDE_850">
-			<Text>Farab</Text>
+			<Text>Poltava</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_CBR_GOLDEN_HORDE_851">
 			<Text>Kalka</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_CBR_GOLDEN_HORDE_852">
-			<Text>Jankent</Text>
+			<Text>Osh</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_CBR_GOLDEN_HORDE_853">
 			<Text>Eski Qirim</Text>
@@ -3294,7 +3294,7 @@
 			<Text>Fuqaha</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_JMANGELO_SENUSI_LIBYA_1098">
-			<Text>Al-''Uqaylah</Text>
+			<Text>Al-'Uqaylah</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_JMANGELO_SENUSI_LIBYA_1099">
 			<Text>Jadid</Text>
@@ -3387,7 +3387,7 @@
 			<Text>Batna</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_DJSH_ALGERIA_1129">
-			<Text>M''Sila</Text>
+			<Text>M'Sila</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_DJSH_ALGERIA_1130">
 			<Text>Tizi Ouzou</Text>
@@ -3717,7 +3717,7 @@
 			<Text>Esi</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_BENIN_LS_MOD_1239">
-			<Text>Lagos</Text>
+			<Text>Eko</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_BENIN_LS_MOD_1240">
 			<Text>Ile-Ife</Text>
@@ -3987,7 +3987,7 @@
 			<Text>Injibara</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_DMS_SEMIEN_GUDIT_1329">
-			<Text>Mai''gaba</Text>
+			<Text>Mai'gaba</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_DMS_SEMIEN_GUDIT_1330">
 			<Text>Gelegu</Text>
@@ -4005,7 +4005,7 @@
 			<Text>Aksum</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_DMS_SEMIEN_GUDIT_1335">
-			<Text>Mek''ele</Text>
+			<Text>Mek'ele</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_DMS_SEMIEN_GUDIT_1336">
 			<Text>Debre Damo</Text>
@@ -4098,7 +4098,7 @@
 			<Text>Mbaka</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_NDONGO_LS_MOD_1366">
-			<Text>Milemba aCangola</Text>
+			<Text>Milemba aKangola</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_NDONGO_LS_MOD_1367">
 			<Text>Ngoleme</Text>
@@ -4107,7 +4107,7 @@
 			<Text>Kasanje</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_NDONGO_LS_MOD_1369">
-			<Text>Mafingano</Text>
+			<Text>Kisama</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_NDONGO_LS_MOD_1370">
 			<Text>Ndanji</Text>
@@ -4119,7 +4119,7 @@
 			<Text>Kambambe</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_NDONGO_LS_MOD_1373">
-			<Text>Pungo a Ndongo</Text>
+			<Text>Xa-Kalumbu</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_NDONGO_LS_MOD_1374">
 			<Text>Lubolo</Text>
@@ -4128,16 +4128,16 @@
 			<Text>Dembo Aembo</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_NDONGO_LS_MOD_1376">
-			<Text>Jaga Calanda</Text>
+			<Text>Jaga Kalanda</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_NDONGO_LS_MOD_1377">
-			<Text>Embaca</Text>
+			<Text>Kalandula</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_NDONGO_LS_MOD_1378">
-			<Text>Palongono</Text>
+			<Text>Palongano</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_NDONGO_LS_MOD_1379">
-			<Text>Canini</Text>
+			<Text>Kanini</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_NDONGO_LS_MOD_1380">
 			<Text>Ndondo</Text>
@@ -4152,10 +4152,10 @@
 			<Text>Tala-mu-Ngongo</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_NDONGO_LS_MOD_1384">
-			<Text>Kasanji</Text>
+			<Text>Lukamba</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_NDONGO_LS_MOD_1385">
-			<Text>Xa-Kalumbu</Text>
+			<Text>Andala Kisua</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_NDONGO_LS_MOD_1386">
 			<Text>Nduki</Text>
@@ -4176,7 +4176,7 @@
 			<Text>Kiongua</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_NDONGO_LS_MOD_1392">
-			<Text>Ndanji a Menia</Text>
+			<Text>Katumbu</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_NDONGO_LS_MOD_1393">
 			<Text>Jipambu</Text>
@@ -4188,25 +4188,25 @@
 			<Text>Bulutu</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_NDONGO_LS_MOD_1396">
-			<Text>Xilonga</Text>
+			<Text>Kaluhia</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_NDONGO_LS_MOD_1397">
-			<Text>N''dalatando</Text>
+			<Text>N'dalatando</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_NDONGO_LS_MOD_1398">
 			<Text>Musulu</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_NDONGO_LS_MOD_1399">
-			<Text>Nguenji</Text>
+			<Text>Kabidi</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_NDONGO_LS_MOD_1400">
-			<Text>Mahungu</Text>
+			<Text>Kakulu</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_NDONGO_LS_MOD_1401">
 			<Text>Jindembu</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_NDONGO_LS_MOD_1402">
-			<Text>Abidi</Text>
+			<Text>Kaxitu</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_NDONGO_LS_MOD_1403">
 			<Text>Ngulungu</Text>
@@ -4215,31 +4215,31 @@
 			<Text>Kanzengu</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_NDONGO_LS_MOD_1405">
-			<Text>Makioko</Text>
+			<Text>Xiu</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_NDONGO_LS_MOD_1406">
-			<Text>Kibokue</Text>
+			<Text>Mbungu</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_NDONGO_LS_MOD_1407">
-			<Text>Malanje</Text>
+			<Text>Kiongua</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_NDONGO_LS_MOD_1408">
-			<Text>Lucala</Text>
+			<Text>Lukala</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_NDONGO_LS_MOD_1409">
-			<Text>Golungo</Text>
+			<Text>Fuxi</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_NDONGO_LS_MOD_1410">
-			<Text>Cacuso</Text>
+			<Text>Kakuso</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_NDONGO_LS_MOD_1411">
-			<Text>Caxito</Text>
+			<Text>Kipidi</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_NDONGO_LS_MOD_1412">
-			<Text>Haco</Text>
+			<Text>Ngola</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_NDONGO_LS_MOD_1413">
-			<Text>Mussende</Text>
+			<Text>Kafua</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_ZIMBABWE_LS_MOD_1414">
 			<Text>Zimbabwe</Text>
@@ -4251,7 +4251,7 @@
 			<Text>Khami</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_ZIMBABWE_LS_MOD_1417">
-			<Text>Danamombe</Text>
+			<Text>Dhlo-Dhlo</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_ZIMBABWE_LS_MOD_1418">
 			<Text>Mapungubwe</Text>
@@ -4260,7 +4260,7 @@
 			<Text>Nhunguza</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_ZIMBABWE_LS_MOD_1420">
-			<Text>Chipadze</Text>
+			<Text>Chitekete</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_ZIMBABWE_LS_MOD_1421">
 			<Text>Dambarare</Text>
@@ -4284,7 +4284,7 @@
 			<Text>Bambandyanalo</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_ZIMBABWE_LS_MOD_1428">
-			<Text>Manyijka</Text>
+			<Text>Macardon</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_ZIMBABWE_LS_MOD_1429">
 			<Text>Thulamela</Text>
@@ -4305,7 +4305,7 @@
 			<Text>Manyikeni</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_ZIMBABWE_LS_MOD_1435">
-			<Text>Fatuca</Text>
+			<Text>Mapela</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_ZIMBABWE_LS_MOD_1436">
 			<Text>Lusvingo</Text>
@@ -4320,10 +4320,10 @@
 			<Text>Ingombe Ilede</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_ZIMBABWE_LS_MOD_1440">
-			<Text>Chetuchin</Text>
+			<Text>Shashi</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_ZIMBABWE_LS_MOD_1441">
-			<Text>Manbone</Text>
+			<Text>Mambone</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_ZIMBABWE_LS_MOD_1442">
 			<Text>Kopje</Text>
@@ -4332,28 +4332,28 @@
 			<Text>Zhizo</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_ZIMBABWE_LS_MOD_1444">
-			<Text>Bumbusi</Text>
+			<Text>Mtoko</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_ZIMBABWE_LS_MOD_1445">
 			<Text>Taba Zikamambo</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_ZIMBABWE_LS_MOD_1446">
-			<Text>Enyandeni</Text>
+			<Text>Chedzugwe</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_ZIMBABWE_LS_MOD_1447">
 			<Text>Toutswemogala</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_ZIMBABWE_LS_MOD_1448">
-			<Text>Bunkeya</Text>
+			<Text>Chipadze</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_ZIMBABWE_LS_MOD_1449">
-			<Text>Mapela</Text>
+			<Text>Chisvingo</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_ZIMBABWE_LS_MOD_1450">
 			<Text>Inyanga</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_ZIMBABWE_LS_MOD_1451">
-			<Text>Tongue</Text>
+			<Text>Ruanga</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_ZIMBABWE_LS_MOD_1452">
 			<Text>Massapa</Text>
@@ -4362,7 +4362,7 @@
 			<Text>Afur</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_ZIMBABWE_LS_MOD_1454">
-			<Text>Botonga</Text>
+			<Text>Mutare</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_ZIMBABWE_LS_MOD_1455">
 			<Text>Manthimba</Text>
@@ -4377,43 +4377,43 @@
 			<Text>Sena</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_ZIMBABWE_LS_MOD_1459">
-			<Text>Mankhamba</Text>
+			<Text>Majiri</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_ZIMBABWE_LS_MOD_1460">
 			<Text>Sofala</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_ZIMBABWE_LS_MOD_1461">
-			<Text>Uteve</Text>
+			<Text>Chibvumani</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_ZIMBABWE_LS_MOD_1462">
-			<Text>Mankya</Text>
+			<Text>Matendere</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_ZIMBABWE_LS_MOD_1463">
-			<Text>Chikova</Text>
+			<Text>Muchuchu</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_ZIMBABWE_LS_MOD_1464">
-			<Text>Guruhuswa</Text>
+			<Text>Kagumbudzi</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_ZIMBABWE_LS_MOD_1465">
-			<Text>Mbire</Text>
+			<Text>Tsindi</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_ZIMBABWE_LS_MOD_1466">
-			<Text>Dande</Text>
+			<Text>Matemba</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_ZIMBABWE_LS_MOD_1467">
 			<Text>Maungwe</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_ZIMBABWE_LS_MOD_1468">
-			<Text>Chidima</Text>
+			<Text>Dande</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_ZIMBABWE_LS_MOD_1469">
-			<Text>Bucuto</Text>
+			<Text>Chomuruvati</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_ZIMBABWE_LS_MOD_1470">
-			<Text>Inhamior</Text>
+			<Text>Dzata</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_ZIMBABWE_LS_MOD_1471">
-			<Text>Luanza</Text>
+			<Text>Domboshaba</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_ZIMBABWE_LS_MOD_1472">
 			<Text>Harare</Text>
@@ -4596,7 +4596,7 @@
 			<Text>Ambatolampy</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_DMS_CL_IMERINA_1532">
-			<Text>Anosibe An’ala</Text>
+			<Text>Anosibe An'ala</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_DMS_CL_IMERINA_1533">
 			<Text>Ambilobe</Text>
@@ -4620,7 +4620,7 @@
 			<Text>Kuchan</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_PARTHIA_1540">
-			<Text>Gorgan</Text>
+			<Text>Zadracarta</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_PARTHIA_1541">
 			<Text>Ctesiphon</Text>
@@ -4662,7 +4662,7 @@
 			<Text>Apamea</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_PARTHIA_1554">
-			<Text>Tambax</Text>
+			<Text>Tambrax</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_PARTHIA_1555">
 			<Text>Saramana</Text>
@@ -4677,7 +4677,7 @@
 			<Text>Kangavar</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_PARTHIA_1559">
-			<Text>Apologos</Text>
+			<Text>Obolla</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_PARTHIA_1560">
 			<Text>Babylon</Text>
@@ -4695,7 +4695,7 @@
 			<Text>Artemita</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_PARTHIA_1565">
-			<Text>Forat</Text>
+			<Text>Forat Meshan</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_PARTHIA_1566">
 			<Text>Neh</Text>
@@ -4707,7 +4707,7 @@
 			<Text>Shiragan</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_PARTHIA_1569">
-			<Text>Nahavand</Text>
+			<Text>Shapurkhwast</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_PARTHIA_1570">
 			<Text>Arbela</Text>
@@ -4716,7 +4716,7 @@
 			<Text>Behistun</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_PARTHIA_1572">
-			<Text>Praaspa</Text>
+			<Text>Phraaspa</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_PARTHIA_1573">
 			<Text>Naqsh-e Rustam</Text>
@@ -4731,7 +4731,7 @@
 			<Text>Amol</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_PARTHIA_1577">
-			<Text>Zadracarta</Text>
+			<Text>Gonbad-e Kavus</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_PARTHIA_1578">
 			<Text>Harmozeia</Text>
@@ -4761,10 +4761,10 @@
 			<Text>Gazaka</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_PARTHIA_1587">
-			<Text>Thara</Text>
+			<Text>Choara</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_PARTHIA_1588">
-			<Text>Bezadbr</Text>
+			<Text>Khusrawgird</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_PARTHIA_1589">
 			<Text>Vispauzatis</Text>
@@ -4785,16 +4785,16 @@
 			<Text>Hirah</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_PARTHIA_1595">
-			<Text>Bast</Text>
+			<Text>Damavand</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_PARTHIA_1596">
-			<Text>Samangan</Text>
+			<Text>Royan</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_PARTHIA_1597">
 			<Text>Dinavar</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_PARTHIA_1598">
-			<Text>Shapurkhwast</Text>
+			<Text>Konjikala</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_DJSH_SELJUQ_1599">
 			<Text>Isfahan</Text>
@@ -4890,10 +4890,10 @@
 			<Text>Sari</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_DJSH_SELJUQ_1630">
-			<Text>Ardabil</Text>
+			<Text>Nain</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_DJSH_SELJUQ_1631">
-			<Text>Kashan</Text>
+			<Text>Damghan</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_DJSH_SELJUQ_1632">
 			<Text>Siraf</Text>
@@ -4902,7 +4902,7 @@
 			<Text>Termez</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_DJSH_SELJUQ_1634">
-			<Text>Borujerd</Text>
+			<Text>Saveh</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_DJSH_SELJUQ_1635">
 			<Text>Maragha</Text>
@@ -4923,7 +4923,7 @@
 			<Text>Zanjan</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_DJSH_SELJUQ_1641">
-			<Text>Alamur</Text>
+			<Text>Mahallat</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_DJSH_SELJUQ_1642">
 			<Text>Sabzevar</Text>
@@ -4950,7 +4950,7 @@
 			<Text>Sirjan</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_DJSH_SELJUQ_1650">
-			<Text>Ahvaz</Text>
+			<Text>Meybod</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_DJSH_SELJUQ_1651">
 			<Text>Lahijan</Text>
@@ -4992,181 +4992,181 @@
 			<Text>Otrar</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_DJSH_KAZAKH_1664">
-			<Text>Sayram</Text>
+			<Text>Sighnaq</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_DJSH_KAZAKH_1665">
-			<Text>Tashkent</Text>
+			<Text>Isfijab</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_DJSH_KAZAKH_1666">
-			<Text>Shymkent</Text>
+			<Text>Tashkent</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_DJSH_KAZAKH_1667">
-			<Text>Karaganda</Text>
+			<Text>Suzak</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_DJSH_KAZAKH_1668">
 			<Text>Taraz</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_DJSH_KAZAKH_1669">
-			<Text>Ashnas</Text>
+			<Text>Jand</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_DJSH_KAZAKH_1670">
-			<Text>Kuntobe</Text>
+			<Text>Ashnas</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_DJSH_KAZAKH_1671">
-			<Text>Ordubazar</Text>
+			<Text>Kultobe</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_DJSH_KAZAKH_1672">
-			<Text>Petropavl</Text>
+			<Text>Jankent</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_DJSH_KAZAKH_1673">
-			<Text>Uzkent</Text>
+			<Text>Ordubazar</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_DJSH_KAZAKH_1674">
-			<Text>Aktobe</Text>
+			<Text>Chirik-Rabat</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_DJSH_KAZAKH_1675">
-			<Text>Pavlodar</Text>
+			<Text>Uzkent</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_DJSH_KAZAKH_1676">
-			<Text>Aspara</Text>
+			<Text>Baba-Ata</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_DJSH_KAZAKH_1677">
-			<Text>Khujand</Text>
-		</Row>
-		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_DJSH_KAZAKH_1678">
 			<Text>Talkhiz</Text>
 		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_DJSH_KAZAKH_1678">
+			<Text>Aspara</Text>
+		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_DJSH_KAZAKH_1679">
-			<Text>Suyab</Text>
+			<Text>Khujand</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_DJSH_KAZAKH_1680">
-			<Text>Kayalyk</Text>
+			<Text>Sidak</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_DJSH_KAZAKH_1681">
-			<Text>Oskemen</Text>
-		</Row>
-		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_DJSH_KAZAKH_1682">
-			<Text>Kulan</Text>
-		</Row>
-		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_DJSH_KAZAKH_1683">
-			<Text>Semey</Text>
-		</Row>
-		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_DJSH_KAZAKH_1684">
-			<Text>Yaitsk</Text>
-		</Row>
-		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_DJSH_KAZAKH_1685">
-			<Text>Kostanay</Text>
-		</Row>
-		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_DJSH_KAZAKH_1686">
-			<Text>Kyzylorda</Text>
-		</Row>
-		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_DJSH_KAZAKH_1687">
-			<Text>Shed</Text>
-		</Row>
-		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_DJSH_KAZAKH_1688">
-			<Text>Temirtau</Text>
-		</Row>
-		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_DJSH_KAZAKH_1689">
-			<Text>Aktau</Text>
-		</Row>
-		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_DJSH_KAZAKH_1690">
 			<Text>Balasagun</Text>
 		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_DJSH_KAZAKH_1682">
+			<Text>Suyab</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_DJSH_KAZAKH_1683">
+			<Text>Kayalyk</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_DJSH_KAZAKH_1684">
+			<Text>Aktobe</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_DJSH_KAZAKH_1685">
+			<Text>Kulan</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_DJSH_KAZAKH_1686">
+			<Text>Karamergen</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_DJSH_KAZAKH_1687">
+			<Text>Akyrtas</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_DJSH_KAZAKH_1688">
+			<Text>Omek</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_DJSH_KAZAKH_1689">
+			<Text>Kostobe</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_DJSH_KAZAKH_1690">
+			<Text>Nevaket</Text>
+		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_DJSH_KAZAKH_1691">
-			<Text>Atyrau</Text>
+			<Text>Karaspan</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_DJSH_KAZAKH_1692">
-			<Text>Kokshetau</Text>
+			<Text>Mirtobe</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_DJSH_KAZAKH_1693">
-			<Text>Ekibastuz</Text>
+			<Text>Arsubaniket</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_DJSH_KAZAKH_1694">
-			<Text>Taldykorgan</Text>
+			<Text>Shymkent</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_DJSH_KAZAKH_1695">
-			<Text>Jezkazgan</Text>
+			<Text>Karaganda</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_DJSH_KAZAKH_1696">
-			<Text>Satbayev</Text>
+			<Text>Semey</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_DJSH_KAZAKH_1697">
-			<Text>Kazaly</Text>
+			<Text>Yaitsk</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_DJSH_KAZAKH_1698">
-			<Text>Alty-Kuduk</Text>
+			<Text>Pavlodar</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_DJSH_KAZAKH_1699">
-			<Text>Shalkar</Text>
+			<Text>Kostanay</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_DJSH_KAZAKH_1700">
-			<Text>Jarkent</Text>
+			<Text>Kyzylorda</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_DJSH_KAZAKH_1701">
-			<Text>Zaysan</Text>
+			<Text>Temirtau</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_DJSH_KAZAKH_1702">
-			<Text>Shemonaikha</Text>
+			<Text>Aktau</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_DJSH_KAZAKH_1703">
-			<Text>Ziryan</Text>
+			<Text>Atyrau</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_DJSH_KAZAKH_1704">
-			<Text>Shchuchye</Text>
+			<Text>Petropavl</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_DJSH_KAZAKH_1705">
-			<Text>Ridder</Text>
+			<Text>Ekibastuz</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_DJSH_KAZAKH_1706">
-			<Text>Kokshetay</Text>
+			<Text>Taldykorgan</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_DJSH_KAZAKH_1707">
-			<Text>Balqash</Text>
+			<Text>Jezkazgan</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_DJSH_KAZAKH_1708">
-			<Text>Nikolsk</Text>
+			<Text>Oskemen</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_DJSH_KAZAKH_1709">
-			<Text>Kentau</Text>
+			<Text>Nikolsk</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_DJSH_KAZAKH_1710">
-			<Text>Janaozen</Text>
+			<Text>Alty-Kuduk</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_DJSH_KAZAKH_1711">
-			<Text>Arqaliq</Text>
+			<Text>Shalkar</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_DJSH_KAZAKH_1712">
-			<Text>Shahtinsk</Text>
+			<Text>Jarkent</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_DJSH_KAZAKH_1713">
-			<Text>Saran</Text>
+			<Text>Zaysan</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_DJSH_KAZAKH_1714">
-			<Text>Stepnogor</Text>
+			<Text>Shemonaikha</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_DJSH_KAZAKH_1715">
-			<Text>Baikonur</Text>
+			<Text>Ziryan</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_DJSH_KAZAKH_1716">
-			<Text>Saryagas</Text>
+			<Text>Shchuchye</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_DJSH_KAZAKH_1717">
-			<Text>Jetisay</Text>
+			<Text>Ridder</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_DJSH_KAZAKH_1718">
-			<Text>Shardara</Text>
+			<Text>Kokshetau</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_DJSH_KAZAKH_1719">
-			<Text>Shonzhy</Text>
+			<Text>Baikonur</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_SAMOYED_1720">
 			<Text>Nadym</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_SAMOYED_1721">
-			<Text>Nyar''yana Marq</Text>
+			<Text>Nyar'yana Marq</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_SAMOYED_1722">
-			<Text>Salya'' Harad</Text>
+			<Text>Salya' Harad</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_SAMOYED_1723">
 			<Text>Tarko-Sale</Text>
@@ -5187,7 +5187,7 @@
 			<Text>Khalmer-Sede</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_SAMOYED_1729">
-			<Text>Tut''in</Text>
+			<Text>Tut'in</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_SAMOYED_1730">
 			<Text>Inta</Text>
@@ -5214,7 +5214,7 @@
 			<Text>Vanuita</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_SAMOYED_1738">
-			<Text>Khariutschi</Text>
+			<Text>Saneroyaha</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_SAMOYED_1739">
 			<Text>Serpiva</Text>
@@ -5274,13 +5274,13 @@
 			<Text>Vylla</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_SAMOYED_1758">
-			<Text>Serrotetto</Text>
+			<Text>Novy Urengoy</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_SAMOYED_1759">
 			<Text>Iskateley</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_SAMOYED_1760">
-			<Text>Saneroyaha</Text>
+			<Text>Varnek</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_SAMOYED_1761">
 			<Text>Vaigach</Text>
@@ -5289,7 +5289,7 @@
 			<Text>Muravlenko</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_SAMOYED_1763">
-			<Text>Ustkara</Text>
+			<Text>Ust'-kara</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_SAMOYED_1764">
 			<Text>Kharuta</Text>
@@ -5325,7 +5325,7 @@
 			<Text>Kharp</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_SAMOYED_1775">
-			<Text>Novy Urengoy</Text>
+			<Text>Nyda</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_SAMOYED_1776">
 			<Text>Khe</Text>
@@ -5352,7 +5352,7 @@
 			<Text>Khalmer-Yu</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_SAMOYED_1784">
-			<Text>Yary</Text>
+			<Text>Pangody</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_SAMOYED_1785">
 			<Text>Vorontsovo</Text>
@@ -5361,7 +5361,7 @@
 			<Text>Kathmandu</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_NEPAL_LS_MOD_1787">
-			<Text>Gorkha Durbar</Text>
+			<Text>Gorkha</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_NEPAL_LS_MOD_1788">
 			<Text>Pokhara</Text>
@@ -5394,7 +5394,7 @@
 			<Text>Tansen</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_NEPAL_LS_MOD_1798">
-			<Text>Birganj</Text>
+			<Text>Gahawa</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_NEPAL_LS_MOD_1799">
 			<Text>Simroungarh</Text>
@@ -5415,7 +5415,7 @@
 			<Text>Dhulikhel</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_NEPAL_LS_MOD_1805">
-			<Text>Bhim Datta</Text>
+			<Text>Mahendranagar</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_NEPAL_LS_MOD_1806">
 			<Text>Manakamana</Text>
@@ -5451,13 +5451,13 @@
 			<Text>Nepalganj</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_NEPAL_LS_MOD_1817">
-			<Text>Triyuga</Text>
+			<Text>Gaighat</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_NEPAL_LS_MOD_1818">
-			<Text>Kirtipur</Text>
+			<Text>Namche Bazaar</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_NEPAL_LS_MOD_1819">
-			<Text>Siddharthanagar</Text>
+			<Text>Bhairahawa</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_NEPAL_LS_MOD_1820">
 			<Text>Ghorahi</Text>
@@ -5466,7 +5466,7 @@
 			<Text>Lekhnath</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_NEPAL_LS_MOD_1822">
-			<Text>Mechinagar</Text>
+			<Text>Dhulabari</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_NEPAL_LS_MOD_1823">
 			<Text>Tikapur</Text>
@@ -5487,19 +5487,19 @@
 			<Text>Kuti</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_NEPAL_LS_MOD_1829">
-			<Text>Butwal</Text>
+			<Text>Tengboche</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_NEPAL_LS_MOD_1830">
 			<Text>Manma</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_NEPAL_LS_MOD_1831">
-			<Text>Tulspur</Text>
+			<Text>Tulsipur</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_NEPAL_LS_MOD_1832">
-			<Text>Chandannath</Text>
+			<Text>Khasa</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_NEPAL_LS_MOD_1833">
-			<Text>Kushma</Text>
+			<Text>Kusma</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_NEPAL_LS_MOD_1834">
 			<Text>Baglung</Text>
@@ -5523,10 +5523,10 @@
 			<Text>Pyuthan</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_NEPAL_LS_MOD_1841">
-			<Text>Vyas</Text>
+			<Text>Damauli</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_NEPAL_LS_MOD_1842">
-			<Text>Wot</Text>
+			<Text>Lukla</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_NEPAL_LS_MOD_1843">
 			<Text>Baitadi</Text>
@@ -5538,7 +5538,7 @@
 			<Text>Simikot</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_NEPAL_LS_MOD_1846">
-			<Text>Maila</Text>
+			<Text>Hilsa</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_NEPAL_LS_MOD_1847">
 			<Text>Dullu</Text>
@@ -5550,13 +5550,13 @@
 			<Text>Dipayal Silgadhi</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_NEPAL_LS_MOD_1850">
-			<Text>Manthali</Text>
+			<Text>Taklakot</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_NEPAL_LS_MOD_1851">
 			<Text>Phidim</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_NEPAL_LS_MOD_1852">
-			<Text>Devighat</Text>
+			<Text>Devghat</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_INDIRA_GANDHI_1853">
 			<Text>Delhi</Text>
@@ -5682,7 +5682,7 @@
 			<Text>Agartala</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_INDIRA_GANDHI_1894">
-			<Text>Cuttack</Text>
+			<Text>Mysore</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_INDIRA_GANDHI_1895">
 			<Text>Aizawl</Text>
@@ -5706,7 +5706,7 @@
 			<Text>Aligarh</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_INDIRA_GANDHI_1902">
-			<Text>Kannauj</Text>
+			<Text>Jabalpur</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_INDIRA_GANDHI_1903">
 			<Text>Jhansi</Text>
@@ -5808,7 +5808,7 @@
 			<Text>Aundh</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_MC_MARATHA_1936">
-			<Text>Palkhed</Text>
+			<Text>Nashik</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_MC_MARATHA_1937">
 			<Text>Ahmednagar</Text>
@@ -5841,7 +5841,7 @@
 			<Text>Katak</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_MC_MARATHA_1947">
-			<Text>Vishalgad</Text>
+			<Text>Nanded</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_MC_MARATHA_1948">
 			<Text>Raipur</Text>
@@ -5850,7 +5850,7 @@
 			<Text>Phaltan</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_MC_MARATHA_1950">
-			<Text>Sinhagad</Text>
+			<Text>Solapur</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_MC_MARATHA_1951">
 			<Text>Bilaspur</Text>
@@ -5880,7 +5880,7 @@
 			<Text>Gadha-Mandla</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_MC_MARATHA_1960">
-			<Text>Badayun</Text>
+			<Text>Budaun</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_MC_MARATHA_1961">
 			<Text>Chandrapur</Text>
@@ -5946,13 +5946,13 @@
 			<Text>Bhir</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_MC_MARATHA_1982">
-			<Text>Solapur</Text>
+			<Text>Latur</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_MC_MARATHA_1983">
-			<Text>Madgiri</Text>
+			<Text>Madhugiri</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_MC_MARATHA_1984">
-			<Text>Gajendragad</Text>
+			<Text>Amravati</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_MC_MARATHA_1985">
 			<Text>Kharda</Text>
@@ -5967,13 +5967,13 @@
 			<Text>Jaruud</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_KHAMUG_1989">
-			<Text>Ba''arin</Text>
+			<Text>Ba'arin</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_KHAMUG_1990">
 			<Text>Barlas</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_KHAMUG_1991">
-			<Text>Bula''at</Text>
+			<Text>Buda'at</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_KHAMUG_1992">
 			<Text>Adarkin</Text>
@@ -5982,13 +5982,13 @@
 			<Text>Telenguut</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_KHAMUG_1994">
-			<Text>Uru''ut</Text>
+			<Text>Uru'ut</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_KHAMUG_1995">
 			<Text>Manghut</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_KHAMUG_1996">
-			<Text>Taichi''ut</Text>
+			<Text>Taichi'ut</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_KHAMUG_1997">
 			<Text>Suldusun</Text>
@@ -6006,16 +6006,16 @@
 			<Text>Sunud</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_KHAMUG_2002">
-			<Text>Mandalgovi</Text>
+			<Text>Khongkhotan</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_KHAMUG_2003">
-			<Text>Khabturkas</Text>
+			<Text>Khabturkhas</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_KHAMUG_2004">
 			<Text>Khadagin</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_KHAMUG_2005">
-			<Text>Kaimish</Text>
+			<Text>Uriankhai</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_KHAMUG_2006">
 			<Text>Toghta</Text>
@@ -6039,13 +6039,13 @@
 			<Text>Khinggiadai</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_KHAMUG_2013">
-			<Text>Oronar</Text>
+			<Text>Gheniges</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_KHAMUG_2014">
-			<Text>Hay-Aryag</Text>
+			<Text>Yurki</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_KHAMUG_2015">
-			<Text>Nalayh</Text>
+			<Text>Kiyat</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_KHAMUG_2016">
 			<Text>Jalair</Text>
@@ -6054,7 +6054,7 @@
 			<Text>Nokhos</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_KHAMUG_2018">
-			<Text>Uriankhai</Text>
+			<Text>Kaimish</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_KHAMUG_2019">
 			<Text>Noyakin</Text>
@@ -6093,7 +6093,7 @@
 			<Text>Oirad</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_KHAMUG_2031">
-			<Text>Airiut</Text>
+			<Text>Airi'ut</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_KHAMUG_2032">
 			<Text>Borjigin</Text>
@@ -6114,16 +6114,16 @@
 			<Text>Gorlos</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_KHAMUG_2038">
-			<Text>Bishi''ut</Text>
+			<Text>Bishi'ut</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_KHAMUG_2039">
 			<Text>Ebugedjin</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_KHAMUG_2040">
-			<Text>Kharta''at</Text>
+			<Text>Kharta'at</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_KHAMUG_2041">
-			<Text>Tokhura''ut</Text>
+			<Text>Tokhura'ut</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_KHAMUG_2042">
 			<Text>Negus</Text>
@@ -6132,16 +6132,16 @@
 			<Text>Khardakit</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_KHAMUG_2044">
-			<Text>Oronar</Text>
+			<Text>Jurkhin</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_KHAMUG_2045">
-			<Text>Arulat</Text>
+			<Text>Buriu'ut</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_KHAMUG_2046">
 			<Text>Tarkhut</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_KHAMUG_2047">
-			<Text>Khongirad</Text>
+			<Text>Ikhires</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_KHAMUG_2048">
 			<Text>Uduyid</Text>
@@ -6165,7 +6165,7 @@
 			<Text>Vanavara</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_SENSHI_EVENKS_2055">
-			<Text>Aologuya</Text>
+			<Text>Aoluguya</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_SENSHI_EVENKS_2056">
 			<Text>Yakesa</Text>
@@ -6189,7 +6189,7 @@
 			<Text>Tulihe</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_SENSHI_EVENKS_2063">
-			<Text>Erbogachen</Text>
+			<Text>Yerbogachen</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_SENSHI_EVENKS_2064">
 			<Text>Kochechum</Text>
@@ -6198,7 +6198,7 @@
 			<Text>Alihe</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_SENSHI_EVENKS_2066">
-			<Text>Ebenchime</Text>
+			<Text>Embenchime</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_SENSHI_EVENKS_2067">
 			<Text>Taimura</Text>
@@ -6279,7 +6279,7 @@
 			<Text>Uchami</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_SENSHI_EVENKS_2093">
-			<Text>Chemdal''sk</Text>
+			<Text>Chemdal'sk</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_SENSHI_EVENKS_2094">
 			<Text>Nepa</Text>
@@ -6291,67 +6291,67 @@
 			<Text>Baunt</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_SENSHI_EVENKS_2097">
-			<Text>Talocha</Text>
+			<Text>Chumikan</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_SENSHI_EVENKS_2098">
 			<Text>Barguzin</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_SENSHI_EVENKS_2099">
-			<Text>Tungukochan</Text>
+			<Text>Tugur</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_SENSHI_EVENKS_2100">
-			<Text>Nercha</Text>
+			<Text>Porog</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_SENSHI_EVENKS_2101">
 			<Text>Tokko</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_SENSHI_EVENKS_2102">
-			<Text>Olyokma</Text>
+			<Text>Olyokminsk</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_SENSHI_EVENKS_2103">
 			<Text>Vitim</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_SENSHI_EVENKS_2104">
-			<Text>Tungir</Text>
+			<Text>Aim</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_SENSHI_EVENKS_2105">
 			<Text>Khingan</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_SENSHI_EVENKS_2106">
-			<Text>Chul''man</Text>
+			<Text>Chul'man</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_SENSHI_EVENKS_2107">
 			<Text>Zeya</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_SENSHI_EVENKS_2108">
-			<Text>Uchur</Text>
+			<Text>Aldan</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_SENSHI_EVENKS_2109">
 			<Text>Ayan</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_SENSHI_EVENKS_2110">
-			<Text>Nel''kan</Text>
+			<Text>Nel'kan</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_SENSHI_EVENKS_2111">
-			<Text>Totti</Text>
+			<Text>Nakanno</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_SENSHI_EVENKS_2112">
-			<Text>Mai</Text>
+			<Text>Tutonchany</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_SENSHI_EVENKS_2113">
-			<Text>Chumikan</Text>
+			<Text>Nerchinsk</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_SENSHI_EVENKS_2114">
 			<Text>Tommot</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_SENSHI_EVENKS_2115">
-			<Text>Chul''man-Gilyui</Text>
+			<Text>Chul'man-Gilyui</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_SENSHI_EVENKS_2116">
 			<Text>Dzheltulak</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_SENSHI_EVENKS_2117">
-			<Text>Timpton</Text>
+			<Text>Tynda</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_QIN_2118">
 			<Text>Xianyang</Text>
@@ -6390,7 +6390,7 @@
 			<Text>Wanxian</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_QIN_2130">
-			<Text>Changzi</Text>
+			<Text>Changzhi</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_QIN_2131">
 			<Text>Luoyang</Text>
@@ -6423,7 +6423,7 @@
 			<Text>Julu</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_QIN_2141">
-			<Text>Yuyang</Text>
+			<Text>Yiqu</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_QIN_2142">
 			<Text>Wuzhong</Text>
@@ -6435,7 +6435,7 @@
 			<Text>Yongqiu</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_QIN_2145">
-			<Text>Luxian</Text>
+			<Text>Lixia</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_QIN_2146">
 			<Text>Shouchun</Text>
@@ -6444,7 +6444,7 @@
 			<Text>Daixian</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_QIN_2148">
-			<Text>Yangzhai</Text>
+			<Text>Tan</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_QIN_2149">
 			<Text>Linxiang</Text>
@@ -6459,13 +6459,13 @@
 			<Text>Langya</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_QIN_2153">
-			<Text>Jixian</Text>
+			<Text>Erqu</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_QIN_2154">
 			<Text>Chenxian</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_QIN_2155">
-			<Text>Dongye</Text>
+			<Text>Cangwu</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_QIN_2156">
 			<Text>Guilin</Text>
@@ -6477,7 +6477,7 @@
 			<Text>Jiuyuan</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_QIN_2159">
-			<Text>Boyang</Text>
+			<Text>Poyang</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_QIN_2160">
 			<Text>Jimo</Text>
@@ -6498,19 +6498,19 @@
 			<Text>Pengcheng</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_QIN_2166">
-			<Text>Shouchun</Text>
+			<Text>Linqing</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_QIN_2167">
 			<Text>Xinzheng</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_QIN_2168">
-			<Text>Yingqiu</Text>
+			<Text>Guangling</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_QIN_2169">
-			<Text>Bogu</Text>
+			<Text>Pugu</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_QIN_2170">
-			<Text>Yanjing</Text>
+			<Text>Shanggu</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_QIN_2171">
 			<Text>Meili</Text>
@@ -6519,7 +6519,7 @@
 			<Text>Qufu</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_QIN_2173">
-			<Text>Changping</Text>
+			<Text>Wancheng</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_QIN_2174">
 			<Text>Guzhu</Text>
@@ -6528,19 +6528,19 @@
 			<Text>Kuaiji</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_QIN_2176">
-			<Text>Gusu</Text>
+			<Text>Dongyuan</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_QIN_2177">
-			<Text>Jinyang</Text>
+			<Text>Danyang</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_QIN_2178">
 			<Text>Minzhong</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_QIN_2179">
-			<Text>Jimo</Text>
+			<Text>Xiaopei</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_QIN_2180">
-			<Text>Linchen</Text>
+			<Text>Yicheng</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_QIN_2181">
 			<Text>Xiangping</Text>
@@ -6549,28 +6549,28 @@
 			<Text>Yangle</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_QIN_2183">
-			<Text>Hedong</Text>
+			<Text>Wangcheng</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_QIN_2184">
-			<Text>Shanwu</Text>
+			<Text>Langya</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_QIN_2185">
 			<Text>Yinguan</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_QIN_2186">
-			<Text>Hengshan</Text>
+			<Text>Taoqiu</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_QIN_2187">
-			<Text>Nan</Text>
+			<Text>Ying</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_QIN_2188">
-			<Text>Beidi</Text>
+			<Text>Qianzhong</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_JFD_QING_2189">
 			<Text>Beijing</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_JFD_QING_2190">
-			<Text>Anqing</Text>
+			<Text>Mukden</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_JFD_QING_2191">
 			<Text>Hangzhou</Text>
@@ -6606,7 +6606,7 @@
 			<Text>Jinan</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_JFD_QING_2202">
-			<Text>Xi''an</Text>
+			<Text>Xi'an</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_JFD_QING_2203">
 			<Text>Chengdu</Text>
@@ -6615,7 +6615,7 @@
 			<Text>Yunnan-fu</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_JFD_QING_2205">
-			<Text>Fengtian</Text>
+			<Text>Anqing</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_JFD_QING_2206">
 			<Text>Qiqihar</Text>
@@ -6627,7 +6627,7 @@
 			<Text>Uliastai</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_JFD_QING_2209">
-			<Text>Hohhot</Text>
+			<Text>Suiyuan</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_JFD_QING_2210">
 			<Text>Xining</Text>
@@ -6636,7 +6636,7 @@
 			<Text>Taiwan-fu</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_JFD_QING_2212">
-			<Text>Shengjing</Text>
+			<Text>Jinzhou</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_JFD_QING_2213">
 			<Text>Ningyuan</Text>
@@ -6651,7 +6651,7 @@
 			<Text>Xiamen</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_JFD_QING_2217">
-			<Text>Fuzhou</Text>
+			<Text>Luzhou</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_JFD_QING_2218">
 			<Text>Ningbo</Text>
@@ -6672,16 +6672,16 @@
 			<Text>Kashgar</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_JFD_QING_2224">
-			<Text>Jiangning</Text>
+			<Text>Aletai</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_JFD_QING_2225">
 			<Text>Haishenwai</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_JFD_QING_2226">
-			<Text>Yakesa</Text>
+			<Text>Beizi</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_JFD_QING_2227">
-			<Text>Kuku-Khoto</Text>
+			<Text>Zhangjiakou</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_JFD_QING_2228">
 			<Text>Chongqing</Text>
@@ -6693,7 +6693,7 @@
 			<Text>Shigatse</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_JFD_QING_2231">
-			<Text>Ili</Text>
+			<Text>Zhengzhou</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_JFD_QING_2232">
 			<Text>Hanyang</Text>
@@ -6714,19 +6714,19 @@
 			<Text>Qingdao</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_JFD_QING_2238">
-			<Text>Xilinhot</Text>
+			<Text>Hami</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_JFD_QING_2239">
-			<Text>Altay</Text>
+			<Text>Kobdo</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_JFD_QING_2240">
 			<Text>Bayanhot</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_JFD_QING_2241">
-			<Text>Zhangjiakou</Text>
+			<Text>Wenzhou</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_JFD_QING_2242">
-			<Text>Ikh Khüree</Text>
+			<Text>Zhoushan</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_JFD_QING_2243">
 			<Text>Hankou</Text>
@@ -6750,10 +6750,10 @@
 			<Text>Qiongshan</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_JFD_QING_2250">
-			<Text>Dalian</Text>
+			<Text>Qingniwa</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_JFD_QING_2251">
-			<Text>Weihai</Text>
+			<Text>Weihaiwei</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_JFD_QING_2252">
 			<Text>Yinchuan</Text>
@@ -6762,7 +6762,7 @@
 			<Text>Datong</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_JFD_QING_2254">
-			<Text>Yantai</Text>
+			<Text>Zhifu</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_SENSHI_KOREA_2255">
 			<Text>Hanseong</Text>
@@ -6780,7 +6780,7 @@
 			<Text>Jeonju</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_SENSHI_KOREA_2260">
-			<Text>Jinji</Text>
+			<Text>Jinju</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_SENSHI_KOREA_2261">
 			<Text>Sangju</Text>
@@ -6816,7 +6816,7 @@
 			<Text>Tamna</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_SENSHI_KOREA_2272">
-			<Text>Jemulpo</Text>
+			<Text>Incheon</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_SENSHI_KOREA_2273">
 			<Text>Busosanseong</Text>
@@ -6828,19 +6828,19 @@
 			<Text>Gaesong</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_SENSHI_KOREA_2276">
-			<Text>Wiryeseong</Text>
+			<Text>Suwon</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_SENSHI_KOREA_2277">
-			<Text>Inju</Text>
+			<Text>Gimje</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_SENSHI_KOREA_2278">
-			<Text>Hamhung</Text>
+			<Text>Naju</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_SENSHI_KOREA_2279">
 			<Text>Haeju</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_SENSHI_KOREA_2280">
-			<Text>Donglae</Text>
+			<Text>Dongnae</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_SENSHI_KOREA_2281">
 			<Text>Chungju</Text>
@@ -6855,7 +6855,7 @@
 			<Text>Noryang</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_SENSHI_KOREA_2285">
-			<Text>Chilchonryang</Text>
+			<Text>Chilcheollyang</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_SENSHI_KOREA_2286">
 			<Text>Dosan</Text>
@@ -6864,19 +6864,19 @@
 			<Text>Gwangju</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_SENSHI_KOREA_2288">
-			<Text>Jeongeop</Text>
+			<Text>Jeongeup</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_SENSHI_KOREA_2289">
 			<Text>Geomundo</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_SENSHI_KOREA_2290">
-			<Text>Iksan</Text>
+			<Text>Iri</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_SENSHI_KOREA_2291">
 			<Text>Paju</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_SENSHI_KOREA_2292">
-			<Text>Songnim</Text>
+			<Text>Sokcho</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_SENSHI_KOREA_2293">
 			<Text>Jecheon</Text>
@@ -6885,7 +6885,7 @@
 			<Text>Gimhae</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_SENSHI_KOREA_2295">
-			<Text>Puyo</Text>
+			<Text>Hansan</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_SENSHI_KOREA_2296">
 			<Text>Mokpo</Text>
@@ -6894,16 +6894,16 @@
 			<Text>Donghae</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_SENSHI_KOREA_2298">
-			<Text>Kimchaek</Text>
+			<Text>Songjin</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_SENSHI_KOREA_2299">
 			<Text>Ulsan</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_SENSHI_KOREA_2300">
-			<Text>Tongnae</Text>
+			<Text>Miryang</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_SENSHI_KOREA_2301">
-			<Text>Ungchon</Text>
+			<Text>Namwon</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_SENSHI_KOREA_2302">
 			<Text>Daemado</Text>
@@ -6912,10 +6912,10 @@
 			<Text>Wonsan</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_SENSHI_KOREA_2304">
-			<Text>Haeju</Text>
+			<Text>Kanggye</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_SENSHI_KOREA_2305">
-			<Text>Songjin</Text>
+			<Text>Yeongju</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_SENSHI_KOREA_2306">
 			<Text>Cheongju</Text>
@@ -6927,7 +6927,7 @@
 			<Text>Chuncheon</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_SENSHI_KOREA_2309">
-			<Text>Hwaseong</Text>
+			<Text>Wiryeseong</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_SENSHI_KOREA_2310">
 			<Text>Cheonan</Text>
@@ -6939,7 +6939,7 @@
 			<Text>Yeosu</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_SENSHI_KOREA_2313">
-			<Text>Seungpyeong</Text>
+			<Text>Seungju</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_SENSHI_KOREA_2314">
 			<Text>Jindo</Text>
@@ -7056,7 +7056,7 @@
 			<Text>Iyo-Uwa</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_TOSA_2352">
-			<Text>Kan’onji</Text>
+			<Text>Kan'onji</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_TOSA_2353">
 			<Text>Anabuki</Text>
@@ -7206,7 +7206,7 @@
 			<Text>Wan Fau</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_CANTON_PIRATES_2402">
-			<Text>Chung Shan</Text>
+			<Text>Shek Ki</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_CANTON_PIRATES_2403">
 			<Text>Ho Yuen</Text>
@@ -7224,19 +7224,19 @@
 			<Text>Lamma</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_CANTON_PIRATES_2408">
-			<Text>Taipa</Text>
+			<Text>Tam Chai</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_CANTON_PIRATES_2409">
-			<Text>Coloane</Text>
+			<Text>Lou Wan</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_CANTON_PIRATES_2410">
 			<Text>Shun Tak</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_CANTON_PIRATES_2411">
-			<Text>Kau Kong</Text>
+			<Text>Hok Shan</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_CANTON_PIRATES_2412">
-			<Text>Pun Yu</Text>
+			<Text>Punyu</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_CANTON_PIRATES_2413">
 			<Text>Wan Chai</Text>
@@ -7290,10 +7290,10 @@
 			<Text>Chung Fa</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_CANTON_PIRATES_2430">
-			<Text>Shek Ki</Text>
+			<Text>Fa Yun</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_CANTON_PIRATES_2431">
-			<Text>Lo Wu</Text>
+			<Text>Tai Wai</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_CANTON_PIRATES_2432">
 			<Text>Tuen Mun</Text>
@@ -7308,10 +7308,10 @@
 			<Text>Ko Ming</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_CANTON_PIRATES_2436">
-			<Text>Hok Shan</Text>
+			<Text>Sun Wui</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_CANTON_PIRATES_2437">
-			<Text>Po On</Text>
+			<Text>Nam Tau</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_CANTON_PIRATES_2438">
 			<Text>Tsing Yun</Text>
@@ -7334,11 +7334,14 @@
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_CANTON_PIRATES_2444">
 			<Text>Kowloon Walled City</Text>
 		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_TAUNGOO_2444">
+			<Text>Bago</Text>
+		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_TAUNGOO_2445">
 			<Text>Taungoo</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_TAUNGOO_2446">
-			<Text>Hanthawaddy</Text>
+			<Text>Pantanaw</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_TAUNGOO_2447">
 			<Text>Pyay</Text>
@@ -7362,7 +7365,7 @@
 			<Text>Bhamo</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_TAUNGOO_2454">
-			<Text>Megui</Text>
+			<Text>Mergui</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_TAUNGOO_2455">
 			<Text>Dawei</Text>
@@ -7401,10 +7404,10 @@
 			<Text>Mogaung</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_TAUNGOO_2467">
-			<Text>Kalei</Text>
+			<Text>Kale</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_TAUNGOO_2468">
-			<Text>Mo''ne</Text>
+			<Text>Mo'ne</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_TAUNGOO_2469">
 			<Text>Nyaungshwe</Text>
@@ -7419,19 +7422,19 @@
 			<Text>Ayoddhaya</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_TAUNGOO_2473">
-			<Text>Taninthari</Text>
+			<Text>Tanintharyi</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_TAUNGOO_2474">
 			<Text>Pakhan</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_TAUNGOO_2475">
-			<Text>Zin''me</Text>
+			<Text>Zin'me</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_TAUNGOO_2476">
 			<Text>Biyinkyan</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_TAUNGOO_2477">
-			<Text>Kyaing Toan</Text>
+			<Text>Kyaing Tong</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_TAUNGOO_2478">
 			<Text>Thaton</Text>
@@ -7452,13 +7455,13 @@
 			<Text>Hlegu</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_TAUNGOO_2484">
-			<Text>Ngathayuk</Text>
+			<Text>Ngathayauk</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_TAUNGOO_2485">
 			<Text>Pinya</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_TAUNGOO_2486">
-			<Text>Htihlaing</Text>
+			<Text>Hanlin</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_TAUNGOO_2487">
 			<Text>Myinsaing</Text>
@@ -7470,7 +7473,7 @@
 			<Text>Hinthada</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_TAUNGOO_2490">
-			<Text>Sagaing</Text>
+			<Text>Moksobo</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_TAUNGOO_2491">
 			<Text>Myedu</Text>
@@ -7479,7 +7482,7 @@
 			<Text>Aunglan</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_TAUNGOO_2493">
-			<Text>Singu</Text>
+			<Text>Amarapura</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_TAUNGOO_2494">
 			<Text>Zin Yaing</Text>
@@ -7530,7 +7533,7 @@
 			<Text>Myauk Oo</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_TAUNGOO_2510">
-			<Text>Thanlwin</Text>
+			<Text>Yadanabon</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_CB_SULU_2511">
 			<Text>Bauang</Text>
@@ -7548,7 +7551,7 @@
 			<Text>Patikul</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_CB_SULU_2516">
-			<Text>Taguima</Text>
+			<Text>Kumalarang</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_CB_SULU_2517">
 			<Text>Talipao</Text>
@@ -7584,7 +7587,7 @@
 			<Text>Bongao</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_CB_SULU_2528">
-			<Text>Panglima Sugala</Text>
+			<Text>Balimbing</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_CB_SULU_2529">
 			<Text>Kinabatangan</Text>
@@ -7626,7 +7629,7 @@
 			<Text>Tapul</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_CB_SULU_2542">
-			<Text>Tipo-tipo</Text>
+			<Text>Tipo-Tipo</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_CB_SULU_2543">
 			<Text>Kudat</Text>
@@ -7635,7 +7638,7 @@
 			<Text>Mapun</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_CB_SULU_2545">
-			<Text>Banguingui</Text>
+			<Text>Taung</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_CB_SULU_2546">
 			<Text>Kunak</Text>
@@ -7707,16 +7710,16 @@
 			<Text>Manamoc</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_CB_SULU_2569">
-			<Text>Layag-Layag</Text>
+			<Text>Ranau</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_CB_SULU_2570">
 			<Text>Pata</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_CB_SULU_2571">
-			<Text>Ubian</Text>
+			<Text>Hadji Muhtamad</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_CB_SULU_2572">
-			<Text>Magsaysay</Text>
+			<Text>Lucbuan</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_CB_SULU_2573">
 			<Text>Kota Marudu</Text>
@@ -7773,7 +7776,7 @@
 			<Text>Barakau</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_PAPUA_2591">
-			<Text>Dobi</Text>
+			<Text>Koka</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_PAPUA_2592">
 			<Text>Koderika</Text>
@@ -7791,7 +7794,7 @@
 			<Text>Boteka</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_PAPUA_2597">
-			<Text>Rearea</Text>
+			<Text>Papa</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_PAPUA_2598">
 			<Text>Gairi</Text>
@@ -7800,7 +7803,7 @@
 			<Text>Gabagaba</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_PAPUA_2600">
-			<Text>Badihagua</Text>
+			<Text>Badihagwa</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_PAPUA_2601">
 			<Text>Gorohu</Text>
@@ -7827,7 +7830,7 @@
 			<Text>Kido</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_PAPUA_2609">
-			<Text>Papa</Text>
+			<Text>Taurama</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_PAPUA_2610">
 			<Text>Konekaru</Text>
@@ -7848,7 +7851,7 @@
 			<Text>Buegarara</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_PAPUA_2616">
-			<Text>Roko</Text>
+			<Text>Arawa</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_PAPUA_2617">
 			<Text>Eholasi</Text>
@@ -7995,7 +7998,7 @@
 			<Text>Mudgeeraba</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_CL_MURRI_2665">
-			<Text>K''gari</Text>
+			<Text>K'gari</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_CL_MURRI_2666">
 			<Text>Tambo</Text>
@@ -8040,7 +8043,7 @@
 			<Text>Murrurundi</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_CL_MURRI_2680">
-			<Text>Dahbalam</Text>
+			<Text>Jubullum</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_CL_MURRI_2681">
 			<Text>Coowonga</Text>
@@ -8067,10 +8070,10 @@
 			<Text>Bulimba</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_CL_MURRI_2689">
-			<Text>Indooroopilly</Text>
+			<Text>Nyindudupilli</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_CL_MURRI_2690">
-			<Text>Enoggera</Text>
+			<Text>Euoggera</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_CL_MURRI_2691">
 			<Text>Toowong</Text>
@@ -8091,16 +8094,16 @@
 			<Text>Boggabilla</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_CL_MURRI_2697">
-			<Text>Goanna</Text>
+			<Text>Moorooka</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_CL_MURRI_2698">
 			<Text>Iluka</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_CL_MURRI_2699">
-			<Text>Jubulum</Text>
+			<Text>Yekkabin</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_CL_MURRI_2700">
-			<Text>Nimbin</Text>
+			<Text>Binkinba</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_CL_MURRI_2701">
 			<Text>Jalgumbun</Text>
@@ -8289,7 +8292,7 @@
 			<Text>Goulburn</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_SENSHI_HAWKE_2763">
-			<Text>Boodarie</Text>
+			<Text>Rockingham</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_SENSHI_HAWKE_2764">
 			<Text>Port Lincoln</Text>
@@ -8409,10 +8412,10 @@
 			<Text>Hawera</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_JFD_NEW_ZEALAND_2803">
-			<Text>Plimmerton</Text>
+			<Text>Porirua</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_JFD_NEW_ZEALAND_2804">
-			<Text>Porirua</Text>
+			<Text>Plimmerton</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_JFD_NEW_ZEALAND_2805">
 			<Text>Stratford</Text>
@@ -8421,10 +8424,10 @@
 			<Text>Motueka</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_JFD_NEW_ZEALAND_2807">
-			<Text>Balmoral</Text>
+			<Text>Takapuna</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_JFD_NEW_ZEALAND_2808">
-			<Text>Cashmere</Text>
+			<Text>Kaiapoi</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_JFD_NEW_ZEALAND_2809">
 			<Text>Gore</Text>
@@ -8433,7 +8436,7 @@
 			<Text>Westport</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_JFD_NEW_ZEALAND_2811">
-			<Text>Manly</Text>
+			<Text>Whangaparaoa</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_JFD_NEW_ZEALAND_2812">
 			<Text>Taupo</Text>
@@ -8481,13 +8484,13 @@
 			<Text>Kawakawa</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_JFD_NEW_ZEALAND_2827">
-			<Text>Nuhaka</Text>
+			<Text>Wairoa</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_JFD_NEW_ZEALAND_2828">
-			<Text>Arthur''s Pass</Text>
+			<Text>Arthur's Pass</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_JFD_NEW_ZEALAND_2829">
-			<Text>Peketa</Text>
+			<Text>Levin</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_JFD_NEW_ZEALAND_2830">
 			<Text>Ashburton</Text>
@@ -8532,22 +8535,22 @@
 			<Text>Atafu</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_TONGA_2844">
-			<Text>Nuku''alofa</Text>
+			<Text>Nuku'alofa</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_TONGA_2845">
 			<Text>Neiafu</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_TONGA_2846">
-			<Text>Mu''a</Text>
+			<Text>Mu'a</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_TONGA_2847">
-			<Text>Tongoleleka</Text>
+			<Text>Pangai</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_TONGA_2848">
-			<Text>Lifuka</Text>
+			<Text>'Uiha</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_TONGA_2849">
-			<Text>Tofoa-Koloua</Text>
+			<Text>Tofoa</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_TONGA_2850">
 			<Text>Haveluloto</Text>
@@ -8556,10 +8559,10 @@
 			<Text>Vaini</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_TONGA_2852">
-			<Text>Pangai</Text>
+			<Text>Tongoleleka</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_TONGA_2853">
-			<Text>''Ohonua</Text>
+			<Text>'Ohonua</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_TONGA_2854">
 			<Text>Hihifo</Text>
@@ -8595,10 +8598,10 @@
 			<Text>Falehau</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_TONGA_2865">
-			<Text>Fangale''ounga</Text>
+			<Text>Fangale'ounga</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_TONGA_2866">
-			<Text>Tu''anuku</Text>
+			<Text>Leimatua</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_TONGA_2867">
 			<Text>Mango</Text>
@@ -8610,7 +8613,7 @@
 			<Text>Kotu</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_TONGA_2870">
-			<Text>Ha''afeva</Text>
+			<Text>Ha'afeva</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_TONGA_2871">
 			<Text>Matuku</Text>
@@ -8619,13 +8622,13 @@
 			<Text>Tungua</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_TONGA_2873">
-			<Text>Okoa</Text>
+			<Text>'Okoa</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_TONGA_2874">
 			<Text>Ofu</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_TONGA_2875">
-			<Text>''O''ua</Text>
+			<Text>'O'ua</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_TONGA_2876">
 			<Text>Fonoifua</Text>
@@ -8646,22 +8649,22 @@
 			<Text>Taoa</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_TONGA_2882">
-			<Text>Ha''ano</Text>
+			<Text>Ha'ano</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_TONGA_2883">
 			<Text>Lofanga</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_TONGA_2884">
-			<Text>''Uiha</Text>
+			<Text>Kolongatata</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_TONGA_2885">
-			<Text>Ha''afeva</Text>
+			<Text>Longomapu</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_TONGA_2886">
 			<Text>Kolonga</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_TONGA_2887">
-			<Text>Fatai</Text>
+			<Text>Ha'atafu</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_TONGA_2888">
 			<Text>Kanokupolu</Text>
@@ -8673,22 +8676,22 @@
 			<Text>Lakepa</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_TONGA_2891">
-			<Text>''Utulau</Text>
+			<Text>'Utulau</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_TONGA_2892">
 			<Text>Folaha</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_TONGA_2893">
-			<Text>Ha''ateiho</Text>
+			<Text>Ha'ateiho</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_TONGA_2894">
-			<Text>Va''epopua</Text>
+			<Text>Fa'imata</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_TONGA_2895">
-			<Text>''Atata</Text>
+			<Text>'Atata</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_TONGA_2896">
-			<Text>Hunga</Text>
+			<Text>Fua'amotu</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_TONGA_2897">
 			<Text>Falevai</Text>
@@ -8703,37 +8706,37 @@
 			<Text>Pangaimotu</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_TONGA_2901">
-			<Text>Ofu</Text>
+			<Text>Tefisi</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_TONGA_2902">
 			<Text>Taunga</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_TONGA_2903">
-			<Text>''Olo''ua</Text>
+			<Text>'Olo'ua</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_TONGA_2904">
-			<Text>''Utungake</Text>
+			<Text>'Utungake</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_TONGA_2905">
-			<Text>Ha''apai</Text>
+			<Text>Tofua</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_TONGA_2906">
-			<Text>Tau''akipulu</Text>
+			<Text>Kao</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_TONGA_2907">
-			<Text>Kolongatata</Text>
+			<Text>Late</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_TONGA_2908">
 			<Text>Nukunuku</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_TONGA_2909">
-			<Text>Mala''ekula</Text>
+			<Text>Mala'ekula</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_YUPIK_2910">
 			<Text>Niugtaq</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_YUPIK_2911">
-			<Text>Cev''aq</Text>
+			<Text>Cev'aq</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_YUPIK_2912">
 			<Text>Qerrulliik</Text>
@@ -8748,7 +8751,7 @@
 			<Text>Imangaq</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_YUPIK_2916">
-			<Text>Kassiggluq</Text>
+			<Text>Kassigluq</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_YUPIK_2917">
 			<Text>Naparyarraq</Text>
@@ -8769,10 +8772,10 @@
 			<Text>Kuinerraq</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_YUPIK_2923">
-			<Text>Urr''agmiut</Text>
+			<Text>Urr'agmiut</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_YUPIK_2924">
-			<Text>Cevv''arneq</Text>
+			<Text>Cevv'arneq</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_YUPIK_2925">
 			<Text>Tuntutuliaq</Text>
@@ -8802,16 +8805,16 @@
 			<Text>Qavaliriyaq</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_YUPIK_2934">
-			<Text>Orutsararmiut</Text>
+			<Text>Mamterilleq</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_YUPIK_2935">
 			<Text>Caputnquaq</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_YUPIK_2936">
-			<Text>Arayakcaaq</Text>
+			<Text>Kuiggluk</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_YUPIK_2937">
-			<Text>Uuyaq</Text>
+			<Text>Kuiggayagaq</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_YUPIK_2938">
 			<Text>Arremaarmiut</Text>
@@ -8841,7 +8844,7 @@
 			<Text>Nunakauyaq</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_YUPIK_2947">
-			<Text>Up''nerkillermiut</Text>
+			<Text>Up'nerkillermiut</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_YUPIK_2948">
 			<Text>Yuukaq</Text>
@@ -8850,7 +8853,7 @@
 			<Text>Iquarmiut</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_YUPIK_2950">
-			<Text>Pupik</Text>
+			<Text>Saguyaq</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_YUPIK_2951">
 			<Text>Qikertaarmiut</Text>
@@ -8859,10 +8862,10 @@
 			<Text>Penguq</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_YUPIK_2953">
-			<Text>An''imaq</Text>
+			<Text>Tevyaraq</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_YUPIK_2954">
-			<Text>Egmiumanermiullret</Text>
+			<Text>Curyuk</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_YUPIK_2955">
 			<Text>Nunallerpiit</Text>
@@ -8871,34 +8874,34 @@
 			<Text>Kuiguarmiullret</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_YUPIK_2957">
-			<Text>Nanvarnarrlak</Text>
+			<Text>Iik</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_YUPIK_2958">
 			<Text>Qunguq</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_YUPIK_2959">
-			<Text>Kangirnaarmiullret</Text>
+			<Text>Igyagiiq</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_YUPIK_2960">
-			<Text>Ussnerayuarmiut</Text>
+			<Text>Iquaq</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_YUPIK_2961">
-			<Text>Iiqaqurmiut</Text>
+			<Text>Neviarcaurluq</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_YUPIK_2962">
-			<Text>Kelvarmiullret</Text>
+			<Text>Cingik</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_YUPIK_2963">
-			<Text>Qasqirayak</Text>
+			<Text>Mamterat</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_YUPIK_2964">
 			<Text>Cevtaq</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_YUPIK_2965">
-			<Text>Qemirraq</Text>
+			<Text>Ingirraller</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_YUPIK_2966">
-			<Text>Naavan</Text>
+			<Text>Naparyaarmiut</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_YUPIK_2967">
 			<Text>Cilugan</Text>
@@ -8907,31 +8910,31 @@
 			<Text>Ayimqeryararmiut</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_YUPIK_2969">
-			<Text>Nerevkartuli</Text>
+			<Text>Qarr'unaq</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_YUPIK_2970">
 			<Text>Pugyuilnguarmiut</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_YUPIK_2971">
-			<Text>''Sevtaq</Text>
+			<Text>Liivlek</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_YUPIK_2972">
 			<Text>Kaviarmiut</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_YUPIK_2973">
-			<Text>Kuinerraq</Text>
+			<Text>Asaacarsaq</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_YUPIK_2974">
-			<Text>Negtemiut</Text>
+			<Text>Nuuriileng</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_YUPIK_2975">
-			<Text>Nunangneraq</Text>
+			<Text>Cetuyaraq</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_YUPIK_2976">
-			<Text>Manrirmiut</Text>
+			<Text>Nunam Iqua</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_YUPIK_2977">
-			<Text>Atalria</Text>
+			<Text>Kicarvik</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_UC_APACHE_2978">
 			<Text>Haisndayin</Text>
@@ -8946,10 +8949,10 @@
 			<Text>Shis-Inday</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_UC_APACHE_2982">
-			<Text>Ka’igwu</Text>
+			<Text>Ka'igwu</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_UC_APACHE_2983">
-			<Text>Ná’iisha</Text>
+			<Text>Ná'iisha</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_UC_APACHE_2984">
 			<Text>Tchihende</Text>
@@ -8961,16 +8964,16 @@
 			<Text>Lipiyánes</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_UC_APACHE_2987">
-			<Text>T’iisibaan</Text>
+			<Text>T'iisibaan</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_UC_APACHE_2988">
 			<Text>Sengaa</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_UC_APACHE_2989">
-			<Text>Ndéndai</Text>
+			<Text>Ch'ílwozh</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_UC_APACHE_2990">
-			<Text>Deshchii’ Bikoh</Text>
+			<Text>Deshchii' Bikoh</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_UC_APACHE_2991">
 			<Text>Tsézhiné</Text>
@@ -8979,13 +8982,13 @@
 			<Text>Chíhéne</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_UC_APACHE_2993">
-			<Text>Dilzhe’e</Text>
+			<Text>Dilzhe'e</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_UC_APACHE_2994">
-			<Text>Ch’úúk’anén</Text>
+			<Text>Ch'úúk'anén</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_UC_APACHE_2995">
-			<Text>Tsék’áádn</Text>
+			<Text>Tsék'áádn</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_UC_APACHE_2996">
 			<Text>Bedonkohe</Text>
@@ -9003,22 +9006,22 @@
 			<Text>Hakaye</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_UC_APACHE_3001">
-			<Text>Tsé Binest’i’é</Text>
+			<Text>Tl'og Hagai</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_UC_APACHE_3002">
-			<Text>Caiahene</Text>
+			<Text>Tséé Dotl'izh</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_UC_APACHE_3003">
 			<Text>Nadah Dogalniné</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_UC_APACHE_3004">
-			<Text>Tsegatahende</Text>
+			<Text>Bésh Baa Gowah</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_UC_APACHE_3005">
-			<Text>Dzildunaslen</Text>
+			<Text>Chaabito'</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_UC_APACHE_3006">
-			<Text>Tl’ohk’adigain</Text>
+			<Text>Tl'ohk'adigain</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_UC_APACHE_3007">
 			<Text>Golkizhn</Text>
@@ -9027,19 +9030,19 @@
 			<Text>Tchesha</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_UC_APACHE_3009">
-			<Text>Canneci N’de</Text>
+			<Text>Canneci N'de</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_UC_APACHE_3010">
-			<Text>Kólkuka</Text>
+			<Text>Ich'i' Nahiltíí</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_UC_APACHE_3011">
-			<Text>Tséltátlidsha</Text>
+			<Text>Dzil Ligai</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_UC_APACHE_3012">
-			<Text>Dzilghá’é</Text>
+			<Text>Yoo' Ligai</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_UC_APACHE_3013">
-			<Text>Tsé Noltl’izhn</Text>
+			<Text>Tsé Noltl'izhn</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_UC_APACHE_3014">
 			<Text>Nadahéndé</Text>
@@ -9048,7 +9051,7 @@
 			<Text>Tuetinini</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_UC_APACHE_3016">
-			<Text>Bi’uhit Ndé</Text>
+			<Text>Bi'uhit Ndé</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_UC_APACHE_3017">
 			<Text>Tuintsundé</Text>
@@ -9063,22 +9066,22 @@
 			<Text>Jumano Ndé</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_UC_APACHE_3021">
-			<Text>Te’lkóndaha</Text>
+			<Text>Te'lkóndaha</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_UC_APACHE_3022">
-			<Text>Zit’is’ti Ndé</Text>
+			<Text>Zit'is'ti Ndé</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_UC_APACHE_3023">
-			<Text>Tsandee Dot''án</Text>
+			<Text>Gowah Golgai Gohoshé</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_UC_APACHE_3024">
 			<Text>Kókemetcheskólaha</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_UC_APACHE_3025">
-			<Text>Twid Ndé</Text>
+			<Text>Caiahene</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_UC_APACHE_3026">
-			<Text>Dotl’izhi Ha’it’ Indee</Text>
+			<Text>Dotl'izhi Ha'it' Indee</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_UC_APACHE_3027">
 			<Text>Tindi Ndé</Text>
@@ -9090,10 +9093,10 @@
 			<Text>Tahuundé</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_UC_APACHE_3030">
-			<Text>Shái’a Nde</Text>
+			<Text>Shái'a Nde</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_UC_APACHE_3031">
-			<Text>Tú Dotl’izh Indee</Text>
+			<Text>Tú Dotl'izh Indee</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_UC_APACHE_3032">
 			<Text>Guhlkahéndé</Text>
@@ -9108,16 +9111,16 @@
 			<Text>Tséraltuétaha</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_UC_APACHE_3036">
-			<Text>Ch’laandé</Text>
+			<Text>Ch'laandé</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_UC_APACHE_3037">
-			<Text>Tcho’kana</Text>
+			<Text>Tcho'kana</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_UC_APACHE_3038">
-			<Text>Nit’ahéndé</Text>
+			<Text>Nit'ahéndé</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_UC_APACHE_3039">
-			<Text>Tsehitchihéndé</Text>
+			<Text>Tsehitcihéndé</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_UC_APACHE_3040">
 			<Text>Dasziné Dasdaayé Indee</Text>
@@ -9126,7 +9129,7 @@
 			<Text>Tsebekinéndé</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_UC_APACHE_3042">
-			<Text>Dil Zhe’e</Text>
+			<Text>Dil Zhe'e</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_UC_APACHE_3043">
 			<Text>Tséltátlidsha</Text>
@@ -9165,7 +9168,7 @@
 			<Text>Yan</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_HAIDA_MOD_LS_3055">
-			<Text>Cha''atl</Text>
+			<Text>Cha'atl</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_HAIDA_MOD_LS_3056">
 			<Text>Kaysuun Llnagaay</Text>
@@ -9180,7 +9183,7 @@
 			<Text>Kayung</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_HAIDA_MOD_LS_3060">
-			<Text>Hlk''yah GaawGa</Text>
+			<Text>Hlk'yah GaawGa</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_HAIDA_MOD_LS_3061">
 			<Text>Klinkwan</Text>
@@ -9195,7 +9198,7 @@
 			<Text>Dadens</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_HAIDA_MOD_LS_3065">
-			<Text>Sguuluu Jaads Saahlawaay</Text>
+			<Text>Gandla K'in</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_HAIDA_MOD_LS_3066">
 			<Text>Kitschk-hin</Text>
@@ -9213,10 +9216,10 @@
 			<Text>Gahlinskun</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_HAIDA_MOD_LS_3071">
-			<Text>Howkan</Text>
+			<Text>Kaigani</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_HAIDA_MOD_LS_3072">
-			<Text>Kloo</Text>
+			<Text>Lanahilduns</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_HAIDA_MOD_LS_3073">
 			<Text>Sgilgi</Text>
@@ -9237,7 +9240,7 @@
 			<Text>Djigogiga</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_HAIDA_MOD_LS_3079">
-			<Text>Hgihla-ala</Text>
+			<Text>Kloo</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_HAIDA_MOD_LS_3080">
 			<Text>Tlgunghung</Text>
@@ -9252,13 +9255,13 @@
 			<Text>Skaos</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_HAIDA_MOD_LS_3084">
-			<Text>Lanaslnagai</Text>
+			<Text>SGuuluu Jaads Saahlawaay</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_HAIDA_MOD_LS_3085">
-			<Text>Sakaedigialas</Text>
+			<Text>Skae</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_HAIDA_MOD_LS_3086">
-			<Text>Heydao</Text>
+			<Text>Guhlga</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_HAIDA_MOD_LS_3087">
 			<Text>Kuulana</Text>
@@ -9270,7 +9273,7 @@
 			<Text>Chatchini</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_HAIDA_MOD_LS_3090">
-			<Text>Hlgahet</Text>
+			<Text>Hlgai</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_HAIDA_MOD_LS_3091">
 			<Text>Koagoagit</Text>
@@ -9282,10 +9285,10 @@
 			<Text>Singa</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_HAIDA_MOD_LS_3094">
-			<Text>Nagus</Text>
+			<Text>Skaito</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_HAIDA_MOD_LS_3095">
-			<Text>Yagun</Text>
+			<Text>Lanaslnagai</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_HAIDA_MOD_LS_3096">
 			<Text>Widja</Text>
@@ -9360,7 +9363,7 @@
 			<Text>Cut Knife</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_VIVALA_METIS_3120">
-			<Text>Frenchman’s Butte</Text>
+			<Text>Frenchman's Butte</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_VIVALA_METIS_3121">
 			<Text>Frog Lake</Text>
@@ -9498,7 +9501,7 @@
 			<Text>Birch Mountains</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_VIVALA_METIS_3166">
-			<Text>Fort Gibraltar</Text>
+			<Text>Fort Paskoya</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_VIVALA_METIS_3167">
 			<Text>Fort Douglas</Text>
@@ -9507,7 +9510,7 @@
 			<Text>Fort Rouge</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_VIVALA_METIS_3169">
-			<Text>La Coulée des Tourond</Text>
+			<Text>Fort Carlton</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_VIVALA_METIS_3170">
 			<Text>Chapleau</Text>
@@ -9522,25 +9525,25 @@
 			<Text>Cold Lake</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_VIVALA_METIS_3174">
-			<Text>Talle-de-Saules</Text>
+			<Text>Swift Current</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_VIVALA_METIS_3175">
-			<Text>Fond du Lac</Text>
+			<Text>Fond-du-Lac</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_VIVALA_METIS_3176">
-			<Text>Hart-Rouge</Text>
+			<Text>Lac des Prairies</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_VIVALA_METIS_3177">
 			<Text>Kouchibouguac</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_VIVALA_METIS_3178">
-			<Text>La Butte des Français</Text>
+			<Text>Norway House</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_VIVALA_METIS_3179">
-			<Text>Kenora</Text>
+			<Text>Qu'Appelle</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_VIVALA_METIS_3180">
-			<Text>Devil’s Lake</Text>
+			<Text>Turtle Mountain</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_VIVALA_METIS_3181">
 			<Text>Flathead</Text>
@@ -9564,7 +9567,7 @@
 			<Text>Winnipeg</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_LN_KINGCANADA_3188">
-			<Text>Quebec City</Text>
+			<Text>Québec City</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_LN_KINGCANADA_3189">
 			<Text>Hamilton</Text>
@@ -9648,7 +9651,7 @@
 			<Text>Guelph</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_LN_KINGCANADA_3216">
-			<Text>Glace Bay</Text>
+			<Text>Fredericton</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_LN_KINGCANADA_3217">
 			<Text>Moncton</Text>
@@ -9690,7 +9693,7 @@
 			<Text>Chatham</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_LN_KINGCANADA_3230">
-			<Text>East Windsor</Text>
+			<Text>Prince George</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_LN_KINGCANADA_3231">
 			<Text>Timmins</Text>
@@ -9756,7 +9759,7 @@
 			<Text>Medicine Hat</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_LN_KINGCANADA_3252">
-			<Text>Walkerville</Text>
+			<Text>Kelowna</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_LN_KINGCANADA_3253">
 			<Text>Brockville</Text>
@@ -9771,13 +9774,13 @@
 			<Text>Dartmouth</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_LN_KINGCANADA_3257">
-			<Text>Saint-Jérôme</Text>
+			<Text>St. Jérôme</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_LN_KINGCANADA_3258">
 			<Text>Orillia</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_LN_KINGCANADA_3259">
-			<Text>Waterloo</Text>
+			<Text>Glace Bay</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_LN_KINGCANADA_3260">
 			<Text>Barrie</Text>
@@ -9867,7 +9870,7 @@
 			<Text>Granny Crowe</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_POVERTY_POINT_MOD_3289">
-			<Text>Frenchman''s Bend</Text>
+			<Text>Frenchman's Bend</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_POVERTY_POINT_MOD_3290">
 			<Text>Tchefuncte</Text>
@@ -9921,22 +9924,22 @@
 			<Text>Issaquena</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_POVERTY_POINT_MOD_3307">
-			<Text>Stelly</Text>
+			<Text>Lake Enterprise</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_POVERTY_POINT_MOD_3308">
 			<Text>Neimeyer-Dare</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_POVERTY_POINT_MOD_3309">
-			<Text>Head</Text>
+			<Text>Caney Bayou</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_POVERTY_POINT_MOD_3310">
 			<Text>Motley</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_POVERTY_POINT_MOD_3311">
-			<Text>Neely</Text>
+			<Text>Meche-Wilkes</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_POVERTY_POINT_MOD_3312">
-			<Text>Calion</Text>
+			<Text>Big Oak Island</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_POVERTY_POINT_MOD_3313">
 			<Text>Lake Cormorant</Text>
@@ -9972,7 +9975,7 @@
 			<Text>Winterville</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_POVERTY_POINT_MOD_3324">
-			<Text>Boytown</Text>
+			<Text>Jackson Landing</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_POVERTY_POINT_MOD_3325">
 			<Text>Crooks</Text>
@@ -10146,7 +10149,7 @@
 			<Text>Tepotzotlan</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_AZTEC_3382">
-			<Text>Tepelcatepetl</Text>
+			<Text>Tlatlauquiltepec</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_AZTEC_3383">
 			<Text>Tlalpan</Text>
@@ -10188,202 +10191,202 @@
 			<Text>Tetzapotitlan</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_LEUGI_HAITI_3396">
-			<Text>Port-au-Prince</Text>
+			<Text>Pòtoprens</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_LEUGI_HAITI_3397">
-			<Text>Cap-Haïtien</Text>
+			<Text>Kap Ayisyen</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_LEUGI_HAITI_3398">
-			<Text>Gonaïves</Text>
+			<Text>Gonayiv</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_LEUGI_HAITI_3399">
-			<Text>Fort-Liberté</Text>
+			<Text>Fòlibète</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_LEUGI_HAITI_3400">
-			<Text>Petit-Goâve</Text>
+			<Text>Piti Gwav</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_LEUGI_HAITI_3401">
-			<Text>Bois Caïman</Text>
+			<Text>Bwa Kayiman</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_LEUGI_HAITI_3402">
-			<Text>Tortuga</Text>
+			<Text>Latòti</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_LEUGI_HAITI_3403">
-			<Text>Port-de-Paix</Text>
+			<Text>Pòdepè</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_LEUGI_HAITI_3404">
-			<Text>Grand-Goâve</Text>
+			<Text>Grangwav</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_LEUGI_HAITI_3405">
-			<Text>Jacmel</Text>
+			<Text>Jakmèl</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_LEUGI_HAITI_3406">
-			<Text>Dessalines</Text>
+			<Text>Desalin</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_LEUGI_HAITI_3407">
-			<Text>Léogâne</Text>
+			<Text>Leyogàn</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_LEUGI_HAITI_3408">
-			<Text>Saint-Marc</Text>
+			<Text>Sen Mak</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_LEUGI_HAITI_3409">
-			<Text>La Tannerie</Text>
+			<Text>Tannri</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_LEUGI_HAITI_3410">
-			<Text>Carrefour</Text>
+			<Text>Kafou</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_LEUGI_HAITI_3411">
-			<Text>Vertières</Text>
+			<Text>Vètyè</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_LEUGI_HAITI_3412">
-			<Text>Miragoâne</Text>
+			<Text>Miragwàn</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_LEUGI_HAITI_3413">
-			<Text>Bombardopolis</Text>
+			<Text>Bonbadopolis</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_LEUGI_HAITI_3414">
-			<Text>Croix-des-Bouquets</Text>
+			<Text>Kwadèbouke</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_LEUGI_HAITI_3415">
-			<Text>Limbé</Text>
+			<Text>Lenbe</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_LEUGI_HAITI_3416">
-			<Text>Petite Rivière de l''Artibonite</Text>
+			<Text>Ti Rivyè Latibonit</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_LEUGI_HAITI_3417">
-			<Text>Les Cayes</Text>
+			<Text>Okay</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_LEUGI_HAITI_3418">
-			<Text>Saint-Michel-de-l''Atalaye</Text>
+			<Text>Sen Michèl Latalay</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_LEUGI_HAITI_3419">
-			<Text>Jérémie</Text>
+			<Text>Jeremi</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_LEUGI_HAITI_3420">
-			<Text>Hinche</Text>
+			<Text>Ench</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_LEUGI_HAITI_3421">
-			<Text>Môle-Saint-Nicolas</Text>
+			<Text>Mòlsennikola</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_LEUGI_HAITI_3422">
-			<Text>Ouanaminthe</Text>
+			<Text>Wanamèt</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_LEUGI_HAITI_3423">
-			<Text>Mirebalais</Text>
+			<Text>Mibalè</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_LEUGI_HAITI_3424">
-			<Text>Gros-Morne</Text>
+			<Text>Gwo Mòn</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_LEUGI_HAITI_3425">
-			<Text>Arcahaie</Text>
+			<Text>Lakayè</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_LEUGI_HAITI_3426">
-			<Text>Verrettes</Text>
+			<Text>Vèrèt</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_LEUGI_HAITI_3427">
-			<Text>Marmelade</Text>
+			<Text>Mamlad</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_LEUGI_HAITI_3428">
-			<Text>Jean-Rabel</Text>
+			<Text>Jan Rabèl</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_LEUGI_HAITI_3429">
-			<Text>Bainet</Text>
+			<Text>Benè</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_LEUGI_HAITI_3430">
-			<Text>Petit-Trou-de-Nippes</Text>
+			<Text>Ti Twou de Nip</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_LEUGI_HAITI_3431">
-			<Text>Tiburon</Text>
+			<Text>Tibiwon</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_LEUGI_HAITI_3432">
-			<Text>Île-à-Vache</Text>
+			<Text>Lilavach</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_LEUGI_HAITI_3433">
-			<Text>Dame-Marie</Text>
+			<Text>Dam Mari</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_LEUGI_HAITI_3434">
-			<Text>Port-Salut</Text>
+			<Text>Pòsali</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_LEUGI_HAITI_3435">
-			<Text>Baradères</Text>
+			<Text>Baradè</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_LEUGI_HAITI_3436">
-			<Text>Furcy</Text>
+			<Text>Kabarè</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_LEUGI_HAITI_3437">
-			<Text>Montrouis</Text>
+			<Text>Gantye</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_LEUGI_HAITI_3438">
-			<Text>Trou-du-Nord</Text>
+			<Text>Twou Dinò</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_LEUGI_HAITI_3439">
 			<Text>Dondon</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_LEUGI_HAITI_3440">
-			<Text>Vallières</Text>
+			<Text>Valyè</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_LEUGI_HAITI_3441">
-			<Text>Lascahobas</Text>
+			<Text>Laskawobas</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_LEUGI_HAITI_3442">
-			<Text>Port-Margot</Text>
+			<Text>Pò Mago</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_LEUGI_HAITI_3443">
-			<Text>Côteaux</Text>
+			<Text>Koto</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_LEUGI_HAITI_3444">
-			<Text>Acul-du-Nord</Text>
+			<Text>Akil Dinò</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_LEUGI_HAITI_3445">
-			<Text>Plaisance</Text>
+			<Text>Plezans</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_LEUGI_HAITI_3446">
-			<Text>Fonds-des-Nègres</Text>
+			<Text>Fondènèg</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_LEUGI_HAITI_3447">
-			<Text>Cavaellon</Text>
+			<Text>Kavayon</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_LEUGI_HAITI_3448">
-			<Text>Plaine-du-Nord</Text>
+			<Text>Plèn Dinò</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_LEUGI_HAITI_3449">
-			<Text>Roseaux</Text>
+			<Text>Wozo</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_LEUGI_HAITI_3450">
-			<Text>Anse-à-Veau</Text>
+			<Text>Ansavo</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_LEUGI_HAITI_3451">
-			<Text>Petite-Rivière-de-Nippes</Text>
+			<Text>Piti Rivyè de Nip</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_LEUGI_HAITI_3452">
-			<Text>Borgne</Text>
+			<Text>Obòy</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_LEUGI_HAITI_3453">
-			<Text>Terrier-Rouge</Text>
+			<Text>Tèrye Wouj</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_LEUGI_HAITI_3454">
-			<Text>Delmas</Text>
+			<Text>Dèlma</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_LEUGI_HAITI_3455">
-			<Text>Pétion-Ville</Text>
+			<Text>Petyonvil</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_LEUGI_HAITI_3456">
-			<Text>Cité Soleil</Text>
+			<Text>Site Solèy</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_LEUGI_HAITI_3457">
-			<Text>Tabarre</Text>
+			<Text>Taba</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_LEUGI_HAITI_3458">
-			<Text>Saint-Louis-du-Nord</Text>
+			<Text>Sen Lwi Dinò</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_LEUGI_HAITI_3459">
-			<Text>Aquin</Text>
+			<Text>Aken</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_LEUGI_HAITI_3460">
-			<Text>Belladère</Text>
+			<Text>Beladè</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_LEUGI_HAITI_3461">
-			<Text>Anse-à-Galets</Text>
+			<Text>Ansagalèt</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_DMS_VENEZUELA_3462">
 			<Text>Caracas</Text>
@@ -10503,7 +10506,7 @@
 			<Text>Machiques</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_DMS_VENEZUELA_3501">
-			<Text>Carupano</Text>
+			<Text>Carúpano</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_DMS_VENEZUELA_3502">
 			<Text>Tucupita</Text>
@@ -10539,7 +10542,7 @@
 			<Text>Maiquetía</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_DMS_VENEZUELA_3513">
-			<Text>Turmero</Text>
+			<Text>Santa Elena de Uairén</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_DMS_VENEZUELA_3514">
 			<Text>Guacara</Text>
@@ -10554,7 +10557,7 @@
 			<Text>Charallave</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_DMS_VENEZUELA_3518">
-			<Text>Guiria</Text>
+			<Text>Güiria</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_DMS_VENEZUELA_3519">
 			<Text>Palo Negro</Text>
@@ -10572,10 +10575,10 @@
 			<Text>Puerto Píritu</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_DMS_VENEZUELA_3524">
-			<Text>Santa Bárbara de Zulia</Text>
+			<Text>Santa Bárbara del Zulia</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_DMS_VENEZUELA_3525">
-			<Text>Caucagua</Text>
+			<Text>El Vigía</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_DMS_VENEZUELA_3526">
 			<Text>El Tocuyo</Text>
@@ -10617,7 +10620,7 @@
 			<Text>Tuatuari</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_XINGU_MOD_3539">
-			<Text>Yakaré</Text>
+			<Text>Yakäré</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_XINGU_MOD_3540">
 			<Text>Tehukugu</Text>
@@ -10638,7 +10641,7 @@
 			<Text>Ahanitahagu</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_XINGU_MOD_3546">
-			<Text>Lahatuá</Text>
+			<Text>Iña</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_XINGU_MOD_3547">
 			<Text>Atïka</Text>
@@ -10665,7 +10668,7 @@
 			<Text>Séhu</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_XINGU_MOD_3555">
-			<Text>Ahukugi</Text>
+			<Text>Sekuhai</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_XINGU_MOD_3556">
 			<Text>Yawalapiti</Text>
@@ -10689,7 +10692,7 @@
 			<Text>Curumim</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_XINGU_MOD_3563">
-			<Text>Pedra</Text>
+			<Text>Waujá</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_XINGU_MOD_3564">
 			<Text>Küngahünga</Text>
@@ -10701,7 +10704,7 @@
 			<Text>Uayapiyuku</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_XINGU_MOD_3567">
-			<Text>Tazu''jytetam</Text>
+			<Text>Tazu'jytetam</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_XINGU_MOD_3568">
 			<Text>Utawana</Text>
@@ -10713,85 +10716,85 @@
 			<Text>Piyulaga</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_XINGU_MOD_3571">
-			<Text>Kamayura</Text>
+			<Text>Ahugakugu</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_XINGU_MOD_3572">
-			<Text>Poti-Krô</Text>
+			<Text>Meinacu</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_XINGU_MOD_3573">
-			<Text>Krinu</Text>
+			<Text>Angahïnga</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_XINGU_MOD_3574">
-			<Text>Gorotire</Text>
+			<Text>Ehumba</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_XINGU_MOD_3575">
-			<Text>Kararao</Text>
+			<Text>Tafununu</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_XINGU_MOD_3576">
-			<Text>Moikarakô</Text>
+			<Text>Agahahïtï</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_XINGU_MOD_3577">
-			<Text>A''Ukre</Text>
+			<Text>Uagihïtï</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_XINGU_MOD_3578">
-			<Text>Kikretum</Text>
+			<Text>Netonugu</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_XINGU_MOD_3579">
-			<Text>Yulutakitzi</Text>
+			<Text>Kuguhi</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_XINGU_MOD_3580">
-			<Text>Uagihütü</Text>
+			<Text>Miararre</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_XINGU_MOD_3581">
-			<Text>Tatehengo</Text>
+			<Text>Noviari</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_XINGU_MOD_3582">
-			<Text>Ngahünga</Text>
+			<Text>Makahuku</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_XINGU_MOD_3583">
-			<Text>Kunugijahütü</Text>
+			<Text>Nahukuá</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_XINGU_MOD_3584">
-			<Text>Uahütü</Text>
+			<Text>Matipu</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_XINGU_MOD_3585">
-			<Text>Kahindzu</Text>
+			<Text>Aweti</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_XINGU_MOD_3586">
-			<Text>Kokraimoro</Text>
+			<Text>Kunué</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_XINGU_MOD_3587">
-			<Text>Pykarankre</Text>
+			<Text>Moygu</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_XINGU_MOD_3588">
 			<Text>Kendjam</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_XINGU_MOD_3589">
-			<Text>Hotu</Text>
+			<Text>Krawyja</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_XINGU_MOD_3590">
-			<Text>Kubenkrankei</Text>
+			<Text>Tuiararé</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_XINGU_MOD_3591">
-			<Text>Oti</Text>
+			<Text>Itaí</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_XINGU_MOD_3592">
-			<Text>Kokokuedja</Text>
+			<Text>Ngojwere</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_XINGU_MOD_3593">
-			<Text>Akugi Embipe</Text>
+			<Text>Ngosoko</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_XINGU_MOD_3594">
-			<Text>Jalapapuh</Text>
+			<Text>Trumai</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_XINGU_MOD_3595">
 			<Text>Suyá</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_XINGU_MOD_3596">
-			<Text>Mehinaku</Text>
+			<Text>Tuba Tuba</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_XINGU_MOD_3597">
-			<Text>Ulupuene</Text>
+			<Text>Pakisamba</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_XINGU_MOD_3598">
 			<Text>Z</Text>
@@ -10878,7 +10881,7 @@
 			<Text>Cerro Baúl</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_MC_NAZCA_3626">
-			<Text>Incahuasi</Text>
+			<Text>Inka Wasi</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_MC_NAZCA_3627">
 			<Text>Pukatampu</Text>
@@ -10911,10 +10914,10 @@
 			<Text>Toro Muerto</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_MC_NAZCA_3637">
-			<Text>Qasa Pata</Text>
+			<Text>Q'asa Pata</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_MC_NAZCA_3638">
-			<Text>Mawk''allaqta</Text>
+			<Text>Mawk'allaqta</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_MC_NAZCA_3639">
 			<Text>Tinyaq</Text>
@@ -11226,7 +11229,7 @@
 			<Text>Hamhmam</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_SELKNAM_3742">
-			<Text>Kósen</Text>
+			<Text>Kóser</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_SELKNAM_3743">
 			<Text>Yewux</Text>
@@ -11235,13 +11238,13 @@
 			<Text>Korkomen</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_SELKNAM_3745">
-			<Text>Honhpaxten</Text>
+			<Text>Honhpáxten</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_SELKNAM_3746">
 			<Text>Haiyuwel</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_SELKNAM_3747">
-			<Text>Ewan</Text>
+			<Text>Kásen</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_SELKNAM_3748">
 			<Text>Orukwantke</Text>
@@ -11256,22 +11259,22 @@
 			<Text>Kolyamen</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_SELKNAM_3752">
-			<Text>Hosi</Text>
+			<Text>Hósi</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_SELKNAM_3753">
-			<Text>Káktar</Text>
+			<Text>Káaktar</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_SELKNAM_3754">
 			<Text>Heur</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_SELKNAM_3755">
-			<Text>Soskes</Text>
+			<Text>Sóskes</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_SELKNAM_3756">
-			<Text>Komnek</Text>
+			<Text>Yáyi</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_SELKNAM_3757">
-			<Text>Wai</Text>
+			<Text>Wái</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_SELKNAM_3758">
 			<Text>Saipoot</Text>
@@ -11280,124 +11283,124 @@
 			<Text>Yebuin</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_SELKNAM_3760">
-			<Text>Makesyose</Text>
+			<Text>Tane</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_SELKNAM_3761">
-			<Text>Xalpen</Text>
+			<Text>Ewan</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_SELKNAM_3762">
-			<Text>Kotaix</Text>
+			<Text>Saremsos</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_SELKNAM_3763">
-			<Text>Keternen</Text>
+			<Text>Larsiparsahk</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_SELKNAM_3764">
-			<Text>Hoshtan</Text>
-		</Row>
-		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_SELKNAM_3765">
-			<Text>Koshmenk</Text>
-		</Row>
-		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_SELKNAM_3766">
-			<Text>Konip</Text>
-		</Row>
-		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_SELKNAM_3767">
-			<Text>Tolhuin</Text>
-		</Row>
-		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_SELKNAM_3768">
-			<Text>Aloiken</Text>
-		</Row>
-		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_SELKNAM_3769">
 			<Text>Kami</Text>
 		</Row>
-		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_SELKNAM_3770">
-			<Text>Arruikikn</Text>
-		</Row>
-		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_SELKNAM_3771">
-			<Text>Auskarmtoke</Text>
-		</Row>
-		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_SELKNAM_3772">
-			<Text>O''tr</Text>
-		</Row>
-		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_SELKNAM_3773">
-			<Text>Kauk''n</Text>
-		</Row>
-		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_SELKNAM_3774">
+		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_SELKNAM_3765">
 			<Text>Lasems</Text>
 		</Row>
-		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_SELKNAM_3775">
-			<Text>Qrukwolike</Text>
-		</Row>
-		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_SELKNAM_3776">
-			<Text>Ul</Text>
-		</Row>
-		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_SELKNAM_3777">
-			<Text>Náken</Text>
-		</Row>
-		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_SELKNAM_3778">
-			<Text>Yávi</Text>
-		</Row>
-		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_SELKNAM_3779">
-			<Text>Kúwrjiyt''n</Text>
-		</Row>
-		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_SELKNAM_3780">
-			<Text>Tai</Text>
-		</Row>
-		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_SELKNAM_3781">
-			<Text>Htirnhnwm</Text>
-		</Row>
-		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_SELKNAM_3782">
-			<Text>Kóser</Text>
-		</Row>
-		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_SELKNAM_3783">
-			<Text>Wa''i</Text>
-		</Row>
-		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_SELKNAM_3784">
-			<Text>Kasen</Text>
-		</Row>
-		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_SELKNAM_3785">
+		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_SELKNAM_3766">
 			<Text>Nákenk</Text>
 		</Row>
-		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_SELKNAM_3786">
-			<Text>Seremsos</Text>
-		</Row>
-		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_SELKNAM_3787">
+		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_SELKNAM_3767">
 			<Text>Káukecen</Text>
 		</Row>
-		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_SELKNAM_3788">
+		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_SELKNAM_3768">
 			<Text>Teis</Text>
 		</Row>
-		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_SELKNAM_3789">
+		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_SELKNAM_3769">
 			<Text>Lolek</Text>
 		</Row>
-		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_SELKNAM_3790">
+		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_SELKNAM_3770">
 			<Text>Kal</Text>
 		</Row>
-		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_SELKNAM_3791">
-			<Text>Átpel</Text>
+		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_SELKNAM_3771">
+			<Text>Átpei</Text>
 		</Row>
-		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_SELKNAM_3792">
-			<Text>Awa</Text>
+		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_SELKNAM_3772">
+			<Text>Heuconh</Text>
 		</Row>
-		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_SELKNAM_3793">
-			<Text>Lasems</Text>
+		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_SELKNAM_3773">
+			<Text>Awa/Text>
 		</Row>
-		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_SELKNAM_3794">
+		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_SELKNAM_3774">
 			<Text>Malkac</Text>
 		</Row>
-		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_SELKNAM_3795">
-			<Text>Sauywes</Text>
+		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_SELKNAM_3775">
+			<Text>Sauwes</Text>
 		</Row>
-		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_SELKNAM_3796">
+		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_SELKNAM_3776">
 			<Text>Masaks</Text>
 		</Row>
-		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_SELKNAM_3797">
+		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_SELKNAM_3777">
 			<Text>Sáko</Text>
 		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_SELKNAM_3778">
+			<Text>Yáiuwa</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_SELKNAM_3779">
+			<Text>Omakas</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_SELKNAM_3780">
+			<Text>Marazzi</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_SELKNAM_3781">
+			<Text>Chepalmut</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_SELKNAM_3782">
+			<Text>Inútil</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_SELKNAM_3783">
+			<Text>Ushuaia</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_SELKNAM_3784">
+			<Text>Tolhuin</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_SELKNAM_3785">
+			<Text>Misión Salesiana</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_SELKNAM_3786">
+			<Text>Karukinka</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_SELKNAM_3787">
+			<Text>Ofhidro</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_SELKNAM_3788">
+			<Text>Rio Grande</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_SELKNAM_3789">
+			<Text>Irigoyen</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_SELKNAM_3790">
+			<Text>Yartou</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_SELKNAM_3791">
+			<Text>Quique</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_SELKNAM_3792">
+			<Text>Cerro Sombrero</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_SELKNAM_3793">
+			<Text>Almirantazgo</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_SELKNAM_3794">
+			<Text>Puerto Percy</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_SELKNAM_3795">
+			<Text>Playa Larga</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_SELKNAM_3796">
+			<Text>Timaukel</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_SELKNAM_3797">
+			<Text>Misión Anglicana</Text>
+		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_SELKNAM_3798">
-			<Text>Yaiuwas</Text>
+			<Text>Porvenir</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_SELKNAM_3799">
-			<Text>Omakas</Text>
+			<Text>Punta Arenas</Text>
 		</Row>
 	</Language_en_US>
 </GameData>
