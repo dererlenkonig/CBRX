@@ -1,0 +1,476 @@
+<GameData>
+	<Language_en_US>
+		<Row Tag="TXT_KEY_UKRAINE_LS_MOD_DESC">
+			<Text>Hetmanate</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UKRAINE_LS_MOD_SHORT_DESC">
+			<Text>Hetmanate</Text>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_UKRAINE_LS_MOD_ADJECTIVE">
+			<Text>Ukrainian</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UKRAINE_LS_MOD">
+			<Text>Cossack Hetmanate</Text>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_UKRAINE_LS_MOD_HEADING_1">
+			<Text>The Hetmanate</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_UKRAINE_LS_MOD_TEXT_1">
+			<Text>The official name of the Cossack Hetmanate was the Zaporizhian Host, but its inhabitants referred to it as Ukraine. Born from Hetman (title of a Cossak General) Bohdan Khmelnytsky's liberation of Kiev from Polish control on Christmas Day 1648, the state would exist under the control of the military council until its dissolution in 1764. Although a Rus' state, the elected Hetmans would use Polish language and currency to engage in state-building on all levels. Socically the Hetmanate brought cultural, economic and scientific progress to its people in a way unmatched by previous rulers. However, in an era of strife, the military alliance with Russia in the face of the ever present Polish threat failed to cement the Hetmanate. It was eventually torn apart and assimilated.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_UKRAINE_LS_MOD_HEADING_2">
+			<Text>History of the Hetmanate</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_UKRAINE_LS_MOD_TEXT_2">
+			<Text>After the Crimean Tatars betrayed the Cossacks for the third time in 1653, Khmelnytsky realized he could no longer rely on the Ottoman support against Poland, the hetman was forced to turn to Muscovy for help. Negotiations began in January 1654 in Pereiaslav between Khmelnytsky, numerous cossacks and on the Muscovite side led Vasily Buturlin, and concluded in April in Moscow by the Ruthenians Samiilo Bohdanovych-Zarudny, and Pavlo Teteria and by Aleksey Trubetskoy, Vasilii Buturlin, and other Muscovite boyars.[NEWLINE][NEWLINE]As a result of the treaty, the Zaporozhian Host became a suzerainty of Muscovy, and was split in two; the Cossack Hetmanate with its capital at Chyhyryn, and Zaporizhia, centered around the fortress of the Zaporozhian Sich. The treaty also led to the Russo-Polish War of 1654–1667.[NEWLINE][NEWLINE]The period in Hetmanate history, known as "the Ruin," which lasted from 1657 to 1687, was marked by constant civil wars throughout the state. At the end of Bohdan Khmelnytsky's life, his son Yuri Khmelnytsky was elected to be his successor. However, at the time of his father's death, sixteen-year-old Khmelnystky Jr. was not only too young and inexperienced, but also clearly lacked the charisma and the leadership qualities of his father.[NEWLINE][NEWLINE]In response, Ivan Vyhovsky, the general scribe (pysar) of the Hetmanate and an adviser to Bohdan Khmelnytsky was elected hetman in 1657 by the Starshyna council. Vyhosky's election by the Starshyna Council caused widespread discontent among other regiments and the Zaporizhian Host who sent their runners to Moscow with complaints. Because of this, new elections were called that same year at which Vyhovsky was once again reelected at the General Military Council. Moscow continued to accept runners from the regions of Cossack Hetmanate completely disregarding the authority of hetman and spreading rumors that in truth Moscow does not support candidacy of Vyhovsky. Vyhovsky witnessing the situation run out of his control, went on to extinguish the revolt led by the Zaporozhian Kosh Otaman Yakiv Barabash and Poltava Colonel Martyn Pushkar. In the spring of 1658 Vyhovsky crossed Dnieper and confronted mutineers near Poltava with the help of Tatars. During the battle Pushkar was killed and replaced with a new colonel while the leaders of the uprising were strictly repressed.[NEWLINE][NEWLINE]On September 16, 1658 in Hadyach an official document was signed between representatives of the Cossack Hetmanate and Poland. Under the conditions of the treaty, Ukraine would become a third and autonomous component of the Polish-Lithuanian Commonwealth, under the ultimate sovereignty of the King of Poland, but with its own military, courts, and treasury. But the treaty, although ratified by the Diet in May 1659, was never implemented because it was unpopular among the lower classes of the Ruthenian society where more rebellions occurred.[NEWLINE][NEWLINE]The period of the Ruin was effectively over when Ivan Mazepa was elected hetman, and brought stability to the Hetmanate. Mazepa was hetman of the Hetmanate from 1687 to 1708. He united Ukraine which, once again, was under the rule of one hetman. The Hetmanate flourished under his rule, particularly in literature, and architecture - the style which developed during his reign is known as the Cossack Baroque style.[NEWLINE][NEWLINE]During his reign, the Great Northern War broke out between Russia and Sweden. And Mazepa's alliance with Peter I caused heavy losses of cossacks, and Russian interference in the Hetmanate's internal affairs. When the Tsar refused to defend Ukraine against the Polish King Stanislaus Leszczynski, an ally of Charles XII of Sweden, Mazepa with a part of Zaporozhian Cossacks allied themselves with the Swedes on October 28, 1708. The decisive battle took place in June 1709 in Poltava where it was won by Russia, which put an end to Mazepa's goal of independence, promised in an earlier treaty with Sweden independence.[NEWLINE][NEWLINE]Following the Battle of Poltava, the Hetmanate's autonomy became nominal and the governorate of Kiev was established. The Russian Empire also began to purge all suspected allies of Mazepa, culminating in the executions of Cossacks in Lebedin. This resulted in the death of over 900 cossack officials, accused of treason.[NEWLINE][NEWLINE]During the reign of Catherine II of Russia, the Cossack Hetmanate's autonomy was progressively destroyed. After several earlier attempts, the office of hetman was finally abolished by the Russian government in 1764, and his functions were assumed by the Little Russian Collegium, thus fully incorporating the Hetmanate into the Russian Empire.</Text>
+		</Row>
+		<!-- City Names -->
+		<Row Tag="TXT_KEY_CITY_NAME_UKRAINE_LS_MOD_KYIV">
+			<Text>Kyiv</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_UKRAINE_LS_MOD_KHARKIV">
+			<Text>Kharkiv</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_UKRAINE_LS_MOD_DNIPROPETROVSK">
+			<Text>Dnipropetrovsk</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_UKRAINE_LS_MOD_ODESA">
+			<Text>Odesa</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_UKRAINE_LS_MOD_DONETSK">
+			<Text>Donetsk</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_UKRAINE_LS_MOD_ZAPORIZHIA">
+			<Text>Zaporizhia</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_UKRAINE_LS_MOD_LVIV">
+			<Text>Lviv</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_UKRAINE_LS_MOD_KRYVYI_RIH">
+			<Text>Kryvyi Rih</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_UKRAINE_LS_MOD_MYKOLAIV">
+			<Text>Mykolaiv</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_UKRAINE_LS_MOD_MARIUPOL">
+			<Text>Mariupol</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_UKRAINE_LS_MOD_LUHANSK">
+			<Text>Luhansk</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_UKRAINE_LS_MOD_MAKIIVKA">
+			<Text>Makiivka</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_UKRAINE_LS_MOD_VINNYTSIA">
+			<Text>Vinnytsia</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_UKRAINE_LS_MOD_SIMFEROPOL">
+			<Text>Simferopol</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_UKRAINE_LS_MOD_SEVASTOPOL">
+			<Text>Sevastopol</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_UKRAINE_LS_MOD_KHERSON">
+			<Text>Kherson</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_UKRAINE_LS_MOD_POLTAVA">
+			<Text>Poltava</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_UKRAINE_LS_MOD_CHERNIHIV">
+			<Text>Chernihiv</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_UKRAINE_LS_MOD_CHERKASY">
+			<Text>Cherkasy</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_UKRAINE_LS_MOD_SUMY">
+			<Text>Sumy</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_UKRAINE_LS_MOD_HORLIVKA">
+			<Text>Horlivka</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_UKRAINE_LS_MOD_ZHYTOMYR">
+			<Text>Zhytomyr</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_UKRAINE_LS_MOD_KIROVOHRAD">
+			<Text>Kirovohrad</Text>
+		</Row>
+		<!-- Spy Names -->
+		<Row Tag="TXT_KEY_SPY_NAME_UKRAINE_LS_MOD_0">
+			<Text>Bohdan</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_UKRAINE_LS_MOD_1">
+			<Text>Wasyl</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_UKRAINE_LS_MOD_2">
+			<Text>Viktor</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_UKRAINE_LS_MOD_3">
+			<Text>Marko</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_UKRAINE_LS_MOD_4">
+			<Text>Ivan</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_UKRAINE_LS_MOD_5">
+			<Text>Kalyna</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_UKRAINE_LS_MOD_6">
+			<Text>Iryna</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_UKRAINE_LS_MOD_7">
+			<Text>Larisa</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_UKRAINE_LS_MOD_8">
+			<Text>Nataliya</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_UKRAINE_LS_MOD_9">
+			<Text>Daryna</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_UKRAINE_LS_MOD_BOHDAN_KHMELNYTSKY_DESC">
+			<Text>Bohdan Khmelnytsky</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_UKRAINE_LS_MOD_BOHDAN_KHMELNYTSKY_LIVED">
+			<Text>1648 - 1657</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_UKRAINE_LS_MOD_BOHDAN_KHMELNYTSKY_NAME">
+			<Text>Bohdan Khmelnytsky</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_UKRAINE_LS_MOD_BOHDAN_KHMELNYTSKY_SUBTITLE">
+			<Text>Hetman</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_UKRAINE_LS_MOD_BOHDAN_KHMELNYTSKY_HEADING_1">
+			<Text>History</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_UKRAINE_LS_MOD_BOHDAN_KHMELNYTSKY_TEXT_1">
+			<Text>Khmelnytsky was probably born in the village of Subotiv, near Chyhyryn in Ukraine at the estate of his father Mykhailo Khmelnytsky. Even though his father, a courtier of Great Crown Hetman Stanisław Żółkiewski, was of noble birth himself and belonged to the Clan Massalski, Abdank or Syrokomla, there was and is still controversy as to whether Bohdan belonged to the szlachta (Polish term for noblemen) himself. This, however, didn't prevent Khmelnytsky from considering himself a noble and his father's status as a deputy Starosta (elder) of Chyhyryn helped him to be considered as such by others. Later on, however, during the Uprising he would stress his mother's Cossack roots and his father's exploits with the Cossacks of the Sich. There is also no concrete evidence in regard to Khmelnytsky's early education. Several historians believe he received his elementary schooling from a church clerk until he was sent to one of Kiev's Orthodox fraternity schools. He continued his education in Polish at a Jesuit college, possibly in Jarosław, but more likely in Lviv, in the school founded by hetman Żółkiewski. He completed his schooling by 1617 and acquired a broad knowledge of world history and learned Polish and Latin. Later he learned Turkish, Tatar and French. Unlike many of the other Jesuit students, he did not embrace Roman Catholicism but remained Orthodox.[NEWLINE][NEWLINE]Upon completion of his studies in 1617, Bohdan entered into service with the Cossacks. As early as 1619 he was sent along with his father to Moldavia, as the Polish–Lithuanian Commonwealth entered into war with the Ottoman Empire. His first military engagement was a tragic one. During the battle of Cecora (Ţuţora) on 17 September 1620, his father was killed, and young Khmelnytsky among many others, including future hetman Stanisław Koniecpolski, was captured by the Turks. He spent the next two years in captivity in Constantinople, as a prisoner of an Ottoman Kapudan Pasha (presumably Parlak Mustafa Pasha).[NEWLINE][NEWLINE]While there is no concrete evidence as to how he returned to Ukraine, most historians believe he either escaped or his ransom was paid. After arriving home Bohdan returned to running his estate and advanced in his service in the Regiment. He first became a sotnyk and later advanced to the rank of a regiment scribe. He certainly had significant negotiation skills and commanded respect of his fellow Cossacks as on 30 August 1637 he was included in a delegation to Warsaw to plead the Cossacks' case before the Polish King Władysław IV. Serving in the army of a Polish magnate and great commander, hetman Stanisław Koniecpolski, he participated in a rather successful campaign as the Commonwealth army, part of which was Bohdan's regiment, scored a decisive victory over the Crimean Khanate in 1644.[NEWLINE][NEWLINE]Bohdan was thrust into history when a combination of personal grievances with the crown and local rebellions against Polish rule saw him become a Hetman (General). Rallying other Coassacks to his cause, Bohdan managed to win several decsive battles over the Poles. What made these Cossack successes notanle was the diplomatic and military skill of Khmelnytsky: under his leadership, the Cossack army moved to battle positions following his plans, Cossacks were proactive and decisive in their maneuvers and attacks, and most importantly, he not only managed to persuade large contingents of registered Cossacks to switch to his side, but also got the support of the Crimean Khan — his crucial ally for the many battles to come.[NEWLINE][NEWLINE]While he had made more progress against Polish sovreignty than anyone before, Bohdan was unable to forge a lasting treaty. What followed were a number of betrayals, backstabs and counter treaties that forced Bohdan to pledge his allegiance to the Russian Tsar, who had his own designs on Keivan Rus'. Khmelnytsky continued to fight for his people's indepedence until his death.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_DOM_UKRAINE_LS_MOD_BOHDAN_KHMELNYTSKY_TEXT">
+			<Text>All hail Bohdan Zynoviy Mykhailovych Khmelnytsky, the Hetman of the Zaporozhian Host and founder of the Cossack State. Your people were oppressed by the Polish magnates, whose ignorance led to the numerous rebellions of the proud, brave and numerous Cossacks. It was during one of these rebellions that you seized your chance! With diplomacy and military acumen you won countless battles against the Polish oppressors! Your brilliance was recognised, and you were democratically elected a Hetman. At last, in 1648, you made your triumphant entry into Kiev as a liberator and hero, sparking a Golden Age of prosperity in the newly born Cossack Hetmanate. After many years of struggle, your people were betrayed by their former protector: the Russian Empire. In the end, the two-headed eagle completely incorporated Ukraine, ending the freedom of Cossacks.[NEWLINE][NEWLINE]Hetman, Russia continues to oppress your people and they are in need of a strong and wise leader. They need a Cossack with wisdom and authority to harness their potential! Can you once again win their freedom? Can your leadership gain the respect of the whole World? Can you build a civilization that will stand the test of time?</Text>
+		</Row>
+		
+		<!--First Greeting messages from AI leaders-->
+		<Row Tag="TXT_KEY_LEADER_UKRAINE_LS_MOD_BOHDAN_KHMELNYTSKY_FIRSTGREETING_1">
+			<Text>I hope you are not here to take our freedom? We cossacks like our freedom. It might be a little problem if somebody would try to touch our freedom.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_UKRAINE_LS_MOD_BOHDAN_KHMELNYTSKY_FIRSTGREETING_2">
+			<Text>You have a pleasure to meet Bohdan Khmelnystky, great hetman and leader of Cossack Hetmanate. Now, step aside.</Text>
+		</Row>
+		<!--Defeated messages from AI leaders-->
+		<Row Tag="TXT_KEY_LEADER_UKRAINE_LS_MOD_BOHDAN_KHMELNYTSKY_DEFEATED_1">
+			<Text>Next time I will choose my friends and enemies more carefully. Except there is no next time... Or is there... my friend?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_UKRAINE_LS_MOD_BOHDAN_KHMELNYTSKY_DEFEATED_2">
+			<Text>You may take my life, but you will never take my freedom!</Text>
+		</Row>
+		<!-- Human repeats an action too much, gets the following responses -->
+		<Row Tag="TXT_KEY_LEADER_UKRAINE_LS_MOD_BOHDAN_KHMELNYTSKY_REPEAT_TOO_MUCH_1">
+			<Text>Stop blabbering and out with it. Why have you really come?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_UKRAINE_LS_MOD_BOHDAN_KHMELNYTSKY_REPEAT_TRADE_TOO_MUCH_1">
+			<Text>You have less sense than a Polish Magnate.</Text>
+		</Row>
+		<!-- Greetings -->
+		<Row Tag="TXT_KEY_LEADER_UKRAINE_LS_MOD_BOHDAN_KHMELNYTSKY_GREETING_HOSTILE_HELLO_1">
+			<Text>Come to admire all my freedom?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_UKRAINE_LS_MOD_BOHDAN_KHMELNYTSKY_GREETING_POLITE_HELLO_1">
+			<Text>Hello friend! Let us talk.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_UKRAINE_LS_MOD_BOHDAN_KHMELNYTSKY_GREETING_HOSTILE_HUMAN_AT_WAR_1">
+			<Text>I should kill you where you stand.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_UKRAINE_LS_MOD_BOHDAN_KHMELNYTSKY_GREETING_HUMAN_AT_WAR_1">
+			<Text>Perhaps you could do with some Cossacks on your side in that war, friend?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_UKRAINE_LS_MOD_BOHDAN_KHMELNYTSKY_HOSTILE_AGGRESSIVE_MILITARY_WARNING_1">
+			<Text>I see your actions and ask myself, do you seek death?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_UKRAINE_LS_MOD_BOHDAN_KHMELNYTSKY_GREETING_HOSTILE_AGGRESSIVE_PLOT_BUYING_1">
+			<Text>Coin is not culture. Remember that next time you go buying up land.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_UKRAINE_LS_MOD_BOHDAN_KHMELNYTSKY_GREETING_AGGRESSIVE_PLOT_BUYING_1">
+			<Text>Just because you can buy it does not mean it belongs to you. Those people deserve to choose their own country. I might help them.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_UKRAINE_LS_MOD_BOHDAN_KHMELNYTSKY_GREETING_HOSTILE_AGGRESSIVE_EXPANSION_1">
+			<Text>Do you settle new cities just to oppress a wider selection of natives?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_UKRAINE_LS_MOD_BOHDAN_KHMELNYTSKY_GREETING_AGGRESSIVE_EXPANSION_1">
+			<Text>Your aggressive expansion is vile. Correct your behaviour, or I shall correct it myself.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_UKRAINE_LS_MOD_BOHDAN_KHMELNYTSKY_GREETING_FRIENDLY_STRONG_MILITARY_1">
+			<Text>Your military is known to be mighty, perhaps we could liberate somewhere together some time?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_UKRAINE_LS_MOD_BOHDAN_KHMELNYTSKY_GREETING_FRIENDLY_STRONG_ECONOMY_1">
+			<Text>Your economy is a model for peace and prosperity, long may you reign.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_UKRAINE_LS_MOD_BOHDAN_KHMELNYTSKY_GREETING_HOSTILE_HUMAN_FEW_CITIES_1">
+			<Text>You have so few cities, I think it is better for everyone that way.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_UKRAINE_LS_MOD_BOHDAN_KHMELNYTSKY_GREETING_HOSTILE_HUMAN_SMALL_ARMY_1">
+			<Text>You'll need an army bigger than that to make up for your other shortcomings!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_UKRAINE_LS_MOD_BOHDAN_KHMELNYTSKY_GREETING_HOSTILE_HUMAN_IS_WARMONGER_1">
+			<Text>If you occupy any more cities we are going to have a falling out.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_UKRAINE_LS_MOD_BOHDAN_KHMELNYTSKY_TOO_SOON_FOR_DOF_1">
+			<Text>While there is little space left in my back for more daggers, I will hold off declaring you my friend just yet.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_UKRAINE_LS_MOD_BOHDAN_KHMELNYTSKY_DENOUNCE_1">
+			<Text>Your actions prove it, you cannot be trusted.[NEWLINE][NEWLINE]([COLOR_WARNING_TEXT]They have publicly denounced us! NOTE: You are not at war.[ENDCOLOR])</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_UKRAINE_LS_MOD_BOHDAN_KHMELNYTSKY_DENOUNCE_2">
+			<Text>After looking at the facts, it is clear that you are a menace to peace and liberty.[NEWLINE][NEWLINE]([COLOR_WARNING_TEXT]They have publicly denounced us! NOTE: You are not at war.[ENDCOLOR])</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_UKRAINE_LS_MOD_BOHDAN_KHMELNYTSKY_RESPONSE_TO_BEING_DENOUNCED_1">
+			<Text>It is simple. You are wrong.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_UKRAINE_LS_MOD_BOHDAN_KHMELNYTSKY_RESPONSE_TO_BEING_DENOUNCED_2">
+			<Text>As if your words held any weight with man or God. Pathetic.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_UKRAINE_LS_MOD_BOHDAN_KHMELNYTSKY_HUMAN_DOFED_FRIEND_1">
+			<Text>{1_CivName} is a force for good, let us all work together.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_UKRAINE_LS_MOD_BOHDAN_KHMELNYTSKY_HUMAN_DOFED_ENEMY_1">
+			<Text>{1_CivName} has impressed me before now with their plotting and iniquity. Thought you ought to know.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_UKRAINE_LS_MOD_BOHDAN_KHMELNYTSKY_HUMAN_DENOUNCED_FRIEND_1">
+			<Text>You speak out against {1_CivName}? I don't get along with liers.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_UKRAINE_LS_MOD_BOHDAN_KHMELNYTSKY_HUMAN_DENOUNCED_ENEMY_1">
+			<Text>{1_CivName} has commited numerous crimes. It is good to see others agree.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_UKRAINE_LS_MOD_BOHDAN_KHMELNYTSKY_HUMAN_DOF_SO_AI_DOF_1">
+			<Text>You trust {1_CivName}? Then so shall I.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_UKRAINE_LS_MOD_BOHDAN_KHMELNYTSKY_HUMAN_DOF_SO_AI_DENOUNCE_1">
+			<Text>So you are allying with {1_CivName}? I'm afraid I must do everything to prevent them gaining anymore advantages.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_UKRAINE_LS_MOD_BOHDAN_KHMELNYTSKY_HUMAN_DENOUNCE_SO_AI_DENOUNCE_1">
+			<Text>I share your convictions that {1_CivName} only causes problems for the civilized empires of the world. Perhaps the combination of our denouncements will teach them a lesson.</Text>
+		</Row>
+		<!-- General Diplo Text -->
+		<Row Tag="TXT_KEY_LEADER_UKRAINE_LS_MOD_BOHDAN_KHMELNYTSKY_COOP_WAR_REQUEST_1">
+			<Text>{1_PlayerName:textkey} oppresses men, women and children. In the name of liberty, they must be brought to justice.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_UKRAINE_LS_MOD_BOHDAN_KHMELNYTSKY_COOP_WAR_REQUEST_2">
+			<Text>{1_PlayerName:textkey} have plagued this Earth long enough. Will you join me in eradicating them?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_UKRAINE_LS_MOD_BOHDAN_KHMELNYTSKY_COOP_WAR_TIME_1">
+			<Text>{1_PlayerName:textkey} cannot use his words wisely, I suggest he should not draw breath much longer.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_UKRAINE_LS_MOD_BOHDAN_KHMELNYTSKY_DEC_FRIENDSHIP_1">
+			<Text>Let us ally against all the evils of this world.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_UKRAINE_LS_MOD_BOHDAN_KHMELNYTSKY_DEC_FRIENDSHIP_2">
+			<Text>It is good to have friends, perhaps you would be mine?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_UKRAINE_LS_MOD_BOHDAN_KHMELNYTSKY_AGGRESSIVE_MILITARY_WARNING_1">
+			<Text>It's come to my attention that you have a large number of Units near my borders. Do you mean for war? Speak the truth.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_UKRAINE_LS_MOD_BOHDAN_KHMELNYTSKY_PLOT_BUYING_WARNING_1">
+			<Text>Your oppressing of those plots you bought recently does not go unnoticed.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_UKRAINE_LS_MOD_BOHDAN_KHMELNYTSKY_PLOT_BUYING_SERIOUS_WARNING_1">
+			<Text>Your oppressing of those plots you bought recently does not go unnoticed.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_UKRAINE_LS_MOD_BOHDAN_KHMELNYTSKY_EXPANSION_SERIOUS_WARNING_1">
+			<Text>Keep placing cities and it won't just be me who wants you dead.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_UKRAINE_LS_MOD_BOHDAN_KHMELNYTSKY_EXPANSION_WARNING">
+			<Text>Expand once more. I dare you.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_UKRAINE_LS_MOD_BOHDAN_KHMELNYTSKY_RETURNED_CIVILIAN_1">
+			<Text>You gave those men their liberty. There is no greater gift.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_UKRAINE_LS_MOD_BOHDAN_KHMELNYTSKY_RETURNED_CIVILIAN_2">
+			<Text>This day will be remembered in both our histories.</Text>
+		</Row>
+		<!--Insults-->
+		<Row Tag="TXT_KEY_LEADER_UKRAINE_LS_MOD_BOHDAN_KHMELNYTSKY_INSULT_1">
+			<Text>I haven't wanted someone dead this much since I invaded Poland.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_UKRAINE_LS_MOD_BOHDAN_KHMELNYTSKY_INSULT_2">
+			<Text>I've had my scribe draw up a list of reasons you should jump into the Dnieper.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_UKRAINE_LS_MOD_BOHDAN_KHMELNYTSKY_INSULT_3">
+			<Text>Thought I should let you in on a little secret: I make toilet paper out of your treaties.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_UKRAINE_LS_MOD_BOHDAN_KHMELNYTSKY_INSULT_4">
+			<Text>Forgive me, but I couldn't help noticing, are you always this useless at the game?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_UKRAINE_LS_MOD_BOHDAN_KHMELNYTSKY_INSULT_MILITARY_1">
+			<Text>You aren't going to fight off Cossacks with... that.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_UKRAINE_LS_MOD_BOHDAN_KHMELNYTSKY_INSULT_MILITARY_2">
+			<Text>You need to respect warfare. Build more soldiers, this is advice I am giving you.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_UKRAINE_LS_MOD_BOHDAN_KHMELNYTSKY_INSULT_BULLY_1">
+			<Text>Ha! You know how many bullies I've had to deal with? You don't even get in the top ten.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_UKRAINE_LS_MOD_BOHDAN_KHMELNYTSKY_INSULT_UNHAPPINESS_1">
+			<Text>You know what would be worse than being you? Being one of your citizens.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_UKRAINE_LS_MOD_BOHDAN_KHMELNYTSKY_INSULT_UNHAPPINESS_2">
+			<Text>Your people hate you more than I do. That's saying something.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_UKRAINE_LS_MOD_BOHDAN_KHMELNYTSKY_INSULT_CITIES_1">
+			<Text>I have seen horse dung more impressive than your cities.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_UKRAINE_LS_MOD_BOHDAN_KHMELNYTSKY_INSULT_POPULATION_1">
+			<Text>Have you always had so few citizens? Or did they all leave?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_UKRAINE_LS_MOD_BOHDAN_KHMELNYTSKY_INSULT_CULTURE_1">
+			<Text>What's the difference between you and horse milk? Leave horse milk alone for 200 turns and it will develop a culture. Ha!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_UKRAINE_LS_MOD_BOHDAN_KHMELNYTSKY_INSULT_CULTURE_2">
+			<Text>Your culture is so unimpressive, if I liberate your cities they will return to the barbarians.</Text>
+		</Row>
+		<!--Public Declarations-->
+		<Row Tag="TXT_KEY_LEADER_UKRAINE_LS_MOD_BOHDAN_KHMELNYTSKY_DECLARATION_PROTECT_CITY_STATE_1">
+			<Text>{2_MajorCivName:textkey} announces to the world that it is now protecting {1_MinorCivName:textkey}. Attacking the City-State will greatly damage relations and may lead to war.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_UKRAINE_LS_MOD_BOHDAN_KHMELNYTSKY_DECLARATION_ABANDON_CITY_STATE_1">
+			<Text>{2_MajorCivName:textkey} has taken back its guarantee of protecting {1_MinorCivName:textkey}.</Text>
+		</Row>
+		<!-- Human is asking the AI for something -->
+		<Row Tag="TXT_KEY_LEADER_UKRAINE_LS_MOD_BOHDAN_KHMELNYTSKY_DONT_SETTLE_NO_1">
+			<Text>I am not an expansionist. I know that if I settle somewhere, it is right.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_UKRAINE_LS_MOD_BOHDAN_KHMELNYTSKY_DONT_SETTLE_YES_1">
+			<Text>You are right, I might have oppressed some natives.</Text>
+		</Row>
+		<!--Deal Offers and related-->
+		<Row Tag="TXT_KEY_LEADER_UKRAINE_LS_MOD_BOHDAN_KHMELNYTSKY_LUXURY_TRADE_1">
+			<Text>We must let all who desire happiness find it.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_UKRAINE_LS_MOD_BOHDAN_KHMELNYTSKY_OPEN_BORDERS_EXCHANGE_1">
+			<Text>Open your borders so that we may no each other better.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_UKRAINE_LS_MOD_BOHDAN_KHMELNYTSKY_RESPONSE_REQUEST_1">
+			<Text>I regret that due to recent backstabbings, I am in need of aid.</Text>
+		</Row>
+		<!--AI Attacked by Human - Strong and Weak also include the default response sets-->
+		<Row Tag="TXT_KEY_LEADER_UKRAINE_LS_MOD_BOHDAN_KHMELNYTSKY_ATTACKED_HOSTILE_1">
+			<Text>Predictable.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_UKRAINE_LS_MOD_BOHDAN_KHMELNYTSKY_ATTACKED_EXCITED_1">
+			<Text>You? Attack me? Ha! Prepare to be liberated.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_UKRAINE_LS_MOD_BOHDAN_KHMELNYTSKY_ATTACKED_SAD_1">
+			<Text>I expect most people to stab me in the back, but not you.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_UKRAINE_LS_MOD_BOHDAN_KHMELNYTSKY_ATTACKED_BETRAYED_1">
+			<Text>You know I talk a lot about backstabbing, but this... this is a BETRAYAL!</Text>
+		</Row>
+		<!--AI Declaring War on Human - Strong and Weak also include the default response sets-->
+		<Row Tag="TXT_KEY_LEADER_UKRAINE_LS_MOD_BOHDAN_KHMELNYTSKY_DOW_GENERIC_1">
+			<Text>For the horde!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_UKRAINE_LS_MOD_BOHDAN_KHMELNYTSKY_DOW_LAND_1">
+			<Text>My people need livingspace.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_UKRAINE_LS_MOD_BOHDAN_KHMELNYTSKY_DOW_LAND_2">
+			<Text>My people need livingspace.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_UKRAINE_LS_MOD_BOHDAN_KHMELNYTSKY_DOW_WORLD_CONQUEST_1">
+			<Text>Before I mount your head on a spike, I'll let you in on a secret. I don't really want to liberate people. I want to RULE them!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_UKRAINE_LS_MOD_BOHDAN_KHMELNYTSKY_DOW_WORLD_CONQUEST_2">
+			<Text>The way I see it you weren't going to win anyway, might as well help improve my chances.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_UKRAINE_LS_MOD_BOHDAN_KHMELNYTSKY_DOW_OPPORTUNITY_1">
+			<Text>My people must survive. Unfortunately that means yours will not.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_UKRAINE_LS_MOD_BOHDAN_KHMELNYTSKY_DOW_OPPORTUNITY_2">
+			<Text>It was only a matter of time before you backstabbed me, better to strike first.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_UKRAINE_LS_MOD_BOHDAN_KHMELNYTSKY_DOW_DESPERATE_1">
+			<Text>My people must survive. It is their birthright.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_UKRAINE_LS_MOD_BOHDAN_KHMELNYTSKY_DOW_DESPERATE_2">
+			<Text>My people must survive. It is their birthright.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_UKRAINE_LS_MOD_BOHDAN_KHMELNYTSKY_DOW_BETRAYAL_1">
+			<Text>I am an expect on backstabbing.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_UKRAINE_LS_MOD_BOHDAN_KHMELNYTSKY_DOW_BETRAYAL_2">
+			<Text>I call this one the Sevastopol Shuffle.</Text>
+		</Row>
+		<!--AI Responses to a human peace offer-->
+		<Row Tag="TXT_KEY_LEADER_UKRAINE_LS_MOD_BOHDAN_KHMELNYTSKY_TOO_SOON_NO_PEACE_1">
+			<Text>I'm not feeling like a treaty right now.</Text>
+		</Row>
+		<!--AI Responses to a discussion mode topics-->
+		<Row Tag="TXT_KEY_LEADER_UKRAINE_LS_MOD_BOHDAN_KHMELNYTSKY_BAD_1">
+			<Text>Ha!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_UKRAINE_LS_MOD_BOHDAN_KHMELNYTSKY_BAD_2">
+			<Text>Every Cossack will know of your... character.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_UKRAINE_LS_MOD_BOHDAN_KHMELNYTSKY_BAD_3">
+			<Text>You test my skill at diplomacy.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_UKRAINE_LS_MOD_BOHDAN_KHMELNYTSKY_GOOD_1">
+			<Text>Excellent.</Text>
+		</Row>
+		
+		<Row Tag="TXT_KEY_TRAIT_LS_RAIDS_SHORT">
+			<Text>Raids</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_LS_RAIDS">
+			<Text>Gain [ICON_FOOD] Food and points toward next Hetman from pillaging enemy improvements.</Text>
+		</Row>
+		
+		
+			<Row Tag="TXT_KEY_UNIT_SICH_COSSACK">
+				<Text>Sich Cossack</Text>
+			</Row>
+			<Row Tag="TXT_KEY_UNIT_SICH_COSSACK_HELP">
+				<Text>May only be built by the Hetmanate. This Unit can use foreign roads in opposite to the Lancer, which it replaces. If killed in enemy territory, there is a chance (greater with higher level of unit) that two new adventurous Sich Cossacks appear in your territory.</Text>
+			</Row>
+			<Row Tag="TXT_KEY_UNIT_SICH_COSSACK_TEXT">
+				<Text>The Sich Cossacks were the inhabitants of the Zaporizhian Sich, which was a historical territory that existed between the 16th and 18th centuries, the center of which was located in the region around today's Kakhovka Reservoir. Usually displayed mounted with sabers or long spears, they were a warrior people; always the most feared troops under whichever banner they fought.</Text>
+			</Row>
+			<Row Tag="TXT_KEY_UNIT_SICH_COSSACK_STRATEGY">
+				<Text>Using enemy roads, the Sich Cossack are even more mobile than the already highly mobile lancer, which they replace. Use them for offensive suicidal actions in order to achieve great army of Cossacks, if you feel lucky enough.</Text>
+			</Row>
+
+			<Row Tag="TXT_KEY_UNIT_LS_SERDIUK">
+				<Text>Serdiuk</Text>
+			</Row>
+			<Row Tag="TXT_KEY_CIVILOPEDIA_UNITS_SERDIUK_LS_TEXT">
+				<Text>Serdiuk regiments. Units of mercenary infantry (see Mercenary regiments) organized by the Hetman state in the late 17th and early 18th century for military and police duty. They were paid and outfitted by the Hetman state. The first regiments were organized by Petro Doroshenko in Right-Bank Ukraine, and they soon spread to Left-Bank Ukraine as well. Their volunteer soldiers (see Volunteer regiments) were mainly Ukrainian peasants, Moldavians, and defecting registered Cossacks. There were three or four Serdiuk regiments, each consisting of approx 400 to 500 soldiers. They were used in frontier military campaigns, as guards for the hetman's residence, and as guards at weapons depots. They were responsible directly and only to the hetman. Serdiuk regiments were abolished by a tsarist ukase issued on 14 July 1726.</Text>
+			</Row>
+			<Row Tag="TXT_KEY_UNIT_LS_SERDIUK_STRATEGY">
+				<Text>The Serdiuk is an Hetmanate unique unit, replacing the Musketman.</Text>
+			</Row>
+			<Row Tag="TXT_KEY_UNIT_HELP_LS_SERDIUK">
+				<Text>One of the first gunpowder units of the game. Only the Hetmanate may build it. This Unit is weaker, cheaper and can pillage enemy improvements at no additional cost, unlike the Musketman which it replaces.</Text>
+			</Row>
+		
+			<Row Tag="TXT_KEY_UNIT_LS_HETMAN">
+				<Text>Hetman</Text>
+			</Row>
+			<Row Tag="TXT_KEY_UNIT_LS_HETMAN_HELP">
+				<Text>Unique Great Person of Hetmanate. In contrast to the Great General, Hetman can build citadel twice before unit is consumed. After defeating stronger opponents in melee combat units will have their [ICON_STRENTGTH] Combat Strength adequally adjusted if they were under the effect of Hetman's great general bonus.</Text>
+			</Row>
+			<Row Tag="TXT_KEY_UNIT_LS_HETMAN_TEXT">
+				<Text>At the end of the sixteenth century, the commanders of the Zaporizhian Cossacks were called Koshovyi Otaman or Hetmans. In 1572, the Hetman was also a commander of the Registered Cossack Army of the Rzeczpospolita. From 1648, the start of Bohdan Khmelnytsky's uprising, a Hetman was the head of the whole Ukrainian State - Hetmanshchyna. Although they were elected, Ukrainian Hetmans had very broad powers and acted as heads of the Cossack state, their supreme military commanders, and top legislators (by issuing administrative decrees).</Text>
+			</Row>
+			<Row Tag="TXT_KEY_UNIT_LS_HETMAN_STRATEGY">
+				<Text>Because the Hetman is not consumed by contructing a Citadel, it is always benefical to do so, and this results in the Hetmanate becoming highly defensible.</Text>
+			</Row>
+			<Row Tag="TXT_KEY_PROMOTION_LS_HETBORN">
+				<Text>Sich Fortress</Text>
+			</Row>
+			<Row Tag="TXT_KEY_PROMOTION_LS_HETBORN_HELP">
+				<Text>Hetman can create two citadels before being expended.</Text>
+			</Row>
+		</Language_en_US>
+</GameData>

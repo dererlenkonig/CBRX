@@ -1,0 +1,498 @@
+<GameData>
+	<Language_en_US>
+		<Row Tag="TXT_KEY_KHMER_LS_MOD_DESC">
+			<Text>Khmer Empire</Text>
+		</Row>
+		<Row Tag="TXT_KEY_KHMER_LS_MOD_SHORT_DESC">
+			<Text>Khmer</Text>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_KHMER_LS_MOD_ADJECTIVE">
+			<Text>Khmer</Text>
+		</Row>
+		<Row Tag="TXT_KEY_KHMER_LS_MOD">
+			<Text>Khmer</Text>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_KHMER_LS_MOD_HEADING_1">
+			<Text>The Khmer Empire</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_KHMER_LS_MOD_TEXT_1">
+			<Text>The Khmer Empire now known as Cambodia was the most powerful state in Indochina for over 600 years. The empire, which grew out of the former Kingdom of Funan and Chenla, at times ruled over and/or vassalized most of mainland Southeast Asia, parts of modern-day Laos, Thailand, and southern Vietnam. Its greatest legacy is Angkor, which was the site of the capital city during the empire's zenith. The majestic monuments of Angkor — such as Angkor Wat and Bayon — bear testimony to the Khmer empire's immense power and wealth, impressive art and culture, architectural technique and aesthetics achievements, as well as the variety of belief systems that it patronised over time. The beginning of the era of the Khmer Empire is conventionally dated to 802 AD. In this year, King Jayavarman II had himself declared Chakravartin ("king of the world", or "king of kings") on Phnom Kulen. The empire ended with the fall of Angkor in the 15th century.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_KHMER_LS_MOD_HEADING_2">
+			<Text>History of the Khmer Empire</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_KHMER_LS_MOD_TEXT_2">
+			<Text>By the 7th century CE, Khmer people inhabited territories along the Mekong river -the world’s seventh longest river - from the delta to roughly the modern Cambodia-Laos border, plus the region between that river and the great Tonle Sap lake to the west and the area running along the Tonle Sap river (which runs from the lake to the sea, joining the Mekong in the delta). There were several kingdoms at constant war against each other, with art and culture heavily influenced by India due to long established sea trade routes with that subcontinent.[NEWLINE][NEWLINE]Hinduism mostly, but Buddhism as well, were important religions in the region, mixed with animist and traditional cults. Important cities from that time include Angkor Borei, Sambor Prei Kuk, Banteay Prei Nokor and Wat Phu. A man called Jayavarman II, who is said to have come from a place named Java - which may or may not be the island we call Java in Southeast Asia, led a series of successful military campaigns, subjugating most of these petty kingdoms, that resulted in the founding of a large territorial state. In 802 CE he took the title chakravartin, “universal ruler”, and that date is used to signal the start of the empire.[NEWLINE][NEWLINE]Using the city of Angkor as capital, for the next centuries the Khmer empire expanded its territorial base, mostly to the north (entering the Khorat plateau) and the west, to the Chao Phraya basin and beyond. To the east outcomes were different: several times the Khmer fought wars against two neighboring peoples with powerful kingdoms, the Cham (in today’s central Vietnam) and the Vietnamese (in today’s northern Vietnam). Despite some victories, as in 1145 CE, when Cham’s capital Vijaya was taken, the empire was never able to annex those lands. Conversely, Chams and Vietnamese enjoyed some victories of their own, the most spectacular of which was Cham’s humiliating revenge, looting Angkor (1177 CE) and pushing the empire to the edge of destruction.[NEWLINE][NEWLINE]Throughout the empire’s history, Khmer’s court was repeatedly concerned with putting down rebellions initiated by ambitious nobles trying to achieve independence, or fighting conspiracies against the king. This was particularly true each time a king died, as successions were usually contested.[NEWLINE][NEWLINE]The Khmer were great builders, filling the landscape with monumental temples, huge reservoirs (called baray) and canals, and laying an extensive road network with all sorts of bridges -the main highways are 800 km long. The most stunning temple, Angkor Wat, is a microcosm of the Hindu universe and defies imagination as the world’s largest religious complex - covering 200 hectares; nowadays it is crowded with tourists amazed with ruins that until recently were covered by the jungle. Its construction took some 30 years and was started by one of the greatest kings, Suryavarman II, around 1122 CE.[NEWLINE][NEWLINE]The empire’s greatest king was Jayavarman VII (r. 1181 CE - 1215 CE). He expelled the Chams who took Angkor, restoring the realm from anarchy, and then invaded Champa (Cham’s kingdom). The scale of his construction programme was unprecedented: he built temples, monuments, highways, a hundred hospitals, and the spectacular Angkor Thom complex - a city within a city in Angkor. Jayavarman also expanded the empire’s territorial control to its zenith.[NEWLINE][NEWLINE]Angkor’s original name was Yashodharapura (“Glory-bearing city”), and at its apogee it was the biggest city in the world, covering an area of a thousand square kilometres, close to that of modern Los Angeles in the USA. Its population is much harder to estimate, but a figure of aproximately one million is acceptable.[NEWLINE][NEWLINE]The Khmer were festive people, with many celebrations all the year round. Wrestling, horse races, cock fights, fireworks, music and dances were an integral part of their culture. Most of the realm’s commerce was apparently in the hands of women.The king and the elite were transported on palanquins, and used umbrellas to cover from the sun. There were several religious beliefs present, with Hinduism being favoured (yet not exclusively) by the the kings at first, and Buddhism later. The state was divided into approximately 23 provinces, with a sophisticated administration and extensive personnel going down even to the village level. Censuses were carried out periodically. Although key to the empire’s prosperity, the high officers of this bureaucracy were also part of the plots that plagued the court’s history.[NEWLINE][NEWLINE]The empire’s decline and final collapse is deeply connected with the great Thai migration of the 12th-14th centuries CE. They inhabitated an area to the north of the empire, roughly where China ends and Southeast Asia begins; the Yunnan. It is a mountainous, harsh land, where a Thai kingdom called Nanchao existed. For unknown reasons, Thai populations started migrating south, in small groups at first. Thais first appear in records as as hired mercenaries for the empire, and their numbers rose as they began to establish themselves as settlers in marginal areas. The migration intensified when Mongol campaigns shook China, and when the Mongols took Yunnan in 1253 CE, further pressure for Thai migration ensued. Eventually the Thai created their own small kingdoms, the most important of them in the western side of the empire. As these kingdoms grew in power, they started to attack and annex imperial territories. The empire’s economy by this time may also have been deteriorated by increased silting of the massive water works that the Khmer core area depended on. The Thai kingdom of Ayutthaya took Angkor in 1431 CE, which constitutes the end of the Khmer empire.</Text>
+		</Row>
+		<!-- City Names -->
+		<Row Tag="TXT_KEY_CITY_NAME_KHMER_LS_MOD_ANGKOR_THOM">
+			<Text>Angkor Thom</Text>
+			<Gender>neuter:an</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_KHMER_LS_MOD_YASODHARAPURA">
+			<Text>Yasodharapura</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_KHMER_LS_MOD_HARIHARALAYA">
+			<Text>Hariharalaya</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_KHMER_LS_MOD_NAGARA_JAYASRI">
+			<Text>Nagara Jayasri</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_KHMER_LS_MOD_RAJAVIHARA">
+			<Text>Rajavihara</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_KHMER_LS_MOD_ISVARAPURA">
+			<Text>Isvarapura</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_KHMER_LS_MOD_BANTEAY_KDEI">
+			<Text>Banteay Kdei</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_KHMER_LS_MOD_JAYENDRANAGARI">
+			<Text>Jayendranagari</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_KHMER_LS_MOD_PRE_RUP">
+			<Text>Pre Rup</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_KHMER_LS_MOD_VIMAYAPURA">
+			<Text>Vimayapura</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_KHMER_LS_MOD_LINGAPURA">
+			<Text>Lingapura</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_KHMER_LS_MOD_KRONG_CHAKTOMUK">
+			<Text>Krong Chaktomuk</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_KHMER_LS_MOD_CHOK_GARGYAR">
+			<Text>Chok Gargyar</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_KHMER_LS_MOD_MAHENDRAPARVATA">
+			<Text>Mahendraparvata</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_KHMER_LS_MOD_AMARENDRAPURA">
+			<Text>Amarendrapura</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_KHMER_LS_MOD_LAVO">
+			<Text>Lavo</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_KHMER_LS_MOD_INDRAPURA">
+			<Text>Indrapura</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_KHMER_LS_MOD_PREAH_VIHEAR">
+			<Text>Preah Vihear</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_KHMER_LS_MOD_PHANOM_RUNG">
+			<Text>Phanom Rung</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_KHMER_LS_MOD_MUANG_TAM">
+			<Text>Muang Tam</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_KHMER_LS_MOD_BENG_MELEA">
+			<Text>Beng Melea</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_KHMER_LS_MOD_PRASAT_BAKAN">
+			<Text>Prasat Bakan</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_KHMER_LS_MOD_SINGHAPURA">
+			<Text>Singhapura</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_KHMER_LS_MOD_CHALIENG">
+			<Text>Chalieng</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_KHMER_LS_MOD_VIANGCHAN">
+			<Text>Viangchan</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_KHMER_LS_MOD_PREY_NOKOR">
+			<Text>Prey Nokor</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_KHMER_LS_MOD_SHRESTAPURA">
+			<Text>Shrestapura</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_KHMER_LS_MOD_VYADHAPURA">
+			<Text>Vyadhapura</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_KHMER_LS_MOD_BHAVAPURA">
+			<Text>Bhavapura</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_KHMER_LS_MOD_SAMBHUPURA">
+			<Text>Sambhupura</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_KHMER_LS_MOD_LOVEK">
+			<Text>Lovek</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_KHMER_LS_MOD_UDONG">
+			<Text>Udong</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_KHMER_LS_MOD_O_KEO">
+			<Text>O Keo</Text>
+		</Row>
+		<!-- Spy Names -->
+		<Row Tag="TXT_KEY_SPY_NAME_KHMER_LS_MOD_0">
+			<Text>Akkarat</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_KHMER_LS_MOD_1">
+			<Text>Boon-mee</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_KHMER_LS_MOD_2">
+			<Text>Ubol</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_KHMER_LS_MOD_3">
+			<Text>Wittaya</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_KHMER_LS_MOD_4">
+			<Text>Santichai</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_KHMER_LS_MOD_5">
+			<Text>Intira</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_KHMER_LS_MOD_6">
+			<Text>Dok-rak</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_KHMER_LS_MOD_7">
+			<Text>Sangwan</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_KHMER_LS_MOD_8">
+			<Text>Simla</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_KHMER_LS_MOD_9">
+			<Text>Ngam</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_KHMER_LS_MOD_SURYAVARMAN_II_DESC">
+			<Text>Suryavarman II</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_KHMER_LS_MOD_SURYAVARMAN_II_LIVED">
+			<Text>11th century A.D.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_KHMER_LS_MOD_SURYAVARMAN_II_NAME">
+			<Text>Suryavarman II</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_KHMER_LS_MOD_SURYAVARMAN_II_SUBTITLE">
+			<Text>King</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_KHMER_LS_MOD_SURYAVARMAN_II_TITLES_1">
+			<Text>Emperor</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_KHMER_LS_MOD_SURYAVARMAN_II_HEADING_1">
+			<Text>History</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_KHMER_LS_MOD_SURYAVARMAN_II_TEXT_1">
+			<Text>Suryavarman appears to have grown up in a provincial estate, at a time of weakening central control in the empire. An inscription lists his father as Ksitindraditya and his mother as Narendralakshmi. As a young prince, he maneuvered for power, contending he had a legitimate claim to the throne. “At the end of his studies,” states an inscription, “he approved the desire of the royal dignity of his family.” He appears to have dealt with a rival claimant from the line of Harshavarman III, which held sway in the south, then to have turned on the elderly and largely ineffectual king Dharanindravarman I, his great uncle. “Leaving on the field of combat the ocean of his armies, he delivered a terrible battle,” states an inscription. “Bounding on the head of the elephant of the enemy king, he killed him, as Garuda on the edge of a mountain would kill a serpent.” Scholars have disagreed on whether this language refers to the death of the southern claimant or King Dharanindravarman.[NEWLINE][NEWLINE]Suryavarman was enthroned in 1113 AD. An aged Brahmin sage named Divakarapandita oversaw the ceremonies, this being the third time the priest had officiated coronation. Inscriptions record that the new monarch studied sacred rituals, celebrated religious festivals and gave gifts to the priest such as palanquins, fans, crowns, buckets and rings. The priest embarked on a lengthy tour of temples in the empire, including the mountaintop Preah Vihear, which he provided with a golden statue of dancing Shiva. The king’s formal coronation took place in 1119 AD, with Divakarapandita again performing the rites.[NEWLINE][NEWLINE]During his decades in power, the king reunited the empire, reversing many of the benign policies of his predecessor, historians believe. Vassals paid him tribute. In the west and north, his soldiers expanded the borders to cover new parts of present-day Thailand, Laos and Peninsular Malaysia. He staged large military operations in eastern Champa as well, but these were largely unsuccessful, at least according to accounts from the empire's rivals. As is common in reconstructing Khmer history, there is plenty of room for debating these and other precise events. Khmer inscriptions, a major source of information, may exaggerate the empire's accomplishments, while accounts from rival states may do the same with its shortcomings.[NEWLINE][NEWLINE]In addition to war, Suryavarman practiced diplomacy, resuming formal relations with China in 1116 AD. A Chinese account of the 13th century says that the Khmer embassy had 14 members, who after reaching Chinese soil were given special court garments. “Scarcely have we arrived to contemplate anear your glory than we are already filled with your benefits,” one of the ambassadors is quoted as telling the Chinese emperor. The embassy went home the following year. Another embassy visited in 1120 AD; in 1128 AD, the emperor conferred high dignities on the Khmer ruler, deeming him “great vassal of the empire.” Problems concerning commerce between the two states were examined and regulated.[NEWLINE][NEWLINE]The king's reign saw great innovations in art and architecture. He presided over construction of Angkor Wat, the largest temple ever built in the capital, and in many modern minds the ultimate masterpiece of Khmer architecture. Its five central towers evoke the peaks of Mount Meru, home of the Hindu gods. It was resplendent with more than 1,860 carved apsara, or heavenly nymphs, and hundreds of meters of elaborate bas reliefs depicting the Hindu legends and scenes from contemporary life. Other temples dating to his reign include Banteay Samre, Thommanon, Chau Say Tevoda and, east of the capital, the huge Beng Mealea complex.[NEWLINE][NEWLINE]Suryavarman married, but no record exists of his wives' names. Suryavarman II was unusual among Khmer kings in making Vishnu rather than Shiva the focus of court religious life. The reasons for this decision are not known. Scholars have long debated whether his association with Vishnu helps explain why Angkor Wat faces west, the cardinal direction with which Vishnu is associated, rather than the common orientation for Khmer temples of east.[NEWLINE][NEWLINE]Suryavarman II is the first Khmer king to be depicted in art. A bas relief in the south gallery of Angkor Wat shows him seated on an elaborate wooden dais whose legs and railings are carved to resemble naga snakes. On his head is a pointed diadem, and his ears have pendants. He wears anklets, armlets and bracelets. His right hand holds what seems to be a small dead snake—its meaning is unclear. His torso curves gracefully, his legs folded beneath him. The general image projected is one of serenity, and comfort with power and position.[NEWLINE][NEWLINE]His image is part of a unique and detailed portrait of court life in the Angkor period. The scene's setting appears to be outside, amidst a forest. Kneeling attendants hold over His Majesty a profusion of fans, fly whisks and parasols that denoted rank. Princesses are carried in elaborately carved palanquins. Whiskered Brahman priests look on, some of them apparently preparing things for a ceremony. To the right of His Majesty, a courtier kneels, apparently presenting something. Advisers look on, kneeling, some with hands over hearts in a gesture of obeisance. To the right we see an elaborate procession, with retainers sounding conches, drums and a gong. An ark bearing the royal fire, symbol of power, is carried on shoulders.[NEWLINE][NEWLINE]Inscriptional evidence suggests that Suryavarman II died between 1145 AD and 1150 AD, possibly during a military campaign against Champa. He was succeeded by Dharanindravarman II, a cousin, son of the brother of the king’s mother. A period of weak rule and feuding began.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DAWN_OF_MAN_KHMER_LS_MOD_TEXT">
+			<Text>Great Suryavarman, Emperor of the Khmer, the one who has entered the heavenly world of Vishnu, the constructor of the Angkor Wat, we kneel blinded by your glory! You reunited a divided empire and made Her stronger than ever before, expanding Her borders to the west and north, reaching the present-day peninsular Malaysia. Merciless to enemies, kind to friends, you established good relations with China, creating new important trade routes. You gave the order to build the legendary Angkor Wat, the largest temple in the known world! History remembers you as a warrior, diplomat, artist and religious man. Your empire collapsed below its own greatness long before the Europeans managed to create their "civilizations".[NEWLINE][NEWLINE]Once again, your people long for mighty temples that stretch beyond the horizon! Yet, enemies of the empire also grow in strength. Can you bring back the glory of Angkor? Can you smite your insolent enemies? Can you build a civilization that will stand the test of time?</Text>
+		</Row>
+		<!--First Greeting messages from AI leaders-->
+		<Row Tag="TXT_KEY_LEADER_KHMER_LS_MOD_SURYAVARMAN_II_FIRSTGREETING_1">
+			<Text>You look upon the King of Angkor, Emperor of Khmer, rightful Ruler of the World and Master of the Universe!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_KHMER_LS_MOD_SURYAVARMAN_II_FIRSTGREETING_2">
+			<Text>The sages tell me I am probably a yet undiscovered incarnation of Vishnu. I suppose it explains the awed look on your face.</Text>
+		</Row>
+		<!--Defeated messages from AI leaders-->
+		<Row Tag="TXT_KEY_LEADER_KHMER_LS_MOD_SURYAVARMAN_II_DEFEATED_1">
+			<Text>What do you mean by "end"? Work is not finished! I have to build... one... more... temple...</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_KHMER_LS_MOD_SURYAVARMAN_II_DEFEATED_2">
+			<Text>You are too late! I have completed my destiny and nothing can take eternal glory from me, even death!</Text>
+		</Row>
+		<!-- Human repeats an action too much, gets the following responses -->
+		<Row Tag="TXT_KEY_LEADER_KHMER_LS_MOD_SURYAVARMAN_II_REPEAT_TOO_MUCH_1">
+			<Text>If I had a temple for every time you've said that...</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_KHMER_LS_MOD_SURYAVARMAN_II_REPEAT_TRADE_TOO_MUCH_1">
+			<Text>Get on with it, I'm busy ruling the universe.</Text>
+		</Row>
+		<!-- Greetings -->
+		<Row Tag="TXT_KEY_LEADER_KHMER_LS_MOD_SURYAVARMAN_II_GREETING_HOSTILE_HELLO_1">
+			<Text>Isn't it wonderful day for building? Imagine your people making glorious monuments... in Angkor.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_KHMER_LS_MOD_SURYAVARMAN_II_GREETING_POLITE_HELLO_1">
+			<Text>I'm sure you're eager to see all the new constructions!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_KHMER_LS_MOD_SURYAVARMAN_II_GREETING_HOSTILE_HUMAN_AT_WAR_1">
+			<Text>Don't tire your people out, they'll need all their strength when they're working in Angkor.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_KHMER_LS_MOD_SURYAVARMAN_II_GREETING_HUMAN_AT_WAR_1">
+			<Text>If there's any enemy soldiers left over, think about sending them to Angkor?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_KHMER_LS_MOD_SURYAVARMAN_II_HOSTILE_AGGRESSIVE_MILITARY_WARNING_1">
+			<Text>All this building has made my military rather strong. Don't test me.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_KHMER_LS_MOD_SURYAVARMAN_II_GREETING_HOSTILE_AGGRESSIVE_PLOT_BUYING_1">
+			<Text>Stop buying land! The world is mine!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_KHMER_LS_MOD_SURYAVARMAN_II_GREETING_AGGRESSIVE_PLOT_BUYING_1">
+			<Text>I heard you bought some land, would you let me buy some of your citizens? Shame...</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_KHMER_LS_MOD_SURYAVARMAN_II_GREETING_HOSTILE_AGGRESSIVE_EXPANSION_1">
+			<Text>I am the rightful owner of this planet, not you!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_KHMER_LS_MOD_SURYAVARMAN_II_GREETING_AGGRESSIVE_EXPANSION_1">
+			<Text>If you do not stop, I shall become angry and use my magic!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_KHMER_LS_MOD_SURYAVARMAN_II_GREETING_FRIENDLY_STRONG_MILITARY_1">
+			<Text>Your military is famed for its strong warriors. Perhaps you could spare a few? To... you know... build me more temples?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_KHMER_LS_MOD_SURYAVARMAN_II_GREETING_FRIENDLY_STRONG_ECONOMY_1">
+			<Text>Money is nice, temples are nicer. But, you know, whatever makes you happy, minion.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_KHMER_LS_MOD_SURYAVARMAN_II_GREETING_HOSTILE_HUMAN_FEW_CITIES_1">
+			<Text>You know I don't believe in having many cities either. The difference is mine are so large they each make up several of yours.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_KHMER_LS_MOD_SURYAVARMAN_II_GREETING_HOSTILE_HUMAN_SMALL_ARMY_1">
+			<Text>Your army is so weak that my very gaze will reduce them to piles of ASH! Mwhahahahahah.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_KHMER_LS_MOD_SURYAVARMAN_II_GREETING_HOSTILE_HUMAN_IS_WARMONGER_1">
+			<Text>While you rape and pillage I'm building enough temples to summon Shiva to wipe your Empire from this plane of existance.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_KHMER_LS_MOD_SURYAVARMAN_II_TOO_SOON_FOR_DOF_1">
+			<Text>I haven't decided whether or not to disintegrate you yet. Give me a few more turns.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_KHMER_LS_MOD_SURYAVARMAN_II_DENOUNCE_1">
+			<Text>You don't appreciate temples, it's over between us.[NEWLINE][NEWLINE]([COLOR_WARNING_TEXT]They have publicly denounced us! NOTE: You are not at war.[ENDCOLOR])</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_KHMER_LS_MOD_SURYAVARMAN_II_DENOUNCE_2">
+			<Text>You're lucky I'm too busy building temples to rain fire upon your cities just now. In the mean time I'm telling everyone how insignificant you are.[NEWLINE][NEWLINE]([COLOR_WARNING_TEXT]They have publicly denounced us! NOTE: You are not at war.[ENDCOLOR])</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_KHMER_LS_MOD_SURYAVARMAN_II_RESPONSE_TO_BEING_DENOUNCED_1">
+			<Text>You dare to disrespect a GOD?!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_KHMER_LS_MOD_SURYAVARMAN_II_RESPONSE_TO_BEING_DENOUNCED_2">
+			<Text>You said what? Hahahahahaha. I shall feast on your Atman.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_KHMER_LS_MOD_SURYAVARMAN_II_HUMAN_DOFED_FRIEND_1">
+			<Text>{1_CivName} has already joined me. Together we shall rule this world!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_KHMER_LS_MOD_SURYAVARMAN_II_HUMAN_DOFED_ENEMY_1">
+			<Text>{1_CivName} defied me, now you join him. I think I will drown you first, so he can watch. Wait. No, the other way round!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_KHMER_LS_MOD_SURYAVARMAN_II_HUMAN_DENOUNCED_FRIEND_1">
+			<Text>{1_CivName} is my minion. Leave the pathetic creature alone.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_KHMER_LS_MOD_SURYAVARMAN_II_HUMAN_DENOUNCED_ENEMY_1">
+			<Text>{1_CivName} is going to be reincarnated as a dung beetle. How clever of you to get on my good side like this.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_KHMER_LS_MOD_SURYAVARMAN_II_HUMAN_DOF_SO_AI_DOF_1">
+			<Text>You think {1_CivName} is worthy? I shall take your word, I'm a little busy building to do any diplomacy right now.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_KHMER_LS_MOD_SURYAVARMAN_II_HUMAN_DOF_SO_AI_DENOUNCE_1">
+			<Text>So you are allying with {1_CivName}? Now I have to go back and do another Ritual of Horrific Banishment. You waste so much of my time.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_KHMER_LS_MOD_SURYAVARMAN_II_HUMAN_DENOUNCE_SO_AI_DENOUNCE_1">
+			<Text>I share your convictions that {1_CivName} only causes problems for the civilized empires of the world. Perhaps the combination of our denouncements will teach them a lesson.</Text>
+		</Row>
+		<!-- General Diplo Text -->
+		<Row Tag="TXT_KEY_LEADER_KHMER_LS_MOD_SURYAVARMAN_II_COOP_WAR_REQUEST_1">
+			<Text>{1_PlayerName:textkey} has nice skin and I need new shoes. Want to join in with the fun?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_KHMER_LS_MOD_SURYAVARMAN_II_COOP_WAR_REQUEST_2">
+			<Text>{1_PlayerName:textkey} has many strong citizens, and I'm behind on my temple quota this Era, help out a fellow leader?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_KHMER_LS_MOD_SURYAVARMAN_II_COOP_WAR_TIME_1">
+			<Text>The stars are favourable to harvest {1_PlayerName:textkey}'s atman.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_KHMER_LS_MOD_SURYAVARMAN_II_DEC_FRIENDSHIP_1">
+			<Text>Be my creature and I promise I will share my power with you.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_KHMER_LS_MOD_SURYAVARMAN_II_DEC_FRIENDSHIP_2">
+			<Text>Just to be clear, when we take over the world *I'm* in charge. Ok?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_KHMER_LS_MOD_SURYAVARMAN_II_AGGRESSIVE_MILITARY_WARNING_1">
+			<Text>It's come to my attention that you have a large number of Units near my borders. I hope you are sending them to build me some more temples.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_KHMER_LS_MOD_SURYAVARMAN_II_PLOT_BUYING_WARNING_1">
+			<Text>Stop it! For the love of Brahma how many times do I have to tell you. I RULE THIS WORLD!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_KHMER_LS_MOD_SURYAVARMAN_II_PLOT_BUYING_SERIOUS_WARNING_1">
+			<Text>Stop it! For the love of Brahma how many times do I have to tell you. I RULE THIS WORLD!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_KHMER_LS_MOD_SURYAVARMAN_II_EXPANSION_SERIOUS_WARNING_1">
+			<Text>You are wasting so much stone that could be used in my temples. Please stop.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_KHMER_LS_MOD_SURYAVARMAN_II_EXPANSION_WARNING">
+			<Text>Expand once more and your heart will explode.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_KHMER_LS_MOD_SURYAVARMAN_II_RETURNED_CIVILIAN_1">
+			<Text>With these civilians I can build more temples! What is this feeling? Is it... love?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_KHMER_LS_MOD_SURYAVARMAN_II_RETURNED_CIVILIAN_2">
+			<Text>There is no greater gift! Apart from temples. Or souls.</Text>
+		</Row>
+		<!--Insults-->
+		<Row Tag="TXT_KEY_LEADER_KHMER_LS_MOD_SURYAVARMAN_II_INSULT_1">
+			<Text>I bet your atman would taste dry.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_KHMER_LS_MOD_SURYAVARMAN_II_INSULT_2">
+			<Text>You're not fit to build my monuments!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_KHMER_LS_MOD_SURYAVARMAN_II_INSULT_3">
+			<Text>I was going to devour your atman, but I dont eat junk food.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_KHMER_LS_MOD_SURYAVARMAN_II_INSULT_4">
+			<Text>If I had to choose between erasing you from existance and building another temple... it would be close.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_KHMER_LS_MOD_SURYAVARMAN_II_INSULT_MILITARY_1">
+			<Text>I wouldn't even need magical powers to defeat your army. On. My. Own.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_KHMER_LS_MOD_SURYAVARMAN_II_INSULT_MILITARY_2">
+			<Text>It is a good thing so few of your citizens can defend themselves, they will make more obidient slaves in Angkor.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_KHMER_LS_MOD_SURYAVARMAN_II_INSULT_BULLY_1">
+			<Text>You can't bully a God. Go back to your puny mortal endeavours.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_KHMER_LS_MOD_SURYAVARMAN_II_INSULT_UNHAPPINESS_1">
+			<Text>You people would be happier in Angkor. Well, maybe not. But I would be happier if they were in Angkor!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_KHMER_LS_MOD_SURYAVARMAN_II_INSULT_UNHAPPINESS_2">
+			<Text>You need to cheer your people up. Unhappy atman taste disgusting.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_KHMER_LS_MOD_SURYAVARMAN_II_INSULT_CITIES_1">
+			<Text>Your cities. How have you cloaked them from my vision!? Oh wait, you just don't have any. Mwhahahah.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_KHMER_LS_MOD_SURYAVARMAN_II_INSULT_POPULATION_1">
+			<Text>I had more population than you in the Classical Era.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_KHMER_LS_MOD_SURYAVARMAN_II_INSULT_CULTURE_1">
+			<Text>Some of my slaves are more cultured than you.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_KHMER_LS_MOD_SURYAVARMAN_II_INSULT_CULTURE_2">
+			<Text>The atman of citizens in cultured countries are a bit fattening. How thoughtful to starve the souls of your citizens.</Text>
+		</Row>
+		<!--Public Declarations-->
+		<Row Tag="TXT_KEY_LEADER_KHMER_LS_MOD_SURYAVARMAN_II_DECLARATION_PROTECT_CITY_STATE_1">
+			<Text>{2_MajorCivName:textkey} announces to the world that it is now protecting {1_MinorCivName:textkey}. Attacking the City-State will greatly damage relations and may lead to war.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_KHMER_LS_MOD_SURYAVARMAN_II_DECLARATION_ABANDON_CITY_STATE_1">
+			<Text>{2_MajorCivName:textkey} has taken back its guarantee of protecting {1_MinorCivName:textkey}.</Text>
+		</Row>
+		<!-- Human is asking the AI for something -->
+		<Row Tag="TXT_KEY_LEADER_KHMER_LS_MOD_SURYAVARMAN_II_DONT_SETTLE_NO_1">
+			<Text>Don't settle? You should be saving favours for things like "don't disintegrate me" and "don't devour my living soul". Don't you think?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_KHMER_LS_MOD_SURYAVARMAN_II_DONT_SETTLE_YES_1">
+			<Text>You are right, I should be building temples. I don't know what came over me.</Text>
+		</Row>
+		<!--Deal Offers and related-->
+		<Row Tag="TXT_KEY_LEADER_KHMER_LS_MOD_SURYAVARMAN_II_LUXURY_TRADE_1">
+			<Text>I'm collecting these, give me yours.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_KHMER_LS_MOD_SURYAVARMAN_II_OPEN_BORDERS_EXCHANGE_1">
+			<Text>Open your borders. I promise none of your citizens will go missing.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_KHMER_LS_MOD_SURYAVARMAN_II_RESPONSE_REQUEST_1">
+			<Text>I really need this to reach my temple quota this Era. Pretty please?</Text>
+		</Row>
+		<!--AI Attacked by Human - Strong and Weak also include the default response sets-->
+		<Row Tag="TXT_KEY_LEADER_KHMER_LS_MOD_SURYAVARMAN_II_ATTACKED_HOSTILE_1">
+			<Text>You FOOL!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_KHMER_LS_MOD_SURYAVARMAN_II_ATTACKED_EXCITED_1">
+			<Text>This is so exciting. I haven't disintegrated anyone is TURNS!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_KHMER_LS_MOD_SURYAVARMAN_II_ATTACKED_SAD_1">
+			<Text>This is going to set me back on the temple quota.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_KHMER_LS_MOD_SURYAVARMAN_II_ATTACKED_BETRAYED_1">
+			<Text>How dare you rise up against me, slave. I shall cast your atman into the abyss and make a necklace from your bones!</Text>
+		</Row>
+		<!--AI Declaring War on Human - Strong and Weak also include the default response sets-->
+		<Row Tag="TXT_KEY_LEADER_KHMER_LS_MOD_SURYAVARMAN_II_DOW_GENERIC_1">
+			<Text>I've reached the temple quota for this Era, so I can indulge myself in a bit of light disintegration.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_KHMER_LS_MOD_SURYAVARMAN_II_DOW_LAND_1">
+			<Text>I need more room for my temples. You understand.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_KHMER_LS_MOD_SURYAVARMAN_II_DOW_LAND_2">
+			<Text>I'll just be installing some new temples... ontop of your settlements. But you know, sacrifices must be made! </Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_KHMER_LS_MOD_SURYAVARMAN_II_DOW_WORLD_CONQUEST_1">
+			<Text>Now I'm confidant that my temples are in good hands, I can dedicate myself to my favourite past time. World domination.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_KHMER_LS_MOD_SURYAVARMAN_II_DOW_WORLD_CONQUEST_2">
+			<Text>I am POWER! I am GLORY! I AM A GOD! Oh and I am going to bathe in the blood of your women to maintain my supple skin.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_KHMER_LS_MOD_SURYAVARMAN_II_DOW_OPPORTUNITY_1">
+			<Text>I've taken a short break from temple building to massacre and enslave your people. It's the little things.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_KHMER_LS_MOD_SURYAVARMAN_II_DOW_OPPORTUNITY_2">
+			<Text>Your people have a bright future in Angkor ahead of them.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_KHMER_LS_MOD_SURYAVARMAN_II_DOW_DESPERATE_1">
+			<Text>NOOooooooooo. If I can't have this planet, neither can you!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_KHMER_LS_MOD_SURYAVARMAN_II_DOW_DESPERATE_2">
+			<Text>Maybe with your descrated corpse to set on fire I can feel better about how things are going for me.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_KHMER_LS_MOD_SURYAVARMAN_II_DOW_BETRAYAL_1">
+			<Text>You threw me off my groove.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_KHMER_LS_MOD_SURYAVARMAN_II_DOW_BETRAYAL_2">
+			<Text>To be honest I am only betraying you because it makes me feel more evil. Mwhahahah. Eh hem.</Text>
+		</Row>
+		<!--AI Responses to a human peace offer-->
+		<Row Tag="TXT_KEY_LEADER_KHMER_LS_MOD_SURYAVARMAN_II_TOO_SOON_NO_PEACE_1">
+			<Text>My hunger has not yet been sated.</Text>
+		</Row>
+		<!--AI Responses to a discussion mode topics-->
+		<Row Tag="TXT_KEY_LEADER_KHMER_LS_MOD_SURYAVARMAN_II_BAD_1">
+			<Text>You anger me.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_KHMER_LS_MOD_SURYAVARMAN_II_BAD_2">
+			<Text>I don't want to have to waste time drowning you.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_KHMER_LS_MOD_SURYAVARMAN_II_BAD_3">
+			<Text>This is a joke, right? That or you want to be turned inside out.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_KHMER_LS_MOD_SURYAVARMAN_II_GOOD_1">
+			<Text>Equisite.</Text>
+		</Row>
+		
+		
+			<Row Tag="TXT_KEY_TRAIT_LS_ANGKOR_THE_MAGNIFICENT_SHORT">
+				<Text>Angkor the Magnificent</Text>
+			</Row>
+			<Row Tag="TXT_KEY_TRAIT_LS_ANGKOR_THE_MAGNIFICENT">
+				<Text>[ICON_CAPITAL] Capital has +1 [ICON_CITIZEN] working Citizen for each World Wonder.</Text>
+			</Row>
+			<Row Tag="TXT_KEY_UNIT_LS_MILITIA">
+				<Text>Militia</Text>
+			</Row>
+			<Row Tag="TXT_KEY_UNIT_LS_MILITIA_HELP">
+				<Text>Can perform a one-time ability in a friendly land to create a farm, pasture or plantation, and is slightly cheaper than warrior, which it replaces. May only be built by the Khmer.</Text>
+			</Row>
+
+			<Row Tag="TXT_KEY_PROMOTION_KHMER_NUY_LS">
+				<Text>Rice Harvest</Text>
+			</Row>
+			<Row Tag="TXT_KEY_PROMOTION_KHMER_NUY_LS_HELP">
+				<Text>Can perform a one-time ability in a friendly land to create a farm, pasture or plantation.</Text>
+			</Row>
+			<Row Tag="TXT_KEY_UNIT_LS_MILITIA_TEXT">
+				<Text>The Khmer empire was founded upon extensive networks of agricultural rice farming communities. A distinct settlement hierarchy was present in the region. Small villages clustered around regional centers, such as the one at Phimai, which in turn sent their goods to large cities like Angkor in return for other goods, such as pottery and foreign trade items from China. As a result the military is thought to have bolstered its ranks by conscipting farmers as they left the cities to go on campaign.</Text>
+			</Row>
+			<Row Tag="TXT_KEY_UNIT_LS_MILITIA_STRATEGY">
+				<Text>While not a replacement for the worker, the Militia's ability to build improvements allows the creations of a larger than normal military force in the very early stages of the game, while still growing. Putting off building a worker saves hammers which would be better spent building wonders in Angkor!</Text>
+			</Row>
+			<Row Tag="TXT_KEY_BUILDING_LS_BARAY">
+				<Text>Baray</Text>
+			</Row>
+			<Row Tag="TXT_KEY_BUILDING_LS_BARAY_HELP">
+				<Text>Unlike the Water Mill which is replaces, the Baray can be built in a city without a river once it has reached 8 [ICON_CITIZEN] Population. What is more, 10% of [ICON_FOOD] Food is carried over after a new [ICON_CITIZEN] Citizen is born.</Text>
+			</Row>
+			<Row Tag="TXT_KEY_BUILDING_LS_BARAY_TEXT">
+				<Text>A Baray is an artificial body of water which is a common element of the architectural style of the Khmer Empire. The largest to exist are the East Baray and West Baray in the Angkor area, each rectangular in shape, oriented east-west and measuring roughly five by one and a half miles. Historians are divided on the meaning and functions of Barays. Some believe that they were primarily spiritual in purpose, symbolizing the seas surrounding Mount Meru, font of the Hindu cosmos. Others have theorized that they held water for irrigation of fields. It is possible that the function was a combination of these explanations, or others.</Text>
+			</Row>
+			<Row Tag="TXT_KEY_BUILDING_LS_BARAY_STRATEGY">
+				<Text>The population requirement on the Baray strongly encourages building few, large cities. Since there is no freshwater requirement, these cities may be placed in such a way as to maximise their potential.</Text>
+			</Row>
+			<Row Tag="TXT_KEY_BUILDING_DUMMY_LS_KHMER_REQ">
+				<Text>8 [ICON_CITIZEN] Population or River</Text>
+			</Row>
+		</Language_en_US>
+</GameData>
