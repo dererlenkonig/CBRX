@@ -12,9 +12,4 @@ UPDATE [Leader_Flavors] SET [Flavor] = [Flavor] + 2 WHERE [FlavorType] = 'FLAVOR
 UPDATE [Leader_Flavors] SET [Flavor] = [Flavor] + 2 WHERE [FlavorType] = 'FLAVOR_MOBILE';
 UPDATE [Leader_Flavors] SET [Flavor] = [Flavor] + 2 WHERE [FlavorType] = 'FLAVOR_EXPANSION';
 
-UPDATE HandicapInfos SET AIDeclareWarProb = 100 WHERE Type = 'HANDICAP_WARLORD';
-UPDATE HandicapInfos SET AIDeclareWarProb = 110 WHERE Type = 'HANDICAP_PRINCE';
-UPDATE HandicapInfos SET AIDeclareWarProb = 120 WHERE Type = 'HANDICAP_KING';
-UPDATE HandicapInfos SET AIDeclareWarProb = 130 WHERE Type = 'HANDICAP_EMPEROR';
-UPDATE HandicapInfos SET AIDeclareWarProb = 140 WHERE Type = 'HANDICAP_IMMORTAL';
 UPDATE HandicapInfos SET AIDeclareWarProb = 170 WHERE Type = 'HANDICAP_DEITY';

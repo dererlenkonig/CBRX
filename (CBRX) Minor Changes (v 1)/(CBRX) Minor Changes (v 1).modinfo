@@ -24,13 +24,14 @@
   <Blocks />
   <Files>
     <File md5="B1E92C1DD073C2CF1DA7E55B6837016F" import="0">ActiveRel.xml</File>
-    <File md5="7434BBAB5DA0E3BF5E063C04FBA7E1A9" import="0">AI.sql</File>
+    <File md5="B3853160D21AED8CD31166FD9F4F3336" import="0">AI.sql</File>
     <File md5="762228B91EE7AA642A8CB3D03B39D153" import="0">ArchaeologistGenocideWhen.xml</File>
     <File md5="9FEC5A0F2561E5DE14198B013FCC8118" import="0">Cities2_GlobalDefines.xml</File>
     <File md5="B3D0FD5001DAB67AABD2584FEC90CB07" import="0">CityLists.sql</File>
     <File md5="FFAA308CDC5CF3B892AFF29E0BFF1CDD" import="0">CityNames.xml</File>
     <File md5="1C307B269FDD2540872B0FD4564AC2F2" import="0">Historical Religions Update.sql</File>
     <File md5="2D9F3B9E4E4D0C21665B26F75E84CB96" import="0">New Colors.sql</File>
+    <File md5="9FF6F40BF205E7AEEC6F6B984F011471" import="0">ThingsToSailing.sql</File>
   </Files>
   <Actions>
     <OnModActivated>
