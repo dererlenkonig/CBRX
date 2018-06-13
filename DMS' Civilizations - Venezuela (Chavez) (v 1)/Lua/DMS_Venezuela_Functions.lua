@@ -141,7 +141,7 @@ function DMS_BolivarianSocialism_PlayerDoTurn(iPlayer)
 		if iNumDenouncedCivs > 0 then
 			local iMaintenanceCost = pPlayer:CalculateUnitCost()
 			DMS_Print("DMS_BolivarianSocialism_PlayerDoTurn: iMaintenanceCost = " .. iMaintenanceCost .. "..")
-			local iCultureBonus = mathFloor(iNumDenouncedCivs^(2.6) + 1/(iMaintenanceCost^(-0.6)))
+			local iCultureBonus = mathFloor(iNumDenouncedCivs^(1.5) + 1/(iMaintenanceCost^(-0.6)))
 			DMS_Print("DMS_BolivarianSocialism_PlayerDoTurn: iCultureBonus = " .. iCultureBonus .. "..")
 			pPlayer:ChangeJONSCulture(iCultureBonus)
 
