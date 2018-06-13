@@ -1,0 +1,408 @@
+﻿<GameData>
+	<Language_en_US>
+		<!----------------------------------------------------------------
+						State
+		------------------------------------------------------------------>
+		<Row Tag="TXT_KEY_SCOTLAND_LS_MOD_DESC">
+			<Text>Kingdom of Scotland</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SCOTLAND_LS_MOD_SHORT_DESC">
+			<Text>Scotland</Text>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_SCOTLAND_LS_MOD_ADJECTIVE">
+			<Text>Scottish</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SCOTLAND_LS_MOD">
+			<Text>Scotland</Text>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_SCOTLAND_LS_MOD_TITLE">
+			<Text>Scotland</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_SCOTLAND_LS_MOD_HEADING_1">
+			<Text>The Scottish</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_SCOTLAND_LS_MOD_TEXT_1">
+			<Text>It is believed the first post-glacial groups of hunter-gatherers arrived in Scotland around 12,800 years ago, as the ice sheet retreated after the last glaciation. In modern use, "Scottish people" or "Scots" is used to refer to anyone whose linguistic, cultural, family ancestral or genetic origins are from within Scotland. The Latin word Scotti originally applied to a particular, 5th century, Goidelic tribe that inhabited Ireland. Though sometimes considered archaic or pejorative, the term Scotch has also been used for the Scottish people, though this usage is current primarily outside Scotland. Scotland has seen migration and settlement of peoples at different periods in its history. The Dalriadans, the Picts and the Britons had respective origin myths, like most Middle Ages European peoples. Germanic people such as Angles and Saxons arrived beginning in the 7th century while the Norse settled many regions of Scotland from the 8th century onwards. In the High Middle Ages, from the reign of David I of Scotland, there was some emigration from France, England and the Low Countries to Scotland. Many famous Scottish family names, including those bearing the names which became Bruce, Balliol, Murray and Stewart came to Scotland at this time. Today Scotland is one of the countries of the United Kingdom and the majority of people living in Scotland are British citizens. (at time of writing)</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_SCOTLAND_LS_MOD_HEADING_2">
+			<Text>History of Scotland</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_SCOTLAND_LS_MOD_TEXT_2">
+			<Text>
+				Scotland was first decisively settled after the end of the last glacial period (in the paleolithic), roughly 10,000 years ago. Prehistoric Scotland entered the Neolithic Era about 4000 BC, the Bronze Age about 2000 BC, and the Iron Age around 700 BC. The recorded history of Scotland begins with the arrival of the Roman Empire in the 1st century, the Roman province of Britannia reached as far north as the Antonine Wall, which once ran from the Clyde to the Forth. To the north lay the territory of Caledonia, whose people were described as "Picti" in Latin, meaning ‘painted ones’. Due to constant incursions from these Picti the Roman legions would be forced back to Hadrian's Wall within 20 years of its construction, and forced to abandon the territory by the beginning of the 3rd century.[NEWLINE][NEWLINE]According to 9th- and 10th-century literature, the Gaelic kingdom of Dál Riata was founded on the west coast of Scotland in the 6th century. In the following century, Irish missionary Columba founded a monastery on Iona and introduced the previously pagan Scotti to Celtic Christianity, and with less success the Picts of Pictland. King Nechtan of Pictland later chose to expel the Columban church in favour of the Roman, principally to restrict the influence of the Scoti on his kingdom and to avoid a war with Northumbria. In the same period Angles had conquered the previously Brythonic territory south of the Clyde and Forth, initially creating the Anglo Saxon kingdom of Bernicia, later becoming a part of the Kingdom of Northumbria. Towards the end of the 8th century all three kingdoms were raided, settled and to some extent came under Viking control. Successive defeats by the Norse forced the Picts and Scoti to cease their historic hostility to each other and unite in the 9th century, to form the Kingdom of Scotland.[NEWLINE][NEWLINE]The Kingdom of Scotland was united under the descendants of Kenneth MacAlpin, first king of a united Scotland. His descendants, known to modern historians as the House of Alpin, fought among each other during frequent disputed successions. The last Alpin king, Malcolm II, died without issue in the early 11th century and the kingdom passed through his daughter's son, Duncan I, who started a new line of kings known to modern historians as the House of Dunkeld or Canmore. The last Dunkeld king, Alexander III, died in 1286 leaving only a single infant granddaughter as heir; four years later, Margaret, Maid of Norway herself died in a tragic shipwreck en route to Scotland. England, under Edward I, would take advantage of the questioned succession in Scotland to launch a series of conquests into Scotland. The resulting Wars of Scottish Independence were fought in the late 13th and early 14th centuries as Scotland passed back and forth between the House of Balliol and the House of Bruce. Scotland's ultimate victory in the Wars of Independence under David II confirmed Scotland as a fully independent and sovereign kingdom. When David II died without issue, his nephew Robert II established the House of Stewart (the spelling would be changed to Stuart in the 16th century), which would rule Scotland uncontested for the next three centuries. James VI, Stuart king of Scotland, also inherited the throne of England in 1603, and the Stuart kings and queens ruled both independent kingdoms until the Act of Union in 1707 merged the two kingdoms into a new state, the Kingdom of Great Britain. Queen Anne was the last Stuart monarch, ruling until 1714. Since 1714, the succession of the British monarchs of the houses of Hanover and Saxe-Coburg and Gotha (Windsor) has been due to their descent from James VI and I of the House of Stuart.[NEWLINE][NEWLINE]During the Scottish Enlightenment and Industrial Revolution, Scotland became one of the commercial, intellectual and industrial powerhouses of Europe. Its industrial decline following the Second World War was particularly acute, but in recent decades the country has enjoyed something of a cultural and economic renaissance, fuelled in part by a resurgent financial services sector, the proceeds of North Sea oil and gas.</Text>
+			</Row>
+		<!-- City Names -->
+		<Row Tag="TXT_KEY_CITY_NAME_SCOTLAND_LS_MOD_1">
+			<Text>Edinburgh</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SCOTLAND_LS_MOD_2">
+			<Text>Glasgow</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SCOTLAND_LS_MOD_3">
+			<Text>Aberdeen</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SCOTLAND_LS_MOD_4">
+			<Text>Dundee</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SCOTLAND_LS_MOD_5">
+			<Text>Paisley</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SCOTLAND_LS_MOD_6">
+			<Text>East Kilbride</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SCOTLAND_LS_MOD_7">
+			<Text>Livingston</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SCOTLAND_LS_MOD_8">
+			<Text>Hamilton</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SCOTLAND_LS_MOD_9">
+			<Text>Cumbernauld</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SCOTLAND_LS_MOD_10">
+			<Text>Dunfermline</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SCOTLAND_LS_MOD_11">
+			<Text>Ayr</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SCOTLAND_LS_MOD_12">
+			<Text>Perth</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SCOTLAND_LS_MOD_13">
+			<Text>Inverness</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SCOTLAND_LS_MOD_14">
+			<Text>Kilmarnock</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SCOTLAND_LS_MOD_15">
+			<Text>Greenock</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SCOTLAND_LS_MOD_16">
+			<Text>Coatbridge</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SCOTLAND_LS_MOD_17">
+			<Text>Glenrothes</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SCOTLAND_LS_MOD_18">
+			<Text>Airdie</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SCOTLAND_LS_MOD_19">
+			<Text>Falkirk</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SCOTLAND_LS_MOD_20">
+			<Text>Stirling</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SCOTLAND_LS_MOD_21">
+			<Text>Irvine</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SCOTLAND_LS_MOD_22">
+			<Text>Rutherglen</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SCOTLAND_LS_MOD_23">
+			<Text>Dumfries</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SCOTLAND_LS_MOD_24">
+			<Text>Motherwell</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SCOTLAND_LS_MOD_25">
+			<Text>Wishaw</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SCOTLAND_LS_MOD_26">
+			<Text>Clydebank</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SCOTLAND_LS_MOD_27">
+			<Text>Bearsden</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SCOTLAND_LS_MOD_28">
+			<Text>Cambuslang</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SCOTLAND_LS_MOD_29">
+			<Text>Bishopbriggs</Text>
+		</Row>
+		<!-- Spy Names -->
+		<Row Tag="TXT_KEY_SPY_NAME_SCOTLAND_LS_MOD_0">
+			<Text>Àaron</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_SCOTLAND_LS_MOD_1">
+			<Text>Eòghan</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_SCOTLAND_LS_MOD_2">
+			<Text>Iàcob</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_SCOTLAND_LS_MOD_3">
+			<Text>Oilbhreis</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_SCOTLAND_LS_MOD_4">
+			<Text>Uarraig</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_SCOTLAND_LS_MOD_5">
+			<Text>Mairead</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_SCOTLAND_LS_MOD_6">
+			<Text>Leitis</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_SCOTLAND_LS_MOD_7">
+			<Text>Floireans</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_SCOTLAND_LS_MOD_8">
+			<Text>Raonaild</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_SCOTLAND_LS_MOD_9">
+			<Text>Sìneag</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<!----------------------------------------------------------------
+						Leader
+		------------------------------------------------------------------>
+		<Row Tag="TXT_KEY_LEADER_SCOTLAND_LS_MOD_JAMES_VI_DESC">
+			<Text>James VI</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_SCOTLAND_LS_MOD_JAMES_VI_LIVED">
+			<Text> </Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_SCOTLAND_LS_MOD_JAMES_VI_NAME">
+			<Text>James VI</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_SCOTLAND_LS_MOD_JAMES_VI_SUBTITLE">
+			<Text>King</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_SCOTLAND_LS_MOD_JAMES_VI_TITLES_1">
+			<Text>Emperor</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_SCOTLAND_LS_MOD_JAMES_VI_HEADING_1">
+			<Text>History</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_SCOTLAND_LS_MOD_JAMES_VI_TEXT_1">
+			<Text>James VI and I (19 June 1566 – 27 March 1625) was King of Scotland as James VI from 24 July 1567 and King of England and Ireland as James I from the union of the Scottish and English crowns on 24 March 1603 until his death. The kingdoms of Scotland and England were individual sovereign states, with their own parliaments, judiciary, and laws, though both were ruled by James in personal union.[NEWLINE][NEWLINE]He succeeded to the Scottish throne at the age of thirteen months, after his mother Mary, Queen of Scots, was compelled to abdicate in his favour. Four different regents governed during his minority, which ended officially in 1578, though he did not gain full control of his government until 1583. In 1603, he succeeded the last Tudor monarch of England and Ireland, Elizabeth I, who died without issue. He continued to reign in all three kingdoms for 22 years, a period known as the Jacobean era after him, until his death in 1625 at the age of 58. After the Union of the Crowns, he based himself in England (the largest of the three realms) from 1603, only returning to Scotland once in 1617, and styled himself "King of Great Britain and Ireland". He was a major advocate of a single parliament for both England and Scotland. In his reign, the Plantation of Ulster and British colonisation of the Americas began.[NEWLINE][NEWLINE]At 57 years and 246 days, his reign in Scotland was longer than any of his predecessors. He achieved most of his aims in Scotland but faced great difficulties in England, including the Gunpowder Plot in 1605 and repeated conflicts with the English Parliament. Under James, the "Golden Age" of Elizabethan literature and drama continued, with writers such as William Shakespeare, John Donne, Ben Jonson, and Sir Francis Bacon contributing to a flourishing literary culture. James himself was a talented scholar, the author of works such as Daemonologie (1597), True Law of Free Monarchies (1598), and Basilikon Doron (1599). He sponsored the translation of the Bible that was named after him: the Authorised King James Version. Sir Anthony Weldon claimed that James had been termed "the wisest fool in Christendom", an epithet associated with his character ever since. Since the latter half of the 20th century, historians have tended to revise James's reputation and treat him as a serious and thoughtful monarch.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DAWN_OF_MAN_SCOTLAND_LS_MOD_TEXT">
+			<Text>Noble James VI, the first by Sassenachs, your people are proud and tough. Born in the ferocious highlands and melded by treacherous moors and winter winds, your Scots have occupied their ancestral home for over 10,000 years! Scotland is isolated by the North Sea to the east, the Atlantic Ocean to the north-west, and (worst of all) England to the south. But your Highlanders successfully defended Scotland from the Romans, and later the English. The Scots were not defeated, rather the Treaty of Perpetual Peace saw Your Majesty ascend the thrones of both Scotland and England. Your Highness, though you were gone, the Scots did not rest! The Industrial Revolution made Scotland into an intellectual, commercial and industrial powerhouse. All the World knew of Scotland for their authors, scientists and engineers![NEWLINE][NEWLINE]Son of Scotland, the time has come to shout out to the world, that honour and bravery are not yet dead! Will you take hold of the destiny of your people? Can you call to arms the mighty clans once again? Can you build a civilisation to stand the test of time?</Text>
+		</Row>
+		<!----------------------------------------------------------------
+						Diplomacy
+		------------------------------------------------------------------>
+		<!--First Greeting messages from AI leaders-->
+		<Row Tag="TXT_KEY_LEADER_SCOTLAND_LS_MOD_JAMES_VI_FIRSTGREETING_1">
+			<Text>Welcome t'Scotland me wee lad! Oh are ye a lass? Ah cannae tell wi' tha' outraegeous outfit yer wearin'! </Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_SCOTLAND_LS_MOD_JAMES_VI_FIRSTGREETING_2">
+			<Text>Towering in gallant fame, Scotland my mountain hame... welcomes ye and yer kin. May we e'er live in peace.</Text>
+		</Row>
+		<!--Defeated messages from AI leaders-->
+		<Row Tag="TXT_KEY_LEADER_SCOTLAND_LS_MOD_JAMES_VI_DEFEATED_1">
+			<Text>But, oh! fell death's untimely frost,[NEWLINE]That nipt my flower sae early.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_SCOTLAND_LS_MOD_JAMES_VI_DEFEATED_2">
+			<Text>Yer can take ma' life! But ye cannae take ma FREEDOM!</Text>
+		</Row>
+		<!-- Human repeats an action too much, gets the following responses -->
+		<Row Tag="TXT_KEY_LEADER_SCOTLAND_LS_MOD_JAMES_VI_REPEAT_TOO_MUCH_1">
+			<Text>Perhaps it may turn out a sang,[NEWLINE]Perhaps turn out a sermon.</Text>
+		</Row>
+		<!-- Greetings -->
+		<Row Tag="TXT_KEY_LEADER_SCOTLAND_LS_MOD_JAMES_VI_GREETING_HOSTILE_HELLO_1">
+			<Text>Should auld acquaintance be forgot, and never brought to min'? Ney I shall know ye for yer crimes!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_SCOTLAND_LS_MOD_JAMES_VI_GREETING_POLITE_HELLO_1">
+			<Text>You'll a had yer tea then?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_SCOTLAND_LS_MOD_JAMES_VI_GREETING_HOSTILE_AGGRESSIVE_EXPANSION_1">
+			<Text>Yer new cities are yearnin' to feel the kiss of sweet Scottish rain. Ay promise yer tha'.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_SCOTLAND_LS_MOD_JAMES_VI_GREETING_AGGRESSIVE_EXPANSION_1">
+			<Text>Yer expansionary tendancies are makin' up fer somethin' wee, am ay right, sonny?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_SCOTLAND_LS_MOD_JAMES_VI_DENOUNCE_1">
+			<Text>You are nae clansmen o' mine![NEWLINE][NEWLINE]([COLOR_WARNING_TEXT]They have publicly denounced us! NOTE: You are not at war.[ENDCOLOR])</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_SCOTLAND_LS_MOD_JAMES_VI_DENOUNCE_2">
+			<Text>Tha' pipes are callin' out yer nefarious intentions. Can ya hear them?[NEWLINE][NEWLINE]([COLOR_WARNING_TEXT]They have publicly denounced us! NOTE: You are not at war.[ENDCOLOR])</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_SCOTLAND_LS_MOD_JAMES_VI_RESPONSE_TO_BEING_DENOUNCED_1">
+			<Text>An atheist-laugh's a poor exchange[NEWLINE]For Deity offended.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_SCOTLAND_LS_MOD_JAMES_VI_RESPONSE_TO_BEING_DENOUNCED_2">
+			<Text>Ya cannae take tha' back noo.</Text>
+		</Row>
+		<!-- General Diplo Text -->
+		<Row Tag="TXT_KEY_LEADER_SCOTLAND_LS_MOD_JAMES_VI_COOP_WAR_REQUEST_1">
+			<Text>{1_PlayerName:textkey} has angered tha clans. Will you help deal with him and his kine?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_SCOTLAND_LS_MOD_JAMES_VI_COOP_WAR_REQUEST_2">
+			<Text>All the Scots are united in this one thing, tha' {1_PlayerName:textkey} must die!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_SCOTLAND_LS_MOD_JAMES_VI_COOP_WAR_TIME_1">
+			<Text>Hark, the pipes herald the last day o' {1_PlayerName:textkey}...</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_SCOTLAND_LS_MOD_JAMES_VI_DEC_FRIENDSHIP_1">
+			<Text>Staunch are the friends that greet you.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_SCOTLAND_LS_MOD_JAMES_VI_DEC_FRIENDSHIP_2">
+			<Text>Will ye have peace an' friendship with the Scots?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_SCOTLAND_LS_MOD_JAMES_VI_AGGRESSIVE_MILITARY_WARNING_1">
+			<Text>It's come to ma attention tha' ye have a large number o' Units near ma borders. Do ye mean fer war, sonny Jim?.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_SCOTLAND_LS_MOD_JAMES_VI_EXPANSION_SERIOUS_WARNING_1">
+			<Text>This be tha' last warning yer gunna get! Stop yer expanding noo.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_SCOTLAND_LS_MOD_JAMES_VI_EXPANSION_WARNING">
+			<Text>Let this be a warning to yer! Stop expanding, sonny.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_SCOTLAND_LS_MOD_JAMES_VI_RETURNED_CIVILIAN_1">
+			<Text>These men will look on tha' highlands again, thanks t' yer kindness!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_SCOTLAND_LS_MOD_JAMES_VI_RETURNED_CIVILIAN_2">
+			<Text>Yer cannae ha' known it, but these be clansmen to me! It is a great honour yer've done here t'day!</Text>
+		</Row>
+		<!--Insults-->
+		<Row Tag="TXT_KEY_LEADER_SCOTLAND_LS_MOD_JAMES_VI_INSULT_1">
+			<Text>Ye be a wee little wretch!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_SCOTLAND_LS_MOD_JAMES_VI_INSULT_2">
+			<Text>Yer got a face like a wee dog lickin' piss off a nettle!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_SCOTLAND_LS_MOD_JAMES_VI_INSULT_3">
+			<Text>Everyone has a right t' be ugly, but yer abusin' tha privilege.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_SCOTLAND_LS_MOD_JAMES_VI_INSULT_4">
+			<Text>Yer court ha' more pricks than a second hand dartboard.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_SCOTLAND_LS_MOD_JAMES_VI_INSULT_MILITARY_1">
+			<Text>Yer men are nothin' compared to us Scots!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_SCOTLAND_LS_MOD_JAMES_VI_INSULT_UNHAPPINESS_1">
+			<Text>Yer people cannae be too happy with a bampot like you in charge!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_SCOTLAND_LS_MOD_JAMES_VI_INSULT_CITIES_1">
+			<Text>Yer cities ha nair tha' history nair tha' promise o' mine.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_SCOTLAND_LS_MOD_JAMES_VI_INSULT_CULTURE_1">
+			<Text>We Scots ha' been buildin' our culture fer thousands o' years! Yer playin' catch up, sonny.</Text>
+		</Row>
+		<!--Public Declarations-->
+		<Row Tag="TXT_KEY_LEADER_SCOTLAND_LS_MOD_JAMES_VI_DECLARATION_PROTECT_CITY_STATE_1">
+			<Text>{2_MajorCivName:textkey} announces to the world that it is now protecting {1_MinorCivName:textkey}. Attacking the City-State will greatly damage relations and may lead to war.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_SCOTLAND_LS_MOD_JAMES_VI_DECLARATION_ABANDON_CITY_STATE_1">
+			<Text>{2_MajorCivName:textkey} has taken back its guarantee of protecting {1_MinorCivName:textkey}.</Text>
+		</Row>
+		<!-- Human is asking the AI for something -->
+		<Row Tag="TXT_KEY_LEADER_SCOTLAND_LS_MOD_JAMES_VI_DONT_SETTLE_NO_1">
+			<Text>I cannae stop them noo.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_SCOTLAND_LS_MOD_JAMES_VI_DONT_SETTLE_YES_1">
+			<Text>Ooo alright then.</Text>
+		</Row>
+		<!--Deal Offers and related-->
+		<Row Tag="TXT_KEY_LEADER_SCOTLAND_LS_MOD_JAMES_VI_LUXURY_TRADE_1">
+			<Text>Fair exchange for fair men, am ah right?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_SCOTLAND_LS_MOD_JAMES_VI_RESPONSE_REQUEST_1">
+			<Text>It makes a proud man weep t' ha' t' survive like this.</Text>
+		</Row>
+		<!--AI Attacked by Human - Strong and Weak also include the default response sets-->
+		<Row Tag="TXT_KEY_LEADER_SCOTLAND_LS_MOD_JAMES_VI_ATTACKED_HOSTILE_1">
+			<Text>Tha' clans will ne'er let ya take Scotland!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_SCOTLAND_LS_MOD_JAMES_VI_ATTACKED_EXCITED_1">
+			<Text>Sound out tha pipes! T' battle ma brothers! T' war!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_SCOTLAND_LS_MOD_JAMES_VI_ATTACKED_SAD_1">
+			<Text>The best laid schemes o' mice and men[NEWLINE]Gang aft a-gley</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_SCOTLAND_LS_MOD_JAMES_VI_ATTACKED_BETRAYED_1">
+			<Text>You would betray ma trust! Yer bones shall little the craggs a' Caer Bannog!</Text>
+		</Row>
+		<!--AI Declaring War on Human - Strong and Weak also include the default response sets-->
+		<Row Tag="TXT_KEY_LEADER_SCOTLAND_LS_MOD_JAMES_VI_DOW_GENERIC_1">
+			<Text>FREEDOM!!!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_SCOTLAND_LS_MOD_JAMES_VI_DOW_LAND_1">
+			<Text>The Highlands flow downward ceaslessly!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_SCOTLAND_LS_MOD_JAMES_VI_DOW_WORLD_CONQUEST_1">
+			<Text>Thar can only be one!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_SCOTLAND_LS_MOD_JAMES_VI_DOW_WORLD_CONQUEST_2">
+			<Text>Thar can only be one!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_SCOTLAND_LS_MOD_JAMES_VI_DOW_OPPORTUNITY_1">
+			<Text>Yer weakness shall become ma strength.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_SCOTLAND_LS_MOD_JAMES_VI_DOW_DESPERATE_1">
+			<Text>Brave are the hearts that beat beneath Scottish skies.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_SCOTLAND_LS_MOD_JAMES_VI_DOW_BETRAYAL_1">
+			<Text>You were no true Scotsman!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_SCOTLAND_LS_MOD_JAMES_VI_DOW_BETRAYAL_2">
+			<Text>You were no true Scotsman!</Text>
+		</Row>
+		<!--AI Responses to a human peace offer-->
+		<Row Tag="TXT_KEY_LEADER_SCOTLAND_LS_MOD_JAMES_VI_TOO_SOON_NO_PEACE_1">
+			<Text>The blood is still a-leaping</Text>
+		</Row>
+		<!--AI Responses to a discussion mode topics-->
+		<Row Tag="TXT_KEY_LEADER_SCOTLAND_LS_MOD_JAMES_VI_BAD_1">
+			<Text>Wha' did you just say t' me, sonny?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_SCOTLAND_LS_MOD_JAMES_VI_GOOD_1">
+			<Text>This be good indeed!</Text>
+		</Row>
+		<!----------------------------------------------------------------
+						UA
+		------------------------------------------------------------------>
+		<Row Tag="TXT_KEY_TRAIT_SCOTLAND_TRAIT_SHORT">
+			<Text>Flower of Scotland</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_SCOTLAND_TRAIT">
+			<Text>+2 [ICON_TOURISM] Tourism and +1 [ICON_HAPPINESS_1] Happiness each time you discover a post-classical technology first. [ICON_RESEARCH] Cost of Industrial technologies reduced by 15%.</Text>
+		</Row>
+		<!----------------------------------------------------------------
+						U1
+		------------------------------------------------------------------>
+		<Row Tag="TXT_KEY_UNIT_HIGHLANDER">
+			<Text>Highlander</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_HELP_HIGHLANDER">
+			<Text>Double movement through hills and +33% Combat Strength when attacking from hills.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_HIGHLANDER_TEXT">
+			<Text>In the politically divided world of early medieval Scotland the nucleus of most armed forces was a leader's bodyguard or war-band. These highlanders are closest military activity in Scotland ever got to the war paint and battlecries of Mel Gibson's William Wallace. In peace-time, the war-band's activity was centred around the "Great Hall". Here, in both Germanic and Celtic cultures, the feasting, drinking and other forms of male bonding that kept up the war-band's integrity would take place. In the contemporaneous Old English epic poem Beowulf, the war-band was said to sleep in the Great Hall after the lord had retired to his adjacent bedchamber.It is not likely that any war-band in the period exceeded 120-150 men. The war-band was the core of the larger armies that were mobilised from time to time for campaigns of significant size.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_HIGHLANDER_STRATEGY">
+			<Text>Considerably stronger and more mobile than the already impressive Longswordsman, which it replaces, the Highlander only retains these bonuses on hills tiles. As a result the terrain dictates which lands are most accessible to Scotish warmongering at the close of the Medieval Era.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_HIGHLANDER_LS_MOD">
+			<Text>Highlander</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_HIGHLANDER_LS_MOD_HELP">
+			<Text>Double movement on hills. 33% Combat bonus when attacking from hills.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_HIGHLANDER_AB_LS_MOD">
+			<Text>Highlander</Text>
+		</Row>
+		<!----------------------------------------------------------------
+						U2
+		------------------------------------------------------------------>
+		<Row Tag="TXT_KEY_BUILDING_LS_SCOTS">
+			<Text>Castle Palace</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_BUILDINGS_LS_SCOTS_TEXT">
+			<Text>The extensive building and rebuilding of royal palaces probably began under James III, accelerated under James IV, reaching its peak under James V. These works have been seen as directly reflecting the influence of Renaissance styles. Linlithgow was first constructed under James I, under the direction of master of work John de Waltoun and was referred to as a palace, apparently the first use of this term in the country, from 1429. This was extended under James III and began to correspond to a fashionable quadrangular, corner-towered Italian signorial palace of a palatium ad moden castri (a castle-style palace), combining classical symmetry with neo-chivalric imagery. There is evidence of Italian masons working for James IV, in whose reign Linlithgow was completed and other palaces were rebuilt with Italianate proportions.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_LS_SCOTS_STRATEGY">
+			<Text>Fulfill slots in your scientific cities first for powerful late-game research boost. All theming bonuses are amplified by 1 in comparision to the Museum.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_LS_SCOTS_HELP">
+			<Text>Theming bonuses are greater than Museum's one.[NEWLINE][NEWLINE]Grants +25% [ICON_RESEARCH] Science if both slots of art are filled.</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

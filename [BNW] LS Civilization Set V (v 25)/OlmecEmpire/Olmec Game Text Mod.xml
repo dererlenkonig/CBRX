@@ -1,0 +1,404 @@
+﻿<GameData>
+	<Language_en_US>
+		<!----------------------------------------------------------------
+						State
+		------------------------------------------------------------------>
+		<Row Tag="TXT_KEY_OLMEC_LS_MOD_DESC">
+			<Text>Olmec Empire</Text>
+		</Row>
+		<Row Tag="TXT_KEY_OLMEC_LS_MOD_SHORT_DESC">
+			<Text>Olmec</Text>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_OLMEC_LS_MOD_ADJECTIVE">
+			<Text>Olmec</Text>
+		</Row>
+		<Row Tag="TXT_KEY_OLMEC_LS_MOD">
+			<Text>Olmec</Text>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_OLMEC_LS_MOD_TITLE">
+			<Text>Olmec</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_OLMEC_LS_MOD_HEADING_1">
+			<Text>The Olmec</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_OLMEC_LS_MOD_TEXT_1">
+			<Text>The earliest evidence for Olmec culture is found at nearby El Manatí, a sacrificial bog with artifacts dating to 1600 BCE or earlier. Sedentary agriculturalists had lived in the area for centuries before San Lorenzo developed into a regional center. The Olmec culture was first defined as an art style, and this continues to be the hallmark of the culture. Wrought in a large number of media – jade, clay, basalt, and greenstone among others, favourite subjects include fantastic anthropomorphic creatures, often highly stylized, using an iconography reflective of a religious meaning. Common motifs include downturned mouths and a cleft head, both of which are seen in representations of were-jaguars.[NEWLINE][NEWLINE]The cultural ancestors of the Aztecs, interest in the Olmec centers around their religious practices. Although the archeological record does not include explicit representation of Olmec bloodletting, researchers have found other evidence that the Olmec ritually practiced it. The argument for human sacrifice is significantly more speculative. No Olmec or Olmec-influenced sacrificial artifacts have yet been discovered. Mysteriously, the Olmecs left behind a score of colossal, dismemebred heads, carved from stone. Their purpose is unknown. [NEWLINE][NEWLINE]At most, we have only fragments of the Olmec way of life. There has been much speculation as to their origin, such the theory that the Olmecs were of African origin, which is not considered credible by the vast majority of Mesoamerican researchers. 350 years before the current era, the Olmecs mysteriously vanished.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_OLMEC_LS_MOD_HEADING_2">
+			<Text>History of the Olmec Empire</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_OLMEC_LS_MOD_TEXT_2">
+			<Text>What we today call Olmec first appears within the city of San Lorenzo Tenochtitlan, where distinctive Olmec features appear around 1400 BCE. The rise of civilization here was assisted by the local ecology of well-watered alluvial soil, as well as by the transportation network that the Coatzacoalcos river basin provided.[NEWLINE][NEWLINE]This environment may be compared to that of other ancient centers of civilization: the Nile, Indus, and Yellow River valleys, and Mesopotamia. This highly productive environment encouraged a dense concentrated population which in turn triggered the rise of an elite class.[NEWLINE][NEWLINE]It was this elite class that provided the social basis for the production of the symbolic and sophisticated luxury artifacts that define Olmec culture. Many of these luxury artifacts, such as jade, obsidian and magnetite, came from distant locations and suggest that early Olmec elites had access to an extensive trading network in Mesoamerica. The source of the most valued jade, for example, is found in the Motagua River valley in eastern Guatemala, and Olmec obsidian has been traced to sources in the Guatemala highlands, such as El Chayal and San Martin Jilotepeque, or in Puebla, distances ranging from 200 to 400 km away (120 - 250 miles away) respectively.[NEWLINE][NEWLINE]The first Olmec center, San Lorenzo, was all but abandoned around 900 BCE at about the same time that La Venta rose to prominence. A wholesale destruction of many San Lorenzo monuments also occurred circa 950 BCE, which may point to an internal uprising or, less likely, an invasion. The latest thinking, however, is that environmental changes may have been responsible for this shift in Olmec centers, with certain important rivers changing course.[NEWLINE][NEWLINE]Following the decline of San Lorenzo, La Venta became the most prominent Olmec center, lasting from 900 BCE until its abandonment around 400 BCE. La Venta sustained the Olmec cultural traditions, but with spectacular displays of power and wealth. The Great Pyramid was the largest Mesoamerican structure of its time. Even today, after 2500 years of erosion, it rises 34 meters above the naturally flat landscape. Buried deep within La Venta, lay opulent, labor-intensive "Offerings": 1000 tons of smooth serpentine blocks, large mosaic pavements, and at least 48 separate deposits of polished jade celts, pottery, figurines, and hematite mirrors.[NEWLINE][NEWLINE]It is not known with any clarity what caused the eventual extinction of the Olmec culture. It is known that between 400 and 350 BCE, population in the eastern half of the Olmec heartland dropped precipitously, and the area would remain sparsely inhabited until the 19th century.[NEWLINE][NEWLINE]This depopulation was likely the result of "very serious environmental changes that rendered the region unsuited for large groups of farmers", in particular changes to the riverine environment that the Olmec depended upon for agriculture, for hunting and gathering, and for transportation. Archaeologists propose that these changes were triggered by tectonic upheavals or subsidence, or the silting up of rivers due to agricultural practices.[NEWLINE][NEWLINE]One theory for the considerable population drop during the Terminal Formative period is suggested by Santley and colleagues (Santley et al. 1997) and proposes shifts in settlement location [relocation] due to volcanism instead of extinction. Volcanic eruptions during the Early, Late and Terminal Formative periods would have blanketed the lands and forced the Olmecs to move their settlements.[NEWLINE][NEWLINE]Whatever the cause, within a few hundred years of the abandonment of the last Olmec cities, successor cultures had become firmly established. The Tres Zapotes site, on the western edge of the Olmec heartland, continued to be occupied well past 400 BCE, but without the hallmarks of the Olmec culture. This post-Olmec culture, often labeled Epi-Olmec, has features similar to those found at Izapa, some 330 miles (550 km) to the southeast.</Text>
+		</Row>
+		<!-- City Names -->
+		<Row Tag="TXT_KEY_CITY_NAME_OLMEC_LS_MOD_1">
+			<Text>San Lorenzo</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_OLMEC_LS_MOD_2">
+			<Text>La Venta</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_OLMEC_LS_MOD_3">
+			<Text>Laguna de los Cerros</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_OLMEC_LS_MOD_4">
+			<Text>Tres Zapotes</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_OLMEC_LS_MOD_5">
+			<Text>Cerro de las Mesas</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_OLMEC_LS_MOD_6">
+			<Text>La Cobata</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_OLMEC_LS_MOD_7">
+			<Text>El Manati</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_OLMEC_LS_MOD_8">
+			<Text>Tlatilco</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_OLMEC_LS_MOD_9">
+			<Text>Chalcatzingo</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_OLMEC_LS_MOD_10">
+			<Text>Tlacozotitlan</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_OLMEC_LS_MOD_11">
+			<Text>Abaj Takalik</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_OLMEC_LS_MOD_12">
+			<Text>Pajapan</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_OLMEC_LS_MOD_13">
+			<Text>Arroyo Sonso</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_OLMEC_LS_MOD_14">
+			<Text>Potrero Nuevo</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_OLMEC_LS_MOD_15">
+			<Text>El Manatí</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_OLMEC_LS_MOD_16">
+			<Text>Las Limas</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_OLMEC_LS_MOD_17">
+			<Text>El Azuzul</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_OLMEC_LS_MOD_18">
+			<Text>Cascajal</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_OLMEC_LS_MOD_19">
+			<Text>Llano del Jicaro</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_OLMEC_LS_MOD_20">
+			<Text>Tuxtla</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_OLMEC_LS_MOD_21">
+			<Text>Cotzacoalcos</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_OLMEC_LS_MOD_22">
+			<Text>Tonalá</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_OLMEC_LS_MOD_23">
+			<Text>Papaloapan</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_OLMEC_LS_MOD_24">
+			<Text>Gura</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_OLMEC_LS_MOD_25">
+			<Text>Monte Albán</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_OLMEC_LS_MOD_26">
+			<Text>Cuicuilco</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_OLMEC_LS_MOD_27">
+			<Text>Texpa</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_OLMEC_LS_MOD_28">
+			<Text>Olinalá</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_OLMEC_LS_MOD_29">
+			<Text>Izapa</Text>
+		</Row>
+		<!-- Spy Names -->
+		<Row Tag="TXT_KEY_SPY_NAME_OLMEC_LS_MOD_0">
+			<Text>Coatl</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_OLMEC_LS_MOD_1">
+			<Text>Itzli</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_OLMEC_LS_MOD_2">
+			<Text>Tlaloc</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_OLMEC_LS_MOD_3">
+			<Text>Matlal</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_OLMEC_LS_MOD_4">
+			<Text>Nochehuatl</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_OLMEC_LS_MOD_5">
+			<Text>Teyacapan</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_OLMEC_LS_MOD_6">
+			<Text>Eréndira</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_OLMEC_LS_MOD_7">
+			<Text>Yaretzi</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_OLMEC_LS_MOD_8">
+			<Text>Citlali</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_OLMEC_LS_MOD_9">
+			<Text>Jaugar Paw</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<!----------------------------------------------------------------
+						Leader
+		------------------------------------------------------------------>
+		<Row Tag="TXT_KEY_LEADER_OLMEC_LS_MOD_PO_NGBE_DESC">
+			<Text>Po Ngbe</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_OLMEC_LS_MOD_PO_NGBE_LIVED">
+			<Text>Between 900 - 600 BC </Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_OLMEC_LS_MOD_PO_NGBE_NAME">
+			<Text>Po Ngbe</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_OLMEC_LS_MOD_PO_NGBE_SUBTITLE">
+			<Text>Ku</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_OLMEC_LS_MOD_PO_NGBE_TITLES_1">
+			<Text>Tu</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_OLMEC_LS_MOD_PO_NGBE_HEADING_1">
+			<Text>History</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_OLMEC_LS_MOD_PO_NGBE_TEXT_1">
+			<Text>The Olmec inscriptions record the names and deeds of many political officials, religious leaders and Kings. The Olmec inscriptions indicate that each Olmec town was ruled by either a governor or King, and that their was a recognized religious leader for the entire community. The Olmec King was usually referred to as Tu. The Olmec term for governor was Ku. Interestingly, some of the Olmec rulers were referred to as the Ku and Tu. This may suggest that the Olmec civilization may have been organized into a confederation of city-states lead by a recognized emperor. The Olmec emperor may have appointed the local government heads or Ku (governors). One the most interesting Olmec historical documents is the Mask from Rio Pesquero Veracruz. According to the inscriptions on the mask, it was worn by Bada, who was recognized as the local Ku and chief La (leader of the stone mason's caste). Between 900-600 BC one of the major rulers at Guerrero was Po Ngbe. There is also an important tablet from Ahuelican, Guerrero of mottled green stone that also mentions King Po Ngbe, and his building of a great temple at his site. This is all we know of the Olmec leadership.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DAWN_OF_MAN_OLMEC_LS_MOD_TEXT">
+			<Text>Ancient and mysterious Olmecs, precursors of Aztecs and Mayans, founders of the first American civilization, we gather here to hear your story. You hail from a forgotten time, when Gods still walked the Earth. Little is known about your culture, as no writing sources describing your lives have ever been found. Tu Ku Po Ngbe, we long to hear your story! We are eager to learn the purpose of the Colossal Heads! Those overgrown statues which terryfied and enchanting the explorers of old Earth. Was it you who invented the zero, a fundamental step in advancing mathematics. Were you, too, responsible for the dark nature of Mesoamerican people: bloodletting and human sacrifice.[NEWLINE][NEWLINE]Po Ngbe, Son of the Jaguar, we have returned you to answer your great desitny! You have slumbered long, and history continued without you. Can you adapt to this new world and all its new ideas? Can you claim the power of your birthright, and journey to the stars? Can you build a civilization that will stand the test of time?</Text>
+		</Row>
+		<!----------------------------------------------------------------
+						Diplomacy
+		------------------------------------------------------------------>
+		<!--First Greeting messages from AI leaders-->
+		<Row Tag="TXT_KEY_LEADER_OLMEC_LS_MOD_PO_NGBE_FIRSTGREETING_1">
+			<Text>The Doom is coming, the stars portend it. Seems unfair, doesn't it? We only just started playing. If you make it to the next world, you may call me Po.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_OLMEC_LS_MOD_PO_NGBE_FIRSTGREETING_2">
+			<Text>My name is Po Ngbe and I am the Tu Ku of Olmec. Welcome to my c... Oh what does it matter? Soon the sky will fall and all lesser men be devoured by jaguars. Let's play some civ.</Text>
+		</Row>
+		<!--Defeated messages from AI leaders-->
+		<Row Tag="TXT_KEY_LEADER_OLMEC_LS_MOD_PO_NGBE_DEFEATED_1">
+			<Text>Slain! Before I even got to see the apocalypse. This... isn't... fair...</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_OLMEC_LS_MOD_PO_NGBE_DEFEATED_2">
+			<Text>Aha! Do you see! Look at the fire fall around us! Oh wait... that's blood. No there it is! Over there! No... that's blood too.</Text>
+		</Row>
+		<!-- Human repeats an action too much, gets the following responses -->
+		<Row Tag="TXT_KEY_LEADER_OLMEC_LS_MOD_PO_NGBE_REPEAT_TOO_MUCH_1">
+			<Text>The end will soon be upon us! End your turn already!</Text>
+		</Row>
+		<!-- Greetings -->
+		<Row Tag="TXT_KEY_LEADER_OLMEC_LS_MOD_PO_NGBE_GREETING_HOSTILE_HELLO_1">
+			<Text>When the apocalypse comes, I hope you go first. No wait... that's merciful. I hope you go last!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_OLMEC_LS_MOD_PO_NGBE_GREETING_POLITE_HELLO_1">
+			<Text>Welcome to the jungle.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_OLMEC_LS_MOD_PO_NGBE_GREETING_HOSTILE_AGGRESSIVE_EXPANSION_1">
+			<Text>I had a Ku lined up for that region and everything! Damn you! DAMN YOU ALL!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_OLMEC_LS_MOD_PO_NGBE_GREETING_AGGRESSIVE_EXPANSION_1">
+			<Text>That land you took is sitting on a major fault line, or maybe those mountains are actually active volcanos. Something bad, anyway.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_OLMEC_LS_MOD_PO_NGBE_DENOUNCE_1">
+			<Text>Down with the heretic! Death to him and all his kin![NEWLINE][NEWLINE]([COLOR_WARNING_TEXT]They have publicly denounced us! NOTE: You are not at war.[ENDCOLOR])</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_OLMEC_LS_MOD_PO_NGBE_DENOUNCE_2">
+			<Text>The rivers will run red with your blood long before the Doom arrives.[NEWLINE][NEWLINE]([COLOR_WARNING_TEXT]They have publicly denounced us! NOTE: You are not at war.[ENDCOLOR])</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_OLMEC_LS_MOD_PO_NGBE_RESPONSE_TO_BEING_DENOUNCED_1">
+			<Text>I have bigger things to worry about.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_OLMEC_LS_MOD_PO_NGBE_RESPONSE_TO_BEING_DENOUNCED_2">
+			<Text>You can deny me, but you cannot deny the apocalypse.</Text>
+		</Row>
+		<!-- General Diplo Text -->
+		<Row Tag="TXT_KEY_LEADER_OLMEC_LS_MOD_PO_NGBE_COOP_WAR_REQUEST_1">
+			<Text>{1_PlayerName:textkey} wont survive our passage into the next world. They are a liability.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_OLMEC_LS_MOD_PO_NGBE_COOP_WAR_REQUEST_2">
+			<Text>I'm here about {1_PlayerName:textkey} and a little... holiday I have planned for them.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_OLMEC_LS_MOD_PO_NGBE_COOP_WAR_TIME_1">
+			<Text>That thing we talked about concerning {1_PlayerName:textkey}...</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_OLMEC_LS_MOD_PO_NGBE_DEC_FRIENDSHIP_1">
+			<Text>You and me, we can make it. Together.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_OLMEC_LS_MOD_PO_NGBE_DEC_FRIENDSHIP_2">
+			<Text>If we don't team up I don't fancy our chances.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_OLMEC_LS_MOD_PO_NGBE_AGGRESSIVE_MILITARY_WARNING_1">
+			<Text>It's come to my attention that you have a large number of Units near my borders. I recommend keeping them to survive the jaguar apocalypse.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_OLMEC_LS_MOD_PO_NGBE_EXPANSION_SERIOUS_WARNING_1">
+			<Text>Your expansion will bring an early Doom upon this world!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_OLMEC_LS_MOD_PO_NGBE_EXPANSION_WARNING">
+			<Text>You must stop expanding! A large empire will never stand against the Doom.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_OLMEC_LS_MOD_PO_NGBE_RETURNED_CIVILIAN_1">
+			<Text>For these men, the Doom was not today. Thank you.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_OLMEC_LS_MOD_PO_NGBE_RETURNED_CIVILIAN_2">
+			<Text>We have to be kind, it is the only way to appease the Gods.</Text>
+		</Row>
+		<!--Insults-->
+		<Row Tag="TXT_KEY_LEADER_OLMEC_LS_MOD_PO_NGBE_INSULT_1">
+			<Text>Your head! It's... it's... colossal!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_OLMEC_LS_MOD_PO_NGBE_INSULT_2">
+			<Text>I recommend taking one of these jaguar masks, and... well... keeping it on!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_OLMEC_LS_MOD_PO_NGBE_INSULT_3">
+			<Text>The Doom will come as a relief to you!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_OLMEC_LS_MOD_PO_NGBE_INSULT_4">
+			<Text>Maybe you are so loathsome that the Doom itself will leave you here. Alone.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_OLMEC_LS_MOD_PO_NGBE_INSULT_MILITARY_1">
+			<Text>Your warriors are kittens to my jaguar!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_OLMEC_LS_MOD_PO_NGBE_INSULT_UNHAPPINESS_1">
+			<Text>Your people are so unhappy. It is a poor way to spend their short, meaningless lives.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_OLMEC_LS_MOD_PO_NGBE_INSULT_CITIES_1">
+			<Text>I'll send some Ku to help you run your cities, if you like.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_OLMEC_LS_MOD_PO_NGBE_INSULT_CULTURE_1">
+			<Text>Culture an issue, eh? I recommend building a Colossal H... oh, yeah.</Text>
+		</Row>
+		<!--Public Declarations-->
+		<Row Tag="TXT_KEY_LEADER_OLMEC_LS_MOD_PO_NGBE_DECLARATION_PROTECT_CITY_STATE_1">
+			<Text>{2_MajorCivName:textkey} announces to the world that it is now protecting {1_MinorCivName:textkey}. Attacking the City-State will greatly damage relations and may lead to war.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_OLMEC_LS_MOD_PO_NGBE_DECLARATION_ABANDON_CITY_STATE_1">
+			<Text>{2_MajorCivName:textkey} has taken back its guarantee of protecting {1_MinorCivName:textkey}.</Text>
+		</Row>
+		<!-- Human is asking the AI for something -->
+		<Row Tag="TXT_KEY_LEADER_OLMEC_LS_MOD_PO_NGBE_DONT_SETTLE_NO_1">
+			<Text>My Ku is already on his way, sorry.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_OLMEC_LS_MOD_PO_NGBE_DONT_SETTLE_YES_1">
+			<Text>My Ku hadn't left yet, anyway.</Text>
+		</Row>
+		<!--Deal Offers and related-->
+		<Row Tag="TXT_KEY_LEADER_OLMEC_LS_MOD_PO_NGBE_LUXURY_TRADE_1">
+			<Text>Let's make the time we have left on this planet a little more... luxurious.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_OLMEC_LS_MOD_PO_NGBE_RESPONSE_REQUEST_1">
+			<Text>Kindness is all we have.</Text>
+		</Row>
+		<!--AI Attacked by Human - Strong and Weak also include the default response sets-->
+		<Row Tag="TXT_KEY_LEADER_OLMEC_LS_MOD_PO_NGBE_ATTACKED_HOSTILE_1">
+			<Text>FOOL! You have sought your own demise.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_OLMEC_LS_MOD_PO_NGBE_ATTACKED_EXCITED_1">
+			<Text>Brasenly you have disregarded powers BEYOND your understanding!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_OLMEC_LS_MOD_PO_NGBE_ATTACKED_SAD_1">
+			<Text>Maybe this will be the Doom for me...</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_OLMEC_LS_MOD_PO_NGBE_ATTACKED_BETRAYED_1">
+			<Text>You would try the Doom without me!? No! If I can't go to the next world, neither can you!</Text>
+		</Row>
+		<!--AI Declaring War on Human - Strong and Weak also include the default response sets-->
+		<Row Tag="TXT_KEY_LEADER_OLMEC_LS_MOD_PO_NGBE_DOW_GENERIC_1">
+			<Text>I'll let you stay on as a Ku.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_OLMEC_LS_MOD_PO_NGBE_DOW_LAND_1">
+			<Text>We don't have much time. I must have the power to survive. I MUST!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_OLMEC_LS_MOD_PO_NGBE_DOW_WORLD_CONQUEST_1">
+			<Text>Before I burn... I shall take THE WHOLE WORLD WITH ME!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_OLMEC_LS_MOD_PO_NGBE_DOW_WORLD_CONQUEST_2">
+			<Text>Heheheh. MWHAHAHAHAH! I AM THE DOOM.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_OLMEC_LS_MOD_PO_NGBE_DOW_OPPORTUNITY_1">
+			<Text>Doooooooom.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_OLMEC_LS_MOD_PO_NGBE_DOW_DESPERATE_1">
+			<Text>If I cannot defeat you I shall surely not defeat the Doom.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_OLMEC_LS_MOD_PO_NGBE_DOW_BETRAYAL_1">
+			<Text>I realised that only one will be saved. That's going to be me.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_OLMEC_LS_MOD_PO_NGBE_DOW_BETRAYAL_2">
+			<Text>You thought we were... friends?</Text>
+		</Row>
+		<!--AI Responses to a human peace offer-->
+		<Row Tag="TXT_KEY_LEADER_OLMEC_LS_MOD_PO_NGBE_TOO_SOON_NO_PEACE_1">
+			<Text>More heads must roll!</Text>
+		</Row>
+		<!--AI Responses to a discussion mode topics-->
+		<Row Tag="TXT_KEY_LEADER_OLMEC_LS_MOD_PO_NGBE_BAD_1">
+			<Text>Doom. DooooOOOOoooom... Sorry, what were you saying?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_OLMEC_LS_MOD_PO_NGBE_GOOD_1">
+			<Text>Excellent! Fantastic, even!</Text>
+		</Row>
+		<!----------------------------------------------------------------
+						UA
+		------------------------------------------------------------------>
+		<Row Tag="TXT_KEY_TRAIT_OLMEC_TRAIT_SHORT">
+			<Text>Tu and Ku</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_OLMEC_TRAIT">
+			<Text>Founded cities start as [ICON_PUPPET] Puppets, having all yields increased by 1 and no [ICON_CULTURE] Culture or [ICON_RESEARCH] Science penalties.</Text>
+		</Row>
+		<!----------------------------------------------------------------
+						U1
+		------------------------------------------------------------------>
+		<Row Tag="TXT_KEY_UNIT_TLAMACAZQUI">
+			<Text>Nas Tuki</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_HELP_TLAMACAZQUI">
+			<Text>Unique Olmec unit replacing the Scout. Double movement through jungle and reveals nearby ancient ruins.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_TLAMACAZQUI_TEXT">
+			<Text>The Olmec may have been the first civilization in the Western Hemisphere to develop a writing system. Symbols found in 2002 and 2006 date from 650 BCE and 900 BCE respectively, preceding the oldest Zapotec writing, which dates from about 500 BCE. This would have allowed the Olmecs to craft the first maps. The wide diffusion of Olmec artifacts and "Olmecoid" iconography throughout much of Mesoamerica indicates the existence of extensive long-distance trade networks. Exotic, prestigious and high-value materials such as greenstone and marine shell were moved in significant quantities across large distances. To have established such long distance trade at that point in history, the Olmec must have mapped most of the Mexican peninsula.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_TLAMACAZQUI_STRATEGY">
+			<Text>Given the Olmec jungle start bias, the double movement speed through jungle will see the Nas Tuki as more mobile than the Scout, which it replaces. Detecting nearby ancient ruins, the Nas Tuki will ensure that the Olmec player gets the lion's share of the regions goody huts, strengthening their start and allowing a great deal of flexibility in gameplay.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_OLMEC_UNWELCOME">
+			<Text>Ancient Maps</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_OLMEC_UNWELCOME_HELP">
+			<Text>Double movement through jungle, reveals nearby ancient ruins.</Text>
+		</Row>
+		<!----------------------------------------------------------------
+						U2
+		------------------------------------------------------------------>
+		<Row Tag="TXT_KEY_BUILDING_COLOSSAL_HEADS">
+			<Text>Colossal Heads</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_COLOSSAL_HEADS_HELP">
+			<Text>Claims extra territory upon construction. +1 [ICON_CULTURE] Culture per era of existence.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_COLOSSAL_HEADS_TEXT">
+			<Text>The Olmec colossal heads are at least seventeen monumental stone representations of human heads sculpted from large basalt boulders. The heads date from at least before 900 BC and are a distinctive feature of the Olmec civilization of ancient Mesoamerica. All portray mature men with fleshy cheeks, flat noses, and slightly crossed eyes; their physical characteristics correspond to a type that is still common among the inhabitants of Tabasco and Veracruz. The backs of the monuments often are flat. The boulders were brought from the Sierra de los Tuxtlas mountains of Veracruz. Given that the extremely large slabs of stone used in their production were transported over large distances, requiring a great deal of human effort and resources, it is thought that the monuments represent portraits of powerful individual Olmec rulers. Each of the known examples has a distinctive headdress. The heads were variously arranged in lines or groups at major Olmec centres, but the method and logistics used to transport the stone to these sites remain unclear.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_COLOSSAL_HEADS_STRATEGY">
+			<Text>Like the monument, which they replace, the Colossal Heads should be constructed in every city. Claiming tiles makes up for the fact that, as puppets, your newly founded cities cannot be instructed to buy tiles. Furthermore, they have a steadily increasing culture yield, allowing the Olmec more policies, faster. This gives the Olmec a great deal of flexibility when it comes to choosing a playstyle.</Text>
+		</Row>
+	</Language_en_US>
+</GameData>
