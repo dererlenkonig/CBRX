@@ -90,7 +90,7 @@ function JFD_GreatQing_NewPolicies_UnitPromoted(playerID, unitID, plotX, plotY)
 	if (not player:IsAlive()) then return end
 	if (not HasTrait(player, traitQingID)) then return end
 	local unit = player:GetUnitByID(unitID)
-	local rewardCulture = (unit:GetLevel()*20)
+	local rewardCulture = (unit:GetLevel()*6)
 	player:ChangeJONSCulture(rewardCulture)
 	if player:IsHuman() then
 		local hex = ToHexFromGrid(Vector2(plotX, plotY))
