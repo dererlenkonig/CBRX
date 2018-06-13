@@ -764,13 +764,13 @@
 		</Row>
 		<!-- -->
 		<Row Tag="TXT_KEY_TRAIT_DYNASTIC_CYCLE_DUPLICATE_1">
-			<Text>Western&#160;</Text>
+			<Text>Eastern&#160;</Text>
 		</Row>
 		<Row Tag="TXT_KEY_TRAIT_DYNASTIC_CYCLE_DUPLICATE_2">
-			<Text>W.&#160;</Text>
+			<Text>E.&#160;</Text>
 		</Row>
 		<Row Tag="TXT_KEY_TRAIT_DYNASTIC_CYCLE_DUPLICATE_3">
-			<Text>Xin&#160;</Text>
+			<Text>Dong&#160;</Text>
 		</Row>			
 		<!-- -->
 		<Row Tag="TXT_KEY_XIA_TRAI_YUAN_BONUS">
