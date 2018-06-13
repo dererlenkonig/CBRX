@@ -1,0 +1,223 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<Language_en_US>
+		<Row Tag="TXT_KEY_UNIT_LS_TOQUI">
+			<Text>Toqui</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_LS_TOQUI_STRATEGY">
+			<Text>In opposite to normal Great General, Toqui greatly helps in finishing wounded units by preventing their escape. It should help in utilising Mapuche ability. Toqui can be also spent to boost XP of nearby units.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_LS_TOQUI_HELP">
+			<Text>Unique Mapuche great person replacing general. Land enemy units starting turn within 2 range of Toqui have their movement halved if their HP is 50% or below. This ability disables healing of most units.[NEWLINE][NEWLINE]In addition, Toqui can be spent to boost XP of all adjacent land units.</Text>
+		</Row>
+		
+		
+		<Row Tag="TXT_KEY_UNIT_LS_IRONWOOD_CLUBSMAN">
+			<Text>Mawidanche</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_LS_IRONWOOD_CLUBSMAN_STRATEGY">
+			<Text>Mawidanche is very mobile unit, use this advantage to flank and finish enemies.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_HELP_LS_IRONWOOD_CLUBSMAN">
+			<Text>Only the Mapuche may build it. This Unit starts with Woodsman promotion, ignores Zone of Control and gains experience while breaking through enemy Zone of Control.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_LS_MAPUCHE_ZOC">
+			<Text>Uncontrollable</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_LS_MAPUCHE_ZOC_HELP">
+			<Text>Ignores Zone of Control.</Text>
+		</Row>
+
+
+		<Row Tag="TXT_KEY_MAPUCHE_LS_MOD_DESC">
+			<Text>Mapuche Empire</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MAPUCHE_LS_MOD_SHORT_DESC">
+			<Text>Mapuche</Text>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_MAPUCHE_LS_MOD_ADJECTIVE">
+			<Text>Mapuche</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MAPUCHE_LS_MOD">
+			<Text>Mapuche</Text>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_DAWN_OF_MAN_MAPUCHE_LS_MOD_TEXT">
+			<Text>Lets stand beneath the sacred Canelo tree and make a ceremony in your honor, oh great Janequeo from the Mapuche people of the Pehuen. Warfare is nothing new for the Mapuche, the elders tell stories of how the brave warriors amongst your people curved the expansion of the Inca centuries ago, making them pay dearly for daring to step on your lands, and after them came the Spanish, who suffered a similar fate. Even on the face of superior weaponry your people stood their ground, learning their ways and effectively using them against their foes. It was in these dark times that your call to action was held. Mourning the loss of your husband, you took up arms and led the armies against the invasors, a symbol not only of the Mapuche resistance, but of the fierce spirit of the Mapuche Woman.[NEWLINE][NEWLINE]Oh great Lonko Janequeo, your people even to this day keep fighting for their rights and their lands, can you lead them in a new beginning? Can you command them against unsurmuntable odds and come triumphant? Can you build a civilization that can stand the test of time?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MAPUCHE_LS_MOD_JANEQUEO_DESC">
+			<Text>Janequeo</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MAPUCHE_LS_MOD_JANEQUEO_NAME">
+			<Text>Janequeo</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MAPUCHE_LS_MOD_JANEQUEO_SUBTITLE">
+			<Text>Lonco</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MAPUCHE_LS_MOD_JANEQUEO_TITLES_1">
+			<Text>Heroine</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_LS_MAPUCHE_SHORT">
+			<Text>Pruloncon</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_LS_MAPUCHE">
+			<Text>May obtain Promotions, required Strategic Resources or prerequisite technologies from defeated units.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MAPUCHE_LS_MOD_JANEQUEO_PEDIA_LIVED">
+			<Text>16th Century</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MAPUCHE_LS_MOD_JANEQUEO_PEDIA_NAME">
+			<Text>Janequeo</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MAPUCHE_LS_MOD_JANEQUEO_PEDIA_SUBTITLE">
+			<Text>Leader of Matuche</Text>
+		</Row>
+		
+		
+		
+		
+		<Row Tag="TXT_KEY_CITY_NAME_MAPUCHE_LS_MOD_1">
+			<Text>Mapu</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MAPUCHE_LS_MOD_2">
+			<Text>Panguipulli</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MAPUCHE_LS_MOD_3">
+			<Text>Ercilla</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MAPUCHE_LS_MOD_4">
+			<Text>Lumako</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MAPUCHE_LS_MOD_5">
+			<Text>Tirua</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MAPUCHE_LS_MOD_6">
+			<Text>Traiguén</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MAPUCHE_LS_MOD_7">
+			<Text>Collipulli</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MAPUCHE_LS_MOD_8">
+			<Text>Quilicura</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MAPUCHE_LS_MOD_9">
+			<Text>Antiñir Pilquiñan</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MAPUCHE_LS_MOD_10">
+			<Text>Lafquenche</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MAPUCHE_LS_MOD_11">
+			<Text>Quilapi</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MAPUCHE_LS_MOD_12">
+			<Text>Huayquillan</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MAPUCHE_LS_MOD_13">
+			<Text>Chiloé</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MAPUCHE_LS_MOD_14">
+			<Text>Paichil Antreao</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MAPUCHE_LS_MOD_15">
+			<Text>Nagche</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MAPUCHE_LS_MOD_16">
+			<Text>Futaleufú</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MAPUCHE_LS_MOD_17">
+			<Text>Lonquimay</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MAPUCHE_LS_MOD_18">
+			<Text>Llafenco</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MAPUCHE_LS_MOD_19">
+			<Text>Cheuquel</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MAPUCHE_LS_MOD_20">
+			<Text>Temulemu</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MAPUCHE_LS_MOD_21">
+			<Text>Pilinmapu</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MAPUCHE_LS_MOD_22">
+			<Text>Pangueco</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MAPUCHE_LS_MOD_23">
+			<Text>Hualalafquén</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MAPUCHE_LS_MOD_24">
+			<Text>Chañaqui</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MAPUCHE_LS_MOD_25">
+			<Text>Pichiloncoyán</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MAPUCHE_LS_MOD_26">
+			<Text>Pichilemu</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MAPUCHE_LS_MOD_27">
+			<Text>Lleu-Lleu</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MAPUCHE_LS_MOD_28">
+			<Text>Quintriqueo</Text>
+		</Row>		
+		<Row Tag="TXT_KEY_CITY_NAME_MAPUCHE_LS_MOD_29">
+			<Text>Cayulef</Text>
+		</Row>		
+		<Row Tag="TXT_KEY_CITY_NAME_MAPUCHE_LS_MOD_30">
+			<Text>Kaxipayiñ</Text>
+		</Row>
+
+		
+		<Row Tag="TXT_KEY_SPY_NAME_MAPUCHE_LS_MOD_0">
+			<Text>Curiman</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_MAPUCHE_LS_MOD_1">
+			<Text>Epulef</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_MAPUCHE_LS_MOD_2">
+			<Text>Huapi</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_MAPUCHE_LS_MOD_3">
+			<Text>Huenchumilla</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_MAPUCHE_LS_MOD_4">
+			<Text>Namuncura</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_MAPUCHE_LS_MOD_5">
+			<Text>Ayme</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_MAPUCHE_LS_MOD_6">
+			<Text>Cuyen</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_MAPUCHE_LS_MOD_7">
+			<Text>Lican</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_MAPUCHE_LS_MOD_8">
+			<Text>Malen</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_MAPUCHE_LS_MOD_9">
+			<Text>Saqui</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MAPUCHE_LS_MOD_JANEQUEO_FIRST_GREETING_1">
+			<Text>My name is Lonco Janequeo. My people shall fight with every invader, ignoring the odds and inevitable defeat.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MAPUCHE_LS_MOD_JANEQUEO_FIRST_GREETING_2">
+			<Text>Greetings. I believe that every dispute between our nations can be solved with spilling blood of your people.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MAPUCHE_LS_MOD_JANEQUEO_DEFEATED_1">
+			<Text>Let it be... The Spirit of Mapuche will survive to haunt the invaders for eternity.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MAPUCHE_LS_MOD_JANEQUEO_DEFEATED_2">
+			<Text>How dare you steal our lands and burn our farms? Who gave you the right to do such terrible things?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MAPUCHE_LS_MOD_JANEQUEO_DOW_GENERIC_1">
+			<Text>My name is Lonco Janequeo. You killed my husband. Prepare to die.</Text>
+		</Row>
+	</Language_en_US>
+</GameData>
