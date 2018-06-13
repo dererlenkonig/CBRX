@@ -52,7 +52,7 @@ function shikokuContinents(playerID, unitID, x, y)
 	if not isInTable(visitedContinents, pArea) then 
 		if not (Game:GetGameTurn() < 1) then 
 			local teamTechs = Teams[player:GetTeam()]:GetTeamTechs()
-			researchToAdd = math.ceil(player:GetResearchCost(player:GetCurrentResearch())/4)
+			researchToAdd = math.ceil(player:GetResearchCost(player:GetCurrentResearch())/6)
 			teamTechs:ChangeResearchProgress(player:GetCurrentResearch(), researchToAdd , player)
 			print("Adding " .. researchToAdd .. " to Shikoku's Science")
 		end
