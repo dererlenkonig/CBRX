@@ -1,0 +1,199 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<Language_en_US>
+		<Row Tag="TXT_KEY_UNIT_LS_DELIAN_TRIREME">
+			<Text>Delian Trireme</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_ANTIQUITY_LS_DELIAN_TRIREME_TEXT">
+			<Text>Athens was at that time embroiled in a conflict with the neighbouring island of Aegina, which possessed a formidable navy. In order to counter this, and possibly with an eye already at the mounting Persian preparations, in 483/2 BC the Athenian statesman Themistocles used his political skills and influence to persuade the Athenian assembly to start the construction of 200 triremes, using the income of the newly discovered silver mines at Laurion. The first clash with the Persian navy was at the Battle of Artemisium, where both sides suffered great casualties. However, the decisive naval clash occurred at Salamis, where Xerxes' invasion fleet was decisively defeated. After Salamis and another Greek victory over the Persian fleet at Mycale, the Ionian cities were freed, and the Delian League was formed under the aegis of Athens. Gradually, the predominance of Athens turned the League effectively into an Athenian Empire. The source and foundation of Athens' power was her strong fleet, composed of over 200 triremes. It not only secured control of the Aegean Sea and the loyalty of her allies, but also safeguarded the trade routes and the grain shipments from the Black Sea, which fed the city's burgeoning population. In addition, as it provided permanent employment for the city's poorer citizens, the fleet played an important role in maintaining and promoting the radical Athenian form of democracy. Athenian maritime power is the first example of thalassocracy in world history.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_LS_DELIAN_TRIREME_STRATEGY">
+			<Text>Only the Athens may build this unit. Like the Trireme it is a melee attack unit, engaging units at sea or cities (but it has no ranged attack). The Delian Trireme cannot enter Deep Ocean tiles outside of the city borders.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_HELP_LS_DELIAN_TRIREME">
+			<Text>Strong Ancient Era Naval Unit used to dominate coastal city-states. Delian Trireme boosts the [ICON_INFLUENCE] Influence in the nearest coastal City-state upon killing a barbarian unit. The unit cost is greatly reduced if you have at least one allied City-State. Only the Athens may build it.</Text>
+		</Row>
+
+
+		<Row Tag="TXT_KEY_BUILDING_LS_LONG_WALLS">
+			<Text>Long Walls</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_LS_LONG_WALLS_HELP">
+			<Text>+15% [ICON_PRODUCTION] Production when building Naval Units if the city is coastal from the beginning. Allows to create 1-tile long canals connecting city to sea basins otherwise unavailable.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_BUILDINGS_LS_LONG_WALLS_TEXT">
+			<Text>Although long walls were built at several locations in ancient Greece (Corinth and Megara being two of the best known examples) the Long Walls generally refers to the walls built in several phases and connecting Athens to its ports at Piraeus and Phalerum, providing a secure connection to the sea even during times of siege. These walls were of about 6 km in length, were constructed in the mid 5th century BC, destroyed by the Spartans in 403 BC after Athens' defeat in the Peloponnesian War and rebuilt again with Persian support during the Corinthian War. They were a key element of Athenian strategy, since they provided the city with a constant link to the sea and prevented it from being besieged by land alone.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_LS_LONG_WALLS_STRATEGY">
+			<Text>The Long Walls are a Athenian Unique Building, replacing the standard city Walls. The Long Walls provides +15% [ICON_PRODUCTION] Production for naval units if city is coastal one since the beginning. If city is placed within two tiles to the sea basin, Long Walls allow you to connect city with it, which allows producing naval units, buildings and establishing naval Trade Routes.</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_IMPROVEMENT_LS_LONG_WALLS">
+			<Text>Long Walls</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_IMPROVEMENTS_LS_LONG_WALLS_TEXT">
+			<Text>This improvement is related to unique athenian building.</Text>
+		</Row>
+		
+		<Row Tag="TXT_KEY_ATHENS_LS_MOD_DESC">
+			<Text>Athenian Empire</Text>
+		</Row>
+		<Row Tag="TXT_KEY_ATHENS_LS_MOD_SHORT_DESC">
+			<Text>Athens</Text>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_ATHENS_LS_MOD_ADJECTIVE">
+			<Text>Athenian</Text>
+		</Row>
+		<Row Tag="TXT_KEY_ATHENS_LS_MOD">
+			<Text>Athenian Empire</Text>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_DAWN_OF_MAN_ATHENS_LS_MOD_TEXT">
+			<Text>Oh, memorable Pericles, the first citizen of Athens, the world awaits you! You are the leader of the legendary city-state of Athens. The birthplace of many great things, such as democracy, philosophy, tragedy, art and architecture, the very foundation of Civilization. Although few in number, in the 5th century BC your people were able to defeat their much larger neighbor, Persia, on land and sea. You promoted the arts and literature; it is principally through your efforts that Athens holds the reputation of being the educational and cultural center of the ancient Greek world. You started an ambitious project that generated most of the surviving structures on the Acropolis, including the Parthenon, which beautified and protected the city, exhibited its glory.[NEWLINE][NEWLINE]Pericles, friend and protector of democracy, your people are ready to spread the great Greek culture to millions and to bring Athens everlasting glory. Shall you continue your work to make this world a better place? Can you build a civilization that will stand the test of time?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_ATHENS_LS_PERICLES_DESC">
+			<Text>Pericles</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ATHENS_LS_PERICLES_PEDIA_LIVED">
+			<Text>495-429 BC</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ATHENS_LS_PERICLES_PEDIA_NAME">
+			<Text>Pericles</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ATHENS_LS_PERICLES_PEDIA_SUBTITLE">
+			<Text>Leader of Athens</Text>
+		</Row>
+		<Row Tag="TXT_KEY_ATHENS_LS_PERICLES_NAME">
+			<Text>Pericles</Text>
+		</Row>
+		<Row Tag="TXT_KEY_ATHENS_LS_PERICLES_SUBTITLE">
+			<Text>Statesman</Text>
+		</Row>
+		<Row Tag="TXT_KEY_ATHENS_LS_PERICLES_TITLES_1">
+			<Text>General</Text>
+		</Row>
+		
+		
+		<Row Tag="TXT_KEY_TRAIT_LS_ATHENS_SHORT">
+			<Text>School of Hellas</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_LS_ATHENS">
+			<Text>You can research Technologies with just prerequisites of prerequisites (but not steal or speed up with Great Scientists).</Text>
+		</Row>
+		
+		
+		<Row Tag="TXT_KEY_CITY_NAME_ATHENS_LS_MOD_1">
+			<Text>Athens</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_ATHENS_LS_MOD_2">
+			<Text>Chios</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_ATHENS_LS_MOD_3">
+			<Text>Thasos</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_ATHENS_LS_MOD_4">
+			<Text>Methone</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_ATHENS_LS_MOD_5">
+			<Text>Mende</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_ATHENS_LS_MOD_6">
+			<Text>Torone</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_ATHENS_LS_MOD_7">
+			<Text>Samos</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_ATHENS_LS_MOD_8">
+			<Text>Ephesus</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_ATHENS_LS_MOD_9">
+			<Text>Mytilene</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_ATHENS_LS_MOD_10">
+			<Text>Assos</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_ATHENS_LS_MOD_11">
+			<Text>Abydos</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_ATHENS_LS_MOD_12">
+			<Text>Halicarnassus</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_ATHENS_LS_MOD_13">
+			<Text>Priene</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_ATHENS_LS_MOD_14">
+			<Text>Lindos</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_ATHENS_LS_MOD_15">
+			<Text>Rhodes</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_ATHENS_LS_MOD_16">
+			<Text>Kameiros</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_ATHENS_LS_MOD_17">
+			<Text>Cnidus</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_ATHENS_LS_MOD_18">
+			<Text>Naxos</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_ATHENS_LS_MOD_19">
+			<Text>Stageira</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_ATHENS_LS_MOD_20">
+			<Text>Torone</Text>
+		</Row>
+		
+		
+		
+		<Row Tag="TXT_KEY_SPY_NAME_ATHENS_LS_MOD_0">
+			<Text>Socrates</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_ATHENS_LS_MOD_1">
+			<Text>Plato</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_ATHENS_LS_MOD_2">
+			<Text>Ammonius</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_ATHENS_LS_MOD_3">
+			<Text>Aristoxenus</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_ATHENS_LS_MOD_4">
+			<Text>Chaerephon</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_ATHENS_LS_MOD_5">
+			<Text>Adoni</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_ATHENS_LS_MOD_6">
+			<Text>Agathe</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_ATHENS_LS_MOD_7">
+			<Text>Harmonia</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_ATHENS_LS_MOD_8">
+			<Text>Pandora</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_ATHENS_LS_MOD_9">
+			<Text>Xene</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		
+		
+		<Row Tag="TXT_KEY_LEADER_ATHENS_LS_PERICLES_FIRST_GREETING_1">
+			<Text>I face my enemies with courage, but we shall no foresee. Right now, you can admire the greatness of Athens.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ATHENS_LS_PERICLES_FIRST_GREETING_2">
+			<Text>Freedom is the sure possession of those alone who have the courage to defend it. Athens is a city of free, I can assure that.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ATHENS_LS_PERICLES_DEFEATED_1">
+			<Text>What you leave behind is not what is engraved in stone monuments, but what is woven into the lives of others.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ATHENS_LS_PERICLES_DEFEATED_2">
+			<Text>For famous men have the whole earth as their memorial.</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

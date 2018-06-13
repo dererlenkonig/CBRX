@@ -1,0 +1,207 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<Language_en_US>
+		<Row Tag="TXT_KEY_BUILDING_LS_KRIEGSSCHULE_HELP">
+			<Text>Unique Prussian Barracks replacement. Grants [ICON_HAPPINESS_1] Happiness based on Great General points earned in last 8 turns.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_LS_KRIEGSSCHULE">
+			<Text>Kriegsschule</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_BUILDINGS_LS_KRIEGSSCHULE_TEXT">
+			<Text>A Kriegsschule was a general military school used for basic officer training and higher education in Germany starting in as early as the 17th century. After the Seven Years' War (1756-1763), Frederick II was faced with the task of reorganizing and refreshing the army. Due to the war in all of the European countries, it became obvious that the education of the officers was lacking. It was believed that the experience of war taught all that was necessary. After the war, the Germans recognized the importance of science education and new educational facilities were constructed.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_LS_KRIEGSSCHULE_STRATEGY">
+			<Text>In addition to the regular abilities of the Barracks which it replaces, the Kriegsschule grants Happiness based while you are actively at war (earning Great General points). Only the Prussians may build it.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_LS_LANDWEHR">
+			<Text>Landwehr</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_LS_LANDWEHR_STRATEGY">
+			<Text>Landwehr are the backbone of the early Industrial era Prussian army. They are cheaper to train and have extra combat bonus versus City-States' cities.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_UNIT_LS_LANDWEHR_TEXT">
+			<Text>The landwehr in Prussia was first formed by a royal edict of 17 March 1813, which called up all men capable of bearing arms between the ages of eighteen and forty-five, and not serving in the regular army, for the defence of the country. After the peace of 1815 this force was made an integral part of the Prussian army, each brigade being composed of one line and one Landwehr regiment. This, however, retarded the mobilization and diminished the value of the first line, and by the re-organization of 1859 the Landwehr troops were relegated to the second line.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_HELP_LS_LANDWEHR">
+			<Text>Strong, front-line land Unit that specializes in capturing City-States. Only Prussia may build it.</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_PROMOTION_LS_PRUSSIA_SIEGE_ON">
+			<Text>Siege (City-State)</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_LS_PRUSSIA_SIEGE_ON_HELP">
+			<Text>+50% Combat Bonus vs Cities owned by City-States.</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_PROMOTION_LS_PRUSSIA_ARMY">
+			<Text>Army</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_LS_PRUSSIA_ARMY_HELP">
+			<Text>+15% Combat Bonus.</Text>
+		</Row>
+
+		
+		
+		
+		<Row Tag="TXT_KEY_PRUSSIA_LS_MOD_DESC">
+			<Text>Kingdom of Prussia</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PRUSSIA_LS_MOD_SHORT_DESC">
+			<Text>Prussia</Text>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_PRUSSIA_LS_MOD_ADJECTIVE">
+			<Text>Prussian</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PRUSSIA_LS_MOD">
+			<Text>Kingdom of Prussia</Text>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_DAWN_OF_MAN_PRUSSIA_LS_MOD_TEXT">
+			<Text>Noble Frederick II, last King in Prussia and first King of Prussia, you are an inspiration for generations of your people. Your military victories, reorganization of army, patronage of the Arts and the Enlightenment, and your final success against great odds in the Seven Years' War earned you title "the Great". The Kingdom of Prussia was a German kingdom that constituted the state of Prussia between 1701 and 1918. It was the driving force behind the unification of Germany in 1871, and was the leading state of the German Empire until its dissolution in 1918.[NEWLINE][NEWLINE]Oh king Frederick the Great, your soldiers are prepared to send Prussian regards to the enemies. Shall you define your reputation in the forge of war or respect the pragmatic sanction? Can you build a civilization that will stand the test of time?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PRUSSIA_LS_FREDERICK_DESC">
+			<Text>Frederick II</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_PRUSSIA_LS_FREDERICK_PEDIA_LIVED">
+			<Text>24 January 1712 - 17 August 1786</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_PRUSSIA_LS_FREDERICK_PEDIA_NAME">
+			<Text>Frederick II</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_PRUSSIA_LS_FREDERICK_PEDIA_SUBTITLE">
+			<Text>Leader of Prussia</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PRUSSIA_LS_FREDERICK_NAME">
+			<Text>Frederick II</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PRUSSIA_LS_FREDERICK_SUBTITLE">
+			<Text>King</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PRUSSIA_LS_FREDERICK_TITLES_1">
+			<Text>General</Text>
+		</Row>
+		
+		
+		<Row Tag="TXT_KEY_TRAIT_LS_PRUSSIA_SHORT">
+			<Text>Army with a country</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_LS_PRUSSIA">
+			<Text>Can merge two land units of the same type into more powerful one.</Text>
+		</Row>
+		
+		
+		<Row Tag="TXT_KEY_CITY_NAME_PRUSSIA_LS_MOD_1">
+			<Text>Berlin</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_PRUSSIA_LS_MOD_2">
+			<Text>Magdeburg</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_PRUSSIA_LS_MOD_3">
+			<Text>Frankfurt</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_PRUSSIA_LS_MOD_4">
+			<Text>Potsdam</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_PRUSSIA_LS_MOD_5">
+			<Text>Halle</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_PRUSSIA_LS_MOD_6">
+			<Text>Stettin</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_PRUSSIA_LS_MOD_7">
+			<Text>Kolberg</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_PRUSSIA_LS_MOD_8">
+			<Text>Stralsund</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_PRUSSIA_LS_MOD_9">
+			<Text>Hannover</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_PRUSSIA_LS_MOD_10">
+			<Text>Kassel</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_PRUSSIA_LS_MOD_11">
+			<Text>Oppeln</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_PRUSSIA_LS_MOD_12">
+			<Text>Breslau</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_PRUSSIA_LS_MOD_13">
+			<Text>Thorn</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_PRUSSIA_LS_MOD_14">
+			<Text>Allenstein</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_PRUSSIA_LS_MOD_15">
+			<Text>Tilsit</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_PRUSSIA_LS_MOD_16">
+			<Text>Flensburg</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_PRUSSIA_LS_MOD_17">
+			<Text>Schleswig</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_PRUSSIA_LS_MOD_18">
+			<Text>Dortmund</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_PRUSSIA_LS_MOD_19">
+			<Text>Bonn</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_PRUSSIA_LS_MOD_20">
+			<Text>Koblenz</Text>
+		</Row>
+		
+		
+		
+		<Row Tag="TXT_KEY_SPY_NAME_PRUSSIA_LS_MOD_0">
+			<Text>Ludolf</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_PRUSSIA_LS_MOD_1">
+			<Text>Paul</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_PRUSSIA_LS_MOD_2">
+			<Text>William</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_PRUSSIA_LS_MOD_3">
+			<Text>Charles</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_PRUSSIA_LS_MOD_4">
+			<Text>Carl</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_PRUSSIA_LS_MOD_5">
+			<Text>Sophie</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_PRUSSIA_LS_MOD_6">
+			<Text>Charlotte</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_PRUSSIA_LS_MOD_7">
+			<Text>Elisabeth</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_PRUSSIA_LS_MOD_8">
+			<Text>Rocoulle</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_PRUSSIA_LS_MOD_9">
+			<Text>Ursinus</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		
+		
+		<Row Tag="TXT_KEY_LEADER_PRUSSIA_LS_FREDERICK_FIRST_GREETING_1">
+			<Text>Welcome, traveller. Those lands belong to Kingdom of Prussia, more precisely all german land belongs to Prussia, because I decided so.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_PRUSSIA_LS_FREDERICK_FIRST_GREETING_2">
+			<Text>Ha! A new invidual entered my court! Shall you introduce yourself or are you ashamed by Prussian mayesty?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_PRUSSIA_LS_FREDERICK_DEFEATED_1">
+			<Text>How could you ruin the virtues of Prussia, the most honourable and greatest kingdom on the world!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_PRUSSIA_LS_FREDERICK_DEFEATED_2">
+			<Text>Let me look into my plans. Yes, there was a mistake. This should never happen!</Text>
+		</Row>
+	</Language_en_US>
+</GameData>
