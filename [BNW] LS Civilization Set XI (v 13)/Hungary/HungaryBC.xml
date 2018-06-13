@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Context>
+	<Container Size="Full,Full" ID="DisplayFlags"/>
+	<Instance Name="HunInstance">
+		<WorldAnchor ID="HunWorldAnchor">
+			<Box Anchor="C,C" Size="36,18" Offset="0,-50" Color="Black.0" ConsumeMouse="0" ID="BoxToHide">
+				<Stack Anchor="C,C" StackGrowth="Left" Offset="0,0" Padding="0">
+					<!--		<Grid Size="20,20" Anchor="C,T" Offset="0,0" Style="GridBlack8" ConsumeMouse="1"/>-->
+					<Button ID="EmptyButton" Anchor="R,C" Size="24,24" Disabled="1" ConsumeMouse="1">
+						<Label Anchor="C,C" Offset="0,0" String="[ICON_TEAM_1]" ColorSet="Beige_Black_Alpha" Font="TwCenMT18" FontStyle="Stroke" ID="RallyPointLabel"/>
+					</Button>
+					<Button ID="SetRallyPoint" Anchor="R,C" Size="24,24" ConsumeMouse="1">
+						<Label Anchor="C,C" Offset="0,0" String="[ICON_TEAM_2]" ColorSet="Beige_Black_Alpha" Font="TwCenMT18" FontStyle="Stroke" ID="SetRallyPointLabel"/>
+					</Button>
+				</Stack>
+			</Box>
+		</WorldAnchor>
+	</Instance>
+</Context>
