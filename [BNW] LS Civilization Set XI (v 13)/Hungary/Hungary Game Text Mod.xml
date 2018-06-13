@@ -1,0 +1,381 @@
+﻿<GameData>
+	<Language_en_US>
+		<!----------------------------------------------------------------
+						State
+		------------------------------------------------------------------>
+		<Row Tag="TXT_KEY_HUNGARY_LS_MOD_DESC">
+			<Text>Kingdom of Hungary</Text>
+		</Row>
+		<Row Tag="TXT_KEY_HUNGARY_LS_MOD_SHORT_DESC">
+			<Text>Hungary</Text>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_HUNGARY_LS_MOD_ADJECTIVE">
+			<Text>Hungarian</Text>
+		</Row>
+		<Row Tag="TXT_KEY_HUNGARY_LS_MOD">
+			<Text>Hungary</Text>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_HUNGARY_LS_MOD_HEADING_1">
+			<Text>Hungarians</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_HUNGARY_LS_MOD_TEXT_1">
+			<Text>The Hungarian people, or Magyar, originate from the Ural mountains in modern day Russia. In the 4th and 5th centuries AD, the Hungarians moved to the west of the Ural Mountains to the area between the southern Ural Mountains and the Volga River known as Bashkiria. Then, in the early 8th century, some of the Hungarians moved to the Don River to an area between the Volga, Don and the Seversky Donets rivers.[NEWLINE][NEWLINE]The Hungarians around the Don River were subordinates of the Khazar khaganate. Their neighbours were the archaeological Saltov Culture, i.e. Bulgars (Proto-Bulgarians, Onogurs) and the Alans, from whom they learned gardening, elements of cattle breeding and of agriculture. Tradition holds that the Hungarians were organized in a confederacy of seven tribes. The names of the seven tribes were: Jenő, Kér, Keszi, Kürt-Gyarmat, Megyer, Nyék, and Tarján. Around 830, a rebellion broke out in the Khazar khaganate. As a result, three Kabar tribes of the Khazars joined the Hungarians and moved to what the Hungarians call the Etelköz, the territory between the Carpathians and the Dnieper River, (today's Ukraine).[NEWLINE][NEWLINE]In 895/896, under the leadership of Árpád, some Hungarians crossed the Carpathians and entered the Carpathian Basin. From the upper Tisza region of the Carpathian Basin, the Hungarians intensified their looting raids across continental Europe. In 900, they moved from the upper Tisza river to Transdanubia (Pannonia), which later became the core of the arising Hungarian state. At the time of the Hungarian migration, the land was inhabited only by a sparse population of Slavs, numbering about 200,000, who were either assimilated or enslaved by the Hungarians.[NEWLINE][NEWLINE]Archaeological findings (e.g. in the Polish city of Przemyśl) suggest that many Hungarians remained to the north of the Carpathians after 895/896. There is also a consistent Hungarian population in Transylvania, the Székelys, who comprise 40% of the Hungarians in Romania. The Székely people's origin, and in particular the time of their settlement in Transylvania, is a matter of historical controversy.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_HUNGARY_LS_MOD_HEADING_2">
+			<Text>History of the Kingdom of Hungary</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_HUNGARY_LS_MOD_TEXT_2">
+			<Text>As a federation of united tribes, Hungary was established in 895, some 50 years after the division of the Carolingian Empire at the Treaty of Verdun in 843, before the unification of the Anglo-Saxon kingdoms. This state was well-functioning and the nation's military power allowed the Hungarians to conduct successful fierce campaigns and raids from Constantinople to as far as today's Spain. The Hungarians defeated no fewer than three major East Frankish Imperial Armies between 907 and 910. A later defeat at the Battle of Lechfeld in 955 signaled a provisory end to most campaigns on foreign territories, at least towards the West.[NEWLINE][NEWLINE]The year 972 marked the date when the ruling prince Géza of the Árpád dynasty officially started to integrate Hungary into the Christian Western Europe. His first-born son, Saint Stephen I became the first King of Hungary after defeating his pagan uncle Koppány, who also claimed the throne. Under Stephen, Hungary was recognized as a Catholic Apostolic Kingdom. Applying to Pope Sylvester II, Stephen received the insignia of royalty (including probably a part of the Holy Crown of Hungary, currently kept in the Hungarian Parliament) from the papacy.[NEWLINE][NEWLINE]By 1006, Stephen had consolidated his power, and started sweeping reforms to convert Hungary into a Western feudal state. The country switched to using the Latin language, and until as late as 1844, Latin remained the official language of Hungary. Hungary became a powerful kingdom. Ladislaus I extended Hungary's frontier in Transylvania and invaded Croatia in 1091. The Croatian campaign culminated in the Battle of Gvozd Mountain in 1097 and a personal union of Croatia and Hungary in 1102, ruled by Coloman i.e. Könyves Kálmán.[NEWLINE][NEWLINE]The most powerful and wealthiest king of the Árpád dynasty was Béla III, who disposed of the equivalent of 23 tonnes of pure silver a year. This exceeded the income of the French king (estimated at 17 tonnes) and was double the receipts of the English Crown.[NEWLINE][NEWLINE]Andrew II issued the Diploma Andreanum which secured the special privileges of the Transylvanian Saxons and is considered the first Autonomy law in the world. He led the Fifth Crusade to the Holy Land in 1217, setting up the largest royal army in the history of Crusades. His Golden Bull of 1222 was the first constitution in Continental Europe. The lesser nobles also began to present Andrew with grievances, a practice that evolved into the institution of the parliament (parlamentum publicum).[NEWLINE][NEWLINE]In 1241–1242, the kingdom received a major blow with the Mongol (Tatar) Invasion. Up to half of Hungary's then population of 2,000,000 were victims of the invasion. King Béla IV let Cumans and Jassic people into the country, who were fleeing the Mongols. Over the centuries they were fully assimilated into the Hungarian population.[NEWLINE][NEWLINE]As a consequence, after the Mongols retreated, King Béla ordered the construction of hundreds of stone castles and fortifications, to defend against a possible second Mongol invasion. The Mongols returned to Hungary in 1285, but the newly built stone-castle systems and new tactics (using a higher proportion of heavily armed knights) stopped them. The invading Mongol force was defeated near Pest by the royal army of Ladislaus IV of Hungary. As with later invasions, it was repelled handily, the Mongols losing much of their invading force.[NEWLINE][NEWLINE]The last strong king of medieval Hungary was the Renaissance king Matthias Corvinus (1458–1490), son of John Hunyadi. His election was the first time that a member of the nobility mounted to the Hungarian royal throne without dynastic background. He was a successful military leader and an enlightened patron of the arts and learning. His library, the Bibliotheca Corviniana, was Europe's greatest collection of historical chronicles, philosophic and scientific works in the 15th century, and second only in size to the Vatican Library. The library is a UNESCO World Heritage Site.[NEWLINE][NEWLINE]The serfs and common people considered him a just ruler because he protected them from excessive demands from and other abuses by the magnates. Under his rule, in 1479, the Hungarian army destroyed the Ottoman and Wallachian troops at the Battle of Breadfield. Abroad he defeated the Polish and German imperial armies of Frederick at Breslau (Wrocław). Matthias' mercenary standing army, the Black Army of Hungary, was an unusually large army for its time, and it conquered parts of Austria, Vienna (1485) and parts of Bohemia.[NEWLINE][NEWLINE]King Matthias died without lawful sons, and the Hungarian magnates procured the accession of the Pole Vladislaus II (1490–1516), supposedly because of his weak influence on Hungarian aristocracy. Hungary's international role declined, its political stability shaken, and social progress was deadlocked. In 1514, the weakened old King Vladislaus II faced a major peasant rebellion led by György Dózsa, which was ruthlessly crushed by the nobles, led by John Zápolya.[NEWLINE][NEWLINE]The resulting degradation of order paved the way for Ottoman pre-eminence. In 1521, the strongest Hungarian fortress in the South, Nándorfehérvár (the Hungarian name of Belgrade, Serbia), fell to the Turks. The early appearance of Protestantism further worsened internal relations in the country. With the conquest of Buda by the Turks in 1541, Hungary was divided into three parts and remained so until the end of the 17th century. The north-western part, termed as Royal Hungary, was annexed by the Habsburgs who ruled as Kings of Hungary. The eastern part of the kingdom became independent as the Principality of Transylvania, under Ottoman (and later Habsburg) suzerainty. The remaining central area, including the capital Buda, was known as the Pashalik of Buda.[NEWLINE][NEWLINE]In 1686, the Holy League's army, containing over 74,000 men from various nations, reconquered Buda from the Turks. After some more crushing defeats of the Ottomans in the next few years, the entire Kingdom of Hungary was removed from Ottoman rule by 1718. The last raid into Hungary by the Ottoman vassals Tatars from Crimea took place in 1717. The constrained Habsburg Counter-Reformation efforts in the 17th century reconverted the majority of the kingdom to Catholicism.[NEWLINE][NEWLINE]Between 1703 and 1711, there was a large-scale uprising led by Francis II Rákóczi, who after the dethronement of the Habsburgs in 1707 at the Diet of Ónod, took power provisionally as the Ruling Prince of Hungary for the wartime period, but refused the Hungarian Crown and the title "King". The uprisings lasted for years. After 8 years of war with the Habsburg Empire, the Hungarian Kuruc army lost the last main battle at Trencsén (1708).[NEWLINE][NEWLINE]Count István Széchenyi, one of the most prominent statesmen of the country, recognized the urgent need of modernization and his message got through. The Hungarian Parliament was reconvened in 1825 to handle financial needs. A liberal party emerged and focused on providing for the peasantry. Lajos Kossuth – a famous journalist at that time – emerged as leader of the lower gentry in the Parliament. A remarkable upswing started as the nation concentrated its forces on modernization even though the Habsburg monarchs obstructed all important liberal laws relating to civil and political rights and economic reforms. Many reformers (Lajos Kossuth, Mihály Táncsics) were imprisoned by the authorities.[NEWLINE][NEWLINE]The Habsburg Ruler and his advisors skillfully manipulated the Croatian, Serbian and Romanian peasantry, led by priests and officers firmly loyal to the Habsburgs, and induced them to rebel against the Hungarian government, though the Hungarians were supported by the vast majority of the Slovak, German and Rusyn nationalities and by all the Jews of the kingdom, as well as by a large number of Polish, Austrian and Italian volunteers. In July 1849 the Hungarian Parliament proclaimed and enacted the first laws of ethnic and minority rights in the world. Many members of the nationalities gained the coveted highest positions within the Hungarian Army, like General János Damjanich, an ethnic Serb who became a Hungarian national hero through his command of the 3rd Hungarian Army Corps or Józef Bem, who was Polish and also became a national hero in Hungary.[NEWLINE][NEWLINE]Initially, the Hungarian forces (Honvédség) defeated Austrian armies. To counter the successes of the Hungarian revolutionary army, Habsburg Emperor Franz Joseph I asked for help from the "Gendarme of Europe", Czar Nicholas I, whose Russian armies invaded Hungary. This made Artúr Görgey surrender in August 1849. The leader of the Austrian army, Julius Jacob von Haynau, became governor of Hungary for a few months, and ordered the execution of the 13 Martyrs of Arad, leaders of the Hungarian army, and Prime Minister Batthyány in October 1849. Lajos Kossuth escaped into exile.[NEWLINE][NEWLINE]Because of external and internal problems, reforms seemed inevitable and major military defeats of Austria forced the Habsburgs to negotiate the Austro-Hungarian Compromise of 1867, by which the dual Monarchy of Austria–Hungary was formed. THis would remain the case until the distintigration of that empire in the aftermath of the First World War.</Text>
+		</Row>
+		<!-- City Names -->
+		<Row Tag="TXT_KEY_CITY_NAME_HUNGARY_LS_MOD_1">
+			<Text>Esztergom</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_HUNGARY_LS_MOD_2">
+			<Text>Buda</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_HUNGARY_LS_MOD_3">
+			<Text>Visegrad</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_HUNGARY_LS_MOD_4">
+			<Text>Debrecen</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_HUNGARY_LS_MOD_5">
+			<Text>Pest</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_HUNGARY_LS_MOD_6">
+			<Text>Temesvar</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_HUNGARY_LS_MOD_7">
+			<Text>Pozsony</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_HUNGARY_LS_MOD_8">
+			<Text>Lippa</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_HUNGARY_LS_MOD_9">
+			<Text>Gyulafehervar</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_HUNGARY_LS_MOD_10">
+			<Text>Szekesfehervar</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_HUNGARY_LS_MOD_11">
+			<Text>Szeged</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_HUNGARY_LS_MOD_12">
+			<Text>Miskolc</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_HUNGARY_LS_MOD_13">
+			<Text>Pecs</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_HUNGARY_LS_MOD_14">
+			<Text>Gyor</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_HUNGARY_LS_MOD_15">
+			<Text>Nyiregyhaza</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_HUNGARY_LS_MOD_16">
+			<Text>Kecskemet</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_HUNGARY_LS_MOD_17">
+			<Text>Szombathely</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_HUNGARY_LS_MOD_18">
+			<Text>Szolnok</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_HUNGARY_LS_MOD_19">
+			<Text>Tatabanya</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_HUNGARY_LS_MOD_20">
+			<Text>Kaposvar</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_HUNGARY_LS_MOD_21">
+			<Text>Erd</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_HUNGARY_LS_MOD_22">
+			<Text>Sopron</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_HUNGARY_LS_MOD_23">
+			<Text>Eger</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_HUNGARY_LS_MOD_24">
+			<Text>Zalaegerszeg</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_HUNGARY_LS_MOD_25">
+			<Text>Bekescsaba</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_HUNGARY_LS_MOD_26">
+			<Text>Nagykanizsa</Text>
+		</Row>
+		<!-- Spy Names -->
+		<Row Tag="TXT_KEY_SPY_NAME_HUNGARY_LS_MOD_0">
+			<Text>Ambrus</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_HUNGARY_LS_MOD_1">
+			<Text>Gergeli</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_HUNGARY_LS_MOD_2">
+			<Text>Kelemen</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_HUNGARY_LS_MOD_3">
+			<Text>Tobor</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_HUNGARY_LS_MOD_4">
+			<Text>Peterke</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_HUNGARY_LS_MOD_5">
+			<Text>Tzigana</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_HUNGARY_LS_MOD_6">
+			<Text>Palika</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_HUNGARY_LS_MOD_7">
+			<Text>Klotild</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_HUNGARY_LS_MOD_8">
+			<Text>Lulia</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_HUNGARY_LS_MOD_9">
+			<Text>Aranyu</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<!----------------------------------------------------------------
+						Leader
+		------------------------------------------------------------------>
+		<Row Tag="TXT_KEY_LEADER_HUNGARY_LS_MOD_STEPHEN_HUN_LIVED">
+			<Text>975-1038</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_HUNGARY_LS_MOD_STEPHEN_HUN_DESC">
+			<Text>Stephen I</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_HUNGARY_LS_MOD_STEPHEN_HUN_NAME">
+			<Text>Stephen I</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_HUNGARY_LS_MOD_STEPHEN_HUN_SUBTITLE">
+			<Text>King</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_HUNGARY_LS_MOD_STEPHEN_HUN_TITLES_1">
+			<Text>Sanctus Stephanus</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_HUNGARY_LS_MOD_STEPHEN_HUN_HEADING_1">
+			<Text>History</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_HUNGARY_LS_MOD_STEPHEN_HUN_TEXT_1">
+			<Text>The Grand Prince Géza was the first ruler to establish a semblance of order over the roving and warlike Hungarian horde, and initiated moves to Christianize the Magyar/ Hungarians by appealing to the Holy Roman Emperor Otto I for Christian missionaries. His move has been termed the "Quedlinburg Mission." Fortunately, for the Hungarians, Otto did not take the request seriously. Although a number of German Benedictine missionaries came to the Hungarian lands and began the process of Christianization, their methods were so crude that they caused many problems and delayed progress.[NEWLINE][NEWLINE]When Géza died in 997, his son Stephen took a more direct action some three years later by appealing to Pope Sylvester II, asking that he be baptized and crowned Christian king of Hungary. This move reduced the possibility that the Holy Roman Emperor might assume the role of feudal lord over Hungary, making the Hungarian ruler his vassal.[NEWLINE][NEWLINE]Acting quickly, Sylvester II sent a bishop and a group of clergy; he also sent a crown which was slightly damaged en route. When the coronation took place on Christmas Day in the year 1000, that same crown with its bent cross was set on Stephen's head; the defect remains to this day, symbolizing the origin and function of the crown and its wearer.[NEWLINE][NEWLINE]Stephen was faced with great problems from all sides as he began the task of organizing, defending, Christianizing, and bringing his nation into the European fold. One of these problems was the revolt of a cousin who ruled in Transylvania. Koppàny claimed not only the throne, but the hand of Stephen's widowed mother. Immediately moving against him, Stephen finally defeated Koppàny, executing him in 1003. Then another Magyar—known only by the title Gyula—claimed the rule in Transylvania and usurped it. He too was disposed of by the new king, who was actively supported by German knights in the service of his wife/ queen, Gisela, a Bavarian princess.[NEWLINE][NEWLINE]Stephen established the seat of his kingdom at Esztergom, site of an old Roman settlement called Strigonium, allegedly where the Roman Emperor Marcus Aurelius wrote his Meditations. He lost no time in setting up a number of bishoprics and instituting a vigorous program of Christianization of his people. Some have reported that this was accomplished through forceful means—in much the same manner as the Frankish king Clovis Christianized his pagan tribesmen in the sixth century, and the Emperor Constantine his Roman subjects in the fourth century.[NEWLINE][NEWLINE]Stephen I ruled for four decades. Considering that his father Géza, who began the first attempts to Christianize the Magyars, had been anything but successful, Stephen achieved nearly miraculous results, leaving a clear majority of his subjects following the new religion at his death in 1038. In addition to establishing dioceses for the propagation of the faith, Stephen established schools and churches and encouraged his nobility to endow monasteries. He also invited Jewish and Muslim traders into the kingdom to build up the economy, ordering a strict toleration of their religious practices in order to profit from their trading activities.[NEWLINE][NEWLINE]He sponsored the drafting and enactment of law codes for his new nation, in what appears—retroactively—to be a close adaptation of what other European monarchs of the period were accomplishing. One element that makes Stephen's legal pronouncements different from the others is that he sought, with some degree of success, to prevent Hungary from becoming a theocratic protectorate. The laws were Christianized versions of Magyar customs and traditions; they reflected the need of his people as much as the requirement for order.[NEWLINE][NEWLINE]He allied himself with the Byzantine emperor, Basil II, in his battle with the Bulgarian ruler John Vladislav in 1018, the results of which action saw the establishment of pilgrimage routes to Jerusalem through Constantinople. In later years, Stephen's treatment of Bulgarian prisoners was humane and considerate and led to a satisfying relaxation of tensions between the two kingdoms. This was especially fruitful when the German emperor Conrad II launched attacks against the western parts of Hungary in 1030. Since he didn't have to worry about his eastern and southern flanks, Stephen was able to concentrate his forces and defeat the Germans in the west, forcing their withdrawal.[NEWLINE][NEWLINE]Stephen's personal life included a series of tragedies. His only son Imre (Emeric), who enjoyed a reputation for virtue and valor, died in what has been reported as a hunting accident (killed by a "wild boar"). But Stephen Sisa, in his book The Spirit of Hungary, alleges that the death was a successful assassination attempt by the Thonuzoba family, who were resisting conversion to Christianity. Sisa points out that the term, thonuzoba, means "wild boar" in the language of the Petcheneg (a pre-Christian steppe-dwelling people, some of whom settled in Transylvania). Because he had led an exemplary life and was well-loved by the Hungarian peoples who had accepted Christianity, Imre was canonized in the late 11th century, at about the same time as his father.[NEWLINE][NEWLINE]The successful implantation of a substantial group of non-Slavs in Eastern Europe in the midst of what was becoming a Slavic empire is one of the minor mysteries of European history. To the north, the Poles held sway, but the Hungarians successfully intermarried with Polish aristocracy, and it is a verified fact that Stephen sent to Poland two young men who might become eligible for his throne when their lives appeared to be in danger. They subsequently returned after Stephen's death and each of them later ruled for brief periods. To the east, Bulgars could have posed threats to the peace of the kingdom, yet Stephen, through careful diplomacy, managed to keep the Bulgarian rulers either pacified or immobilized. To the northeast the Bohemians (Czechs) represented a highly developed culture that acted as a buffer for their Slavic brothers to the east, while they did not pose any kind of a threat to the Magyar kingdom. Other minor groupings of Slavs— including Slovenes, Slovaks, Croats, Ruthenians, White Russians, Ukrainians, Serbians, Vlachs (Rumanians)— formed a demographic ring around the Carpathian Basin. Yet the Magyars/Hungarians survived and prospered. Their history and their historians assert that the chief architect of this was Stephen—Saint Stephen—whose vision and energy made the beginnings possible.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DAWN_OF_MAN_HUNGARY_LS_MOD_TEXT">
+			<Text>Great Stephen I, the first King of the Hungary. Your kingdom was a monarchy in Central Europe that existed from the Middle Ages into the Twentieth Century. The Principality of Hungary emerged as a Christian kingdom by your coronation at Esztergom in 1000. From then on, your family led the holy monarchy for over 300 years! The Kingdom of Hungary rose to prominence in Europe, and was described as part of the Western world by the 12th century. Due to the Ottoman occupation of the central and southern territories in the 16th century, the monarchy split into three parts: the Habsburg Royal Hungary, Ottoman Hungary and the semi-independent Principality of Transylvania. Though it would never again be this great, your people would play a part in the history of the world as part of the Austrio-Hungarian Empire.[NEWLINE][NEWLINE]Holy King Stephen, may you once again create a strong estate. Will you become powerful enough to maintain your holy land under pagan pressure? Will your righteous fighting force awe the world? Can you build a civilization that will stand the test of time?</Text>
+		</Row>
+		<!----------------------------------------------------------------
+						Diplomacy
+		------------------------------------------------------------------>
+		<!--First Greeting messages from AI leaders-->
+		<Row Tag="TXT_KEY_LEADER_HUNGARY_LS_MOD_STEPHEN_HUN_FIRSTGREETING_1">
+			<Text>I am Stephen, King of Hungary and humble servant of the Lord. You were terribly mistaken if you had thought that you could grab these lands without a fight.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_HUNGARY_LS_MOD_STEPHEN_HUN_FIRSTGREETING_2">
+			<Text>Glory of the most high be upon you, wanderer. I am Stephen, first King of Hungary and Saint. Bow before your Lord and Saviour.</Text>
+		</Row>
+		<!--Defeated messages from AI leaders-->
+		<Row Tag="TXT_KEY_LEADER_HUNGARY_LS_MOD_STEPHEN_HUN_DEFEATED_1">
+			<Text>Forgive me God, that I wasn't strong enough to carry this burden.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_HUNGARY_LS_MOD_STEPHEN_HUN_DEFEATED_2">
+			<Text>If this be His will... Finish it...</Text>
+		</Row>
+		<!-- Human repeats an action too much, gets the following responses -->
+		<Row Tag="TXT_KEY_LEADER_HUNGARY_LS_MOD_STEPHEN_HUN_REPEAT_TOO_MUCH_1">
+			<Text>Please do no raise your voice in the chapel.</Text>
+		</Row>
+		<!-- Greetings -->
+		<Row Tag="TXT_KEY_LEADER_HUNGARY_LS_MOD_STEPHEN_HUN_GREETING_HOSTILE_HELLO_1">
+			<Text>Let me guess, you have seen the error of your ways, and wish to surrender your lands to me as an act of penance?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_HUNGARY_LS_MOD_STEPHEN_HUN_GREETING_POLITE_HELLO_1">
+			<Text>Blessings upon you, friend of Hungary.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_HUNGARY_LS_MOD_STEPHEN_HUN_GREETING_HOSTILE_AGGRESSIVE_EXPANSION_1">
+			<Text>I'll add aggressive expansion to the list of reasons you are going to burn in the seventh circle of hell.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_HUNGARY_LS_MOD_STEPHEN_HUN_GREETING_AGGRESSIVE_EXPANSION_1">
+			<Text>Rein in your imperialist ambitions. The man with a high land demographic will never enter the kingdom of heaven.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_HUNGARY_LS_MOD_STEPHEN_HUN_DENOUNCE_1">
+			<Text>It is with most righteous consent that I denounce you in the name of sanctity and light.[NEWLINE][NEWLINE]([COLOR_WARNING_TEXT]They have publicly denounced us! NOTE: You are not at war.[ENDCOLOR])</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_HUNGARY_LS_MOD_STEPHEN_HUN_DENOUNCE_2">
+			<Text>All the devout shall know of your sins against God![NEWLINE][NEWLINE]([COLOR_WARNING_TEXT]They have publicly denounced us! NOTE: You are not at war.[ENDCOLOR])</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_HUNGARY_LS_MOD_STEPHEN_HUN_RESPONSE_TO_BEING_DENOUNCED_1">
+			<Text>I shall listen to God, and Him alone.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_HUNGARY_LS_MOD_STEPHEN_HUN_RESPONSE_TO_BEING_DENOUNCED_2">
+			<Text>My faith is not shaken by you, or anyone else!</Text>
+		</Row>
+		<!-- General Diplo Text -->
+		<Row Tag="TXT_KEY_LEADER_HUNGARY_LS_MOD_STEPHEN_HUN_COOP_WAR_REQUEST_1">
+			<Text>{1_PlayerName:textkey} has transgressed. He must be punished!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_HUNGARY_LS_MOD_STEPHEN_HUN_COOP_WAR_REQUEST_2">
+			<Text>The honour of all righteous men is slighted by {1_PlayerName:textkey}, we must restore it!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_HUNGARY_LS_MOD_STEPHEN_HUN_COOP_WAR_TIME_1">
+			<Text>The heretic, {1_PlayerName:textkey}, shall blight our world no longer.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_HUNGARY_LS_MOD_STEPHEN_HUN_DEC_FRIENDSHIP_1">
+			<Text>The hordes of the unfaithful reach our borders. We are the last defenders of civilization! Only together shall we survive.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_HUNGARY_LS_MOD_STEPHEN_HUN_DEC_FRIENDSHIP_2">
+			<Text>Live a Christen life, and there shall never be cause for strife between us.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_HUNGARY_LS_MOD_STEPHEN_HUN_AGGRESSIVE_MILITARY_WARNING_1">
+			<Text>It's come to my attention thay you have a large number of Units near my borders. Retreat now or we'll be cleaning the Vegvar for weeks.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_HUNGARY_LS_MOD_STEPHEN_HUN_RETURNED_CIVILIAN_1">
+			<Text>This act of mercy is righteous and noble. Go with my blessing.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_HUNGARY_LS_MOD_STEPHEN_HUN_RETURNED_CIVILIAN_2">
+			<Text>Mercy, goodness and life. A friend of these is a friend of Hungary.</Text>
+		</Row>
+		<!--Insults-->
+		<Row Tag="TXT_KEY_LEADER_HUNGARY_LS_MOD_STEPHEN_HUN_INSULT_1">
+			<Text>The path of the righteous man is beset on all sides by the inequities of the selfish and the tyranny of evil men.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_HUNGARY_LS_MOD_STEPHEN_HUN_INSULT_2">
+			<Text>Blessed is he who, in the name of charity and good will, shepherds the weak through the valley of darkness, for he is truly his brother's keeper and the finder of lost children.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_HUNGARY_LS_MOD_STEPHEN_HUN_INSULT_3">
+			<Text> And I will strike down upon thee with great vengeance and furious anger those who attempt to poison and destroy my brothers.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_HUNGARY_LS_MOD_STEPHEN_HUN_INSULT_4">
+			<Text>And you will know my name is the Lord when I lay my vengeance upon thee.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_HUNGARY_LS_MOD_STEPHEN_HUN_INSULT_MILITARY_1">
+			<Text>Your rabble will never take a single Vegvar.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_HUNGARY_LS_MOD_STEPHEN_HUN_INSULT_UNHAPPINESS_1">
+			<Text>The suffering of your people pains me.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_HUNGARY_LS_MOD_STEPHEN_HUN_INSULT_CITIES_1">
+			<Text>There are many Vegvar that would classify as cities if I took those hovels that make up your empire as baseline.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_HUNGARY_LS_MOD_STEPHEN_HUN_INSULT_CULTURE_1">
+			<Text>You'll never see the blue jeans coming.</Text>
+		</Row>
+		<!--Public Declarations-->
+		<Row Tag="TXT_KEY_LEADER_HUNGARY_LS_MOD_STEPHEN_HUN_DECLARATION_PROTECT_CITY_STATE_1">
+			<Text>{2_MajorCivName:textkey} announces to the world that it is now protecting {1_MinorCivName:textkey}. Attacking the City-State will greatly damage relations and may lead to war.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_HUNGARY_LS_MOD_STEPHEN_HUN_DECLARATION_ABANDON_CITY_STATE_1">
+			<Text>{2_MajorCivName:textkey} has taken back its guarantee of protecting {1_MinorCivName:textkey}.</Text>
+		</Row>
+		<!-- Human is asking the AI for something -->
+		<Row Tag="TXT_KEY_LEADER_HUNGARY_LS_MOD_STEPHEN_HUN_DONT_SETTLE_NO_1">
+			<Text>These lands are claimed by my divine right!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_HUNGARY_LS_MOD_STEPHEN_HUN_DONT_SETTLE_YES_1">
+			<Text>I never intended to slight you, my sincere apologies.</Text>
+		</Row>
+		<!--Deal Offers and related-->
+		<Row Tag="TXT_KEY_LEADER_HUNGARY_LS_MOD_STEPHEN_HUN_LUXURY_TRADE_1">
+			<Text>Both are empires can prosper in holy brotherhood.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_HUNGARY_LS_MOD_STEPHEN_HUN_RESPONSE_REQUEST_1">
+			<Text>A donation to the church will ensure the salvation of your eternal soul!</Text>
+		</Row>
+		<!--AI Attacked by Human - Strong and Weak also include the default response sets-->
+		<Row Tag="TXT_KEY_LEADER_HUNGARY_LS_MOD_STEPHEN_HUN_ATTACKED_HOSTILE_1">
+			<Text>I pray that you are delievered to me alive, such that I may crucify you myself.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_HUNGARY_LS_MOD_STEPHEN_HUN_ATTACKED_EXCITED_1">
+			<Text>When your offensive breaks against my fortifications, and your men flee my lands, I shall chase them down and slay every last one of them. Mercy is for men; you are vermin.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_HUNGARY_LS_MOD_STEPHEN_HUN_ATTACKED_SAD_1">
+			<Text>God has seen fit to test me.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_HUNGARY_LS_MOD_STEPHEN_HUN_ATTACKED_BETRAYED_1">
+			<Text>To think I would be betrayed by my own friend! Such is the fate of the holiest of men.</Text>
+		</Row>
+		<!--AI Declaring War on Human - Strong and Weak also include the default response sets-->
+		<Row Tag="TXT_KEY_LEADER_HUNGARY_LS_MOD_STEPHEN_HUN_DOW_GENERIC_1">
+			<Text>Repent.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_HUNGARY_LS_MOD_STEPHEN_HUN_DOW_LAND_1">
+			<Text>The heresy in your lands has gone on long enough. Every serf I spare during my campaign will kneel before the King of Glory.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_HUNGARY_LS_MOD_STEPHEN_HUN_DOW_WORLD_CONQUEST_1">
+			<Text>God has seen fit to grant me dominion over this world. Your resistance is futile.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_HUNGARY_LS_MOD_STEPHEN_HUN_DOW_WORLD_CONQUEST_2">
+			<Text>The light of God must be brought to every corner of this world. Only then may man be saved.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_HUNGARY_LS_MOD_STEPHEN_HUN_DOW_OPPORTUNITY_1">
+			<Text>Confess your crimes.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_HUNGARY_LS_MOD_STEPHEN_HUN_DOW_DESPERATE_1">
+			<Text>I am strong with the Lord and the power of His might!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_HUNGARY_LS_MOD_STEPHEN_HUN_DOW_BETRAYAL_1">
+			<Text>I have traced back the many heresies and sects that plague my holy land back to our union of alliance. I see now that you deceived me. While the other leaders may not understand at first, when the evidence is found, they shall see I was justified.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_HUNGARY_LS_MOD_STEPHEN_HUN_DOW_BETRAYAL_2">
+			<Text>You are surely guilty of some heretical practices! History will surely absolve me.</Text>
+		</Row>
+		<!--AI Responses to a human peace offer-->
+		<Row Tag="TXT_KEY_LEADER_HUNGARY_LS_MOD_STEPHEN_HUN_TOO_SOON_NO_PEACE_1">
+			<Text>I hunger for battle.</Text>
+		</Row>
+		<!--AI Responses to a discussion mode topics-->
+		<Row Tag="TXT_KEY_LEADER_HUNGARY_LS_MOD_STEPHEN_HUN_BAD_1">
+			<Text>Hold your blaspheming tongue.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_HUNGARY_LS_MOD_STEPHEN_HUN_GOOD_1">
+			<Text>Amen.</Text>
+		</Row>
+		<!----------------------------------------------------------------
+						UA
+		------------------------------------------------------------------>
+		<Row Tag="TXT_KEY_TRAIT_HUNGARY_LS_SHORT">
+			<Text>Vérszerzodés</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_HUNGARY_LS">
+			<Text>Creates a Végvar improvement upon clearing Barbarian Camp, which can be set as a rally point of land units trained in cities. +15% [ICON_STRENGTH] Combat Strength bonus against Barbarians.</Text>
+		</Row>
+		<!----------------------------------------------------------------
+						U1
+		------------------------------------------------------------------>
+		<Row Tag="TXT_KEY_UNIT_LS_BLACK_ARQUEBUSER">
+			<Text>Arquebusier</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_HELP_LS_BLACK_ARQUEBUSER">
+			<Text>Only the Hungarians may build it. Replaces the Musketman. Is stronger and once per turn can heal 20 damage for 20 [ICON_GOLD] Gold.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_LS_BLACK_ARQUEBUSER_TEXT">
+			<Text>The Black Army —possibly named after their black armor panoply— is historiographicly the common name given to the military forces serving under the reign of King Matthias Corvinus of Hungary. The ancestor and core of this early standing mercenary army appeared in the era of his father (John Hunyadi) in the early 1440s. The idea of the professional standing mercenary army came from Matthias' juvenile readings about the life of Julius Caesar. Unusual for the time, not only did Matthias maintain his soldiers even in times of peace, but he armed perhaps every fourth man with an arquebusier (related to the musket). Firearms were not so commonplace in Europes armies until much later into the 16th century.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_LS_BLACK_ARQUEBUSER_STRATEGY">
+			<Text>Unlike the Musketman, which it replaces, the Black Arquebusier has a higher strength than an ordinary Musketman. Uniquely, the Black Arquebusier may be healed - anywhere - in exchange for gold: a rich Hungarian player may bankroll a fearsome army come Gunpowder.</Text>
+		</Row>
+		<!----------------------------------------------------------------
+						U2
+		------------------------------------------------------------------>
+		<Row Tag="TXT_KEY_IMPROVEMENT_LS_VEGVAR">
+			<Text>Végvar</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_IMPROVEMENTS_LS_VEGVAR_HELP">
+			<Text>Végvar is constructed by Hungarians after clearing a barbarian camp. It provides 50% defensive bonus, claim adjacent neutral land tiles and can be used as rally point for land units trained in cities (making them appear on Végvar tile instead a city when trained).</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_IMPROVEMENTS_LS_VEGVAR_TEXT">
+			<Text>Meaning 'border castle', the Vegvars of Hungary were a series of stone fortifications erected after the first Tartar invasion to prevent further incursions into Hungarian lands. Successfully, when the second Tartar invasion eventually came, it was handily repelled.</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_BUILDING_LS_VEGVAR_STRATEGY">
+			<Text>City with Végvar can be set as a rally point of land units trained in other cities. Végvar's cost is reduced by 5% (up to 50%) for every border with rival civilization city has.[NEWLINE][NEWLINE]City must have Walls.</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

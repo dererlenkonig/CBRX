@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+  <ArtDefine_StrategicView>
+    <InsertOrAbort>
+      <StrategicViewType>ART_DEF_IMPROVEMENT_LS_HUN_VEGVAR</StrategicViewType>
+      <TileType>Improvement</TileType>
+      <Asset>UIVegvarLSAtlas256.dds</Asset>
+    </InsertOrAbort>
+  </ArtDefine_StrategicView>
+</GameData>
