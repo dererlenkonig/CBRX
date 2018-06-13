@@ -1,0 +1,536 @@
+﻿<GameData>
+	<Language_en_US>
+		<!----------------------------------------------------------------
+						State
+		------------------------------------------------------------------>
+		<Row Tag="TXT_KEY_ASHANTI_LS_MOD_DESC">
+			<Text>Akan Empire</Text>
+		</Row>
+		<Row Tag="TXT_KEY_ASHANTI_LS_MOD_SHORT_DESC">
+			<Text>Ashanti</Text>
+			<Plurality>2</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_ASHANTI_LS_MOD_ADJECTIVE">
+			<Text>Akan</Text>
+		</Row>
+		<Row Tag="TXT_KEY_ASHANTI_LS_MOD">
+			<Text>Ashanti</Text>
+			<Plurality>2</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_ASHANTI_LS_MOD_TITLE">
+			<Text>Ashanti</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_ASHANTI_LS_MOD_HEADING_1">
+			<Text>The Ashanti</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_ASHANTI_LS_MOD_TEXT_1">
+			<Text>Akan political organization centered on clans headed by a paramount chief or Amanhene. Until, in the middle of the 17th century, at meeting of all the clan heads of the Ashanti settlements, the Golden Stool was commanded down from the heavens into the lap of Osei Tutu I. Declaring the stool to be the symbol of the new Asante Union (Asanteman), Tutu demanded allegiance was sworn to the stool with himself as Asantehene - King. The newly founded Ashanti union went to war with the most powerful Empire in the region and won, birthing an empire which would last over 250 years. The stool remains sacred to the Ashanti as it is believed to contain the Sunsum — spirit or soul of the Ashanti people.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_ASHANTI_LS_MOD_HEADING_2">
+			<Text>History of the Ashanti</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_ASHANTI_LS_MOD_TEXT_2">
+			<Text>Akan political organization centered on clans headed by a paramount chief or Amanhene. One such clan, the Oyoko, settled in Asanteman's sub-tropical forest region, establishing a center at Kumasi. The Ashanti became tributaries of another Akan state, Denkyira but in the mid-17th century the Oyoko under Chief Oti Akenten started consolidating the Ashanti clans into a loose confederation against the Denkyira.[NEWLINE][NEWLINE]The introduction of the Golden Stool was a means of centralization under Osei Tutu.[NEWLINE][NEWLINE]In the 1670s the head of the Oyoko clan, Osei Kofi Tutu I, began another rapid consolidation of Akan peoples via diplomacy and warfare. King Osei Kofu Tutu I and his chief advisor, Okomfo Kwame Frimpong Anokye led a coalition of influential Ashanti city-states against their mutual oppressor, the Denkyira who held Asanteman as one of its tributaries. Asanteman utterly defeated them at the Battle of Feyiase, proclaiming its independence in 1701. Subsequently, through hard line force of arms and savoir-faire diplomacy, the duo induced the leaders of the other Ashanti city-states to declare allegiance and adherence to Kumasi, the Ashanti capital. From the beginning, King Osei Tutu and priest Anokye followed an expansionist and an imperialistic provincial foreign policy. According to folklore, Okomfo Anokye is believed to have visited Agona-Akrofonso.[NEWLINE][NEWLINE]Realizing the strengths of a loose confederation of Akan states, Osei Tutu strengthened centralization of the surrounding Akan groups and expanded the powers of the judiciary system within the centralized government. This loose confederation of small city-states grew into a kingdom or empire looking to expand its borders. Newly conquered areas had the option of joining the empire or becoming tributary states. Opoku Ware I, Osei Tutu's successor, extended the borders, embracing much of Ghana's territory.[NEWLINE][NEWLINE]European contact with the Asante on the Gulf of Guinea coast region of Africa began in the 15th century. This led to trade in gold, ivory, slaves, and other goods with the Portuguese, which gave rise to kingdoms such as the Ashanti. On May 15, 1817 the Englishman Thomas Bowdich entered Kumasi. He remained there for several months, was impressed, and on his return to England wrote a book, Mission from Cape Coast Castle to Ashantee. His praise of the kingdom was disbelieved as it contradicted prevailing prejudices. Joseph Dupuis, the first British consul in Kumasi, arrived on March 23, 1820. Both Bowdich and Dupuis secured a treaty with the Asantehene. But, the governor, Hope Smith, did not meet Ashanti expectations.[NEWLINE][NEWLINE]Slavery was a historical tradition in the Ashanti Empire, with slaves typically taken as captives from enemies in warfare. The status of slaves ranged from acquiring wealth and intermarrying with members of the master's family to being sacrificed in funeral ceremonies. The Ashanti used their personal beliefs to justify slavery and human sacrifice, believing that slaves would follow their masters into the afterlife.[NEWLINE][NEWLINE]The modern-day Ashanti claim that slaves were seldom abused. and that a person who abused a slave was held in high contempt by society. They defend the “humanity” of Ashanti slavery by noting that those slaves were allowed to marry, and that their children were born free. If a master found a female slave desirable, he might marry her. He such an arrangement to that of a free woman in a conventional marriage, because marriage to an enslaved woman allowed the children to inherit some of the father's property and status.[NEWLINE][NEWLINE]This favored arrangement occurred primarily because of what some men considered their conflict with the matrilineal system. Under this kinship system, children were considered born into the mother's clan and took their status from her family. Generally her eldest brother served as mentor to her children, particularly for the boys. She was protected by her family. Some Ashanti men felt more comfortable taking a slave girl or pawn wife in marriage, as she would have no abusua (older male grandfather, father, uncle or brother) to intercede on her behalf when the couple argued. With an enslaved wife, the master and husband had total control of their children, as she had no kin in the tribe.[NEWLINE][NEWLINE]In January 1896, a British Expeditionary force arrived in Kumasi. The Asantehene directed the Ashanti to not resist. Shortly thereafter, Governor William Maxwell arrived in Kumasi as well. Asantehene Agyeman Prempeh was deposed and arrested. Britain annexed the territories of the Ashanti and the Fanti in 1896, and Ashanti leaders were sent into exile in the Seychelles. The Asante Union was dissolved. Robert Baden-Powell led the British in this campaign. The British formally declared the state of Asanteman and the coastal regions to be the Gold Coast colony. A British Resident was permanently placed in the city of Kumasi, and soon after a British fort was built there.[NEWLINE][NEWLINE]As a final measure of resistance, the remaining Asante court not exiled to the Seychelles mounted an offensive against the British Residents at the Kumasi Fort. The resistance was led by Asante queen Yaa Asantewaa, Queen-Mother of Ejisu. From March 28 to late September 1900, the Asante and British were engaged in what would become known as the War of the Golden Stool. In the end, the British were victorious; they exiled Asantewaa and other Asante leaders to the Seychelles to join Asante King Prempeh I.[NEWLINE][NEWLINE]In January 1902, Britain finally designated Asanteman as a protectorate. Asanteman was restored to independence on 31 January 1935. Asante King Prempeh II was restored in 1957, and Asanteman entered a state union with Ghana at independence from Great Britain.</Text>
+		</Row>
+		<!-- City Names -->
+		<Row Tag="TXT_KEY_CITY_NAME_ASHANTI_LS_MOD_1">
+			<Text>Kumasi</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_ASHANTI_LS_MOD_2">
+			<Text>Obuasi</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_ASHANTI_LS_MOD_3">
+			<Text>Agogo</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_ASHANTI_LS_MOD_4">
+			<Text>Efiduasi</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_ASHANTI_LS_MOD_5">
+			<Text>Konongo</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_ASHANTI_LS_MOD_6">
+			<Text>Bekwai</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_ASHANTI_LS_MOD_7">
+			<Text>Akroluom</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_ASHANTI_LS_MOD_8">
+			<Text>Mampong</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_ASHANTI_LS_MOD_9">
+			<Text>Ejura</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_ASHANTI_LS_MOD_10">
+			<Text>Akumadan</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_ASHANTI_LS_MOD_11">
+			<Text>Bechem</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_ASHANTI_LS_MOD_12">
+			<Text>Tepa</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_ASHANTI_LS_MOD_13">
+			<Text>Bibiani</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_ASHANTI_LS_MOD_14">
+			<Text>Dawa</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_ASHANTI_LS_MOD_15">
+			<Text>Atababo</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_ASHANTI_LS_MOD_16">
+			<Text>Buro</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_ASHANTI_LS_MOD_17">
+			<Text>Assama</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_ASHANTI_LS_MOD_18">
+			<Text>Kibbes</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_ASHANTI_LS_MOD_19">
+			<Text>Waraky</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_ASHANTI_LS_MOD_20">
+			<Text>Batoda</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_ASHANTI_LS_MOD_21">
+			<Text>Apam</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_ASHANTI_LS_MOD_22">
+			<Text>Chaca</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_ASHANTI_LS_MOD_23">
+			<Text>Albanee</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_ASHANTI_LS_MOD_24">
+			<Text>Gura</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_ASHANTI_LS_MOD_25">
+			<Text>Sokesay</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_ASHANTI_LS_MOD_26">
+			<Text>Winnebah</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_ASHANTI_LS_MOD_27">
+			<Text>Salagha</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_ASHANTI_LS_MOD_28">
+			<Text>Boben</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_ASHANTI_LS_MOD_29">
+			<Text>Amatini</Text>
+		</Row>
+		<!-- Spy Names -->
+		<Row Tag="TXT_KEY_SPY_NAME_ASHANTI_LS_MOD_0">
+			<Text>Ampah</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_ASHANTI_LS_MOD_1">
+			<Text>Badu</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_ASHANTI_LS_MOD_2">
+			<Text>Fifi</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_ASHANTI_LS_MOD_3">
+			<Text>Jojo</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_ASHANTI_LS_MOD_4">
+			<Text>Kwesi</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_ASHANTI_LS_MOD_5">
+			<Text>Serwa</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_ASHANTI_LS_MOD_6">
+			<Text>Fila</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_ASHANTI_LS_MOD_7">
+			<Text>Dofi</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_ASHANTI_LS_MOD_8">
+			<Text>Kakra</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_ASHANTI_LS_MOD_9">
+			<Text>Abana</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<!----------------------------------------------------------------
+						Leader
+		------------------------------------------------------------------>
+		<Row Tag="TXT_KEY_LEADER_ASHANTI_LS_MOD_OSEI_TUTU_DESC">
+			<Text>Osei Tutu</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ASHANTI_LS_MOD_OSEI_TUTU_LIVED">
+			<Text>1660 – 1717</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ASHANTI_LS_MOD_OSEI_TUTU_NAME">
+			<Text>Osei Tutu</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ASHANTI_LS_MOD_OSEI_TUTU_SUBTITLE">
+			<Text>Asantehene</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ASHANTI_LS_MOD_OSEI_TUTU_TITLES_1">
+			<Text>King</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ASHANTI_LS_MOD_OSEI_TUTU_HEADING_1">
+			<Text>History</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ASHANTI_LS_MOD_OSEI_TUTU_TEXT_1">
+			<Text>Osei Tutu succeeded to the throne in I697, upon the death of his uncle, Obiria Yebo. In his youth he had been shield-bearer to Boa, King of Denkern, an overlord of the Ashanti kings. But handsome and stalwart Osei Tuti had a love affair with the king's sister; she had a child by him, and he was forced to flee for his life.[NEWLINE][NEWLINE]Coming to the throne, Osei Tutu removed the seat of government to Coomassie, and together with his cousin, Bautin, a neighboring monarch, entered into an alliance for the conquest of their neighbors. He reorganized his army, modeling it after the way of ants on the march.[NEWLINE][NEWLINE]This alliance led indirectly to a war with Bosinante, King of Denkera, a territory to the southwest-a war that was to shake all West Africa. Bosinante, ostensibly as a compliment, but really out of pride, sent a mission to Osei Tutu composed of his favorite wives. Richly clad and loaded down with jewels, they were accompanied by a magnificent escort of Bosinante's most stalwart warriors.This royal delegation was received by Osei Tutu with all the honors and courtesy due its rank. He gave the queens rich presents and sent them safely back. In reciprocity, Osei Tutu sent Bosinant'e an embassy of his most beautiful wives, led by the chief queen, a woman of extraordinary beauty. When this delegation arrived, Bosinante received its members with due respect, but fell in love at first sight with the beautiful chief queen. Bosinante was young and handsome, and the attraction was mutual.[NEWLINE][NEWLINE]On her return, Osei Tutu noticed that she was an expectant mother and swore that he would not rest until he had Bosinante's head. Bosinante offered him a large quantity of gold as the price of peace, but Osei Tutu was adamant. He began mobilizing his army, forgetting apparently that he had once been forced to flee from Denkera for a similar offense. He ordered a great quantity of arms and ammunition from the Europeans. The Denkera, either through fear or negligence, made the fatal mistake of permitting his agents to transport these supplies through their country. [NEWLINE][NEWLINE]While Osei Tutu was in the midst of these preparations, Bosinante died. But Osei Tutu, determined upon conquest, led an army of 300,000 against Denkera. Aided by the Akim, another powerful tribe, the Denkera attacked the Ashanti but the allies were beaten in two great battles. Among the dead was Ntim, the Denkera king who was said to be Osei Tutu's son, born of the illicit union with King Boa's sister. It took the Ashanti fifteen days to collect the spoils of the victory. According to Bosman, "One of the European officers who was sent after the battle as an embassy to the Ashanti king, saw the immense quantity of gold which he had reserved as his own share of the treasures from the Denkeras."[NEWLINE][NEWLINE]Much of this wealth had been derived from the sale of slaves to the New World. In addition, the Ashanti found among their booty the note by which the Dutch were obliged to pay tribute for the privilege of maintaining Elmina Castle.[NEWLINE][NEWLINE]But Osei Tutu's vengeance went further. He dug up the body of Bosinante, stripped the flesh from the bones, and fed it to the serpents. The skull and thighbones he brought back as trophies for his palace, where Dupuis saw them a century later. Dupuis says that even then, the Ashanti, on their sacred feast days, execrated these relics.[NEWLINE][NEWLINE]As for the Akim, allies of the Denkera, they lost 30,000 of their men in battle. After his victory Osei Tutu invaded their territory and levied an enormous indemnity upon them as well as an annual tribute. Osei Tutu next conquered all the neighboring tribes, clans, and villages, uniting them with his kingdom. His own people he ruled with such impartiality and generosity that he became a favorite with them. When the Akim failed to pay their tribute of 4000 ounces of gold, Osei Tutu decided to annex their territory, and sent a large army against them in 1731. Intending to catch up with this army later Osei Tutu started for Denkera territory with a handful of soldiers. He felt quite secure, as his army had already passed that way. But the Akim, learning of his plans, sent a strong detachment of men to ambush him. Unsuspecting, Osei Tutu came along. Just as the royal party was about to cross the Prah River at Coromantee, the Akim opened fire. Osei Tutu was wounded in the side at the first volley. Springing from his litter, he was rallying his men when a second ball pierced his throat and he fell dead, plunging face downward into the river. Taking advantage of the confusion, the Akim charged, killing the whole party of 300, including 60 wives of the king and his nobles.[NEWLINE][NEWLINE]The loss of their beloved ruler prostrated the Ashanti, and their vengeance upon the Akim was devastating. They burned their city to the ground, killing every living thing in it. As in biblical days, not only the prisoners were sacrificed, but also the sheep, fowls, and dogs.[NEWLINE][NEWLINE]Osei Tutu's body was never found but his memory did not perish. </Text>
+		</Row>
+		<Row Tag="TXT_KEY_DAWN_OF_MAN_ASHANTI_LS_MOD_TEXT">
+			<Text>Wise Osei Tutu, founder and first king of the Kingdom of Asanteman, the great visionary and conqueror. You united your nation, divided for centuries, with a symbol: the Golden Stool. Sent by the heavens as a gift to your people! Stronger than any time before, you lead your people against Denkyira, defeating them. Though you were slain in a cowardly ambush, your legacy lived on! Territorial expansion gave Ashantis access to the Gulf of Guinea and the Atlantic Ocean, which started coastal trade with Europeans, notably the Dutch. Akan continued to flourish... until the arrival of the British. They annexed the territories of your people and sent Ashanti leaders into exile in the Seychelles. Declaring your lands to be the Gold Coast Colony, the new governor, showing no respect and mind, tried to profane the Golden Stool! This provoked righteous outrage and several uprisings. Though defeated in battle, independence was fianlly restored in 1935 within the state of Ghana.[NEWLINE][NEWLINE]Wrathful and Holy Asantehene! The Ashanti people are ready for your kingship once again! A new world is ready to receive the Golden Stool! Can you once again unite the warring tribes? Can you defend the Golden Stool from those who would seek to desecrate it? Can you build a civilization that will stand test of time?</Text>
+		</Row>
+		<!----------------------------------------------------------------
+						Diplomacy
+		------------------------------------------------------------------>
+		<!--First Greeting messages from AI leaders-->
+		<Row Tag="TXT_KEY_LEADER_ASHANTI_LS_MOD_OSEI_TUTU_FIRSTGREETING_1">
+			<Text>My name, Osei Tutu. I am the keeper of Golden Stool, the soul of Ashanti people. What brought you here?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ASHANTI_LS_MOD_OSEI_TUTU_FIRSTGREETING_2">
+			<Text>I welcome you in the name of the Sky, the Earth and the Spirit! Let's get you some cooler clothes.</Text>
+		</Row>
+		<!--Defeated messages from AI leaders-->
+		<Row Tag="TXT_KEY_LEADER_ASHANTI_LS_MOD_OSEI_TUTU_DEFEATED_1">
+			<Text>You will never have peace while you profane the Golden Stool!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ASHANTI_LS_MOD_OSEI_TUTU_DEFEATED_2">
+			<Text>You will never sit on the Golden Stool. It's safe, far, far away!</Text>
+		</Row>
+		<!-- Human repeats an action too much, gets the following responses -->
+		<Row Tag="TXT_KEY_LEADER_ASHANTI_LS_MOD_OSEI_TUTU_REPEAT_TOO_MUCH_1">
+			<Text>I'm sorry, I can't hear you over these drums.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ASHANTI_LS_MOD_OSEI_TUTU_REPEAT_TRADE_TOO_MUCH_1">
+			<Text>I want your wife as well!</Text>
+		</Row>
+		<!-- Greetings -->
+		<Row Tag="TXT_KEY_LEADER_ASHANTI_LS_MOD_OSEI_TUTU_GREETING_HOSTILE_HELLO_1">
+			<Text>These drums only play to herald the approach of an enemy.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ASHANTI_LS_MOD_OSEI_TUTU_GREETING_POLITE_HELLO_1">
+			<Text>welcome back to Ashanti, friend.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ASHANTI_LS_MOD_OSEI_TUTU_GREETING_HOSTILE_HUMAN_AT_WAR_1">
+			<Text>I would give much gold to see you lose this war.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ASHANTI_LS_MOD_OSEI_TUTU_GREETING_HUMAN_AT_WAR_1">
+			<Text>It appears you seek cultural and military domination over your neighbours! We are kindred spirits.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ASHANTI_LS_MOD_OSEI_TUTU_HOSTILE_AGGRESSIVE_MILITARY_WARNING_1">
+			<Text>I long to tear the flesh from the bones of your warrios and feed it to serpents.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ASHANTI_LS_MOD_OSEI_TUTU_GREETING_HOSTILE_AGGRESSIVE_PLOT_BUYING_1">
+			<Text>Keep your gold, you will be needing it soon.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ASHANTI_LS_MOD_OSEI_TUTU_GREETING_AGGRESSIVE_PLOT_BUYING_1">
+			<Text>There are better things to do with gold than buy land.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ASHANTI_LS_MOD_OSEI_TUTU_GREETING_HOSTILE_AGGRESSIVE_EXPANSION_1">
+			<Text>You would expand into MY territory! Perpare yourself for the afterworld!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ASHANTI_LS_MOD_OSEI_TUTU_GREETING_AGGRESSIVE_EXPANSION_1">
+			<Text>Do not expand into territory that belongs to Ashanti, friend.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ASHANTI_LS_MOD_OSEI_TUTU_GREETING_FRIENDLY_STRONG_MILITARY_1">
+			<Text>Your military is strong, we have much in common.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ASHANTI_LS_MOD_OSEI_TUTU_GREETING_FRIENDLY_STRONG_ECONOMY_1">
+			<Text>I'm not just friends with you for your money. Honest.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ASHANTI_LS_MOD_OSEI_TUTU_GREETING_HOSTILE_HUMAN_FEW_CITIES_1">
+			<Text>You have so few cities it is a wonder you are still in the game.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ASHANTI_LS_MOD_OSEI_TUTU_GREETING_HOSTILE_HUMAN_SMALL_ARMY_1">
+			<Text>Few men never won great glory.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ASHANTI_LS_MOD_OSEI_TUTU_GREETING_HOSTILE_HUMAN_IS_WARMONGER_1">
+			<Text>I agree with everything you are doing, but you looked at my Stool funny, so you are going to have to die.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ASHANTI_LS_MOD_OSEI_TUTU_TOO_SOON_FOR_DOF_1">
+			<Text>Not yet. Not yet.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ASHANTI_LS_MOD_OSEI_TUTU_DENOUNCE_1">
+			<Text>The earth cracks, the sky darkens and the spirits thirst for your soul![NEWLINE][NEWLINE]([COLOR_WARNING_TEXT]They have publicly denounced us! NOTE: You are not at war.[ENDCOLOR])</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ASHANTI_LS_MOD_OSEI_TUTU_DENOUNCE_2">
+			<Text>A thousand drums declare you are no friend to the Ashanti.[NEWLINE][NEWLINE]([COLOR_WARNING_TEXT]They have publicly denounced us! NOTE: You are not at war.[ENDCOLOR])</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ASHANTI_LS_MOD_OSEI_TUTU_RESPONSE_TO_BEING_DENOUNCED_1">
+			<Text>Got any soldiers to back that up with?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ASHANTI_LS_MOD_OSEI_TUTU_RESPONSE_TO_BEING_DENOUNCED_2">
+			<Text>You speak out against me?! ME?!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ASHANTI_LS_MOD_OSEI_TUTU_HUMAN_DOFED_FRIEND_1">
+			<Text>{1_CivName} already honours me with his friendship. United we shall conquer all our foes.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ASHANTI_LS_MOD_OSEI_TUTU_HUMAN_DOFED_ENEMY_1">
+			<Text>{1_CivName} is no friend to Ashanti. Keep this up and you shan't be either.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ASHANTI_LS_MOD_OSEI_TUTU_HUMAN_DENOUNCED_FRIEND_1">
+			<Text>{1_CivName} is my friend! You shall pay for this insult!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ASHANTI_LS_MOD_OSEI_TUTU_HUMAN_DENOUNCED_ENEMY_1">
+			<Text>{1_CivName} is a serpent. With both of our voices against theirs the whole world will know of their duplicity.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ASHANTI_LS_MOD_OSEI_TUTU_HUMAN_DOF_SO_AI_DOF_1">
+			<Text>{1_CivName} is worthy of our friendship? Very well!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ASHANTI_LS_MOD_OSEI_TUTU_HUMAN_DOF_SO_AI_DENOUNCE_1">
+			<Text>{1_CivName} is worthy of our friendship? You must be mad!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ASHANTI_LS_MOD_OSEI_TUTU_HUMAN_DENOUNCE_SO_AI_DENOUNCE_1">
+			<Text>I share your convictions that {1_CivName} only causes problems for the civilized empires of the world. Perhaps the combination of our denouncements will teach them a lesson.</Text>
+		</Row>
+		<!-- General Diplo Text -->
+		<Row Tag="TXT_KEY_LEADER_ASHANTI_LS_MOD_OSEI_TUTU_COOP_WAR_REQUEST_1">
+			<Text>Let the drums of war sound out! {1_PlayerName:textkey} must die.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ASHANTI_LS_MOD_OSEI_TUTU_COOP_WAR_REQUEST_2">
+			<Text>{1_PlayerName:textkey}'s rule must come to an end.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ASHANTI_LS_MOD_OSEI_TUTU_COOP_WAR_TIME_1">
+			<Text>{1_PlayerName:textkey}'s kingdom has seen it's last sky.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ASHANTI_LS_MOD_OSEI_TUTU_DEC_FRIENDSHIP_1">
+			<Text>United we stand over all.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ASHANTI_LS_MOD_OSEI_TUTU_DEC_FRIENDSHIP_2">
+			<Text>Only together can we hope to rule this land.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ASHANTI_LS_MOD_OSEI_TUTU_AGGRESSIVE_MILITARY_WARNING_1">
+			<Text>It's come to my attention that you have a large number of Units near my borders. I shall know if you try anything.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ASHANTI_LS_MOD_OSEI_TUTU_PLOT_BUYING_WARNING_1">
+			<Text>Stop buying up all the land around you. This is a warning.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ASHANTI_LS_MOD_OSEI_TUTU_PLOT_BUYING_SERIOUS_WARNING_1">
+			<Text>Stop buying up all the land around you. This is the last warning.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ASHANTI_LS_MOD_OSEI_TUTU_EXPANSION_SERIOUS_WARNING_1">
+			<Text>Your expansionism will mean nothing if I cut off your head.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ASHANTI_LS_MOD_OSEI_TUTU_EXPANSION_WARNING">
+			<Text>Expand through war, it saves hammers.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ASHANTI_LS_MOD_OSEI_TUTU_RETURNED_CIVILIAN_1">
+			<Text>You are truely a friend to Ashanti.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ASHANTI_LS_MOD_OSEI_TUTU_RETURNED_CIVILIAN_2">
+			<Text>The soul of my people, itself, thanks you!</Text>
+		</Row>
+		<!--Insults-->
+		<Row Tag="TXT_KEY_LEADER_ASHANTI_LS_MOD_OSEI_TUTU_INSULT_1">
+			<Text>Not a lot of gold in your raiment, is there?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ASHANTI_LS_MOD_OSEI_TUTU_INSULT_2">
+			<Text>It's people like you who remind me how amazing I am.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ASHANTI_LS_MOD_OSEI_TUTU_INSULT_3">
+			<Text>Let's face it, my colour scheme is better than yours.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ASHANTI_LS_MOD_OSEI_TUTU_INSULT_4">
+			<Text>Please, whatever you do, don't send me any of your wives. They are too ugly. Ew.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ASHANTI_LS_MOD_OSEI_TUTU_INSULT_MILITARY_1">
+			<Text>Are you not building a military because you want to be invaded?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ASHANTI_LS_MOD_OSEI_TUTU_INSULT_MILITARY_2">
+			<Text>I know you don't have a UU as good as mine, but please try a bit harder.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ASHANTI_LS_MOD_OSEI_TUTU_INSULT_BULLY_1">
+			<Text>You think it's funny to bully weaker civs? You should culturally dominating them.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ASHANTI_LS_MOD_OSEI_TUTU_INSULT_UNHAPPINESS_1">
+			<Text>You people will be a lot happier when they are wearing my blue jeans.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ASHANTI_LS_MOD_OSEI_TUTU_INSULT_UNHAPPINESS_2">
+			<Text>The only excuse for unhappiness that high is because you just conquered a neighbouring civ.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ASHANTI_LS_MOD_OSEI_TUTU_INSULT_CITIES_1">
+			<Text>Your cities are so pathetic.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ASHANTI_LS_MOD_OSEI_TUTU_INSULT_POPULATION_1">
+			<Text>How do you expect to have a large population when you have so few wives?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ASHANTI_LS_MOD_OSEI_TUTU_INSULT_CULTURE_1">
+			<Text>I don't need your capital to reach Influential over you!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ASHANTI_LS_MOD_OSEI_TUTU_INSULT_CULTURE_2">
+			<Text>My Kente Looms are ready to take orders.</Text>
+		</Row>
+		<!--Public Declarations-->
+		<Row Tag="TXT_KEY_LEADER_ASHANTI_LS_MOD_OSEI_TUTU_DECLARATION_PROTECT_CITY_STATE_1">
+			<Text>{2_MajorCivName:textkey} announces to the world that it is now protecting {1_MinorCivName:textkey}. Attacking the City-State will greatly damage relations and may lead to war.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ASHANTI_LS_MOD_OSEI_TUTU_DECLARATION_ABANDON_CITY_STATE_1">
+			<Text>{2_MajorCivName:textkey} has taken back its guarantee of protecting {1_MinorCivName:textkey}.</Text>
+		</Row>
+		<!-- Human is asking the AI for something -->
+		<Row Tag="TXT_KEY_LEADER_ASHANTI_LS_MOD_OSEI_TUTU_DONT_SETTLE_NO_1">
+			<Text>You think you can give the Amanhene orders!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ASHANTI_LS_MOD_OSEI_TUTU_DONT_SETTLE_YES_1">
+			<Text>Ok, I will give you this honour, because I can.</Text>
+		</Row>
+		<!--Deal Offers and related-->
+		<Row Tag="TXT_KEY_LEADER_ASHANTI_LS_MOD_OSEI_TUTU_LUXURY_TRADE_1">
+			<Text>My court is lacking certain goods.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ASHANTI_LS_MOD_OSEI_TUTU_OPEN_BORDERS_EXCHANGE_1">
+			<Text>Come, come. I must reach Influential.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ASHANTI_LS_MOD_OSEI_TUTU_RESPONSE_REQUEST_1">
+			<Text>Just a little tribute?</Text>
+		</Row>
+		<!--AI Attacked by Human - Strong and Weak also include the default response sets-->
+		<Row Tag="TXT_KEY_LEADER_ASHANTI_LS_MOD_OSEI_TUTU_ATTACKED_HOSTILE_1">
+			<Text>Long had I anticipated your attack.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ASHANTI_LS_MOD_OSEI_TUTU_ATTACKED_EXCITED_1">
+			<Text>Influential here I come!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ASHANTI_LS_MOD_OSEI_TUTU_ATTACKED_SAD_1">
+			<Text>I cannot hide my sadness at this.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ASHANTI_LS_MOD_OSEI_TUTU_ATTACKED_BETRAYED_1">
+			<Text>Betrayal! A thousand droughts upon your land! A thousands deaths will you die!</Text>
+		</Row>
+		<!--AI Declaring War on Human - Strong and Weak also include the default response sets-->
+		<Row Tag="TXT_KEY_LEADER_ASHANTI_LS_MOD_OSEI_TUTU_DOW_GENERIC_1">
+			<Text>The drums of war sound once again.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ASHANTI_LS_MOD_OSEI_TUTU_DOW_LAND_1">
+			<Text>Well you weren't just going to give me your land, were you?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ASHANTI_LS_MOD_OSEI_TUTU_DOW_LAND_2">
+			<Text>Your people will join me, whether they want to or not.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ASHANTI_LS_MOD_OSEI_TUTU_DOW_WORLD_CONQUEST_1">
+			<Text>I wonder which triggers first, cultural or domination victory? Only one way to find out!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ASHANTI_LS_MOD_OSEI_TUTU_DOW_WORLD_CONQUEST_2">
+			<Text>Soon the whole world will be wearing Kente!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ASHANTI_LS_MOD_OSEI_TUTU_DOW_OPPORTUNITY_1">
+			<Text>No hard feelings?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ASHANTI_LS_MOD_OSEI_TUTU_DOW_OPPORTUNITY_2">
+			<Text>Your grass just looked so green!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ASHANTI_LS_MOD_OSEI_TUTU_DOW_DESPERATE_1">
+			<Text>If you will not join me, you must be destroyed!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ASHANTI_LS_MOD_OSEI_TUTU_DOW_DESPERATE_2">
+			<Text>Don't you see? Only together can we hope to rule!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ASHANTI_LS_MOD_OSEI_TUTU_DOW_BETRAYAL_1">
+			<Text>It's not a betrayal because I was never really your friend.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ASHANTI_LS_MOD_OSEI_TUTU_DOW_BETRAYAL_2">
+			<Text>You would have tried to take the Stool from me! You must die!</Text>
+		</Row>
+		<!--AI Responses to a human peace offer-->
+		<Row Tag="TXT_KEY_LEADER_ASHANTI_LS_MOD_OSEI_TUTU_TOO_SOON_NO_PEACE_1">
+			<Text>The drums still play.</Text>
+		</Row>
+		<!--AI Responses to a discussion mode topics-->
+		<Row Tag="TXT_KEY_LEADER_ASHANTI_LS_MOD_OSEI_TUTU_BAD_1">
+			<Text>You dare say that to ME?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ASHANTI_LS_MOD_OSEI_TUTU_BAD_2">
+			<Text>You must be drunk.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ASHANTI_LS_MOD_OSEI_TUTU_BAD_3">
+			<Text>Come again when you have learnt to respect a King.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ASHANTI_LS_MOD_OSEI_TUTU_GOOD_1">
+			<Text>Good, good!</Text>
+		</Row>
+		<!----------------------------------------------------------------
+						UA
+		------------------------------------------------------------------>
+		<Row Tag="TXT_KEY_TRAIT_LS_GOLDEN_STOOL_SHORT">
+			<Text>Golden Stool</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_LS_GOLDEN_STOOL">
+			<Text>Spread [ICON_TOURISM] Tourism upon capturing cities (greater bonus for [ICON_CAPITAL] Capitals). Land units have Combat Bonus in rival territory based on the difference of [ICON_TOURISM] influence level.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_LS_AKAN_PRIEST">
+			<Text>High Priest</Text>
+		</Row>
+		<!----------------------------------------------------------------
+						U1
+		------------------------------------------------------------------>
+		<Row Tag="TXT_KEY_UNIT_ASHANTI_WARRIOR">
+			<Text>Akofo Asafo</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_HELP_ASHANTI_WARRIOR">
+			<Text>Starts with the Sentry promotion. Has the Akan Drum ability, consuming unit movement in order to boost movement of nearby land units by 1 and make them heal after this turn even if they perform an action.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_ASHANTI_WARRIOR_TEXT">
+			<Text>The Ashanti invented the Fontomfrom, an Asante talking drum, and they also invented the Akan Drum. They drummed messages to the extents of over 200 miles (321.8 kilometers), as rapidly as a telegraph. The Ashanti readily heard and understood the phrases produced by these “talking drums.” Standard phrases called for meetings of the chiefs or to arms, warned of danger, and broadcast announcements of the death of important figures. Before the age of mobile communication, this skill was highly exploitable in warfare.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_ASHANTI_WARRIOR_STRATEGY">
+			<Text>The Akofo Asafo is both stronger than any Medieval unit, just like the Musketman it replaces, and has unparalled support ability. A few Gunman may be mixed into an existing army to increase its effectiveness, or you can choose to build the majority of your military from this unit.</Text>
+		</Row>
+		<!----------------------------------------------------------------
+						U2
+		------------------------------------------------------------------>
+		<Row Tag="TXT_KEY_BUILDING_LS_KENTE_LOOM_DESC">
+			<Text>Akrafenasmith</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_LS_KENTE_LOOM_HELP">
+			<Text>Trained land units may spread your [ICON_TOURISM] Tourism since level 5 when in rival territory.[NEWLINE][NEWLINE]+15% [ICON_PRODUCTION] Production when building Land Units.[NEWLINE][NEWLINE]Each source of [ICON_RES_IRON] Iron worked by this City produces +1 [ICON_PRODUCTION] Production.[NEWLINE][NEWLINE]If City have no mined source of Iron nearby, this building will require 1 [ICON_RES_IRON] Iron to be built.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_LS_KENTE_LOOM_TEXT">
+			<Text>Akrafena is an Ashanti sword, originally meant for warfare but also forming part of Ashanti heraldry and a concept-based martial art and form of self-defense utilising both striking and grappling while specialising in close-range combat that emphasize weapon-based fighting with knives, bladed weapons and various improvised weapons and street-fighting, hand-to-hand combat, joint locks, grappling and weapon disarming techniques and Akrafena is the national sport and martial art of the Ashanti Cty-State.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_LS_KENTE_LOOM_STRATEGY">
+			<Text>Having no prerequisites, unlike the Forge which it replaces, the Akrafenasmith can boost production in any city. It allows you to spread your [ICON_TOURISM] Tourism by war even more efficiently.</Text>
+		</Row>
+
+
+		<Row Tag="TXT_KEY_PROMOTION_AKAN_LS_HERALDIC_1">
+			<Text>Abosodee</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_AKAN_LS_HERALDIC_1_HELP">
+			<Text>Since level 5, this unit may choose to spread your [ICON_TOURISM] Tourism instead of acquiring new promotion. Unit has to be in the rival territory.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_AKAN_LS_HERALDIC_2">
+			<Text>Mpomponsuo</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_AKAN_LS_HERALDIC_2_HELP">
+			<Text>Boost in [ICON_TOURISM] Tourism in that territory (equal to your [ICON_TOURISM] Tourism output or 100, whichever is higher). 10% of [ICON_TOURISM] Tourism is spread globally.</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_PROMOTION_AKAN_DRUMS_BONUS_MOD">
+			<Text>Akan Drums (temporary buff)</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_AKAN_DRUMS_BONUS_MOD_HELP">
+			<Text>+1 Movement, +10 Heal Rate.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_LS_KEEPER_OF_GOLDEN_STOOL_I">
+			<Text>Keeper of the Golden Stool I</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_LS_KEEPER_OF_GOLDEN_STOOL_I_HELP">
+			<Text>+5% Combat Bonus in territory of influented rival.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_LS_KEEPER_OF_GOLDEN_STOOL_II">
+			<Text>Keeper of the Golden Stool II</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_LS_KEEPER_OF_GOLDEN_STOOL_II_HELP">
+			<Text>+10% Combat Bonus in territory of influented rival.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_LS_KEEPER_OF_GOLDEN_STOOL_III">
+			<Text>Keeper of the Golden Stool III</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_LS_KEEPER_OF_GOLDEN_STOOL_III_HELP">
+			<Text>+15% Combat Bonus in territory of influented rival.</Text>
+		</Row>
+	</Language_en_US>
+</GameData>
