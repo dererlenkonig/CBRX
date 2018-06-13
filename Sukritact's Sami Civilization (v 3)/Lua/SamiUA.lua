@@ -81,7 +81,7 @@ if JFD_IsCivilisationActive(iCiv) then GameEvents.PlayerCityFounded.Add(SamiUA) 
 --=======================================================================================================================
 function SamiTerrainAdjust(pPlot, iMod)
 	if (pPlot:GetTerrainType() == iSnow) and not (pPlot:IsMountain()) then
-		Game.SetPlotExtraYield(pPlot:GetX(), pPlot:GetY(), iFood, 3 * iMod)
+		Game.SetPlotExtraYield(pPlot:GetX(), pPlot:GetY(), iFood, 1 * iMod)
 	elseif (pPlot:GetTerrainType() == iTundra) and not (pPlot:IsMountain()) then
 		Game.SetPlotExtraYield(pPlot:GetX(), pPlot:GetY(), iFood, 1 * iMod)
 	end
