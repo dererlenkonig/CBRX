@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<Language_en_US>
+
+		<Row Tag="TXT_KEY_IMPROVEMENT_LS_NIIT_TIPI">
+			<Text>Tipi Camp</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_IMPROVEMENTS_LS_NIIT_TIPI_HELP">
+			<Text>Tipi Camp can be placed manually in visible territory valid for new city. Tipi Camp blocks rivals from placing a city within a radius of 3. Once placed, training new Settler will turn Tipi Camp into new city (Settler is consumed).[NEWLINE][NEWLINE]You can have only one active Tipi Camp at the time.[NEWLINE][NEWLINE]Upon entering Medieval Era Tipi Camp becomes obsolete, and existed one is removed.</Text>
+		</Row>
+
+		
+		<Row Tag="TXT_KEY_UNIT_LS_WAR_PARTY">
+			<Text>War Party</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_LS_WAR_PARTY_STRATEGY">
+			<Text>Try hunt down last of barbarians. With proper timing War Party will pay off its [ICON_PRODUCTION] Production cost, providing Workers in your empire. They kept Foreign Lands Combat Bonus on upgrade.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_HELP_LS_WAR_PARTY">
+			<Text>Only the Niitsitapi may build this unit. It has a combat bonus outside of friendly territory and has 25% chance to convert defeated enemy into a Worker.</Text>
+		</Row>
+
+		
+
+		<Row Tag="TXT_KEY_NIIT_LS_MOD_DESC">
+			<Text>Niitsitapi Tribes</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NIIT_LS_MOD_SHORT_DESC">
+			<Text>Niitsitapi</Text>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_NIIT_LS_MOD_ADJECTIVE">
+			<Text>Niitsitapi</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NIIT_LS_MOD">
+			<Text>Niitsitapi</Text>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_DAWN_OF_MAN_NIIT_LS_MOD_TEXT">
+			<Text>Blessings be upon you, wise and fearsome Chief Running Eagle, revered leader of the Piegan people. You are said to be the only woman of tribe honored to join the society of warriors by being given a male name. You have forged yourself a position of most ferocious warrior of plains. Historically, the Niitsitapi were nomadic bison hunters and trout fishermen, who ranged across large areas of the northern Great Plains of Western North America. In the first half of the 18th century, they acquired horses and firearms from white traders and their Cree and Assiniboine go-betweens. The Blackfoot used these to expand their territory at the expense of neighboring tribes. Bison extinction began a period of great struggle and economic hardship; the Niitsitapi had to try to adapt to a completely new way of life.[NEWLINE][NEWLINE]Most fearless Pitamakan, your warrios once again look to you for leadership. Will you raid your enemies, driving them far from your lands? Or will you seek out peaceful way to achieve your unquestionable dominance? Will you build a civilization that stands the test of time?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NIIT_LS_MOD_RUNNINGEAGLE_DESC">
+			<Text>Running Eagle</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NIIT_LS_MOD_RUNNINGEAGLE_NAME">
+			<Text>Running Eagle</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NIIT_LS_MOD_RUNNINGEAGLE_SUBTITLE">
+			<Text>Chief</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NIIT_LS_MOD_RUNNINGEAGLE_TITLES_1">
+			<Text>Warrior</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_LS_NIIT_SHORT">
+			<Text>Beaten Path</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_LS_NIIT">
+			<Text>Gets the benefit of Ancient Ruins upon entering or acquiring a tile with Ancient Ruins already visited by other civilization.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_NIIT_LS_MOD_RUNNINGEAGLE_PEDIA_LIVED">
+			<Text>??? - 1836</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MAPUCHE_LS_MOD_RUNNINGEAGLE_PEDIA_NAME">
+			<Text>Running Eagle</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MAPUCHE_LS_MOD_RUNNINGEAGLE_PEDIA_SUBTITLE">
+			<Text>Leader of Niitsitapi</Text>
+		</Row>
+		
+		
+		<Row Tag="TXT_KEY_CITY_NAME_NIIT_LS_MOD_1">
+			<Text>Nínaiistáko</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_NIIT_LS_MOD_2">
+			<Text>Kipitakii Opisskan</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_NIIT_LS_MOD_3">
+			<Text>Kátoyissiksi</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_NIIT_LS_MOD_4">
+			<Text>Áísínai'pi</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_NIIT_LS_MOD_5">
+			<Text>Óóhkotok</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_NIIT_LS_MOD_6">
+			<Text>Estipah-skikikini-kots</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_NIIT_LS_MOD_7">
+			<Text>Kááyikimiko</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_NIIT_LS_MOD_8">
+			<Text>Kináksisahtai</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_NIIT_LS_MOD_9">
+			<Text>Poyíítahtai</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_NIIT_LS_MOD_10">
+			<Text>Akee'piskun</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_NIIT_LS_MOD_11">
+			<Text>Miistákisti</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_NIIT_LS_MOD_12">
+			<Text>Omahkai'stoo</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_NIIT_LS_MOD_13">
+			<Text>Ponoká'sísaahtaa</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_NIIT_LS_MOD_14">
+			<Text>Spiitsii</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_NIIT_LS_MOD_15">
+			<Text>Apistoki</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_NIIT_LS_MOD_16">
+			<Text>Pishkun</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_NIIT_LS_MOD_17">
+			<Text>Nato-oh-siskoom</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_NIIT_LS_MOD_18">
+			<Text>Nasagachoo</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_NIIT_LS_MOD_19">
+			<Text>Minihapa</Text>
+		</Row>
+
+		
+		<Row Tag="TXT_KEY_SPY_NAME_NIIT_LS_MOD_0">
+			<Text>Chogan</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_NIIT_LS_MOD_1">
+			<Text>Huritt</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_NIIT_LS_MOD_2">
+			<Text>Tihkoosue</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_NIIT_LS_MOD_3">
+			<Text>Sucki</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_NIIT_LS_MOD_4">
+			<Text>Enkoodabaoo</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_NIIT_LS_MOD_5">
+			<Text>Koko</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_NIIT_LS_MOD_6">
+			<Text>Nuttah</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_NIIT_LS_MOD_7">
+			<Text>Sokw</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_NIIT_LS_MOD_8">
+			<Text>Nijlon</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_NIIT_LS_MOD_9">
+			<Text>Alsoomse</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		
+		
+		
+		<Row Tag="TXT_KEY_LEADER_NIIT_LS_MOD_RUNNINGEAGLE_FIRST_GREETING_1">
+			<Text>Every meeting is a beginning of new story. Shall this one end with your scalp in my collection? Running Eagle greets you and your ferocious warriors, if you have any.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_NIIT_LS_MOD_RUNNINGEAGLE_FIRST_GREETING_2">
+			<Text>I am sure that our nations can coexist in peace and wealth. Though it would be a terribly boring future, wouldn't it?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_NIIT_LS_MOD_RUNNINGEAGLE_DEFEATED_1">
+			<Text>That was quite a battle. Now, we can sit and share stories about the bravest warriors.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_NIIT_LS_MOD_RUNNINGEAGLE_DEFEATED_2">
+			<Text>I think you finally earned the right to marry me. You can call yourself a warrior.</Text>
+		</Row>
+	</Language_en_US>
+</GameData>
