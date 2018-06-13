@@ -1,0 +1,414 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<Units>
+		<Row>
+			<Class>UNITCLASS_RIFLEMAN</Class>
+			<Type>UNIT_LS_JEZAIL_RIFLEMAN</Type>
+			<PrereqTech>TECH_RIFLING</PrereqTech>
+			<Combat>34</Combat>
+			<RangedCombat>34</RangedCombat>
+			<Cost>200</Cost>
+			<FaithCost>400</FaithCost>
+			<RequiresFaithPurchaseEnabled>true</RequiresFaithPurchaseEnabled>
+			<Moves>2</Moves>
+			<CombatClass>UNITCOMBAT_GUN</CombatClass>
+			<Domain>DOMAIN_LAND</Domain>
+			<DefaultUnitAI>UNITAI_DEFENSE</DefaultUnitAI>
+			<Description>TXT_KEY_UNIT_LS_MUJAHIDEEN</Description>
+			<Civilopedia>TXT_KEY_UNIT_LS_MUJAHIDEEN_TEXT</Civilopedia>
+			<Strategy>TXT_KEY_UNIT_LS_MUJAHIDEEN_STRATEGY</Strategy>
+			<Help>TXT_KEY_UNIT_HELP_UNIT_LS_MUJAHIDEEN</Help>
+			<MilitarySupport>true</MilitarySupport>
+			<MilitaryProduction>true</MilitaryProduction>
+			<Pillage>true</Pillage>
+			<IgnoreBuildingDefense>true</IgnoreBuildingDefense>
+			<ObsoleteTech>TECH_REPLACEABLE_PARTS</ObsoleteTech>
+			<GoodyHutUpgradeUnitClass>UNITCLASS_GREAT_WAR_INFANTRY</GoodyHutUpgradeUnitClass>
+			<AdvancedStartCost>30</AdvancedStartCost>
+			<XPValueAttack>3</XPValueAttack>
+			<XPValueDefense>3</XPValueDefense>
+			<Conscription>5</Conscription>
+			<UnitArtInfo>ART_DEF_UNIT_LS_DUR_MUJAHIDEEN</UnitArtInfo>
+			<UnitFlagAtlas>DURRANI_UNIT_ALPHA_ATLAS</UnitFlagAtlas>
+			<UnitFlagIconOffset>0</UnitFlagIconOffset>
+			<IconAtlas>UNIT_MOD_LS_4_ATLAS</IconAtlas>
+			<PortraitIndex>2</PortraitIndex>
+		</Row>
+	</Units>
+	<Unit_ClassUpgrades>
+		<Row>
+			<UnitType>UNIT_LS_JEZAIL_RIFLEMAN</UnitType>
+			<UnitClassType>UNITCLASS_GREAT_WAR_INFANTRY</UnitClassType>
+		</Row>
+	</Unit_ClassUpgrades>
+	<Unit_Flavors>
+		<Row>
+			<UnitType>UNIT_LS_JEZAIL_RIFLEMAN</UnitType>
+			<FlavorType>FLAVOR_OFFENSE</FlavorType>
+			<Flavor>10</Flavor>
+		</Row>
+		<Row>
+			<UnitType>UNIT_LS_JEZAIL_RIFLEMAN</UnitType>
+			<FlavorType>FLAVOR_DEFENSE</FlavorType>
+			<Flavor>10</Flavor>
+		</Row>
+	</Unit_Flavors>
+	<UnitPromotions>
+		<Row>
+			<Type>PROMOTION_JEZAIL_LS_RANGE</Type>
+			<Description>TXT_KEY_PROMOTION_LS_JEZAIL_RANGE</Description>
+			<Help>TXT_KEY_PROMOTION_RANGE_HELP</Help>
+			<RangeChange>2</RangeChange>
+			<LostWithUpgrade>true</LostWithUpgrade>
+			<CombatPercent>-45</CombatPercent>
+			<PortraitIndex>34</PortraitIndex>
+			<IconAtlas>PROMOTION_ATLAS</IconAtlas>
+			<PediaType>PEDIA_RANGED</PediaType>
+			<PediaEntry>TXT_KEY_PROMOTION_RANGE</PediaEntry>
+		</Row>
+	</UnitPromotions>
+	<Unit_AITypes>
+		<Row>
+			<UnitType>UNIT_LS_JEZAIL_RIFLEMAN</UnitType>
+			<UnitAIType>UNITAI_ATTACK</UnitAIType>
+		</Row>
+		<Row>
+			<UnitType>UNIT_LS_JEZAIL_RIFLEMAN</UnitType>
+			<UnitAIType>UNITAI_DEFENSE</UnitAIType>
+		</Row>
+		<Row>
+			<UnitType>UNIT_LS_JEZAIL_RIFLEMAN</UnitType>
+			<UnitAIType>UNITAI_EXPLORE</UnitAIType>
+		</Row>
+	</Unit_AITypes>
+	<Unit_UniqueNames>
+		<Row>
+			<UnitType>UNIT_WRITER</UnitType>
+			<UniqueName>TXT_KEY_GREAT_PERSON_LS_MOD_DUR_1</UniqueName>
+			<GreatWorkType>GREAT_WORK_LS_MOD_DUR_1</GreatWorkType>
+		</Row>
+		<Row>
+			<UnitType>UNIT_WRITER</UnitType>
+			<UniqueName>TXT_KEY_GREAT_PERSON_LS_MOD_DUR_2</UniqueName>
+			<GreatWorkType>GREAT_WORK_LS_MOD_DUR_2</GreatWorkType>
+		</Row>
+		<Row>
+			<UnitType>UNIT_WRITER</UnitType>
+			<UniqueName>TXT_KEY_GREAT_PERSON_LS_MOD_DUR_3</UniqueName>
+			<GreatWorkType>GREAT_WORK_LS_MOD_DUR_3</GreatWorkType>
+		</Row>
+		<Row>
+			<UnitType>UNIT_WRITER</UnitType>
+			<UniqueName>TXT_KEY_GREAT_PERSON_LS_MOD_DUR_4</UniqueName>
+			<GreatWorkType>GREAT_WORK_LS_MOD_DUR_4</GreatWorkType>
+		</Row>
+		<Row>
+			<UnitType>UNIT_WRITER</UnitType>
+			<UniqueName>TXT_KEY_GREAT_PERSON_LS_MOD_DUR_5</UniqueName>
+			<GreatWorkType>GREAT_WORK_LS_MOD_DUR_5</GreatWorkType>
+		</Row>
+		<Row>
+			<UnitType>UNIT_WRITER</UnitType>
+			<UniqueName>TXT_KEY_GREAT_PERSON_LS_MOD_DUR_6</UniqueName>
+			<GreatWorkType>GREAT_WORK_LS_MOD_DUR_6</GreatWorkType>
+		</Row>
+		<Row>
+			<UnitType>UNIT_WRITER</UnitType>
+			<UniqueName>TXT_KEY_GREAT_PERSON_LS_MOD_DUR_7</UniqueName>
+			<GreatWorkType>GREAT_WORK_LS_MOD_DUR_7</GreatWorkType>
+		</Row>
+		<Row>
+			<UnitType>UNIT_WRITER</UnitType>
+			<UniqueName>TXT_KEY_GREAT_PERSON_LS_MOD_DUR_8</UniqueName>
+			<GreatWorkType>GREAT_WORK_LS_MOD_DUR_8</GreatWorkType>
+		</Row>
+		<Row>
+			<UnitType>UNIT_WRITER</UnitType>
+			<UniqueName>TXT_KEY_GREAT_PERSON_LS_MOD_DUR_9</UniqueName>
+			<GreatWorkType>GREAT_WORK_LS_MOD_DUR_9</GreatWorkType>
+		</Row>
+		<Row>
+			<UnitType>UNIT_WRITER</UnitType>
+			<UniqueName>TXT_KEY_GREAT_PERSON_LS_MOD_DUR_10</UniqueName>
+			<GreatWorkType>GREAT_WORK_LS_MOD_DUR_10</GreatWorkType>
+		</Row>
+		<Row>
+			<UnitType>UNIT_WRITER</UnitType>
+			<UniqueName>TXT_KEY_GREAT_PERSON_LS_MOD_DUR_11</UniqueName>
+			<GreatWorkType>GREAT_WORK_LS_MOD_DUR_11</GreatWorkType>
+		</Row>
+		<Row>
+			<UnitType>UNIT_WRITER</UnitType>
+			<UniqueName>TXT_KEY_GREAT_PERSON_LS_MOD_DUR_12</UniqueName>
+			<GreatWorkType>GREAT_WORK_LS_MOD_DUR_12</GreatWorkType>
+		</Row>
+		<Row>
+			<UnitType>UNIT_WRITER</UnitType>
+			<UniqueName>TXT_KEY_GREAT_PERSON_LS_MOD_DUR_13</UniqueName>
+			<GreatWorkType>GREAT_WORK_LS_MOD_DUR_13</GreatWorkType>
+		</Row>
+		<Row>
+			<UnitType>UNIT_WRITER</UnitType>
+			<UniqueName>TXT_KEY_GREAT_PERSON_LS_MOD_DUR_14</UniqueName>
+			<GreatWorkType>GREAT_WORK_LS_MOD_DUR_14</GreatWorkType>
+		</Row>
+		<Row>
+			<UnitType>UNIT_WRITER</UnitType>
+			<UniqueName>TXT_KEY_GREAT_PERSON_LS_MOD_DUR_15</UniqueName>
+			<GreatWorkType>GREAT_WORK_LS_MOD_DUR_15</GreatWorkType>
+		</Row>
+	</Unit_UniqueNames>
+	<GreatWorks>
+		<Row>
+			<Type>GREAT_WORK_LS_MOD_DUR_1</Type>
+			<GreatWorkClassType>GREAT_WORK_LITERATURE</GreatWorkClassType>
+			<Description>TXT_KEY_GREAT_WORK_LS_MOD_DUR_1</Description>
+			<Quote>TXT_KEY_GREAT_WORK_QUOTE_LS_MOD_DUR_1</Quote>
+			<Image>GreatWriter_Background.dds</Image>
+		</Row>
+		<Row>
+			<Type>GREAT_WORK_LS_MOD_DUR_2</Type>
+			<GreatWorkClassType>GREAT_WORK_LITERATURE</GreatWorkClassType>
+			<Description>TXT_KEY_GREAT_WORK_LS_MOD_DUR_2</Description>
+			<Quote>TXT_KEY_GREAT_WORK_QUOTE_LS_MOD_DUR_2</Quote>
+			<Image>GreatWriter_Background.dds</Image>
+		</Row>
+		<Row>
+			<Type>GREAT_WORK_LS_MOD_DUR_3</Type>
+			<GreatWorkClassType>GREAT_WORK_LITERATURE</GreatWorkClassType>
+			<Description>TXT_KEY_GREAT_WORK_LS_MOD_DUR_3</Description>
+			<Quote>TXT_KEY_GREAT_WORK_QUOTE_LS_MOD_DUR_3</Quote>
+			<Image>GreatWriter_Background.dds</Image>
+		</Row>
+		<Row>
+			<Type>GREAT_WORK_LS_MOD_DUR_4</Type>
+			<GreatWorkClassType>GREAT_WORK_LITERATURE</GreatWorkClassType>
+			<Description>TXT_KEY_GREAT_WORK_LS_MOD_DUR_4</Description>
+			<Quote>TXT_KEY_GREAT_WORK_QUOTE_LS_MOD_DUR_4</Quote>
+			<Image>GreatWriter_Background.dds</Image>
+		</Row>
+		<Row>
+			<Type>GREAT_WORK_LS_MOD_DUR_5</Type>
+			<GreatWorkClassType>GREAT_WORK_LITERATURE</GreatWorkClassType>
+			<Description>TXT_KEY_GREAT_WORK_LS_MOD_DUR_5</Description>
+			<Quote>TXT_KEY_GREAT_WORK_QUOTE_LS_MOD_DUR_5</Quote>
+			<Image>GreatWriter_Background.dds</Image>
+		</Row>
+		<Row>
+			<Type>GREAT_WORK_LS_MOD_DUR_6</Type>
+			<GreatWorkClassType>GREAT_WORK_LITERATURE</GreatWorkClassType>
+			<Description>TXT_KEY_GREAT_WORK_LS_MOD_DUR_6</Description>
+			<Quote>TXT_KEY_GREAT_WORK_QUOTE_LS_MOD_DUR_6</Quote>
+			<Image>GreatWriter_Background.dds</Image>
+		</Row>
+		<Row>
+			<Type>GREAT_WORK_LS_MOD_DUR_7</Type>
+			<GreatWorkClassType>GREAT_WORK_LITERATURE</GreatWorkClassType>
+			<Description>TXT_KEY_GREAT_WORK_LS_MOD_DUR_7</Description>
+			<Quote>TXT_KEY_GREAT_WORK_QUOTE_LS_MOD_DUR_7</Quote>
+			<Image>GreatWriter_Background.dds</Image>
+		</Row>
+		<Row>
+			<Type>GREAT_WORK_LS_MOD_DUR_8</Type>
+			<GreatWorkClassType>GREAT_WORK_LITERATURE</GreatWorkClassType>
+			<Description>TXT_KEY_GREAT_WORK_LS_MOD_DUR_8</Description>
+			<Quote>TXT_KEY_GREAT_WORK_QUOTE_LS_MOD_DUR_8</Quote>
+			<Image>GreatWriter_Background.dds</Image>
+		</Row>
+		<Row>
+			<Type>GREAT_WORK_LS_MOD_DUR_9</Type>
+			<GreatWorkClassType>GREAT_WORK_LITERATURE</GreatWorkClassType>
+			<Description>TXT_KEY_GREAT_WORK_LS_MOD_DUR_9</Description>
+			<Quote>TXT_KEY_GREAT_WORK_QUOTE_LS_MOD_DUR_9</Quote>
+			<Image>GreatWriter_Background.dds</Image>
+		</Row>
+		<Row>
+			<Type>GREAT_WORK_LS_MOD_DUR_10</Type>
+			<GreatWorkClassType>GREAT_WORK_LITERATURE</GreatWorkClassType>
+			<Description>TXT_KEY_GREAT_WORK_LS_MOD_DUR_10</Description>
+			<Quote>TXT_KEY_GREAT_WORK_QUOTE_LS_MOD_DUR_10</Quote>
+			<Image>GreatWriter_Background.dds</Image>
+		</Row>
+		<Row>
+			<Type>GREAT_WORK_LS_MOD_DUR_11</Type>
+			<GreatWorkClassType>GREAT_WORK_LITERATURE</GreatWorkClassType>
+			<Description>TXT_KEY_GREAT_WORK_LS_MOD_DUR_11</Description>
+			<Quote>TXT_KEY_GREAT_WORK_QUOTE_LS_MOD_DUR_11</Quote>
+			<Image>GreatWriter_Background.dds</Image>
+		</Row>
+		<Row>
+			<Type>GREAT_WORK_LS_MOD_DUR_12</Type>
+			<GreatWorkClassType>GREAT_WORK_LITERATURE</GreatWorkClassType>
+			<Description>TXT_KEY_GREAT_WORK_LS_MOD_DUR_12</Description>
+			<Quote>TXT_KEY_GREAT_WORK_QUOTE_LS_MOD_DUR_12</Quote>
+			<Image>GreatWriter_Background.dds</Image>
+		</Row>
+		<Row>
+			<Type>GREAT_WORK_LS_MOD_DUR_13</Type>
+			<GreatWorkClassType>GREAT_WORK_LITERATURE</GreatWorkClassType>
+			<Description>TXT_KEY_GREAT_WORK_LS_MOD_DUR_13</Description>
+			<Quote>TXT_KEY_GREAT_WORK_QUOTE_LS_MOD_DUR_13</Quote>
+			<Image>GreatWriter_Background.dds</Image>
+		</Row>
+		<Row>
+			<Type>GREAT_WORK_LS_MOD_DUR_14</Type>
+			<GreatWorkClassType>GREAT_WORK_LITERATURE</GreatWorkClassType>
+			<Description>TXT_KEY_GREAT_WORK_LS_MOD_DUR_14</Description>
+			<Quote>TXT_KEY_GREAT_WORK_QUOTE_LS_MOD_DUR_14</Quote>
+			<Image>GreatWriter_Background.dds</Image>
+		</Row>
+		<Row>
+			<Type>GREAT_WORK_LS_MOD_DUR_15</Type>
+			<GreatWorkClassType>GREAT_WORK_LITERATURE</GreatWorkClassType>
+			<Description>TXT_KEY_GREAT_WORK_LS_MOD_DUR_15</Description>
+			<Quote>TXT_KEY_GREAT_WORK_QUOTE_LS_MOD_DUR_15</Quote>
+			<Image>GreatWriter_Background.dds</Image>
+		</Row>
+	</GreatWorks>
+	<Language_en_US>
+		<Row Tag="TXT_KEY_GREAT_WORK_QUOTE_LS_MOD_DUR_1">
+			<Text>I abandon this ruined world, I am leaving[NEWLINE]Give me your goodbyes mother, I am leaving[NEWLINE]I have got to reach the houris by tonight, I am leaving[NEWLINE]Give me your goodbyes mother, I am leaving</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_QUOTE_LS_MOD_DUR_2">
+			<Text>Of all the ones who might[NEWLINE]Give themselves to you,[NEWLINE]None can give up all, as I do.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_QUOTE_LS_MOD_DUR_3">
+			<Text>Like a desert flower waiting for rain,[NEWLINE]like a river-bank thirsting for the touch of pitchers,[NEWLINE]like the dawn[NEWLINE]longing for light;</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_QUOTE_LS_MOD_DUR_4">
+			<Text>Flowers feed on earth and ashes,[NEWLINE]some clear, but mostly murky water --[NEWLINE]yet they are holy, beautiful, fragrant;[NEWLINE]their colours delight both eyes and hearts.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_QUOTE_LS_MOD_DUR_5">
+			<Text>Pull out your sword and slay any one,[NEWLINE]that says Pashtun and Afghan are not one![NEWLINE]Arabs know this and so do Romans:[NEWLINE]Afghans are Pashtuns, Pashtuns are Afghans.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_QUOTE_LS_MOD_DUR_6">
+			<Text>I am the twin of light[NEWLINE]I know the history of the sun[NEWLINE][NEWLINE]Stars[NEWLINE]rise from the blisters on my hands</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_QUOTE_LS_MOD_DUR_7">
+			<Text>Dear rain,[NEWLINE]Winter has passed[NEWLINE]And even the spring approaches her end.[NEWLINE]You are badly missed in the garden.[NEWLINE]When will your absence be over?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_QUOTE_LS_MOD_DUR_8">
+			<Text>If my heart beats[NEWLINE]for Kabul,[NEWLINE]it's for the slopes of Bala Hissar,[NEWLINE]holding my dead[NEWLINE]in its foothills.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_QUOTE_LS_MOD_DUR_9">
+			<Text>By blood, we are immersed in love of you.[NEWLINE]The youth lose their heads for your sake.[NEWLINE]I come to you and my heart finds rest.[NEWLINE]Away from you, grief clings to my heart like a snake.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_QUOTE_LS_MOD_DUR_10">
+			<Text>Who are we then[NEWLINE]in this complicated world-tangle,[NEWLINE]that is really just the single, straight[NEWLINE]line down at the beginning of ALLAH?[NEWLINE][NEWLINE]Nothing.[NEWLINE]We are[NEWLINE]emptiness.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_QUOTE_LS_MOD_DUR_11">
+			<Text>Oh' Great Mountain, reaching far into the sky![NEWLINE]How long will you find satisfaction in self love?[NEWLINE]Though just a tiny butterfly, I am yet free,[NEWLINE]To dance on a flower head while you remain shackled.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_QUOTE_LS_MOD_DUR_12">
+			<Text>Then I took the road that leads to Him,[NEWLINE]And became a slave at His gate;[NEWLINE]Then the duality disappeared[NEWLINE]And I became absorbed in Him.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_QUOTE_LS_MOD_DUR_13">
+			<Text>If leadership rests inside the lion's jaw,[NEWLINE]So be it. Go snatch it from his jaws.[NEWLINE]Your lot shall be greatness, prestige, honor and glory.[NEWLINE]If all fails, face death like a man.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_QUOTE_LS_MOD_DUR_14">
+			<Text>I am caught in Love's web so deceitful[NEWLINE]None of my endeavors turn fruitful.[NEWLINE]I knew not when I rode the high-blooded stead[NEWLINE]The harder I pulled its reins the less it would heed.[NEWLINE]Love is an ocean with such a vast space[NEWLINE]No wise man can swim it in any place.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_QUOTE_LS_MOD_DUR_15">
+			<Text>A tree with a bitter seed[NEWLINE]Fed with butter and sugar[NEWLINE]Will still bear a bitter fruit.[NEWLINE]From it, you will taste no sweetness.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_LS_MOD_DUR_1">
+			<Text>Abdul Bari Jahani</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_LS_MOD_DUR_2">
+			<Text>Rehman Baba</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_LS_MOD_DUR_3">
+			<Text>Parween Faiz Zadah Malaal</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_LS_MOD_DUR_4">
+			<Text>Pir Muhammad Karwaan</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_LS_MOD_DUR_5">
+			<Text>Khushal Khattak</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_LS_MOD_DUR_6">
+			<Text>Partaw Naderi</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_LS_MOD_DUR_7">
+			<Text>Reza Mohammadi</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_LS_MOD_DUR_8">
+			<Text>Shakila Azizzada</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_LS_MOD_DUR_9">
+			<Text>Ahmad Shah Durrani</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_LS_MOD_DUR_10">
+			<Text>Jalaluddin Rumi</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_LS_MOD_DUR_11">
+			<Text>Khalilullah Khalili</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_LS_MOD_DUR_12">
+			<Text>Pir Of Herat Khwaja Abdullah Ansari</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_LS_MOD_DUR_13">
+			<Text>Hanzala of Badghis</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_LS_MOD_DUR_14">
+			<Text>Rabi'a Balkhi</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_LS_MOD_DUR_15">
+			<Text>Abu Shukur of Balkh</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_LS_MOD_DUR_1">
+			<Text>Untitled</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_LS_MOD_DUR_2">
+			<Text>You Called?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_LS_MOD_DUR_3">
+			<Text>Like a Desert Flower</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_LS_MOD_DUR_4">
+			<Text>Flowers and Man</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_LS_MOD_DUR_5">
+			<Text>Passion of the Afghan</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_LS_MOD_DUR_6">
+			<Text>Star Rise</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_LS_MOD_DUR_7">
+			<Text>Letter to the Rain</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_LS_MOD_DUR_8">
+			<Text>Kabul</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_LS_MOD_DUR_9">
+			<Text>Love of a Nation</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_LS_MOD_DUR_10">
+			<Text>Emptiness</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_LS_MOD_DUR_11">
+			<Text>Oh' Great Mountain</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_LS_MOD_DUR_12">
+			<Text>From the unmanifest I came</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_LS_MOD_DUR_13">
+			<Text>Leadership</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_LS_MOD_DUR_14">
+			<Text>Love's Web</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_LS_MOD_DUR_15">
+			<Text>A tree with a bitter seed</Text>
+		</Row>
+	</Language_en_US>
+	<IconTextureAtlases>
+		<Row>
+			<Atlas>DURRANI_UNIT_ALPHA_ATLAS</Atlas>
+			<IconSize>32</IconSize>
+			<Filename>DurraniUnitAlphaAtlas.dds</Filename>
+			<IconsPerRow>1</IconsPerRow>
+			<IconsPerColumn>1</IconsPerColumn>
+		</Row>
+	</IconTextureAtlases>
+</GameData>

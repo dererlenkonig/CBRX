@@ -1,0 +1,502 @@
+﻿<GameData>
+	<Language_en_US>
+		<!----------------------------------------------------------------
+						State
+		------------------------------------------------------------------>
+		<Row Tag="TXT_KEY_DURRANI_LS_MOD_DESC">
+			<Text>Durrani Empire</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DURRANI_LS_MOD_SHORT_DESC">
+			<Text>Durrani</Text>
+			<Plurality>2</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_DURRANI_LS_MOD_ADJECTIVE">
+			<Text>Durrani</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DURRANI_LS_MOD">
+			<Text>Durrani</Text>
+			<Plurality>2</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_DURRANI_LS_MOD_TITLE">
+			<Text>Durrani</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_DURRANI_LS_MOD_HEADING_1">
+			<Text>The Durrani</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_DURRANI_LS_MOD_TEXT_1">
+			<Text>From the death of Nadir Shah in 1747 until the communist coup of April 1978, Afghanistan was governed by Pashtun rulers of the Abdali tribe. Indeed, it was under the leadership of the first Pashtun ruler, Ahmad Shah, that the nation of Afghanistan began to take shape after centuries of fragmentation and rule by invaders. Even before the death of Nadir Shah, the tribes of the Hindu Kush area had been growing stronger and were beginning to take advantage of the waning power of their distant rulers.[NEWLINE][NEWLINE]The Ghilzai Pashtuns had risen in rebellion against Iranian rule early in the eighteenth century, but they had been subdued and relocated by Nadir Shah. Although tribal independence would remain a threat to rulers of Afghanistan, the Abdali Pashtun established political dominance, starting in the middle of the eighteenth century with the rise of Ahmad Shah. Two lineage groups within the Abdali ruled Afghanistan from 1747 until the downfall of the monarchy in the 1970s-the Sadozai of the Popalzai tribe and the Muhammadzai of the Barakzai tribe.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_DURRANI_LS_MOD_HEADING_2">
+			<Text>History of the Durrani</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_DURRANI_LS_MOD_TEXT_2">
+			<Text>The Durrani Empire also called the Sadozai Kingdom and the Last Afghan Empire, was founded in 1747 by Ahmad Shah Durrani with its capital at Kandahar, Afghanistan. At its maximum extent encompassed present-day Afghanistan, northeastern Iran, eastern Turkmenistan (including the Panjdeh oasis), most of Pakistan, and northwestern India, including the Kashmir region. Durrani's Pashtun soldiers also instigated the Sikh holocaust of 1762 when they killed thousands of Sikhs in the Punjab. With the support of various tribal leaders, Ahmad Shah Durrani extended Afghan control from Khorasan in the west to Kashmir and Delhi in the east, and from the Amu Darya in the north to the Arabian Sea in the south. In the second half of the 18th century, after the Ottoman Empire the Durrani Empire was very briefly the second-largest Muslim empire.[NEWLINE][NEWLINE]The Afghan army began their conquests by capturing Ghazni and Kabul from the local rulers. In 1749 the Mughal ruler ceded sovereignty over what is now Pakistan and northwestern India to the Afghans. Ahmad Shah then set out westward to take possession of Herat, which was ruled by Shahrukh Afshar. He next sent an army to subdue the areas north of the Hindu Kush and in short order all the different tribes began joining his cause. Ahmad Shah and his forces invaded India four times, taking control of the Kashmir and the Punjab region. Early in 1757, he sacked Delhi, but permitted the Mughal dynasty to remain in nominal control as long as the ruler acknowledged Ahmad Shah's suzerainty over the Punjab, Sindh, and Kashmir.[NEWLINE][NEWLINE]After the death of Ahmad Shah in about 1772, his son Timur Shah became the next ruler of the Durrani dynasty who decided to make Kabul the new capital of the empire, and used Peshawar as the winter capital. Timur Shah proved an ineffectual ruler, during whose reign the Durrani empire began to crumble. He is notable for having had 24 sons, several of whom became rulers of the Durrani territories. Timur died in 1793, and was then succeeded by his fifth son Zaman Shah.[NELWINE][NEWLINE]After the death of Timur Shah, three of his sons, the governors of Kandahar, Herat and Kabul, contended for the succession. Zaman Shah, governor of Kabul, held the field by virtue of being in control of the capital, and became shah at the age of twenty-three. Many of his half-brothers were imprisoned on their arrival in the capital for the purpose, ironically, of electing a new shah. The quarrels among Timur's descendants that threw Afghanistan into turmoil also provided the pretext for the intervention of outside forces.[NELWINE][NEWLINE]The efforts of the Sadozai heirs of Timur to impose a true monarchy on the truculent Pashtun tribes, and their efforts to rule absolutely and without the advice of the other major Pashtun tribal leaders, were ultimately unsuccessful. The Sikhs became particularly troublesome, and after several unsuccessful efforts to subdue them, Zaman Shah made the mistake of appointing a forceful young Sikh chief, Ranjit Singh, as his governor in the Punjab. This "one-eyed" warrior would later become an implacable enemy of Pashtun rulers in Afghanistan.[NEWLINE][NEWLINE]Zaman's downfall was triggered by his attempts to consolidate power. Although it had been through the support of the Barakzai chief, Painda Khan Barakzai, that he had come to the throne, Zaman soon began to remove prominent Barakzai leaders from positions of power and replace them with men of his own lineage, the Sadozai. This upset the delicate balance of Durrani tribal politics that Ahmad Shah had established and may have prompted Painda Khan and other Durrani chiefs to plot against the shah. Painda Khan and the chiefs of the Nurzai and the Alizai Durrani clans were executed, as was the chief of the Qizilbash clan. Painda Khan's son fled to Iran and pledged the substantial support of his Barakzai followers to a rival claimant to the throne, Zaman's older brother, Mahmud Shah. The clans of the chiefs Zaman had executed joined forces with the rebels, and they took Kandahar without bloodshed.[NEWLINE][NEWLINE]After the short rule of another of Timur's sons, Mahmud, yet another of Timur Shah's sons, Shuja Shah, ruled for only six years. On June 7, 1809, Shuja Shah signed a treaty with the British, which included a clause stating that he would oppose the passage of foreign troops through his territories. This agreement, the first Afghan pact with a European power, stipulated joint action in case of Franco-Persian aggression against Afghan or British dominions. And ushered in the age of foreign domination over the region.</Text>
+		</Row>
+		<!-- City Names -->
+		<Row Tag="TXT_KEY_CITY_NAME_DURRANI_LS_MOD_1">
+			<Text>Kandahar</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_DURRANI_LS_MOD_2">
+			<Text>Kabul</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_DURRANI_LS_MOD_3">
+			<Text>Peshawar</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_DURRANI_LS_MOD_4">
+			<Text>Herat</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_DURRANI_LS_MOD_5">
+			<Text>Balkh</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_DURRANI_LS_MOD_6">
+			<Text>Zarani</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_DURRANI_LS_MOD_7">
+			<Text>Nishapur</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_DURRANI_LS_MOD_8">
+			<Text>Kohat</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_DURRANI_LS_MOD_9">
+			<Text>Swabi</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_DURRANI_LS_MOD_10">
+			<Text>Mardan</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_DURRANI_LS_MOD_11">
+			<Text>Charsadda</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_DURRANI_LS_MOD_12">
+			<Text>Quetta</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_DURRANI_LS_MOD_13">
+			<Text>Sibi</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_DURRANI_LS_MOD_14">
+			<Text>Turbat</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_DURRANI_LS_MOD_15">
+			<Text>Gwadar</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_DURRANI_LS_MOD_16">
+			<Text>Nasirabad</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_DURRANI_LS_MOD_17">
+			<Text>Jaffarabad</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_DURRANI_LS_MOD_18">
+			<Text>Farah</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_DURRANI_LS_MOD_19">
+			<Text>Jaffarabad</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_DURRANI_LS_MOD_20">
+			<Text>Mazar-i-Sharif</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_DURRANI_LS_MOD_21">
+			<Text>Kunduz</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_DURRANI_LS_MOD_22">
+			<Text>Taloqan</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_DURRANI_LS_MOD_23">
+			<Text>Jalalabad</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_DURRANI_LS_MOD_24">
+			<Text>Puli Khumri</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_DURRANI_LS_MOD_25">
+			<Text>Charikar</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_DURRANI_LS_MOD_26">
+			<Text>Sheberghan</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_DURRANI_LS_MOD_27">
+			<Text>Ghazni</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_DURRANI_LS_MOD_28">
+			<Text>Khost</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_DURRANI_LS_MOD_29">
+			<Text>Samangan</Text>
+		</Row>
+		<!-- Spy Names -->
+		<Row Tag="TXT_KEY_SPY_NAME_DURRANI_LS_MOD_0">
+			<Text>Fahran</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_DURRANI_LS_MOD_1">
+			<Text>Dehqan</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_DURRANI_LS_MOD_2">
+			<Text>Hamasa</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_DURRANI_LS_MOD_3">
+			<Text>Nku</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_DURRANI_LS_MOD_4">
+			<Text>Mitra</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_DURRANI_LS_MOD_5">
+			<Text>Azin</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_DURRANI_LS_MOD_6">
+			<Text>Fila</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_DURRANI_LS_MOD_7">
+			<Text>Kinah</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_DURRANI_LS_MOD_8">
+			<Text>Lala</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_DURRANI_LS_MOD_9">
+			<Text>Mastana</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<!----------------------------------------------------------------
+						Leader
+		------------------------------------------------------------------>
+		<Row Tag="TXT_KEY_LEADER_DURRANI_LS_MOD_AHMAD_ABDALI_DESC">
+			<Text>Ahmad Abdali</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_DURRANI_LS_MOD_AHMAD_ABDALI_LIVED">
+			<Text>1722 - 1772</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_DURRANI_LS_MOD_AHMAD_ABDALI_NAME">
+			<Text>Ahmad Abdali</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_DURRANI_LS_MOD_AHMAD_ABDALI_SUBTITLE">
+			<Text>Emperor</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_DURRANI_LS_MOD_AHMAD_ABDALI_TITLES_1">
+			<Text>The Pearl of pearls</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_DURRANI_LS_MOD_AHMAD_ABDALI_HEADING_1">
+			<Text>History</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_DURRANI_LS_MOD_AHMAD_ABDALI_TEXT_1">
+			<Text>
+				In 1709 Mir Wais Hotak, chief of the Ghilzai tribe of Kandahar Province, gained independence from the Safavid Persians. From 1722 to 1725, his son Mahmud ruled Iran and declared himself as Shah of Persia. However, the Hotaki dynasty came to a complete end in 1738 after being toppled and banished by the Afsharids who were led by Nader Shah of Persia.[NEWLINE][NEWLINE]The year 1747 marks the definitive appearance of an Afghan political entity independent of both the Persian and Mughal empires. In October 1747 a loya jirga (grand council) concluded near the city of Kandahar with Ahmad Shah Durrani being selected as the new leader of the Afghans, thus the Durrani dynasty was founded. Despite being younger than the other contenders, Ahmad Shah had several overriding factors in his favor. He belonged to a respectable family of political background, especially since his father served as Governor of Herat who died in a battle defending the Afghans. He also had a well-trained larger army and possessed a substantial part of Nadir Shah's treasury, including the world's largest Koh-i-Noor diamond.[NEWLINE][NEWLINE]One of Ahmad Shah's first military action was the capture Ghazni from the Ghilzais, and then wresting Kabul from the local ruler. In 1749, the Mughal ruler was induced to cede Sindh, the Punjab region and the important trans Indus River to Ahmad Shah in order to save his capital from Afghan attack. Having thus gained substantial territories to the east without a fight, Ahmad Shah turned westward to take possession of Herat, which was ruled by Nader Shah's grandson, Shah Rukh of Persia. Ahmad Shah next sent an army to subdue the areas north of the Hindu Kush mountains. In short order, the powerful army brought under its control the Tajik, Hazara, Uzbek, Turkmen, and other tribes of northern Afghanistan. Ahmad Shah invaded the remnants of the Mughal Empire a third time, and then a fourth, consolidating control over the Kashmir and Punjab regions, with Lahore being governed by Afghans. He sacked Delhi in 1757, but permitted the Mughal dynasty to remain in nominal control of the city as long as the ruler acknowledged Ahmad Shah's suzerainty over Punjab, Sindh, and Kashmir. Leaving his second son Timur Shah to safeguard his interests, Ahmad Shah left India to return to Afghanistan.[NEWLINE][NEWLINE]
+				Alarmed by the expansion of China's Qing Dynasty up to the western border of Kazakhstan, Ahmad Shah attempted to rally neighboring Muslim khanates and the Kazakhs to unite and attack China, ostensibly to liberate its western Muslim subjects. Ahmad Shah halted trade with Qing China and dispatched troops to Kokand. However, with his campaigns in India exhausting the state treasury, and with his troops stretched thin throughout Central Asia, Ahmad Shah lacked sufficient resources to do anything except to send envoys to Beijing for unsuccessful talks.[NEWLINE][NEWLINE]The Mughal power in northern India had been declining since the reign of Aurangzeb, who died in 1707; In 1751-52, Ahamdiya treaty was signed between the Marathas and Mughals, when Balaji Bajirao was the Peshwa. Through this treaty, the Marathas controlled virtually the whole of India from their capital at Pune and Mughal rule was restricted only to Delhi (the Mughals remained the nominal heads of Delhi). Marathas were now straining to expand their area of control towards the Northwest of India. Ahmad Shah sacked the Mughal capital and withdrew with the booty he coveted. To counter the Afghans, Peshwa Balaji Bajirao sent Raghunathrao. He defeated the Rohillas and Afghan garrisons in Punjab and succeeded in ousting Timur Shah and his court from India and brought Lahore, Multan, Kashmir and other subahs on the Indian side of Attock under Maratha rule. Thus, upon his return to Kandahar in 1757, Ahmad was forced to return to India and face the formidable attacks of the Maratha Confederacy.[NEWLINE][NEWLINE]Ahmad Shah declared a jihad (or Islamic holy war) against the Marathas, and warriors from various Pashtun tribes, and 25,000 Baloch warriors from various Baloch tribes joined his army under the command of Khan of Kalat Mir Noori Naseeer Khan Baloch . Early skirmishes were followed by victory for the Afghans and Baloch against the smaller Maratha garrisons in Northwest India and by 1759 Ahmad and his army had reached Lahore and were poised to confront the Marathas. By 1760, the Maratha groups had coalesced into a big enough army under the command of Sadashivrao Bhau. Once again, Panipat was the scene of a confrontation between two warring contenders for control of northern India. The Third Battle of Panipat (January 1761), fought between largely Muslim and largely Hindu armies was waged along a twelve-kilometer front. Despite decisively defeating the Marathas, what might have been Ahmad Shah's peaceful control of his domains was disrupted by many challenges. As far as losses are concerned, Afghans too suffered heavily in the Third Battle of Panipat. This weakened his grasp over Punjab which fell to the rising Sikh misls. There were rebellions in the north in the region of Bukhara.[NEWLINE][NEWLINE]The victory at Panipat was the high point of Ahmad Shah's—and Afghan—power. His Durrani empire was the second largest Islamic empire in the world, behind the Ottoman Empire at that time. However, even prior to his death, the empire began to unravel. In 1762, Ahmad Shah crossed the passes from Afghanistan for the sixth time to subdue the Sikhs. He assaulted Lahore and, after taking their holy city of Amritsar, massacred thousands of Sikh inhabitants, destroying their revered Golden Temple. Within two years, the Sikhs rebelled again and rebuilt their holy city of Amritsar. Ahmad Shah tried several more times to subjugate the Sikhs permanently, but failed. Ahmad Shah also faced other rebellions in the north, and eventually he and the Uzbek Emir of Bukhara agreed that the Amu Darya would mark the division of their lands. A decade after the third Battle of Panipat, Marathas under the leadership of Mahadji Scindia entered and recaptured Delhi in 1771, cutting off Rohillas from the Durranis forever. Ahmad Shah retired to his home in the mountains east of Kandahar, where he died on April 14, 1773. He had succeeded to a remarkable degree in balancing tribal alliances and hostilities, and in directing tribal energies away from rebellion. He earned recognition as Ahmad Shah Baba, or "Father" of Afghanistan.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DAWN_OF_MAN_DURRANI_LS_MOD_TEXT">
+			<Text>Salam alejkum, Ahmad Shah Durrani, great leader, talented artist and founder of the Sadozai Kingdom, Last of the Afghan Empires! Your Greatness united various tribal leaders, and with their support extended Afghan control from Khorasan in the west to Kashmir and ancient Delhi in the east, from the Amu Darya in the north to the Arabian Sea in the south; making Durrani Empire the second-largest Muslim empire in the world. You were a Defender of the Faith, bringing freedom to your muslim brothers threatened by Chinese expansion. Your declaration of jihad against the Marathas was widely answered by warriors from various tribes: the Pashtun, Balock, Tajiks and Nawabs. Sadly, the glorious victory at Panipat was a pyrrhic one, ending the golden age of your empire. Countless rebellions sprung up where once there had been peace. Tired of the endless battle, you returned home to the mountains in the east of Kandahar, where you could follow your passion: poetry.[NEWLINE][NEWLINE]Ahmad Shah Baba, "Father" of Afghanistan, the world is yours once again! Can you bring faith, culture and light to the barbarians? Can your scholars and poets write the destiny of this world? Can you build a civilization that will stand the test of time?</Text>
+		</Row>
+		<!----------------------------------------------------------------
+						Diplomacy
+		------------------------------------------------------------------>
+		<!--First Greeting messages from AI leaders-->
+		<Row Tag="TXT_KEY_LEADER_DURRANI_LS_MOD_AHMAD_ABDALI_FIRSTGREETING_1">
+			<Text>Ahmad Khan Abdali, commander of Pashtuns, Emir of Khorosan, the father of Afghan people, welcomes you.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_DURRANI_LS_MOD_AHMAD_ABDALI_FIRSTGREETING_2">
+			<Text>My name is Ahmad Durrani. Choose your works artfully, for our meeting shall echo throughout eternity.</Text>
+		</Row>
+		<!--Defeated messages from AI leaders-->
+		<Row Tag="TXT_KEY_LEADER_DURRANI_LS_MOD_AHMAD_ABDALI_DEFEATED_1">
+			<Text>I had hoped to write all this down some day... but in the end, the sword was mightier than the pen.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_DURRANI_LS_MOD_AHMAD_ABDALI_DEFEATED_2">
+			<Text>I forget the throne of Delhi[NEWLINE]when I remember the mountain tops of my Afghan land.[NEWLINE]If I must choose between the world and you,[NEWLINE]I shall not hesitate to claim your barren deserts as my own.</Text>
+		</Row>
+		<!-- Human repeats an action too much, gets the following responses -->
+		<Row Tag="TXT_KEY_LEADER_DURRANI_LS_MOD_AHMAD_ABDALI_REPEAT_TOO_MUCH_1">
+			<Text>Know that your words are not elegant.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_DURRANI_LS_MOD_AHMAD_ABDALI_REPEAT_TRADE_TOO_MUCH_1">
+			<Text>I would be a careless man to accept such a deal.</Text>
+		</Row>
+		<!-- Greetings -->
+		<Row Tag="TXT_KEY_LEADER_DURRANI_LS_MOD_AHMAD_ABDALI_GREETING_HOSTILE_HELLO_1">
+			<Text>To have climbed the mountain... you must be here to surrender your lands! Am I right?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_DURRANI_LS_MOD_AHMAD_ABDALI_GREETING_POLITE_HELLO_1">
+			<Text>Good to see you. Saying Salam is a sign of true faith.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_DURRANI_LS_MOD_AHMAD_ABDALI_GREETING_HOSTILE_HUMAN_AT_WAR_1">
+			<Text>Allah preserves the righteous and destroys the wicked. It is known. How do you expect to win this war when you are wicked?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_DURRANI_LS_MOD_AHMAD_ABDALI_GREETING_HUMAN_AT_WAR_1">
+			<Text>Wars are so tiresome, are they not? Is that why you have come to the serenity of the mountain?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_DURRANI_LS_MOD_AHMAD_ABDALI_HOSTILE_AGGRESSIVE_MILITARY_WARNING_1">
+			<Text>It is the sword that protects Islam. I will strike you down if you harm my brothers.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_DURRANI_LS_MOD_AHMAD_ABDALI_GREETING_HOSTILE_AGGRESSIVE_PLOT_BUYING_1">
+			<Text>Why spend your money like this? Land is not loyal.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_DURRANI_LS_MOD_AHMAD_ABDALI_GREETING_AGGRESSIVE_PLOT_BUYING_1">
+			<Text>Why spend your money like this? Land is not loyal.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_DURRANI_LS_MOD_AHMAD_ABDALI_GREETING_HOSTILE_AGGRESSIVE_EXPANSION_1">
+			<Text>Cities stain the beauty of this world, infidel.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_DURRANI_LS_MOD_AHMAD_ABDALI_GREETING_AGGRESSIVE_EXPANSION_1">
+			<Text>Let me advise you, as you are clearly in need: expand UP, it is superior near the clouds.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_DURRANI_LS_MOD_AHMAD_ABDALI_GREETING_FRIENDLY_STRONG_MILITARY_1">
+			<Text>Your military is strong, and it is the sword that protects Islam.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_DURRANI_LS_MOD_AHMAD_ABDALI_GREETING_FRIENDLY_STRONG_ECONOMY_1">
+			<Text>You make much profit, I hope you bear mind to the Prophet also.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_DURRANI_LS_MOD_AHMAD_ABDALI_GREETING_HOSTILE_HUMAN_FEW_CITIES_1">
+			<Text>Few cities for few ideas.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_DURRANI_LS_MOD_AHMAD_ABDALI_GREETING_HOSTILE_HUMAN_SMALL_ARMY_1">
+			<Text>Such a small force as yours will never bend the mountain to a foreign will.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_DURRANI_LS_MOD_AHMAD_ABDALI_GREETING_HOSTILE_HUMAN_IS_WARMONGER_1">
+			<Text>The history of great men is writ in love and beauty.[NEWLINE]The history of damned men is writ in blood.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_DURRANI_LS_MOD_AHMAD_ABDALI_TOO_SOON_FOR_DOF_1">
+			<Text>When the wind next howls on the mountain, I shall decide on this matter.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_DURRANI_LS_MOD_AHMAD_ABDALI_DENOUNCE_1">
+			<Text>The wound of the sword will heal, but not that of the tongue.[NEWLINE][NEWLINE]([COLOR_WARNING_TEXT]They have publicly denounced us! NOTE: You are not at war.[ENDCOLOR])</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_DURRANI_LS_MOD_AHMAD_ABDALI_DENOUNCE_2">
+			<Text>This declaration is one of my finest works. Choke on it.[NEWLINE][NEWLINE]([COLOR_WARNING_TEXT]They have publicly denounced us! NOTE: You are not at war.[ENDCOLOR])</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_DURRANI_LS_MOD_AHMAD_ABDALI_RESPONSE_TO_BEING_DENOUNCED_1">
+			<Text>Your words are blown to nothing before they can reach the mountaintop.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_DURRANI_LS_MOD_AHMAD_ABDALI_RESPONSE_TO_BEING_DENOUNCED_2">
+			<Text>The mountain is not moved.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_DURRANI_LS_MOD_AHMAD_ABDALI_HUMAN_DOFED_FRIEND_1">
+			<Text>{1_CivName} holidays here from time to time, I am glad you too have chosen the path of peace.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_DURRANI_LS_MOD_AHMAD_ABDALI_HUMAN_DOFED_ENEMY_1">
+			<Text>{1_CivName} mocks this realm with his words. Do not make the same mistake.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_DURRANI_LS_MOD_AHMAD_ABDALI_HUMAN_DENOUNCED_FRIEND_1">
+			<Text>{1_CivName} is full of goodness and life. Your words are ill placed.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_DURRANI_LS_MOD_AHMAD_ABDALI_HUMAN_DENOUNCED_ENEMY_1">
+			<Text>{1_CivName}. He is a gateway for hatred and dishonesty.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_DURRANI_LS_MOD_AHMAD_ABDALI_HUMAN_DOF_SO_AI_DOF_1">
+			<Text>If {1_CivName} will join us then how can I say no?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_DURRANI_LS_MOD_AHMAD_ABDALI_HUMAN_DOF_SO_AI_DENOUNCE_1">
+			<Text>You would choose {1_CivName} over me!? You should know that an intelligent enemy is better than a foolish friend.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_DURRANI_LS_MOD_AHMAD_ABDALI_HUMAN_DENOUNCE_SO_AI_DENOUNCE_1">
+			<Text>I share your convictions that {1_CivName} only causes problems for the civilized empires of the world. Perhaps the combination of our denouncements will teach them a lesson.</Text>
+		</Row>
+		<!-- General Diplo Text -->
+		<Row Tag="TXT_KEY_LEADER_DURRANI_LS_MOD_AHMAD_ABDALI_COOP_WAR_REQUEST_1">
+			<Text>Death shall come as relief to {1_PlayerName:textkey}.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_DURRANI_LS_MOD_AHMAD_ABDALI_COOP_WAR_REQUEST_2">
+			<Text>{1_PlayerName:textkey}'s crimes are uncountable. Join my Jihad?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_DURRANI_LS_MOD_AHMAD_ABDALI_COOP_WAR_TIME_1">
+			<Text>{1_PlayerName:textkey}'s judgement awaits. Let us ride to war.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_DURRANI_LS_MOD_AHMAD_ABDALI_DEC_FRIENDSHIP_1">
+			<Text>The sky looks upon us, stars remind the past, a glorious future is our destiny.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_DURRANI_LS_MOD_AHMAD_ABDALI_DEC_FRIENDSHIP_2">
+			<Text>I would come down from the mountain, and visit your lands as your friend.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_DURRANI_LS_MOD_AHMAD_ABDALI_AGGRESSIVE_MILITARY_WARNING_1">
+			<Text>It's come to my attention that you have a large number of Units near my borders. Know that no march has ever reached the mountain.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_DURRANI_LS_MOD_AHMAD_ABDALI_PLOT_BUYING_WARNING_1">
+			<Text>Buying land is like buying air. Why the need when it all longs to be breathed in time.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_DURRANI_LS_MOD_AHMAD_ABDALI_PLOT_BUYING_SERIOUS_WARNING_1">
+			<Text>I hate to abandon my guise of sophistication, but if you buy another plot it will mean war.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_DURRANI_LS_MOD_AHMAD_ABDALI_EXPANSION_SERIOUS_WARNING_1">
+			<Text>This is serious. Your expansion is going to spark holy war.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_DURRANI_LS_MOD_AHMAD_ABDALI_EXPANSION_WARNING">
+			<Text>Your expansionism is upsetting a number of my viziers.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_DURRANI_LS_MOD_AHMAD_ABDALI_RETURNED_CIVILIAN_1">
+			<Text>Bless you! Allah bless you!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_DURRANI_LS_MOD_AHMAD_ABDALI_RETURNED_CIVILIAN_2">
+			<Text>You are nothing if not a friend to mankind.</Text>
+		</Row>
+		<!--Insults-->
+		<Row Tag="TXT_KEY_LEADER_DURRANI_LS_MOD_AHMAD_ABDALI_INSULT_1">
+			<Text>In childhood you are playful, in youth you are lustful, in old age you are feeble; So when will you before God be worshipful?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_DURRANI_LS_MOD_AHMAD_ABDALI_INSULT_2">
+			<Text>You have cleansed your body, how will you cleanse your soul?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_DURRANI_LS_MOD_AHMAD_ABDALI_INSULT_3">
+			<Text>Roses are red, violets are blue, you look like a pauper and you smell like...failure.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_DURRANI_LS_MOD_AHMAD_ABDALI_INSULT_4">
+			<Text>You exist so that I may have more synonyms for ignominy.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_DURRANI_LS_MOD_AHMAD_ABDALI_INSULT_MILITARY_1">
+			<Text>Your pathetic military is no match for the faithful.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_DURRANI_LS_MOD_AHMAD_ABDALI_INSULT_MILITARY_2">
+			<Text>Build an army, or you are going to have to explain to your people why they have been subjugated.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_DURRANI_LS_MOD_AHMAD_ABDALI_INSULT_BULLY_1">
+			<Text>A bully does what he does because he hates himself.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_DURRANI_LS_MOD_AHMAD_ABDALI_INSULT_UNHAPPINESS_1">
+			<Text>Sadness reigns in your empire.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_DURRANI_LS_MOD_AHMAD_ABDALI_INSULT_UNHAPPINESS_2">
+			<Text>The weather mirrors our feelings. It is known. And I hear in your empire it always rains.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_DURRANI_LS_MOD_AHMAD_ABDALI_INSULT_CITIES_1">
+			<Text>When my cities are finally finished growing, yours will have long fallen into the dust.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_DURRANI_LS_MOD_AHMAD_ABDALI_INSULT_POPULATION_1">
+			<Text>I would have thought a brute such as you would have wanted a people to rule.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_DURRANI_LS_MOD_AHMAD_ABDALI_INSULT_CULTURE_1">
+			<Text>I personally output more culture than your whole civ.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_DURRANI_LS_MOD_AHMAD_ABDALI_INSULT_CULTURE_2">
+			<Text>I suppose if I conquer you, I won't be getting many great works for it. How sad.</Text>
+		</Row>
+		<!--Public Declarations-->
+		<Row Tag="TXT_KEY_LEADER_DURRANI_LS_MOD_AHMAD_ABDALI_DECLARATION_PROTECT_CITY_STATE_1">
+			<Text>{2_MajorCivName:textkey} announces to the world that it is now protecting {1_MinorCivName:textkey}. Attacking the City-State will greatly damage relations and may lead to war.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_DURRANI_LS_MOD_AHMAD_ABDALI_DECLARATION_ABANDON_CITY_STATE_1">
+			<Text>{2_MajorCivName:textkey} has taken back its guarantee of protecting {1_MinorCivName:textkey}.</Text>
+		</Row>
+		<!-- Human is asking the AI for something -->
+		<Row Tag="TXT_KEY_LEADER_DURRANI_LS_MOD_AHMAD_ABDALI_DONT_SETTLE_NO_1">
+			<Text>The short answer is no. The long answer is going to win the Nobel Prize for literature.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_DURRANI_LS_MOD_AHMAD_ABDALI_DONT_SETTLE_YES_1">
+			<Text>Only because I am nice.</Text>
+		</Row>
+		<!--Deal Offers and related-->
+		<Row Tag="TXT_KEY_LEADER_DURRANI_LS_MOD_AHMAD_ABDALI_LUXURY_TRADE_1">
+			<Text>Some things are hard to come by on the mountain.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_DURRANI_LS_MOD_AHMAD_ABDALI_OPEN_BORDERS_EXCHANGE_1">
+			<Text>Even on a mountain, there is still a road. Let us pass freely in each others' lands.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_DURRANI_LS_MOD_AHMAD_ABDALI_RESPONSE_REQUEST_1">
+			<Text>I can offer only my thanks in return.</Text>
+		</Row>
+		<!--AI Attacked by Human - Strong and Weak also include the default response sets-->
+		<Row Tag="TXT_KEY_LEADER_DURRANI_LS_MOD_AHMAD_ABDALI_ATTACKED_HOSTILE_1">
+			<Text>It has been a long time since this land has been conquered. I do not think you will be the one to do it.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_DURRANI_LS_MOD_AHMAD_ABDALI_ATTACKED_EXCITED_1">
+			<Text>I love a good Jihad.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_DURRANI_LS_MOD_AHMAD_ABDALI_ATTACKED_SAD_1">
+			<Text>The rain falls upon the mountain as tears fall on my parchment.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_DURRANI_LS_MOD_AHMAD_ABDALI_ATTACKED_BETRAYED_1">
+			<Text>Betrayer, Deceiver, Monster.</Text>
+		</Row>
+		<!--AI Declaring War on Human - Strong and Weak also include the default response sets-->
+		<Row Tag="TXT_KEY_LEADER_DURRANI_LS_MOD_AHMAD_ABDALI_DOW_GENERIC_1">
+			<Text>Allahu Akbar</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_DURRANI_LS_MOD_AHMAD_ABDALI_DOW_LAND_1">
+			<Text>I claim your land in the name of Muhammad, may Allah grant peace and honor on him and his family.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_DURRANI_LS_MOD_AHMAD_ABDALI_DOW_LAND_2">
+			<Text>Do not fear, you people will be under a righteous leader.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_DURRANI_LS_MOD_AHMAD_ABDALI_DOW_WORLD_CONQUEST_1">
+			<Text>I am completing the work of the Prophet.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_DURRANI_LS_MOD_AHMAD_ABDALI_DOW_WORLD_CONQUEST_2">
+			<Text>All the world is under the mountain. All its people will serve under me.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_DURRANI_LS_MOD_AHMAD_ABDALI_DOW_OPPORTUNITY_1">
+			<Text>Who am I to deny my men a chance at glory?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_DURRANI_LS_MOD_AHMAD_ABDALI_DOW_OPPORTUNITY_2">
+			<Text>Your complacency is a gift from Allah. If I do not seize upon it, am I not disrespecting Him?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_DURRANI_LS_MOD_AHMAD_ABDALI_DOW_DESPERATE_1">
+			<Text>The earth shakes beneath me! You are the cause of this.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_DURRANI_LS_MOD_AHMAD_ABDALI_DOW_DESPERATE_2">
+			<Text>If I do not win, I will at least have one hell of a story.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_DURRANI_LS_MOD_AHMAD_ABDALI_DOW_BETRAYAL_1">
+			<Text>I live in a luxurious mountaintop complex, of course I am a villian!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_DURRANI_LS_MOD_AHMAD_ABDALI_DOW_BETRAYAL_2">
+			<Text>The story is more interesting this way.</Text>
+		</Row>
+		<!--AI Responses to a human peace offer-->
+		<Row Tag="TXT_KEY_LEADER_DURRANI_LS_MOD_AHMAD_ABDALI_TOO_SOON_NO_PEACE_1">
+			<Text>Come back when grass grows on the mountaintop.</Text>
+		</Row>
+		<!--AI Responses to a discussion mode topics-->
+		<Row Tag="TXT_KEY_LEADER_DURRANI_LS_MOD_AHMAD_ABDALI_BAD_1">
+			<Text>Words are wind.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_DURRANI_LS_MOD_AHMAD_ABDALI_BAD_2">
+			<Text>You mean so little.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_DURRANI_LS_MOD_AHMAD_ABDALI_BAD_3">
+			<Text>You try my eternal patience.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_DURRANI_LS_MOD_AHMAD_ABDALI_GOOD_1">
+			<Text>God is good.</Text>
+		</Row>
+		<!----------------------------------------------------------------
+						UA
+		------------------------------------------------------------------>
+		<Row Tag="TXT_KEY_TRAIT_LS_PEARL_OF_PEARLS_SHORT">
+			<Text>Pearl of Pearls</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_LS_PEARL_OF_PEARLS">
+			<Text>Great Writer creating [ICON_GREAT_WORK] Great Work grants half of the [ICON_CULTURE] Culture boost. Great Scientist creating Academy grants half of [ICON_RESEARCH] Science boost.</Text>
+		</Row>
+		<!----------------------------------------------------------------
+						U1
+		------------------------------------------------------------------>
+		<Row Tag="TXT_KEY_UNIT_LS_MUJAHIDEEN">
+			<Text>Jezail Rifleman</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_HELP_UNIT_LS_MUJAHIDEEN">
+			<Text>While starting turn on the hill, it may perform an extra ranged attack against nearby enemy on the flatlands, making an advantage of the high-ground. Only the Durrani may build it.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_LS_MUJAHIDEEN_TEXT">
+			<Text>Jezails were generally handmade weapons, and consequently they widely varied in their construction. Jezails were seen as very personal weapons, and unlike the typical military weapons of the time which were very plain and utilitarian, jezails tended to be well crafted and were usually intricately decorated.[NEWLINE][NEWLINE]During this period the jezail was the primary ranged weapon of Afghan warriors and was used with great effect against British troops. British Brown Bess smoothbore muskets were effective at only 150 yards and accurate at 50 yards. Because of their advantage in range, Afghan rebels typically used the jezail from the tops of cliffs along valleys and defiles during ambushes. This tactic repeatedly devastated the British during their doomed retreat from Kabul to Jalalabad. Despite the advantages over the Brown Bess, British forces were typically able to defeat jezail armed Afghans when they fought on relatively flat terrain.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_LS_MUJAHIDEEN_STRATEGY">
+			<Text>Unlike the Rifleman, which they replace, the Jezail Rifleman may perform some extra ranged attacks if stationed on the hills.</Text>
+		</Row>
+		<!----------------------------------------------------------------
+						U2
+		------------------------------------------------------------------>
+		<Row Tag="TXT_KEY_BUILDING_LS_LITERATURE_NIGHT">
+			<Text>House of Poetry</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_LS_LITERATURE_NIGHT_HELP">
+			<Text>Filling the [ICON_GREAT_WORK] Great Work slot increases [ICON_HAPPINESS_1] Happiness by 1.[NEWLINE]Speeds up generation of Great Writers by 15% (+30% if there is a Mountain Nearby, +45% if city is adjacent to Mountain).</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_LS_LITERATURE_NIGHT_TEXT">
+			<Text>Poetry in Afghanistan has long been a cultural tradition and passion. It is mainly in Dari and Pashto languages, although in modern times it is also becoming more recognized in Afghanistan's other languages. Even though many people are illiterate, Classic Persian and Pashto poetry plays an important role in the Afghan culture. Poetry has always been one of the major educational pillars in the region, to the level that it has integrated itself into culture.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_LS_LITERATURE_NIGHT_STRATEGY">
+			<Text>House of Poetry grants a point of happiness if great work slot is filled, unlike the Amphitheatre which it replaces.</Text>
+		</Row>
+
+
+		<Row Tag="TXT_KEY_PROMOTION_LS_JEZAIL_RANGE">
+			<Text>High-ground range</Text>
+		</Row>
+	</Language_en_US>
+</GameData>
