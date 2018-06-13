@@ -1,1 +1,13 @@
 UPDATE Leader_Flavors SET Flavor = 8 WHERE LeaderType='LEADER_ALEXANDER' AND FlavorType = 'FLAVOR_OFFENSE';
+UPDATE Leader_Flavors SET Flavor = 5 WHERE LeaderType='LEADER_LEUGI_LOUVERTURE' AND FlavorType = 'FLAVOR_EXPANSION';
+UPDATE Leader_Flavors SET Flavor = 8 WHERE LeaderType='LEADER_RYOMA' AND FlavorType = 'FLAVOR_NAVAL_TILE_IMPROVEMENT';
+UPDATE Leader_Flavors SET Flavor = 8 WHERE LeaderType='LEADER_RYOMA' AND FlavorType = 'FLAVOR_EXPANSION';
+UPDATE Leader_Flavors SET Flavor = 8 WHERE LeaderType='LEADER_MC_MINOS' AND FlavorType = 'FLAVOR_EXPANSION';
+UPDATE Leader_Flavors SET Flavor = 7 WHERE LeaderType='LEADER_MC_ROBERT_BRUS' AND FlavorType = 'FLAVOR_EXPANSION';
+UPDATE Leader_Flavors SET Flavor = 5 WHERE LeaderType='LEADER_VAULI' AND FlavorType = 'FLAVOR_NAVAL_GROWTH';
+UPDATE Leader_Flavors SET Flavor = 6 WHERE LeaderType='LEADER_VAULI' AND FlavorType = 'FLAVOR_NAVAL_TILE_IMPROVEMENT';
+UPDATE Leader_Flavors SET Flavor = 6 WHERE LeaderType='LEADER_VAULI' AND FlavorType = 'FLAVOR_TILE_IMPROVEMENT';
+UPDATE Leader_Flavors SET Flavor = 9 WHERE LeaderType='LEADER_VAULI' AND FlavorType = 'FLAVOR_EXPANSION';
+UPDATE Leader_Flavors SET Flavor = 7 WHERE LeaderType='LEADER_RAJAPAPUA' AND FlavorType = 'FLAVOR_EXPANSION';
+UPDATE Leader_Flavors SET Flavor = 9 WHERE LeaderType='LEADER_CB_KIRAM' AND FlavorType = 'FLAVOR_EXPANSION';
+UPDATE Leader_Flavors SET Flavor = 7 WHERE LeaderType='LEADER_IDHONE' AND FlavorType = 'FLAVOR_EXPANSION';
