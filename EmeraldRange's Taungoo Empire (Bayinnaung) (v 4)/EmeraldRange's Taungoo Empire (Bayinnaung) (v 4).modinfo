@@ -1,11 +1,9 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<Mod id="1589e541-2086-4661-b648-f04fe75a83a6" version="3">
+<Mod id="1589e541-2086-4661-b648-f04fe75a83a6" version="4">
   <Properties>
-    <Name>Taungoo Empire [EmeraldRange]</Name>
+    <Name>EmeraldRange's Taungoo Empire (Bayinnaung)</Name>
     <Teaser>Adds the Taungoo Dynasty to Civilisation V</Teaser>
-    <Description>Adds the Taungoo-Hanthawaddy Dynasty of Burma (Second Burmese Empire), founded by Tabinshwehti and then expanded by Bayinnaung, into Civilization V. 
-
-Mod Support: YnAEMP, Historical Religions, Events and Decisions, Unique Great Generals</Description>
+    <Description>Adds the Taungoo-Hanthawaddy Dynasty of Burma (Second Burmese Empire), founded by Tabinshwehti and then expanded by Bayinnaung, into Civilization V.</Description>
     <Authors>EmeraldRange</Authors>
     <SpecialThanks>Lua: Chrisy15</SpecialThanks>
     <HideSetupGame>0</HideSetupGame>
@@ -71,25 +69,25 @@ Mod Support: YnAEMP, Historical Religions, Events and Decisions, Unique Great Ge
     <File md5="0B5E12A3CEF2B7AAD49FE9E5A3DA2452" import="1">Art/u_ER_taungoo_warelephant.gr2</File>
     <File md5="4093DCE0F2985C8F4768B05BD6E29B68" import="1">Art/u_ER_Taungoo_WarElephant_DIFF.dds</File>
     <File md5="0B51238B1389EAF36D1503E1CDB92865" import="1">Art/u_siamese_warelephant_sref.dds</File>
-    <File md5="450DEF1397F4B81ED6F2FC83A7942E74" import="1">Lua/Ahmudan.lua</File>
+    <File md5="77046A0E4FE2312DBBAB395652557CA0" import="1">Lua/Ahmudan.lua</File>
     <File md5="EC451F6B729E4124BC35A1BD2A1F16F6" import="1">Lua/Martial_School.lua</File>
     <File md5="AAEC9193B51631DFEE81A80B37098D5A" import="0">Lua/MC_Burma.sql</File>
-    <File md5="415DD8F6A602AC40382ED562EFDBB5ED" import="0">Supports/CivSpecificGGGASupport.xml</File>
-    <File md5="BAD89B75A15187A1EAF60C9BFA4DDCD2" import="0">Supports/JFDLC_Support.sql</File>
+    <File md5="FABA5DE995AE1AC775C089A26747084E" import="0">Supports/CivSpecificGGGASupport.xml</File>
     <File md5="241C4E9958A94D3C14DC877D510DC8F9" import="1">Supports/Decision1_Kandy.lua</File>
     <File md5="A1A54D50C5C1C8F6DDE2E4017E8F7CC7" import="1">Supports/Decision2_BagoGates.lua</File>
     <File md5="89FAF40FAA36B104BA1E6AE38C5C4607" import="0">Supports/Decisions_Support.sql</File>
     <File md5="DBC7869F64DBC661015F35B814071C50" import="0">Supports/Decisions_Support.xml</File>
     <File md5="0CE59346A56E22399C2A390A5DB413DD" import="0">Supports/HistoricalReligions_Support.sql</File>
+    <File md5="BAD89B75A15187A1EAF60C9BFA4DDCD2" import="0">Supports/JFDLC_Support.sql</File>
     <File md5="23AF87E6AE5BDAAD684F53EDBA18A25E" import="0">Supports/YnAEMP_Taungoo_TSL.sql</File>
     <File md5="250A11618411E8F7C0F1BB40E1F6F57B" import="0">Xml/Civilisation/Civ_Taungoo.xml</File>
-    <File md5="E586C9960BA916258C122D3DBEF91550" import="0">Xml/Civilisation/Text.xml</File>
+    <File md5="90E2CF1BCFD0DA55C4963ECE875D1703" import="0">Xml/Civilisation/Text.xml</File>
     <File md5="88CBF97E8BF9BB73D4AC2C2002C6C3CF" import="0">Xml/Civilisation/Traits.xml</File>
     <File md5="C35636C9AEF3578FD6EA9A88D7971B91" import="0">Xml/Gameinfo/CIV5ArtDefines_unitmembers.xml</File>
     <File md5="9B04CEA4BD00886DE2A326215BE2A030" import="0">Xml/Gameinfo/CIV5IconTextureAtlas.xml</File>
     <File md5="797567352443BFE7616090FAC3855EE0" import="0">Xml/Gameinfo/SoundDefines.xml</File>
     <File md5="E9EAE73F3926F087CB667767B5AFDDEB" import="1">Xml/Leader/Bayinnaung_Scene.xml</File>
-    <File md5="2B65BC31164AA63D04D62E8612654F97" import="0">Xml/Leader/CIV5Leader_Bayinnaung.xml</File>
+    <File md5="4D8E83D0318E527B8297A909984E2C27" import="0">Xml/Leader/CIV5Leader_Bayinnaung.xml</File>
     <File md5="F5969208BBDFEF60766E3EC0021278D1" import="0">Xml/Uniques/Buildings.xml</File>
     <File md5="5C47D4047BC80E537C538EA85F4EC1CA" import="0">Xml/Uniques/Units.xml</File>
   </Files>
@@ -105,12 +103,12 @@ Mod Support: YnAEMP, Historical Religions, Events and Decisions, Unique Great Ge
       <UpdateDatabase>Xml/Uniques/Buildings.xml</UpdateDatabase>
       <UpdateDatabase>Xml/Uniques/Units.xml</UpdateDatabase>
       <UpdateDatabase>Xml/Civilisation/Civ_Taungoo.xml</UpdateDatabase>
-      <UpdateDatabase>Supports/YnAEMP_Taungoo_TSL.sql</UpdateDatabase>
-      <UpdateDatabase>Supports/HistoricalReligions_Support.sql</UpdateDatabase>
+      <UpdateDatabase>Lua/MC_Burma.sql</UpdateDatabase>
       <UpdateDatabase>Supports/Decisions_Support.sql</UpdateDatabase>
       <UpdateDatabase>Supports/Decisions_Support.xml</UpdateDatabase>
+      <UpdateDatabase>Supports/HistoricalReligions_Support.sql</UpdateDatabase>
       <UpdateDatabase>Supports/JFDLC_Support.sql</UpdateDatabase>
-      <UpdateDatabase>Lua/MC_Burma.sql</UpdateDatabase>
+      <UpdateDatabase>Supports/YnAEMP_Taungoo_TSL.sql</UpdateDatabase>
       <UpdateDatabase>Supports/CivSpecificGGGASupport.xml</UpdateDatabase>
     </OnModActivated>
   </Actions>
