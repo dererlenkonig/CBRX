@@ -32,7 +32,17 @@ function GetStrongestMilitaryUnit(pPlayer, bIgnoreResources, ...)
 	end
 	return tUnit.ID
 end
+--============================================================
+-- JFD_GetUserSetting
+-- By JFD
+--============================================================
+function JFD_GetUserSetting(type)
+    for row in GameInfo.JFD_GlobalUserSettings("Type = '" .. type .. "'") do
+        return row.Value
+    end
+end
 -------------------------------------------------------------------------------------------------------------------------
+local bPrestige = JFD_GetUserSetting("JFDLC_MISC_CHANGES_GOLDEN_AGE_POINTS") == 1
 local iCiv = GameInfoTypes.CIVILIZATION_TAUNGOO
 local iUAfrequency = 5 --the frequency of the UA based on GameSpeed 
 local bIsCivActive = JFD_IsCivilisationActive(iCiv)
@@ -89,13 +99,20 @@ function ER_GainGoldenPoints(iOldOwner, bIsCapital, iCityX, iCityY, iNewOwner, i
 	print "Attempting to give GA points"
 	local pPlayer = Players[iNewOwner]
 	local pCity = (Map.GetPlot(iCityX, iCityY):GetPlotCity())
-	local iGoldenAgeBonus = math.floor(pCity:GetStrengthValue() / 800) * 100 --equivalent to eighth of the city strength
+	local iGoldenAgeBonus = math.floor(pCity:GetStrengthValue() / 600) * 100 --equivalent to sixth of the city strength
 
 	if pPlayer:IsAlive() and pPlayer:GetCivilizationType() == iCiv  and bConquest then
 		pPlayer:ChangeGoldenAgeProgressMeter( iGoldenAgeBonus )
-		print ("Got " .. iGoldenAgeBonus .. "Golden Age Points")
-		local sNotifyText = ("Gained " .. iGoldenAgeBonus .. " [ICON_GOLDEN_AGE] Golden Age Points from your conquest")
-		local sNotifyHeading = Locale.ConvertTextKey("TXT_KEY_ER_TAUNGOO_GA_BONUS_HEAD")
+		print ("Got " .. iGoldenAgeBonus .. "Golden Age Points")		
+		local sNotifyText = ("Gained " .. iGoldenAgeBonus)
+		local sNotifyHeading = ""
+		if(bPrestige) then
+			sNotifyText = (sNotifyText .. " Prestige from your conquest")
+			sNotifyHeading = Locale.ConvertTextKey("TXT_KEY_ER_TAUNGOO_GA_BONUS_HEAD_PRES")
+		else
+			sNotifyText = (sNotifyText .. " Golden Age Points from your conquest")
+			sNotifyHeading = Locale.ConvertTextKey("TXT_KEY_ER_TAUNGOO_GA_BONUS_HEAD")
+		end 
 		pPlayer:AddNotification(NotificationTypes.NOTIFICATION_GENERIC, sNotifyText, sNotifyHeading)
 	end
 end

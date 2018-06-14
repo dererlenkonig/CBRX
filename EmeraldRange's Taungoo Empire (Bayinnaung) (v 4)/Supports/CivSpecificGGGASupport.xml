@@ -1,6 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Created by ModBuddy on 5/24/2017 1:26:12 PM -->
 <GameData>
+	<!--To any debuggers: This file can be deleted if needed. It is the source of a Database error like so: 
+[235874.140] 1 values for 9 columns
+[235874.140] table Unit_UniqueNames has no column named CivilizationType
+[235874.140] In Query - insert into Unit_UniqueNames('UnitType', 'UniqueName', 'CivilizationType') values (?, ?, ?);
+[235874.140] In XMLSerializer while updating table Unit_UniqueNames from file Supports/CivSpecificGGGASupport.xml.-->
 	<Unit_UniqueNames>
 		<Row UnitType="UNIT_GREAT_GENERAL" UniqueName="TXT_KEY_GREAT_PERSON_BINNYA_DALA" CivilizationType="CIVILIZATION_TAUNGOO" />
 		<Row UnitType="UNIT_GREAT_GENERAL" UniqueName="TXT_KEY_GREAT_PERSON_NANDA" CivilizationType="CIVILIZATION_TAUNGOO" />

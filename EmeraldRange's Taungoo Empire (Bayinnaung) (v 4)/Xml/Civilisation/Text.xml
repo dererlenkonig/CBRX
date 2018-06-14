@@ -31,6 +31,9 @@
 		<Row Tag="TXT_KEY_ER_TAUNGOO_GA_BONUS_HEAD">
 			<Text>Gained [ICON_GOLDEN_AGE] Golden Age Points for your conquest</Text>
 		</Row>
+		<Row Tag="TXT_KEY_ER_TAUNGOO_GA_BONUS_HEAD_PRES">
+			<Text>Gained [ICON_GOLDEN_AGE] Prestige for your conquest</Text>
+		</Row>
 		<!--Unique Unit-->
 		<Row Tag="TXT_KEY_ER_UNIT_WHITE_WAR_ELEPHANT">
 			<Text>White War Elephant</Text>

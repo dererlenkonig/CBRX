@@ -16,7 +16,7 @@ local MY_MOD_NAME = "OrientalUruguay";
 -- Modified from NewSaveUtils.lua
 --=======================================================================================================================
 
-print("Uruguay Beta 5 loading");
+print("Uruguay Beta 6 loading");
 
 gbLogSaveData = false;
 
@@ -638,9 +638,9 @@ function PartiesProcessTurn(iPlayer)
 			iParty = 0; 
 		end
 		if iParty == 0 then
-			print("B5: Party: Colorados, Turns in power: " .. iTimer);
+			print("B6: Party: Colorados, Turns in power: " .. iTimer);
 		else 
-			print("B5: Party: Blancos, Turns in power: " .. iTimer);
+			print("B6: Party: Blancos, Turns in power: " .. iTimer);
 		end
 		iTimer = iTimer + 1;
 		local iTurns = 30;
@@ -940,9 +940,9 @@ function GoldBuyDown(iPlayer, iParty, iGoldThreshold)
 	for pCity in pPlayer:Cities() do
 		--print("City");
 		local iRand = Game.Rand(6, "What to buy?");
-		local iThreshold = 2;
+		local iThreshold = 3;
 		if iParty == 1 then
-			iThreshold = 4;
+			iThreshold = 5;
 		end
 		if pPlayer:GetCurrentEra() < 2 then
 			iThreshold = 6;
@@ -992,11 +992,13 @@ function GoldBuyDown(iPlayer, iParty, iGoldThreshold)
 
 				--Game.CityPurchaseUnit(pCity, validUnits[iRandB].ID, -1, -1);
 				local iCost = pCity:GetUnitPurchaseCost(validUnits[iRandB].ID);
-				
+				local iGold = pPlayer:GetGold();
 				if iGold - iCost > 0 and iCost >= 0 then
 					pPlayer:InitUnit(validUnits[iRandB].ID, pCity:GetX(), pCity:GetY());
+					print(iGold .. " gold registered, should be " .. pPlayer:GetGold() .. ", difference: " .. (pPlayer:GetGold() - iGold) .. " cost: " .. iCost);
 					pPlayer:SetGold(iGold - iCost);
 					print("Purchasing unit " .. validUnits[iRandB].ID);
+					print(pPlayer:GetGold() .. " gold detected after purchasing unit");
 				end
 
 			end
@@ -1035,10 +1037,14 @@ function GoldBuyDown(iPlayer, iParty, iGoldThreshold)
 				--Game.CityPurchaseBuilding(pCity, validBuildings[iRandB].ID, -1, -1);
 
 				local iCost = pCity:GetBuildingPurchaseCost(validBuildings[iRandB].ID);
+				local iGold = pPlayer:GetGold();
 				if iGold - iCost > 0 and iCost >= 0 then
 					pCity:SetNumRealBuilding(validBuildings[iRandB].ID, 1);
+					print(iGold .. " gold registered, should be " .. pPlayer:GetGold() .. ", difference: " .. (pPlayer:GetGold() - iGold) .. " cost: " .. iCost);
+					
 					pPlayer:SetGold(iGold - iCost);
 					print("Purchasing Building " .. validBuildings[iRandB].ID);
+					print(pPlayer:GetGold() .. " gold detected after purchasing building");
 				end
 			end
 
@@ -1066,6 +1072,13 @@ function UruguayPurchaseOverride(iPlayer)
 
 		--local bCanContinue = true;
 		if iGold > 5000 then
+			local iMax = 20000 + pPlayer:CalculateGrossGold() * 5;
+			if iGold > iMax then
+				print("Found " .. iGold .. ", which is greater than the max of " .. iMax .. " that should be possible.");
+				print("This is most likely caused by a bug that is nearly impossible to fix. Reducing gold to " .. iMax);
+				pPlayer:SetGold(iMax);
+				print(pPlayer:GetGold() .. " gold detected after normalizing treasury");
+			end
 			print("Calling GoldBuyDown");
 			GoldBuyDown(iPlayer, iParty, 5000);
 		end
@@ -1220,6 +1233,12 @@ function UruguayBuildOverride(iPlayer)
 			elseif pPlayer:CanResearch(GameInfoTypes.TECH_WRITING) then
 				--print("Setting research to writing");
 				pPlayer:PushResearch(GameInfoTypes.TECH_WRITING, false);
+			elseif pPlayer:CanResearch(GameInfoTypes.TECH_OPTICS) then
+				--print("Setting research to writing");
+				pPlayer:PushResearch(GameInfoTypes.TECH_OPTICS, false);
+			elseif pPlayer:CanResearch(GameInfoTypes.TECH_ASTRONOMY) then
+				--print("Setting research to writing");
+				pPlayer:PushResearch(GameInfoTypes.TECH_ASTRONOMY, false);
 			end
 
 
@@ -1244,26 +1263,26 @@ function UruguayBuildOverride(iPlayer)
 				--print(iProd .. " production after addition");
 				pCity:SetProduction(0);
 
-				if pCity:CanConstruct(GameInfoTypes.BUILDING_GRANARY) and iCityCount < 14 then
+				if pCity:CanConstruct(GameInfoTypes.BUILDING_GRANARY) and iCityCount < 20 then
 					--print("Checking if can build BUILDING_GRANARY");
 					if iProd >= pPlayer:GetBuildingProductionNeeded(GameInfoTypes.BUILDING_GRANARY) / (1 + pCity:GetBuildingProductionModifier(GameInfoTypes.BUILDING_GRANARY) / 100) then
 						pCity:SetNumRealBuilding(GameInfoTypes.BUILDING_GRANARY, 1);
 						iProd = iProd - pPlayer:GetBuildingProductionNeeded(GameInfoTypes.BUILDING_GRANARY) / (1 + pCity:GetBuildingProductionModifier(GameInfoTypes.BUILDING_GRANARY) / 100);
 					end
-				elseif pCity:CanConstruct(GameInfoTypes.BUILDING_MONUMENT) and iCityCount < 14 then
+				elseif pCity:CanConstruct(GameInfoTypes.BUILDING_MONUMENT) and iCityCount < 20 then
 					--print("Checking if can build BUILDING_MONUMENT");
 					if iProd >= pPlayer:GetBuildingProductionNeeded(GameInfoTypes.BUILDING_MONUMENT) / (1 + pCity:GetBuildingProductionModifier(GameInfoTypes.BUILDING_MONUMENT) / 100) then
 						pCity:SetNumRealBuilding(GameInfoTypes.BUILDING_MONUMENT, 1);
 						iProd = iProd - pPlayer:GetBuildingProductionNeeded(GameInfoTypes.BUILDING_MONUMENT) / (1 + pCity:GetBuildingProductionModifier(GameInfoTypes.BUILDING_MONUMENT) / 100);
 					end
-				elseif pCity:CanTrain(GameInfoTypes.UNIT_SETTLER) and ((iSettlers < 1 and iCityCount < 6) or (Game.GetElapsedGameTurns() > frequency * 5 and iSettlers < 2 and iCityCount < 3)) then
+				elseif pCity:CanTrain(GameInfoTypes.UNIT_SETTLER) and ((iSettlers < 1 and iCityCount < 7) or (Game.GetElapsedGameTurns() > frequency * 5 and iSettlers < 2 and iCityCount < 4)) then
 					--print("Checking if can build UNIT_SETTLER");
 					if iProd >= pPlayer:GetUnitProductionNeeded(GameInfoTypes.UNIT_SETTLER) / (1 + pCity:GetUnitProductionModifier(GameInfoTypes.UNIT_SETTLER) / 100) then
 						pPlayer:InitUnit(GameInfoTypes.UNIT_SETTLER, pCity:GetX(), pCity:GetY());
 						iSettlers = iSettlers + 1;
 						iProd = iProd - (pPlayer:GetUnitProductionNeeded(GameInfoTypes.UNIT_SETTLER) / (1 + pCity:GetUnitProductionModifier(GameInfoTypes.UNIT_SETTLER) / 100));
 					end
-				elseif pCity:CanConstruct(GameInfoTypes.BUILDING_LIBRARY) and iCityCount < 10 then
+				elseif pCity:CanConstruct(GameInfoTypes.BUILDING_LIBRARY) and iCityCount < 20 then
 					--print("Checking if can build BUILDING_LIBRARY");
 					if iProd >= pPlayer:GetBuildingProductionNeeded(GameInfoTypes.BUILDING_LIBRARY) / (1 + pCity:GetBuildingProductionModifier(GameInfoTypes.BUILDING_LIBRARY) / 100) then
 						pCity:SetNumRealBuilding(GameInfoTypes.BUILDING_LIBRARY, 1);
@@ -1336,7 +1355,7 @@ function UruguayBuildOverride(iPlayer)
 									iWeight = (iWeight + GameInfo.Units[iUnit].RangedCombat) / 2;
 								end
 								if iUnit == iCascosUnit then
-									iWeight = iWeight * 3;
+									iWeight = iWeight * 4;
 								end
 								pWeights[i] = iWeight;
 								iTotalWeight = iTotalWeight + iWeight;
