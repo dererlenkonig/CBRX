@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 5/30/2015 10:03:44 AM -->
+<GameData>
+	<Language_en_US>
+		<!--TRIBUTARY_EMPIRE-->
+		<Row Tag="TXT_KEY_TRAIT_JFD_OTTOMAN_SHORT">
+			<Text>Tributary Empire</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_JFD_OTTOMAN">
+			<Text>Internal Trade Routes produce +33% more [ICON_FOOD] Food and [ICON_PRODUCTION] Production. Puppets connected via Internal Trade Route yield +4 [ICON_GOLD] Gold and an additional +5 [ICON_PEACE] Faith if following a different religion than your Capital.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_JFD_OTTOMAN_PIETY">
+			<Text>Internal Trade Routes produce +33% more [ICON_FOOD] Food and [ICON_PRODUCTION] Production. Puppets connected via Internal Trade Route yield +4 [ICON_GOLD] Gold and an additional +5 [ICON_PEACE] Faith if following a different religion than your State Religion.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_OTTOMAN_GOLD_FROM_PUPPETS">
+			<Text>[TAB]{1_Num} from [ICON_SWAP] Trade Routes between your cities and your [ICON_PUPPET] Puppets.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_OTTOMAN_FAITH_FROM_PUPPETS">
+			<Text>[COLOR_POSITIVE_TEXT]+{1_Num}[ENDCOLOR] from [ICON_SWAP] Trade Routes between your cities and your [ICON_PUPPET] puppets.</Text>
+		</Row>
+		<!--HAMMAM-->
+		<Row Tag="TXT_KEY_BUILDING_JFD_HAMMAM">
+			<Text>Hammam</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_JFD_HAMMAM_HELP">
+			<Text>10% of [ICON_FOOD] Food is carried over after a new [ICON_CITIZEN] Citizen is born. +25% [ICON_GREAT_PEOPLE] Great People generation in this City.[NEWLINE][NEWLINE]City must be built next to a River or Lake.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_JFD_HAMMAM_STRATEGY">
+			<Text>Like the Garden, the unique Ottoman Hammam increases the speed at which [ICON_GREAT_PEOPLE] Great People are generated. In addition, however, it decreases the amount of [ICON_FOOD] Food a city needs to increase in size by 10% and provides a small boost in [ICON_HAPPINESS_1] Happiness. Hammams can be constructed only in cities next to a river or lake.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_HAMMAM_TEXT">
+			<Text>Cleanliness was extremely important in Ottoman culture. Before modern plumbing, the Ottomans constructed communal steam baths ("hammams") throughout their major cities. In early times many of these were attached to mosques - ritual cleanliness played an important part in the Ottoman religious beliefs - in later periods they evolved into separate buildings and eventually, into enormous complexes of buildings.</Text>
+		</Row>
+		<!--SIPAHI-->
+		<Row Tag="TXT_KEY_UNIT_HELP_JFD_SIPAHI">
+			<Text>Mounted Unit specialized in defeating enemy Gunpowder Units. May only be trained by the Ottomans. This Unit is faster and can see further than the Lancer, which it replaces.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_OTTOMAN_JFD_SIPAHI_STRATEGY">
+			<Text>The Sipahi is the Ottoman unique unit, replacing the Lancer. The Sipahi is much faster and can see one hex farther than the Lancer, although it shares the Lancer's weaknesses on defense. The Sipahi can pillage enemy improvements at no additional cost and gains a bonus against Gunpowder Units. It can be upgraded into the Cavalry.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_JFD_SIPAHI">
+			<Text>Bonus vs. Gunpowder (25)</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_JFD_SIPAHI_HELP">
+			<Text>+25% [ICON_STRENGTH] Combat Strength vs. Gunpowder Units.</Text>
+		</Row>
+		<!--DECISIONS-->
+		<!--Commission Decorated Tughra-->
+		<Replace Tag="TXT_KEY_DECISIONS_JFD_OTTOMAN_COMMISSION_DECORATED_TUGHRA">
+			<Text>Commission Decorated Tughra</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_DECISIONS_JFD_OTTOMAN_COMMISSION_DECORATED_TUGHRA_DESC">
+			<Text>It is the charge of the Sultan to ensure that his reign is well regarded. And so we must commission a most decorated and elaborate Tughra to befit the glory of our rule.
+				[NEWLINE]-------------------------
+				[NEWLINE][COLOR_POSITIVE_TEXT]Requirements:[ENDCOLOR]
+				[NEWLINE]-------------------------
+				[NEWLINE][ICON_BULLET]Player must be the Ottomans.
+				[NEWLINE][ICON_BULLET]May only be enacted from the beginning of the Renaissance Era.
+				[NEWLINE][ICON_BULLET]May only be enacted once per game.
+				[NEWLINE]-------------------------
+				[NEWLINE][COLOR_POSITIVE_TEXT]Costs:[ENDCOLOR]
+				[NEWLINE]-------------------------
+				[NEWLINE][ICON_BULLET]{1_Num} [ICON_GOLD] Gold.
+				[NEWLINE]-------------------------
+				[NEWLINE][COLOR_POSITIVE_TEXT]Rewards:[ENDCOLOR]
+				[NEWLINE]-------------------------
+				[NEWLINE][ICON_BULLET]Gain a free Great Artist.
+				[NEWLINE][ICON_BULLET]1 [ICON_MAGISTRATES] Magistrates.
+			</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_DECISIONS_JFD_OTTOMAN_COMMISSION_DECORATED_TUGHRA_ENACTED_DESC">
+			<Text>It is the charge of the Sultan to ensure that his reign is well regarded. And so we must commission a most decorated and elaborate Tughra to befit the glory of our rule.
+				[NEWLINE]-------------------------
+				[NEWLINE][COLOR_POSITIVE_TEXT]Rewards:[ENDCOLOR]
+				[NEWLINE]-------------------------
+				[NEWLINE][ICON_BULLET]Gain a free Great Artist.
+				[NEWLINE][ICON_BULLET]1 [ICON_MAGISTRATES] Magistrates.
+			</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_UNIT_DECISIONS_JFD_OTTOMAN_CALLIGRAPHER">
+			<Text>Great Artist</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_GREAT_PERSON_JFD_OTTOMAN_CALLIGRAPHER_DESC">
+			<Text>Nisanci</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_GREAT_WORK_JFD_SULEIMAN_TUGHRA">
+			<Text>Tughra of Suleiman the Magnificent</Text>
+		</Replace>
+	</Language_en_US>
+</GameData>

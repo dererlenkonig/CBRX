@@ -1,0 +1,112 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mod id="26a636b9-5290-4a2b-9b96-b0eb9e49be83" version="5">
+  <Properties>
+    <Name>JFD's Civilizations - The Turks (Mehmed II) for CBR X</Name>
+    <Teaser>Adds the [COLOR_POSITIVE_TEXT]The Turks[ENDCOLOR] under Mehmed II to the game.</Teaser>
+    <Description>------------------------------------[NEWLINE]CIVILIZATION - THE TURKS[NEWLINE]LEADER - MEHMED II[NEWLINE][NEWLINE]TRAIT - TRIBUTE IN BLOOD[NEWLINE]Receive a free Infantry Unit upon capturing an enemy city for the first time. Military Land Units yield +1 [ICON_HAPPINESS_1] Happiness when garrisoned.[NEWLINE][NEWLINE]UNIQUE UNIT - GREAT BOMBARD (CANNON)[NEWLINE]Renaissance era Siege Unit. Only the Ottomans under Mehmed II may train it. Has one additional range over the Cannon and a significantly larger bonus against Cities, but is inherently weaker. Unlocks earlier but is more costly to produce.[NEWLINE][NEWLINE]UNIQUE UNIT - JANISSARY (MUSKETMAN)[NEWLINE]One of the earliest gunpowder units. Only the Turks  may train it. This Unit is stronger on offense and heals when it kills an enemy, unlike the Musketman that it replaces.[NEWLINE][NEWLINE]------------------------------------[NEWLINE]CIVILIZATION - THE OTTOMANS[NEWLINE]LEADER - SULEIMAN[NEWLINE][NEWLINE]TRAIT - TRIBUTARY EMPIRE[NEWLINE]Internal Trade Routes produce +33% more [ICON_FOOD] Food and [ICON_PRODUCTION] Production. Puppets connected via Internal Trade Route yield +4 [ICON_GOLD] Gold and an additional +5 [ICON_PEACE] Faith if following a different religion than your State Religion.[NEWLINE][NEWLINE]UNIQUE BUILDING - HAMMAM (GARDEN)[NEWLINE]10% of [ICON_FOOD] Food is carried over after a new [ICON_CITIZEN] Citizen is born. +25% [ICON_GREAT_PEOPLE] Great People generation in this City. City must be built next to a River or Lake.[NEWLINE][NEWLINE]UNIQUE UNIT - SIPAHI (LANCER))[NEWLINE][NEWLINE]Mounted Unit specialized in defeating enemy Gunpowder Units. May only be built by the Ottomans under Suleiman. This Unit is faster and can see further than the Lancer, which it replaces.</Description>
+    <Authors>JFD, Janboruta</Authors>
+    <SpecialThanks>Kesler, Lacsirax Ariscal</SpecialThanks>
+    <HideSetupGame>0</HideSetupGame>
+    <AffectsSavedGames>1</AffectsSavedGames>
+    <MinCompatibleSaveVersion>0</MinCompatibleSaveVersion>
+    <SupportsSinglePlayer>1</SupportsSinglePlayer>
+    <SupportsMultiplayer>1</SupportsMultiplayer>
+    <SupportsHotSeat>1</SupportsHotSeat>
+    <SupportsMac>1</SupportsMac>
+    <ReloadAudioSystem>1</ReloadAudioSystem>
+    <ReloadLandmarkSystem>0</ReloadLandmarkSystem>
+    <ReloadStrategicViewSystem>1</ReloadStrategicViewSystem>
+    <ReloadUnitSystem>1</ReloadUnitSystem>
+  </Properties>
+  <Dependencies>
+    <Dlc id="6DA07636-4123-4018-B643-6575B4EC336B" minversion="0" maxversion="999" />
+  </Dependencies>
+  <References>
+    <Mod id="31a31d1c-b9d7-45e1-842c-23232d66cd47" minversion="0" maxversion="999" title="JFD's Cultural Diversity (Core)" />
+    <Mod id="eea66053-7579-481a-bb8d-2f3959b59974" minversion="0" maxversion="999" title="JFD’s Rise to Power" />
+    <Mod id="1f941088-b185-4159-865c-472df81247b2" minversion="0" maxversion="999" title="Sukritact’s Events and Decisions" />
+    <Mod id="36e88483-48fe-4545-b85f-bafc50dde315" minversion="0" maxversion="999" title="Yet (not) Another Earth Map Pack" />
+    <Mod id="e576894a-ed2b-4033-be14-ed1c8ceb81d3" minversion="0" maxversion="999" title="Map Labels" />
+    <Mod id="7fdd72a5-d4ae-441c-bc4e-2e3d2a26cff4" minversion="0" maxversion="999" title="Ethnic Units" />
+    <Mod id="8670da15-d435-44ea-9758-7438cb321411" minversion="0" maxversion="999" title="R.E.D. Modpack" />
+    <Mod id="d1b6328c-ff44-4b0d-aad7-c657f83610cd" minversion="0" maxversion="999" title="Community Patch" />
+    <Mod id="1153b26a-69fd-4cd5-899c-a8ba8e0e5e5d" minversion="0" maxversion="999" title="Civ IV Leader Traits in Civ V" />
+    <Mod id="8411a7a8-dad3-4622-a18e-fcc18324c799" minversion="0" maxversion="999" title="Community Balance Patch" />
+  </References>
+  <Blocks />
+  <Files>
+    <File md5="3AEFACCEAFFB412D0537D282ACEE5039" import="1">Art/Graphics/Bombard/Bombard.fxsxml</File>
+    <File md5="6B4998B63948B671F810B6C3DCEAE04E" import="1">Art/Graphics/Bombard/Bombard.gr2</File>
+    <File md5="4DA2B4CAAE9C895CDFCD92F3EDD41D0D" import="1">Art/Graphics/Bombard/bombard_crew_diff.dds</File>
+    <File md5="0B1534B32C405A3EE4B9D784471DA90B" import="1">Art/Graphics/Bombard/Bombard_diff.dds</File>
+    <File md5="B72AF20074CF79CA94D5327FDDC096CC" import="1">Art/Graphics/Bombard/Bombard_sref.dds</File>
+    <File md5="AE80A76BAE9DE2C0E8EAA52873951B8B" import="1">Art/Graphics/Bombard/sv_GreatBombard.dds</File>
+    <File md5="52C8FF6A652C4DC407FDA6E7C93CCE2E" import="1">Art/IconAtlas/JFD_TurksFlagAtlas_32.dds</File>
+    <File md5="0D1FE207D663F3C0BAE5FC8474523C5A" import="1">Art/IconAtlas/JFD_TurksAlphaAtlas_128.dds</File>
+    <File md5="C7BF0760F86E528CC90806401A240EA9" import="1">Art/IconAtlas/JFD_TurksAlphaAtlas_16.dds</File>
+    <File md5="FA0A2DCFEB867417631E15876FAB786D" import="1">Art/IconAtlas/JFD_TurksAlphaAtlas_22.dds</File>
+    <File md5="1E7AAB14B5FEAA0EDFE7CC7E65EB58B0" import="1">Art/IconAtlas/JFD_TurksAlphaAtlas_24.dds</File>
+    <File md5="5AA6A47EEDD8CB0107C1BDCED6808980" import="1">Art/IconAtlas/JFD_TurksAlphaAtlas_256.dds</File>
+    <File md5="4B2EA1BCE0621F7CC6416070B101CFED" import="1">Art/IconAtlas/JFD_TurksAlphaAtlas_32.dds</File>
+    <File md5="54FA99BB5EE630A08DC550FCF5175AA1" import="1">Art/IconAtlas/JFD_TurksAlphaAtlas_45.dds</File>
+    <File md5="5646170C06EFA209FCD66238DA926CEF" import="1">Art/IconAtlas/JFD_TurksAlphaAtlas_48.dds</File>
+    <File md5="343E2EC4D4AFD51B46F15A1BD6281199" import="1">Art/IconAtlas/JFD_TurksAlphaAtlas_64.dds</File>
+    <File md5="CB85B8A648C1E738C920A7D9B37F4C35" import="1">Art/IconAtlas/JFD_TurksAlphaAtlas_80.dds</File>
+    <File md5="78A611B9A6034B592064072C03AF2EA2" import="1">Art/IconAtlas/JFD_TurksAtlas_128.dds</File>
+    <File md5="5573A4D71C2C9E02EF6C7C39BA0ACC20" import="1">Art/IconAtlas/JFD_TurksAtlas_256.dds</File>
+    <File md5="67A10FA568BE05E6A414AF18D239692C" import="1">Art/IconAtlas/JFD_TurksAtlas_32.dds</File>
+    <File md5="8A977A8AD91D7A098F8236E06A7D9850" import="1">Art/IconAtlas/JFD_TurksAtlas_45.dds</File>
+    <File md5="AEA5E5A2599E0A4122A9B8403E7F361C" import="1">Art/IconAtlas/JFD_TurksAtlas_64.dds</File>
+    <File md5="A349B043F4128BC0200BA246D1528ADC" import="1">Art/IconAtlas/JFD_TurksAtlas_80.dds</File>
+    <File md5="9F749B66DD8F43E0F26A48C5CD278324" import="1">Art/Images/gw_suleiman_signature.dds</File>
+    <File md5="4BF4FB09E15B80DD1E068B52D272B72F" import="1">Art/Leaderscene/JFD_MehmedII_Diplo.dds</File>
+    <File md5="232B8E45EC46BF057714267C1EE4A9BF" import="1">Art/Leaderscene/JFD_MehmedII_Scene.xml</File>
+    <File md5="A1D385EFB22AA47718ABD29ED79E40FB" import="1">Art/Map/MapTurks512.dds</File>
+    <File md5="79C4DE0F21F871D4F469D3E60C9A642D" import="1">Art/Map/DOM_Turks.dds</File>
+    <File md5="D56100C038591F638E9A91EC473AE312" import="1">Audio/Buildings/Hammam.mp3</File>
+    <File md5="1233F8D82353FE6DA75C6DF51F31EC31" import="1">Audio/Themes/MehmedII_Peace.mp3</File>
+    <File md5="917C350B0F05BD4B52631281C159C0BD" import="1">Audio/Themes/MehmedII_War.mp3</File>
+    <File md5="BA3EB8D081FFF5D40D88FE1B7CD691E0" import="0">Core/Ottomans_ArtDefines.sql</File>
+    <File md5="0CACE5FEA8FC481403D7699079D6AADB" import="0">Core/Ottomans_GameDefines.sql</File>
+    <File md5="1D04651FB451BB6CBDD84B25387E0A51" import="0">Core/Ottomans_GameText.xml</File>
+    <File md5="1650A0D1F2E702053FF3A272CFDAF5A3" import="0">Core/Ottomans_ModSupport.sql</File>
+    <File md5="BE66B83F1DAC93102517A4DE7BD11334" import="0">Core/Turks_ArtDefines.sql</File>
+    <File md5="4911D3429FC911A80056F9713E51C18B" import="0">Core/Turks_GameDefines.sql</File>
+    <File md5="29219AAE60AAA7B103FC2BF6EF92824E" import="0">Core/Turks_ModSupport.sql</File>
+    <File md5="DE6AE6E354806819DAEEFD1308129A7D" import="0">Core/Turks_GameText.xml</File>
+    <File md5="D40D91CDF30E325963DE43BB13FBCB27" import="0">Credits.txt</File>
+    <File md5="DF37BB06D21A73C97ADEF70C53187E46" import="0">JFD_UserSettings.sql</File>
+    <File md5="67A6DBCB7C25F60ADAE50572CFBBB95F" import="1">Lua/JFD_Ottomans_Decisions.lua</File>
+    <File md5="2B1A0DAD69AB6A22D6EA94269E0CE069" import="0">Lua/JFD_Ottomans_Functions.lua</File>
+    <File md5="6CD844F1D8BE50D775F24B9553BA8846" import="1">Lua/JFD_Turks_Decisions.lua</File>
+    <File md5="5DE47C14384988A30A776400A62DCF96" import="0">Lua/JFD_Turks_Events.lua</File>
+    <File md5="06BF840DA54A041B695D332A1F4D95A2" import="0">Lua/JFD_Turks_Functions.lua</File>
+    <File md5="3AD9296977460161D88F98E2F0970357" import="1">Lua/Utilities/JFD DTP/JFD_Ottomans_DTP.lua</File>
+    <File md5="D37AFAFA5E9A6D14230A401977CC01E7" import="0">RandomSupport.txt</File>
+  </Files>
+  <Actions>
+    <OnModActivated>
+      <UpdateDatabase>JFD_UserSettings.sql</UpdateDatabase>
+      <UpdateDatabase>Core/Ottomans_ArtDefines.sql</UpdateDatabase>
+      <UpdateDatabase>Core/Ottomans_GameDefines.sql</UpdateDatabase>
+      <UpdateDatabase>Core/Ottomans_ModSupport.sql</UpdateDatabase>
+      <UpdateDatabase>Core/Ottomans_GameText.xml</UpdateDatabase>
+      <UpdateDatabase>Core/Turks_ArtDefines.sql</UpdateDatabase>
+      <UpdateDatabase>Core/Turks_GameDefines.sql</UpdateDatabase>
+      <UpdateDatabase>Core/Turks_ModSupport.sql</UpdateDatabase>
+      <UpdateDatabase>Core/Turks_GameText.xml</UpdateDatabase>
+    </OnModActivated>
+  </Actions>
+  <EntryPoints>
+    <EntryPoint type="InGameUIAddin" file="Lua/JFD_Turks_Functions.lua">
+      <Name>JFD_Turk_Functions</Name>
+      <Description>
+      </Description>
+    </EntryPoint>
+    <EntryPoint type="InGameUIAddin" file="Lua/JFD_Ottomans_Functions.lua">
+      <Name>JFD_Ottomans_Functions</Name>
+      <Description>
+      </Description>
+    </EntryPoint>
+  </EntryPoints>
+</Mod>
