@@ -1,0 +1,72 @@
+TraitBasedLua = 'TRUE';
+
+OVERRIDE_AUTO  = { 
+	CIVILIZATIONS = {
+		CIVILIZATION = {
+			Civilization = 'CIVILIZATION_JFD_TURKS';
+			Leader = 'LEADER_JFD_MEHMED_II';
+		};
+	};
+
+	MOD_SUPPORT = {
+		Civ4Traits = {
+			LEADER_JFD_MEHMED_II = {
+				Leader 	= 	'LEADER_JFD_MEHMED_II';
+				LeaderTXT	=	'Mehmed II ';
+			};
+		};
+	};
+
+	COMPONENTS = {
+		COMPONENT = {
+			Type = 'UNIT_JFD_BOMBARD';
+			Class = 'UNITCLASS_CANNON';
+		};
+		COMPONENT = {
+			Type = 'UNIT_OTTOMAN_JANISSARY';
+			Class = 'UNITCLASS_MUSKETMAN';
+		};
+	};
+
+	TRAITS = {
+		TRAIT = {
+			Type = 'TRAIT_JFD_TURKS';
+		};
+	};
+};
+
+
+OVERRIDE_AUTO  = { 
+	CIVILIZATIONS = {
+		CIVILIZATION = {
+			Civilization = 'CIVILIZATION_OTTOMAN';
+			Leader = 'LEADER_SULEIMAN';
+		};
+	};
+
+	MOD_SUPPORT = {
+		Civ4Traits = {
+			LEADER_SULEIMAN = {
+				Leader 	= 	'LEADER_SULEIMAN';
+				LeaderTXT	=	'Suleiman ';
+			};
+		};
+	};
+
+	COMPONENTS = {
+		COMPONENT = {
+			Type = 'UNIT_OTTOMAN_SIPAHI';
+			Class = 'UNITCLASS_LANCER';
+		};
+		COMPONENT = {
+			Type = 'BUILDING_JFD_HAMMAM';
+			Class = 'BUILDINGCLASS_GARDEN';
+		};
+	};
+
+	TRAITS = {
+		TRAIT = {
+			Type = 'TRAIT_JFD_OTTOMAN';
+		};
+	};
+};
