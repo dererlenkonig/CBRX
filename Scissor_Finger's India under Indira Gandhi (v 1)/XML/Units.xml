@@ -12,7 +12,7 @@
 			<Cost>375</Cost>
 			<FaithCost>0</FaithCost>
 			<RequiresFaithPurchaseEnabled>0</RequiresFaithPurchaseEnabled>
-			<Moves>6</Moves>
+			<Moves>2</Moves>
 			<Immobile>0</Immobile>
 			<Range>0</Range>
 			<BaseSightRange>2</BaseSightRange>
@@ -133,7 +133,7 @@
 		</Row>
 		<Row>
 			<UnitType>UNIT_GARUDA_TROOPERS</UnitType>
-			<PromotionType>PROMOTION_PRIZE_SHIPS</PromotionType>
+			<PromotionType>PROMOTION_PARADROP</PromotionType>
 		</Row>
 		<Row>
 			<UnitType>UNIT_GARUDA_TROOPERS</UnitType>
