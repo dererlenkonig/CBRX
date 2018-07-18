@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mod id="5fcd61ba-4ad5-40d7-a3a9-0b03b94d6e62" version="2">
+  <Properties>
+    <Name>Wat Phra Kaew</Name>
+    <Teaser>One of the most important Buddhist temples in Thailand, the Wat Phra Kaew is located in the historic center of Bangkok.</Teaser>
+    <Description>One of the most important Buddhist temples in Thailand, the Wat Phra Kaew is located in the historic center of Bangkok, within the grounds of the Grand Palace; it enshrines the Emerald Buddha, an image of the Buddha meticulously carved from a single block of jade. The Wat Phra Kaew was built in 1785, when the capital was moved by King Buddha Yodfa Chulaloke (Rama I) from Thonburi to Bangkok. Ingame the Wat Phra Kaew provides +2  Science on all religious buildings, in addition to providing +3  Science itself and +20% Science in the city it is built in. Unlocked at Archaeology.</Description>
+    <Authors>Sukritact</Authors>
+    <HideSetupGame>0</HideSetupGame>
+    <AffectsSavedGames>0</AffectsSavedGames>
+    <SupportsSinglePlayer>1</SupportsSinglePlayer>
+    <SupportsMultiplayer>1</SupportsMultiplayer>
+    <SupportsHotSeat>1</SupportsHotSeat>
+    <SupportsMac>1</SupportsMac>
+    <ReloadLandmarkSystem>0</ReloadLandmarkSystem>
+    <ReloadStrategicViewSystem>0</ReloadStrategicViewSystem>
+    <ReloadUnitSystem>0</ReloadUnitSystem>
+  </Properties>
+  <Dependencies>
+    <Dlc id="0E3751A1-F840-4e1b-9706-519BF484E59D" minversion="0" maxversion="999" />
+  </Dependencies>
+  <References />
+  <Blocks />
+  <Files>
+    <File md5="EF22576649C0CB22F95743E1E7DB129D" import="1">Art/WatPhraKaew_icon128.dds</File>
+    <File md5="D2FE060EF274FBB7C208FCA4AE14D1CA" import="1">Art/WatPhraKaew_icon256.dds</File>
+    <File md5="9D137CE411C1DF82A72E2A31A3020A3C" import="1">Art/WatPhraKaew_icon45.dds</File>
+    <File md5="018F557D8D5836CC20598097509EA1C5" import="1">Art/WatPhraKaew_icon64.dds</File>
+    <File md5="E3FC31208FA9CA9D4016E634B7BDF50D" import="1">Art/WatPhraKaew_icon80.dds</File>
+    <File md5="127B9C1E76076CE2E3744B53128B1030" import="1">Art/WatPhraKaew_splash.dds</File>
+    <File md5="4055CFDADCCE846D92B698CB69D72FAB" import="0">XML/Buildings/WatPhraKaew_BuildingClasses.xml</File>
+    <File md5="074261B2E72B5C717110000A65D7B9AE" import="0">XML/Buildings/WatPhraKaew_Buildings.xml</File>
+    <File md5="2EAAC084D375B3750B67EF17B3F739F6" import="0">XML/CIvilizations/WatPhraKaew_Civilizations.xml</File>
+    <File md5="4FD5BABD0ACB70528F9642646B04590F" import="0">XML/GameInfo/WatPhraKaew_IconTextureAtlases.xml</File>
+    <File md5="6744E917C4ADB46DC7B78525316E2588" import="0">XML/Text/WatPhraKaew_text_EN_US.xml</File>
+  </Files>
+  <Actions>
+    <OnModActivated>
+      <UpdateDatabase>XML/Buildings/WatPhraKaew_Buildings.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Buildings/WatPhraKaew_BuildingClasses.xml</UpdateDatabase>
+      <UpdateDatabase>XML/CIvilizations/WatPhraKaew_Civilizations.xml</UpdateDatabase>
+      <UpdateDatabase>XML/GameInfo/WatPhraKaew_IconTextureAtlases.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Text/WatPhraKaew_text_EN_US.xml</UpdateDatabase>
+    </OnModActivated>
+  </Actions>
+</Mod>

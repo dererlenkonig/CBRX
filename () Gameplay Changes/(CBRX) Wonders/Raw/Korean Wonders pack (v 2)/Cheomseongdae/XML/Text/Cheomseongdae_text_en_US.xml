@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<Language_en_US>
+		<!-- Description tags -->
+		<Row Tag="TXT_KEY_BUILDING_CHEOMSEONGDAE">
+			<Text>Cheomseongdae</Text>
+		</Row>
+		<!-- Help tags -->
+		<Row Tag="TXT_KEY_WONDER_CHEOMSEONGDAE_HELP">
+			<Text>+1 [ICON_SCIENCE] Science for every 3 [ICON_CITIZENS] Citizens in this city.[NEWLINE][COLOR_WARNING_TEXT]Masonry is also required[ENDCOLOR]</Text>
+		</Row>
+		<!-- Quote tags -->
+		<Row Tag="TXT_KEY_WONDER_CHEOMSEONGDAE_QUOTE">
+			<Text>[NEWLINE]"Do not try to cover the whole sky with the palm of your hand". "[NEWLINE] - Korean Proverb[NEWLINE]</Text>
+		</Row>
+		<!-- Pedia tags -->
+		<Row Tag="TXT_KEY_WONDER_CHEOMSEONGDAE_PEDIA">
+			<Text>Cheomseongdae is one of the oldest Astronomical structures on Earth, and the oldest in East Asia. It is located in Gyenongju, South Korea, and dates back to the 7th century CE. It was built during the reign of Queen Seondeok in the capital of the time, before it was moved to Seoul. [NEWLINE][NEWLINE]According to some scholars, Cheomseongdae is not at all an astronomical facility, and instead served a function which today falls under the category of Astrology. At the time, however, the two fields were vitrually indistinguishable. </Text>
+		</Row>
+	</Language_en_US>
+</GameData>

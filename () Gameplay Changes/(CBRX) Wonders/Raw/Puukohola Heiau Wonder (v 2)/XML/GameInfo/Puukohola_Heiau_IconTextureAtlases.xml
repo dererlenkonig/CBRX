@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<IconTextureAtlases>
+		<Row>
+			<Atlas>BW_ATLAS_PUUKOHOLA_HEIAU</Atlas>
+			<IconSize>256</IconSize>
+			<Filename>PUUKOHOLA_HEIAU_icon256.dds</Filename>
+			<IconsPerRow>1</IconsPerRow>
+			<IconsPerColumn>1</IconsPerColumn>
+		</Row>
+		<Row>
+			<Atlas>BW_ATLAS_PUUKOHOLA_HEIAU</Atlas>
+			<IconSize>128</IconSize>
+			<Filename>PUUKOHOLA_HEIAU_icon128.dds</Filename>
+			<IconsPerRow>1</IconsPerRow>
+			<IconsPerColumn>1</IconsPerColumn>
+		</Row>
+		<Row>
+			<Atlas>BW_ATLAS_PUUKOHOLA_HEIAU</Atlas>
+			<IconSize>64</IconSize>
+			<Filename>PUUKOHOLA_HEIAU_icon64.dds</Filename>
+			<IconsPerRow>1</IconsPerRow>
+			<IconsPerColumn>1</IconsPerColumn>
+		</Row>
+		<Row>
+			<Atlas>BW_ATLAS_PUUKOHOLA_HEIAU</Atlas>
+			<IconSize>80</IconSize>
+			<Filename>PUUKOHOLA_HEIAU_icon80.dds</Filename>
+			<IconsPerRow>1</IconsPerRow>
+			<IconsPerColumn>1</IconsPerColumn>
+		</Row>
+		<Row>
+			<Atlas>BW_ATLAS_PUUKOHOLA_HEIAU</Atlas>
+			<IconSize>45</IconSize>
+			<Filename>PUUKOHOLA_HEIAU_icon45.dds</Filename>
+			<IconsPerRow>1</IconsPerRow>
+			<IconsPerColumn>1</IconsPerColumn>
+		</Row>
+	</IconTextureAtlases>
+</GameData>

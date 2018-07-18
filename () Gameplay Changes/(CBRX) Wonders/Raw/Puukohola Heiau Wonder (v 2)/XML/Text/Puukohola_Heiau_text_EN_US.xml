@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<Language_en_US>
+		<!-- Description tags -->
+		<Row Tag="TXT_KEY_BUILDING_PUUKOHOLA_HEIAU">
+			<Text>Pu'ukohola Heiau</Text>
+		</Row>
+		<!-- Help tags -->
+		<Row Tag="TXT_KEY_WONDER_PUUKOHOLA_HEIAU_HELP">
+			<Text>+20 XP for each land and sea unit trained in this city. Land units trained in this city recieve the Amphibious promotion. +3 [ICON_PEACE] Faith from all Sea resources worked by the city. City must be be built next to the coast</Text>
+		</Row>
+		<!-- Quote tags -->
+		<Row Tag="TXT_KEY_WONDER_PUUKOHOLA_HEIAU_QUOTE">
+			<Text>
+				[NEWLINE]"A heavenly nature; an earthly nature"[NEWLINE] - King Kamehameha I[NEWLINE]</Text>
+		</Row>
+		<!-- Pedia tags -->
+		<Row Tag="TXT_KEY_WONDER_PUUKOHOLA_HEIAU_PEDIA">
+			<Text>One of the last surviving early Hawaiian temples, Pu'ukohola Heiau is a large construction located on the Northwest coast of the island of Hawai'i, also known as 'The Big Island'. It predates the unification of Hawaii, and was constructed under the advice of a prominent Kahuna (Priest) following eight months of inconclusive battles. Pu'ukohola Heiau, in the hope of changing Kamehameha's fate, was dedicated to Kū-ka-ili-moku, the Hawaiian god of War. The temple was hand built by rocks which were transported via a human chain reported to have been around 25 kilometres (14 miles) long from a valley to the East where the rocks were sourced. It was constructed entirely from hand, and took in total less than a year to construct. In 1791 the temple was finished, and Kamehameha invited his cousin to the site under the premice of a Peace Treaty. When his party arrived, they were all killed in such a way that the event is now known as the Slaughter at Kawaihae. </Text>
+		</Row>
+	</Language_en_US>
+</GameData>
