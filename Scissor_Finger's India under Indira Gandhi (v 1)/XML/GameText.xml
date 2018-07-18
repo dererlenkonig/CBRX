@@ -1,0 +1,249 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 5/9/2018 8:08:31 PM -->
+<GameData>
+	<Language_en_US>
+		<Row Tag="TXT_KEY_TRAIT_THE_EMERGENCY">
+			<Text>The construction of buildings within the capital causes every city connected to the capital to enter resistance for 3 turns in exchange for all their outputs to be doubled for 8 turns after.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_THE_EMERGENCY_SHORT">
+			<Text>The Emergency</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_POKHRAN_LAB">
+			<Text>Pokhran Lab</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_BUILDINGS_POKHRAN_LAB_TEXT">
+			<Text>In order to get around the restrictions on buying Uranium, Indira Gandhi decided to establish laboratories at Pokhran to help gather Uranium discretely to build nukes.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_POKHRAN_LAB_STRATEGY">
+			<Text>The Pokhran Lab is a Modern-era building unique to India, replacing the Research Lab. In addition to +4 [ICON_RESEARCH] and a 50% [ICON_RESEARCH] production, the city it is built it in recieves 1 [RES_URANIUM] for each Desert Hill tile worked by the city and a 75% reduction in nuke production cost.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_HELP_POKHRAN_LAB">
+			<Text>The Pokhran Lab is a Modern-era building unique to India, replacing the Research Lab. In addition to +4 [ICON_RESEARCH] and a 50% [ICON_RESEARCH] production, the city it is built it in recieves 1 [RES_URANIUM] for each Desert Hill tile worked by the city and a 75% reduction in nuke production cost.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_SCISSOR_INDIRA">
+			<Text>INDIRA: Dummy Things</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_GARUDA_TROOPERS">
+			<Text>Garuda Troopers</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_UNITS_ATOMIC_GARUDA_TROOPERS_TEXT">
+			<Text>TEMPORARY Garuda Troopers PEDIA ENTRY</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_GARUDA_TROOPERS_STRATEGY">
+			<Text>Replaces Paratrooper. Slightly more expensive. When adjacent to another Garuda Trooper, each trooper regains 15 health per turn. When garrisoned in a city with a capital connection, that city provides 1 Uranium.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_HELP_GARUDA">
+			<Text>Replaces Paratrooper. Slightly more expensive. When adjacent to another Garuda Trooper, each trooper regains 15 health per turn. When garrisoned in a city with a capital connection, that city provides 1 Uranium.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_INDIRA_GANDHI_DESC">
+			<Text>India</Text>
+			<Gender>neuter:an</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_INDIRA_GANDHI_FACTOID_HEADING">
+			<Text>Factoids</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_INDIRA_GANDHI_FACTOID_TEXT">
+			<Text>Was the first female Prime Minister of India and kickstarted India's nuclear program</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_INDIRA_GANDHI_HEADING_1">
+			<Text>History</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_INDIRA_GANDHI_HEADING_10">
+			<Text>The rise of the Indian hegemon in South Asia</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_INDIRA_GANDHI_HEADING_11">
+			<Text>The Emergency</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_INDIRA_GANDHI_HEADING_12">
+			<Text>The 1971 War and Sikh Riots</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_INDIRA_GANDHI_HEADING_13">
+			<Text>Assasination</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_INDIRA_GANDHI_TEXT_1">
+			<Text>
+				<!-- Add Civilopedia text here -->
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_INDIRA_GANDHI_TEXT_10">
+			<Text>
+				<!-- Add Civilopedia text here -->
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_INDIRA_GANDHI_TEXT_11">
+			<Text>
+				<!-- Add Civilopedia text here -->
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_INDIRA_GANDHI_TEXT_12">
+			<Text>
+				<!-- Add Civilopedia text here -->
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_INDIRA_GANDHI_TEXT_13">
+			<Text>
+				<!-- Add Civilopedia text here -->
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_INDIRA_GANDHI_TITLE">
+			<Text>India</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_INDIRA_GANDHI_SHORT_DESC">
+			<Text>India</Text>
+			<Gender>neuter:an</Gender>
+			<Plurality>2</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_INDIRA_GANDHI_ADJECTIVE">
+			<Text>Indian</Text>
+			<Gender>neuter:an</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_DAWN_INDIRA_GANDHI_TEXT">
+			<Text>As the first female  Prime Minister of India, Indira Gandhi was known for her political ruthlessness and unprecedented centralisation of power. She went to war with Pakistan in support of the independence movement and war of independence in East Pakistan, which resulted in an Indian victory and the creation of Bangladesh, as well as increasing India's influence to the point where it became the regional hegemon of South Asia. Citing rebellious tendencies and in response to a call for revolution, Gandhi instituted a state of emergency from 1975 to 1977 where basic civil liberties were suspended and press was censored. Widespread atrocities were carried out during the emergency. In 1980, she returned to power after free and fair elections.[NEWLINE][NEWLINE]Prime Minister Indira Gandhi, will you bring about a new golden age India? It is up to you to raise this most ancient civilization to new heights.  Will you take up the mantle of greatness? Can you build a civilization that will stand the test of time?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_INDIRA_GANDHI_0">
+			<Text>Delhi</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_INDIRA_GANDHI_1">
+			<Text>Bombay</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_INDIRA_GANDHI_2">
+			<Text>Bangalore</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_INDIRA_GANDHI_3">
+			<Text>Hyderabad</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_INDIRA_GANDHI_4">
+			<Text>Calcutta</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_INDIRA_GANDHI_5">
+			<Text>Madras</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_INDIRA_GANDHI_6">
+			<Text>Ahmedabad</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_INDIRA_GANDHI_7">
+			<Text>Mysore</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_INDIRA_GANDHI_8">
+			<Text>Allahabad</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_INDIRA_GANDHI_9">
+			<Text>Surat</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_INDIRA_GANDHI_10">
+			<Text>Jaipur</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_INDIRA_GANDHI_11">
+			<Text>Raipur</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_INDIRA_GANDHI_12">
+			<Text>Srinagar</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_INDIRA_GANDHI_13">
+			<Text>Amritsar</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_INDIRA_GANDHI_14">
+			<Text>Indore</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_INDIRA_GANDHI_15">
+			<Text>Varanasi</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_INDIRA_GANDHI_16">
+			<Text>Pune</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_INDIRA_GANDHI_17">
+			<Text>Bhopal</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_INDIRA_GANDHI_18">
+			<Text>Agra</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_INDIRA_GANDHI_19">
+			<Text>Madhurai</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_INDIRA_GANDHI_20">
+			<Text>Vizag</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_INDIRA_GANDHI_21">
+			<Text>Cochin</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_INDIRA_GANDHI_22">
+			<Text>Trivandrum</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_INDIRA_GANDHI_23">
+			<Text>Lucknow</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_INDIRA_GANDHI_24">
+			<Text>Patna</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_INDIRA_GANDHI_25">
+			<Text>Secunderabad</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_INDIRA_GANDHI_26">
+			<Text>Vadodara</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_INDIRA_GANDHI_27">
+			<Text>Pondicherry</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_INDIRA_GANDHI_28">
+			<Text>Shimla</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_INDIRA_GANDHI_29">
+			<Text>Dwarika</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_INDIRA_GANDHI_30">
+			<Text>Hastinapur</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_INDIRA_GANDHI_31">
+			<Text>Indraprastha</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_INDIRA_GANDHI_32">
+			<Text>Jambudvipa</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_INDIRA_GANDHI_33">
+			<Text>Ayodhya</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_INDIRA_GANDHI_34">
+			<Text>Somnath</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_INDIRA_GANDHI_35">
+			<Text>Dwhajasthamba</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_INDIRA_GANDHI_36">
+			<Text>Amaravathi</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_INDIRA_GANDHI_0">
+			<Text>Shah Rukh Khan</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_INDIRA_GANDHI_1">
+			<Text>Jhansi Rani</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_INDIRA_GANDHI_2">
+			<Text>Aamir Khan</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_INDIRA_GANDHI_3">
+			<Text>Sridevi</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_INDIRA_GANDHI_4">
+			<Text>Radha</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_INDIRA_GANDHI_5">
+			<Text>Bhagat Singh</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_INDIRA_GANDHI_6">
+			<Text>Maheshwara</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_INDIRA_GANDHI_7">
+			<Text>Apu Nahasapeemapetilon</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_INDIRA_GANDHI_8">
+			<Text>Madhuri Dixit</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_INDIRA_GANDHI_9">
+			<Text>Veerappan</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

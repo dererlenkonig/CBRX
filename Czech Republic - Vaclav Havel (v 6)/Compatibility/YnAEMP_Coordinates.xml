@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<Civilizations_YagemStartPosition>
+		<Row>
+			<Type>CIVILIZATION_CZECH</Type>
+			<X>23</X>
+			<Y>67</Y>
+		</Row>
+	</Civilizations_YagemStartPosition>
+	<Civilizations_YahemStartPosition>
+		<Row>
+			<Type>CIVILIZATION_CZECH</Type>
+			<X>62</X>
+			<Y>61</Y>
+
+		</Row>
+	</Civilizations_YahemStartPosition>
+	<Civilizations_CordiformStartPosition>
+		<Row>
+			<Type>CIVILIZATION_CZECH</Type>
+			<X>40</X>
+			<Y>28</Y>
+		</Row>
+	</Civilizations_CordiformStartPosition>
+	<Civilizations_EuroLargeStartPosition>
+		<Row>
+			<Type>CIVILIZATION_CZECH</Type>
+			<X>39</X>
+			<Y>44</Y>
+		</Row>
+	</Civilizations_EuroLargeStartPosition>
+	<Civilizations_GreatestEarthStartPosition>
+		<Row>
+			<Type>CIVILIZATION_CZECH</Type>
+			<X>52</X>
+			<Y>51</Y>
+		</Row>
+	</Civilizations_GreatestEarthStartPosition>
+</GameData>
