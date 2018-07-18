@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mod id="e93e7281-f1ce-41ce-a9ff-4ad11d50a08d" version="3">
+  <Properties>
+    <Name>Dome of the Rock Wonder</Name>
+    <Teaser>Built on the site of the Second Jewish Temple atop Temple Mount, the coloured exterior of the Dome of the Rock make it stand out</Teaser>
+    <Description>Built on the site of the Second Jewish Temple atop Temple Mount, the coloured exterior of the Dome of the Rock makes it stand out from the Jerusalem surrounds. It is centered around the foundation rock, a Holy site in Islam, and served as a shrine for Islamic pilgrims on their pilgrimage to the Holy Land since the date of completion in 691 CE. Ingame, the Dome of the Rock provides an additional +5 Faith with each belief in the city which unlocks a building, and requires Theology</Description>
+    <Authors>Pouakai, sukritact</Authors>
+    <HideSetupGame>0</HideSetupGame>
+    <AffectsSavedGames>1</AffectsSavedGames>
+    <MinCompatibleSaveVersion>0</MinCompatibleSaveVersion>
+    <SupportsSinglePlayer>1</SupportsSinglePlayer>
+    <SupportsMultiplayer>1</SupportsMultiplayer>
+    <SupportsHotSeat>0</SupportsHotSeat>
+    <SupportsMac>1</SupportsMac>
+    <ReloadAudioSystem>0</ReloadAudioSystem>
+    <ReloadLandmarkSystem>0</ReloadLandmarkSystem>
+    <ReloadStrategicViewSystem>0</ReloadStrategicViewSystem>
+    <ReloadUnitSystem>0</ReloadUnitSystem>
+  </Properties>
+  <Dependencies />
+  <References />
+  <Blocks />
+  <Files>
+    <File md5="3A6DC0D362440ACEDFE0E180D98355FD" import="1">Art/Dome_128.dds</File>
+    <File md5="2EA27F648BFB1F52DC6FCE3B2E13BF56" import="1">Art/Dome_256.dds</File>
+    <File md5="0941D22E629273F38AA4AF6DB966D433" import="1">Art/Dome_45.dds</File>
+    <File md5="36DCF048A8BA75D46D256BFD5054417B" import="1">Art/Dome_64.dds</File>
+    <File md5="406E4711DE3AD1EC1FB7735F88757A4B" import="1">Art/Dome_80.dds</File>
+    <File md5="4E45D1082E4445693E89C89B928CC682" import="1">Art/Dome_Splash.dds</File>
+    <File md5="4C916A77BBA413C4522A9A7D9D495F90" import="0">XML/Buildings/Dome_BuildingClasses.xml</File>
+    <File md5="0D7D028EDA9BF085DEA21F90F44A4134" import="0">XML/Buildings/Dome_Buildings.xml</File>
+    <File md5="6FEB25312E2039FED557D2E8A8A10629" import="0">XML/Civilizations/Dome_Civilizations.xml</File>
+    <File md5="FD239DDCB1B517CB1477A697050C11AF" import="0">XML/GameInfo/Dome_IconTextureAtlases.xml</File>
+    <File md5="3DB79F3096272EECD465AF2CA654BF12" import="0">XML/Religion/Dome_Beliefs.xml</File>
+    <File md5="2BAEBC27EFB1478682F53D0EE9BCEFFF" import="0">XML/Text/Dome_text_en_US.xml</File>
+  </Files>
+  <Actions>
+    <OnModActivated>
+      <UpdateDatabase>XML/Buildings/Dome_BuildingClasses.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Buildings/Dome_Buildings.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Civilizations/Dome_Civilizations.xml</UpdateDatabase>
+      <UpdateDatabase>XML/GameInfo/Dome_IconTextureAtlases.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Text/Dome_text_en_US.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Religion/Dome_Beliefs.xml</UpdateDatabase>
+    </OnModActivated>
+  </Actions>
+</Mod>

@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mod id="84cb5f55-f9ac-460c-9570-50d4c9472da0" version="2">
+  <Properties>
+    <Name>Churches of Lalibela Wonder</Name>
+    <Teaser>An icon of the legendary Christian heritage of the African state of Ethiopia, the Churches of Lalibela are carved from the very</Teaser>
+    <Description>An icon of the legendary Christian heritage of the African state of Ethiopia, the Churches of Lalibela are carved from the very rock which surrounds them. Named after a 12th century ruler, who reputably recieved a vision instructing him to build the site there, the churches are arranged in such a way that many believe them to be a 'New Jerusalem' constructed following the conquest of Jerusalem by the Islamic warlord Saladin in 1197. Ingame, the Churches cause all specialists to yield an additional +1 Faith.</Description>
+    <Authors>Pouakai, sukritact</Authors>
+    <SpecialThanks>Ambrox62, Moriboe, Cyon</SpecialThanks>
+    <HideSetupGame>0</HideSetupGame>
+    <AffectsSavedGames>1</AffectsSavedGames>
+    <MinCompatibleSaveVersion>0</MinCompatibleSaveVersion>
+    <SupportsSinglePlayer>1</SupportsSinglePlayer>
+    <SupportsMultiplayer>1</SupportsMultiplayer>
+    <SupportsHotSeat>0</SupportsHotSeat>
+    <SupportsMac>1</SupportsMac>
+    <ReloadLandmarkSystem>0</ReloadLandmarkSystem>
+    <ReloadStrategicViewSystem>0</ReloadStrategicViewSystem>
+    <ReloadUnitSystem>0</ReloadUnitSystem>
+  </Properties>
+  <Dependencies>
+    <Dlc id="0E3751A1-F840-4e1b-9706-519BF484E59D" minversion="0" maxversion="999" />
+  </Dependencies>
+  <References />
+  <Blocks />
+  <Files>
+    <File md5="4CF124B08B58E395ABC301809B312E53" import="1">Art/Lalibela_icon128.dds</File>
+    <File md5="A5417B1976CA6CEC37534380712DB3EB" import="1">Art/Lalibela_icon256.dds</File>
+    <File md5="A69C32F3A50AAF0E776569C55FD7E5EB" import="1">Art/Lalibela_icon45.dds</File>
+    <File md5="05306E7B3990CDCFBDB84426BD54F89F" import="1">Art/Lalibela_icon64.dds</File>
+    <File md5="0706BE2550EFB345E2EACAC321B9466B" import="1">Art/Lalibela_icon80.dds</File>
+    <File md5="A308111417EEA4D7012DF90D347CEAFD" import="1">Art/Lalibela_splash.dds</File>
+    <File md5="A43534F84210E61EA07E2E7011C000E4" import="0">XML/Buildings/Lalibela_BuildingClasses.xml</File>
+    <File md5="3414E55BF3695BF35DDC4CF80E9ADF79" import="0">XML/Buildings/Lalibela_Buildings.xml</File>
+    <File md5="8208FBDADE4D3A21A22AE469184FCE88" import="0">XML/Civilizations/Lalibela_Civilizations.xml</File>
+    <File md5="5AE693B1ECFAF28A3BEE2689ABB8B627" import="0">XML/GameInfo/Lalibela_IconTextureAtlases.xml</File>
+    <File md5="85D1FF845DB66EBA9C3FE0CEBCF26566" import="0">XML/Text/Lalibela_text_en_US.xml</File>
+  </Files>
+  <Actions>
+    <OnModActivated>
+      <UpdateDatabase>XML/Buildings/Lalibela_BuildingClasses.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Buildings/Lalibela_Buildings.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Civilizations/Lalibela_Civilizations.xml</UpdateDatabase>
+      <UpdateDatabase>XML/GameInfo/Lalibela_IconTextureAtlases.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Text/Lalibela_text_en_US.xml</UpdateDatabase>
+    </OnModActivated>
+  </Actions>
+</Mod>

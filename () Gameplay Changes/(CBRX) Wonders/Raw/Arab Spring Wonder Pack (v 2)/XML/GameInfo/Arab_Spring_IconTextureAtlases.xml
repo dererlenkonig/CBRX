@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<IconTextureAtlases>
+		<Row>
+			<Atlas>BW_ATLAS_ARAB_SPRING</Atlas>
+			<IconSize>256</IconSize>
+			<Filename>ARAB_SPRING_icon256.dds</Filename>
+			<IconsPerRow>5</IconsPerRow>
+			<IconsPerColumn>1</IconsPerColumn>
+		</Row>
+		<Row>
+			<Atlas>BW_ATLAS_ARAB_SPRING</Atlas>
+			<IconSize>128</IconSize>
+			<Filename>ARAB_SPRING_icon128.dds</Filename>
+			<IconsPerRow>5</IconsPerRow>
+			<IconsPerColumn>1</IconsPerColumn>
+		</Row>
+		<Row>
+			<Atlas>BW_ATLAS_ARAB_SPRING</Atlas>
+			<IconSize>64</IconSize>
+			<Filename>ARAB_SPRING_icon64.dds</Filename>
+			<IconsPerRow>5</IconsPerRow>
+			<IconsPerColumn>1</IconsPerColumn>
+		</Row>
+		<Row>
+			<Atlas>BW_ATLAS_ARAB_SPRING</Atlas>
+			<IconSize>80</IconSize>
+			<Filename>ARAB_SPRING_icon80.dds</Filename>
+			<IconsPerRow>5</IconsPerRow>
+			<IconsPerColumn>1</IconsPerColumn>
+		</Row>
+		<Row>
+			<Atlas>BW_ATLAS_ARAB_SPRING</Atlas>
+			<IconSize>45</IconSize>
+			<Filename>ARAB_SPRING_icon45.dds</Filename>
+			<IconsPerRow>5</IconsPerRow>
+			<IconsPerColumn>1</IconsPerColumn>
+		</Row>
+	</IconTextureAtlases>
+</GameData>

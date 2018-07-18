@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<Language_en_US>
+		<!-- Description tags -->
+		<Row Tag="TXT_KEY_BUILDING_VENICE">
+			<Text>Grand Canal</Text>
+		</Row>
+		<!-- Help tags -->
+		<Row Tag="TXT_KEY_WONDER_VENICE_HELP">
+			<Text>All trade routes with the city in which the Grand Canal is build generate +3 [ICON_GOLD] Gold for the City owner. Foreign trade routes yield additional +2 [ICON_GOLD] to the trade route owner. City must be built on a flat coastal tile.</Text>
+		</Row>
+		<!-- Quote tags -->
+		<Row Tag="TXT_KEY_WONDER_VENICE_QUOTE">
+			<Text>[NEWLINE]"Thou know'st that all my fortunes are at sea, Neither have I money nor commodity to raise a present sum: therefore go forth; Try what my credit can in Venice do"[NEWLINE] - William Shakespeare[NEWLINE]</Text>
+		</Row>
+		<!-- Pedia tags -->
+		<Row Tag="TXT_KEY_WONDER_VENICE_PEDIA">
+			<Text>The Grand Canal is the main thouroughfare of the Italian city of Venice. It was not so much as constucted around the city, but rather the city was constructed around it - the Grand Canal orignated as a deeper waterway in the lagoon in which the Doge saw availablility to continue trading safely from. Over the years it was shaped by the city around it, several 'Fondaco' houses were built to accomodate goods and wealth of merchants.  </Text>
+		</Row>
+	</Language_en_US>
+</GameData>

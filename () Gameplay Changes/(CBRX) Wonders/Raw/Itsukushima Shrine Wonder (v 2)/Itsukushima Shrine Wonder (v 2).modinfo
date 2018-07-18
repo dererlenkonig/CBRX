@@ -1,0 +1,48 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mod id="681a4cc0-512a-424b-bada-4d5dd2f36ac6" version="2">
+  <Properties>
+    <Name>Itsukushima Shrine Wonder</Name>
+    <Teaser>Located on the Japanese island of Miyajima, Itsukushima Shrine is one of the most iconic sites of Japan.</Teaser>
+    <Description>Located on the Japanese island of Miyajima, Itsukushima Shrine is one of the most iconic sites of Japan. The main feature is a 'floating' Torii gate, a symbol with the Shinto religion of Japan. In 1643, the view of the Torii gate was inscribed as one of the Three Views of Japan by Confucian scholar Hayashi Gahō, giving it the title of one of the three most beautiful vistas of the country. The shrine is dedicated to the daughters of Susanoo, the Shinto God of the Sea and of Storms, hense the semi-aquatic location of the shrine. Ingame, Itsukushima Shrine provides +2  Faith from all sea resources worked by the city, and +1  Culture on all Sea tiles, and requires Theology</Description>
+    <Authors>Pouakai, sukritact</Authors>
+    <SpecialThanks>Mentos, Moriboe, Ambrox62</SpecialThanks>
+    <HideSetupGame>0</HideSetupGame>
+    <AffectsSavedGames>1</AffectsSavedGames>
+    <MinCompatibleSaveVersion>0</MinCompatibleSaveVersion>
+    <SupportsSinglePlayer>1</SupportsSinglePlayer>
+    <SupportsMultiplayer>1</SupportsMultiplayer>
+    <SupportsHotSeat>1</SupportsHotSeat>
+    <SupportsMac>1</SupportsMac>
+    <ReloadLandmarkSystem>0</ReloadLandmarkSystem>
+    <ReloadStrategicViewSystem>0</ReloadStrategicViewSystem>
+    <ReloadUnitSystem>0</ReloadUnitSystem>
+  </Properties>
+  <Dependencies>
+    <Dlc id="0E3751A1-F840-4e1b-9706-519BF484E59D" minversion="0" maxversion="999" />
+  </Dependencies>
+  <References />
+  <Blocks />
+  <Files>
+    <File md5="04E8009248B9A3B3FA7F3A40B59CD450" import="1">Art/Itsukushima_icon128.dds</File>
+    <File md5="2BFD22042DE506CE50D26C4576890A64" import="1">Art/Itsukushima_icon256.dds</File>
+    <File md5="21DD3FBF6D5D337552C5ED898BCBA817" import="1">Art/itsukushima_icon45.dds</File>
+    <File md5="126CC626DF64B31D3F8CD85A017B539D" import="1">Art/itsukushima_icon64.dds</File>
+    <File md5="EAA414AA92DDC3EED34675168BEFC552" import="1">Art/itsukushima_icon80.dds</File>
+    <File md5="F77821B86DA8AC9D54CA06E6ED67D843" import="1">Art/Itsukushima_splash.dds</File>
+    <File md5="A5B9766792F8F673340A7C62B05F032A" import="1">Art/Itsukushima_splash_a.dds</File>
+    <File md5="D2C643E659C27A13D0446DD32A5671A0" import="0">XML/Buildings/Itsukushima_BuildingClasses.xml</File>
+    <File md5="2962CA42154102C9E95EAF8DEF752C24" import="0">XML/Buildings/Itsukushima_Buildings.xml</File>
+    <File md5="EA198E7FA44DEEA1E33FD243D9DA50F1" import="0">XML/Civilizations/Itsukushima_Civilizations.xml</File>
+    <File md5="57E60C072F59230EDCA530A14D2EE87E" import="0">XML/GameInfo/Itsukushima_IconTextureAtlases.xml</File>
+    <File md5="8E938F420DDD170796631637FD035315" import="0">XML/Text/Itsukushima_text_en_US.xml</File>
+  </Files>
+  <Actions>
+    <OnModActivated>
+      <UpdateDatabase>XML/Buildings/Itsukushima_BuildingClasses.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Buildings/Itsukushima_Buildings.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Civilizations/Itsukushima_Civilizations.xml</UpdateDatabase>
+      <UpdateDatabase>XML/GameInfo/Itsukushima_IconTextureAtlases.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Text/Itsukushima_text_en_US.xml</UpdateDatabase>
+    </OnModActivated>
+  </Actions>
+</Mod>

@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<Language_en_US>
+		<!-- Description tags -->
+		<Row Tag="TXT_KEY_BUILDING_ABER">
+			<Text>Amer Fort</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_AGRA">
+			<Text>Agra Fort</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_HARMANDIR">
+			<Text>Harmandir Sahib</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_HAWA">
+			<Text>Hawa Mahal</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_MAHADEVA">
+			<Text>Kandariya Mahadeva Temple</Text>
+		</Row>
+		<!-- Help tags -->
+		<Row Tag="TXT_KEY_WONDER_ABER_HELP">
+			<Text>+1 Extra delegate in the World Congress. City must be built on a hill.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_WONDER_AGRA_HELP">
+			<Text>+150 extra Hit Points for the City</Text>
+		</Row>
+		<Row Tag="TXT_KEY_WONDER_HARMANDIR_HELP">
+			<Text>+1 [ICON_CULTURE] Culture from Merchant specialists</Text>
+		</Row>
+		<Row Tag="TXT_KEY_WONDER_HAWA_HELP">
+			<Text>A Free Great Engineer appears near the city in which the wonder was built</Text>
+		</Row>
+		<Row Tag="TXT_KEY_WONDER_MAHADEVA_HELP">
+			<Text>+5 [ICON_CULTURE] Culture in this city with the Piety social policy.</Text>
+		</Row>
+		<!-- Quote tags -->
+		<Row Tag="TXT_KEY_WONDER_ABER_QUOTE">
+			<Text>[NEWLINE]"He who is prudent and lies in wait for an enemy who is not, will be victorious."[NEWLINE] - Sun Tzu[NEWLINE]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_WONDER_AGRA_QUOTE">
+			<Text>[NEWLINE]"In order to master the unruly torrent of life the learned man meditates, the poet quivers, and the political hero erects the fortress of his will."[NEWLINE] - Jose Ortega y Gasset[NEWLINE]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_WONDER_HARMANDIR_QUOTE">
+			<Text>[NEWLINE]"The Giver of peace is eternally blissful."[NEWLINE] - Sri Guru Granth Sahib[NEWLINE]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_WONDER_HAWA_QUOTE">
+			<Text>[NEWLINE]"Wisdom sails with wind and time"[NEWLINE] - John Florio[NEWLINE]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_WONDER_MAHADEVA_QUOTE">
+			<Text>[NEWLINE]"God is not present in idols. Your feelings are your god. The soul is your temple."[NEWLINE] - Chanakya[NEWLINE]</Text>
+		</Row>
+		<!-- Pedia tags -->
+		<Row Tag="TXT_KEY_WONDER_ABER_PEDIA">
+			<Text>Sometimes known as the Amber Fort, Amer Fort is a fortress found in the town of Amer, less than seven miles from Jaipur. Built on a hill by Raja Man Singh I, Amer Fort is a popular attraction for its artistic style and blending of Hindu and Rajput architecture. The fort overlooks the Maota Lake on a forested hill. During medieval India Amer was known as Dhundar and ruled by the Kachwahas, the fort itself was built in 1592 over the remnants of the earlier structure by Raja Man Singh I, a commander of Akbar the Great's army and a member of the Emperor's inner circle. His decendant, Jai Singh I expanded Amer Fort further. Beyond then Amer Fort continued the further improve with every ruler who followed for the next 150 years, until the Kachwahas shifted the capital to Jaipur during the reign of Sawai Jai Singh II in 1727.[NEWLINE][NEWLINE]Many of the original buildings of the medieval period have either been destroyed of replaced, the sixteenth century edifice however and the palace complex within build by the Rajput Maharajas is very well preserved. Amer Fort is split into four sections, each with its own gate and courtyard. The main entrance is the "Suraj Pole" - the Sun Gate - leading to the first courtyard. Armies held victory parades at the gate with their bounty. The gate was built for the purpose of protection, a garrison was posted to secure the main entry into the palace, and the gate itself faces east to greet the sun - where it takes its namesake. The first courtyard leads to the palace grounds and is resplendant with temples as well as the Ganesh Gate entering into the palaces. The second courtyard houses the Public Audience Hall; the Raja held audiences to heed petitions from the public. The Ganesh Gate opened into the third courtyard where the private quarters of the royal family and the servants were kept. This courtyard holds two buildings seperated but a garden fashioned similiarly to the Mughal Gardens. The two buildings are the "Jai Mandir", commonly known as the Sheesh Mahal - or Mirror Palace - and the "Sukh Niwas" or Sukh Mahal - the Hall of Pleasure. The Mirror Palace is known for its beautiful glass panels and mirror patterned ceilings. The fourth courtyard is where the royal family women resided, displaying a number of living rooms along a common corridor.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_WONDER_AGRA_PEDIA">
+			<Text>The Agra Fort is a citadel found in the city of Agra. Just two and a half kilometers from the elegant Taj Mahal, the fort is first mentioned in 1080, where a Ghaznavide force took control of it. Sikandar Lodi was the first Sultan to stay in the fort as he shifted the capital of the Lodi Dynasty to Agra; in 1503 Sikandar commissioned the construction of much of modern-day Agra. The Mughals captured Agra and the fort in 1526, plundering the treasure inside - including the famous Koh-i-Noor Diamond. The Hindu king Hem Chandra Vikramaditya briefly captured Agra in 1553, but lost control three years after back to the Mughals under Akbar the Great. Under Akbar the fort underwent reconstruction in 1565, taking eight years to complete. Akbar's grandson, the famous Shah Jahan, would complete the fort during his reign to the current design.[NEWLINE][NEWLINE]The Agra Fort is a 94 acre walled city in a semicircular design. Within the 70 foot high walls contains halls, mosques, houses from guesses, a ladies bazaar, and the Grape Garden - a large garden featuring its 85 square geometeric design. Along the wall two of the fort's gates are most noteworthy; the "Delhi Gate" and the "Lahore Gate", commonly known as the Amar Singh Gate, named after the nobleman. The Delhi Gate is the greatest of the four gates and was the masterpiece of Akbar the Great, built in 1568. Designed to enhance both the security and the embellishemtn of the formal gate, it is furnished in while marble as the prevailing symbol of the power of the Mughals. The general design of the gates and walls were to ensure the fort impregnable; during siege elephants would crush the gates of a fort, the Agra Fort - having been built on a uneven slope - rendered this method ineffective.[NEWLINE][NEWLINE]The fort is very important in understanding the architectural history. Akbar's historian, Abul Fazal, recorded 500 buildings in Bengal and Gujarat design were built. Some of these were destroyed by Shah Jahan to make room for his own palaces, others from the British between 1803 and 1862. Today just 30 Mughal buildings stand in the south-eastern side of the fort, of these the Delhi and Akbar Gates and the Bengali Mahal palace remain as symbols of Akbar the Great.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_WONDER_HARMANDIR_PEDIA">
+			<Text>Informally known as the Golden Temple, Harmandir Sahib is a prominent Gurdwara - Sikh temple - in the city of Amritsar. Built by Guru Arjan Dev in 1604, the Guru completed the Adi Granth, the holy text of Sikhism, and placed it in the Gurdwara. Before the building of the Harmandir Sahib, the site was surronded by a lake and thin forest. Akbar the Great visited Guru Amar Das at the neighbouring town of Goindval and was so impressed at the way of life in the town he gave the land and the revenues of the nearby villages to the Guru's daugther as a marital gift. At the end of 1588 Arjan Dev began the construction of the temple by laying the foundation stone, the construction took just over fifteen years to complete. In the mid eighteenth century the Harmandir Sahib was attacked by Afghans; one of Ahmed Shah Addali's generals, Jahan Khan, and required substancial reconstruction in 1764.[NEWLINE][NEWLINE]The four doors of the Harmandir Sahib symbolize the openness of Sikhism towards all people and their religions. Inside the temple are many shrines of past Gurus and saints, as well as commemorative plaques and inscriptions on the Gurus, saints and fallen Sikh soldiers during World Wars I and II. Outside there are three bers, holy trees, signifying historical events or Sikh saints. Much of the gilding and marble dates back to the early ninteenth century, the gold and marble were placed under the patronage of Hukam Singh Chimni and Emperor Ranjit Singh, the Maharaja of the Sikh Empire, the gold plating itself completing at 1830.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_WONDER_HAWA_PEDIA">
+			<Text>The Hawa Mahal is a palace in the city of Jaipur. Built in 1799 by Maharaja Sawai Pratap Singh, the architect Lal Chand Ustad designed the structure from the crown of the Hindu god Krishna. The design of the 953 windows, known as 'jharokhas', is also compared to that of the honeycomb of the beehive. The original idea for the latticework on the windows is to allow the royal ladies to view the streets below without themselves being seen, observing strict 'purdah', face coverage. Sawai Pratap Singh's grandfather, Sawai Jai Singh founded Jaipur in 1727. Sawai Pratap Singh comissioned the Hawa Mahal as an expansion of the Royal City Palace, and Pratap Singh was a devoted adherent to Khrishna, this contributed to the design of the building as the Mukuta, Khrishna's headgear.[NEWLINE][NEWLINE]Though no actual historical evidence is available, it is believed that the women of the royal family, having to observe purdah, were given the opportunity to witness the transactions of the markets and royal processions behind the stone carved screens. Hawa Mahal was also used by the royal family as a retreat from the hot weather of Jaipur, the unusually designed windows provided a cool breeze and ventilation. The five story Hawa Mahal rises 50 feet from the base with the top three floors having the dimention of just one room, the bottom two floors have patios at the back of the structure. The shape of the front facade of the building is designed from semi-octagonal bays, producing its unique face, whereas the back side of the building retains need-based chambers with pillars and corridors reaching to the top floor. Inside the Hawa Mahal is described as "having rooms of different coloured marbles, relieved by inlaid panels; while fountains adorn the center of the courtyard".[NEWLINE][NEWLINE]Lal Chand Ustad also planned the founding of Jaipur, considered at the time as one of the best-planned cities in India. The red and pink sandstone of the Hawa Mahal reflects the other monuments and the epithet of Jaipur as the "Pink City". It is also a reflection of the fusion of Rajput and Mughal architecture; the use of the Rajput style using domed canopies and fluted pillars, and the Mughal style of stone inlay filigrees and arches.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_WONDER_MAHADEVA_PEDIA">
+			<Text>The Kandariya Mahaadeva Temple is the largest and most decorated medieval temple found in the Khajuraho Group of Monuments in India. It is one of the best examples of preserved temples from India's medieval era. One of India's most popular tourist attractions today, Khajuraho was the religious capital of the Chandela Rajputs. The temple was built by King Vidyadhara, arguably one of the greatest of the Chandela kings, at about 1050.[NEWLINE][NEWLINE]The main spire - the shikhara - rises 31 meters and forms the shape of Mount Kailash, the residence of lord Shiva; of whom the temple worships, and is surrounded by 84 smaller spires. The temple features columned halls, an entrance porch and the inner sanctum. 646 statues decorate the sides of the temple and at the top of the shikhara is the amalaka; a circular ring motif commonly found in the architecture of temples in northern India. Also, 226 figures are found lining parts of the temple's wall, but some of these are of a sexual nature and are not publicly displayed.[NEWLINE][NEWLINE]The name of the site means 'the Cave of Mahadeva', Mahadeva being another name for Shiva. The temple represents the pinnacle of traditional medieval nouth Indian temple architecture. At first glance the temple appears to be formed from a single piece of solid stone, when this is not the case.</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

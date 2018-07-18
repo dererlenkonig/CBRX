@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<Language_en_US>
+		<!-- Description tags -->
+		<Row Tag="TXT_KEY_BUILDING_MARTYRS">
+			<Text>Martyr's Square</Text>
+		</Row>
+		<!-- Help tags -->
+		<Row Tag="TXT_KEY_WONDER_MARTYRS_HELP">
+			<Text>+20 XP for land units trained in this city.</Text>
+		</Row>
+		<!-- Quote tags -->
+		<Row Tag="TXT_KEY_WONDER_MARTYRS_QUOTE">
+			<Text>
+				[NEWLINE]"Those who make peaceful revolution impossible will make violent revolution inevitable."[NEWLINE] - John F. Kennedy[NEWLINE]</Text>
+		</Row>
+		<!-- Pedia tags -->
+		<Row Tag="TXT_KEY_WONDER_MARTYRS_PEDIA">
+			<Text>Martyr's Square (formerlly known as Green Square under the Gaddafi regieme) is a town square in Tripoli, the capital of Libya. Constructed by Italian colonists during the 1930s, and expanded throughout it's history, Martyr's square is connected to the waterfront by a set of stairs and two pillars, each with a cast iron statuettes, one with a ship and the other a man on hoseback. The square was once home to the Royal Miramare Theatre, Libya's main theatre. However, this was demolished under the order of Muamar Gaddafi during the late 1960's. The square is also home to the Red Castle Museum, Libya's National Museum. [NEWLINE][NEWLINE]Prior to the 2011 Libyan Civil War, the square was known as Green Square. On the night of the 21st of August, Libyan revolutionaries captured the square in the battle of Tripoli. It became a centre of celebrations following the battle, when the rebel fighters captured Tripoli. From this point on it was known as Martyr's Square, in honour of the freedom fighters which fought the Gaddafi regieme. </Text>
+		</Row>
+	</Language_en_US>
+</GameData>

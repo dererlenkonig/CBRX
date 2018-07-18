@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<Language_en_US>
+		<!-- Description tags -->
+		<Row Tag="TXT_KEY_BUILDING_SAGRADA">
+			<Text>Sagrada Familia</Text>
+		</Row>
+		<!-- Help tags -->
+		<Row Tag="TXT_KEY_WONDER_SAGRADA_HELP">
+			<Text>+1 [ICON_HAPPINESS_1] Happiness from all Religious buildings. Provides a free Cathedral in the city in which it is built.</Text>
+		</Row>
+		<!-- Quote tags -->
+		<Row Tag="TXT_KEY_WONDER_SAGRADA_QUOTE">
+			<Text>[NEWLINE]"Beauty is the splendor of truth, and since art is beauty, there is no art without truth."[NEWLINE] - Gaudi[NEWLINE]</Text>
+		</Row>
+		<!-- Pedia tags -->
+		<Row Tag="TXT_KEY_WONDER_SAGRADA_PEDIA">
+			<Text>Sagrada Familia is a Catholic basilica currently under construction in Barcelona, Spain. Construction began in 1882, and is expected to complete in 2026. Currently the basilica only has eight spires, although the original design contains 18. Despite it's unfinished status it has gained recognition by UNESCO and the Vatican, being proclaimed as a UNESCO World Heritage Site and minor Basilica respectively. [NEWLINE][NEWLINE] Throughout construction, the Basilica has faced constant threats to it. During the Spanish Civil War in the 1930s the Basilica was damaged by Anarchists from the Catalonia region of Spain, and in 2010 a high speed train tunnel was constructed in Barcelona, passing directly underneath the Basilica. Engineers and construction workers working on the site believe the tunnel will have a direct effect on the integrity of the construction.  </Text>
+		</Row>
+	</Language_en_US>
+</GameData>

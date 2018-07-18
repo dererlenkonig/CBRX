@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<Language_en_US>
+		<!-- Description tags -->
+		<Row Tag="TXT_KEY_BUILDING_GATE_SUN">
+			<Text>Gate of the Sun</Text>
+		</Row>
+		<!-- Help tags -->
+		<Row Tag="TXT_KEY_WONDER_GATE_SUN_HELP">
+			<Text>+1 [ICON_GOLD] Gold and [ICON_PEACE] Faith from Walls</Text>
+		</Row>
+		<!-- Quote tags -->
+		<Row Tag="TXT_KEY_WONDER_GATE_SUN_QUOTE">
+			<Text>
+				[NEWLINE]"Trust in dreams, for in them is hidden the gate to eternity."[NEWLINE]- Khalil Gibran.</Text>
+		</Row>
+		<!-- Pedia tags -->
+		<Row Tag="TXT_KEY_WONDER_GATE_SUN_PEDIA">
+			<Text>The Gate of the Sun is a megalithic stone gateway constructed by the Tiwanaku, one of the most important precursor cultures to the Inca Empire. The structure stands beside Lake Titicaca, near the Bolivian city of La Paz. Ten feet tall and thirteen feet wide, the gate is a single stone block weighing an estimated ten tons. Rediscovered by Europeans in the mid-nineteenth century, the gate was found lying on the ground with a large crack across its face. Even though the gate now sits on the site of its discovery, it is not believed to be the site of its construction, which remains uncertain. [NEWLINE][NEWLINE]The gate is a wealth of knowledge of pre-Colombian art and architecture. The gate displays elements of Tiwanaku iconography known to be found throughout Peru and parts of Bolivia. Although there are differing theories of the inscriptions found, they are generally believed to possess astronomical, or perhaps astrological, significance and may have served a calendrical purpose.[NEWLINE][NEWLINE] Across the head of the gate are 48 squares surrounding a central figure. Each of these squares depict a winged effigy, 32 of which with human faces. All of these effigies look to the central figure, who also remains unknown. The figure is that of a man whose head is surrounded by rays which may represent the rays of the sun. The figure holds two stylized staffs which appear to represent thunder and lightning. Current theories about this character are that he may be the "Sun God", while other identify him as Viracocha, the Incan creator god - who is worshiped as a god of the sun and storms.</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

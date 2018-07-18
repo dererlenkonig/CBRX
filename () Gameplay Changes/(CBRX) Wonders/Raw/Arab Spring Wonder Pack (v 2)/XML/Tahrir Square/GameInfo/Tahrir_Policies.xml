@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 11/26/2011 8:41:05 AM -->
+<GameData>
+	<Policy_BuildingClassHappiness>
+		<Row>
+			<PolicyType>POLICY_FREEDOM</PolicyType>
+			<BuildingClassType>BUILDINGCLASS_TAHRIR</BuildingClassType>
+			<Happiness>10</Happiness>
+		</Row>
+		<Row>
+			<PolicyType>POLICY_ORDER</PolicyType>
+			<BuildingClassType>BUILDINGCLASS_TAHRIR</BuildingClassType>
+			<Happiness>10</Happiness>
+		</Row>
+		<Row>
+			<PolicyType>POLICY_AUTOCRACY</PolicyType>
+			<BuildingClassType>BUILDINGCLASS_TAHRIR</BuildingClassType>
+			<Happiness>10</Happiness>
+		</Row>
+	</Policy_BuildingClassHappiness>
+</GameData>

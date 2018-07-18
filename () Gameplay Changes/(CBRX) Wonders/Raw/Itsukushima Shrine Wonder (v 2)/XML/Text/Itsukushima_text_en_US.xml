@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<Language_en_US>
+		<!-- Description tags -->
+		<Row Tag="TXT_KEY_BUILDING_ITSUKUSHIMA">
+			<Text>Itsukushima Shrine</Text>
+		</Row>
+		<!-- Help tags -->
+		<Row Tag="TXT_KEY_WONDER_ITSUKUSHIMA_HELP">
+			<Text>+2 [ICON_PEACE] Faith from each sea resource worked by the city, and +1 [ICON_CULTURE] Culture from each sea tile.[NEWLINE]City must be built on the coast.</Text>
+		</Row>
+		<!-- Quote tags -->
+		<Row Tag="TXT_KEY_WONDER_ITSUKUSHIMA_QUOTE">
+			<Text>
+				[NEWLINE]"From far and near, Hearing the sounds of waterfalls, Young leaves"[NEWLINE] - Buson[NEWLINE]</Text>
+		</Row>
+		<!-- Pedia tags -->
+		<Row Tag="TXT_KEY_WONDER_ITSUKUSHIMA_PEDIA">
+			<Text>Itsukushima shrine is one of the most iconic Shinto shrines in Japan. It is world renowned for it's iconic "Floating" torii gate, which pilgrims had to steer their boat through before they could enter the shrine's grounds. It is located on the island of Itsukushima, at the western end of Japan's 'inland sea'. There has been a shrine at the location since approximately 628 CE, when one was constructed under the reign of Empresss Suiko. The current design, however, dates from 1168, when the shrine was constructed with funds provided by the warlord Taiya no Kiyomori. [NEWLINE][NEWLINE]The shrine, and it's floating Torii, are one of the 'Three Views of Japan', along with the sandbar at Amanohashidate, and Matsushima bay. These have been designated as the most beautiful scenes of Japan, and are frequented by tourists.  </Text>
+		</Row>
+	</Language_en_US>
+</GameData>
