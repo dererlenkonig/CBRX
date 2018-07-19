@@ -1,0 +1,76 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mod id="c36ef2aa-4952-47e5-a31b-6674419857e4" version="7">
+  <Properties>
+    <Name>Oriental Republic of Uruguay (Pre-Release 1)</Name>
+    <Teaser>Adds Uruguay to BNW.</Teaser>
+    <Description>Adds Uruguay to BNW.</Description>
+    <Authors>Technostar</Authors>
+    <HideSetupGame>0</HideSetupGame>
+    <AffectsSavedGames>1</AffectsSavedGames>
+    <MinCompatibleSaveVersion>0</MinCompatibleSaveVersion>
+    <SupportsSinglePlayer>1</SupportsSinglePlayer>
+    <SupportsMultiplayer>1</SupportsMultiplayer>
+    <SupportsHotSeat>1</SupportsHotSeat>
+    <SupportsMac>1</SupportsMac>
+    <ReloadAudioSystem>0</ReloadAudioSystem>
+    <ReloadLandmarkSystem>0</ReloadLandmarkSystem>
+    <ReloadStrategicViewSystem>0</ReloadStrategicViewSystem>
+    <ReloadUnitSystem>0</ReloadUnitSystem>
+  </Properties>
+  <Dependencies />
+  <References />
+  <Blocks />
+  <Files>
+    <File md5="683E4FFD6D9E36FDD76139B2B43FF55E" import="0">Lavalleja_Scene.xml</File>
+    <File md5="BA90FF7AF26EA177393A4897B29B3678" import="0">Atlas.xml</File>
+    <File md5="7CDA2722577633BC87864642B408C1DE" import="0">Civilization.xml</File>
+    <File md5="87D69560A6B59835530A03EBBF6F699D" import="0">DiplomacyResponses.xml</File>
+    <File md5="4D2E22E39F620E410C82FA3D0F7B7A81" import="0">Buildings.xml</File>
+    <File md5="51B3E5D62EFE3214A58EED9BC5297F76" import="1">LavallejaScene.dds</File>
+    <File md5="96C1FD78D259A45A40291FBBB1AE2176" import="0">Leader.xml</File>
+    <File md5="8AA49640C8E1F977B24C056E2972623E" import="0">CascosAzules.xml</File>
+    <File md5="51B3E5D62EFE3214A58EED9BC5297F76" import="1">LeaderScreen.dds</File>
+    <File md5="37E594A9884317922B78E0C406C30A68" import="0">Orientales.xml</File>
+    <File md5="50E4CE423551171940DB2FF5BC3F6550" import="0">Sukritact_ChangeResearchProgress.lua</File>
+    <File md5="8A5FC22EB73A2C2106DE16D1A3E98AF2" import="0">Sukritact_SaveUtils.lua</File>
+    <File md5="143186E5A49196ED1862639F6AC96E6C" import="0">Uruguay.lua</File>
+    <File md5="F060D12FA73DA080E93E63C7CD83E379" import="0">Promotions.xml</File>
+    <File md5="07BA441452E897B5F96F6A4DC6605C4D" import="0">Trait.xml</File>
+    <File md5="894770AFB9EB30DE6DC6B5858794533F" import="0">Units.xml</File>
+    <File md5="F65FCC50B70D33BFB059DA74CD8F2DD1" import="1">UruguayAtlas128.dds</File>
+    <File md5="79589CD743AF21693CF84247F98F9ECB" import="1">UruguayAtlas256.dds</File>
+    <File md5="B69E37138BB09EBD344D64F76005767E" import="1">UruguayAtlas32.dds</File>
+    <File md5="45F6F015A481D330C68270FF9D3181AC" import="1">UruguayAtlas32Alpha.dds</File>
+    <File md5="81209DEDD24F017405A11BC8CACF2569" import="1">UruguayAtlas45.dds</File>
+    <File md5="8C5DC2AF0889913518AC46938655C0DF" import="1">UruguayAtlas64.dds</File>
+    <File md5="F9FEB82A12373B0C4BF816C983D508E5" import="1">UruguayAtlas80.dds</File>
+    <File md5="3740FF28DA735BD482D5C31613908C1A" import="1">UruguayMap.dds</File>
+    <File md5="5A1674913BB21DC1CF720FC80F392B20" import="1">UruguayMapSmall.dds</File>
+  </Files>
+  <Actions>
+    <OnModActivated>
+      <UpdateDatabase>Promotions.xml</UpdateDatabase>
+      <UpdateDatabase>CascosAzules.xml</UpdateDatabase>
+      <UpdateDatabase>Orientales.xml</UpdateDatabase>
+      <UpdateDatabase>Buildings.xml</UpdateDatabase>
+      <UpdateDatabase>Trait.xml</UpdateDatabase>
+      <UpdateDatabase>Atlas.xml</UpdateDatabase>
+      <UpdateDatabase>Lavalleja_Scene.xml</UpdateDatabase>
+      <UpdateDatabase>Leader.xml</UpdateDatabase>
+      <UpdateDatabase>Civilization.xml</UpdateDatabase>
+      <UpdateDatabase>DiplomacyResponses.xml</UpdateDatabase>
+    </OnModActivated>
+  </Actions>
+  <EntryPoints>
+    <EntryPoint type="InGameUIAddin" file="Uruguay.lua">
+      <Name>Uruguay</Name>
+      <Description>
+      </Description>
+    </EntryPoint>
+    <EntryPoint type="InGameUIAddin" file="Sukritact_SaveUtils.lua">
+      <Name>Sukritact_SaveUtils</Name>
+      <Description>
+      </Description>
+    </EntryPoint>
+  </EntryPoints>
+</Mod>
