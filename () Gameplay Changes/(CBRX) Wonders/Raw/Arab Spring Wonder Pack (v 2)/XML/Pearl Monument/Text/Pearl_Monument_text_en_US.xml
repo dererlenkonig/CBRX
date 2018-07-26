@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<Language_en_US>
+		<!-- Description tags -->
+		<Row Tag="TXT_KEY_BUILDING_PEARL_MONUMENT">
+			<Text>Pearl Monument</Text>
+		</Row>
+		<!-- Help tags -->
+		<Row Tag="TXT_KEY_WONDER_PEARL_MONUMENT_HELP">
+			<Text>500 [ICON_GOLD] Gold to the builder. One free Great Merchant appears near the city in which the wonder was built. </Text>
+		</Row>
+		<!-- Quote tags -->
+		<Row Tag="TXT_KEY_WONDER_PEARL_MONUMENT_QUOTE">
+			<Text>[NEWLINE]"For truth is precious and divine, too rich a pearl for carnal swine."[NEWLINE] - Samuel Butler[NEWLINE]</Text>
+		</Row>
+		<!-- Pedia tags -->
+		<Row Tag="TXT_KEY_WONDER_PEARL_MONUMENT_PEDIA">
+			<Text>An icon of the island nation of Bahrain, the Pearl Monument was a large statue in the middle of a roundabout in Bahrain's capital, Manama. It was constructed in 1982 when Bahrain was to host the Gulf Cooperation Council. The design was of six dhow sails (dhow being early arabic sailing ships used for trade throughout the Indian Ocean)  holding up a white pearl. The six sails symbolised the six members of the GCC, while the pearl was of the countries' united heritage and history of pearl cultivation. [NEWLINE][NEWLINE] The Pearl Monument was torn down under the command of Bahrain's government in March 2011, as it was being used much like Tahrir square in Cairo, Egypt, as a place for protestors to gather.  </Text>
+		</Row>
+	</Language_en_US>
+</GameData>

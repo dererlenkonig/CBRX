@@ -1,0 +1,63 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mod id="da8df484-c7d5-4f0d-8d06-4b70baf9acf6" version="2">
+  <Properties>
+    <Name>Korean Wonders pack</Name>
+    <Teaser>Korea is home to many yet-to-be represented wonders of the world. In celebration of the Korea DLC we have made this wonder pack.</Teaser>
+    <Description>Korea is home to many yet-to-be represented wonders of the world. In celebration of the release of the Korea and Wonders of the Ancient World DLC, myself and sukritact have created this pack featuring two wonders of Korea - Cheomseongdae, an ancient tower believed to have been used as an observatory, and Changdeokgung, one of the five palaces of the South Korean capital of Seoul. Ingame, Cheomseongdae provides +1  Science for every 3  Citizens in the city, and Changdeokgung provides a Free Great Person in the capital.</Description>
+    <Authors>Pouakai, sukritact</Authors>
+    <SpecialThanks>Moriboe, Mentos, Ambrox62, JaeChunDaeSung</SpecialThanks>
+    <HideSetupGame>0</HideSetupGame>
+    <AffectsSavedGames>1</AffectsSavedGames>
+    <MinCompatibleSaveVersion>0</MinCompatibleSaveVersion>
+    <SupportsSinglePlayer>1</SupportsSinglePlayer>
+    <SupportsMultiplayer>1</SupportsMultiplayer>
+    <SupportsHotSeat>0</SupportsHotSeat>
+    <SupportsMac>1</SupportsMac>
+    <ReloadLandmarkSystem>0</ReloadLandmarkSystem>
+    <ReloadStrategicViewSystem>0</ReloadStrategicViewSystem>
+    <ReloadUnitSystem>0</ReloadUnitSystem>
+  </Properties>
+  <Dependencies>
+    <Dlc id="0E3751A1-F840-4e1b-9706-519BF484E59D" minversion="0" maxversion="999" />
+  </Dependencies>
+  <References />
+  <Blocks />
+  <Files>
+    <File md5="C11B7539204385C02B86C9B567A28B06" import="1">Changdeokgung/Art/Changdeokgung_icon128.dds</File>
+    <File md5="2072ADA572043F8424B93C77003C1972" import="1">Changdeokgung/Art/Changdeokgung_icon256.dds</File>
+    <File md5="41A7DA2413AD93E0DCC72E85B2977995" import="1">Changdeokgung/Art/Changdeokgung_icon45.dds</File>
+    <File md5="0C748726A6622C902D4CC70F161A78B6" import="1">Changdeokgung/Art/Changdeokgung_icon64.dds</File>
+    <File md5="74B5823FB6ACC452E0ED2FA6ED589A1D" import="1">Changdeokgung/Art/Changdeokgung_icon80.dds</File>
+    <File md5="59EB7F03C30F7F21347EB5357590ABFC" import="1">Changdeokgung/Art/Changdeokgung_splash.dds</File>
+    <File md5="83EBD08953E87E0CF4918C647DDF790D" import="0">Changdeokgung/XML/Buildings/Changdeokgung_BuildingClasses.xml</File>
+    <File md5="8DB9B2F102742FD441A84E58FBE2D4DD" import="0">Changdeokgung/XML/Buildings/Changdeokgung_Buildings.xml</File>
+    <File md5="31B263D104E0401F0D56B55469FA8650" import="0">Changdeokgung/XML/Civilizations/Changdeookgung_Civilizations.xml</File>
+    <File md5="60E419A696307B1C195FA4CC09BC16DA" import="0">Changdeokgung/XML/GameInfo/Changdeokgung_IconTextureAtlases.xml</File>
+    <File md5="A4DD0F130B288B488D08F45470E34E8B" import="0">Changdeokgung/XML/Text/Changdeokgung_text_EN_US.xml</File>
+    <File md5="53E6C746AFF1A1F3CA8720C9B089C263" import="1">Cheomseongdae/Art/Cheomseongdae_splash.dds</File>
+    <File md5="7E0B48FC6381FF4E7759147122036B90" import="1">Cheomseongdae/Art/Cheomseongdae_icon128.dds</File>
+    <File md5="27DEDA10C0419F4819D2E4FCDA299307" import="1">Cheomseongdae/Art/Cheomseongdae_icon256.dds</File>
+    <File md5="CB5AF8A9576C8FAD4F1A3848DE351B8E" import="1">Cheomseongdae/Art/Cheomseongdae_icon45.dds</File>
+    <File md5="CA17A158FB73AE7108C7FE38AE099190" import="1">Cheomseongdae/Art/Cheomseongdae_icon64.dds</File>
+    <File md5="50C3BB8A8EE0134E0123128A4EE9E3F6" import="1">Cheomseongdae/Art/Cheomseongdae_icon80.dds</File>
+    <File md5="257FBDFCFB564D84DC6FFE201FF69B98" import="0">Cheomseongdae/XML/Buildings/Cheomseongdae_BuildingClasses.xml</File>
+    <File md5="0C1DAAF90AE852BDC9215877E4F9DC2C" import="0">Cheomseongdae/XML/Buildings/Cheomseongdae_Buildings.xml</File>
+    <File md5="35AA1166364A1B2D7807714F4CA72EE9" import="0">Cheomseongdae/XML/Civilizations/Cheomseongdae_Civilizations.xml</File>
+    <File md5="F39C69F984D72B09A0CCBD6D455F1546" import="0">Cheomseongdae/XML/GameInfo/Cheomseongdae_IconTextureAtlases.xml</File>
+    <File md5="FA16E73166587D244E889365FAC64D8D" import="0">Cheomseongdae/XML/Text/Cheomseongdae_text_en_US.xml</File>
+  </Files>
+  <Actions>
+    <OnModActivated>
+      <UpdateDatabase>Changdeokgung/XML/Buildings/Changdeokgung_BuildingClasses.xml</UpdateDatabase>
+      <UpdateDatabase>Changdeokgung/XML/Buildings/Changdeokgung_Buildings.xml</UpdateDatabase>
+      <UpdateDatabase>Changdeokgung/XML/Civilizations/Changdeookgung_Civilizations.xml</UpdateDatabase>
+      <UpdateDatabase>Changdeokgung/XML/GameInfo/Changdeokgung_IconTextureAtlases.xml</UpdateDatabase>
+      <UpdateDatabase>Changdeokgung/XML/Text/Changdeokgung_text_EN_US.xml</UpdateDatabase>
+      <UpdateDatabase>Cheomseongdae/XML/Buildings/Cheomseongdae_BuildingClasses.xml</UpdateDatabase>
+      <UpdateDatabase>Cheomseongdae/XML/Buildings/Cheomseongdae_Buildings.xml</UpdateDatabase>
+      <UpdateDatabase>Cheomseongdae/XML/Civilizations/Cheomseongdae_Civilizations.xml</UpdateDatabase>
+      <UpdateDatabase>Cheomseongdae/XML/GameInfo/Cheomseongdae_IconTextureAtlases.xml</UpdateDatabase>
+      <UpdateDatabase>Cheomseongdae/XML/Text/Cheomseongdae_text_en_US.xml</UpdateDatabase>
+    </OnModActivated>
+  </Actions>
+</Mod>

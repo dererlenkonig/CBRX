@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mod id="46471374-dc41-483b-a598-b9e0cd10a776" version="2">
+  <Properties>
+    <Name>Puukohola Heiau Wonder</Name>
+    <Teaser>One of the last surviving great Hawaiian Temples, Pu'ukohola Heiau (Temple on the Hill of the Whale) was constructed prior to</Teaser>
+    <Description>One of the last surviving great Hawaiian Temples, Pu'ukohola Heiau (Temple on the Hill of the Whale) was constructed prior to the unification of Hawaii by future king Kamehameha, when his chiefdom was only in control of the Western side of the island of Hawai'i (The Big Island). The rocks used to construct it were moved by means of human chain around 25 kilometres (14 miles) from the quarry, and the temple was built in less than a year, and dedicated to the Hawaiian War God. Ingame, Pu'ukohola provides +20 XP for Land and Naval units trained in the city. In addition to this, it provides the Amphibious promotion to all newly trained land units, and provides +3  Faith for all Sea resources.</Description>
+    <Authors>Pouakai, sukritact</Authors>
+    <SpecialThanks>CivOasis, Ambrox62</SpecialThanks>
+    <HideSetupGame>0</HideSetupGame>
+    <AffectsSavedGames>1</AffectsSavedGames>
+    <MinCompatibleSaveVersion>0</MinCompatibleSaveVersion>
+    <SupportsSinglePlayer>1</SupportsSinglePlayer>
+    <SupportsMultiplayer>1</SupportsMultiplayer>
+    <SupportsHotSeat>0</SupportsHotSeat>
+    <SupportsMac>1</SupportsMac>
+    <ReloadLandmarkSystem>0</ReloadLandmarkSystem>
+    <ReloadStrategicViewSystem>0</ReloadStrategicViewSystem>
+    <ReloadUnitSystem>0</ReloadUnitSystem>
+  </Properties>
+  <Dependencies>
+    <Dlc id="0E3751A1-F840-4e1b-9706-519BF484E59D" minversion="0" maxversion="999" />
+  </Dependencies>
+  <References />
+  <Blocks />
+  <Files>
+    <File md5="422F5D10C31953B7BA810181A2BDE303" import="1">Art/Puukohola_Heiau_icon128.dds</File>
+    <File md5="887BC763C5D7F5E49AE2D90BE37B628E" import="1">Art/Puukohola_Heiau_icon256.dds</File>
+    <File md5="1A2BCDC3D5C9AAD4F5332EF717EA4426" import="1">Art/Puukohola_Heiau_icon45.dds</File>
+    <File md5="B3554703D4BE69CB8521FFF49FB6BF49" import="1">Art/Puukohola_Heiau_icon64.dds</File>
+    <File md5="0934E49F87E782B30D2762249870F88A" import="1">Art/Puukohola_Heiau_icon80.dds</File>
+    <File md5="CCEB6CAE0A15483EA9036D518E0B5EAA" import="1">Art/Puukohola_Heiau_splash.dds</File>
+    <File md5="EE5C7FF06AD20C3ACBE4552D154D350C" import="0">XML/Buildings/Puukohola_Heiau_BuildingClasses.xml</File>
+    <File md5="D5F318D1B90A92A9611D4A14B2E748C4" import="0">XML/Buildings/Puukohola_Heiau_Buildings.xml</File>
+    <File md5="282185DEA659C48A8D54A4E23BFC88D7" import="0">XML/Civilizations/Puukohola_Heiau_Civilizations.xml</File>
+    <File md5="9AEAC4DC0E6D999282AAB58C8C3037EF" import="0">XML/GameInfo/Puukohola_Heiau_IconTextureAtlases.xml</File>
+    <File md5="0F3C58F09CC0AE219565FAE1E2928606" import="0">XML/Text/Puukohola_Heiau_text_EN_US.xml</File>
+  </Files>
+  <Actions>
+    <OnModActivated>
+      <UpdateDatabase>XML/Buildings/Puukohola_Heiau_BuildingClasses.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Buildings/Puukohola_Heiau_Buildings.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Civilizations/Puukohola_Heiau_Civilizations.xml</UpdateDatabase>
+      <UpdateDatabase>XML/GameInfo/Puukohola_Heiau_IconTextureAtlases.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Text/Puukohola_Heiau_text_EN_US.xml</UpdateDatabase>
+    </OnModActivated>
+  </Actions>
+</Mod>

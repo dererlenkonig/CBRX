@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<Language_en_US>
+		<!-- Description tags -->
+		<Row Tag="TXT_KEY_BUILDING_ALEPPO">
+			<Text>Great Mosque of Aleppo</Text>
+		</Row>
+		<!-- Help tags -->
+		<Row Tag="TXT_KEY_WONDER_ALEPPO_HELP">
+			<Text>+3 [ICON_PRODUCTION] Production for every religion in the city</Text>
+		</Row>
+		<!-- Quote tags -->
+		<Row Tag="TXT_KEY_WONDER_ALEPPO_QUOTE">
+			<Text>[NEWLINE]"The sword wounds the body, but words wound the soul."[NEWLINE] - Zechariah[NEWLINE]</Text>
+		</Row>
+		<!-- Pedia tags -->
+		<Row Tag="TXT_KEY_WONDER_ALEPPO_PEDIA">
+			<Text>The Great Mosque of Aleppo is the largest and one of the oldest mosques in the city of Aleppo, Syria. It is located in al-Jalloum district of the Ancient City of Aleppo, a World Heritage Site, near the entrance to al-Madina Souq. The mosque is purportedly home to the remains of Zechariah, the father of John the Baptist. It was built in the beginning of the 8th century, while the current building dates back to the 11th through 14th centuries. The minaret was built in 1090, and was destroyed during fighting in the Syrian civil war in April 2013. The site of the Great Mosque was once the agora of the Hellenistic period, which later became the garden for the Cathedral of Saint Helena during the Christian era of Roman rule in Syria. The mosque was built on confiscated land that formerly served as the Cathedral cemetery. According to later traditions, the construction of the earliest mosque on the site was commenced by the Ummayad caliph al-Walid I in 715 and was finished by his successor Sulayman ibn Abd al-Malik in 717. [NEWLINE][NEWLINE]The mosque has seen numerous periods of destruction and renovation. In the second half of the 11th century, the Mirdasids controlled Aleppo and built a single-domed fountain in the mosque's courtyard. At the northwest corner of the mosque, the 45-metre high minaret was built by the Shia Muslim qadi ("chief Islamic judge") of Aleppo, Abu'l Hasan Muhammad in 1090, during the reign of Seljuk governor Aq Sunqur al-Hajib. Its construction was finished in 1094 during Tutush's rule. The architect of the project was Hasan ibn Mufarraj al-Sarmini. The mosque was restored and expanded by the Zengid sultan Nur al-Din in 1159 after a great fire that had destroyed the earlier Ummayad structure. This remained largely unchanged until 1260, when the mosque was razed by the Mongols. The Mamluks (1260–1516) made repairs and alterations to repair this damage. Carved Kufic and nashki inscriptions decorated the entire minaret along with alternate bands of stylized ornaments in patterns and muqarnas. Sultan Qalawun replaced the burnt out mihrab (niche indicating the qibla, or direction to Mecca) in 1285. Later, Sultan al-Nasir Muhammad (1293–1341) had the new minbar ("preacher's pulpit") constructed during his reign.[NEWLINE][NEWLINE] On 24 April 2013 the minaret of the mosque was reduced to rubble during an exchange of heavy weapons fire between government forces and rebels during the ongoing Syrian civil war. The Syrian Arab News Agency (SANA) reported that members of Jabhat al-Nusra detonated explosives inside the minaret, while opposition activists said that the minaret was destroyed by Syrian Army tank fire as part of an offensive. Countering assertions by the state media of Jabhat al-Nusra's involvement, opposition sources described them as rebels from the Tawhid Brigades who were fighting government forces around the mosque. The opposition's main political bloc, the Syrian National Coalition (SNC), condemned the minaret's destruction, calling it "an indelible disgrace" and "a crime against human civilization." If not anything else, this exchange proves just how complex the Syrian Civil War is, and that even the beligerants can't definitely agree on a timeline.</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

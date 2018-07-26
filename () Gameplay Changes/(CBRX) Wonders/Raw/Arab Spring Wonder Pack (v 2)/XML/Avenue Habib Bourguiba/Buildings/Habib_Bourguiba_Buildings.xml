@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<Buildings>
+		<Row>
+			<Type>BUILDING_HABIB_BOURGUIBA</Type>
+			<BuildingClass>BUILDINGCLASS_HABIB_BOURGUIBA</BuildingClass>
+			<Description>TXT_KEY_BUILDING_HABIB_BOURGUIBA</Description>
+			<Help>TXT_KEY_WONDER_HABIB_BOURGUIBA_HELP</Help>
+			<Civilopedia>TXT_KEY_WONDER_HABIB_BOURGUIBA_PEDIA</Civilopedia>
+			<Quote>TXT_KEY_WONDER_HABIB_BOURGUIBA_QUOTE</Quote>
+			<Cost>1060</Cost>
+			<PrereqTech>TECH_STEAM_POWER</PrereqTech>
+			<MaxStartEra>ERA_MODERN</MaxStartEra>
+			<SpecialistType>SPECIALIST_MERCHANT</SpecialistType>
+			<GreatPeopleRateChange>1</GreatPeopleRateChange>
+			<NukeImmune>true</NukeImmune>
+			<FreeBuildingThisCity>BUILDINGCLASS_STOCK_EXCHANGE</FreeBuildingThisCity>
+			<HurryCostModifier>-1</HurryCostModifier>
+			<MinAreaSize>-1</MinAreaSize>
+			<ConquestProb>100</ConquestProb>
+			<IconAtlas>BW_ATLAS_ARAB_SPRING</IconAtlas>
+			<PortraitIndex>0</PortraitIndex>
+			<WonderSplashImage>HABIB_BOURGUIBA_splash.dds</WonderSplashImage>
+			<WonderSplashAnchor>L,B</WonderSplashAnchor>
+		</Row>
+	</Buildings>
+	<Building_YieldChanges>
+		<Row>
+			<BuildingType>BUILDING_HABIB_BOURGUIBA</BuildingType>
+			<YieldType>YIELD_CULTURE</YieldType>
+			<Yield>5</Yield>
+		</Row>
+	</Building_YieldChanges>
+	<Building_Flavors>
+		<Row>
+			<BuildingType>BUILDING_HABIB_BOURGUIBA</BuildingType>
+			<FlavorType>FLAVOR_GOLD</FlavorType>
+			<Flavor>20</Flavor>
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_HABIB_BOURGUIBA</BuildingType>
+			<FlavorType>FLAVOR_WONDER</FlavorType>
+			<Flavor>25</Flavor>
+		</Row>
+	</Building_Flavors>
+</GameData>

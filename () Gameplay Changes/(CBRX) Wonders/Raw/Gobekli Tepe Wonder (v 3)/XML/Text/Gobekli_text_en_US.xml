@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<Language_en_US>
+		<!-- Description tags -->
+		<Row Tag="TXT_KEY_BUILDING_GOBEKLI">
+			<Text>Göbekli Tepe</Text>
+		</Row>
+		<!-- Help tags -->
+		<Row Tag="TXT_KEY_WONDER_GOBEKLI_HELP">
+			<Text>Each source of [ICON_RES_STONE] Stone and [ICON_RES_MARBLE] Marble worked by the city provides +2 [ICON_PEACE] Faith</Text>
+		</Row>
+		<!-- Quote tags -->
+		<Row Tag="TXT_KEY_WONDER_GOBEKLI_QUOTE">
+			<Text>[NEWLINE]"Listen a hundred times; ponder a thousand times; speak once"[NEWLINE] - Turkish Proverb[NEWLINE]</Text>
+		</Row>
+		<!-- Pedia tags -->
+		<Row Tag="TXT_KEY_WONDER_GOBEKLI_PEDIA">
+			<Text>Göbekli Tepe is a religious site located in southern Turkey, near the Syrian border. It is the oldest known religious building on earth, dating to approximately 10000 BCE, during the Neolithic age of Human civilization, and predating all major civilizations and cities by several millenia. It was first observed during the 1960's, when archeologists noted that the hill could not be natural due to the shape, yet dismissed it as a Byzantine burial ground. It was not thought different until 1994, and not excavated until a year later. The complex is similar in manner to Stonehenge, with a round shape and large Monolithic stones. However, unlike Stonehenge, many of the pillars are carved with the figures of several animals, which are believed to have been sacred to the hunter-gatherers which constructed Göbekli Tepe. </Text>
+		</Row>
+	</Language_en_US>
+</GameData>

@@ -1,0 +1,57 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mod id="6c41bc1a-7afd-4454-8cb1-4f865992ed05" version="2">
+  <Properties>
+    <Name>Banaue Rice Terraces Wonder</Name>
+    <Teaser>The Banaue Rice Terraces of Ifugao Province, Philippines are a series of Rice Terraces carved into the hillsides.</Teaser>
+    <Description>The Banaue Rice Terraces of Ifugao Province, Philippines are a series of Rice Terraces carved into the hillsides.They were first carved in the first century CE, and have since expanded across the region to the point where the length of terraces would reach half way around the Earth. The terraces are irrigated by an intricate system developed by the ancient culture from the rainforests higher up the slopes. Ingame, the Banaue Rice Terraces provide two sources of the [ICON_RES_RICE] Rice luxury resource and +4 [ICON_FOOD] Food, while it requires The Wheel and must be built in a city on a hill tile.</Description>
+    <Authors>Pouakai, sukritact, chrissifniotis</Authors>
+    <HideSetupGame>0</HideSetupGame>
+    <AffectsSavedGames>1</AffectsSavedGames>
+    <MinCompatibleSaveVersion>0</MinCompatibleSaveVersion>
+    <SupportsSinglePlayer>1</SupportsSinglePlayer>
+    <SupportsMultiplayer>1</SupportsMultiplayer>
+    <SupportsHotSeat>1</SupportsHotSeat>
+    <SupportsMac>1</SupportsMac>
+    <ReloadLandmarkSystem>0</ReloadLandmarkSystem>
+    <ReloadStrategicViewSystem>0</ReloadStrategicViewSystem>
+    <ReloadUnitSystem>0</ReloadUnitSystem>
+  </Properties>
+  <Dependencies>
+    <Dlc id="0E3751A1-F840-4e1b-9706-519BF484E59D" minversion="0" maxversion="999" />
+  </Dependencies>
+  <References />
+  <Blocks />
+  <Files>
+    <File md5="41BA80ADC3D2C7B8D16BF45ACC0B88A8" import="1">Art/Banaue_splash.dds</File>
+    <File md5="71A730E5092DDD8B5A739018F017B1A2" import="1">Art/Rice_128.dds</File>
+    <File md5="F81CB7D62A359237D8E118A0F13C2044" import="1">Art/Rice_256.dds</File>
+    <File md5="69063E75ED1FEFDE0B16DC176A5077C5" import="1">Art/Rice_45.dds</File>
+    <File md5="EC543CE7B92CA6631BD1751254933CFA" import="1">Art/Rice_64.dds</File>
+    <File md5="E878AB8B9F04C181A2B29E6351877CA8" import="1">Art/Rice_80.dds</File>
+    <File md5="B397D7451C695DBD54E428DF00B98652" import="1">Art/Banaue_128.dds</File>
+    <File md5="55FC213BB17369CDC1DA22012931FF9B" import="1">Art/Banaue_256.dds</File>
+    <File md5="DB4FE89205C19BBDDC0835E1BB0F42A7" import="1">Art/Banaue_45.dds</File>
+    <File md5="8E409F793D08BE22214EA942E2B43F35" import="1">Art/Banaue_64.dds</File>
+    <File md5="4C848DADDE880DBC0488F21A497E512B" import="1">Art/Banaue_80.dds</File>
+    <File md5="67DE0F3417CD7CEA2635EE0A36ED13BE" import="0">Font Icon/Rice_Fonticon.xml</File>
+    <File md5="03B8B90F256C9E914C3B6FF1EC77B3F5" import="1">Font Icon/Rice_fonticons.ggxml</File>
+    <File md5="AE91937F3B03D56C75432ACD219952F5" import="1">Font Icon/Rice_fonticons.dds</File>
+    <File md5="D4B2D83A6CE24BB39CFE194A0253A332" import="0">XML/Buildings/Banaue_BuildingClasses.xml</File>
+    <File md5="19EAEB60426DF416A47CF9BC0215C8F0" import="0">XML/Buildings/Banaue_Buildings.xml</File>
+    <File md5="0E37D3BEFD14DECBDE41FC08198BBE3B" import="0">XML/Civilizations/Banaue_Civilizations.xml</File>
+    <File md5="29C2356BDF531DE28012F253198AA196" import="0">XML/GameInfo/Banaue_IconTextureAtlases.xml</File>
+    <File md5="D9A8185EE6B3FB796886BA3A2A549DA1" import="0">XML/Terrain/Rice.xml</File>
+    <File md5="7BEE6138DC8A64E24B5175133E8B965A" import="0">XML/Text/Banaue_text_EN_US.xml</File>
+  </Files>
+  <Actions>
+    <OnModActivated>
+      <UpdateDatabase>Font Icon/Rice_Fonticon.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Buildings/Banaue_BuildingClasses.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Buildings/Banaue_Buildings.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Civilizations/Banaue_Civilizations.xml</UpdateDatabase>
+      <UpdateDatabase>XML/GameInfo/Banaue_IconTextureAtlases.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Terrain/Rice.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Text/Banaue_text_EN_US.xml</UpdateDatabase>
+    </OnModActivated>
+  </Actions>
+</Mod>

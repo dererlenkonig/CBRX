@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<Language_en_US>
+		<!--Resource tags-->
+		<Row Tag="TXT_KEY_RESOURCE_RICE">
+			<Text>Rice</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_RESOURCE_RICE_TEXT">
+			<Text>Rice is a cereal grain produced primarily from plants of the Oryza genus. It serves as the staple crop for millions of people worldwide, mainly in areas of Eastern and Southern Asia and the West Indies, each group having their own preferences as to the preparation of the crop. Different regions also have different ways to grow Rice - in flatter areas of Japan and China, Rice is grown in large fields known as Rice Paddies, whereas in areas with less flat ground such as the mountainous areas of China or the Philippines, terraces are cut into the mountainside for Rice to be grown in, to support the wet conditions needed for the rice to grow.</Text>
+		</Row>
+		<!-- Description tags -->
+		<Row Tag="TXT_KEY_BUILDING_BANAUE">
+			<Text>Banaue Rice Terraces</Text>
+		</Row>
+		<!-- Help tags -->
+		<Row Tag="TXT_KEY_WONDER_BANAUE_HELP">
+			<Text>Provides +2 [ICON_RES_RICE] Rice resources. City must be built on a hill.</Text>
+		</Row>
+		<!-- Quote tags -->
+		<Row Tag="TXT_KEY_WONDER_BANAUE_QUOTE">
+			<Text>
+				[NEWLINE]"From wonder into wonder existence opens."[NEWLINE] - Lao Tzu[NEWLINE]</Text>
+		</Row>
+		<!-- Pedia tags -->
+		<Row Tag="TXT_KEY_WONDER_BANAUE_PEDIA">
+			<Text>5000 feet above the sea, covering approximately 4000 square miles of Ifagao mountainside, sits the Banaue Rice Terraces. The terraces are about 2000 years old, built by the ancient indigenous Ifugao, and is still fed today by an ancient irrigation system using the rainforests above. It is common belief that the ancient terraces were built with minimal equipment and mostly by hand. It is said that putting the steps to travel the terraces end to end, they would encircle half the Equator of our Earth. The Ifugao culture is dominated by the use of rice, introducing the many rice culture feasts to the young and agricultural rites from the cultivation to consumption of rice.[NEWLINE][NEWLINE]Today the terraces are still in use, farming rice and vegetables to the Ifugao. However, more of the Ifugao find farming unappealing to other industries. This has resulted in a slow erosion of the site - the steps having been most affected - and the greater need for care of the site. In 2010 a greater problem emerged - drought - which caused the terraces to dry up entirely by March.</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

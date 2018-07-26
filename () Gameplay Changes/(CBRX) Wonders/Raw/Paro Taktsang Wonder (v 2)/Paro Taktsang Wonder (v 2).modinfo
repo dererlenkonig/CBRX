@@ -1,0 +1,56 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mod id="d06fe66c-74d1-423b-9b44-3b418b52292f" version="2">
+  <Properties>
+    <Name>Paro Taktsang Wonder</Name>
+    <Teaser>Located on the side of a Bhutanese cliff, the Paro Taktsang monastery is a monastery built in the 17th century to honor the guru</Teaser>
+    <Description>Located on the side of a Bhutanese cliff, the Paro Taktsang monastery is a monastery built in the 17th century to honor the guru who is credited with the introduction of Buddhism to Bhutan, who is said to have meditated in a cave on the site in the 9th century. Legends abound about the origins of the location, one such foundation myth is the guru came to the area from Tibet on the back of a flying Tigress, hense the origin of the nickname "The Tiger's Nest". Ingame, Paro Taktsang provides +1 faith and +1 culture from Mountain tiles and a free monastery in the city, while it requires Theology and must be built in a city with a nearby mountain.</Description>
+    <Authors>Pouakai, sukritact, Moriboe</Authors>
+    <SpecialThanks>Ambrox62</SpecialThanks>
+    <HideSetupGame>0</HideSetupGame>
+    <AffectsSavedGames>1</AffectsSavedGames>
+    <MinCompatibleSaveVersion>0</MinCompatibleSaveVersion>
+    <SupportsSinglePlayer>1</SupportsSinglePlayer>
+    <SupportsMultiplayer>1</SupportsMultiplayer>
+    <SupportsHotSeat>1</SupportsHotSeat>
+    <SupportsMac>1</SupportsMac>
+    <ReloadLandmarkSystem>0</ReloadLandmarkSystem>
+    <ReloadStrategicViewSystem>0</ReloadStrategicViewSystem>
+    <ReloadUnitSystem>0</ReloadUnitSystem>
+  </Properties>
+  <Dependencies>
+    <Dlc id="0E3751A1-F840-4e1b-9706-519BF484E59D" minversion="0" maxversion="999" />
+  </Dependencies>
+  <References />
+  <Blocks />
+  <Files>
+    <File md5="A01865136E1FAEB681B514C4F9EC2B30" import="1">Art/Taktsang_128.dds</File>
+    <File md5="1B86CD2DD983A82EFB0700D010D8DD87" import="1">Art/Taktsang_256.dds</File>
+    <File md5="CB54C355088B0F98559B80D23B40F72B" import="1">Art/Taktsang_45.dds</File>
+    <File md5="E2B043D270F4C6EBCDEAD6E1EE809963" import="1">Art/Taktsang_64.dds</File>
+    <File md5="BDFDAAA2C83F56714454C7095A14A198" import="1">Art/Taktsang_80.dds</File>
+    <File md5="62E77C5CCDB9A5E5FA109C6BD4045BD8" import="1">Art/Taktsang_splash.dds</File>
+    <File md5="051DEE1697C65EF8E3BB9EE956476708" import="0">Lua/Mountain yields.lua</File>
+    <File md5="968A7AC555D49875BDE0DDA87234A97F" import="0">XML/Buildings/Taktsang_BuildingClasses.xml</File>
+    <File md5="486883B04BABE38E9BA491ACAAF63332" import="0">XML/Buildings/Taktsang_Buildings.xml</File>
+    <File md5="C95F4EF5D80D18506C171289287DCD0E" import="0">XML/Civilizations/Taktsang_Civilizations.xml</File>
+    <File md5="40C4175E8A88B8A53077E74D97B2C652" import="0">XML/GameInfo/Taktsang_IconTextureAtlases.xml</File>
+    <File md5="26FEA8D0AD50CEC3C61DE6B8B0185EAB" import="0">XML/Terrain/Mountain.xml</File>
+    <File md5="179F08B3C330488D855488CAFEB49FAC" import="0">XML/Text/Taktsang_text_en_US.xml</File>
+  </Files>
+  <Actions>
+    <OnModActivated>
+      <UpdateDatabase>XML/Buildings/Taktsang_BuildingClasses.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Buildings/Taktsang_Buildings.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Civilizations/Taktsang_Civilizations.xml</UpdateDatabase>
+      <UpdateDatabase>XML/GameInfo/Taktsang_IconTextureAtlases.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Terrain/Mountain.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Text/Taktsang_text_en_US.xml</UpdateDatabase>
+    </OnModActivated>
+  </Actions>
+  <EntryPoints>
+    <EntryPoint type="InGameUIAddin" file="Lua/Mountain yields.lua">
+      <Name>Mountain yields</Name>
+      <Description>Allows mountains to be worked and given yields</Description>
+    </EntryPoint>
+  </EntryPoints>
+</Mod>

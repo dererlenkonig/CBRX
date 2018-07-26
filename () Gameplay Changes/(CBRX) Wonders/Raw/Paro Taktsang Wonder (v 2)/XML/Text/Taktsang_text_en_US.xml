@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<Language_en_US>
+		<!-- Description tags -->
+		<Row Tag="TXT_KEY_BUILDING_TAKTSANG">
+			<Text>Paro Taktsang</Text>
+		</Row>
+		<!-- Help tags -->
+		<Row Tag="TXT_KEY_WONDER_TAKTSANG_HELP">
+			<Text>+1 [ICON_PEACE] Faith and +1 [ICON_CULTURE] Culture from Mountain tiles. Provides a free Monastery in the city in which it is built. City must be have a Mountain nearby.</Text>
+		</Row>
+		<!-- Quote tags -->
+		<Row Tag="TXT_KEY_WONDER_TAKTSANG_QUOTE">
+			<Text>[NEWLINE]"There are many paths to the top of the mountain, yet the view is always the same"[NEWLINE] - Chinese Proverb[NEWLINE]</Text>
+		</Row>
+		<!-- Pedia tags -->
+		<Row Tag="TXT_KEY_WONDER_TAKTSANG_PEDIA">
+			<Text>Sometimes referred to as the 'Tiger's Nest', Paro Taktsang is a prominent Himalayan Buddhist temple complex resting along the cliff face of the upper Paro Valley in Bhutan. The temple was built in 1692 by Gyalse Tenzin Rebgye, the fourth Druk Desi - secular ruler - of Bhutan. Tenzin Rebgye arrived at the Taktsang Senge Samdup cave - the site where Guru Padmasambhava, an 8th century Buddhist Guru credited for introducing Buddhism to Bhutan, was said to have meditated there from three years, three months, three weeks, three days and three hours.Paro Taktsang is best known for its thirteen taktsang - tiger lair - caves, where Padmasambhava is said to have meditated. Within the complex there is the Gu-ru mTshan-brgyad Lhakhang - "the Temple of the Guru with Eight Names", a temple devoted to the Guru himself. This temple is a cultural icon in Bhutan as well as a symbol of Buddhism in the country. At around March or April the popular Tsechu festival is held in the Paro Valley honouring Padmasambhava.[NEWLINE][NEWLINE]Legends surrounding the site are plentyful. The most commonly accepted belief is that Padmasambhava flew from Tibet to the Paro Valley on the back of a flying tigress and the site was consecrated to tame the Tiger demon. Another common legend is that a former wife of an emperor, Yeshe Tsogyal, became a disciple of Padmasambhava in Tibet, where she turned herself into a tigress and thus carried the Guru to the valley. From the eleventh century many Tibetan saints came to the site for meditation, some include Milarepa, Machig Labdrön and Thangton Gyelpo. Many of these saints, including all mentioned, established Buddhist monasteries, spreading Buddhism to all parts of the would-be country. On April 19, 1998, a fire broke out in the main building of the complex, containing within valuable paintings and religious artifacts. It is believed the fire was electrical in nature, either a short-circuit or a flickering lamp lighting tapestries. The cost of the fire is estimated at 135 million ngultrum - $US2.5 million today - and sadly the life of a monk. During 2005 both the King and the Government of Bhutan oversaw the restoration of the temple complex and its contents therein.</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

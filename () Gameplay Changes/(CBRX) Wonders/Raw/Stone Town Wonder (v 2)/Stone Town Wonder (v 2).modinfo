@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mod id="ba8197e1-e71f-40b5-863a-2afee8899da1" version="2">
+  <Properties>
+    <Name>Stone Town Wonder</Name>
+    <Teaser>Stone Town is the old district of the spice island of Zanzibar, Tanzania. It has long been synonomous with trade</Teaser>
+    <Description>Stone Town is the old district of the spice island of Zanzibar, Tanzania. It has long been synonomous with trade and exotic spices. The history of the settlement has seen many traders from distant shores sourcing exotic spices,  as Zanzibar was a trading crossroads of the world, with Stone Town at it's centre</Description>
+    <Authors>Pouakai, sukritact</Authors>
+    <SpecialThanks>SamBC, Ambrox62</SpecialThanks>
+    <HideSetupGame>0</HideSetupGame>
+    <AffectsSavedGames>1</AffectsSavedGames>
+    <MinCompatibleSaveVersion>0</MinCompatibleSaveVersion>
+    <SupportsSinglePlayer>1</SupportsSinglePlayer>
+    <SupportsMultiplayer>1</SupportsMultiplayer>
+    <SupportsHotSeat>1</SupportsHotSeat>
+    <SupportsMac>1</SupportsMac>
+    <ReloadLandmarkSystem>0</ReloadLandmarkSystem>
+    <ReloadStrategicViewSystem>0</ReloadStrategicViewSystem>
+    <ReloadUnitSystem>0</ReloadUnitSystem>
+  </Properties>
+  <Dependencies>
+    <Dlc id="6DA07636-4123-4018-B643-6575B4EC336B" minversion="0" maxversion="999" />
+  </Dependencies>
+  <References />
+  <Blocks />
+  <Files>
+    <File md5="EBE8F78C7A77B3D362C8711F14DB2CB5" import="1">Art/Stone_Town_128.dds</File>
+    <File md5="98D694550545FE85C46D983E12325447" import="1">Art/Stone_Town_256.dds</File>
+    <File md5="130407E0400BC151B82C0756F46F68CE" import="1">Art/Stone_Town_45.dds</File>
+    <File md5="9746C29DF3DC839A5E3064FD659DDD93" import="1">Art/Stone_Town_64.dds</File>
+    <File md5="BF733704F830412809514BFB9D905EC6" import="1">Art/Stone_Town_80.dds</File>
+    <File md5="4E28328BB1A1023111F2FE2EA4888AB4" import="1">Art/Stone_Town_splash.dds</File>
+    <File md5="478FEC106F169371CBF79F3BA3B7D2D9" import="0">XML/Buildings/Stone_Town_BuildingClasses.xml</File>
+    <File md5="B05EF3670E2E36AD0F6F14E875174795" import="0">XML/Buildings/Stone_Town_Buildings.xml</File>
+    <File md5="E2911A89D11BBB73DF357BBD23783375" import="0">XML/Civilizations/Stone_Town_Civilizations.xml</File>
+    <File md5="A9A23224A65BA5E7560D1362CC2EC74D" import="0">XML/GameInfo/Stone_Town_IconTextureAtlases.xml</File>
+    <File md5="8E81597CB646B6073F75912475AD8E69" import="0">XML/Text/Stone_Town_text_EN_US.xml</File>
+  </Files>
+  <Actions>
+    <OnModActivated>
+      <UpdateDatabase>XML/Buildings/Stone_Town_BuildingClasses.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Buildings/Stone_Town_Buildings.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Civilizations/Stone_Town_Civilizations.xml</UpdateDatabase>
+      <UpdateDatabase>XML/GameInfo/Stone_Town_IconTextureAtlases.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Text/Stone_Town_text_EN_US.xml</UpdateDatabase>
+    </OnModActivated>
+  </Actions>
+</Mod>

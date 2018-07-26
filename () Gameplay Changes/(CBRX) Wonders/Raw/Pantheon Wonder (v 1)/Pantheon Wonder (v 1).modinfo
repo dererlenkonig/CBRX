@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mod id="794b5eef-b286-454d-8bde-e274a8ea6600" version="1">
+  <Properties>
+    <Name>Pantheon Wonder</Name>
+    <Teaser>The Pantheon is a large building in the Italian capital of Rome. Orginally built during the time of a Roman statesman</Teaser>
+    <Description>The Pantheon is a large building in the Italian capital of Rome. Orginally built during the time of the Roman statesman Marcus Agrippa, and rebuilt under the reign of the Emperor Hadrian. Originally built as a temple to the Roman Pantheon of gods, it was converted into a church and tomb by subsequent owners. Today it is still used as a church, with mass held frequently, although its past is still visible. The Pantheon also features the world's largest unsupported concrete dome with a diameter of 43.3 metres. Ingame, the Pantheon provides a free Great Prophet, and becomes available with Mathematics.</Description>
+    <Authors>Pouakai, sukritact</Authors>
+    <HideSetupGame>0</HideSetupGame>
+    <AffectsSavedGames>1</AffectsSavedGames>
+    <MinCompatibleSaveVersion>0</MinCompatibleSaveVersion>
+    <SupportsSinglePlayer>1</SupportsSinglePlayer>
+    <SupportsMultiplayer>1</SupportsMultiplayer>
+    <SupportsHotSeat>1</SupportsHotSeat>
+    <SupportsMac>1</SupportsMac>
+    <ReloadLandmarkSystem>0</ReloadLandmarkSystem>
+    <ReloadStrategicViewSystem>0</ReloadStrategicViewSystem>
+    <ReloadUnitSystem>0</ReloadUnitSystem>
+  </Properties>
+  <Dependencies>
+    <Dlc id="0E3751A1-F840-4e1b-9706-519BF484E59D" minversion="0" maxversion="999" />
+  </Dependencies>
+  <References />
+  <Blocks />
+  <Files>
+    <File md5="7191ECF2E97BDD1BF39F1857F08FEC4E" import="1">Art/Pantheon_128.dds</File>
+    <File md5="85F2860BF90CC7CA2D68F644DFF2AA73" import="1">Art/Pantheon_256.dds</File>
+    <File md5="7011C57D6A70BA3CE9794DF3696D2426" import="1">Art/Pantheon_45.dds</File>
+    <File md5="A588C125EEC1DF043C8FB79B57CB00FF" import="1">Art/Pantheon_64.dds</File>
+    <File md5="2EFB4CC5609F00904039157C09652916" import="1">Art/Pantheon_80.dds</File>
+    <File md5="51B7F2A221D3FC0E6BBD0C0268375C19" import="1">Art/Pantheon_splash.dds</File>
+    <File md5="6F418BE54C7DB20AB93183D17D8DE3BD" import="0">XML/Buildings/Pantheon_BuildingClasses.xml</File>
+    <File md5="4BC2E96BADEFD3F645C0F2E85D3297F3" import="0">XML/Buildings/Pantheon_Buildings.xml</File>
+    <File md5="9FEC1F3164421A529F0D66ACEAAC8D99" import="0">XML/Civilizations/Pantheon_Civilizations.xml</File>
+    <File md5="02967E58C0E3DE670243645C35F4C121" import="0">XML/GameInfo/Templo_IconTextureAtlases.xml</File>
+    <File md5="E9D812EAD0A75A1DFF93D283E000BBAB" import="0">XML/Text/Pantheon_text_EN_US.xml</File>
+  </Files>
+  <Actions>
+    <OnModActivated>
+      <UpdateDatabase>XML/Buildings/Pantheon_BuildingClasses.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Buildings/Pantheon_Buildings.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Civilizations/Pantheon_Civilizations.xml</UpdateDatabase>
+      <UpdateDatabase>XML/GameInfo/Templo_IconTextureAtlases.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Text/Pantheon_text_EN_US.xml</UpdateDatabase>
+    </OnModActivated>
+  </Actions>
+</Mod>

@@ -1,0 +1,61 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mod id="43d4b526-9ea9-415c-8af3-12ffe64d8e7f" version="2">
+  <Properties>
+    <Name>Diwali Wonder Pack</Name>
+    <Teaser>Diwali is a festival sacred in three of India's main religions - Hinduism, Sikhism and Jainism. It is celebrated around the 13t</Teaser>
+    <Description>Diwali is a festival sacred in three of India's main religions - Hinduism, Sikhism and Jainism. It is celebrated around the 13th of November, and is commonly refered to as the festival of lights. To celebrate this Diwali, we bring to you a compendium of five Indian wonders - from the intricate masonry of the Hawa Mahal to the imposing walls of the Agra Fort, each wonder features unique attributes and is completely modular. If you do not wish for any wonder to be in your game, simply add an underscore to every file with a title that has the name of the wonder in it.</Description>
+    <Authors>Pouakai, sukritact, chrissifniotis</Authors>
+    <SpecialThanks>Ambrox62</SpecialThanks>
+    <HideSetupGame>0</HideSetupGame>
+    <AffectsSavedGames>1</AffectsSavedGames>
+    <MinCompatibleSaveVersion>0</MinCompatibleSaveVersion>
+    <SupportsSinglePlayer>1</SupportsSinglePlayer>
+    <SupportsMultiplayer>1</SupportsMultiplayer>
+    <SupportsHotSeat>1</SupportsHotSeat>
+    <SupportsMac>1</SupportsMac>
+    <ReloadAudioSystem>0</ReloadAudioSystem>
+    <ReloadLandmarkSystem>0</ReloadLandmarkSystem>
+    <ReloadStrategicViewSystem>0</ReloadStrategicViewSystem>
+    <ReloadUnitSystem>0</ReloadUnitSystem>
+  </Properties>
+  <Dependencies>
+    <Dlc id="6DA07636-4123-4018-B643-6575B4EC336B" minversion="0" maxversion="999" />
+  </Dependencies>
+  <References />
+  <Blocks />
+  <Files>
+    <File md5="CF67CFD810DB99FAFCF578B776699D74" import="1">Art/Aber_splash.dds</File>
+    <File md5="39FF31608D1081B28C66AFBEF92CBB2A" import="1">Art/Agra_splash.dds</File>
+    <File md5="1BD39301C500962A098CB483EE11B7FC" import="1">Art/Diwali_128.dds</File>
+    <File md5="7379CA50D1A40C1A856F77B39C84E834" import="1">Art/Diwali_256.dds</File>
+    <File md5="1E04561279B9F91CA70F0AD6A59B2A9E" import="1">Art/Diwali_45.dds</File>
+    <File md5="AEA9C9DEA231AAF7C077279281940844" import="1">Art/Diwali_64.dds</File>
+    <File md5="835FD03619967004BAABCC4EB03FB8D8" import="1">Art/Diwali_80.dds</File>
+    <File md5="4D41D2ACB0F41AC15546E4A3BE880011" import="1">Art/Harmandir_splash.dds</File>
+    <File md5="3718BA2B3B45DE637289C28546B91C0F" import="1">Art/Hawa_splash.dds</File>
+    <File md5="0EA858557CCFDCE595FA9CFFE0901897" import="1">Art/Mahadeva_splash.dds</File>
+    <File md5="4113990F916FD2ADDAA7194627F15A04" import="0">XML/Buildings/Mahadeva_Buildings.xml</File>
+    <File md5="A0F79805DD7D7900853D48A967D14E35" import="0">XML/Buildings/Harmandir_Buildings.xml</File>
+    <File md5="10DD54EB4C5774F1E31210FE62F2F416" import="0">XML/Buildings/Hawa_Buildings.xml</File>
+    <File md5="B6D9D1AF6338FB38281841BF9D55B2BD" import="0">XML/Buildings/Aber_Buildings.xml</File>
+    <File md5="8002B48096D0973E3481E58E8C719406" import="0">XML/Buildings/Diwali_BuildingClasses.xml</File>
+    <File md5="A2257EAE8A65C2A1EC6F17785F082F72" import="0">XML/Buildings/Agra_Buildings.xml</File>
+    <File md5="98D71B652695304CB86972AB918E9D20" import="0">XML/Civilizations/Diwali_Civilizations.xml</File>
+    <File md5="BEF1A7FE714779DBF03F97CADC3D463B" import="0">XML/Civilizations/Mahadeva_Policies.xml</File>
+    <File md5="BBE0B1C758CF4E816BECDE31DEEA6764" import="0">XML/GameInfo/Diwali_IconTextureAtlases.xml</File>
+    <File md5="1887049B623590D28B909D111717C44A" import="0">XML/Text/Diwali_text_en_US.xml</File>
+  </Files>
+  <Actions>
+    <OnModActivated>
+      <UpdateDatabase>XML/Buildings/Aber_Buildings.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Buildings/Agra_Buildings.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Buildings/Diwali_BuildingClasses.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Buildings/Harmandir_Buildings.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Buildings/Hawa_Buildings.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Buildings/Mahadeva_Buildings.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Civilizations/Diwali_Civilizations.xml</UpdateDatabase>
+      <UpdateDatabase>XML/GameInfo/Diwali_IconTextureAtlases.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Text/Diwali_text_en_US.xml</UpdateDatabase>
+    </OnModActivated>
+  </Actions>
+</Mod>

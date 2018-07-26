@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mod id="6a3269f6-a8ab-4473-bc90-a7e6bff04c24" version="2">
+  <Properties>
+    <Name>Pena National Palace Wonder</Name>
+    <Teaser>A national treasure of Portugal, the Pena National Palace can be seen from the capital, Lisbon, on many days</Teaser>
+    <Description>Pena National Palace is a large Romanticist palace located on a hill in the Sintra region of Portugal, close enough so that it can be seen on fine days in the capital, Lisbon. It was constructed on the site of a former monastery, which was in turn constructed on the site from an apparent appariation of the Virgin Mary of Christianity. The monastery was destroyed in the Great Lisbon Earthquake of 1755, and King Ferdinand II build the Pena National Palace in it's place. Ingame, Pena National Palace makes defensive buildings +20% more effective, and is available with Steam Power.</Description>
+    <Authors>Pouakai, sukritact, Huehueteotl</Authors>
+    <HideSetupGame>0</HideSetupGame>
+    <AffectsSavedGames>1</AffectsSavedGames>
+    <MinCompatibleSaveVersion>0</MinCompatibleSaveVersion>
+    <SupportsSinglePlayer>1</SupportsSinglePlayer>
+    <SupportsMultiplayer>1</SupportsMultiplayer>
+    <SupportsHotSeat>0</SupportsHotSeat>
+    <SupportsMac>1</SupportsMac>
+    <ReloadLandmarkSystem>0</ReloadLandmarkSystem>
+    <ReloadStrategicViewSystem>0</ReloadStrategicViewSystem>
+    <ReloadUnitSystem>0</ReloadUnitSystem>
+  </Properties>
+  <Dependencies>
+    <Dlc id="0E3751A1-F840-4e1b-9706-519BF484E59D" minversion="0" maxversion="999" />
+  </Dependencies>
+  <References />
+  <Blocks />
+  <Files>
+    <File md5="BBD8B991A6F4916CA43AD93D0EDAFC6A" import="1">Art/Pena_icon128.dds</File>
+    <File md5="15977B8C36378C7E7DBA61F4A1D28879" import="1">Art/Pena_icon256.dds</File>
+    <File md5="C200CD1B83EDA6BD80D247F631859D77" import="1">Art/Pena_icon45.dds</File>
+    <File md5="04F60426CBDDBE40FD326317593569F4" import="1">Art/Pena_icon64.dds</File>
+    <File md5="37202475916EAD09B73165B777113640" import="1">Art/Pena_icon80.dds</File>
+    <File md5="9253EC513261509779873E7C2A2C656A" import="1">Art/Pena_splash.dds</File>
+    <File md5="FCD14C23B4B8BCC61565285BBC116EFA" import="0">XML/Buildings/Pena_BuildingClasses.xml</File>
+    <File md5="5F945E30B264814750D2855FAC8D7A67" import="0">XML/Buildings/Pena_Buildings.xml</File>
+    <File md5="AE7CDBFA81DA4AF4F9BC589B9AE2AA32" import="0">XML/Civilizations/Pena_Civilizations.xml</File>
+    <File md5="37CA5602583D42ED62E8913E7F6F6938" import="0">XML/GameInfo/Pena_IconTextureAtlases.xml</File>
+    <File md5="440EE7E4B4D73DF02BE9DECEB740458A" import="0">XML/Text/Pena_text_en_US.xml</File>
+  </Files>
+  <Actions>
+    <OnModActivated>
+      <UpdateDatabase>XML/Buildings/Pena_BuildingClasses.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Buildings/Pena_Buildings.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Civilizations/Pena_Civilizations.xml</UpdateDatabase>
+      <UpdateDatabase>XML/GameInfo/Pena_IconTextureAtlases.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Text/Pena_text_en_US.xml</UpdateDatabase>
+    </OnModActivated>
+  </Actions>
+</Mod>

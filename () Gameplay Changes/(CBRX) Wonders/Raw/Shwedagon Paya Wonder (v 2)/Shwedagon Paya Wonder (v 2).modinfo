@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mod id="994ecea3-4c8d-4d86-aab6-37a1afd3bc81" version="2">
+  <Properties>
+    <Name>Shwedagon Paya Wonder</Name>
+    <Teaser>Set amongst the city of Rangoon, Myanmar, Shwedagon Paya is one of the world's largest Buddhist Stupas at a height of 99 metres.</Teaser>
+    <Description>Set amongst the city of Rangoon, Myanmar, Shwedagon Paya is one of the world's largest Buddhist Stupas at a height of 99 metres. It is largely known for the coating of Gold, which has been donated by generations of Burmese nationals. It is also rumoured to contain parts of the remains of 8 Buddhas, collected by travellers across the over 2,500 years of Shwedagon Paya's existance. Ingame, Shwedagon Paya provides +3 Faith from all sources of Gold worked by the city, as well as providing an additional +1 gold from each Artist or Engineer specialist in the empire, while it becomes available with Metal Casting.</Description>
+    <Authors>Pouakai, sukritact</Authors>
+    <SpecialThanks>Mentos</SpecialThanks>
+    <HideSetupGame>0</HideSetupGame>
+    <AffectsSavedGames>1</AffectsSavedGames>
+    <MinCompatibleSaveVersion>0</MinCompatibleSaveVersion>
+    <SupportsSinglePlayer>1</SupportsSinglePlayer>
+    <SupportsMultiplayer>1</SupportsMultiplayer>
+    <SupportsHotSeat>1</SupportsHotSeat>
+    <SupportsMac>1</SupportsMac>
+    <ReloadLandmarkSystem>0</ReloadLandmarkSystem>
+    <ReloadStrategicViewSystem>0</ReloadStrategicViewSystem>
+    <ReloadUnitSystem>0</ReloadUnitSystem>
+  </Properties>
+  <Dependencies />
+  <References />
+  <Blocks />
+  <Files>
+    <File md5="18E536F20979C4ED392273E3170207FA" import="1">Art/Shwedagon_128.dds</File>
+    <File md5="7FFB52B7785421891FCE9BF92A74EE44" import="1">Art/Shwedagon_256.dds</File>
+    <File md5="245BD5A3AB9D8A794D4646A8B5ABC58F" import="1">Art/Shwedagon_45.dds</File>
+    <File md5="33A79D5B30E06ECBA56D6E3FAA33D3E8" import="1">Art/Shwedagon_64.dds</File>
+    <File md5="E0869C4829ED9F550DFD3BB062010294" import="1">Art/Shwedagon_80.dds</File>
+    <File md5="919386579AACA20B89EE285FB5DBF308" import="1">Art/Shwedagon_splash.dds</File>
+    <File md5="E70502340014E3CC1B84729769B18544" import="0">XML/Buildings/Shwedagon_BuildingClasses.xml</File>
+    <File md5="B5FF358C7BEB94A892DCA1E76EF533F5" import="0">XML/Buildings/Shwedagon_Buildings.xml</File>
+    <File md5="7D24D009213E9E00CED1B6F61E09ABCA" import="0">XML/Civilizations/Shwedagon_Civilizations.xml</File>
+    <File md5="83B2403B9078F1649BD5587D5F031E83" import="0">XML/GameInfo/Shwedagon_IconTextureAtlases.xml</File>
+    <File md5="E1DD06DE01236417046DB8FE162F45BA" import="0">XML/Text/Shwedagon_text_en_US.xml</File>
+  </Files>
+  <Actions>
+    <OnModActivated>
+      <UpdateDatabase>XML/Buildings/Shwedagon_BuildingClasses.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Buildings/Shwedagon_Buildings.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Civilizations/Shwedagon_Civilizations.xml</UpdateDatabase>
+      <UpdateDatabase>XML/GameInfo/Shwedagon_IconTextureAtlases.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Text/Shwedagon_text_en_US.xml</UpdateDatabase>
+    </OnModActivated>
+  </Actions>
+</Mod>

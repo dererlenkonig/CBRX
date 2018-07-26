@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<BuildingClasses>
+		<Row>
+			<Type>BUILDINGCLASS_DOME</Type>
+			<DefaultBuilding>BUILDING_DOME</DefaultBuilding>
+			<Description>TXT_KEY_BUILDING_DOME</Description>
+			<MaxGlobalInstances>1</MaxGlobalInstances>
+		</Row>
+	</BuildingClasses>
+</GameData>

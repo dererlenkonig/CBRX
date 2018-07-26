@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<BuildingClasses>
+		<Row>
+			<Type>BUILDINGCLASS_STONE_TOWN</Type>
+			<DefaultBuilding>BUILDING_STONE_TOWN</DefaultBuilding>
+			<Description>TXT_KEY_BUILDING_STONE_TOWN</Description>
+			<MaxGlobalInstances>1</MaxGlobalInstances>
+		</Row>
+	</BuildingClasses>
+</GameData>

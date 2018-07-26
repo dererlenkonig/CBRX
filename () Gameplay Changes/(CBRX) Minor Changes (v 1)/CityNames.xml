@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <!-- Created by ModBuddy on 5/17/2018 5:03:30 PM -->
 <GameData>
 	<Language_en_US>
@@ -4731,7 +4731,7 @@
 			<Text>Amol</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_PARTHIA_1577">
-			<Text>Gorgan</Text>
+			<Text>Gonbad-e Kavus</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_PARTHIA_1578">
 			<Text>Harmozeia</Text>
@@ -7330,9 +7330,6 @@
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_CANTON_PIRATES_2443">
 			<Text>Tai Tan Sha</Text>
-		</Row>
-		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_CANTON_PIRATES_2444">
-			<Text>Kowloon Walled City</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_CBRX_CIVILIZATION_TAUNGOO_2444">
 			<Text>Bago</Text>

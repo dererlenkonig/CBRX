@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mod id="92a26552-2959-49d3-a990-fe2895cd2a37" version="2">
+  <Properties>
+    <Name>Lake Titicaca Wonder</Name>
+    <Teaser>Situated on the border of Peru and Bolivia, Lake Titicaca is the highest commercially navigable lake on Earth at 3,812 metres.</Teaser>
+    <Description>Situated on the border of Peru and Bolivia, Lake Titicaca is the highest commercially navigable lake on Earth at 3,812 metres above sea level. It has long been included in the Mythologies of Andean tribes and civilizations, with the Incans believing that Inti, their sun god, was born on Isla del sol, an island on the lake. The lake is also famous for being home to a village that is built entirely on artificial islands made from the reeds which are found along the shoreline. Ingame, it provides +3 [ICON_FOOD] food and +1 [ICON_GOLD] Gold on lake tiles, and +15% [ICON_FOOD] growth in all cities. It also has one merchant slot, must be built on a fresh water tile with a nearby mountain and requires Optics.</Description>
+    <Authors>Pouakai</Authors>
+    <SpecialThanks>Ambrox62</SpecialThanks>
+    <HideSetupGame>0</HideSetupGame>
+    <AffectsSavedGames>1</AffectsSavedGames>
+    <MinCompatibleSaveVersion>0</MinCompatibleSaveVersion>
+    <SupportsSinglePlayer>1</SupportsSinglePlayer>
+    <SupportsMultiplayer>1</SupportsMultiplayer>
+    <SupportsHotSeat>0</SupportsHotSeat>
+    <SupportsMac>1</SupportsMac>
+    <ReloadLandmarkSystem>0</ReloadLandmarkSystem>
+    <ReloadStrategicViewSystem>0</ReloadStrategicViewSystem>
+    <ReloadUnitSystem>0</ReloadUnitSystem>
+  </Properties>
+  <Dependencies>
+    <Dlc id="0E3751A1-F840-4e1b-9706-519BF484E59D" minversion="0" maxversion="999" />
+  </Dependencies>
+  <References />
+  <Blocks />
+  <Files>
+    <File md5="DC2A8127063D6DD4042CE5738DD064DB" import="1">Art/Titicaca_splash.dds</File>
+    <File md5="7E74CEC44D1E721D4E3C7B60A62604E9" import="0">XML/Buildings/Titicaca_BuildingClasses.xml</File>
+    <File md5="AFD5E17B782AA5577F8D2F28ECDFD3F2" import="0">XML/Buildings/Titicaca_Buildings.xml</File>
+    <File md5="A14C6B59D89EE42E60ECDAADFCD28E30" import="0">XML/Civilizations/Titicaca_Civilizations.xml</File>
+    <File md5="1AEE1F82CDB293647A37D2D82596AEAE" import="0">XML/Text/Titicaca_text_EN_US.xml</File>
+  </Files>
+  <Actions>
+    <OnModActivated>
+      <UpdateDatabase>XML/Buildings/Titicaca_BuildingClasses.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Buildings/Titicaca_Buildings.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Civilizations/Titicaca_Civilizations.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Text/Titicaca_text_EN_US.xml</UpdateDatabase>
+    </OnModActivated>
+  </Actions>
+</Mod>

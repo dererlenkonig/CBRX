@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<Language_en_US>
+		<!-- Description tags -->
+		<Row Tag="TXT_KEY_BUILDING_TAHRIR">
+			<Text>Tahrir Square</Text>
+		</Row>
+		<!-- Help tags -->
+		<Row Tag="TXT_KEY_WONDER_TAHRIR_HELP">
+			<Text>+10 [ICON_HAPPINESS_1] Happiness upon adopting an Ideology</Text>
+		</Row>
+		<!-- Quote tags -->
+		<Row Tag="TXT_KEY_WONDER_TAHRIR_QUOTE">
+			<Text>[NEWLINE]"When dictatorship is a fact, revolution becomes a right."[NEWLINE] - Victor Hugo[NEWLINE]</Text>
+		</Row>
+		<!-- Pedia tags -->
+		<Row Tag="TXT_KEY_WONDER_TAHRIR_PEDIA">
+			<Text>Tahrir Square is a large public space in the downtown of Cairo, Egypt. It was originally a grassy field used for agriculture and leisure by citizens of Cairo. Following a massive renovation of the surrounds into a 'Paris of the Nile' by Khedive Ismail during the late 19th century, the area became a square like it now is, and took the name of Ismail square in honour of Khedive Ismail. Following the 1919 Egyptian rebellion it became known colloquially as Tahrir Square, Tahrir being Arabic for Liberation. It was not until the 1952 rebellion that this name was offically adopted. [NEWLINE][NEWLINE] During the 2011 Egyptian Revolution the square became the revolution's headquarters, with tens of thousands of people occupying the square. Despite police and military blocading the streets surrounding the square, food stores brought in allowed the protestors to remain onsite for several weeks, until the day Hosni Mubarak resigned.  </Text>
+		</Row>
+	</Language_en_US>
+</GameData>

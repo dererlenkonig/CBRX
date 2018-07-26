@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<Language_en_US>
+		<!-- Description tags -->
+		<Row Tag="TXT_KEY_BUILDING_DOME">
+			<Text>Dome of the Rock</Text>
+		</Row>
+		<!-- Help tags -->
+		<Row Tag="TXT_KEY_WONDER_DOME_HELP">
+			<Text>+5 [ICON_PEACE] Faith with each belief that unlocks a building in the majority religion of the city.</Text>
+		</Row>
+		<!-- Quote tags -->
+		<Row Tag="TXT_KEY_WONDER_DOME_QUOTE">
+			<Text>[NEWLINE]“No city in the world, not even Athens or Rome, ever played as great a role in the life of a nation for so long a time as Jerusalem."[NEWLINE] - David Ben-Gurion[NEWLINE]</Text>
+		</Row>
+		<!-- Pedia tags -->
+		<Row Tag="TXT_KEY_WONDER_DOME_PEDIA">
+			<Text>Dome of the Rock is a colourful Islamic shrine located atop Temple Mount in the center of the city of Jerusalem. It was completed in 691 CE on the site of the Second Jewish Temple, and restored several times since. It is centered around the 'foundation rock', a rock upon which it is believed that the prophet Muhammed ascended to heaven. Interestingly, the Dome of the Rock was constructed not as a mosque, but rather as a shrine for Muslim pilgrims venturing to the Holy Land. Below the Dome of the Rock are a series of caverns which run throughout Jerusalem. These can be accessed via a crack in the Foundation Rock which leads to a cave known as the 'Well of Souls', a term made popular by the movie Indiana Jones and the Raiders of the Lost Ark. The exterior of the dome is made from porcelain and is octagonal in shape. Predominantly blue in the upper sections, islamic motifs cover the entire section. The dome is wooden with a 20 metre diameter and gold in colour.  </Text>
+		</Row>
+	</Language_en_US>
+</GameData>
