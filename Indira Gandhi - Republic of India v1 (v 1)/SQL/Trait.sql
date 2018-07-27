@@ -1,3 +1,0 @@
-INSERT INTO Traits 
-		(Type, 							Description, 					ShortDescription)
-VALUES	('TRAIT_THE_EMERGENCY', 		'TXT_KEY_TRAIT_THE_EMERGENCY', 	'TXT_KEY_TRAIT_THE_EMERGENCY_SHORT');
