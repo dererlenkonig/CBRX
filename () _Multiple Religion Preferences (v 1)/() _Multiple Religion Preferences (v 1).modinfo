@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mod id="a61a273c-1f60-48a0-bc2b-98e1329131c8" version="1">
+  <Properties>
+    <Name>() _Multiple Religion Preferences</Name>
+    <Stability>Alpha</Stability>
+    <Teaser>Multiple Religion Preferences</Teaser>
+    <Description>Multiple Religion Preferences</Description>
+    <Authors>Limerickarcher</Authors>
+    <HideSetupGame>0</HideSetupGame>
+    <AffectsSavedGames>1</AffectsSavedGames>
+    <MinCompatibleSaveVersion>0</MinCompatibleSaveVersion>
+    <SupportsSinglePlayer>1</SupportsSinglePlayer>
+    <SupportsMultiplayer>0</SupportsMultiplayer>
+    <SupportsHotSeat>0</SupportsHotSeat>
+    <SupportsMac>1</SupportsMac>
+    <ReloadAudioSystem>0</ReloadAudioSystem>
+    <ReloadLandmarkSystem>0</ReloadLandmarkSystem>
+    <ReloadStrategicViewSystem>0</ReloadStrategicViewSystem>
+    <ReloadUnitSystem>0</ReloadUnitSystem>
+  </Properties>
+  <Dependencies />
+  <References />
+  <Blocks />
+  <Files>
+    <File md5="36DE82ADE40DAAC26ED8860BF7E14822" import="0">MultipleReligionsTable.sql</File>
+    <File md5="AB8DFCDD60D472A8EEB193A4B63FF94F" import="0">MultipleReligiousFlavors.lua</File>
+  </Files>
+  <Actions>
+    <OnModActivated>
+      <UpdateDatabase>MultipleReligionsTable.sql</UpdateDatabase>
+    </OnModActivated>
+  </Actions>
+  <EntryPoints>
+    <EntryPoint type="InGameUIAddin" file="MultipleReligiousFlavors.lua">
+      <Name>MultipleReligiousFlavors</Name>
+      <Description>MultipleReligiousFlavors</Description>
+    </EntryPoint>
+  </EntryPoints>
+</Mod>

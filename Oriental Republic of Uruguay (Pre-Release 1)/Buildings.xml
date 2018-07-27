@@ -1,0 +1,219 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<BuildingClasses>
+		<Row>
+			<Type>BUILDINGCLASS_URUGUAY_CASCOS_BONUS</Type>
+			<DefaultBuilding>BUILDING_URUGUAY_CASCOS_BONUS</DefaultBuilding>
+			<Description>TXT_KEY_BUILDING_URUGUAY_CASCOS_BONUS</Description>
+		</Row>
+		<Row>
+			<Type>BUILDINGCLASS_URUGUAY_BLANCOS_BONUS</Type>
+			<DefaultBuilding>BUILDING_URUGUAY_BLANCOS_BONUS</DefaultBuilding>
+			<Description>TXT_KEY_BUILDING_URUGUAY_BLANCOS_BONUS</Description>
+		</Row>
+		<Row>
+			<Type>BUILDINGCLASS_URUGUAY_FARM_BONUS</Type>
+			<DefaultBuilding>BUILDING_URUGUAY_FARM_BONUS</DefaultBuilding>
+			<Description>TXT_KEY_BUILDING_URUGUAY_FARM_BONUS</Description>
+		</Row>
+		<Row>
+			<Type>BUILDINGCLASS_URUGUAY_COLORADOS_BONUS_POLICIES</Type>
+			<DefaultBuilding>BUILDING_URUGUAY_COLORADOS_BONUS_POLICIES</DefaultBuilding>
+			<Description>TXT_KEY_BUILDING_URUGUAY_COLORADOS_BONUS_POLICIES</Description>
+		</Row>
+		<Row>
+			<Type>BUILDINGCLASS_URUGUAY_COLORADOS_BONUS_CULTURE</Type>
+			<DefaultBuilding>BUILDING_URUGUAY_COLORADOS_BONUS_CULTURE</DefaultBuilding>
+			<Description>TXT_KEY_BUILDING_URUGUAY_COLORADOS_BONUS_CULTURE</Description>
+		</Row>
+	</BuildingClasses>
+  <Buildings>
+	  <Row>
+		  <Type>BUILDING_URUGUAY_CASCOS_BONUS</Type>
+		  <BuildingClass>BUILDINGCLASS_URUGUAY_CASCOS_BONUS</BuildingClass>
+		  <Cost>-1</Cost>
+		  <PrereqTech></PrereqTech>
+		  <Help>TXT_KEY_BUILDING_URUGUAY_CASCOS_BONUS_HELP</Help>
+		  <Description>TXT_KEY_BUILDING_URUGUAY_CASCOS_BONUS_DESC</Description>
+		  <Civilopedia>TXT_KEY_BUILDING_URUGUAY_CASCOS_BONUS_PEDIA</Civilopedia>
+		  <Strategy>TXT_KEY_BUILDING_URUGUAY_CASCOS_BONUS_STRATEGY</Strategy>
+		  <ArtDefineTag>ART_DEF_BUILDING_CASTLE</ArtDefineTag>
+		  
+		  <TechEnhancedTourism>0</TechEnhancedTourism>
+		  <GreatWorkCount>-1</GreatWorkCount>
+		  <MinAreaSize>-1</MinAreaSize>
+		  <HurryCostModifier>25</HurryCostModifier>
+		  <IconAtlas>BW_ATLAS_1</IconAtlas>
+		  <!-- this will change.-->
+		  <PortraitIndex>0</PortraitIndex>
+		  <NeverCapture>true</NeverCapture>
+	  </Row>
+	  <Row>
+		  <Type>BUILDING_URUGUAY_BLANCOS_BONUS</Type>
+		  <BuildingClass>BUILDINGCLASS_URUGUAY_BLANCOS_BONUS</BuildingClass>
+		  <Cost>-1</Cost>
+		  <PrereqTech></PrereqTech>
+		  <Help>TXT_KEY_BUILDING_URUGUAY_BLANCOS_BONUS_HELP</Help>
+		  <Description>TXT_KEY_BUILDING_URUGUAY_BLANCOS_BONUS_DESC</Description>
+		  <Civilopedia>TXT_KEY_BUILDING_URUGUAY_BLANCOS_BONUS_PEDIA</Civilopedia>
+		  <Strategy>TXT_KEY_BUILDING_URUGUAY_BLANCOS_BONUS_STRATEGY</Strategy>
+		  <ArtDefineTag>ART_DEF_BUILDING_CASTLE</ArtDefineTag>
+
+		  <TechEnhancedTourism>0</TechEnhancedTourism>
+		  <GreatWorkCount>-1</GreatWorkCount>
+		  <MinAreaSize>-1</MinAreaSize>
+		  <HurryCostModifier>25</HurryCostModifier>
+		  <IconAtlas>BW_ATLAS_1</IconAtlas>
+		  <!-- this will change.-->
+		  <PortraitIndex>0</PortraitIndex>
+		  <NeverCapture>true</NeverCapture>
+	  </Row>
+	  <Row>
+		  <Type>BUILDING_URUGUAY_FARM_BONUS</Type>
+		  <BuildingClass>BUILDINGCLASS_URUGUAY_FARM_BONUS</BuildingClass>
+		  <Cost>-1</Cost>
+		  <PrereqTech></PrereqTech>
+		  <Help>TXT_KEY_BUILDING_URUGUAY_FARM_BONUS_HELP</Help>
+		  <Description>TXT_KEY_BUILDING_URUGUAY_FARM_BONUS_DESC</Description>
+		  <Civilopedia>TXT_KEY_BUILDING_URUGUAY_FARM_BONUS_PEDIA</Civilopedia>
+		  <Strategy>TXT_KEY_BUILDING_URUGUAY_FARM_BONUS_STRATEGY</Strategy>
+		  <ArtDefineTag>ART_DEF_BUILDING_CASTLE</ArtDefineTag>
+
+		  <TechEnhancedTourism>0</TechEnhancedTourism>
+		  <GreatWorkCount>-1</GreatWorkCount>
+		  <MinAreaSize>-1</MinAreaSize>
+		  <HurryCostModifier>25</HurryCostModifier>
+		  <IconAtlas>BW_ATLAS_1</IconAtlas>
+		  <!-- this will change.-->
+		  <PortraitIndex>0</PortraitIndex>
+		  <NeverCapture>true</NeverCapture>
+	  </Row>
+	  <Row>
+		  <Type>BUILDING_URUGUAY_COLORADOS_BONUS_POLICIES</Type>
+		  <BuildingClass>BUILDINGCLASS_URUGUAY_COLORADOS_BONUS_POLICIES</BuildingClass>
+		  <Cost>-1</Cost>
+		  <PrereqTech></PrereqTech>
+		  <Help>TXT_KEY_BUILDING_URUGUAY_COLORADOS_BONUS_POLICIES_HELP</Help>
+		  <Description>TXT_KEY_BUILDING_URUGUAY_COLORADOS_BONUS_POLICIES_DESC</Description>
+		  <Civilopedia>TXT_KEY_BUILDING_URUGUAY_COLORADOS_BONUS_POLICIES_PEDIA</Civilopedia>
+		  <Strategy>TXT_KEY_BUILDING_URUGUAY_COLORADOS_BONUS_POLICIES_STRATEGY</Strategy>
+		  <ArtDefineTag>ART_DEF_BUILDING_CASTLE</ArtDefineTag>
+
+		  <TechEnhancedTourism>0</TechEnhancedTourism>
+		  <GreatWorkCount>-1</GreatWorkCount>
+		  <PolicyCostModifier>-5</PolicyCostModifier>
+		  <MinAreaSize>-1</MinAreaSize>
+		  <HurryCostModifier>25</HurryCostModifier>
+		  <IconAtlas>BW_ATLAS_1</IconAtlas>
+		  <!-- this will change.-->
+		  <PortraitIndex>0</PortraitIndex>
+		  <NeverCapture>true</NeverCapture>
+	  </Row>
+	  <Row>
+		  <Type>BUILDING_URUGUAY_COLORADOS_BONUS_CULTURE</Type>
+		  <BuildingClass>BUILDINGCLASS_URUGUAY_COLORADOS_BONUS_CULTURE</BuildingClass>
+		  <Cost>-1</Cost>
+		  <PrereqTech></PrereqTech>
+		  <Help>TXT_KEY_BUILDING_URUGUAY_COLORADOS_BONUS_CULTURE_HELP</Help>
+		  <Description>TXT_KEY_BUILDING_URUGUAY_COLORADOS_BONUS_CULTURE_DESC</Description>
+		  <Civilopedia>TXT_KEY_BUILDING_URUGUAY_COLORADOS_BONUS_CULTURE_PEDIA</Civilopedia>
+		  <Strategy>TXT_KEY_BUILDING_URUGUAY_COLORADOS_BONUS_CULTURE_STRATEGY</Strategy>
+		  <ArtDefineTag>ART_DEF_BUILDING_CASTLE</ArtDefineTag>
+
+		  <TechEnhancedTourism>0</TechEnhancedTourism>
+		  <GreatWorkCount>-1</GreatWorkCount>
+		  
+		  <MinAreaSize>-1</MinAreaSize>
+		  <HurryCostModifier>25</HurryCostModifier>
+		  <IconAtlas>BW_ATLAS_1</IconAtlas>
+		  <!-- this will change.-->
+		  <PortraitIndex>0</PortraitIndex>
+		  <NeverCapture>true</NeverCapture>
+	  </Row>
+  </Buildings>
+
+  <!-- Building_AreaYieldModifiers -->
+  <!-- Building_BuildingClassHappiness -->
+  <!-- Building_BuildingClassYieldChanges -->
+  <!-- Building_ClassesNeededInCity -->
+  <!-- Building_FreeUnits -->
+  <!-- Building_DomainFreeExperiences -->
+  <!-- Building_DomainFreeExperiencePerGreatWork -->
+  <Building_DomainProductionModifiers>
+    <Row>
+      <BuildingType>BUILDING_URUGUAY_CASCOS_BONUS</BuildingType>
+      <DomainType>DOMAIN_LAND</DomainType>
+      <Modifier>1</Modifier>
+    </Row>
+	  <Row>
+		  <BuildingType>BUILDING_URUGUAY_BLANCOS_BONUS</BuildingType>
+		  <DomainType>DOMAIN_LAND</DomainType>
+		  <Modifier>10</Modifier>
+	  </Row>
+  </Building_DomainProductionModifiers>
+  <!-- Building_FreeSpecialistCounts -->
+  <Building_Flavors>
+    
+  </Building_Flavors>
+  <!-- Building_GlobalYieldModifiers -->
+  <!-- Building_HurryModifiers -->
+  <Building_LocalResourceAnds>
+    
+  </Building_LocalResourceAnds>
+  <!-- Building_LocalResourceOrs -->
+  <!-- Building_LockedBuildingClasses -->
+  <!-- Building_PrereqBuildingClasses -->
+  <!-- Building_ResourceQuantity -->
+  <!-- Building_ResourceQuantityRequirements -->
+  <!-- Building_ResourceYieldModifiers -->
+  <!-- Building_ResourceCultureChanges -->
+  <!-- Building_ResourceFaithChanges -->
+  <!-- Building_RiverPlotYieldChanges -->
+  <!-- Building_SeaPlotYieldChanges -->
+  <!-- Building_LakePlotYieldChanges -->
+  <!-- Building_SeaResourceYieldChanges -->
+  <Building_ResourceYieldChanges>
+   
+  </Building_ResourceYieldChanges>
+	<Building_YieldModifiers>
+		<Row>
+			<BuildingType>BUILDING_URUGUAY_FARM_BONUS</BuildingType>
+			<YieldType>YIELD_PRODUCTION</YieldType>
+			<Yield>5</Yield>
+		</Row>
+	</Building_YieldModifiers>
+  <!-- Building_FeatureYieldChanges -->
+  <!-- Building_TerrainYieldChanges -->
+  <!-- Building_SpecialistYieldChanges -->
+  <!-- Building_UnitCombatFreeExperiences -->
+  <!-- Building_UnitCombatProductionModifiers -->
+  <!-- Building_TechAndPrereqs -->
+  <!-- Building_YieldChanges -->
+	<Building_YieldChanges>
+		<Row>
+			<BuildingType>BUILDING_URUGUAY_COLORADOS_BONUS_CULTURE</BuildingType>
+			<YieldType>YIELD_CULTURE</YieldType>
+			<Yield>1</Yield>
+		</Row>
+	</Building_YieldChanges>
+  <!-- Building_YieldChangesPerPop -->
+  <!-- Building_YieldChangesPerReligion -->
+  <!-- Building_TechEnhancedYieldChanges -->
+  <!-- Building_YieldModifiers -->
+  <!-- Building_ThemingBonuses -->
+
+  <Language_en_US>
+    <Row Tag="TXT_KEY_BUILDING_URUGUAY_CASCOS_BONUS">
+      <Text>Cascos Bonus</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CIV5_BUILDINGS_URUGUAY_CASCOS_BONUS_TEXT">
+      <Text><!-- Add Civilopedia text here --></Text>
+    </Row>
+    <Row Tag="TXT_KEY_BUILDING_URUGUAY_CASCOS_BONUS_STRATEGY">
+      <Text>The Forge can only be constructed in a city with an improved source of [ICON_RES_IRON] Iron nearby. It increases the speed at which the city produces land units.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_BUILDING_URUGUAY_CASCOS_BONUS_HELP">
+      <Text>+15% [ICON_PRODUCTION] Production when building Land Units.[NEWLINE][NEWLINE]Each source of [ICON_RES_IRON] Iron worked by this City produces +1 [ICON_PRODUCTION] Production.[NEWLINE][NEWLINE]City must have a mined source of Iron nearby.</Text>
+    </Row>
+  </Language_en_US>
+</GameData>
