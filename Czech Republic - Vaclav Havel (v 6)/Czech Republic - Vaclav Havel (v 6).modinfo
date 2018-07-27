@@ -1,0 +1,88 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mod id="19b568e3-61cb-4c06-88a9-f540dff945d6" version="6">
+  <Properties>
+    <Name>Czech Republic - Vaclav Havel</Name>
+    <Stability>Beta</Stability>
+    <Teaser>Czech Republic Civ under President Vaclav Havel</Teaser>
+    <Description>Lead the Czech Republic as Vaclav Havel, first president of the nation and renowned playwright.
+[img]http://i.imgur.com/2uqMpGF.jpg[/img]
+[quote]
+[h1][b]Leader:[/b] Vaclav Havel[/h1]
+[list]
+[*][b]Ua: Truth Prevails[/b] - +2 science for all Engineer specialists and Manufactories. +2  production for all Scientist specialists and Academies.
+[*][b]UU: Vysadkar[/b] - Vysadkar are Czech Unique Paratroopers with Paradrop, Survivalism I, and +5 Combat Strength.
+[*][b]UB: Pivovar[/b] - The Pivovar is the Czech unique building, replacing the Market. The Pivoar provides +1 Gold and + 2 Food along with the Market's usual bonuses. +8% Great People generation in the city it was built. Does NOT contain Merchant Specialist Slots.
+[/list] 
+[/quote]
+[quote]
+[h1]Mod Compatibility[/h1]
+[list]
+[*][b]YnAEMP[/b]
+[*][b]Historical Religions - Complete[/b]
+[/list] 
+[/quote]
+[b]Credits:[/b] The whole mod was created by Drazule (SabyZ) 
+</Description>
+    <Authors>Drazule (SabyZ)</Authors>
+    <HideSetupGame>0</HideSetupGame>
+    <Homepage>http://Youtube.com/Drazule</Homepage>
+    <AffectsSavedGames>1</AffectsSavedGames>
+    <MinCompatibleSaveVersion>0</MinCompatibleSaveVersion>
+    <SupportsSinglePlayer>1</SupportsSinglePlayer>
+    <SupportsMultiplayer>1</SupportsMultiplayer>
+    <SupportsHotSeat>1</SupportsHotSeat>
+    <SupportsMac>1</SupportsMac>
+    <ReloadAudioSystem>0</ReloadAudioSystem>
+    <ReloadLandmarkSystem>0</ReloadLandmarkSystem>
+    <ReloadStrategicViewSystem>0</ReloadStrategicViewSystem>
+    <ReloadUnitSystem>0</ReloadUnitSystem>
+  </Properties>
+  <Dependencies />
+  <References>
+    <Mod id="36e88483-48fe-4545-b85f-bafc50dde315" minversion="0" maxversion="999" title="YnAEMP" />
+    <Mod id="6010e6f6-918e-48b8-9332-d60783bd8fb5" minversion="0" maxversion="999" title="Historical Religions Complete" />
+  </References>
+  <Blocks />
+  <Files>
+    <File md5="FF4999BC949317ABF2B8DDAE713EEAD6" import="1">Art/CivSymbols/CzechIconAtlas128.dds</File>
+    <File md5="3A1059B24E0E2952712DBA392973F5F8" import="1">Art/CivSymbols/CzechIconAtlas256.dds</File>
+    <File md5="AFCCBD255E63D6822AF9F991AEA79DE8" import="1">Art/CivSymbols/CzechIconAtlas32.dds</File>
+    <File md5="6306CCC6583A2F5FF9CE3C403D43E228" import="1">Art/CivSymbols/CzechIconAtlas45.dds</File>
+    <File md5="B68DC2B3A8358DDFC9FC789A73A4FB47" import="1">Art/CivSymbols/CzechIconAtlas64.dds</File>
+    <File md5="D980D3287F38EAEAAF7192D5DF2C35D3" import="1">Art/CivSymbols/CzechIconAtlas80.dds</File>
+    <File md5="35E2109FE2AC7EEBE2CB67E4588F69B3" import="1">Art/CivSymbols/Czech_Flags.dds</File>
+    <File md5="5DA0CDFDA8B80FBD9E70631227F43BDC" import="1">Art/VaclavArt/DoM_Map.dds</File>
+    <File md5="DE7B888E5FBEFBD16D2780258665C563" import="1">Art/VaclavArt/Leader_Scene_2048x1024.dds</File>
+    <File md5="AEA8EDC09977E695023155F339534209" import="1">Art/VaclavArt/VaclavDOM.dds</File>
+    <File md5="227F3DB193F0E5DFB83F249DD0C38864" import="1">Art/VaclavArt/Vaclav_Havel_Scene.dds</File>
+    <File md5="5D77BC55BCC3A529B2273CB84F2D0FD3" import="0">Compatibility/Historical_Religion_Complete_Compatibility.sql</File>
+    <File md5="4EB2FDCC53CDFAB2BB16FD7F1C3BDAFB" import="0">Compatibility/YnAEMP_Coordinates.xml</File>
+    <File md5="EC508C4D6DA0317B4C55C9C133F601D9" import="0">XML/Buildings/Pivovar.xml</File>
+    <File md5="0355B8D2DB4BA39114302E0A92811B0B" import="0">XML/Civilizations/Civ_Czech.xml</File>
+    <File md5="D4065A78F1159581B43F153FA2B3A0A4" import="0">XML/Civilizations/Traits.xml</File>
+    <File md5="342E23410734E93EBE497BB4954DBA1D" import="0">XML/GameInfo/CIV5IconTextureAtlases.xml</File>
+    <File md5="6D7D9FFA3F8A256569A53AFF2770BFC6" import="0">XML/GameInfo/CzechFlagAtlasses.xml</File>
+    <File md5="E66F2BA1D5A2462809BEE1B0D9B3DAE6" import="0">XML/Leaders/Leader_Havel.xml</File>
+    <File md5="E947F5A50A7C8704A9C95D9AD224244A" import="1">XML/Leaders/Vaclav__HavelScene.xml</File>
+    <File md5="8A52936DBD3D551A40C6C93112E2AB7C" import="0">XML/MusicXML/CzechSoundtrack.xml</File>
+    <File md5="DE2A9595155F749546839CC4314EBDC5" import="0">XML/NewText/Czech_Diplomacy_Text.xml</File>
+    <File md5="79E40ABF8720865D5AB2D6D7E1241A9F" import="0">XML/NewText/GameText.xml</File>
+    <File md5="0695780E8DDCC0A5B6EA10FD191B724F" import="0">XML/Units/Czech_Paratrooper.xml</File>
+  </Files>
+  <Actions>
+    <OnModActivated>
+      <UpdateDatabase>XML/Buildings/Pivovar.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Civilizations/Civ_Czech.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Civilizations/Traits.xml</UpdateDatabase>
+      <UpdateDatabase>XML/GameInfo/CIV5IconTextureAtlases.xml</UpdateDatabase>
+      <UpdateDatabase>XML/GameInfo/CzechFlagAtlasses.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Leaders/Vaclav__HavelScene.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Leaders/Leader_Havel.xml</UpdateDatabase>
+      <UpdateDatabase>XML/NewText/GameText.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Units/Czech_Paratrooper.xml</UpdateDatabase>
+      <UpdateDatabase>XML/MusicXML/CzechSoundtrack.xml</UpdateDatabase>
+      <UpdateDatabase>Compatibility/YnAEMP_Coordinates.xml</UpdateDatabase>
+      <UpdateDatabase>Compatibility/Historical_Religion_Complete_Compatibility.sql</UpdateDatabase>
+    </OnModActivated>
+  </Actions>
+</Mod>
