@@ -42,6 +42,7 @@
       <UpdateDatabase>Cities2_GlobalDefines.xml</UpdateDatabase>
       <UpdateDatabase>Historical Religions Update.sql</UpdateDatabase>
       <UpdateDatabase>New Colors.sql</UpdateDatabase>
+      <UpdateDatabase>Historic Eras.sql</UpdateDatabase>
     </OnModActivated>
   </Actions>
 </Mod>
