@@ -29,6 +29,7 @@
     <File md5="9FEC5A0F2561E5DE14198B013FCC8118" import="0">Cities2_GlobalDefines.xml</File>
     <File md5="8A5D7BE9BB48C6645F1740666AD4ACD0" import="0">CityLists.sql</File>
     <File md5="EC63F300DE2ADBA8FF99762BA6B6A1D4" import="0">CityNames.xml</File>
+    <File md5="51F9AA888BA2FF4A56606DEFA2335F4F" import="0">Historic Eras.sql</File>
     <File md5="1C307B269FDD2540872B0FD4564AC2F2" import="0">Historical Religions Update.sql</File>
     <File md5="AE82EAF0070EA14A356E58D74AB88D9C" import="0">New Colors.sql</File>
     <File md5="9FF6F40BF205E7AEEC6F6B984F011471" import="0">ThingsToSailing.sql</File>
@@ -41,6 +42,7 @@
       <UpdateDatabase>Cities2_GlobalDefines.xml</UpdateDatabase>
       <UpdateDatabase>Historical Religions Update.sql</UpdateDatabase>
       <UpdateDatabase>New Colors.sql</UpdateDatabase>
+      <UpdateDatabase>Historic Eras.sql</UpdateDatabase>
     </OnModActivated>
   </Actions>
 </Mod>
