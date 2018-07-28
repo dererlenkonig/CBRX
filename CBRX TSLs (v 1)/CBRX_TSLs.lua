@@ -75,12 +75,12 @@ function addHarbors(iPlayer)
 			if city:IsCoastal() then city:SetNumRealBuilding(24, 1) end
 		end
 	end
-	
 end
 GameEvents.PlayerDoTurn.Add(addHarbors)
 
-function addOptics(iPlayer)
-	if not (Game.GetGameTurn() == 2) then return end
+
+function addSailing(iPlayer)
+	if not (Game.GetGameTurn() == 0) then return end
 	local pPlayer = Players[iPlayer]
 	if not pPlayer then return end
 	local sCivilizationType = GameInfo.Civilizations[pPlayer:GetCivilizationType()].Type
@@ -89,7 +89,7 @@ function addOptics(iPlayer)
 		pTeam:SetHasTech(5, true)
 	end
 end
-GameEvents.PlayerDoTurn.Add(addOptics)
+GameEvents.PlayerDoTurn.Add(addSailing)
 
 function setTSLs()
 	if Game.GetGameTurn() < 3 then
