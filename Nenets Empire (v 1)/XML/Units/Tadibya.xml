@@ -48,6 +48,10 @@
 		<UnitType>UNIT_TADIBYA</UnitType>
 		<UnitAIType>UNITAI_GENERAL</UnitAIType>
 	</Row>
+	<Row>
+		<UnitType>UNIT_TADIBYA</UnitType>
+		<UnitAIType>UNITAI_PROPHET</UnitAIType>
+	</Row>
 	</Unit_AITypes>
 	<Unit_Flavors>
 	<Row>

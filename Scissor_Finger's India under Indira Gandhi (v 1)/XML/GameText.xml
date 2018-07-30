@@ -3,7 +3,7 @@
 <GameData>
 	<Language_en_US>
 		<Row Tag="TXT_KEY_TRAIT_THE_EMERGENCY">
-			<Text>The construction of buildings within the capital causes every city connected to the capital to enter resistance for 3 turns in exchange for all their outputs to be doubled for 8 turns after.</Text>
+			<Text>The construction of buildings within the capital caused every city connected to the capital to enter resistance for 3 turns in exchange for all their outputs to be doubled for 5 turns after.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_TRAIT_THE_EMERGENCY_SHORT">
 			<Text>The Emergency</Text>
@@ -98,7 +98,7 @@
 			<Gender>neuter:an</Gender>
 		</Row>
 		<Row Tag="TXT_KEY_CIV5_DAWN_INDIRA_GANDHI_TEXT">
-			<Text>As the first female  Prime Minister of India, Indira Gandhi was known for her political ruthlessness and unprecedented centralisation of power. She went to war with Pakistan in support of the independence movement and war of independence in East Pakistan, which resulted in an Indian victory and the creation of Bangladesh, as well as increasing India's influence to the point where it became the regional hegemon of South Asia. Citing rebellious tendencies and in response to a call for revolution, Gandhi instituted a state of emergency from 1975 to 1977 where basic civil liberties were suspended and press was censored. Widespread atrocities were carried out during the emergency. In 1980, she returned to power after free and fair elections.[NEWLINE][NEWLINE]Prime Minister Indira Gandhi, will you bring about a new golden age India? It is up to you to raise this most ancient civilization to new heights.  Will you take up the mantle of greatness? Can you build a civilization that will stand the test of time?</Text>
+			<Text>As the first female  Prime Minister of India, Indira Gandhi was known for her political ruthlessness and unprecedented centralisation of power. She went to war with Pakistan in support of the independence movement and war of independence in East Pakistan, which resulted in an Indian victory and the creation of Bangladesh, as well as increasing India's influence to the point where it became the regional hegemon of South Asia. Citing fissiparous tendencies and in response to a call for revolution, Gandhi instituted a state of emergency from 1975 to 1977 where basic civil liberties were suspended and press was censored. Widespread atrocities were carried out during the emergency. In 1980, she returned to power after free and fair elections.[NEWLINE][NEWLINE]Prime Minister Indira Gandhi, will you bring about a new golden age India? It is up to you to raise this most ancient civilization to new heights.  Will you take up the mantle of greatness? Can you build a civilization that will stand the test of time?</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_INDIRA_GANDHI_0">
 			<Text>Delhi</Text>

@@ -37,7 +37,7 @@
 			<FreePolicies>0</FreePolicies>
 			<OneShotTourism>0</OneShotTourism>
 			<OneShotTourismPercentOthers>0</OneShotTourismPercentOthers>
-			<IgnoreBuildingDefense>0</IgnoreBuildingDefense>
+			<IgnoreBuildingDefense>1</IgnoreBuildingDefense>
 			<PrereqResources>0</PrereqResources>
 			<Mechanized>1</Mechanized>
 			<Suicide>0</Suicide>
@@ -149,6 +149,11 @@
 		<Row>
 			<UnitType>UNIT_GARUDA_TROOPERS</UnitType>
 			<FlavorType>FLAVOR_DEFENSE</FlavorType>
+			<Flavor>8</Flavor>
+		</Row>
+		<Row>
+			<UnitType>UNIT_GARUDA_TROOPERS</UnitType>
+			<FlavorType>FLAVOR_AIR</FlavorType>
 			<Flavor>8</Flavor>
 		</Row>
 		<Row>
