@@ -1,13 +1,13 @@
 local cbrxTSLs = {}
-	
+
 cbrxTSLs["CIVILIZATION_AZTEC"] = {X=133, Y=51, O="F"}
 cbrxTSLs["CIVILIZATION_BABYLON"] = {X=75, Y=1, O="F"}
 cbrxTSLs["CIVILIZATION_BENIN_LS_MOD"] = {X=22, Y=29, O="F"}
-cbrxTSLs["CIVILIZATION_CALC_MANX"] = {X=5, Y=71, O="T"} 			
+cbrxTSLs["CIVILIZATION_CALC_MANX"] = {X=5, Y=71, O="T"}
 cbrxTSLs["CIVILIZATION_CANTON_PIRATES"] = {X=87, Y=51, O="F"}
 cbrxTSLs["CIVILIZATION_CBR_GOLDEN_HORDE"] = {X=44, Y=65, O="F"}
 cbrxTSLs["CIVILIZATION_CB_SULU"] = {X=93, Y=36, O="T"}
-cbrxTSLs["CIVILIZATION_SENSHI_HAWKE"] = {X=107, Y=10, O="F"} 
+cbrxTSLs["CIVILIZATION_SENSHI_HAWKE"] = {X=107, Y=10, O="F"}
 cbrxTSLs["CIVILIZATION_CL_MURRI"] = {X=109, Y=15, O="F"}
 cbrxTSLs["CIVILIZATION_CZECH"] = {X=23, Y=63, O="F"}
 cbrxTSLs["CIVILIZATION_DJSH_ALGERIA"] = {X=14, Y=47, O="F"}
@@ -20,7 +20,7 @@ cbrxTSLs["CIVILIZATION_ERLITOU_MOD"] = {X=84, Y=64, O="F"}
 cbrxTSLs["CIVILIZATION_FB_PALMYRA"] = {X=40, Y=51, O="F"}
 cbrxTSLs["CIVILIZATION_HAIDA_MOD_LS"] = {X=120, Y=78, O="T"}
 cbrxTSLs["CIVILIZATION_HRE_LS_MOD"] = {X=17, Y=64, O="F"}
-cbrxTSLs["CIVILIZATION_INDIRA_GANDHI"] = {X=64, Y=50, O="F"} 				
+cbrxTSLs["CIVILIZATION_INDIRA_GANDHI"] = {X=64, Y=50, O="F"}
 cbrxTSLs["CIVILIZATION_IROQUOIS"] = {X=152, Y=72, O="F"}
 cbrxTSLs["CIVILIZATION_JFD_MUSCOVY"] = {X=38, Y=72, O="F"}
 cbrxTSLs["CIVILIZATION_JFD_NEW_ZEALAND"] = {X=118, Y=10, O="T"}
@@ -30,21 +30,21 @@ cbrxTSLs["CIVILIZATION_JFD_TURKS"] = {X=32, Y=57, O="F"}
 cbrxTSLs["CIVILIZATION_JMANGELO_SENUSI_LIBYA"] = {X=21, Y=45, O="F"}
 cbrxTSLs["CIVILIZATION_KHAMUG"] = {X=79, Y=78, O="F"}
 cbrxTSLs["CIVILIZATION_LEUGI_HAITI"] = {X=153, Y=49, O="T"}
-cbrxTSLs["CIVILIZATION_LN_KINGCANADA"] = {X=152, Y=76, O="F"} 				
+cbrxTSLs["CIVILIZATION_LN_KINGCANADA"] = {X=152, Y=76, O="F"}
 cbrxTSLs["CIVILIZATION_MC_LITE_MOOR"] = {X=9, Y=49, O="F"}
 cbrxTSLs["CIVILIZATION_MC_LITE_NUBIA"] = {X=34, Y=40, O="F"}
 cbrxTSLs["CIVILIZATION_MC_MARATHA"] = {X=61, Y=39, O="F"}
 cbrxTSLs["CIVILIZATION_MC_MINOA"] = {X=32, Y=49, O="T"}
 cbrxTSLs["CIVILIZATION_MC_NAZCA"] = {X=147, Y=27, O="F"}
 cbrxTSLs["CIVILIZATION_MC_OMAN"] = {X=52, Y=41, O="F"}
-cbrxTSLs["CIVILIZATION_MC_SCOTLAND"] = {X=7, Y=75, O="T"}			
+cbrxTSLs["CIVILIZATION_MC_SCOTLAND"] = {X=7, Y=75, O="T"}
 cbrxTSLs["CIVILIZATION_NDONGO_LS_MOD"] = {X=28, Y=20, O="F"}
 cbrxTSLs["CIVILIZATION_NEPAL_LS_MOD"] = {X=69, Y=52, O="F"}
 cbrxTSLs["CIVILIZATION_PAPUA"] = {X=103, Y=31, O="T"}
 cbrxTSLs["CIVILIZATION_PARTHIA"] = {X=53, Y=56, O="F"}
 cbrxTSLs["CIVILIZATION_POVERTY_POINT_MOD"] = {X=141, Y=63, O="F"}
 cbrxTSLs["CIVILIZATION_QIN"] = {X=78, Y=63, O="F"}
-cbrxTSLs["CIVILIZATION_SAMI"] = {X=27, Y=89, O="F"}		
+cbrxTSLs["CIVILIZATION_SAMI"] = {X=27, Y=89, O="F"}
 cbrxTSLs["CIVILIZATION_SELKNAM"] = {X=153, Y=1, O="F"}
 cbrxTSLs["CIVILIZATION_SENSHI_EVENKS"] = {X=75, Y=87, O="F"}
 cbrxTSLs["CIVILIZATION_SAMOYED"] = {X=55, Y=83, O="F"} 			-- NENETS
@@ -75,7 +75,7 @@ function addHarbors(iPlayer)
 			if city:IsCoastal() then city:SetNumRealBuilding(23, 1) end
 		end
 	end
-	
+
 end
 
 function addOptics(iPlayer)
@@ -83,7 +83,7 @@ function addOptics(iPlayer)
 	local pPlayer = Players[iPlayer]
 	if not pPlayer then return end
 	local sCivilizationType = GameInfo.Civilizations[pPlayer:GetCivilizationType()].Type
-	local pTeam = Teams[pPlayer:GetTeam()] 
+	local pTeam = Teams[pPlayer:GetTeam()]
 	if cbrxTSLs[sCivilizationType].O == "T" then
 		pTeam:SetHasTech(5, true)
 	end
@@ -96,7 +96,7 @@ function setTSLs()
 			local pPlayer = Players[iPlayer]
 			if not pPlayer then return end
 			local sCivilizationType = GameInfo.Civilizations[pPlayer:GetCivilizationType()].Type
-			local pTeam = Teams[pPlayer:GetTeam()] 
+			local pTeam = Teams[pPlayer:GetTeam()]
 			local currentTeamID = pTeam:GetID()
 
 			if iPlayer == 0 then
@@ -104,31 +104,31 @@ function setTSLs()
 					pTeam:SetHasTech(val, true)
 				end
 			end
-			
+
 			for i = 0, Map.GetNumPlots()-1, 1 do
 				local plot = Map.GetPlotByIndex(i);
 				local oldVisibility = plot:GetVisibilityCount(currentTeamID)
 
 				if oldVisibility > 0 then
-					plot:ChangeVisibilityCount(currentTeamID, -1, -1, true, true)			
+					plot:ChangeVisibilityCount(currentTeamID, -1, -1, true, true)
 					plot:SetRevealed(currentTeamID, false)
 					plot:UpdateFog()
 				end
 			end
 			Game.UpdateFOW(true);
 			UI.RequestMinimapBroadcast();
-			
+
 			if cbrxTSLs[sCivilizationType] then
-				for v in pPlayer:Units() do 
+				for v in pPlayer:Units() do
 					v:SetXY(cbrxTSLs[sCivilizationType].X, cbrxTSLs[sCivilizationType].Y)
 				end
 				if cbrxTSLs[sCivilizationType].O == "T" then
 					pTeam:SetHasTech(3, false)
 					pTeam:SetHasTech(9, false)
-					
+
 					local warrior = false
 					local worker = false
-					
+
 					for u in pPlayer:Units() do
 						if u:GetUnitType() == 83 and warrior == false then
 							local newTrireme = pPlayer:InitUnit(22, u:GetX(), u:GetY())
@@ -146,6 +146,7 @@ function setTSLs()
 			end
 			print(sCivilizationType)
 		end
-	end 
+	end
 end
 Events.SequenceGameInitComplete.Add(setTSLs)
+--setTSLs()
