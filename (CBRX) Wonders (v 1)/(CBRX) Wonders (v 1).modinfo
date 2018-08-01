@@ -145,7 +145,7 @@
     </OnModActivated>
   </Actions>
   <EntryPoints>
-    <EntryPoint type="InGameUIAddin" file="ParoTaktsang_Code,lua">
+    <EntryPoint type="InGameUIAddin" file="ParoTaktsang_Code.lua">
       <Name>ParoTaktsang</Name>
       <Description>ParoTaktsang</Description>
     </EntryPoint>
