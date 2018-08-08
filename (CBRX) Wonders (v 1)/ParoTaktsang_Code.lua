@@ -1,63 +1,46 @@
-print("Paro Taktsang Mountain Code (+1 culture and +1 faith on mountains) - CBRX Wonder Pack")
+WARN_NOT_SHARED = true; include( "SaveUtils" ); MY_MOD_NAME = "CBRX_Wonders_Paro";
+include("PlotIterators.lua")
 
-WARN_NOT_SHARED = false; include( "SaveUtils" ); MY_MOD_NAME = "CBRX_Wonders_Paro";
-
-local MountainsList = {}
 local yFaith = GameInfoTypes.YIELD_FAITH;
 local yCulture = GameInfoTypes.YIELD_CULTURE;
 local wonder = GameInfoTypes.BUILDING_TAKTSANG
-local wonderOwner = 0
 
-Events.SequenceGameInitComplete.Add(function()
-	for i = 0, Map:GetNumPlots() - 1, 1 do
-		local fPlot = Map.GetPlotByIndex( i );
-		if fPlot:IsMountain() then
-			if (fPlot:GetFeatureType() == -1) or (not GameInfo.Features[fPlot:GetFeatureType()].NaturalWonder) then
-				table.insert(MountainsList, fPlot)
+function findOwner(ownerId, cityId, buildingType, bGold, bFaithOrCulture)
+	local player 
+	print(buildingType)
+	if (wonder == buildingType) then
+		save("ParoTaktsang_owner", ownerId)
+		save("ParoTaktsang_Plot", Players[ownerId]:GetCityByID(cityId):Plot())
+		print("Saved owner of Paro Taktsang wonder, it's: " .. ownerId)
+	end
+end
+GameEvents.CityConstructed.Add(findOwner)
+
+function updateOwner(iOldOwner, bIsCapital, iX, iY, iNewOwner, iPop, bConquest)
+	if Map.GetPlot(iX, iY) == load("ParoTaktsang_Plot") then
+		
+	end
+end
+GameEvents.CityCaptureComplete.Add(updateOwner)
+
+
+function isUpdateNeeded(iPlayer)
+	if not iPlayer == load("ParoTaktsang_owner") then return end
+	local player = Players[iPlayer]
+	local numPlotsLastTurn = load("ParoTaktsang_plots") or 0
+	if player:GetNumPlots() ~= numPlotsLastTurn then
+		print("Found some new plots, time to run an update")
+		for city in player:Cities() do
+			for loopPlot in PlotAreaSpiralIterator(city:Plot(), 3, SECTOR_NORTH, DIRECTION_CLOCKWISE, DIRECTION_OUTWARDS, CENTRE_EXCLUDE) do
+				if loopPlot:IsMountain() then
+					Game.SetPlotExtraYield(loopPlot:GetX(), loopPlot:GetY(), yFaith, 1)
+					Game.SetPlotExtraYield(loopPlot:GetX(), loopPlot:GetY(), yCulture, 1)
+				end
 			end
 		end
 	end
-end)
-
-GameEvents.CityBoughtPlot.Add(function(ownerId, cityId, plotX, plotY, bGold, bFaithOrCulture)
-	MainHandler(ownerId)
-end)
-
-GameEvents.BuildFinished.Add(function(iPlayer, x, y, improID)
-	if GameInfo.Improvements[improID] then
-		if GameInfo.Improvements[improID].CultureBombRadius > 0 then
-			MainHandler(iPlayer)
-		end
-	end
-end)
-
-GameEvents.CityCaptureComplete.Add(function(iOldOwner, bIsCapital, iX, iY, iNewOwner, iPop, bConquest)
-	MainHandler(iNewOwner)
-	MainHandler(iOldOwner)
-end)
-
-GameEvents.PlayerCityFounded.Add(function(iPlayer, iCityX, iCityY)
-	MainHandler(iPlayer)
-end)
-
-function MainHandler(playerID)
-	local player = Players[playerID]
-	for city in player:Cities() do
-		if city:IsHasBuilding(wonder) then
-			wonderOwner = playerID
-			UpdateMountainYields()
-		end
-	end
+	save("ParoTaktsang_plots", player:GetNumPlots())
 end
+GameEvents.PlayerDoTurn.Add(isUpdateNeeded)
 
-function UpdateMountainYields()
-	for i, fPlot in pairs(MountainsList) do
-		if fPlot:GetOwner() == wonderOwner then
-			Game.SetPlotExtraYield(fPlot:GetX(), fPlot:GetY(), yFaith, 1)
-			Game.SetPlotExtraYield(fPlot:GetX(), fPlot:GetY(), yCulture, 1)
-		else
-			Game.SetPlotExtraYield(fPlot:GetX(), fPlot:GetY(), yFaith, 0)
-			Game.SetPlotExtraYield(fPlot:GetX(), fPlot:GetY(), yCulture, 0)
-		end
-	end
-end
+print("Paro Taktsang Mountain Code (+1 culture and +1 faith on mountains) - CBRX Wonder Pack")

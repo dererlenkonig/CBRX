@@ -128,10 +128,10 @@
     <File md5="62E77C5CCDB9A5E5FA109C6BD4045BD8" import="1">Art/Splashes/Taktsang_splash.dds</File>
     <File md5="D5C6E052CA9DB4EAEF4E6638DFAEDC12" import="1">Art/Splashes/Templo_splash.dds</File>
     <File md5="A2F55FD80DAC250E7660B2CC41BFFA64" import="1">Art/Splashes/Venice_splash.dds</File>
-    <File md5="0FF4C73ED8B4764B05AD936580B1DD57" import="0">ParoTaktsang_Code.lua</File>
+    <File md5="170E51C29C43C992BC57C9125207B3A4" import="0">ParoTaktsang_Code.lua</File>
     <File md5="0DDD7D5008ED49514BE4B6F426CEE70E" import="0">Wonders_BuildingClasses.xml</File>
     <File md5="269DCEF8C4C9C39FEFCCE6662E5CBEE1" import="0">Wonders_Buildings.xml</File>
-    <File md5="3DD9A9C079B324F0F7D93B98A12A0819" import="0">Wonders_EffectsFlavorsTechs.sql</File>
+    <File md5="2E3E8CB395C04E5BFB2616E2E09D46C2" import="0">Wonders_EffectsFlavorsTechs.sql</File>
     <File md5="BF6BB2CD7BB54C7CC3E7F39F76304A7F" import="0">Wonders_Text.xml</File>
     <File md5="AA4A73C41B230BE2EBD67B86DCC637C7" import="0">Wonders_Textures.xml</File>
   </Files>
@@ -144,10 +144,4 @@
       <UpdateDatabase>Wonders_Textures.xml</UpdateDatabase>
     </OnModActivated>
   </Actions>
-  <EntryPoints>
-    <EntryPoint type="InGameUIAddin" file="ParoTaktsang_Code.lua">
-      <Name>ParoTaktsang</Name>
-      <Description>ParoTaktsang</Description>
-    </EntryPoint>
-  </EntryPoints>
 </Mod>
