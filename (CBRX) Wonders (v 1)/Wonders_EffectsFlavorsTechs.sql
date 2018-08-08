@@ -91,8 +91,12 @@ INSERT INTO Building_FreeUnits
 VALUES 	('BUILDING_DOME', 	'UNIT_PROPHET', 1);
 		
 INSERT INTO Building_TerrainYieldChanges
-		(BuildingType, 			TerrainType, 	YieldType, 		Yield)
-VALUES 	('BUILDING_BANAUE', 	'TERRAIN_HILL', 'YIELD_FOOD', 	1);
+		(BuildingType, 			TerrainType, 			YieldType, 		Yield)
+VALUES 	('BUILDING_BANAUE', 	'TERRAIN_HILL', 		'YIELD_FOOD', 	1),
+		('BUILDING_TAKTSANG', 	'TERRAIN_MOUNTAIN', 	'YIELD_FAITH', 	1),
+		('BUILDING_TAKTSANG', 	'TERRAIN_MOUNTAIN', 	'YIELD_CULTURE', 1);
+
+
 		
 INSERT INTO Building_SpecialistYieldChanges
 		(BuildingType, SpecialistType, YieldType, Yield)

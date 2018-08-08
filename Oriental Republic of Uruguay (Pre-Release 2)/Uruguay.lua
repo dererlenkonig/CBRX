@@ -16,7 +16,7 @@ local MY_MOD_NAME = "OrientalUruguay";
 -- Modified from NewSaveUtils.lua
 --=======================================================================================================================
 
-print("Uruguay Beta 6 loading");
+print("Uruguay Pre 2.3 loading");
 
 gbLogSaveData = false;
 
@@ -638,9 +638,9 @@ function PartiesProcessTurn(iPlayer)
 			iParty = 0; 
 		end
 		if iParty == 0 then
-			print("B6: Party: Colorados, Turns in power: " .. iTimer);
+			print("Pre2.3: Party: Colorados, Turns in power: " .. iTimer);
 		else 
-			print("B6: Party: Blancos, Turns in power: " .. iTimer);
+			print("Pre2.3: Party: Blancos, Turns in power: " .. iTimer);
 		end
 		iTimer = iTimer + 1;
 		local iTurns = 30;
@@ -909,18 +909,21 @@ for i8 = 0, 6 do
 		break;
 	end
 end
-iBuildSettlerLimit = iBuildSettlerLimit + 3;
+iBuildSettlerLimit = iBuildSettlerLimit + 2;
 if iBuildSettlerLimit > 6 then
 	iBuildSecondSettlerLimit = iBuildSettlerLimit - 6;
 end
 print("Build limit set at " .. iBuildSettlerLimit .. " settlers");
 
 -- Prevents purchasing settlers if the number of active settlers is greater than a certain number, determined by map size.
+
+-- New in Pre2, also prevents purchasing if Uruguay's city count is both greater than 1.5 * iBuildSettlerLimit and greater than 1.5 * largest other civ's city count
 function GetShouldPurchaseSettlers(iPlayer) 
 	local pPlayer = Players[iPlayer];
 	local iTotalSettlers = 0;
+	local iPlayerCities = 0;
 	if pPlayer:IsAlive() then
-		
+		iPlayerCities = pPlayer:GetNumCities();
 		for pUnit in pPlayer:Units() do
 			if pUnit ~= nil and pUnit:GetUnitType() == GameInfoTypes.UNIT_SETTLER then
 				iTotalSettlers = iTotalSettlers + 1;
@@ -928,7 +931,37 @@ function GetShouldPurchaseSettlers(iPlayer)
 		end
 	end
 	print("Found " .. iTotalSettlers .. " settlers");
-	return iTotalSettlers <= 2 + (iBuildSettlerLimit - 3) / 3.1;
+	local iLargestCivCities = 0;
+	for playerID = 0, GameDefines.MAX_MAJOR_CIVS-1, 1 do
+		local pOtherPlayer = Players[playerID];
+		if pOtherPlayer:GetID() ~= iPlayer and pOtherPlayer:IsAlive() then
+			local iCities = pOtherPlayer:GetNumCities();
+			if iCities > iLargestCivCities then
+				iLargestCivCities = iCities;
+			end
+		end
+	end
+	local bRet = iTotalSettlers <= 1 + (iBuildSettlerLimit - 1) / 3.55 and not ((iPlayerCities > iLargestCivCities * 1.5 or iPlayerCities > iLargestCivCities + 5) and iPlayerCities >= iBuildSettlerLimit * 1.5);
+	local sRet = "";
+	if bRet then
+		sRet = "true";
+	else
+		sRet = "false";
+	end
+	local sThresh = "";
+	if (iTotalSettlers <= 1 + (iBuildSettlerLimit - 2) / 3.55) then
+		sThresh = "true";
+	else
+		sThresh = "false";
+	end
+	local sCity = "";
+	if ((iPlayerCities > iLargestCivCities * 1.5 or iPlayerCities > iLargestCivCities + 5) and iPlayerCities >= iBuildSettlerLimit * 1.5) then
+		sCity = "true";
+	else
+		sCity = "false";
+	end
+	print("Buy settler? " .. sRet .. ". Why? Less than active settler threshold? " .. sThresh .. ". Too many cities? " .. sCity .. ".");
+	return bRet;
 end
 
 

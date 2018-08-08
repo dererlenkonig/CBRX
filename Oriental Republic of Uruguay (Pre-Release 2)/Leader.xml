@@ -41,7 +41,7 @@
     <Row>
       <LeaderType>LEADER_LAVALLEJA</LeaderType>
       <MajorCivApproachType>MAJOR_CIV_APPROACH_DECEPTIVE</MajorCivApproachType>
-      <Bias>7</Bias>
+      <Bias>8</Bias>
     </Row>
     <Row>
       <LeaderType>LEADER_LAVALLEJA</LeaderType>
@@ -155,7 +155,7 @@
     <Row>
       <LeaderType>LEADER_LAVALLEJA</LeaderType>
       <FlavorType>FLAVOR_EXPANSION</FlavorType>
-      <Flavor>7</Flavor>
+      <Flavor>5</Flavor>
     </Row>
     <Row>
       <LeaderType>LEADER_LAVALLEJA</LeaderType>

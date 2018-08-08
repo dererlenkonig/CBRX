@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<Mod id="c36ef2aa-4952-47e5-a31b-6674419857e4" version="7">
+<Mod id="c36ef2aa-4952-47e5-a31b-6674419857e4" version="8">
   <Properties>
-    <Name>Oriental Republic of Uruguay (Pre-Release 1)</Name>
+    <Name>Oriental Republic of Uruguay (Pre-Release 2)</Name>
     <Teaser>Adds Uruguay to BNW.</Teaser>
     <Description>Adds Uruguay to BNW.</Description>
     <Authors>Technostar</Authors>
@@ -27,13 +27,13 @@
     <File md5="87D69560A6B59835530A03EBBF6F699D" import="0">DiplomacyResponses.xml</File>
     <File md5="4D2E22E39F620E410C82FA3D0F7B7A81" import="0">Buildings.xml</File>
     <File md5="51B3E5D62EFE3214A58EED9BC5297F76" import="1">LavallejaScene.dds</File>
-    <File md5="96C1FD78D259A45A40291FBBB1AE2176" import="0">Leader.xml</File>
+    <File md5="9B87E4249055B406F95FD9DD6B8557E0" import="0">Leader.xml</File>
     <File md5="8AA49640C8E1F977B24C056E2972623E" import="0">CascosAzules.xml</File>
     <File md5="51B3E5D62EFE3214A58EED9BC5297F76" import="1">LeaderScreen.dds</File>
     <File md5="37E594A9884317922B78E0C406C30A68" import="0">Orientales.xml</File>
     <File md5="50E4CE423551171940DB2FF5BC3F6550" import="0">Sukritact_ChangeResearchProgress.lua</File>
     <File md5="8A5FC22EB73A2C2106DE16D1A3E98AF2" import="0">Sukritact_SaveUtils.lua</File>
-    <File md5="143186E5A49196ED1862639F6AC96E6C" import="0">Uruguay.lua</File>
+    <File md5="195F9C22BD35C05290FB7797A2600D2F" import="0">Uruguay.lua</File>
     <File md5="F060D12FA73DA080E93E63C7CD83E379" import="0">Promotions.xml</File>
     <File md5="07BA441452E897B5F96F6A4DC6605C4D" import="0">Trait.xml</File>
     <File md5="894770AFB9EB30DE6DC6B5858794533F" import="0">Units.xml</File>
