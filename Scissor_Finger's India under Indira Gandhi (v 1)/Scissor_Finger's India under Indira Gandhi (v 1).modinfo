@@ -51,7 +51,7 @@
     <File md5="5754B1BE6E37A2F9D04D9D4149E5CDDF" import="1">LUA/Util/SaveUtils.lua</File>
     <File md5="8FDA3E79ABDBB907BEA7C6D02D7BE5C1" import="1">MUSIC/IndiraPeace.mp3</File>
     <File md5="6B111651C29565C2A19D83FF2E81B986" import="1">MUSIC/IndiraWar.mp3</File>
-    <File md5="DDFA3E755CF88F2841E4F1C4CAEFCC2D" import="0">SQL/Indira_ArtDefines.sql</File>
+    <File md5="57BE067C71398F9E64635F8BA2173C76" import="0">SQL/Indira_ArtDefines.sql</File>
     <File md5="1D240FEC281CF09E3D419707EF9AD1B4" import="0">SQL/Indira_GameDefines.sql</File>
     <File md5="577418B03E1913535B1DC03AD94115CE" import="0">SQL/Indira_MasterSupportFile.sql</File>
     <File md5="EF4033F4EEBDD0303D38F30A8533B403" import="0">XML/Buildings.xml</File>
